@@ -1,0 +1,263 @@
+{
+  "archiveChannels": [
+    {
+      "id": "1375556999257002185",
+      "name": "filter-loaders",
+      "code": "FL",
+      "path": "Archive/FL_filter-loaders",
+      "description": "Box loaders with filters on it, excluding crafters"
+    },
+    {
+      "id": "1375557143201316934",
+      "name": "accessible-loaders",
+      "code": "AL",
+      "path": "Archive/AL_accessible-loaders",
+      "description": "Box loaders where you can access the box it's loading"
+    },
+    {
+      "id": "1375557473066418206",
+      "name": "mixed-loaders",
+      "code": "ML",
+      "path": "Archive/ML_mixed-loaders",
+      "description": "Box loaders which load mixed item types"
+    },
+    {
+      "id": "1375557962675912865",
+      "name": "other-loaders",
+      "code": "OL",
+      "path": "Archive/OL_other-loaders",
+      "description": "Other box loaders (EG: CUD loaders)"
+    },
+    {
+      "id": "1375559535976124717",
+      "name": "first-item-box-sorters",
+      "code": "IBS",
+      "path": "Archive/IBS_first-item-box-sorters",
+      "description": "Sorts boxes by item type of the first item"
+    },
+    {
+      "id": "1375559651579527208",
+      "name": "fill-level-box-sorters",
+      "code": "FBS",
+      "path": "Archive/FBS_fill-level-box-sorters",
+      "description": "Devices that sort boxes by fill level"
+    },
+    {
+      "id": "1375560446676963450",
+      "name": "box-unloaders",
+      "code": "BU",
+      "path": "Archive/BU_box-unloaders",
+      "description": "Box unloaders"
+    },
+    {
+      "id": "1375560792665231450",
+      "name": "top-displays",
+      "code": "TD",
+      "path": "Archive/TD_top-displays",
+      "description": "Top box displays"
+    },
+    {
+      "id": "1375561551188328531",
+      "name": "bottom-displays",
+      "code": "BD",
+      "path": "Archive/BD_bottom-displays",
+      "description": "Bottom box displays"
+    },
+    {
+      "id": "1375561629378416740",
+      "name": "other-displays",
+      "code": "OD",
+      "path": "Archive/OD_other-displays",
+      "description": "Other box displays."
+    },
+    {
+      "id": "1375561810392125510",
+      "name": "chest-halls",
+      "code": "CH",
+      "path": "Archive/CH_chest-halls",
+      "description": "Chest halls"
+    },
+    {
+      "id": "1375562461276672042",
+      "name": "other-box-processors",
+      "code": "OBP",
+      "path": "Archive/OBP_other-box-processors",
+      "description": "Other box processors"
+    },
+    {
+      "id": "1375563020478058557",
+      "name": "dropper-transport",
+      "code": "DT",
+      "path": "Archive/DT_dropper-transport",
+      "description": "Dropper lines"
+    },
+    {
+      "id": "1375563169904459846",
+      "name": "water-transport",
+      "code": "WT",
+      "path": "Archive/WT_water-transport",
+      "description": "Waterstream tricks"
+    },
+    {
+      "id": "1375563297230688327",
+      "name": "cart-transport",
+      "code": "CT",
+      "path": "Archive/CT_cart-transport",
+      "description": "Minecarts"
+    },
+    {
+      "id": "1375563506765664388",
+      "name": "mixed-halls",
+      "code": "MH",
+      "path": "Archive/MH_mixed-halls",
+      "description": "Mixed/hybrid halls"
+    },
+    {
+      "id": "1375563999692849302",
+      "name": "item-type-filters",
+      "code": "IF",
+      "path": "Archive/IF_item-type-filters",
+      "description": "Item type filters"
+    },
+    {
+      "id": "1375564209882009772",
+      "name": "other-item-processors",
+      "code": "OIP",
+      "path": "Archive/OIP_other-item-processors",
+      "description": "Other item processors"
+    },
+    {
+      "id": "1375564342392786944",
+      "name": "unstackable-sorting",
+      "code": "US",
+      "path": "Archive/US_unstackable-sorting",
+      "description": "Unstackable sorting"
+    },
+    {
+      "id": "1375565403727724764",
+      "name": "box-display-halls",
+      "code": "DH",
+      "path": "Archive/DH_box-display-halls",
+      "description": "Bulk/display halls"
+    },
+    {
+      "id": "1375566804910604349",
+      "name": "mis-storages",
+      "code": "MIS",
+      "path": "Archive/MIS_mis-storages",
+      "description": "Multi item storages"
+    },
+    {
+      "id": "1375566849768558723",
+      "name": "medium-storages",
+      "code": "MS",
+      "path": "Archive/MS_medium-storages",
+      "description": "Medium size storages"
+    },
+    {
+      "id": "1375566903241740450",
+      "name": "large-storages",
+      "code": "LS",
+      "path": "Archive/LS_large-storages",
+      "description": "Large/full size storages"
+    },
+    {
+      "id": "1375567732866551918",
+      "name": "multi-item-filters",
+      "code": "MF",
+      "path": "Archive/MF_multi-item-filters",
+      "description": "Multi item filters"
+    },
+    {
+      "id": "1375568762304204912",
+      "name": "stack-separation",
+      "code": "SS",
+      "path": "Archive/SS_stack-separation",
+      "description": "Stack seperation"
+    },
+    {
+      "id": "1375569381781930006",
+      "name": "player-inputs",
+      "code": "PI",
+      "path": "Archive/PI_player-inputs",
+      "description": "Player input devices"
+    },
+    {
+      "id": "1375569870577467412",
+      "name": "parallel-unloader-arrays",
+      "code": "PU",
+      "path": "Archive/PU_parallel-unloader-arrays",
+      "description": "Parallel unloading arrays"
+    },
+    {
+      "id": "1375569954073477120",
+      "name": "variable-item-processing",
+      "code": "VIP",
+      "path": "Archive/VIP_variable-item-processing",
+      "description": "Variable item sorting"
+    },
+    {
+      "id": "1375570066451599401",
+      "name": "variable-box-processing",
+      "code": "VBS",
+      "path": "Archive/VBS_variable-box-processing",
+      "description": "Variable box sorting"
+    },
+    {
+      "id": "1375570570120527942",
+      "name": "crafter-loaders",
+      "code": "CL",
+      "path": "Archive/CL_crafter-loaders",
+      "description": "Box loaders with crafters in it"
+    },
+    {
+      "id": "1375570772348764392",
+      "name": "autocrafting",
+      "code": "AC",
+      "path": "Archive/AC_autocrafting",
+      "description": "Autocrafting"
+    },
+    {
+      "id": "1375570813591486525",
+      "name": "mass-crafters",
+      "code": "MC",
+      "path": "Archive/MC_mass-crafters",
+      "description": "Mass crafters"
+    },
+    {
+      "id": "1375570897263657042",
+      "name": "item-call",
+      "code": "IC",
+      "path": "Archive/IC_item-call",
+      "description": "Item call systems"
+    },
+    {
+      "id": "1375570984970752080",
+      "name": "mini-furnace-arrays",
+      "code": "FA",
+      "path": "Archive/FA_mini-furnace-arrays",
+      "description": "Furnace arrays"
+    },
+    {
+      "id": "1375571041174159430",
+      "name": "restock-stations",
+      "code": "RS",
+      "path": "Archive/RS_restock-stations",
+      "description": "Restock stations:"
+    },
+    {
+      "id": "1376069973910229052",
+      "name": "other-peripherals",
+      "code": "OP",
+      "path": "Archive/OP_other-peripherals",
+      "description": "Other peripherals"
+    },
+    {
+      "id": "1383890936488132689",
+      "name": "whitelister-box-sorters",
+      "code": "WBS",
+      "path": "Archive/WBS_whitelister-box-sorters",
+      "description": "Sorts boxes by checking if it contains a specific item type"
+    }
+  ]
+}
