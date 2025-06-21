@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1386092450900348988",
+    "sender": {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    },
+    "content": "**Double 2wt Minimal Prefill Filtered 4x Loader**\n\nTwo loaders right next to each other, allowing items to flow over the hoppers of both simultaneously, reducing item lifetime. Same setup procedure as above. Quickly stops an adjacent slice's clock when replacing a box, but this doesn't greatly affect loading speed.",
+    "attachments": [
+      {
+        "id": "1386092450254159892",
+        "name": "Double_Minimal_Prefill_4x.png",
+        "contentType": "image/png",
+        "url": "https://cdn.discordapp.com/attachments/1386092286982488115/1386092450254159892/Double_Minimal_Prefill_4x.png?ex=685872b0&is=68572130&hm=62c9ca7a30c7eb22853e56e8142404da2f6e216831e7790891e2bcd3d781ad57&",
+        "description": "Sent by andrews54757 at 6/21/2025, 5:16:32 PM",
+        "canDownload": true,
+        "path": "comments_attachments/1386092450254159892-double_minimal_prefill_4x.png"
+      },
+      {
+        "id": "1386092450577252512",
+        "name": "Double_Minimal_Prefill_4x.litematic",
+        "contentType": "unknown",
+        "url": "https://cdn.discordapp.com/attachments/1386092286982488115/1386092450577252512/Double_Minimal_Prefill_4x.litematic?ex=685872b0&is=68572130&hm=b65c0ea8bfdcfe30b3c706ff13c6786f9c0ac9cf35ef5ba4e9a6c8e6809a5428&",
+        "description": "Sent by andrews54757 at 6/21/2025, 5:16:32 PM",
+        "canDownload": true,
+        "litematic": {
+          "size": "19x10x12",
+          "version": "1.16"
+        },
+        "path": "comments_attachments/1386092450577252512-double_minimal_prefill_4x.litematic"
+      }
+    ],
+    "timestamp": 1750540593380
+  }
+]
