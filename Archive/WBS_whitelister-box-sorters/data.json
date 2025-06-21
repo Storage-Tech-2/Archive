@@ -1,0 +1,8 @@
+{
+  "id": "1383890936488132689",
+  "name": "whitelister-box-sorters",
+  "code": "WBS",
+  "description": "Sorts boxes by checking if it contains a specific item type",
+  "currentCodeId": 0,
+  "entries": []
+}
