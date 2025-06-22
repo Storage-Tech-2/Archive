@@ -1,0 +1,51 @@
+{
+  "id": "1386473729797652520",
+  "name": "Hopperspeed Auto Dropper Collection",
+  "code": "DT001",
+  "authors": [],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488487742046215",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789112375840830",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386473729978273833",
+      "name": "collage.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386473729797652520/1386473729978273833/collage.png?ex=6859d5c8&is=68588448&hm=5df60c1b8da839ba4bcf47e79de03a394ccbd40878eb9e2812872259fdfdc042&",
+      "description": "Sent by andrews54757 at 6/22/2025, 6:31:36 PM",
+      "canDownload": true,
+      "width": 717,
+      "height": 492,
+      "path": "images/collage.png"
+    }
+  ],
+  "attachments": [],
+  "description": "Automatic hopperspeed droppers. Images combined from https://imgur.com/a/1e3S81s",
+  "features": [],
+  "considerations": [],
+  "notes": "",
+  "timestamp": 1750631712294,
+  "post": {
+    "forumId": "1375563020478058557",
+    "threadId": "1386474636384145429",
+    "continuingMessageIds": [],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1386474636384145429",
+    "attachmentMessageId": "1386474641463181415"
+  }
+}
