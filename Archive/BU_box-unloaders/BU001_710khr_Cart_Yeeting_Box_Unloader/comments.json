@@ -1,0 +1,15 @@
+[
+  {
+    "id": "1386249253025878046",
+    "sender": {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    },
+    "content": "## Testing statistics (items/h, boxes/h)\n- Single item boxes (Worse case):  1.1k/h, boxes/h=1.8k\n- Hermitcraft set (Average case):  710k/h, boxes/h=750\n- Full single item type (Best case): 1.2mil/h, boxes/h=595\n\n- Empty boxes: 0/h, boxes/h=4.3k\n- Filled with unstackables: 20k/h, boxes/h=1.5k\n- 27 unique 64 stackables: 656k/h, boxes/h=363",
+    "attachments": [],
+    "timestamp": 1750577977243
+  }
+]

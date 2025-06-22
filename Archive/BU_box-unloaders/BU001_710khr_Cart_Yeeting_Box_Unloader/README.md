@@ -23,3 +23,16 @@ See thread for testing statistics
 
 ## Resources
 - [BU001_Stacked_Cart_Box_Unloader.litematic](attachments/BU001_Stacked_Cart_Box_Unloader.litematic): MC 1.20.1, Size 8x11x3 blocks
+
+## Comments
+
+### Andrews54757 (6/22/2025)
+## Testing statistics (items/h, boxes/h)
+- Single item boxes (Worse case):  1.1k/h, boxes/h=1.8k
+- Hermitcraft set (Average case):  710k/h, boxes/h=750
+- Full single item type (Best case): 1.2mil/h, boxes/h=595
+
+- Empty boxes: 0/h, boxes/h=4.3k
+- Filled with unstackables: 20k/h, boxes/h=1.5k
+- 27 unique 64 stackables: 656k/h, boxes/h=363
+
