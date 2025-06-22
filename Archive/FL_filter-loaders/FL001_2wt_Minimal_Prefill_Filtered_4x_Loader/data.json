@@ -1,6 +1,6 @@
 {
   "id": "1386091760710848542",
-  "name": "[Example] 2wt Minimal Prefill Filtered 4x Loader",
+  "name": "2wt Minimal Prefill Filtered 4x Loader",
   "code": "FL001",
   "authors": [
     {
@@ -79,7 +79,7 @@
     "An empty box needs to be put into the dispenser when first setting up"
   ],
   "notes": "You can find a different design suited for larger quantities of items in the thread.",
-  "timestamp": 1750557545372,
+  "timestamp": 1750557714845,
   "post": {
     "forumId": "1375556999257002185",
     "threadId": "1386163559670616125",

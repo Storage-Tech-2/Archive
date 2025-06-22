@@ -1,4 +1,4 @@
-# [Example] 2wt Minimal Prefill Filtered 4x Loader
+# 2wt Minimal Prefill Filtered 4x Loader
 <img alt="Minimal_Prefill_4x.png" src="images/Minimal_Prefill_4x.png?raw=1" height="300px">**Authors:** *金合欢酱(acaciachan),tuzier*
 **Endorsed by:** *Andrews54757*
 **Tags:** *Tested & Functional,8X Hopperspeed,4X Hopperspeed*
