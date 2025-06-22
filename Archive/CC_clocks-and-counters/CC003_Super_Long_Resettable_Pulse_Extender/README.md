@@ -1,0 +1,20 @@
+# Super Long Resettable Pulse Extender
+<img alt="area_render_25.png" src="images/area_render_25.png?raw=1" height="300px">
+
+**Authors:** *philgoodinator*
+
+**Endorsed by:** *Andrews54757*
+
+**Tags:** *Untested*
+
+Programmable length from 90s to about 15 hours. Doesn't use hoppers and mostly dustless except one dot. Kinda big (3x6x6).
+
+## Features
+- Programmable length from 90s to about 15 hours
+- Doesn't use hoppers and mostly dustless except one dot
+
+## Considerations
+- Kinda big (3x6x6)
+
+## Resources
+- [CC003_way_too_long_extender.litematic](attachments/CC003_way_too_long_extender.litematic): MC 1.18.2, Size 6x6x3 blocks
