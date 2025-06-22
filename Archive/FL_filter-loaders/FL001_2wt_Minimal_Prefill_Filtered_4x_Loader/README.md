@@ -26,6 +26,7 @@ You can find a different design suited for larger quantities of items in the thr
 
 Two loaders right next to each other, allowing items to flow over the hoppers of both simultaneously, reducing item lifetime. Same setup procedure as above. Quickly stops an adjacent slice's clock when replacing a box, but this doesn't greatly affect loading speed.
 <img alt="Double_Minimal_Prefill_4x.png" src="comments_attachments/1386092450254159892-double_minimal_prefill_4x.png?raw=1" height="150px">
+
 **Other attachments:**
 - [Double_Minimal_Prefill_4x.litematic](comments_attachments/1386092450577252512-double_minimal_prefill_4x.litematic?raw=1): unknown
 
