@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Tested & Functional, Recommended*
+**Tags:** *Recommended, Auto Replacement, Tested & Functional*
 
 Breaks the box with a piston that drops down from the top. Mainly meant for quad bulks.
 
