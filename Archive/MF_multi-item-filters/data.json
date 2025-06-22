@@ -2,7 +2,7 @@
   "id": "1375567732866551918",
   "name": "multi-item-filters",
   "code": "MF",
-  "description": "Multi item filters",
+  "description": "Multi item filters check if an item is part of a set of items in the same slice/device",
   "currentCodeId": 0,
   "entries": []
 }
