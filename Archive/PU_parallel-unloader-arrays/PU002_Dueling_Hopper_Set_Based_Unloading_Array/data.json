@@ -1,0 +1,135 @@
+{
+  "id": "1386487236257644634",
+  "name": "Dueling Hopper Set Based Unloading Array",
+  "code": "PU002",
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "660633169191632908",
+      "username": "etikle",
+      "iconURL": "https://cdn.discordapp.com/avatars/660633169191632908/194eb1a786a28d07166515b6a1711c05.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "707180327373897728",
+      "username": "rt5h31339",
+      "iconURL": "https://cdn.discordapp.com/avatars/707180327373897728/2d0235dc0a1b569d25cbdaa6b753cdb3.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "727730797049806898",
+      "username": "sskyzy",
+      "iconURL": "https://cdn.discordapp.com/avatars/727730797049806898/00d0b08b860ed57fbd2c228943b0de07.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "1159969623496740916",
+      "username": "8as1l",
+      "iconURL": "https://cdn.discordapp.com/avatars/1159969623496740916/7d8b24f15f6c669bce6b38cb9ead4f98.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488516309450759",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789149834907711",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386487237071470644",
+      "name": "SS2_render.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386487236257644634/1386487237071470644/SS2_render.png?ex=6859e25d&is=685890dd&hm=b2dc27092d08aceee1370b9377e464136d93d4842ebb9859c984f745437bc0ad&",
+      "description": "Sent by andrews54757 at 6/22/2025, 7:25:16 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 681,
+      "path": "images/SS2_render.png"
+    },
+    {
+      "id": "1386487237490905169",
+      "name": "SS3_render.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386487236257644634/1386487237490905169/SS3_render.png?ex=6859e25d&is=685890dd&hm=77ab00f5634cd4080273e0ccc535cc2f956072594f932d9619e9610d50915f6a&",
+      "description": "Sent by andrews54757 at 6/22/2025, 7:25:16 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 681,
+      "path": "images/SS3_render.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386487237817925652",
+      "name": "PU002_Set_Based_Unloader_SS2_133.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386487236257644634/1386487237817925652/Set_Based_Unloader_SS2_1.3.3.litematic?ex=6859e25d&is=685890dd&hm=623e2dcf4ec7b919c4a9fa1d835ebee509820f45c0f7b31e0a2a3330d0e286bd&",
+      "description": "Sent by andrews54757 at 6/22/2025, 7:25:16 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "14x17x27",
+        "version": "1.20.1"
+      },
+      "path": "attachments/PU002_Set_Based_Unloader_SS2_133.litematic"
+    },
+    {
+      "id": "1386487238145212516",
+      "name": "PU002_Set_Based_Unloader_SS3_133.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386487236257644634/1386487238145212516/Set_Based_Unloader_SS3_1.3.3.litematic?ex=6859e25d&is=685890dd&hm=28906e7e018916ab472c0613088e569ec32d9a5facf8279c209d3d0dd5c3f18a&",
+      "description": "Sent by andrews54757 at 6/22/2025, 7:25:16 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "14x17x27",
+        "version": "1.20.1"
+      },
+      "path": "attachments/PU002_Set_Based_Unloader_SS3_133.litematic"
+    },
+    {
+      "id": "1386487238463983616",
+      "name": "PU002_Set_Based_Unloader_SS3_133_19.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386487236257644634/1386487238463983616/Set_Based_Unloader_SS3_1.3.3_19.litematic?ex=6859e25d&is=685890dd&hm=3fb90d659e785ae3fd41ee0ebb1c5966251adc876bb4854fd4ac7fae553e7c7f&",
+      "description": "Sent by andrews54757 at 6/22/2025, 7:25:16 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "14x17x27",
+        "version": "1.20.1"
+      },
+      "path": "attachments/PU002_Set_Based_Unloader_SS3_133_19.litematic"
+    }
+  ],
+  "description": "This contraption in meant to speed up your sorting process by unloading multiple boxes simultaneously. It uses a small list (set) that knows which items are being unloaded and therefore knows which not to unload in order not to surpass the hopper speed threshold.",
+  "features": [
+    "Fully Hopper Locked",
+    "16 slices with a maximum unloading speed of 144000 items/h",
+    "Pause mode which stops the unloader completely in less than 30s *(idk if this number is right) *",
+    "Stack size dependent batching system (originally introduced by <@164989359148367873>) for ss2, which stacks 64 stackable to 41 and 16 stackable 13/14. Regular batching system for ss3 version which stacks all items to 5.",
+    "Small footprint (26x17x13)",
+    "20gt global clock",
+    "Dueling hoppers instead of filters to reduce filter items usage in unloading array"
+  ],
+  "considerations": [],
+  "notes": "",
+  "timestamp": 1750635588529,
+  "post": {
+    "forumId": "1375569870577467412",
+    "threadId": "1386490900317999225",
+    "continuingMessageIds": [],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1386490900317999225",
+    "attachmentMessageId": "1386490904919015474"
+  }
+}

@@ -3,7 +3,7 @@
   "name": "parallel-unloader-arrays",
   "code": "PU",
   "description": "Parallel unloading arrays",
-  "currentCodeId": 1,
+  "currentCodeId": 2,
   "entries": [
     {
       "id": "1386458979843969024",
@@ -11,6 +11,13 @@
       "code": "PU001",
       "timestamp": 1750628874967,
       "path": "PU001_Simple_parallel_unloader"
+    },
+    {
+      "id": "1386487236257644634",
+      "name": "Dueling Hopper Set Based Unloading Array",
+      "code": "PU002",
+      "timestamp": 1750635588529,
+      "path": "PU002_Dueling_Hopper_Set_Based_Unloading_Array"
     }
   ]
 }
