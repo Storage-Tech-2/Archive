@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *1X Hopperspeed, Guide*
+**Tags:** *Guide, 1X Hopperspeed, Recommended*
 
 The top-most hopper will only suck items that have a certain item type at hopperspeed (1 item/8gt or 2.5 items/sec). Two variants are common: Signal Strength 2 (SS2) and Signal Strength 3 (SS3) filters.
 
