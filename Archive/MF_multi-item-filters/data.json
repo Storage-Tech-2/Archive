@@ -3,6 +3,14 @@
   "name": "multi-item-filters",
   "code": "MF",
   "description": "Multi item filters check if an item is part of a set of items in the same slice/device",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1386481104873197688",
+      "name": "2wABt MIS V5 (\"Moony MIS\")",
+      "code": "MF001",
+      "timestamp": 1750633439647,
+      "path": "MF001_2wABt_MIS_V5_Moony_MIS"
+    }
+  ]
 }
