@@ -1,0 +1,102 @@
+{
+  "id": "1386227823450132604",
+  "name": "Compact Categorizer",
+  "code": "MIS001",
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "319513337941721089",
+      "username": "inspectortalon",
+      "iconURL": "https://cdn.discordapp.com/avatars/319513337941721089/edec0da88a70e9697b6b43b4a2d740e3.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "242784689910317066",
+      "username": "metamilo",
+      "iconURL": "https://cdn.discordapp.com/avatars/242784689910317066/14489c2530c8184f96b0197518255c73.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488504204562639",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789132869079192",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386227882388488322",
+      "name": "compact.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386227823450132604/1386227882388488322/compact.png?ex=6858f0d2&is=68579f52&hm=d645e353461046fdc45372e59ffdfcaef3c837a47a0681b476a0e1b618bb2509&",
+      "description": "Sent by andrews54757 at 6/22/2025, 2:14:42 AM",
+      "canDownload": true,
+      "width": 506,
+      "height": 417,
+      "path": "images/compact.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386227882715516948",
+      "name": "MIS001_Compact_Categorizer.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386227823450132604/1386227882715516948/Compact_Categorizer.litematic?ex=6858f0d2&is=68579f52&hm=3ea361c2e6c570eddb63300e1943b10f08775323d0a4e62fbb4d2bc57c9c1dbe&",
+      "description": "Sent by andrews54757 at 6/22/2025, 2:14:42 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "27x18x17",
+        "version": "1.20.1"
+      },
+      "path": "attachments/MIS001_Compact_Categorizer.litematic"
+    },
+    {
+      "id": "1386227883042799807",
+      "name": "MIS001_Compact_Categorizer_World.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1386227823450132604/1386227883042799807/Compact_Categorizer_World.zip?ex=6858f0d2&is=68579f52&hm=35db32a373ffd15eab2d1c71300f081b470332a8029e24470c1e51e69c3e8408&",
+      "description": "Sent by andrews54757 at 6/22/2025, 2:14:42 AM",
+      "canDownload": true,
+      "path": "attachments/MIS001_Compact_Categorizer_World.zip"
+    }
+  ],
+  "description": "A simple storage system intended as a main MIS (multi-item sorter) for the typical survival Minecraft player.",
+  "features": [
+    "Sorts at ~½-⅔ hopperspeed (~4500-6000/h).",
+    "Includes hopperlocked and chunk loading variants.",
+    "Lower relative build complexity and cost.",
+    "Highly resilient to game updates (only the input system might need updates in extreme cases).",
+    "Capable of handling all stackable items.",
+    "Efficiently processes full item stacks.",
+    "Built-in overflow protection and processing.",
+    "Resistant to unloading breakages.",
+    "Sturdy against misuse or malfunction.",
+    "Extremely lag efficient."
+  ],
+  "considerations": [
+    "Lacks parallelization, which affects speed.",
+    "Limited sortable item types per slice.",
+    "No unstackable handling"
+  ],
+  "notes": "For further questions, see [Compact Categorizer Help Thread](https://discord.com/channels/748542142347083868/1291785785707856026) on [Storage Tech Discord](<https://discord.gg/JufJ6uf>).",
+  "timestamp": 1750573599364,
+  "post": {
+    "forumId": "1375566804910604349",
+    "threadId": "1386230896465805375",
+    "continuingMessageIds": [],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1386230896465805375",
+    "attachmentMessageId": "1386230901649703034"
+  }
+}

@@ -3,6 +3,14 @@
   "name": "mis-storages",
   "code": "MIS",
   "description": "Multi item storages",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1386227823450132604",
+      "name": "Compact Categorizer",
+      "code": "MIS001",
+      "timestamp": 1750573599364,
+      "path": "MIS001_Compact_Categorizer"
+    }
+  ]
 }

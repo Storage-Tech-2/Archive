@@ -1,0 +1,34 @@
+# Compact Categorizer
+<img alt="compact.png" src="images/compact.png?raw=1" height="300px">
+
+**Authors:** *inspectortalon, metamilo*
+
+**Endorsed by:** *Andrews54757*
+
+**Tags:** *Tested & Functional, Recommended*
+
+A simple storage system intended as a main MIS (multi-item sorter) for the typical survival Minecraft player.
+
+## Features
+- Sorts at ~½-⅔ hopperspeed (~4500-6000/h).
+- Includes hopperlocked and chunk loading variants.
+- Lower relative build complexity and cost.
+- Highly resilient to game updates (only the input system might need updates in extreme cases).
+- Capable of handling all stackable items.
+- Efficiently processes full item stacks.
+- Built-in overflow protection and processing.
+- Resistant to unloading breakages.
+- Sturdy against misuse or malfunction.
+- Extremely lag efficient.
+
+## Considerations
+- Lacks parallelization, which affects speed.
+- Limited sortable item types per slice.
+- No unstackable handling
+
+## Notes
+For further questions, see [Compact Categorizer Help Thread](https://discord.com/channels/748542142347083868/1291785785707856026) on [Storage Tech Discord](<https://discord.gg/JufJ6uf>).
+
+## Resources
+- [MIS001_Compact_Categorizer.litematic](attachments/MIS001_Compact_Categorizer.litematic): MC 1.20.1, Size 27x18x17 blocks
+- [MIS001_Compact_Categorizer_World.zip](attachments/MIS001_Compact_Categorizer_World.zip): application/zip
