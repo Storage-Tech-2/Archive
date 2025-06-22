@@ -21,7 +21,7 @@ Filters then loads items into boxes at 4x hopperspeed. Only requires prefilling 
 You can find a different design suited for larger quantities of items in the thread.
 
 ## Resources
-- [FL001_Minimal_Prefill_4x.litematic](attachments/FL001_Minimal_Prefill_4x.litematic?raw=1): MC 1.16, Size 4x10x14 blocks
+- [FL001_Minimal_Prefill_4x.litematic](attachments/FL001_Minimal_Prefill_4x.litematic): MC 1.16, Size 4x10x14 blocks
 
 ## Comments
 
@@ -32,5 +32,5 @@ Two loaders right next to each other, allowing items to flow over the hoppers of
 <img alt="Double_Minimal_Prefill_4x.png" src="comments_attachments/1386092450254159892-double_minimal_prefill_4x.png?raw=1" height="150px">
 
 **Other attachments:**
-- [Double_Minimal_Prefill_4x.litematic](comments_attachments/1386092450577252512-double_minimal_prefill_4x.litematic?raw=1): MC 1.16, Size 19x10x12 blocks
+- [Double_Minimal_Prefill_4x.litematic](comments_attachments/1386092450577252512-double_minimal_prefill_4x.litematic): MC 1.16, Size 19x10x12 blocks
 
