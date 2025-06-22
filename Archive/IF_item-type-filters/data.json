@@ -2,7 +2,7 @@
   "id": "1375563999692849302",
   "name": "item-type-filters",
   "code": "IF",
-  "description": "Item type filters",
+  "description": "Item type filters which work by the mechanic of like items being combinable",
   "currentCodeId": 1,
   "entries": [
     {
