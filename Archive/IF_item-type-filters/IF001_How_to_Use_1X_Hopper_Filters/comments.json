@@ -21,18 +21,5 @@
       }
     ],
     "timestamp": 1750576786409
-  },
-  {
-    "id": "1386494699476357211",
-    "sender": {
-      "type": "discord-in-guild",
-      "id": "239078039831445504",
-      "username": "andrews54757",
-      "displayName": "Andrews54757",
-      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
-    },
-    "content": "j",
-    "attachments": [],
-    "timestamp": 1750636496256
   }
 ]
