@@ -3,6 +3,14 @@
   "name": "stack-separation",
   "code": "SS",
   "description": "Stack separation uses item entity separators to sort up to one full stack at a time",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1386475805760163943",
+      "name": "Stack Separation Sorter-Loader v3",
+      "code": "SS001",
+      "timestamp": 1750632137598,
+      "path": "SS001_Stack_Separation_Sorter-Loader_v3"
+    }
+  ]
 }

@@ -1,0 +1,80 @@
+{
+  "id": "1386475805760163943",
+  "name": "Stack Separation Sorter-Loader v3",
+  "code": "SS001",
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "323515840236486659",
+      "username": "kikugie",
+      "iconURL": "https://cdn.discordapp.com/avatars/323515840236486659/fa3cbf8851082f9c09921cd682de89d4.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488512379518984",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789144063807591",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386475806288773254",
+      "name": "area_render_33_1.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386475805760163943/1386475806288773254/area_render_33_1.png?ex=6859d7b7&is=68588637&hm=ed7edf704401559a80ce0868b2fc10f4fa2655d6e30d31ba0af1d87adef7942d&",
+      "description": "Sent by andrews54757 at 6/22/2025, 6:39:51 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 659,
+      "path": "images/area_render_33_1.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386475806565335070",
+      "name": "SS001_Stack_Separation_Sorter-Loader_v31.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386475805760163943/1386475806565335070/Stack_Separation_Sorter-Loader_v3.1.litematic?ex=6859d7b7&is=68588637&hm=3cd2748df8f9d1c6fe804bb1e84752f069ebd8dfcb90bc693c9bedee7ddff646&",
+      "description": "Sent by andrews54757 at 6/22/2025, 6:39:51 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "43x29x32",
+        "version": "1.17"
+      },
+      "path": "attachments/SS001_Stack_Separation_Sorter-Loader_v31.litematic"
+    }
+  ],
+  "description": "Uses stack separation to filter entire stack of items at once. Each of the 3wt modules loads sorted items into shulker boxes at 8x hopperspeed.",
+  "features": [
+    "8830 stacks/h core (up to 565k items/hr)",
+    "72k/h loaders per slice",
+    "Distributive loading functionality",
+    "Pause on slice overflow",
+    "Partial box collection"
+  ],
+  "considerations": [
+    "Doesn't include storage and unsorted handling."
+  ],
+  "notes": "If you want to use multiple slices to load same item type, use 'multi-slice-loading-slice', with last in line being normal 'base' slice. Additional credits: RaPsCaLLioN1138 for stacksep core, camphorwood for 3wt 8x loader.",
+  "timestamp": 1750632137598,
+  "post": {
+    "forumId": "1375568762304204912",
+    "threadId": "1386476421047648316",
+    "continuingMessageIds": [],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1386476421047648316",
+    "attachmentMessageId": "1386476426290659389"
+  }
+}
