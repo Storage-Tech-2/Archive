@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *10 Chests, Tested & Functional*
+**Tags:** *Recommended, Tested & Functional, 10 Chests*
 
 10 chests per slice hall using the TIS layout.
 
