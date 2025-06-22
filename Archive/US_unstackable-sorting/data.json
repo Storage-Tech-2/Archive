@@ -2,7 +2,7 @@
   "id": "1375564342392786944",
   "name": "unstackable-sorting",
   "code": "US",
-  "description": "Unstackable sorting",
+  "description": "Sort unstackable items by its type, typically by exploiting unique interactions with that item",
   "currentCodeId": 0,
   "entries": []
 }
