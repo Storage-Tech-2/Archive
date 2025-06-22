@@ -17,3 +17,12 @@ The top-most hopper will only suck items that have a certain item type at hopper
 
 ## Resources
 - [IF001_basic_fixed_filters.litematic](attachments/IF001_basic_fixed_filters.litematic): MC 1.21.4, Size 1x4x12 blocks
+
+## Comments
+
+### Andrews54757 (6/22/2025)
+Draw.io file
+
+**Other attachments:**
+- [filters.drawio](comments_attachments/1386244256024498196-filters.drawio): unknown
+
