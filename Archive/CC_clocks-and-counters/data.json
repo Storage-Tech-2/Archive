@@ -3,7 +3,7 @@
   "name": "clocks-and-counters",
   "code": "CC",
   "description": "Clocks and counter devices",
-  "currentCodeId": 3,
+  "currentCodeId": 4,
   "entries": [
     {
       "id": "1386445858706559037",
@@ -25,6 +25,13 @@
       "code": "CC003",
       "timestamp": 1750626219501,
       "path": "CC003_Super_Long_Resettable_Pulse_Extender"
+    },
+    {
+      "id": "1386453434559107284",
+      "name": "3w Long Duration Pulse Extenders",
+      "code": "CC004",
+      "timestamp": 1750626744139,
+      "path": "CC004_3w_Long_Duration_Pulse_Extenders"
     }
   ]
 }
