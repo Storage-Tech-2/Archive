@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Tested & Functional, Recommended*
+**Tags:** *Recommended, Tested & Functional*
 
 Automatically sets filters based on what items come to each slice first, and loads them into single-type boxes. All filters are simultaneously reset when item stream stops.
 
