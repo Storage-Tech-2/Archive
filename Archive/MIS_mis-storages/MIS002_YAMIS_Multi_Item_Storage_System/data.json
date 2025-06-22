@@ -1,0 +1,144 @@
+{
+  "id": "1386458263301918762",
+  "name": "YAMIS Multi Item Storage System",
+  "code": "MIS002",
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "660633169191632908",
+      "username": "etikle",
+      "iconURL": "https://cdn.discordapp.com/avatars/660633169191632908/194eb1a786a28d07166515b6a1711c05.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "727730797049806898",
+      "username": "sskyzy",
+      "iconURL": "https://cdn.discordapp.com/avatars/727730797049806898/00d0b08b860ed57fbd2c228943b0de07.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "531601171211878431",
+      "username": "rapscallion1138",
+      "iconURL": "https://cdn.discordapp.com/avatars/531601171211878431/8db107ef61024878a05baab3a798d7d5.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "319513337941721089",
+      "username": "inspectortalon",
+      "iconURL": "https://cdn.discordapp.com/avatars/319513337941721089/edec0da88a70e9697b6b43b4a2d740e3.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "381396930212921355",
+      "displayName": "CommandLeo",
+      "username": "commandleo",
+      "iconURL": "https://cdn.discordapp.com/avatars/381396930212921355/cb1dcc76d3f6a30dddc49e6d9e96681a.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "719903397171560559",
+      "username": "pyraleftt",
+      "iconURL": "https://cdn.discordapp.com/avatars/719903397171560559/a5c106335c11c2412d29ce3537f0616a.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "114896993654013958",
+      "username": "datnerd",
+      "iconURL": "https://cdn.discordapp.com/avatars/114896993654013958/d4cec89664bba88100de2df0c32c44eb.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "611466971371929602",
+      "username": "coltzy",
+      "iconURL": "https://cdn.discordapp.com/avatars/611466971371929602/4d979dd9c4aad8c33d83992ba4003ce0.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488504204562637",
+      "name": "Untested"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386458265897930975",
+      "name": "area_render_101_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386458263301918762/1386458265897930975/area_render_101_.png?ex=6859c761&is=685875e1&hm=1a7da34dbe6509a18a684fa9b179eabe987d0936e7d6db4d8861614b0dcf2061&",
+      "description": "Sent by andrews54757 at 6/22/2025, 5:30:09 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 454,
+      "path": "images/area_render_101_.png"
+    },
+    {
+      "id": "1386458266325745734",
+      "name": "uiimage.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386458263301918762/1386458266325745734/uiimage.png?ex=6859c761&is=685875e1&hm=835a36cedb2aa80e9123e9c7cdec4d64fc2eb127eb05d1dfa4458c4328c22ffa&",
+      "description": "Sent by andrews54757 at 6/22/2025, 5:30:09 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 450,
+      "path": "images/uiimage.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386458266627870853",
+      "name": "MIS002_YAMIS_V101.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386458263301918762/1386458266627870853/YAMIS_V1.01.litematic?ex=6859c761&is=685875e1&hm=e73a49ac4774cb1740f3f0f791f32774bcf52d45e79461e3b9a48d4286e87925&",
+      "description": "Sent by andrews54757 at 6/22/2025, 5:30:09 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "29x21x49",
+        "version": "1.20.1"
+      },
+      "path": "attachments/MIS002_YAMIS_V101.litematic"
+    },
+    {
+      "id": "1386458266959089717",
+      "name": "MIS002_YAMIS_V101.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1386458263301918762/1386458266959089717/YAMIS_V1.01.zip?ex=6859c761&is=685875e1&hm=eccf08bd013589b8b15cf5f673284e0694627a613fc052fbd166c71acf406400&",
+      "description": "Sent by andrews54757 at 6/22/2025, 5:30:09 PM",
+      "canDownload": true,
+      "path": "attachments/MIS002_YAMIS_V101.zip"
+    }
+  ],
+  "description": "A simple MIS-based storage system using NoisyMIS and a small bulk.",
+  "features": [
+    "1182 hoppers, 100% locked*",
+    "32 MIS Categories, 64 Bulk Items",
+    "Sorts at just under hopperspeed",
+    "4.5dc per category MIS capacity",
+    "263k per item type bulk capacity",
+    "Callable box loaders",
+    "Automated empty box distribution",
+    "Only requires 1 chunkloader with correct chunk alignment",
+    "Detailed status output lamps",
+    "Pause feature"
+  ],
+  "considerations": [
+    "Chunkloader does not work on specifically 1.21.5"
+  ],
+  "notes": "Make sure the black rectangle at the bottom is entirely in one chunk. WDL includes both a version with the item layout, and a version with no filters set. The schematic only has the one with the item layout. Direct questions to https://discord.com/channels/748542142347083868/1275462763791126558",
+  "timestamp": 1750628486444,
+  "post": {
+    "forumId": "1375566804910604349",
+    "threadId": "1386461123435298867",
+    "continuingMessageIds": [],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1386461123435298867",
+    "attachmentMessageId": "1386461127847706645"
+  }
+}
