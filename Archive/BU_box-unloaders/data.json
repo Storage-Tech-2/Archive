@@ -3,7 +3,7 @@
   "name": "box-unloaders",
   "code": "BU",
   "description": "Box unloaders",
-  "currentCodeId": 1,
+  "currentCodeId": 2,
   "entries": [
     {
       "id": "1386246487452942437",
@@ -11,6 +11,13 @@
       "code": "BU001",
       "timestamp": 1750577956872,
       "path": "BU001_710khr_Cart_Yeeting_Box_Unloader"
+    },
+    {
+      "id": "1386456499231916093",
+      "name": "1wt 2x Unloader",
+      "code": "BU002",
+      "timestamp": 1750627612893,
+      "path": "BU002_1wt_2x_Unloader"
     }
   ]
 }

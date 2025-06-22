@@ -1,0 +1,80 @@
+{
+  "id": "1386456499231916093",
+  "name": "1wt 2x Unloader",
+  "code": "BU002",
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "656864003242328064",
+      "username": "acaciachan",
+      "displayName": "金合欢酱(acaciachan)",
+      "iconURL": "https://cdn.discordapp.com/avatars/656864003242328064/65e1c203d9ea0af6509f0754122b45a2.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488474148438035",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1386456749208502432",
+      "name": "2X Hopperspeed"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386456560774942923",
+      "name": "area_render_59_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386456499231916093/1386456560774942923/area_render_59_.png?ex=6859c5cb&is=6858744b&hm=2f3bb78515f1740d6a1775a32b3c68ed67af40cbdfa7658512e418eae9096a5b&",
+      "description": "Sent by andrews54757 at 6/22/2025, 5:23:23 PM",
+      "canDownload": true,
+      "width": 478,
+      "height": 762,
+      "path": "images/area_render_59_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386456499756208138",
+      "name": "BU002_2x_unloader.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386456499231916093/1386456499756208138/2x_unloader.litematic?ex=6859c5bc&is=6858743c&hm=494a0346a50ee007cd51f81261d0249f0cd8b27139c7adc8df8a1da12b5d7e83&",
+      "description": "Sent by andrews54757 at 6/22/2025, 5:23:08 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "1x8x5",
+        "version": "1.20.4"
+      },
+      "path": "attachments/BU002_2x_unloader.litematic"
+    }
+  ],
+  "description": "Unloads boxes at 2X hopperspeed (18000 items/hr).",
+  "features": [
+    "2X Hopperspeed",
+    "Tileable",
+    "16gt interval per box for continuous input",
+    "No toggle states"
+  ],
+  "considerations": [
+    "Uses a static cart in each slice"
+  ],
+  "notes": "If you don't continuously lock the hopper(&cart) under the box, when there is no box unloading in this slice, the adjacent slice box may get into it when breaking box.",
+  "timestamp": 1750627612893,
+  "post": {
+    "forumId": "1375560446676963450",
+    "threadId": "1386457441813926072",
+    "continuingMessageIds": [],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1386457441813926072",
+    "attachmentMessageId": "1386457445563498688"
+  }
+}
