@@ -3,6 +3,14 @@
   "name": "accessible-loaders",
   "code": "AL",
   "description": "Box loaders where you can access the box it's loading",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1386250599326285874",
+      "name": "Bottom-Accessible Shulker Loader",
+      "code": "AL001",
+      "timestamp": 1750578449031,
+      "path": "AL001_Bottom-Accessible_Shulker_Loader"
+    }
+  ]
 }

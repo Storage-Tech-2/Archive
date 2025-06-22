@@ -1,0 +1,78 @@
+{
+  "id": "1386250599326285874",
+  "name": "Bottom-Accessible Shulker Loader",
+  "code": "AL001",
+  "authors": [
+    {
+      "type": "unknown",
+      "username": "vktec"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488464648208442",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789083279822881",
+      "name": "Recommended"
+    },
+    {
+      "id": "1386251077854298192",
+      "name": "Tileable"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386250600123207751",
+      "name": "unknown.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386250599326285874/1386250600123207751/unknown.png?ex=685905fa&is=6857b47a&hm=cd145eb688f44f8b9030df24f2c505088a368b1feb53b2077b85fdd0c6b54a69&",
+      "description": "Sent by andrews54757 at 6/22/2025, 3:44:58 AM",
+      "canDownload": true,
+      "width": 800,
+      "height": 675,
+      "path": "images/unknown.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386250599699316736",
+      "name": "AL001_accessible_shulker_loader.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386250599326285874/1386250599699316736/accessible_shulker_loader.litematic?ex=685905fa&is=6857b47a&hm=ef2f141cbb45f17b1c0e4ee8570717756f3711b624a9ac37039236baea7b8a3f&",
+      "description": "Sent by andrews54757 at 6/22/2025, 3:44:58 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "1x6x7",
+        "version": "1.16.5"
+      },
+      "path": "attachments/AL001_accessible_shulker_loader.litematic"
+    }
+  ],
+  "description": "Single hopper-speed loader with easy access to the box and most of the redstone away from the access side.",
+  "features": [
+    "One wide tileable",
+    "slice preserving",
+    "100% reliable collection"
+  ],
+  "considerations": [],
+  "notes": "Alternate honey and slime to tile.",
+  "timestamp": 1750578449031,
+  "post": {
+    "forumId": "1375557143201316934",
+    "threadId": "1386251234003914792",
+    "continuingMessageIds": [],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1386251234003914792",
+    "attachmentMessageId": "1386251236797317180"
+  }
+}
