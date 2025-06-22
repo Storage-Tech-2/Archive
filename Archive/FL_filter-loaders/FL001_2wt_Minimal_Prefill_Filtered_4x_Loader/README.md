@@ -22,3 +22,15 @@ You can find a different design suited for larger quantities of items in the thr
 
 ## Resources
 - [FL001_Minimal_Prefill_4x.litematic](attachments/FL001_Minimal_Prefill_4x.litematic): MC 1.16, Size 4x10x14 blocks
+
+## Comments
+
+### Andrews54757 (6/22/2025)
+**Double 2wt Minimal Prefill Filtered 4x Loader**
+
+Two loaders right next to each other, allowing items to flow over the hoppers of both simultaneously, reducing item lifetime. Same setup procedure as above. Quickly stops an adjacent slice's clock when replacing a box, but this doesn't greatly affect loading speed.
+<img alt="Double_Minimal_Prefill_4x.png" src="comments_attachments/1386195281607131178-double_minimal_prefill_4x.png?raw=1" height="150px">
+
+**Other attachments:**
+- [Double_Minimal_Prefill_4x.litematic](comments_attachments/1386195282030629047-double_minimal_prefill_4x.litematic): MC 1.16, Size 19x10x12 blocks
+
