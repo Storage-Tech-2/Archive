@@ -2,7 +2,7 @@
   "id": "1375568762304204912",
   "name": "stack-separation",
   "code": "SS",
-  "description": "Stack seperation",
+  "description": "Stack separation uses item entity separators to sort up to one full stack at a time",
   "currentCodeId": 0,
   "entries": []
 }
