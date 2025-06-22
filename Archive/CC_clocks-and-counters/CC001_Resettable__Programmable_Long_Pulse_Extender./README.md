@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Tested & Functional, Recommended*
+**Tags:** *Recommended, Pulse Extenders, Tested & Functional*
 
 Max duration of 13368gt (668,4s; 11,14m)
 
