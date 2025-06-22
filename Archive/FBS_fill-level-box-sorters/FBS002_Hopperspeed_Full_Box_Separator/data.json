@@ -1,0 +1,102 @@
+{
+  "id": "1386461806314389564",
+  "name": "Hopperspeed Full Box Separator",
+  "code": "FBS002",
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "551464150925180928",
+      "username": "_javierrubik33",
+      "iconURL": "https://cdn.discordapp.com/avatars/551464150925180928/6348ffe8aa6bb90856447c503288827b.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "921904275418927214",
+      "username": "ners__",
+      "iconURL": "https://cdn.discordapp.com/avatars/921904275418927214/c8f1ab847f47b25e0dcfc72ab8d8d5c1.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "495371124461535232",
+      "username": "morb1d0",
+      "iconURL": "https://cdn.discordapp.com/avatars/495371124461535232/c2c3b943692a231a3b1b7545468e68d7.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488472189571100",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789094197461155",
+      "name": "Recommended"
+    },
+    {
+      "id": "1386421810626695278",
+      "name": "isEmpty/isFull"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386461807111180449",
+      "name": "area_render_49_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386461806314389564/1386461807111180449/area_render_49_.png?ex=6859caae&is=6858792e&hm=edf2b8e9920d2c4522329d592e9d840932ee6807bb6ca1eb4032497159935f0d&",
+      "description": "Sent by andrews54757 at 6/22/2025, 5:44:13 PM",
+      "canDownload": true,
+      "width": 685,
+      "height": 800,
+      "path": "images/area_render_49_.png"
+    },
+    {
+      "id": "1386461807459434626",
+      "name": "area_render_50_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386461806314389564/1386461807459434626/area_render_50_.png?ex=6859caae&is=6858792e&hm=4f9a23ced48dff47004502350ba8b5f3f631c67bfc7d0f3b55398aa7c7b0b99b&",
+      "description": "Sent by andrews54757 at 6/22/2025, 5:44:13 PM",
+      "canDownload": true,
+      "width": 776,
+      "height": 798,
+      "path": "images/area_render_50_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386461806733561876",
+      "name": "FBS002_8gt_IsBoxIsFull.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386461806314389564/1386461806733561876/8gt_IsBoxIsFull.litematic?ex=6859caad&is=6858792d&hm=b0ee47bde933892a2cff30a74cf93d269efdf3f79497767dddd54790b82c50c0&",
+      "description": "Sent by andrews54757 at 6/22/2025, 5:44:13 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "3x4x4",
+        "version": "1.21"
+      },
+      "path": "attachments/FBS002_8gt_IsBoxIsFull.litematic"
+    }
+  ],
+  "description": "A small device that outputs every full box inputted, keeping any other items in a separate chest.",
+  "features": [
+    "Combination isShulkerBox and isFullBox check allows input to be any item",
+    "Hopperspeed"
+  ],
+  "considerations": [],
+  "notes": "",
+  "timestamp": 1750628814448,
+  "post": {
+    "forumId": "1375559651579527208",
+    "threadId": "1386462484193476658",
+    "continuingMessageIds": [],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1386462484193476658",
+    "attachmentMessageId": "1386462488111091724"
+  }
+}
