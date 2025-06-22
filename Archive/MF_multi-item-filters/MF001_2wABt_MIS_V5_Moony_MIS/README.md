@@ -23,3 +23,12 @@ Schematic includes the item gate, A slice, B slice and a chest for unsorted outp
 ## Resources
 - [MF001_mis_v5_116.litematic](attachments/MF001_mis_v5_116.litematic): MC 1.18.2, Size 8x8x8 blocks
 - [MF001_mis_v5_113.litematic](attachments/MF001_mis_v5_113.litematic): MC 1.13.2, Size 8x8x8 blocks
+
+## Comments
+
+### Andrews54757 (6/22/2025)
+**How to set up the item categories**
+
+Place two of each item to be sorted into the slice in the chest at the top. Make sure no slots are empty.
+<img alt="How_to_set_up_categories.png" src="comments_attachments/1386481915007340554-how_to_set_up_categories.png?raw=1" height="150px">
+
