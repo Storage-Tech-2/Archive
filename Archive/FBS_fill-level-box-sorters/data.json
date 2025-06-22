@@ -3,6 +3,14 @@
   "name": "fill-level-box-sorters",
   "code": "FBS",
   "description": "Devices that sort boxes by fill level",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1386419505961369690",
+      "name": "Compact Box Fill Level Comparer",
+      "code": "FBS001",
+      "timestamp": 1750619211970,
+      "path": "FBS001_Compact_Box_Fill_Level_Comparer"
+    }
+  ]
 }
