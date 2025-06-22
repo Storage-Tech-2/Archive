@@ -3,7 +3,7 @@
   "name": "item-type-filters",
   "code": "IF",
   "description": "Item type filters which work by the mechanic of like items being combinable",
-  "currentCodeId": 1,
+  "currentCodeId": 2,
   "entries": [
     {
       "id": "1386222661037985933",
@@ -11,6 +11,13 @@
       "code": "IF001",
       "timestamp": 1750571980621,
       "path": "IF001_How_to_Use_1X_Hopper_Filters"
+    },
+    {
+      "id": "1386428992868978688",
+      "name": "2wt High Speed Cart Filters",
+      "code": "IF002",
+      "timestamp": 1750621110942,
+      "path": "IF002_2wt_High_Speed_Cart_Filters"
     }
   ]
 }
