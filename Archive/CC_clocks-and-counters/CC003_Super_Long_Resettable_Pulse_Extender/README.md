@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Untested*
+**Tags:** *Pulse Extenders, Untested*
 
 Programmable length from 90s to about 15 hours. Doesn't use hoppers and mostly dustless except one dot. Kinda big (3x6x6).
 
