@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Tested & Functional, 8X Hopperspeed, 4X Hopperspeed*
+**Tags:** *Tested & Functional, 8X Hopperspeed, 4X Hopperspeed, Recommended*
 
 Filters then loads items into boxes at 4x hopperspeed. Only requires prefilling a single hopper under each filter with a stack of the sorted item. Uses 2x filters that sync with hopper cooldown better than most high speed loaders. Two versions using different filters are provided: SS3 (2wABt) and SSI.
 
