@@ -2,7 +2,7 @@
   "id": "1375570772348764392",
   "name": "autocrafting",
   "code": "AC",
-  "description": "Autocrafting",
+  "description": "Autocrafting devices, excluding crafter filter loaders",
   "currentCodeId": 0,
   "entries": []
 }
