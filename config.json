@@ -265,6 +265,13 @@
       "code": "FS",
       "path": "Archive/FS_farm-storages",
       "description": "Farm storages and digsorts"
+    },
+    {
+      "id": "1386443869729587291",
+      "name": "clocks-and-counters",
+      "code": "CC",
+      "path": "Archive/CC_clocks-and-counters",
+      "description": "Clocks and counter devices"
     }
   ]
 }
