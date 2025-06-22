@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Tested & Functional, Recommended*
+**Tags:** *Recommended, Pulse Extenders, Tested & Functional*
 
 Works by having a memory cell subtracted one signal strength each time a self-resetting pulse extender turns off. This allows it to last a bit longer than a clock based solution. All designs are pistonless as they use the small reset time on the pulse extender to achieve the falling edge that subtracts the memory cell.
 
