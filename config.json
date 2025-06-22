@@ -117,7 +117,7 @@
       "name": "item-type-filters",
       "code": "IF",
       "path": "Archive/IF_item-type-filters",
-      "description": "Item type filters"
+      "description": "Item type filters which work by the mechanic of like items being combinable"
     },
     {
       "id": "1375564209882009772",
@@ -131,7 +131,7 @@
       "name": "unstackable-sorting",
       "code": "US",
       "path": "Archive/US_unstackable-sorting",
-      "description": "Unstackable sorting"
+      "description": "Sort unstackable items by its type, typically by exploiting unique interactions with that item"
     },
     {
       "id": "1375565403727724764",
@@ -166,14 +166,14 @@
       "name": "multi-item-filters",
       "code": "MF",
       "path": "Archive/MF_multi-item-filters",
-      "description": "Multi item filters"
+      "description": "Multi item filters check if an item is part of a set of items in the same slice/device"
     },
     {
       "id": "1375568762304204912",
       "name": "stack-separation",
       "code": "SS",
       "path": "Archive/SS_stack-separation",
-      "description": "Stack seperation"
+      "description": "Stack separation uses item entity separators to sort up to one full stack at a time"
     },
     {
       "id": "1375569381781930006",
@@ -215,7 +215,7 @@
       "name": "autocrafting",
       "code": "AC",
       "path": "Archive/AC_autocrafting",
-      "description": "Autocrafting"
+      "description": "Autocrafting devices, excluding crafter filter loaders"
     },
     {
       "id": "1375570813591486525",
@@ -258,6 +258,13 @@
       "code": "WBS",
       "path": "Archive/WBS_whitelister-box-sorters",
       "description": "Sorts boxes by checking if it contains a specific item type"
+    },
+    {
+      "id": "1386242904141463603",
+      "name": "farm-storages",
+      "code": "FS",
+      "path": "Archive/FS_farm-storages",
+      "description": "Farm storages and digsorts"
     }
   ]
 }
