@@ -3,6 +3,14 @@
   "name": "other-loaders",
   "code": "OL",
   "description": "Other box loaders (EG: CUD loaders)",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1386466149700600048",
+      "name": "8x Fullspeed Loader",
+      "code": "OL001",
+      "timestamp": 1750631487535,
+      "path": "OL001_8x_Fullspeed_Loader"
+    }
+  ]
 }
