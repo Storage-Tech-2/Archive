@@ -53,20 +53,24 @@
   ],
   "tags": [
     {
-      "id": "1385488478745137341",
-      "name": "Tested & Functional"
-    },
-    {
       "id": "1385789101374046273",
       "name": "Recommended"
+    },
+    {
+      "id": "1386201743825567905",
+      "name": "Auto Replacement"
     },
     {
       "id": "1386125210507542578",
       "name": "Reliable Collection"
     },
     {
-      "id": "1386201743825567905",
-      "name": "Auto Replacement"
+      "id": "1386525439203344475",
+      "name": "Bufferless"
+    },
+    {
+      "id": "1385488478745137341",
+      "name": "Tested & Functional"
     }
   ],
   "images": [
