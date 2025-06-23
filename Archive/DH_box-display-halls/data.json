@@ -3,6 +3,14 @@
   "name": "box-display-halls",
   "code": "DH",
   "description": "Bulk/display halls",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1386533300633468948",
+      "name": "1.84 Mil Smart-Restock Bulk Storage",
+      "code": "DH001",
+      "timestamp": 1750645886854,
+      "path": "DH001_1.84_Mil_Smart-Restock_Bulk_Storage"
+    }
+  ]
 }
