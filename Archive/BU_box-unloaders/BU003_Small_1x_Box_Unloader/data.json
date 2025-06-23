@@ -4,7 +4,7 @@
   "code": "BU003",
   "authors": [
     {
-      "type": "discord-in-guild",
+      "type": "discord-external",
       "id": "166080074536189952",
       "displayName": "Kartoffel",
       "username": "misterkartoffel",
