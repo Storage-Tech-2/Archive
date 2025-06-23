@@ -1,11 +1,11 @@
 # YAMIS Multi Item Storage System
 <img alt="area_render_101_.png" src="images/area_render_101_.png?raw=1" height="300px">
 
-**Authors:** *etikle, sskyzy, rapscallion1138, inspectortalon, CommandLeo, pyraleftt, datnerd, coltzy*
+**Authors:** *etikle, skyzy, rapscallion1138, inspectortalon, CommandLeo, pyraleftt, datnerd, Coltzy*
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Untested*
+**Tags:** *Untested, Tested & Functional*
 
 A simple MIS-based storage system using NoisyMIS and a small bulk.
 
