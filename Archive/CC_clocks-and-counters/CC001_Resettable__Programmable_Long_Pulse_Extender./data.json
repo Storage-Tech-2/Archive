@@ -4,10 +4,11 @@
   "code": "CC001",
   "authors": [
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "921904275418927214",
       "username": "ners__",
-      "iconURL": "https://cdn.discordapp.com/avatars/921904275418927214/c8f1ab847f47b25e0dcfc72ab8d8d5c1.webp"
+      "iconURL": "https://cdn.discordapp.com/avatars/921904275418927214/c8f1ab847f47b25e0dcfc72ab8d8d5c1.webp",
+      "displayName": "ners"
     }
   ],
   "endorsers": [
