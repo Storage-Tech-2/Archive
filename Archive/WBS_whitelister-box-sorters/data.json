@@ -2,7 +2,7 @@
   "id": "1383890936488132689",
   "name": "whitelister-box-sorters",
   "code": "WBS",
-  "description": "Sorts boxes by checking if it contains a specific item type",
+  "description": "Sorts boxes by checking if it contains a specific item type in any slot",
   "currentCodeId": 0,
   "entries": []
 }
