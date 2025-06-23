@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Untested, Tested & Functional*
+**Tags:** *Tested & Functional*
 
 A simple MIS-based storage system using NoisyMIS and a small bulk.
 
