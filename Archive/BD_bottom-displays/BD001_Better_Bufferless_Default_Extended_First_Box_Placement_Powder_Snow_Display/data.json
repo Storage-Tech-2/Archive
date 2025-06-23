@@ -1,0 +1,122 @@
+{
+  "id": "1386523278667157604",
+  "name": "Better Bufferless Default Extended First Box Placement Powder Snow Display",
+  "code": "BD001",
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "444883614761746436",
+      "displayName": "camphorwood",
+      "username": "camphorwood",
+      "iconURL": "https://cdn.discordapp.com/avatars/444883614761746436/17e4ab17b53d45242bc5b87532e74c0c.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "921904275418927214",
+      "username": "ners__",
+      "iconURL": "https://cdn.discordapp.com/avatars/921904275418927214/c8f1ab847f47b25e0dcfc72ab8d8d5c1.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "528559320086872064",
+      "username": "hampter42_",
+      "iconURL": "https://cdn.discordapp.com/avatars/528559320086872064/83e4a5181f4b2cbfe68b3fdc14b6aeef.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "335426949885329411",
+      "username": "sergyd",
+      "iconURL": "https://cdn.discordapp.com/avatars/335426949885329411/01e8993d50c9d864361df9def1960a5a.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "656864003242328064",
+      "displayName": "金合欢酱(acaciachan)",
+      "username": "acaciachan",
+      "iconURL": "https://cdn.discordapp.com/avatars/656864003242328064/65e1c203d9ea0af6509f0754122b45a2.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "240860456057700352",
+      "username": "philgoodinator",
+      "iconURL": "https://cdn.discordapp.com/avatars/240860456057700352/a9f4d6256aa4effec933334c93da54c0.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488478745137341",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789101374046273",
+      "name": "Recommended"
+    },
+    {
+      "id": "1386125210507542578",
+      "name": "Reliable Collection"
+    },
+    {
+      "id": "1386201743825567905",
+      "name": "Auto Replacement"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386523280411983942",
+      "name": "Better_Bufferless_Default_Extended_Powdered_Snow_Display.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386523278667157604/1386523280411983942/Better_Bufferless_Default_Extended_Powdered_Snow_Display.png?ex=685a03ee&is=6858b26e&hm=aa01853e03c41738edf0a35e4d44334623f020d82eb420e4a4c27838f6ab0735&",
+      "description": "Sent by andrews54757 at 6/22/2025, 9:48:29 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 750,
+      "path": "images/Better_Bufferless_Default_Extended_Powdered_Snow_Display.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386523280919498772",
+      "name": "BD001_Better_Bufferless_Default_Extended_Powdered_Snow_Display.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386523278667157604/1386523280919498772/Better_Bufferless_Default_Extended_Powdered_Snow_Display.litematic?ex=685a03ee&is=6858b26e&hm=3c3026ae92bc5e844706a89df7f721a45061ec846a3a9648e14cc0846ce80fb1&",
+      "description": "Sent by andrews54757 at 6/22/2025, 9:48:29 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "10x9x1",
+        "version": "1.18.2"
+      },
+      "path": "attachments/BD001_Better_Bufferless_Default_Extended_Powdered_Snow_Display.litematic"
+    }
+  ],
+  "description": "0-ticks powder snow into the box when emptied, allowing for a fully reliable hopperless collection. Additionally, the snow is in front of the dispenser when no box is placed making the dispenser not visible.",
+  "features": [
+    "Clean UI; box and chest are only separated by the display block; default extended snow when no box is placed",
+    "Bufferless; all boxes are accessible to the player",
+    "Comparator readout from the chest",
+    "Initial first box placement",
+    "Reliable, hopperless collection of empty boxes into a water stream",
+    "Small (9x10 width)"
+  ],
+  "considerations": [
+    "Can break if the chest is emptied during box replacement or initial placement",
+    "May fail to reliably collect a box if adjacent slices activate in quick succession, this is very very rare though"
+  ],
+  "notes": "",
+  "timestamp": 1750643606214,
+  "post": {
+    "forumId": "1375561551188328531",
+    "threadId": "1386524523922325514",
+    "continuingMessageIds": [],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1386524523922325514",
+    "attachmentMessageId": "1386524528540127376"
+  }
+}
