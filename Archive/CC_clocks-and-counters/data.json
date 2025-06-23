@@ -6,13 +6,6 @@
   "currentCodeId": 4,
   "entries": [
     {
-      "id": "1386445858706559037",
-      "name": "Resettable & Programmable Long Pulse Extender.",
-      "code": "CC001",
-      "timestamp": 1750629306498,
-      "path": "CC001_Resettable__Programmable_Long_Pulse_Extender."
-    },
-    {
       "id": "1386448150994223134",
       "name": "1wt Divide-by-N Counter",
       "code": "CC002",
