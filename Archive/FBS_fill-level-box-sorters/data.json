@@ -11,13 +11,6 @@
       "code": "FBS001",
       "timestamp": 1750619211970,
       "path": "FBS001_Compact_Box_Fill_Level_Comparer"
-    },
-    {
-      "id": "1386461806314389564",
-      "name": "Hopperspeed Full Box Separator",
-      "code": "FBS002",
-      "timestamp": 1750628814448,
-      "path": "FBS002_Hopperspeed_Full_Box_Separator"
     }
   ]
 }
