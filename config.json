@@ -250,14 +250,14 @@
       "name": "other-peripherals",
       "code": "OP",
       "path": "Archive/OP_other-peripherals",
-      "description": "Other peripherals"
+      "description": "Other peripherals, eg chunk loaders"
     },
     {
       "id": "1383890936488132689",
       "name": "whitelister-box-sorters",
       "code": "WBS",
       "path": "Archive/WBS_whitelister-box-sorters",
-      "description": "Sorts boxes by checking if it contains a specific item type"
+      "description": "Sorts boxes by checking if it contains a specific item type in any slot"
     },
     {
       "id": "1386242904141463603",
