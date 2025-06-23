@@ -10,10 +10,11 @@
       "iconURL": "https://cdn.discordapp.com/avatars/660633169191632908/194eb1a786a28d07166515b6a1711c05.webp"
     },
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "727730797049806898",
       "username": "sskyzy",
-      "iconURL": "https://cdn.discordapp.com/avatars/727730797049806898/00d0b08b860ed57fbd2c228943b0de07.webp"
+      "iconURL": "https://cdn.discordapp.com/avatars/727730797049806898/00d0b08b860ed57fbd2c228943b0de07.webp",
+      "displayName": "skyzy"
     },
     {
       "type": "discord-external",
@@ -47,10 +48,11 @@
       "iconURL": "https://cdn.discordapp.com/avatars/114896993654013958/d4cec89664bba88100de2df0c32c44eb.webp"
     },
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "611466971371929602",
       "username": "coltzy",
-      "iconURL": "https://cdn.discordapp.com/avatars/611466971371929602/4d979dd9c4aad8c33d83992ba4003ce0.webp"
+      "iconURL": "https://cdn.discordapp.com/avatars/611466971371929602/4d979dd9c4aad8c33d83992ba4003ce0.webp",
+      "displayName": "Coltzy"
     }
   ],
   "endorsers": [

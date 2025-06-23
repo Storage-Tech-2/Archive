@@ -16,10 +16,11 @@
       "iconURL": "https://cdn.discordapp.com/avatars/707180327373897728/2d0235dc0a1b569d25cbdaa6b753cdb3.webp"
     },
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "727730797049806898",
       "username": "sskyzy",
-      "iconURL": "https://cdn.discordapp.com/avatars/727730797049806898/00d0b08b860ed57fbd2c228943b0de07.webp"
+      "iconURL": "https://cdn.discordapp.com/avatars/727730797049806898/00d0b08b860ed57fbd2c228943b0de07.webp",
+      "displayName": "skyzy"
     },
     {
       "type": "discord-external",
