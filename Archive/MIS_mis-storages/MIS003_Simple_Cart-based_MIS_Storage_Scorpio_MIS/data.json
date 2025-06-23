@@ -1,0 +1,76 @@
+{
+  "id": "1386555107084210176",
+  "name": "Simple Cart-based MIS Storage (Scorpio MIS)",
+  "code": "MIS003",
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "displayName": "Scorpio",
+      "username": "scorpio03",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488504204562639",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1379027871531532389",
+      "name": "area_render_26_.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1315522702492172300/1379027871531532389/area_render_26_.png?ex=6859c609&is=68587489&hm=4df7a03c9e05391ede542e572d6a7a075f0bd315f934db5b4ae661dd95328ab9&",
+      "description": "[DiscordCDN] Sent by scorpio03 at 6/23/2025, 12:04:17 AM",
+      "canDownload": true,
+      "width": 800,
+      "height": 461,
+      "path": "images/area_render_26_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "5ajiire4a6cs5",
+      "name": "MIS003_ScorpioMIS.url",
+      "contentType": "mediafire",
+      "url": "https://www.mediafire.com/folder/5ajiire4a6cs5/Scorpio+MIS",
+      "description": "[MediaFire] Sent by scorpio03 at 6/23/2025, 12:01:12 AM",
+      "canDownload": false,
+      "path": "attachments/MIS003_ScorpioMIS.url"
+    }
+  ],
+  "description": "A simple and cheap early game storage system using hopper minecart multi-item sorter (MIS). This design has minimal waterlogged blocks and cursed rail placements",
+  "features": [
+    "2.4x hopper speed at max",
+    "Hopper cart sucks 4 shears and 15 items every 50gt (which makes it handle both 16 and 64 stackable items)",
+    "Has both box unloader for box input and loose item input",
+    "Decorated version has a mixed box loader for overflow items, a switch and a chunk loading indicator light"
+  ],
+  "considerations": [
+    "Bigger size compared to other early game storage systems",
+    "Not hopper locked",
+    "No unstackable sorting",
+    "No bulk storage",
+    "Slower than designs like <#1382996113191206932>"
+  ],
+  "notes": "## Instructions\n### Notes\n- When building the storage, make sure to chunk align so that the storage is within the 3x3 loading range of the chunk loader.\n- The base version does not have a box loader for overflow items, if the unsorted chests are full then the overflow items will despawn. You can add the mixed box loader attached in the decorated version in that case.\n### Build\n- Glow lichen can be replaced with sign\n- Make sure to only fill the cart dispenser with 8 hopper minecarts\n### How to use\n1. Input loose items into the shulker box\n2. Input shulker boxes (empty or without items) into the double chest",
+  "timestamp": 1750652062556,
+  "post": {
+    "forumId": "1375566804910604349",
+    "threadId": "1386559991699472457",
+    "continuingMessageIds": [],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1386559991699472457",
+    "attachmentMessageId": "1386559995302383718"
+  }
+}
