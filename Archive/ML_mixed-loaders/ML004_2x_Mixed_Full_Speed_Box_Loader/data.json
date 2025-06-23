@@ -22,16 +22,20 @@
   ],
   "tags": [
     {
-      "id": "1385488466447695900",
-      "name": "Tested & Functional"
-    },
-    {
       "id": "1386244783525204080",
       "name": "2X Hopperspeed"
     },
     {
       "id": "1385789085947527315",
       "name": "Recommended"
+    },
+    {
+      "id": "1385488466447695900",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1386839243879616523",
+      "name": "Fullspeed"
     }
   ],
   "images": [
