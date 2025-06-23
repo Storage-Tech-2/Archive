@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Untested*
+**Tags:** *Untested, Fullspeed*
 
 Loads boxes at 8x hopperspeed without pausing during box replacement. Not tested extensively.
 
