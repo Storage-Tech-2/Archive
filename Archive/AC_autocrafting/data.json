@@ -3,6 +3,14 @@
   "name": "autocrafting",
   "code": "AC",
   "description": "Autocrafting devices, excluding crafter filter loaders",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1386528814389137518",
+      "name": "Shulker Box Crafters",
+      "code": "AC001",
+      "timestamp": 1750645043031,
+      "path": "AC001_Shulker_Box_Crafters"
+    }
+  ]
 }
