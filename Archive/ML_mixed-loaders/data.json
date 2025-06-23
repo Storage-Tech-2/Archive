@@ -3,7 +3,7 @@
   "name": "mixed-loaders",
   "code": "ML",
   "description": "Box loaders which load mixed item types",
-  "currentCodeId": 3,
+  "currentCodeId": 4,
   "entries": [
     {
       "id": "1386244541513863249",
@@ -25,6 +25,13 @@
       "code": "ML003",
       "timestamp": 1750718201673,
       "path": "ML003_1x_Full_Speed_Mixed_Box_Loader"
+    },
+    {
+      "id": "1386838443102965941",
+      "name": "2x Mixed Full Speed Box Loader",
+      "code": "ML004",
+      "timestamp": 1750718622761,
+      "path": "ML004_2x_Mixed_Full_Speed_Box_Loader"
     }
   ]
 }
