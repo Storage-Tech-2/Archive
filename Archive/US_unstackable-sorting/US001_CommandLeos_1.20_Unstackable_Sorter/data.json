@@ -1,0 +1,103 @@
+{
+  "id": "1386690708240339074",
+  "name": "CommandLeo's 1.20 Unstackable Sorter",
+  "code": "US001",
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "381396930212921355",
+      "displayName": "CommandLeo",
+      "username": "commandleo",
+      "iconURL": "https://cdn.discordapp.com/avatars/381396930212921355/cb1dcc76d3f6a30dddc49e6d9e96681a.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488499884425243",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789127018156145",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386690709058490418",
+      "name": "CommandLeo_120_Ultimate_Unstackable_Sorter.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386690708240339074/1386690709058490418/CommandLeo_1.20_Ultimate_Unstackable_Sorter.png?ex=685a9fdc&is=68594e5c&hm=3ff9bf458b800a844c0d9e060a5f4cf3e6d77f79b1e0306fbccb374f0bad8955&",
+      "description": "Sent by andrews54757 at 6/23/2025, 8:53:48 AM",
+      "canDownload": true,
+      "width": 794,
+      "height": 800,
+      "path": "images/CommandLeo_120_Ultimate_Unstackable_Sorter.png"
+    },
+    {
+      "id": "1386690709645561877",
+      "name": "CommandLeo_120_Ultimate_FHL_Unstackable_Sorter_Entityless.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386690708240339074/1386690709645561877/CommandLeo_1.20_Ultimate_FHL_Unstackable_Sorter_Entityless.png?ex=685a9fdc&is=68594e5c&hm=71fcf4dfa5a9ac59eba9f8ae9e39437f657190dfe41f68a6b81f921c085f6ed8&",
+      "description": "Sent by andrews54757 at 6/23/2025, 8:53:48 AM",
+      "canDownload": true,
+      "width": 793,
+      "height": 800,
+      "path": "images/CommandLeo_120_Ultimate_FHL_Unstackable_Sorter_Entityless.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386690710031306922",
+      "name": "US001_CommandLeo_120_Ultimate_Unstackable_Sorter_Guide.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386690708240339074/1386690710031306922/CommandLeo_1.20_Ultimate_Unstackable_Sorter_Guide.litematic?ex=685a9fdc&is=68594e5c&hm=51dcbfa7626296a1d4271a7aa7a98fa875201e822c1c01142d143928aede9876&",
+      "description": "Sent by andrews54757 at 6/23/2025, 8:53:48 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "7x11x16",
+        "version": "1.20.2"
+      },
+      "path": "attachments/US001_CommandLeo_120_Ultimate_Unstackable_Sorter_Guide.litematic"
+    },
+    {
+      "id": "1386690710409056266",
+      "name": "US001_CommandLeo_120_Ultimate_FHL_Unstackable_Sorter_Guide.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386690708240339074/1386690710409056266/CommandLeo_1.20_Ultimate_FHL_Unstackable_Sorter_Guide.litematic?ex=685a9fdc&is=68594e5c&hm=6cb0cdbcb54899e55e3ee2b3d07441fb883eda849acd4920476be72887453e55&",
+      "description": "Sent by andrews54757 at 6/23/2025, 8:53:48 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "7x11x16",
+        "version": "1.20.2"
+      },
+      "path": "attachments/US001_CommandLeo_120_Ultimate_FHL_Unstackable_Sorter_Guide.litematic"
+    }
+  ],
+  "description": "A machine that is able to sort the following items in different outputs: music discs; potions and water bottles; enchanted books and book&quills; shears (and brushes in 1.20.5+); flint&steel; lava buckets; powder snow buckets; water buckets; chest boats/rafts; boats/rafts; furnace minecarts; minecarts; chest minecarts; hopper minecarts; tnt minecarts; armor.",
+  "features": [
+    "Hopper speed: up to 9000 items per hour can be sorted.",
+    "Compact: 6x11x16.",
+    "Fish, axolotls and tadpoles from water buckets get placed inside a cage.",
+    "All of the clocks are independent, in order to minimize the lag produced.",
+    "Fully hopperlocked variant included"
+  ],
+  "considerations": [],
+  "notes": "- Do not input stackable items and shulker boxes.\n- The armor filter requires a supply of any kind of arrows.\n- All the litematics include the contents of the containers that must be prefilled.\n- The unsorted output can be moved elsewhere by redirecting the water stream leading into it.\n\n**Credits for the individual sorters**\n- Music disc filter: CommandLeo\n- Book filter: *no credits due to its simplicity*\n- Potion filter: *no credits  due to its simplicity*\n- Flint&steel and shears filter: *no credits  due to its simplicity*\n- Flint&steel and shears sorter: CommandLeo and Raffq\n- Water bucket filter: CommandLeo\n- Lava bucket and powder snow bucket filter + sorter: CommandLeo\n- Boat and chest boat filter + sorter: CommandLeo\n- Minecart filter + sorter: CommandLeo and InspectorTalon (with contributions from 2No2Name)\n- Armor filter: CommandLeo and Raffq",
+  "timestamp": 1750683740559,
+  "post": {
+    "forumId": "1375564342392786944",
+    "threadId": "1386692862325948566",
+    "continuingMessageIds": [],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1386692862325948566",
+    "attachmentMessageId": "1386692868315545692"
+  }
+}
