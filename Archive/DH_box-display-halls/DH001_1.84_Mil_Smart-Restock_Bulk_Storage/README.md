@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Recommended, Tested & Functional*
+**Tags:** *Recommended, Tested & Functional, 2 Displays*
 
 Sorts shulker boxes into a slice, allowing players to take out boxes from the chest or items from the display.
 
