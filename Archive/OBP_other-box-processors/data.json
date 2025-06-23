@@ -11,13 +11,6 @@
       "code": "OBP001",
       "timestamp": 1750565565613,
       "path": "OBP001_Compact_2_Item_Checker"
-    },
-    {
-      "id": "1386425910319644864",
-      "name": "Hopperspeed Item Entity isStackable",
-      "code": "OBP002",
-      "timestamp": 1750620428825,
-      "path": "OBP002_Hopperspeed_Item_Entity_isStackable"
     }
   ]
 }

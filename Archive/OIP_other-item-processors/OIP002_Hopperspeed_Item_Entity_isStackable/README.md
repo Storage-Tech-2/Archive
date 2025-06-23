@@ -17,4 +17,4 @@ Performs a isStackable check on a entire item entity stack every 8gt. If each it
 Requires 4 hopper minecarts in the dispenser
 
 ## Resources
-- [OBP002_8gt_item_entity_isStackable_sorter.litematic](attachments/OBP002_8gt_item_entity_isStackable_sorter.litematic): MC 1.19.2, Size 4x6x5 blocks
+- [OIP002_8gt_item_entity_isStackable_sorter.litematic](attachments/OIP002_8gt_item_entity_isStackable_sorter.litematic): MC 1.19.2, Size 4x6x5 blocks
