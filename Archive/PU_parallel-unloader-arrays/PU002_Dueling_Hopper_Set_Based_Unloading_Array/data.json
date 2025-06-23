@@ -4,16 +4,18 @@
   "code": "PU002",
   "authors": [
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "660633169191632908",
       "username": "etikle",
-      "iconURL": "https://cdn.discordapp.com/avatars/660633169191632908/194eb1a786a28d07166515b6a1711c05.webp"
+      "iconURL": "https://cdn.discordapp.com/avatars/660633169191632908/194eb1a786a28d07166515b6a1711c05.webp",
+      "displayName": "Etikle"
     },
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "707180327373897728",
       "username": "rt5h31339",
-      "iconURL": "https://cdn.discordapp.com/avatars/707180327373897728/2d0235dc0a1b569d25cbdaa6b753cdb3.webp"
+      "iconURL": "https://cdn.discordapp.com/avatars/707180327373897728/2d0235dc0a1b569d25cbdaa6b753cdb3.webp",
+      "displayName": "rt5h31339"
     },
     {
       "type": "discord-in-guild",

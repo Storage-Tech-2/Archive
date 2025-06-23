@@ -4,10 +4,11 @@
   "code": "MIS002",
   "authors": [
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "660633169191632908",
       "username": "etikle",
-      "iconURL": "https://cdn.discordapp.com/avatars/660633169191632908/194eb1a786a28d07166515b6a1711c05.webp"
+      "iconURL": "https://cdn.discordapp.com/avatars/660633169191632908/194eb1a786a28d07166515b6a1711c05.webp",
+      "displayName": "Etikle"
     },
     {
       "type": "discord-in-guild",
