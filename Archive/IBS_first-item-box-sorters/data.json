@@ -3,7 +3,7 @@
   "name": "first-item-box-sorters",
   "code": "IBS",
   "description": "Sorts boxes by item type of the first item",
-  "currentCodeId": 1,
+  "currentCodeId": 2,
   "entries": [
     {
       "id": "1386466762488549526",
@@ -11,6 +11,13 @@
       "code": "IBS001",
       "timestamp": 1750630085984,
       "path": "IBS001_18gt_Box_First_Item_BlacklisterWhitelister"
+    },
+    {
+      "id": "1386694246311919667",
+      "name": "1wABt 8gt Fully Hopperlocked Box Sorter",
+      "code": "IBS002",
+      "timestamp": 1750684230647,
+      "path": "IBS002_1wABt_8gt_Fully_Hopperlocked_Box_Sorter"
     }
   ]
 }
