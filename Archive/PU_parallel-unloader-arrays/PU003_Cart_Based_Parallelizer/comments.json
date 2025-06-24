@@ -11,5 +11,18 @@
     "content": "**Cart Based Paralleliser Explanation**\nBy: _javierrubik33\nLogic:\n\n__Input:__\nSystem starts by spawning a cart that has its first 4 slots filled with unstackables to then pass it under the input item pile, thus allowing the cart to pick up a single stack  whether it is a regular item, an unstackable or a shulker box. After that, 4 unstackables are removed from the cart.\n\n__2 Item Check:__\nLater a 2 item check (that will be necessary for later steps) is performed, it works by removing 1 item with a hopper, and then detect the cart with detector rail + comparator. That pulse is later used to redirect the cart to one way or another. After the detection is done the item previously removed is returned to the cart.**1** If cart had only a single item it is rerouted to a presorter, which will separate boxes, unstackables and single items, each to its respective output.**2**\n\n__Note 1:__ In between that step one item is taken from the cart and put right back, with the objective to get the cart performed the following way [2 0 0 0 62] to allow later processing.\n__Note 2:__ Since input is being taken with full carts it means that if a single item has been found it is the last of its type, thus allowing direct output without danger of overflow.",
     "attachments": [],
     "timestamp": 1750743068987
+  },
+  {
+    "id": "1386941747883413515",
+    "sender": {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    },
+    "content": "__Set:__\nIf cart has 2 items or more it goes to the set. The set is a 1x1x1 block were items are dropped and alligned via a dropper were carts can pass through to pick up the items being checked. \nFunctioning: One item is taken out of the cart, renamed dummies are pushed into the cart, cart goes over the set (trying to pick the item it is checking) and then the item previously removed is dropped into the set.\nThat leaves us with two scenarios that will allow the system to tell if the cart should be accepted to the output or not, either the item was already in the set or it wasn't:\n\n- It was: If the item was already in the set the cart will pick the item and then reset the exact same item back again, thus not changing the status of the set and leaving the cart with 2 of that item in the first slot [2 x x x 62]\n- It was not: If the item was not in the set the cart will not pick any item and one will be added to the set, thus adding what was not already there and leaving the cart with the following arrangement [1 x x x 62]",
+    "attachments": [],
+    "timestamp": 1750743080830
   }
 ]

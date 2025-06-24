@@ -45,3 +45,13 @@ Later a 2 item check (that will be necessary for later steps) is performed, it w
 __Note 1:__ In between that step one item is taken from the cart and put right back, with the objective to get the cart performed the following way [2 0 0 0 62] to allow later processing.
 __Note 2:__ Since input is being taken with full carts it means that if a single item has been found it is the last of its type, thus allowing direct output without danger of overflow.
 
+
+### Andrews54757 (6/24/2025)
+__Set:__
+If cart has 2 items or more it goes to the set. The set is a 1x1x1 block were items are dropped and alligned via a dropper were carts can pass through to pick up the items being checked. 
+Functioning: One item is taken out of the cart, renamed dummies are pushed into the cart, cart goes over the set (trying to pick the item it is checking) and then the item previously removed is dropped into the set.
+That leaves us with two scenarios that will allow the system to tell if the cart should be accepted to the output or not, either the item was already in the set or it wasn't:
+
+- It was: If the item was already in the set the cart will pick the item and then reset the exact same item back again, thus not changing the status of the set and leaving the cart with 2 of that item in the first slot [2 x x x 62]
+- It was not: If the item was not in the set the cart will not pick any item and one will be added to the set, thus adding what was not already there and leaving the cart with the following arrangement [1 x x x 62]
+
