@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Tested & Functional, Recommended, 2 Displays*
+**Tags:** *Recommended, Tested & Functional, 2 Displays*
 
 Re-locking is proceeded through updating BUDed pistons with a rail line, which is lag efficient. Nice default extended falling block box displays allows for a good UI with flat floor and shulkers being 3 blocks below the chests.
 
