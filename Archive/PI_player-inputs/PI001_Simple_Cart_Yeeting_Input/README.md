@@ -1,0 +1,18 @@
+# Simple Cart Yeeting Input
+<img alt="Simple_Cart_Yeeting_Input.png" src="images/Simple_Cart_Yeeting_Input.png?raw=1" height="300px">
+
+**Authors:** *KikuGie, philgoodinator*
+
+**Endorsed by:** *Andrews54757*
+
+**Tags:** *Tested & Functional*
+
+Displays chest cart for player to put items in. On clicking the noteblock yeets items from the cart into the water stream.
+
+## Features
+- Small (5x5x3)
+- Instant activation when pressing noteblock
+- Spam-proof (19gt reset)
+
+## Resources
+- [PI001_Simple_Cart_Yeeting_Input.litematic](attachments/PI001_Simple_Cart_Yeeting_Input.litematic): MC 1.18.2, Size 5x5x3 blocks

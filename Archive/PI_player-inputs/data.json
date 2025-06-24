@@ -3,6 +3,14 @@
   "name": "player-inputs",
   "code": "PI",
   "description": "Player input devices",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1386870260661227682",
+      "name": "Simple Cart Yeeting Input",
+      "code": "PI001",
+      "timestamp": 1750726091289,
+      "path": "PI001_Simple_Cart_Yeeting_Input"
+    }
+  ]
 }
