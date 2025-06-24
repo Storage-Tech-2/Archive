@@ -1,7 +1,7 @@
 # Stack Separation Sorter-Loader v3
 <img alt="area_render_33_1.png" src="images/area_render_33_1.png?raw=1" height="300px">
 
-**Authors:** *kikugie*
+**Authors:** *KikuGie*
 
 **Endorsed by:** *Andrews54757*
 
