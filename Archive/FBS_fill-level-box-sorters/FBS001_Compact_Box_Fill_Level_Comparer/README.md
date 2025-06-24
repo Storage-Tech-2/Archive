@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Tested & Functional, Recommended, Comparer*
+**Tags:** *Comparer, Recommended, Tested & Functional*
 
 Given two boxes, compares the fill level of the two boxes and outputs the more-full box first. Useful for optimizing pairs for a merger.
 
