@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Tested & Functional, Recommended*
+**Tags:** *Recommended, Tested & Functional*
 
 The toggle will switch each time the top rail is pulsed `N` times, where `N` is the number of items in the dropper counter below.
 
