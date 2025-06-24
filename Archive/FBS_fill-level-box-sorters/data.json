@@ -3,7 +3,7 @@
   "name": "fill-level-box-sorters",
   "code": "FBS",
   "description": "Devices that sort boxes by fill level",
-  "currentCodeId": 3,
+  "currentCodeId": 4,
   "entries": [
     {
       "id": "1386419505961369690",
@@ -18,6 +18,13 @@
       "code": "FBS003",
       "timestamp": 1750732870769,
       "path": "FBS003_Compact_Shulker_Box_is_fullis_partial_Sorter"
+    },
+    {
+      "id": "1386917254956060845",
+      "name": "8gt Shulker Box IsEmpty",
+      "code": "FBS004",
+      "timestamp": 1750737410900,
+      "path": "FBS004_8gt_Shulker_Box_IsEmpty"
     }
   ]
 }
