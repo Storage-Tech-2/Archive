@@ -1,0 +1,76 @@
+{
+  "id": "1387155323881652350",
+  "name": "Data Floor Display",
+  "code": "BD006",
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "114896993654013958",
+      "username": "datnerd",
+      "iconURL": "https://cdn.discordapp.com/avatars/114896993654013958/d4cec89664bba88100de2df0c32c44eb.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488478745137341",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789101374046273",
+      "name": "Recommended"
+    },
+    {
+      "id": "1386201743825567905",
+      "name": "Auto Replacement"
+    }
+  ],
+  "images": [
+    {
+      "id": "1387155324401877112",
+      "name": "Data_-_Floor_Display.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387155323881652350/1387155324401877112/Data_-_Floor_Display.png?ex=685c5091&is=685aff11&hm=0f7517f44479669b11cdb4aab64fc6611c4ce514fe0a7abf7809f30c4de614cd&",
+      "description": "Sent by ragdollwilly at 6/24/2025, 3:40:01 PM",
+      "canDownload": true,
+      "width": 677,
+      "height": 800,
+      "path": "images/Data_-_Floor_Display.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1387155324678574170",
+      "name": "BD006_Data_-_Floor_Display.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387155323881652350/1387155324678574170/Data_-_Floor_Display.litematic?ex=685c5091&is=685aff11&hm=0877da63e60b39985e0c0b3f360d23525f73715bf6517d54fc7fe0acc1f9875f&",
+      "description": "Sent by ragdollwilly at 6/24/2025, 3:40:01 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "1x6x5",
+        "version": "1.21.4"
+      },
+      "path": "attachments/BD006_Data_-_Floor_Display.litematic"
+    }
+  ],
+  "description": "*by DatNerd/Data*\n\nA tiny floor display which is great for quad bulks.\n\n**Features:**\n- Local first box placement\n- Default extended\n- Collectionless\n- 1 hopper, locked when a box is displayed\n\nNote: This design is 1.16 due to the comparator on the piston",
+  "features": [],
+  "considerations": [],
+  "notes": "",
+  "timestamp": 1750795269260,
+  "post": {
+    "forumId": "1375561551188328531",
+    "threadId": "1387160644792487957",
+    "continuingMessageIds": [],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1387160644792487957",
+    "attachmentMessageId": "1387160649930637404"
+  }
+}

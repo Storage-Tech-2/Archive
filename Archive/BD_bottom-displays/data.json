@@ -3,7 +3,7 @@
   "name": "bottom-displays",
   "code": "BD",
   "description": "Bottom box displays",
-  "currentCodeId": 5,
+  "currentCodeId": 6,
   "entries": [
     {
       "id": "1386689670829834353",
@@ -32,6 +32,13 @@
       "code": "BD005",
       "timestamp": 1750744033654,
       "path": "BD005_Small_minimal_piston_box_display"
+    },
+    {
+      "id": "1387155323881652350",
+      "name": "Data Floor Display",
+      "code": "BD006",
+      "timestamp": 1750795269260,
+      "path": "BD006_Data_Floor_Display"
     }
   ]
 }
