@@ -1,0 +1,79 @@
+{
+  "id": "1386919025174515793",
+  "name": "Hopperspeed 3 Way Box Fill Level Sorter",
+  "code": "FBS005",
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "624927906908471306",
+      "username": "obi81",
+      "iconURL": "https://cdn.discordapp.com/avatars/624927906908471306/5ca94a8774d0abe79d280eb3ec2978b0.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488472189571100",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789094197461155",
+      "name": "Recommended"
+    },
+    {
+      "id": "1386918793535684660",
+      "name": "3 Way Sorter"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386919072440127729",
+      "name": "area_render_16.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386919025174515793/1386919072440127729/area_render_16.png?ex=685b748a&is=685a230a&hm=30258e66bf2013c96f2a0b800d466c0bb268f31915ca79835c84b480439e164b&",
+      "description": "Sent by andrews54757 at 6/24/2025, 12:01:14 AM",
+      "canDownload": true,
+      "width": 549,
+      "height": 800,
+      "path": "images/area_render_16.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386919072687460382",
+      "name": "FBS005_small_fill_level_sorter_fixed.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386919025174515793/1386919072687460382/small_fill_level_sorter_fixed.litematic?ex=685b748a&is=685a230a&hm=c4f8628d9bd02100bd31b49c57a9c0ad33cf2e13ac74af611a5608953570ee31&",
+      "description": "Sent by andrews54757 at 6/24/2025, 12:01:14 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "4x6x3",
+        "version": "1.17.1"
+      },
+      "path": "attachments/FBS005_small_fill_level_sorter_fixed.litematic"
+    }
+  ],
+  "description": "Separates boxes by fill level into empty, partial, and full boxes at hopperspeed.",
+  "features": [
+    "Separates empty/partial/full boxes at hopper speed",
+    "Compact (3x6x4), cleanly placed outputs"
+  ],
+  "considerations": [],
+  "notes": "Based on https://discord.com/channels/748542142347083868/749136504558714982/878250158532476928",
+  "timestamp": 1750737826127,
+  "post": {
+    "forumId": "1375559651579527208",
+    "threadId": "1386919712876658699",
+    "continuingMessageIds": [],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1386919712876658699",
+    "attachmentMessageId": "1386919717100589076"
+  }
+}
