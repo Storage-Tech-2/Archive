@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Tested & Functional, 2X Hopperspeed*
+**Tags:** *2X Hopperspeed, Tested & Functional*
 
 Unloads boxes at 2X hopperspeed (18000 items/hr).
 
