@@ -11,10 +11,11 @@
       "iconURL": "https://cdn.discordapp.com/avatars/889866137184137238/7e7a059e3e137003a2abe1a91499f786.webp"
     },
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "719903397171560559",
       "username": "pyraleftt",
-      "iconURL": "https://cdn.discordapp.com/avatars/719903397171560559/a5c106335c11c2412d29ce3537f0616a.webp"
+      "iconURL": "https://cdn.discordapp.com/avatars/719903397171560559/a5c106335c11c2412d29ce3537f0616a.webp",
+      "displayName": "PyraLeft"
     }
   ],
   "endorsers": [
