@@ -3,6 +3,14 @@
   "name": "box-display-halls",
   "code": "DH",
   "description": "Bulk/display halls",
-  "currentCodeId": 1,
-  "entries": []
+  "currentCodeId": 2,
+  "entries": [
+    {
+      "id": "1386860131861659668",
+      "name": "1.8 Mil Bulk Storage",
+      "code": "DH002",
+      "timestamp": 1750723730898,
+      "path": "DH002_1.8_Mil_Bulk_Storage"
+    }
+  ]
 }
