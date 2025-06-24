@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Tested & Functional, Recommended, 3 Way Sorter*
+**Tags:** *Recommended, Tested & Functional, 3 Way Sorter*
 
 Separates boxes by fill level into empty, partial, and full boxes at hopperspeed.
 
