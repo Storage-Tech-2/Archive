@@ -22,12 +22,12 @@
   ],
   "tags": [
     {
-      "id": "1385488499884425243",
-      "name": "Tested & Functional"
-    },
-    {
       "id": "1385789127018156145",
       "name": "Recommended"
+    },
+    {
+      "id": "1385488499884425243",
+      "name": "Tested & Functional"
     }
   ],
   "images": [

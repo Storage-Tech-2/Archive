@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Tested & Functional, Recommended*
+**Tags:** *Recommended, Tested & Functional*
 
 A machine that is able to sort the following items in different outputs: music discs; potions and water bottles; enchanted books and book&quills; shears (and brushes in 1.20.5+); flint&steel; lava buckets; powder snow buckets; water buckets; chest boats/rafts; boats/rafts; furnace minecarts; minecarts; chest minecarts; hopper minecarts; tnt minecarts; armor.
 
