@@ -1,0 +1,83 @@
+{
+  "id": "1387180395883397291",
+  "name": "Perfect Shulker Box Unloader",
+  "code": "BU006",
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "244529884846751745",
+      "displayName": "Raffq",
+      "username": "raffq",
+      "iconURL": "https://cdn.discordapp.com/avatars/244529884846751745/25d3bc667842f56584713459d3f4713b.webp"
+    },
+    {
+      "type": "unknown",
+      "username": "SamosTheSage"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488474148438035",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1386248557111017532",
+      "name": "1X Hopperspeed"
+    }
+  ],
+  "images": [
+    {
+      "id": "1387180396269146143",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387180395883397291/1387180396269146143/image.png?ex=685c67eb&is=685b166b&hm=934ebed561799a7950902deac73bac0bd8d9a3f365e6c802b513757326dcec79&",
+      "description": "Sent by andrews54757 at 6/24/2025, 5:19:38 PM",
+      "canDownload": true,
+      "width": 492,
+      "height": 366,
+      "path": "images/image.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1387180396579520624",
+      "name": "BU006_perfect_shulker_unloader.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387180395883397291/1387180396579520624/perfect_shulker_unloader.litematic?ex=685c67eb&is=685b166b&hm=d758423de22b573c389c5d2c9aacce67c137a34879fbb6cec85d5e090b02581c&",
+      "description": "Sent by andrews54757 at 6/24/2025, 5:19:38 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "6x4x1",
+        "version": "1.16.2"
+      },
+      "path": "attachments/BU006_perfect_shulker_unloader.litematic"
+    }
+  ],
+  "description": "Simple hopperspeed box unloader/",
+  "features": [
+    "Small design",
+    "Can handle empty boxes"
+  ],
+  "considerations": [
+    "Togglestateful",
+    "Box collection is not 100% reliable if tiled because box item can be collected by adjacent slice, must be A/B tiled."
+  ],
+  "notes": "",
+  "timestamp": 1750800149702,
+  "post": {
+    "forumId": "1375560446676963450",
+    "threadId": "1387181114518405131",
+    "continuingMessageIds": [],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1387181114518405131",
+    "attachmentMessageId": "1387181119975194785"
+  }
+}

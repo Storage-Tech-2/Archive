@@ -3,7 +3,7 @@
   "name": "box-unloaders",
   "code": "BU",
   "description": "Box unloaders",
-  "currentCodeId": 5,
+  "currentCodeId": 6,
   "entries": [
     {
       "id": "1386246487452942437",
@@ -39,6 +39,13 @@
       "code": "BU005",
       "timestamp": 1750742160939,
       "path": "BU005_Hopperspeed_Box_Yeeter"
+    },
+    {
+      "id": "1387180395883397291",
+      "name": "Perfect Shulker Box Unloader",
+      "code": "BU006",
+      "timestamp": 1750800149702,
+      "path": "BU006_Perfect_Shulker_Box_Unloader"
     }
   ]
 }
