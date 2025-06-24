@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Tested & Functional, Recommended, 8 Chests, SS2, SS3*
+**Tags:** *SS3, SS2, Tested & Functional, Recommended, 8 Chests*
 
 100% locked, 8 items per slice chest hall design with block displays.
 
