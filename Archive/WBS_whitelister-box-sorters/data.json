@@ -3,6 +3,14 @@
   "name": "whitelister-box-sorters",
   "code": "WBS",
   "description": "Sorts boxes by checking if it contains a specific item type in any slot",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1386932150355623997",
+      "name": "Shulker Box Blacklister",
+      "code": "WBS001",
+      "timestamp": 1750740897379,
+      "path": "WBS001_Shulker_Box_Blacklister"
+    }
+  ]
 }

@@ -1,0 +1,82 @@
+{
+  "id": "1386932150355623997",
+  "name": "Shulker Box Blacklister",
+  "code": "WBS001",
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "531601171211878431",
+      "username": "rapscallion1138",
+      "iconURL": "https://cdn.discordapp.com/avatars/531601171211878431/8db107ef61024878a05baab3a798d7d5.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "247092209780916225",
+      "username": "justglotz",
+      "iconURL": "https://cdn.discordapp.com/avatars/247092209780916225/6180f71564f0bb3fca26a7dd8b712748.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488539013222407",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789177995595777",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386932150934310912",
+      "name": "2021-10-24_165037.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386932150355623997/1386932150934310912/2021-10-24_16.50.37.png?ex=685b80b8&is=685a2f38&hm=3ef98624e21a2675818cf034f97408d5dbc412154f2450435d2c2898ab9c881c&",
+      "description": "Sent by andrews54757 at 6/24/2025, 12:53:12 AM",
+      "canDownload": true,
+      "width": 800,
+      "height": 593,
+      "path": "images/2021-10-24_165037.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386932151588618270",
+      "name": "WBS001_glotzscallion_8gt_2wt_blacklister.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386932150355623997/1386932151588618270/glotzscallion_8gt_2wt_blacklister.litematic?ex=685b80b8&is=685a2f38&hm=25ee876c6b0bf87bdff7de84d41d30add1106014e0dd20f166adfb32e79deb2c&",
+      "description": "Sent by andrews54757 at 6/24/2025, 12:53:12 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "3x6x8",
+        "version": "1.17.1"
+      },
+      "path": "attachments/WBS001_glotzscallion_8gt_2wt_blacklister.litematic"
+    }
+  ],
+  "description": "Each slice uses a static filter to check if the box contains the item set in the filter. If so, then the box will be rejected, otherwise the box moves to the next slice.",
+  "features": [
+    "3x6x8 (single slice)",
+    "2-wide tileable (overlapping slices)",
+    "Input boxes at hopper speed: 8gt"
+  ],
+  "considerations": [],
+  "notes": "",
+  "timestamp": 1750740897379,
+  "post": {
+    "forumId": "1383890936488132689",
+    "threadId": "1386932592351121500",
+    "continuingMessageIds": [],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1386932592351121500",
+    "attachmentMessageId": "1386932599217455144"
+  }
+}
