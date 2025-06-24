@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Tested & Functional, Recommended, Reliable Collection, Auto Replacement, Bufferless*
+**Tags:** *Recommended, Auto Replacement, Reliable Collection, Bufferless, Tested & Functional*
 
 0-ticks powder snow into the box when emptied, allowing for a fully reliable hopperless collection.
 
