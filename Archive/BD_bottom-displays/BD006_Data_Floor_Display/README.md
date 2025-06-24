@@ -11,13 +11,17 @@
 
 A tiny floor display which is great for quad bulks.
 
-**Features:**
+## Features
 - Local first box placement
 - Default extended
 - Collectionless
 - 1 hopper, locked when a box is displayed
 
-Note: This design is 1.16 due to the comparator on the piston
+## Considerations
+- Buffers 2 boxes
+
+## Notes
+This design is 1.16 due to the comparator on the piston
 
 ## Resources
 - [BD006_Data_-_Floor_Display.litematic](attachments/BD006_Data_-_Floor_Display.litematic): MC 1.21.4, Size 1x6x5 blocks
