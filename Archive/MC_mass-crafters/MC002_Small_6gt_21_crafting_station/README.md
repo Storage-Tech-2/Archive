@@ -7,9 +7,10 @@
 
 **Tags:** *Tested & Functional, Recommended*
 
-Small 6gt box replacement crafting station. Displays boxes for you with ingredients on the left which breaks when emptied, and a box for the results on the right which breaks when full.
+Small 6gt box replacement crafting station. Displays two boxes for you with ingredients on the left which breaks when emptied, and a box for the results on the right which breaks when full.
 
 ## Features
+- Two input boxes are displayed simultaneously
 - Replaces boxes within 6gt for fast manual unloading/loading.
 - Very small footprint (6x6x6)
 - automatically put the first box on the unloading side
