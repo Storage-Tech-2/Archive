@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Tested & Functional, Auto Replacement, Closed Box Detection*
+**Tags:** *Closed Box Detection, Auto Replacement, Tested & Functional*
 
 A small display without empty box collection that breaks the box only when empty and closed.
 
