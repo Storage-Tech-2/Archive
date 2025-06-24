@@ -27,3 +27,9 @@
 ## Resources
 - [DH004_2025-01-05_03-28-22_quad_bulk_showcase.zip](attachments/DH004_2025-01-05_03-28-22_quad_bulk_showcase.zip): application/zip
 - [DH004_quad_216items_clean.litematic](attachments/DH004_quad_216items_clean.litematic): MC 1.21.1, Size 35x44x27 blocks
+
+## Comments
+
+### camphorwood (6/24/2025)
+denied gg
+
