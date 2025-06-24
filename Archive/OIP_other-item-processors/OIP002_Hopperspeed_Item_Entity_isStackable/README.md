@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Tested & Functional, Recommended, isStackable*
+**Tags:** *isStackable, Recommended, Tested & Functional*
 
 Performs a isStackable check on a entire item entity stack every 8gt. If each item entity is stacked to 64, it can process up to 576,000 items/hour.
 
