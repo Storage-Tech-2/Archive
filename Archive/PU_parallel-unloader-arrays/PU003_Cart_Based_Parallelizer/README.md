@@ -33,6 +33,7 @@ Use the north direction sub schem, the others might be forked. Explanation of de
 
 ### Andrews54757 (6/24/2025)
 **Cart Based Paralleliser Explanation**
+By: _javierrubik33
 Logic:
 
 __Input:__
