@@ -1,0 +1,122 @@
+{
+  "id": "1386928511750770770",
+  "name": "Fully Hopperlocked Compact Bulk Storage",
+  "code": "DH003",
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "240860456057700352",
+      "username": "philgoodinator",
+      "iconURL": "https://cdn.discordapp.com/avatars/240860456057700352/a9f4d6256aa4effec933334c93da54c0.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "656864003242328064",
+      "displayName": "金合欢酱(acaciachan)",
+      "username": "acaciachan",
+      "iconURL": "https://cdn.discordapp.com/avatars/656864003242328064/65e1c203d9ea0af6509f0754122b45a2.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "576689459794542595",
+      "username": "pfeffabeissa",
+      "iconURL": "https://cdn.discordapp.com/avatars/576689459794542595/08a35eebcd9fcdc941ceb8a0dd785a79.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "297566644295827457",
+      "username": "walter7381",
+      "iconURL": "https://cdn.discordapp.com/avatars/297566644295827457/e8c32e9b66251cd84d0ff09adc818410.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488501545373755",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789129794519081",
+      "name": "Recommended"
+    },
+    {
+      "id": "1386533494888595518",
+      "name": "2 Displays"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386928515181580409",
+      "name": "Phil_Bulk.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386928511750770770/1386928515181580409/Phil_Bulk.png?ex=685b7d55&is=685a2bd5&hm=fabf3c75d58267e594a4851b0066c88d3941e4b85d58e9f9c7ca1eac32d34a87&",
+      "description": "Sent by andrews54757 at 6/24/2025, 12:38:45 AM",
+      "canDownload": true,
+      "width": 497,
+      "height": 800,
+      "path": "images/Phil_Bulk.png"
+    },
+    {
+      "id": "1386928516167372841",
+      "name": "In_slice_view.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386928511750770770/1386928516167372841/In_slice_view.png?ex=685b7d56&is=685a2bd6&hm=210446eac95f4ea26dd52eb43afbaa091e8654013a1b776f0009ac6d55f0ecd0&",
+      "description": "Sent by andrews54757 at 6/24/2025, 12:38:45 AM",
+      "canDownload": true,
+      "width": 454,
+      "height": 800,
+      "path": "images/In_slice_view.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386928516444061777",
+      "name": "DH003_compact_bulk_1_28_mil_items_per_slice.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386928511750770770/1386928516444061777/compact_bulk_1_28_mil_items_per_slice.litematic?ex=685b7d56&is=685a2bd6&hm=3e26c47463bfd1be295394e2137f614f6fcd5396711505ff5f263064be900628&",
+      "description": "Sent by andrews54757 at 6/24/2025, 12:38:45 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "17x35x21",
+        "version": "1.17.1"
+      },
+      "path": "attachments/DH003_compact_bulk_1_28_mil_items_per_slice.litematic"
+    }
+  ],
+  "description": "Item bulk with box display capable of storing 1.28 million items per half slice.",
+  "features": [
+    "100% hopperlocked",
+    "1.28 million items per half slice",
+    "Togglestateless",
+    "Compact (17x35x21), sticks out 3 blocks from the first slice and 2 from the last",
+    "19 hoppers per half slice",
+    "If a slice runs out of items it will unlock itself to restock",
+    "Bufferless, Global initial box placement box display",
+    "Collection hoppers unlock only when needed",
+    "Empty boxes are dropped into a waterstream",
+    "Reliable collection of overflowing and unsorted boxes into a waterstream",
+    "Reliable with random input",
+    "Dropperline U-Turn only triggers and unlocks the side's hoppers when necessary",
+    "Recombination for unsorted boxes triggers only when needed"
+  ],
+  "considerations": [
+    "Fails if only one item is inside an inputted box"
+  ],
+  "notes": "Box sorter slice by @acaciachan . Keygen by @pfeffabeissa and @walter7381",
+  "timestamp": 1750740160438,
+  "post": {
+    "forumId": "1375565403727724764",
+    "threadId": "1386929501564305428",
+    "continuingMessageIds": [],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1386929501564305428",
+    "attachmentMessageId": "1386929506253799487"
+  }
+}

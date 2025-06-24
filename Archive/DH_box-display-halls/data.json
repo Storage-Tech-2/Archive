@@ -3,7 +3,7 @@
   "name": "box-display-halls",
   "code": "DH",
   "description": "Bulk/display halls",
-  "currentCodeId": 2,
+  "currentCodeId": 3,
   "entries": [
     {
       "id": "1386860131861659668",
@@ -11,6 +11,13 @@
       "code": "DH002",
       "timestamp": 1750723730898,
       "path": "DH002_1.8_Mil_Bulk_Storage"
+    },
+    {
+      "id": "1386928511750770770",
+      "name": "Fully Hopperlocked Compact Bulk Storage",
+      "code": "DH003",
+      "timestamp": 1750740160438,
+      "path": "DH003_Fully_Hopperlocked_Compact_Bulk_Storage"
     }
   ]
 }
