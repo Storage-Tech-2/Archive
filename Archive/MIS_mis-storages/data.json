@@ -13,13 +13,6 @@
       "path": "MIS001_Compact_Categorizer"
     },
     {
-      "id": "1386458263301918762",
-      "name": "YAMIS Multi Item Storage System",
-      "code": "MIS002",
-      "timestamp": 1750628486444,
-      "path": "MIS002_YAMIS_Multi_Item_Storage_System"
-    },
-    {
       "id": "1386555107084210176",
       "name": "Simple Cart-based MIS Storage (Scorpio MIS)",
       "code": "MIS003",
