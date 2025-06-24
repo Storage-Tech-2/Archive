@@ -222,7 +222,7 @@
       "name": "mass-crafters",
       "code": "MC",
       "path": "Archive/MC_mass-crafters",
-      "description": "Mass crafters"
+      "description": "Mass crafters and crafting stations"
     },
     {
       "id": "1375570897263657042",
@@ -272,6 +272,13 @@
       "code": "CC",
       "path": "Archive/CC_clocks-and-counters",
       "description": "Clocks and counter devices"
+    },
+    {
+      "id": "1387131693411995658",
+      "name": "nether-transport",
+      "code": "NT",
+      "path": "Archive/NT_nether-transport",
+      "description": "Transporting items in the nether"
     }
   ]
 }
