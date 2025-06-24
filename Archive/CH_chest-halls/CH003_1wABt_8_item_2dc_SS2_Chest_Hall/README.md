@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Tested & Functional, Recommended, 8 Chests*
+**Tags:** *Recommended, Tested & Functional, 8 Chests*
 
 8 chest hall design with two double chests of storage per item type.
 
