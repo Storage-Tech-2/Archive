@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Tested & Functional, Auto Replacement*
+**Tags:** *Auto Replacement, Tested & Functional*
 
 An incredibly simple box display that is quick to build and is the only 4 wide box display to my knowledge.
 
