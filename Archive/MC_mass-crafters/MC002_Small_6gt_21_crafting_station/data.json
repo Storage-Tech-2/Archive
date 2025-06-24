@@ -80,10 +80,11 @@
     "On the loading side, you can right-click the note block to replace it with a new shulker box"
   ],
   "considerations": [
-    "no closed box detection"
+    "no closed box detection",
+    "static carts for collection"
   ],
   "notes": "Interface inspired by @m3",
-  "timestamp": 1750778469147,
+  "timestamp": 1750778522183,
   "post": {
     "forumId": "1375570813591486525",
     "threadId": "1387090179948286053",

@@ -18,6 +18,7 @@ Small 6gt box replacement crafting station. Displays boxes for you with ingredie
 
 ## Considerations
 - no closed box detection
+- static carts for collection
 
 ## Notes
 Interface inspired by @m3
