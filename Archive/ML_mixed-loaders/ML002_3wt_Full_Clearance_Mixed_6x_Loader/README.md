@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Tested & Functional, Recommended, 6X Hopperspeed*
+**Tags:** *6X Hopperspeed, Recommended, Tested & Functional*
 
 Comparator readouts from all droppers ensures no items are buffered in the droppers/hoppers. Works with all item types and with any frequency input.
 
