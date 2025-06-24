@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Tested & Functional, Recommended, Cart Based*
+**Tags:** *Cart Based, Tested & Functional, Recommended*
 
 2 wide tilable cart based item type filters which can sort item entities at high speeds, allowing for subsequent loaders to forgo having filters.
 
