@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Tested & Functional, Recommended*
+**Tags:** *Recommended, Tested & Functional*
 
 A simple storage system intended as a main MIS (multi-item sorter) for the typical survival Minecraft player.
 
