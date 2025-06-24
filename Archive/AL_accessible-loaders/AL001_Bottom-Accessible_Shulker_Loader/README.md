@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Tested & Functional, Recommended, Tileable*
+**Tags:** *Tileable, Recommended, Tested & Functional*
 
 Single hopper-speed loader with easy access to the box and most of the redstone away from the access side.
 
