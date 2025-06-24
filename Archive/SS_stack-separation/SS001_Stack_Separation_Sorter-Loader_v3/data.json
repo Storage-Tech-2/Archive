@@ -67,10 +67,11 @@
     "Partial box collection"
   ],
   "considerations": [
-    "Doesn't include storage and unsorted handling."
+    "Doesn't include storage and unsorted handling.",
+    "Loaders can spit items"
   ],
   "notes": "If you want to use multiple slices to load same item type, use 'multi-slice-loading-slice', with last in line being normal 'base' slice. Additional credits: RaPsCaLLioN1138 for stacksep core, camphorwood for 3wt 8x loader.",
-  "timestamp": 1750632137598,
+  "timestamp": 1750790550638,
   "post": {
     "forumId": "1375568762304204912",
     "threadId": "1386476421047648316",

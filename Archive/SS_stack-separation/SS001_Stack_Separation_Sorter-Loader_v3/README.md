@@ -18,6 +18,7 @@ Uses stack separation to filter entire stack of items at once. Each of the 3wt m
 
 ## Considerations
 - Doesn't include storage and unsorted handling.
+- Loaders can spit items
 
 ## Notes
 If you want to use multiple slices to load same item type, use 'multi-slice-loading-slice', with last in line being normal 'base' slice. Additional credits: RaPsCaLLioN1138 for stacksep core, camphorwood for 3wt 8x loader.
