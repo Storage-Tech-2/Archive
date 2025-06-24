@@ -55,3 +55,16 @@ That leaves us with two scenarios that will allow the system to tell if the cart
 - It was: If the item was already in the set the cart will pick the item and then reset the exact same item back again, thus not changing the status of the set and leaving the cart with 2 of that item in the first slot [2 x x x 62]
 - It was not: If the item was not in the set the cart will not pick any item and one will be added to the set, thus adding what was not already there and leaving the cart with the following arrangement [1 x x x 62]
 
+
+### Andrews54757 (6/24/2025)
+__Set Check:__
+To decide if the cart should be accepted we use the information in hand, 2 items in the first slot or 1. This step starts by removing 1 item from the cart and trying to push another renamed item into it. The hopper that tries to push is completely full (giving ss15) if it succeds to push it will lower its signal strength to 14, which is used to redirect the cart. Same hopper that pushes will pull the same renamed item 8gt later from the same cart, returning back to ss15.
+Depending on if the cart was accepted or not we do something with the item previously removed:
+
+- Rejected: If the cart is rejected it is yeeted back to the input and the item previously removed is merged with its content.
+- Accepted: If the cart is accepted it is yeeted into a 4d alligner that will send items to the output (a max of 62) and the single item is dropped into the unmapping queue which is simply a cobweb where items stay a precise amount of time, preserving order.
+Note: In both cases the cart still had dummy items and that makes it so both outputs have to go over filters for dummies, and that's the reason why they are renamed and not unstackables.
+
+__Unmapping:__
+Unmapping is used to remove the key item from the set with a defined delay (enough for a hopper to process a full stack ~512gt) to allow for duplicate stacks of the same item to be accepted. It simply waits for the item previously sent to the queue line to arrive and spawns a cart that is used as a filter to go under the 1x1x1 and pick up the set item. Cart is yeeted directly into the output with 2 of that item being sent. Since those 2 items arrive to the filter before its full stack is completely filtered hopper cooldown won't be an issue. (This is one of the reasons why it is incompatible with push filters).
+
