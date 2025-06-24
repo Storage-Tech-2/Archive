@@ -1,0 +1,86 @@
+{
+  "id": "1387132949086076948",
+  "name": "Default Extended Wall Box Display",
+  "code": "OD001",
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "444883614761746436",
+      "displayName": "camphorwood",
+      "username": "camphorwood",
+      "iconURL": "https://cdn.discordapp.com/avatars/444883614761746436/17e4ab17b53d45242bc5b87532e74c0c.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488480968118300",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789104012132466",
+      "name": "Recommended"
+    },
+    {
+      "id": "1386201827846127667",
+      "name": "Reliable Collection"
+    },
+    {
+      "id": "1386201854257532949",
+      "name": "Auto Replacement"
+    }
+  ],
+  "images": [
+    {
+      "id": "1387132949723353129",
+      "name": "walldisplay_defaultextended.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387132949086076948/1387132949723353129/walldisplay_defaultextended.png?ex=685c3bba&is=685aea3a&hm=fd5fa2e41419844692efd25904ed85597925ea1887ff28a187076934afd92bd4&",
+      "description": "Sent by andrews54757 at 6/24/2025, 2:11:06 PM",
+      "canDownload": true,
+      "width": 652,
+      "height": 800,
+      "path": "images/walldisplay_defaultextended.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1387132950612545617",
+      "name": "OD001_walldisplay_defaultextended.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387132949086076948/1387132950612545617/walldisplay_defaultextended.litematic?ex=685c3bbb&is=685aea3b&hm=f5dbb7c384b8b6488966998beedaf7b80537c8a8c69eedbd773c350f440b8b0e&",
+      "description": "Sent by andrews54757 at 6/24/2025, 2:11:06 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "1x8x8",
+        "version": "1.20.2"
+      },
+      "path": "attachments/OD001_walldisplay_defaultextended.litematic"
+    }
+  ],
+  "description": "Wall box display for restock stations",
+  "features": [
+    "Snow default extended when no box is displayed",
+    "Global first box placement",
+    "Loses last box due to how it's wired",
+    "If global first box dispensing triggers while a box is being replaced, there's a chance the box won't be collected"
+  ],
+  "considerations": [],
+  "notes": "",
+  "timestamp": 1750788732054,
+  "post": {
+    "forumId": "1375561629378416740",
+    "threadId": "1387133226216067197",
+    "continuingMessageIds": [],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1387133226216067197",
+    "attachmentMessageId": "1387133230838452369"
+  }
+}

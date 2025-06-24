@@ -3,6 +3,14 @@
   "name": "other-displays",
   "code": "OD",
   "description": "Other box displays.",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1387132949086076948",
+      "name": "Default Extended Wall Box Display",
+      "code": "OD001",
+      "timestamp": 1750788732054,
+      "path": "OD001_Default_Extended_Wall_Box_Display"
+    }
+  ]
 }
