@@ -1,4 +1,4 @@
-# Perfect Shulker Box Unloader
+# Simple 1x Shulker Box Unloader
 <img alt="image.png" src="images/image.png?raw=1" height="300px">
 
 **Authors:** *Raffq, SamosTheSage*
@@ -7,7 +7,7 @@
 
 **Tags:** *Tested & Functional, 1X Hopperspeed*
 
-Simple hopperspeed box unloader/
+Simple hopperspeed box unloader
 
 ## Features
 - Small design

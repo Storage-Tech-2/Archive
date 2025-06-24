@@ -1,6 +1,6 @@
 {
   "id": "1387180395883397291",
-  "name": "Perfect Shulker Box Unloader",
+  "name": "Simple 1x Shulker Box Unloader",
   "code": "BU006",
   "authors": [
     {
@@ -62,7 +62,7 @@
       "path": "attachments/BU006_perfect_shulker_unloader.litematic"
     }
   ],
-  "description": "Simple hopperspeed box unloader/",
+  "description": "Simple hopperspeed box unloader",
   "features": [
     "Small design",
     "Can handle empty boxes"
@@ -72,7 +72,7 @@
     "Box collection is not 100% reliable if tiled because box item can be collected by adjacent slice, must be A/B tiled."
   ],
   "notes": "[Showcase Video](https://www.youtube.com/watch?v=Vp17vDuMHAQ)",
-  "timestamp": 1750800185749,
+  "timestamp": 1750800241988,
   "post": {
     "forumId": "1375560446676963450",
     "threadId": "1387181114518405131",
