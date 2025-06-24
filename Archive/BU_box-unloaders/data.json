@@ -3,7 +3,7 @@
   "name": "box-unloaders",
   "code": "BU",
   "description": "Box unloaders",
-  "currentCodeId": 4,
+  "currentCodeId": 5,
   "entries": [
     {
       "id": "1386246487452942437",
@@ -32,6 +32,13 @@
       "code": "BU004",
       "timestamp": 1750650896273,
       "path": "BU004_Minimum_Piston_Slice_Preserving_Box_Unloader"
+    },
+    {
+      "id": "1386937530808537098",
+      "name": "Hopperspeed Box Yeeter",
+      "code": "BU005",
+      "timestamp": 1750742160939,
+      "path": "BU005_Hopperspeed_Box_Yeeter"
     }
   ]
 }
