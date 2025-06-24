@@ -61,7 +61,7 @@
       "path": "attachments/BD006_Data_-_Floor_Display.litematic"
     }
   ],
-  "description": "*by DatNerd/Data*\n\nA tiny floor display which is great for quad bulks.",
+  "description": "A tiny floor display which is great for quad bulks.",
   "features": [
     "Local first box placement",
     "Default extended",
@@ -72,7 +72,7 @@
     "Buffers 2 boxes"
   ],
   "notes": "This design is 1.16 due to the comparator on the piston",
-  "timestamp": 1750795360695,
+  "timestamp": 1750795385415,
   "post": {
     "forumId": "1375561551188328531",
     "threadId": "1387160644792487957",

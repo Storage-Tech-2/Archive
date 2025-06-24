@@ -7,8 +7,6 @@
 
 **Tags:** *Tested & Functional, Recommended, Auto Replacement*
 
-*by DatNerd/Data*
-
 A tiny floor display which is great for quad bulks.
 
 ## Features
