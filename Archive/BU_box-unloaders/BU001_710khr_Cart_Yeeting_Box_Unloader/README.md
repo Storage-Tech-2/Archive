@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Tested & Functional, Cart Yeet, Recommended*
+**Tags:** *Recommended, Tested & Functional, Cart Yeet*
 
 Stacks hopper-minecarts below the box to quickly unload it. Provides an alternative to box yeeting that doesn't destroy the box.
 
