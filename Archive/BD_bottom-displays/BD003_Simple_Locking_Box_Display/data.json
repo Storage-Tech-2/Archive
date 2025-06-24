@@ -31,30 +31,28 @@
   ],
   "images": [
     {
-      "id": "1386857979592310894",
-      "name": "simpleunknown.png",
-      "contentType": "image/png",
-      "url": "https://cdn.discordapp.com/attachments/1386857979210367036/1386857979592310894/simpleunknown.png?ex=685b3ba4&is=6859ea24&hm=8180348dba345a2fcd2f76621e7d7c09f8952640b78f7dbab651cbbb6dc05b66&",
-      "description": "Sent by andrews54757 at 6/23/2025, 7:58:28 PM",
+      "id": "906939952040910948",
+      "name": "unknown.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/756579806484627608/906939952040910948/unknown.png?ex=685c20a6&is=685acf26&hm=c6e256837138083ededd19375d4ae32d68d40dd12b9aa65df563b6b7c1782fb1&",
+      "description": "[DiscordCDN] Sent by pyraleftt at 6/24/2025, 2:48:35 PM",
       "canDownload": true,
-      "width": 618,
-      "height": 800,
-      "path": "images/simpleunknown.png"
+      "path": "images/unknown.png"
     }
   ],
   "attachments": [
     {
-      "id": "1386857980594618459",
-      "name": "BD003_b1nary_simple_locking_box_display.litematic",
+      "id": "1387143392349388911",
+      "name": "BD003_b1nary_simple_locking_box_display_improved.litematic",
       "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1386857979210367036/1386857980594618459/b1nary_simple_locking_box_display.litematic?ex=685b3ba5&is=6859ea25&hm=8d86bfa9a71d881beb8e6f8145749a72c4b2c834e4d4b567db3b6cd221bf3303&",
-      "description": "Sent by andrews54757 at 6/23/2025, 7:58:28 PM",
+      "url": "https://cdn.discordapp.com/attachments/1386857979210367036/1387143392349388911/b1nary_simple_locking_box_display_improved.litematic?ex=685c4574&is=685af3f4&hm=8f8a1df3cef2f9c2c3f229e77d89cabac9e29bf78e5d1c7d8cf9342cdf33dcba&",
+      "description": "Sent by andrews54757 at 6/24/2025, 2:52:36 PM",
       "canDownload": true,
       "litematic": {
-        "size": "4x6x1",
+        "size": "4x5x1",
         "version": "1.17.1"
       },
-      "path": "attachments/BD003_b1nary_simple_locking_box_display.litematic"
+      "path": "attachments/BD003_b1nary_simple_locking_box_display_improved.litematic"
     }
   ],
   "description": "An incredibly simple box display that is quick to build and is the only 4 wide box display to my knowledge.",
@@ -65,12 +63,12 @@
     "It should be possible to time the breaking on another slice to cause the box breaking to trigger extra and break a partial full box, but this is so incredibly unlikely."
   ],
   "notes": "",
-  "timestamp": 1750723234925,
+  "timestamp": 1750791179122,
   "post": {
     "forumId": "1375561551188328531",
-    "threadId": "1386858513715691520",
+    "threadId": "1387143490785509388",
     "continuingMessageIds": [],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1386858513715691520",
-    "attachmentMessageId": "1386858519940174006"
+    "threadURL": "https://discord.com/channels/1375556143186837695/1387143490785509388",
+    "attachmentMessageId": "1387143497789997157"
   }
 }
