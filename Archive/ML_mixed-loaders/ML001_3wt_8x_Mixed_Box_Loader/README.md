@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Tested & Functional, 8X Hopperspeed, Recommended*
+**Tags:** *Recommended, Tested & Functional, 8X Hopperspeed*
 
 Loads single or mixed item types into shulker boxes at 8x hopper speed (approximately 72k/hr). 
 
