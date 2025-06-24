@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Tested & Functional, Recommended, isEmpty/isFull*
+**Tags:** *Recommended, Tested & Functional, isEmpty/isFull*
 
 Separates shulker boxes based on their fill level
 
