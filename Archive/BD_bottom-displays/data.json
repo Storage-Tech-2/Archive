@@ -3,7 +3,7 @@
   "name": "bottom-displays",
   "code": "BD",
   "description": "Bottom box displays",
-  "currentCodeId": 2,
+  "currentCodeId": 3,
   "entries": [
     {
       "id": "1386689670829834353",
@@ -11,6 +11,13 @@
       "code": "BD002",
       "timestamp": 1750683096514,
       "path": "BD002_Collectionless_Smart_Display"
+    },
+    {
+      "id": "1386857979210367036",
+      "name": "Simple Locking Box Display",
+      "code": "BD003",
+      "timestamp": 1750723234925,
+      "path": "BD003_Simple_Locking_Box_Display"
     }
   ]
 }
