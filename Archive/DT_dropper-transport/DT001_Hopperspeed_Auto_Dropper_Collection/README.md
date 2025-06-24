@@ -5,6 +5,6 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Tested & Functional, Recommended*
+**Tags:** *Recommended, Tested & Functional*
 
 Automatic hopperspeed droppers. Images combined from https://imgur.com/a/1e3S81s
