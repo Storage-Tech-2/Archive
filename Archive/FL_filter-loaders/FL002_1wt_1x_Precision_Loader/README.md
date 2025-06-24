@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Tested & Functional, Recommended, Slice Preserving, 1X Hopperspeed*
+**Tags:** *Tested & Functional, 1X Hopperspeed, Slice Preserving, Recommended*
 
 Filters and loads items into boxes at hopperspeed.  Slice preserving box breaking mechanism ensures that no box items land in adjacent slices.
 
