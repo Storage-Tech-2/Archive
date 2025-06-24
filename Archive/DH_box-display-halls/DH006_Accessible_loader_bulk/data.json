@@ -1,0 +1,95 @@
+{
+  "id": "1387137700708093983",
+  "name": "Accessible loader bulk",
+  "code": "DH006",
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "722756905344434218",
+      "username": "oriolcubeles",
+      "iconURL": "https://cdn.discordapp.com/avatars/722756905344434218/9622976aeb754b2bf21d7b822a720d99.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488501545373755",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1386533494888595518",
+      "name": "2 Displays"
+    },
+    {
+      "id": "1387138142334881895",
+      "name": "Accessible Loaders"
+    }
+  ],
+  "images": [
+    {
+      "id": "1387137701777506537",
+      "name": "aunknown.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387137700708093983/1387137701777506537/aunknown.png?ex=685c4027&is=685aeea7&hm=eb19abce48cc1621f69d845fe0d5ec441e24a65623f8be35507a3a32a5802506&",
+      "description": "Sent by andrews54757 at 6/24/2025, 2:29:59 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 646,
+      "path": "images/aunknown.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1387137702071373988",
+      "name": "DH006_Accessible_Loader_Bulk_by_Oriol.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387137700708093983/1387137702071373988/Accessible_Loader_Bulk_by_Oriol.litematic?ex=685c4027&is=685aeea7&hm=d9f8944d987b0b25066b2ff6868bc71f8fe76aa52d69d1c1fe018f39b6bd2c22&",
+      "description": "Sent by andrews54757 at 6/24/2025, 2:29:59 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "2x21x25",
+        "version": "1.18.2"
+      },
+      "path": "attachments/DH006_Accessible_Loader_Bulk_by_Oriol.litematic"
+    },
+    {
+      "id": "1387137702469701672",
+      "name": "DH006_Accessible_Loader_Bulk_by_Oriol_Tiled_Example_32_slices_tiled.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387137700708093983/1387137702469701672/Accessible_Loader_Bulk_by_Oriol_Tiled_Example_32_slices_tiled.litematic?ex=685c4028&is=685aeea8&hm=ae6fab564f96c4f27cb7ab090b0fb73d8d079cc4627808f69f9e9fc78d622a0e&",
+      "description": "Sent by andrews54757 at 6/24/2025, 2:29:59 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "21x21x25",
+        "version": "1.18.2"
+      },
+      "path": "attachments/DH006_Accessible_Loader_Bulk_by_Oriol_Tiled_Example_32_slices_tiled.litematic"
+    }
+  ],
+  "description": "2 type bulk hall slice with accessible loaders",
+  "features": [
+    "1x Accessible loaders with 6 stacks of backlog",
+    "SSI Filters",
+    "All boxes will go directly to the bottom chest without buffer."
+  ],
+  "considerations": [
+    "4 Unlocked hoppers per slice, with composters on top."
+  ],
+  "notes": "- The tiled schematic shows how the global locking lines and the water streams are supposed to be set up.\n- The picture attached is both A and B slices mixed in one image. \n- The observer line in the middle of the box display will place all the boxes available with two pulses (from which the second one must be done at least after 44 game ticks) as a global line just after having unloaded all the items in the main storage (similar to the global locking concept but with a different purpose).",
+  "timestamp": 1750790003674,
+  "post": {
+    "forumId": "1375565403727724764",
+    "threadId": "1387138560942932101",
+    "continuingMessageIds": [],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1387138560942932101",
+    "attachmentMessageId": "1387138566777213029"
+  }
+}
