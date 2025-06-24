@@ -1,0 +1,121 @@
+{
+  "id": "1387083566676181035",
+  "name": "32X and 64X Compact Ideal Splitter",
+  "code": "VIP003",
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "displayName": "Andrews54757",
+      "username": "andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488518499012625",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789152770920521",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1387083567254999100",
+      "name": "sdsimage.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387083566676181035/1387083567254999100/sdsimage.png?ex=685c0dbd&is=685abc3d&hm=1a61a5172b2bb99d388eca0a20a49a03fe205efc1e75ab08336f870a09c68784&",
+      "description": "Sent by andrews54757 at 6/24/2025, 10:54:53 AM",
+      "canDownload": true,
+      "width": 638,
+      "height": 441,
+      "path": "images/sdsimage.png"
+    },
+    {
+      "id": "1387083568605429821",
+      "name": "ideal3-2.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387083566676181035/1387083568605429821/ideal3-2.png?ex=685c0dbd&is=685abc3d&hm=2ab591cd932f783dd781deeee9f40cf5ff1bbbc9d79fa765f9b897f32c1573ea&",
+      "description": "Sent by andrews54757 at 6/24/2025, 10:54:53 AM",
+      "canDownload": true,
+      "width": 800,
+      "height": 718,
+      "path": "images/ideal3-2.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1387083568605429821",
+      "name": "VIP003_ideal3-2.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387083566676181035/1387083568605429821/ideal3-2.png?ex=685c0dbd&is=685abc3d&hm=2ab591cd932f783dd781deeee9f40cf5ff1bbbc9d79fa765f9b897f32c1573ea&",
+      "description": "Sent by andrews54757 at 6/24/2025, 10:54:53 AM",
+      "canDownload": true,
+      "path": "attachments/VIP003_ideal3-2.png"
+    },
+    {
+      "id": "1387083569155014706",
+      "name": "VIP003_Ideal_Splitter_V3-r8.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1387083566676181035/1387083569155014706/Ideal_Splitter_V3-r8.zip?ex=685c0dbd&is=685abc3d&hm=006a0c1ecb937b745d8751480c1949d969e86e60c3a948ac16e8380918cdfede&",
+      "description": "Sent by andrews54757 at 6/24/2025, 10:54:53 AM",
+      "canDownload": true,
+      "path": "attachments/VIP003_Ideal_Splitter_V3-r8.zip"
+    },
+    {
+      "id": "1387083569565798600",
+      "name": "VIP003_ideal_v3_64x.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387083566676181035/1387083569565798600/ideal_v3_64x.litematic?ex=685c0dbd&is=685abc3d&hm=1126ba3aba4f974ffc93730fdf975b96752414dbdd80abbbe76e28a911b6d527&",
+      "description": "Sent by andrews54757 at 6/24/2025, 10:54:53 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "43x16x14",
+        "version": "1.21.4"
+      },
+      "path": "attachments/VIP003_ideal_v3_64x.litematic"
+    },
+    {
+      "id": "1387083570010525808",
+      "name": "VIP003_ideal_v3_32x.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387083566676181035/1387083570010525808/ideal_v3_32x.litematic?ex=685c0dbd&is=685abc3d&hm=f0602b0e34832c4c8fcd05987d775be1e84c166c736b66437e8946dccea5d79d&",
+      "description": "Sent by andrews54757 at 6/24/2025, 10:54:53 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "27x16x14",
+        "version": "1.21.4"
+      },
+      "path": "attachments/VIP003_ideal_v3_32x.litematic"
+    }
+  ],
+  "description": "Split mixed boxes into single type boxes. Produces minimum partial boxes. Up to 64x hopperspeed. 32x variant included in WDL.",
+  "features": [
+    "No idle hoppercarts and locked loader hoppers",
+    "Cart based box unloader and item refresher",
+    "Compact form factor. 43x16x14 for 64x version, 27x16x14 for 32x version."
+  ],
+  "considerations": [
+    "Lag from entities scale quadratically with the amount of items input in a single batch, we recommend limiting batch sizes to a double chest of shulker boxes."
+  ],
+  "notes": "Developed on [SoonCMP](https://soontech.org) (\"Ideal Splitter\" waypoint). [Showcase video](https://www.youtube.com/watch?v=PW318UfnCfU)",
+  "timestamp": 1750777104481,
+  "post": {
+    "forumId": "1375569954073477120",
+    "threadId": "1387084463976218714",
+    "continuingMessageIds": [],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1387084463976218714",
+    "attachmentMessageId": "1387084468904529960"
+  }
+}
