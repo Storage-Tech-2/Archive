@@ -3,6 +3,14 @@
   "name": "variable-box-processing",
   "code": "VBS",
   "description": "Variable box sorting",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1386933382579093594",
+      "name": "Hopper Speed Shulker Box Grouper",
+      "code": "VBS001",
+      "timestamp": 1750741216590,
+      "path": "VBS001_Hopper_Speed_Shulker_Box_Grouper"
+    }
+  ]
 }
