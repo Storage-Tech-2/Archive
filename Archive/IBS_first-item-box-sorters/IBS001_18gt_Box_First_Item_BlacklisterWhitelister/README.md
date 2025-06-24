@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Tested & Functional, Recommended*
+**Tags:** *Recommended, Tested & Functional*
 
 Separates boxes based on if the first item of the input box matches an item set.
 
