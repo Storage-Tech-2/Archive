@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Tested & Functional, Recommended, isEmpty/isFull*
+**Tags:** *Recommended, Tested & Functional, isEmpty/isFull*
 
 Small device that categorizes boxes by their fill levels at hopperspeed. Can function either as an isFull filter or as an isNotEmpty sorter with modification to the comparator barrel's contents.
 
