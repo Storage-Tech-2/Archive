@@ -3,7 +3,7 @@
   "name": "mass-crafters",
   "code": "MC",
   "description": "Mass crafters",
-  "currentCodeId": 2,
+  "currentCodeId": 3,
   "entries": [
     {
       "id": "1387089550656143462",
@@ -11,6 +11,13 @@
       "code": "MC002",
       "timestamp": 1750778522183,
       "path": "MC002_Small_6gt_21_crafting_station"
+    },
+    {
+      "id": "1387091494158209074",
+      "name": "tiny 8gt 1+1 crafting station",
+      "code": "MC003",
+      "timestamp": 1750778885787,
+      "path": "MC003_tiny_8gt_11_crafting_station"
     }
   ]
 }
