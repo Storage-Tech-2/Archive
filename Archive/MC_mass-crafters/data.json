@@ -3,6 +3,14 @@
   "name": "mass-crafters",
   "code": "MC",
   "description": "Mass crafters",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1386921677438587040",
+      "name": "Box Yeeting Crafting Station",
+      "code": "MC001",
+      "timestamp": 1750738415901,
+      "path": "MC001_Box_Yeeting_Crafting_Station"
+    }
+  ]
 }
