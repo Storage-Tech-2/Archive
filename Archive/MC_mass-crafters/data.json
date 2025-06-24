@@ -3,6 +3,14 @@
   "name": "mass-crafters",
   "code": "MC",
   "description": "Mass crafters",
-  "currentCodeId": 1,
-  "entries": []
+  "currentCodeId": 2,
+  "entries": [
+    {
+      "id": "1387089550656143462",
+      "name": "Small 6gt 2+1 crafting station",
+      "code": "MC002",
+      "timestamp": 1750778469147,
+      "path": "MC002_Small_6gt_21_crafting_station"
+    }
+  ]
 }
