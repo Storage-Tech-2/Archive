@@ -3,6 +3,14 @@
   "name": "mini-furnace-arrays",
   "code": "FA",
   "description": "Furnace arrays",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1386920320081985736",
+      "name": "Entityless 50 Furnace Array",
+      "code": "FA001",
+      "timestamp": 1750738111030,
+      "path": "FA001_Entityless_50_Furnace_Array"
+    }
+  ]
 }
