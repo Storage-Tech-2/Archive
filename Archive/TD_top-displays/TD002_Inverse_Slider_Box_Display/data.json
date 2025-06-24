@@ -1,0 +1,120 @@
+{
+  "id": "1387092967147180035",
+  "name": "Inverse Slider Box Display",
+  "code": "TD002",
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "577991168369885223",
+      "username": "jayroi",
+      "iconURL": "https://cdn.discordapp.com/avatars/577991168369885223/2775f84c1b6a1241468c6efdc8a320ce.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488476258041933",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789099033497712",
+      "name": "Recommended"
+    },
+    {
+      "id": "1386201662418321499",
+      "name": "Auto Replacement"
+    }
+  ],
+  "images": [
+    {
+      "id": "1387092968514519133",
+      "name": "area_render_355_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387092967147180035/1387092968514519133/area_render_355_.png?ex=685c167e&is=685ac4fe&hm=91c65e15d1a2ff4576b704bd9da081efeb3fe4761bea494775fa5b86724373fd&",
+      "description": "Sent by andrews54757 at 6/24/2025, 11:32:14 AM",
+      "canDownload": true,
+      "width": 678,
+      "height": 800,
+      "path": "images/area_render_355_.png"
+    },
+    {
+      "id": "1387092969848569987",
+      "name": "area_render_356_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387092967147180035/1387092969848569987/area_render_356_.png?ex=685c167e&is=685ac4fe&hm=a193756c9df18d5c80ad3773618f6fffc909dc5d1149fbd26b3bf9a64c3e2ac6&",
+      "description": "Sent by andrews54757 at 6/24/2025, 11:32:14 AM",
+      "canDownload": true,
+      "width": 800,
+      "height": 728,
+      "path": "images/area_render_356_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1387092970553081936",
+      "name": "TD002_Seamless_Inverse_Slider_Top_Display.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387092967147180035/1387092970553081936/Seamless_Inverse_Slider_Top_Display.litematic?ex=685c167f&is=685ac4ff&hm=4260999b824406805c13bb2a4a3fc03d2b8072dee5944a6010f45f852673fa39&",
+      "description": "Sent by andrews54757 at 6/24/2025, 11:32:14 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "8x10x4",
+        "version": "1.20.2"
+      },
+      "path": "attachments/TD002_Seamless_Inverse_Slider_Top_Display.litematic"
+    },
+    {
+      "id": "1387092970976710788",
+      "name": "TD002_Visible_Noteblock_Inverse_Slider_Top_Display.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387092967147180035/1387092970976710788/Visible_Noteblock_Inverse_Slider_Top_Display.litematic?ex=685c167f&is=685ac4ff&hm=55bb5aee408508981fe798ffac3316d52581bef5915b1497bc86696cb0e8c108&",
+      "description": "Sent by andrews54757 at 6/24/2025, 11:32:14 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "8x10x4",
+        "version": "1.20.2"
+      },
+      "path": "attachments/TD002_Visible_Noteblock_Inverse_Slider_Top_Display.litematic"
+    },
+    {
+      "id": "1387092971320512666",
+      "name": "TD002_Variable_Breaking_Inverse_Slider_Top_Display.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387092967147180035/1387092971320512666/Variable_Breaking_Inverse_Slider_Top_Display.litematic?ex=685c167f&is=685ac4ff&hm=0b3ad8137784fd428bb6e0e7241fd3b66b39c37b0d81aab17cb736c63a9415f8&",
+      "description": "Sent by andrews54757 at 6/24/2025, 11:32:14 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "1x8x9",
+        "version": "1.20.2"
+      },
+      "path": "attachments/TD002_Variable_Breaking_Inverse_Slider_Top_Display.litematic"
+    }
+  ],
+  "description": "Designed for quad bulks with more available space under the top display.",
+  "features": [
+    "Nice top UI",
+    "Locally locked minimum hopper locking",
+    "Included variants for slightly different UI and features, such as one with more space available under the display, but with a visible noteblock."
+  ],
+  "considerations": [
+    "Requires more space under the display compared to https://discord.com/channels/748542142347083868/749137152192806954/1085199265992802485",
+    "Initial placement has many piston actions"
+  ],
+  "notes": "- Older versions may need more than two slices in order to avoid toggling the sticky during the initial place.",
+  "timestamp": 1750779242043,
+  "post": {
+    "forumId": "1375560792665231450",
+    "threadId": "1387093422552252577",
+    "continuingMessageIds": [],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1387093422552252577",
+    "attachmentMessageId": "1387093429162475543"
+  }
+}
