@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *1X Hopperspeed, Tested & Functional, Recommended*
+**Tags:** *Recommended, Tested & Functional, 1X Hopperspeed*
 
 A simple non-tileable hopperspeed box unloader.
 
