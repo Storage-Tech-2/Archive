@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Tested & Functional, 1X Hopperspeed*
+**Tags:** *Recommended, Tested & Functional, 1X Hopperspeed*
 
 Simple hopperspeed box unloader
 
