@@ -4,10 +4,11 @@
   "code": "FBS005",
   "authors": [
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "624927906908471306",
       "username": "obi81",
-      "iconURL": "https://cdn.discordapp.com/avatars/624927906908471306/5ca94a8774d0abe79d280eb3ec2978b0.webp"
+      "iconURL": "https://cdn.discordapp.com/avatars/624927906908471306/5ca94a8774d0abe79d280eb3ec2978b0.webp",
+      "displayName": "Obi81"
     }
   ],
   "endorsers": [
