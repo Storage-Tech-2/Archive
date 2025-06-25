@@ -3,6 +3,14 @@
   "name": "unstackable-sorting",
   "code": "US",
   "description": "Sort unstackable items by its type, typically by exploiting unique interactions with that item",
-  "currentCodeId": 1,
-  "entries": []
+  "currentCodeId": 2,
+  "entries": [
+    {
+      "id": "1387480002978910330",
+      "name": "Hopperspeed Potion Type Filter",
+      "code": "US002",
+      "timestamp": 1750871954000,
+      "path": "US002_Hopperspeed_Potion_Type_Filter"
+    }
+  ]
 }

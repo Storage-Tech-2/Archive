@@ -1,0 +1,89 @@
+{
+  "id": "1387480002978910330",
+  "name": "Hopperspeed Potion Type Filter",
+  "code": "US002",
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "displayName": "Andrews54757",
+      "username": "andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "204889304227512320",
+      "username": "xxopticnervexx",
+      "iconURL": "https://cdn.discordapp.com/avatars/204889304227512320/ad0110a304b6c4ae04b28fec0bb25033.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488499884425243",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789127018156145",
+      "name": "Recommended"
+    },
+    {
+      "id": "1387480192091684904",
+      "name": "Potions"
+    }
+  ],
+  "images": [
+    {
+      "id": "1387480003515519108",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387480002978910330/1387480003515519108/image.png?ex=685d7ef2&is=685c2d72&hm=7d834a8829407312d0768f01eb8764dff02fda8a2cdafa367c7d69b94d3811a2&",
+      "description": "Sent by andrews54757 at 6/25/2025, 1:10:10 PM",
+      "canDownload": true,
+      "width": 755,
+      "height": 800,
+      "path": "images/image.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1387480003876356146",
+      "name": "US002_potion_filter.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387480002978910330/1387480003876356146/potion_filter.litematic?ex=685d7ef3&is=685c2d73&hm=d216a20233812757a45f11c4c47db4e6f326cae084d6293fdbd58c83afac900c&",
+      "description": "Sent by andrews54757 at 6/25/2025, 1:10:10 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "2x7x6",
+        "version": "1.16.4"
+      },
+      "path": "attachments/US002_potion_filter.litematic"
+    }
+  ],
+  "description": "Sorts potions by their potion contents using comparator update detectors. Works by trying to brew a potion with a set ingredient.",
+  "features": [
+    "Hopperspeed and 2 wide (not tileable).",
+    "Consumes 1 blaze powder every 20 sorted potions."
+  ],
+  "considerations": [
+    "Not tileable",
+    "Cannot differentiate between all potion types"
+  ],
+  "notes": "Put an ingredient item in the brewer to set what type(s) you want to filter. It's not consumed during filtering. [Showcase Video](https://www.youtube.com/watch?v=0b2GOj19gPY)",
+  "timestamp": 1750871954000,
+  "post": {
+    "forumId": "1375564342392786944",
+    "threadId": "1387482283199430656",
+    "continuingMessageIds": [],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1387482283199430656",
+    "attachmentMessageId": "1387482287574220900"
+  }
+}
