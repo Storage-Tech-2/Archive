@@ -11,6 +11,13 @@
       "code": "US002",
       "timestamp": 1750871954000,
       "path": "US002_Hopperspeed_Potion_Type_Filter"
+    },
+    {
+      "id": "1387513620413288608",
+      "name": "Simple isBox/isPotion/isBook/isShearsOrFlint Filters",
+      "code": "US003",
+      "timestamp": 1750880418800,
+      "path": "US003_Simple_isBoxisPotionisBookisShearsOrFlint_Filters"
     }
   ]
 }
