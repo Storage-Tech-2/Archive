@@ -3,7 +3,7 @@
   "name": "accessible-loaders",
   "code": "AL",
   "description": "Box loaders where you can access the box it's loading",
-  "currentCodeId": 1,
+  "currentCodeId": 2,
   "entries": [
     {
       "id": "1386250599326285874",
@@ -11,6 +11,13 @@
       "code": "AL001",
       "timestamp": 1750578449031,
       "path": "AL001_Bottom-Accessible_Shulker_Loader"
+    },
+    {
+      "id": "1387255160815751319",
+      "name": "Small 1x Accessible Box Loader (with 2x version)",
+      "code": "AL002",
+      "timestamp": 1750872436027,
+      "path": "AL002_Small_1x_Accessible_Box_Loader_with_2x_version"
     }
   ]
 }
