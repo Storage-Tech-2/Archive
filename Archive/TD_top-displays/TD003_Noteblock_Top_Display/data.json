@@ -1,0 +1,78 @@
+{
+  "id": "1387184563532333288",
+  "name": "Noteblock Top Display",
+  "code": "TD003",
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "460316892976906261",
+      "displayName": "Ragdoll Willy",
+      "username": "ragdollwilly",
+      "iconURL": "https://cdn.discordapp.com/avatars/460316892976906261/a0332117bf4e609a1ead4417ae4357b4.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488476258041933",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1387251647679430757",
+      "name": "Manual Replacement"
+    }
+  ],
+  "images": [
+    {
+      "id": "1387184563800772750",
+      "name": "Ragdoll_Willy_-_Noteblock_Top_Display.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387184563532333288/1387184563800772750/Ragdoll_Willy_-_Noteblock_Top_Display.png?ex=685c6bcc&is=685b1a4c&hm=010792b9a4c833344f1c3e302635cf58707a89500a6b91dcb32e3dbb29dfb358&",
+      "description": "Sent by ragdollwilly at 6/24/2025, 5:36:12 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 706,
+      "path": "images/Ragdoll_Willy_-_Noteblock_Top_Display.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1387184564220330114",
+      "name": "TD003_Ragdoll_Willy_-_Noteblock_Top_Display.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387184563532333288/1387184564220330114/Ragdoll_Willy_-_Noteblock_Top_Display.litematic?ex=685c6bcc&is=685b1a4c&hm=e1f57798af0f22de1f686dcd1e6495a7d3f9568ffbd48cfd719952917b9a66a7&",
+      "description": "Sent by ragdollwilly at 6/24/2025, 5:36:12 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "1x6x7",
+        "version": "1.21.4"
+      },
+      "path": "attachments/TD003_Ragdoll_Willy_-_Noteblock_Top_Display.litematic"
+    }
+  ],
+  "description": "A small manual top display meant for quad bulks.",
+  "features": [
+    "Noteblock: In-slice first box placement and box call/replacement",
+    "1 hopper, locked"
+  ],
+  "considerations": [
+    "Buffers 1 box in the hopper"
+  ],
+  "notes": "",
+  "timestamp": 1750817280501,
+  "post": {
+    "forumId": "1375560792665231450",
+    "threadId": "1387252966016159764",
+    "continuingMessageIds": [],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1387252966016159764",
+    "attachmentMessageId": "1387252971175415878"
+  }
+}
