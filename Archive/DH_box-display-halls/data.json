@@ -25,6 +25,13 @@
       "code": "DH005",
       "timestamp": 1750779768557,
       "path": "DH005_Pyra_Quad_Bulk"
+    },
+    {
+      "id": "1386956182526230558",
+      "name": "Box Sorter Quad Bulk",
+      "code": "DH004",
+      "timestamp": 1750832996129,
+      "path": "DH004_Box_Sorter_Quad_Bulk"
     }
   ]
 }
