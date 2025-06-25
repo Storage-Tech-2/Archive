@@ -64,10 +64,10 @@
     "1 hopper, locked"
   ],
   "considerations": [
-    "Buffers 1 box in the hopper"
+    "Buffers at least 1 box in the hopper"
   ],
   "notes": "",
-  "timestamp": 1750817280501,
+  "timestamp": 1750834045048,
   "post": {
     "forumId": "1375560792665231450",
     "threadId": "1387252966016159764",

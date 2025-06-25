@@ -14,7 +14,7 @@ A small manual top display meant for quad bulks.
 - 1 hopper, locked
 
 ## Considerations
-- Buffers 1 box in the hopper
+- Buffers at least 1 box in the hopper
 
 ## Resources
 - [TD003_Ragdoll_Willy_-_Noteblock_Top_Display.litematic](attachments/TD003_Ragdoll_Willy_-_Noteblock_Top_Display.litematic): MC 1.21.4, Size 1x6x7 blocks
