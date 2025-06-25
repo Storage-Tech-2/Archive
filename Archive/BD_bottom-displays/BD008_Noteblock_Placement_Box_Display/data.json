@@ -1,0 +1,101 @@
+{
+  "id": "1387253213308129421",
+  "name": "Noteblock Placement Box Display",
+  "code": "BD008",
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "624927906908471306",
+      "username": "obi81",
+      "iconURL": "https://cdn.discordapp.com/avatars/624927906908471306/5ca94a8774d0abe79d280eb3ec2978b0.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488478745137341",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789101374046273",
+      "name": "Recommended"
+    },
+    {
+      "id": "1386201743825567905",
+      "name": "Auto Replacement"
+    },
+    {
+      "id": "1386125210507542578",
+      "name": "Reliable Collection"
+    }
+  ],
+  "images": [
+    {
+      "id": "1387253214537187429",
+      "name": "powerfulboxdisplay.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387253213308129421/1387253214537187429/powerfulboxdisplay.png?ex=685cabbc&is=685b5a3c&hm=4bfee786c1f205a67be76e48976b37fb8ce921f2a7b00b78d174c88f7c7fd486&",
+      "description": "Sent by andrews54757 at 6/24/2025, 10:08:59 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 800,
+      "path": "images/powerfulboxdisplay.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1387253215288103054",
+      "name": "BD008_Noteblock_Box_Display.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387253213308129421/1387253215288103054/Noteblock_Box_Display.litematic?ex=685cabbc&is=685b5a3c&hm=483c28221f8724cc3508b30d4c5a8f940bb507d785a620397a49c6501eaf12d5&",
+      "description": "Sent by andrews54757 at 6/24/2025, 10:08:59 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "7x8x2",
+        "version": "1.18.2"
+      },
+      "path": "attachments/BD008_Noteblock_Box_Display.litematic"
+    },
+    {
+      "id": "1387253785709121586",
+      "name": "BD008_Noteblock_Box_Display_Hopper_Collection.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387253213308129421/1387253785709121586/Noteblock_Box_Display_Hopper_Collection.litematic?ex=685cac44&is=685b5ac4&hm=d55cf7c7fb375b98a5ed4b27258793c42de30fc9bcb2f02544a31263f7e1852e&",
+      "description": "Sent by andrews54757 at 6/24/2025, 10:11:16 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "7x9x2",
+        "version": "1.18.2"
+      },
+      "path": "attachments/BD008_Noteblock_Box_Display_Hopper_Collection.litematic"
+    }
+  ],
+  "description": "Box display that places the 1st box when you click the noteblock, reducing size and manual effort.",
+  "features": [
+    "Fully hopper locked, minimum hoppers",
+    "Fast replacement with clean animation",
+    "Easy and compact 1st box placement by clicking the noteblock"
+  ],
+  "considerations": [
+    "Honey and slime",
+    "Noteblock may need 2 clicks to place the 1st box",
+    "Boxes are buffered in the accessible dropper/hopper"
+  ],
+  "notes": "Box collection isn't 100% reliable in the schematic but can be made reliable with this layout without hopperlocking the collection hoppers.",
+  "timestamp": 1750817493433,
+  "post": {
+    "forumId": "1375561551188328531",
+    "threadId": "1387253859432271982",
+    "continuingMessageIds": [],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1387253859432271982",
+    "attachmentMessageId": "1387253864251527208"
+  }
+}
