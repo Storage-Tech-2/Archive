@@ -9,7 +9,7 @@
 
 A small box loader in which the box can be opened while being loaded. Adding 2 hoppers can make the box loader 2x speed, but the box will no longer be accessible.
 
-Included are also versions that have built in box crafters instead of empty box supply (with images of prefilled containers).
+Included are also versions that have built in box crafters instead of empty box supply
 
 ## Features
 - smaller size than any box loader
