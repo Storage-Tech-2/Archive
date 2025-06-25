@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1387250671417294909",
+    "sender": {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    },
+    "content": "Variant without toggle states:",
+    "attachments": [
+      {
+        "id": "1387250670813319228",
+        "name": "image.png",
+        "contentType": "image/png",
+        "url": "https://cdn.discordapp.com/attachments/1387181114518405131/1387250670813319228/image.png?ex=685ca95d&is=685b57dd&hm=d2e5b12675ee460a53e2dbf096b22ec91175d63bb9e99fea738d0b1f84dffd54&",
+        "description": "Sent by andrews54757 at 6/24/2025, 9:58:53 PM",
+        "canDownload": true,
+        "path": "comments_attachments/1387250670813319228-image.png"
+      },
+      {
+        "id": "1387250671014903888",
+        "name": "BU006_toggle_less_unloader.litematic",
+        "contentType": "unknown",
+        "url": "https://cdn.discordapp.com/attachments/1387181114518405131/1387250671014903888/BU006_toggle_less_unloader.litematic?ex=685ca95d&is=685b57dd&hm=0eeea58f0b9e908dafc269d29d1c4438707b5ea224ab99b5e50e0b55b3a7afe7&",
+        "description": "Sent by andrews54757 at 6/24/2025, 9:58:53 PM",
+        "canDownload": true,
+        "litematic": {
+          "size": "1x5x6",
+          "version": "1.21.4"
+        },
+        "path": "comments_attachments/1387250671014903888-bu006_toggle_less_unloader.litematic"
+      }
+    ],
+    "timestamp": 1750816734522
+  }
+]
