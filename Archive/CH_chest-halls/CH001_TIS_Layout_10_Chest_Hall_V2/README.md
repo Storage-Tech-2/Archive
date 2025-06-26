@@ -1,7 +1,7 @@
 # TIS Layout 10 Chest Hall V2
 <img alt="TIS_1w.png" src="images/TIS_1w.png?raw=1" height="300px">
 
-**Authors:** *pyraleftt*
+**Authors:** *PyraLeft*
 
 **Endorsed by:** *Andrews54757*
 
