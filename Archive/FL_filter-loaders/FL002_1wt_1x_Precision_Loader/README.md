@@ -1,7 +1,7 @@
 # 1wt 1x Precision Loader
 <img alt="1x_Precison_Loader_SS3SSI_Hopper_and_Water_Output.png" src="images/1x_Precison_Loader_SS3SSI_Hopper_and_Water_Output.png?raw=1" height="300px">
 
-**Authors:** *pyraleftt, eirikls*
+**Authors:** *PyraLeft, eirikls*
 
 **Endorsed by:** *Andrews54757*
 
