@@ -79,17 +79,17 @@
       "path": "attachments/US002_potion_filter.litematic"
     },
     {
-      "id": "1387623651347795979",
-      "name": "US002_potion_type_filter_v2.litematic",
+      "id": "1387625113767252060",
+      "name": "US002_potion_filter_global_clock_v2.litematic",
       "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1387480002978910330/1387623651347795979/potion_type_filter_v2.litematic?ex=685e04bb&is=685cb33b&hm=431e1c81f4f3290ed476c7ff29b7bea93705b8cf6b5f97d00cc0cab4322ae7c9&",
-      "description": "Sent by andrews54757 at 6/25/2025, 10:40:59 PM",
+      "url": "https://cdn.discordapp.com/attachments/1387480002978910330/1387625113767252060/potion_filter_global_clock_v2.litematic?ex=685e0617&is=685cb497&hm=a555f02a11ea22f045d01edf83fcfaa7fc821456c5ef4024e3d4d2dccc4ead70&",
+      "description": "Sent by andrews54757 at 6/25/2025, 10:46:48 PM",
       "canDownload": true,
       "litematic": {
-        "size": "1x1x1",
+        "size": "6x3x2",
         "version": "1.21.4"
       },
-      "path": "attachments/US002_potion_type_filter_v2.litematic"
+      "path": "attachments/US002_potion_filter_global_clock_v2.litematic"
     }
   ],
   "description": "Sorts potions by their potion contents using comparator update detectors. Works by trying to brew a potion with a set ingredient.",
@@ -103,7 +103,7 @@
     "Cannot differentiate between all potion types"
   ],
   "notes": "Put an ingredient item in the brewer to set what type(s) you want to filter. It's not consumed during filtering. [Showcase Video](https://www.youtube.com/watch?v=0b2GOj19gPY)",
-  "timestamp": 1750905764459,
+  "timestamp": 1750906032516,
   "post": {
     "forumId": "1375564342392786944",
     "threadId": "1387624096216383548",

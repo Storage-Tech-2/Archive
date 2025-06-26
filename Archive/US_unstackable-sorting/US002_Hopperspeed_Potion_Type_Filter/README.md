@@ -26,4 +26,4 @@ Put an ingredient item in the brewer to set what type(s) you want to filter. It'
 
 ## Resources
 - [US002_potion_filter.litematic](attachments/US002_potion_filter.litematic): MC 1.16.4, Size 2x7x6 blocks
-- [US002_potion_type_filter_v2.litematic](attachments/US002_potion_type_filter_v2.litematic): MC 1.21.4, Size 1x1x1 blocks
+- [US002_potion_filter_global_clock_v2.litematic](attachments/US002_potion_filter_global_clock_v2.litematic): MC 1.21.4, Size 6x3x2 blocks
