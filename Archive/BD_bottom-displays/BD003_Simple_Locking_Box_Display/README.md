@@ -1,4 +1,6 @@
 # Simple Locking Box Display
+<img alt="906939952040910948-unknown.png" src="images/906939952040910948-unknown.png?raw=1" height="300px">
+
 **Authors:** *b1narymc*
 
 **Endorsed by:** *Andrews54757*
