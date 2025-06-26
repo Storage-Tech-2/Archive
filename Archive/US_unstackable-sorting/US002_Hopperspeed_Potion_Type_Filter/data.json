@@ -42,15 +42,26 @@
   ],
   "images": [
     {
-      "id": "1387480003515519108",
-      "name": "image.png",
+      "id": "1387623580191166575",
+      "name": "area_render_67_.png",
       "contentType": "image/png",
-      "url": "https://cdn.discordapp.com/attachments/1387480002978910330/1387480003515519108/image.png?ex=685d7ef2&is=685c2d72&hm=7d834a8829407312d0768f01eb8764dff02fda8a2cdafa367c7d69b94d3811a2&",
-      "description": "Sent by andrews54757 at 6/25/2025, 1:10:10 PM",
+      "url": "https://cdn.discordapp.com/attachments/1387480002978910330/1387623580191166575/area_render_67_.png?ex=685e04aa&is=685cb32a&hm=ee6ab88ed53f7446d459ac5825dea75339710faf6ff2ceb8d721951cbcaefed6&",
+      "description": "Sent by andrews54757 at 6/25/2025, 10:40:42 PM",
       "canDownload": true,
-      "width": 755,
-      "height": 800,
-      "path": "images/image.png"
+      "width": 574,
+      "height": 682,
+      "path": "images/area_render_67_.png"
+    },
+    {
+      "id": "1387623580455534612",
+      "name": "area_render_66_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387480002978910330/1387623580455534612/area_render_66_.png?ex=685e04aa&is=685cb32a&hm=2e4015846d6cac7bd72fe81087c387d3323dad2b65083a5b93666928d1767278&",
+      "description": "Sent by andrews54757 at 6/25/2025, 10:40:42 PM",
+      "canDownload": true,
+      "width": 759,
+      "height": 526,
+      "path": "images/area_render_66_.png"
     }
   ],
   "attachments": [
@@ -66,24 +77,38 @@
         "version": "1.16.4"
       },
       "path": "attachments/US002_potion_filter.litematic"
+    },
+    {
+      "id": "1387623651347795979",
+      "name": "US002_potion_type_filter_v2.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387480002978910330/1387623651347795979/potion_type_filter_v2.litematic?ex=685e04bb&is=685cb33b&hm=431e1c81f4f3290ed476c7ff29b7bea93705b8cf6b5f97d00cc0cab4322ae7c9&",
+      "description": "Sent by andrews54757 at 6/25/2025, 10:40:59 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "1x1x1",
+        "version": "1.21.4"
+      },
+      "path": "attachments/US002_potion_type_filter_v2.litematic"
     }
   ],
   "description": "Sorts potions by their potion contents using comparator update detectors. Works by trying to brew a potion with a set ingredient.",
   "features": [
     "Hopperspeed and 2 wide (not tileable).",
-    "Consumes 1 blaze powder every 20 sorted potions."
+    "Consumes 1 blaze powder every 20 sorted potions.",
+    "Includes V2 which is smaller but is globally clocked (pulse 2 tick repeater)"
   ],
   "considerations": [
     "Not tileable",
     "Cannot differentiate between all potion types"
   ],
   "notes": "Put an ingredient item in the brewer to set what type(s) you want to filter. It's not consumed during filtering. [Showcase Video](https://www.youtube.com/watch?v=0b2GOj19gPY)",
-  "timestamp": 1750871954000,
+  "timestamp": 1750905764459,
   "post": {
     "forumId": "1375564342392786944",
-    "threadId": "1387482283199430656",
+    "threadId": "1387624096216383548",
     "continuingMessageIds": [],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1387482283199430656",
-    "attachmentMessageId": "1387482287574220900"
+    "threadURL": "https://discord.com/channels/1375556143186837695/1387624096216383548",
+    "attachmentMessageId": "1387624101400543362"
   }
 }

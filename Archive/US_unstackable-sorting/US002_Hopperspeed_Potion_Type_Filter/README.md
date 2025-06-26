@@ -1,5 +1,5 @@
 # Hopperspeed Potion Type Filter
-<img alt="image.png" src="images/image.png?raw=1" height="300px">
+<img alt="area_render_67_.png" src="images/area_render_67_.png?raw=1" height="300px">
 
 **Authors:** *Andrews54757, xxopticnervexx*
 
@@ -12,6 +12,7 @@ Sorts potions by their potion contents using comparator update detectors. Works 
 ## Features
 - Hopperspeed and 2 wide (not tileable).
 - Consumes 1 blaze powder every 20 sorted potions.
+- Includes V2 which is smaller but is globally clocked (pulse 2 tick repeater)
 
 ## Considerations
 - Not tileable
@@ -20,5 +21,9 @@ Sorts potions by their potion contents using comparator update detectors. Works 
 ## Notes
 Put an ingredient item in the brewer to set what type(s) you want to filter. It's not consumed during filtering. [Showcase Video](https://www.youtube.com/watch?v=0b2GOj19gPY)
 
+## Other Images
+<img src="images/area_render_66_.png?raw=1" height="300px">
+
 ## Resources
 - [US002_potion_filter.litematic](attachments/US002_potion_filter.litematic): MC 1.16.4, Size 2x7x6 blocks
+- [US002_potion_type_filter_v2.litematic](attachments/US002_potion_type_filter_v2.litematic): MC 1.21.4, Size 1x1x1 blocks
