@@ -1,7 +1,7 @@
 # 1.8 Mil Bulk Storage
 <img alt="Pyra_Bulk_Slice.png" src="images/Pyra_Bulk_Slice.png?raw=1">
 
-**Authors:** *pyraleftt*
+**Authors:** *PyraLeft*
 
 **Endorsed by:** *Andrews54757*
 
