@@ -1,7 +1,7 @@
 # 8 Chest Hall SS2/SS3
 <img alt="bimip_1dc_8item.png" src="images/bimip_1dc_8item.png?raw=1" height="300px">
 
-**Authors:** *bipim, pyraleftt*
+**Authors:** *bipim, PyraLeft*
 
 **Endorsed by:** *Andrews54757*
 
