@@ -20,9 +20,9 @@ Included are also versions that have built in box crafters instead of empty box 
 ## Other Images
 <img src="images/Scorpio_-_2x_Box_Loader.png?raw=1">
 
-<img src="images/Scorpio_-_1x_Accessible_Loader_w_Box_Crafter.png?raw=1" height="300px">
+<img src="images/area_render_4_.png?raw=1" height="300px">
 
-<img src="images/Scorpio_-_2x_Box_Loader_w_Box_Crafter.png?raw=1" height="300px">
+<img src="images/area_render_5_.png?raw=1" height="300px">
 
 ## Resources
 - [AL002_Scorpio_-_1x_Accessible_Loader.litematic](attachments/AL002_Scorpio_-_1x_Accessible_Loader.litematic): MC 1.21.4, Size 4x3x3 blocks
