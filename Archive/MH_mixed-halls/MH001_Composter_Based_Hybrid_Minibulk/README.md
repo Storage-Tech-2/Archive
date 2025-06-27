@@ -7,6 +7,8 @@
 
 **Tags:** *Tested & Functional, Recommended*
 
+**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388178592315215892)
+
 Hybrid hall containing a composter based hybrid box loader that allows for accessing items being loaded in boxes without a call feature.
 
 ## Features
