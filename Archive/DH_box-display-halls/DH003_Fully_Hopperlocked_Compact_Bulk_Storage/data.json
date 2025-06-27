@@ -12,10 +12,9 @@
     {
       "type": "discord-in-guild",
       "id": "656864003242328064",
-      "name": "acaciachan",
       "displayName": "金合欢酱(acaciachan)",
-      "iconURL": "https://cdn.discordapp.com/avatars/656864003242328064/65e1c203d9ea0af6509f0754122b45a2.webp",
-      "username": "acaciachan"
+      "username": "acaciachan",
+      "iconURL": "https://cdn.discordapp.com/avatars/656864003242328064/65e1c203d9ea0af6509f0754122b45a2.webp"
     },
     {
       "type": "discord-external",
@@ -55,47 +54,47 @@
   ],
   "images": [
     {
-      "id": "1386928515181580409",
-      "name": "Phil_Bulk.png",
+      "id": "1388201909201932329",
+      "name": "Compat_Bulk_Updated_1.4_Mil.png",
       "contentType": "image/png",
-      "url": "https://cdn.discordapp.com/attachments/1386928511750770770/1386928515181580409/Phil_Bulk.png?ex=685b7d55&is=685a2bd5&hm=fabf3c75d58267e594a4851b0066c88d3941e4b85d58e9f9c7ca1eac32d34a87&",
-      "description": "Sent by andrews54757 at 6/24/2025, 12:38:45 AM",
+      "url": "https://cdn.discordapp.com/attachments/1386928511750770770/1388201909201932329/Compat_Bulk_Updated_1.4_Mil.png?ex=68601f46&is=685ecdc6&hm=5f4759da43dfd7d43d0422d7d299d3b6c01e888019ae56fd02fe32f31788b4fb&",
+      "description": "Sent by andrews54757 at 6/27/2025, 12:58:46 PM",
       "canDownload": true,
-      "width": 497,
+      "width": 477,
       "height": 800,
-      "path": "images/Phil_Bulk.png"
+      "path": "images/Compat_Bulk_Updated_1.4_Mil.png"
     },
     {
-      "id": "1386928516167372841",
-      "name": "In_slice_view.png",
+      "id": "1388201907226673253",
+      "name": "Compat_Bulk_Updated_1.4_Mil_Slice.png",
       "contentType": "image/png",
-      "url": "https://cdn.discordapp.com/attachments/1386928511750770770/1386928516167372841/In_slice_view.png?ex=685b7d56&is=685a2bd6&hm=210446eac95f4ea26dd52eb43afbaa091e8654013a1b776f0009ac6d55f0ecd0&",
-      "description": "Sent by andrews54757 at 6/24/2025, 12:38:45 AM",
+      "url": "https://cdn.discordapp.com/attachments/1386928511750770770/1388201907226673253/Compat_Bulk_Updated_1.4_Mil_Slice.png?ex=68601f46&is=685ecdc6&hm=9a1ff8cf715cc1ce6ed72ca7b3dbf38040764f5856e1d5a313962e312fee2eda&",
+      "description": "Sent by andrews54757 at 6/27/2025, 12:58:46 PM",
       "canDownload": true,
-      "width": 454,
+      "width": 400,
       "height": 800,
-      "path": "images/In_slice_view.png"
+      "path": "images/Compat_Bulk_Updated_1.4_Mil_Slice.png"
     }
   ],
   "attachments": [
     {
-      "id": "1386928516444061777",
-      "name": "DH003_compact_bulk_1_28_mil_items_per_slice.litematic",
+      "id": "1388201386528866325",
+      "name": "DH003_compact_bulk_updated_1_4_mil.litematic",
       "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1386928511750770770/1386928516444061777/compact_bulk_1_28_mil_items_per_slice.litematic?ex=685b7d56&is=685a2bd6&hm=3e26c47463bfd1be295394e2137f614f6fcd5396711505ff5f263064be900628&",
-      "description": "Sent by andrews54757 at 6/24/2025, 12:38:45 AM",
+      "url": "https://cdn.discordapp.com/attachments/1386928511750770770/1388201386528866325/compact_bulk_updated_1_4_mil.litematic?ex=68601eca&is=685ecd4a&hm=13195109dde985178736994f2192e1348c3e7580f3681dc0a86bca6c234b6234&",
+      "description": "Sent by andrews54757 at 6/27/2025, 12:56:42 PM",
       "canDownload": true,
       "litematic": {
-        "size": "17x35x21",
-        "version": "1.17.1"
+        "size": "20x38x17",
+        "version": "1.18.2"
       },
-      "path": "attachments/DH003_compact_bulk_1_28_mil_items_per_slice.litematic"
+      "path": "attachments/DH003_compact_bulk_updated_1_4_mil.litematic"
     }
   ],
-  "description": "Item bulk with box display capable of storing 1.28 million items per half slice.",
+  "description": "Item bulk with box display capable of storing 1.4 million items per half slice.",
   "features": [
     "100% hopperlocked",
-    "1.28 million items per half slice",
+    "1.4 million items per half slice",
     "Togglestateless",
     "Compact (17x35x21), sticks out 3 blocks from the first slice and 2 from the last",
     "19 hoppers per half slice",
@@ -112,13 +111,13 @@
     "Fails if only one item is inside an inputted box"
   ],
   "notes": "Box sorter slice by @acaciachan . Keygen by @pfeffabeissa and @walter7381",
-  "timestamp": 1750740160438,
+  "timestamp": 1751043563047,
   "post": {
+    "threadId": "1388202067562201249",
     "forumId": "1375565403727724764",
-    "threadId": "1388178913070415984",
     "continuingMessageIds": [],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388178913070415984",
-    "attachmentMessageId": "1388178918229541064",
-    "uploadMessageId": "1388178911111938150"
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388202067562201249",
+    "uploadMessageId": "1388202064257093753",
+    "attachmentMessageId": "1388202072259952801"
   }
 }

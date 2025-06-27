@@ -1,5 +1,5 @@
 # Fully Hopperlocked Compact Bulk Storage
-<img alt="Phil_Bulk.png" src="images/Phil_Bulk.png?raw=1" height="300px">
+<img alt="Compat_Bulk_Updated_1.4_Mil.png" src="images/Compat_Bulk_Updated_1.4_Mil.png?raw=1" height="300px">
 
 **Authors:** *philgoodinator, 金合欢酱(acaciachan), pfeffabeissa, walter7381*
 
@@ -7,11 +7,11 @@
 
 **Tags:** *Tested & Functional, Recommended, 2 Displays*
 
-Item bulk with box display capable of storing 1.28 million items per half slice.
+Item bulk with box display capable of storing 1.4 million items per half slice.
 
 ## Features
 - 100% hopperlocked
-- 1.28 million items per half slice
+- 1.4 million items per half slice
 - Togglestateless
 - Compact (17x35x21), sticks out 3 blocks from the first slice and 2 from the last
 - 19 hoppers per half slice
@@ -31,7 +31,7 @@ Item bulk with box display capable of storing 1.28 million items per half slice.
 Box sorter slice by @acaciachan . Keygen by @pfeffabeissa and @walter7381
 
 ## Other Images
-<img src="images/In_slice_view.png?raw=1" height="300px">
+<img src="images/Compat_Bulk_Updated_1.4_Mil_Slice.png?raw=1" height="300px">
 
 ## Resources
-- [DH003_compact_bulk_1_28_mil_items_per_slice.litematic](attachments/DH003_compact_bulk_1_28_mil_items_per_slice.litematic): MC 1.17.1, Size 17x35x21 blocks
+- [DH003_compact_bulk_updated_1_4_mil.litematic](attachments/DH003_compact_bulk_updated_1_4_mil.litematic): MC 1.18.2, Size 20x38x17 blocks
