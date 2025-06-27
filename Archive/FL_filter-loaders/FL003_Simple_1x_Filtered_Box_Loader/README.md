@@ -1,8 +1,6 @@
 # Simple 1x Filtered Box Loader
 <img alt="Simple_1x_Loader_with_Filter.png" src="images/Simple_1x_Loader_with_Filter.png?raw=1" height="300px">
 
-**Authors:** **
-
 **Endorsed by:** *Andrews54757*
 
 **Tags:** *Recommended, 1X Hopperspeed, Tested & Functional*
