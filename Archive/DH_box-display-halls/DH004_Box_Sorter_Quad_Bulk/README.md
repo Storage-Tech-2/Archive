@@ -7,6 +7,8 @@
 
 **Tags:** *Broken, 4 Displays*
 
+**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388196221079916699)
+
 4 box displays per slice design with Quad bulk, Box sorters use a special whitelisting keygen, Whitelister uses cart yeeting, hence 1.19+, 216 item types (can be reduced), FHL
 
 ## Features
