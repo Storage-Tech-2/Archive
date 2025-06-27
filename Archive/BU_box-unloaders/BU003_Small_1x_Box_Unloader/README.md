@@ -7,6 +7,8 @@
 
 **Tags:** *Recommended, Tested & Functional, 1X Hopperspeed*
 
+**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388177897109459145)
+
 A simple non-tileable hopperspeed box unloader.
 
 ## Features
