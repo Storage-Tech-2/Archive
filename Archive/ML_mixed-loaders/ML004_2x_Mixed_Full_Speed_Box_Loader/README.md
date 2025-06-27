@@ -7,6 +7,8 @@
 
 **Tags:** *2X Hopperspeed, Recommended, Tested & Functional, Fullspeed*
 
+**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388177600735875183)
+
 Loads mixed items into boxes at full double hopperspeed. Meant for use in input systems to prevent the case where items can back up into the item/box checker if the input receives a constant stream of items.
 
 ## Features
