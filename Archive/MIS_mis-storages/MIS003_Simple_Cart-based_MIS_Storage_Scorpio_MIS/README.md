@@ -7,6 +7,8 @@
 
 **Tags:** *Tested & Functional*
 
+**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388179021053034618)
+
 A simple and cheap early game storage system using hopper minecart multi-item sorter (MIS). This design has minimal waterlogged blocks and cursed rail placements
 
 ## Features
