@@ -1,8 +1,6 @@
 # Simple isBox/isPotion/isBook/isShearsOrFlint Filters
 <img alt="unstackabledrawio.png" src="images/unstackabledrawio.png?raw=1" height="300px">
 
-**Authors:** **
-
 **Endorsed by:** *Andrews54757*
 
 **Tags:** *Recommended, Shears & Flint, Books, isBox, Tested & Functional*
