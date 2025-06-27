@@ -7,6 +7,8 @@
 
 **Tags:** *Recommended, Tested & Functional*
 
+**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388179613578170568)
+
 The toggle will switch each time the top rail is pulsed `N` times, where `N` is the number of items in the dropper counter below.
 
 ## Features
