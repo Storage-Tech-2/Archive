@@ -7,6 +7,8 @@
 
 **Tags:** *Recommended, SS2, Tested & Functional, 10 Chests*
 
+**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388178332037939220)
+
 10 chests per slice hall using the TIS layout.
 
 ## Features
