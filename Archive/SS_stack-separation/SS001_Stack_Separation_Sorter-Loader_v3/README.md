@@ -7,6 +7,8 @@
 
 **Tags:** *Tested & Functional, Recommended*
 
+**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388179109716299939)
+
 Uses stack separation to filter entire stack of items at once. Each of the 3wt modules loads sorted items into shulker boxes at 8x hopperspeed.
 
 ## Features
