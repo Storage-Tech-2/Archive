@@ -9,13 +9,6 @@
       "displayName": "oliver ♱",
       "username": "olivuhhr",
       "iconURL": "https://cdn.discordapp.com/avatars/759402531235037204/97e34e627fa5ab71a393b72da714f9b8.webp"
-    },
-    {
-      "type": "discord-in-guild",
-      "id": "759402531235037204",
-      "displayName": "oliver ♱",
-      "username": "olivuhhr",
-      "iconURL": "https://cdn.discordapp.com/avatars/759402531235037204/97e34e627fa5ab71a393b72da714f9b8.webp"
     }
   ],
   "endorsers": [
@@ -74,7 +67,7 @@
   ],
   "considerations": [],
   "notes": "Requires an external input handler, take for example https://discord.com/channels/748542142347083868/1121057305698517093/1123390860147560609 or https://discord.com/channels/748542142347083868/748578407377272843/1191660970687348756",
-  "timestamp": 1751049922450,
+  "timestamp": 1751050118719,
   "post": {
     "threadId": "1388228737232802027",
     "forumId": "1375569381781930006",
