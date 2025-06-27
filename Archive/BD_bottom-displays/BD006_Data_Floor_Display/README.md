@@ -7,6 +7,8 @@
 
 **Tags:** *Tested & Functional, Recommended, Auto Replacement*
 
+**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388178205051191407)
+
 A tiny floor display which is great for quad bulks.
 
 ## Features
