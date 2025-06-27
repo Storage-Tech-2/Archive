@@ -7,6 +7,8 @@
 
 **Tags:** *Tested & Functional, Manual Replacement*
 
+**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388178051392868443)
+
 A small manual top display meant for quad bulks.
 
 ## Features
