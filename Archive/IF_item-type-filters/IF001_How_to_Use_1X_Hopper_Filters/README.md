@@ -1,8 +1,6 @@
 # How to Use 1X Hopper Filters
 <img alt="filters.png" src="images/filters.png?raw=1" height="300px">
 
-**Authors:** **
-
 **Endorsed by:** *Andrews54757*
 
 **Tags:** *Guide, 1X Hopperspeed, Recommended*
