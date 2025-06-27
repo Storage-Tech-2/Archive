@@ -1,0 +1,92 @@
+{
+  "id": "1387153647791636642",
+  "name": "General Quarry Storage",
+  "code": "SS003",
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "323515840236486659",
+      "displayName": "KikuGie",
+      "username": "kikugie",
+      "iconURL": "https://cdn.discordapp.com/avatars/323515840236486659/fa3cbf8851082f9c09921cd682de89d4.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488512379518984",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789144063807591",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1387153649096196106",
+      "name": "area_render_7_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387153647791636642/1387153649096196106/area_render_7_.png?ex=685c4f02&is=685afd82&hm=172a79b4bddca4c7db47d68da734a6eab936b3d17bd41e1c649da7ff030ac3af&",
+      "description": "Sent by andrews54757 at 6/24/2025, 3:33:21 PM",
+      "canDownload": true,
+      "width": 727,
+      "height": 800,
+      "path": "images/area_render_7_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1387153649679208478",
+      "name": "SS003_GQS-0.8.0-stacksep.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387153647791636642/1387153649679208478/GQS-0.8.0-stacksep.litematic?ex=685c4f02&is=685afd82&hm=1be014168ee5b6150f4be7dbac6d2286d9f646df684efc0a76bf6464c0b0971f&",
+      "description": "Sent by andrews54757 at 6/24/2025, 3:33:21 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "43x18x11",
+        "version": "1.20.2"
+      },
+      "path": "attachments/SS003_GQS-0.8.0-stacksep.litematic"
+    },
+    {
+      "id": "1387153650001903616",
+      "name": "SS003_GQS-0.8.0-storage.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387153647791636642/1387153650001903616/GQS-0.8.0-storage.litematic?ex=685c4f02&is=685afd82&hm=af28df73345ddc3ff623acea79c570b905b2d4f4e59f13227af2f154fa2a4ee0&",
+      "description": "Sent by andrews54757 at 6/24/2025, 3:33:21 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "53x45x23",
+        "version": "1.20.2"
+      },
+      "path": "attachments/SS003_GQS-0.8.0-storage.litematic"
+    }
+  ],
+  "description": "Comes in 3 schematics: stack separation sorter, sorter + deepslate loaders, sorter + storage.\nSorter and storage are configured for an average mesa quarry in 1.18+ using VDQ v2. Sorter can handle a 500 wide quarry (wider as well, but that hasn't been tested). Storage is configured to handle a 500x1500 area. With the schematics an example setup is attached, which includes a quarry, nether transportation line and the storage. World download also includes instructions for running quarry with the sorter, please read those.\nNote that it doesn't collect all produced deepslate, only up to 8mil. You're free to modify the storage if needed.",
+  "features": [
+    "Comes in 3 schematics: stack separation sorter, sorter + deepslate loaders, sorter + storage.",
+    "Sorter and storage are configured for an average mesa quarry in 1.18+ using VDQ v2.",
+    "Sorter can handle a 500 wide quarry (wider as well, but that hasn't been tested)."
+  ],
+  "considerations": [],
+  "notes": "- Tested up to 1.20.1\n- In 1.20 it needs 2 blocks moved due to changed surface interaction logic\nAdditional Credits:\n- *Chunk loader:* https://discord.com/channels/594920796867133446/594968639321538560/917049843711631400 (Pfeffabeissa)\n- *Cart-yeeting filter:* https://discord.com/channels/748542142347083868/748578407377272843/1025134782524436590 (Hexatron) (modified by me, one posted by hex is directional and can skip items in some conditions)\n- *Stack separator:* <https://youtu.be/ypuFkR_3M7M> (Rapscallion)\n- *Stack filter:* https://discord.com/channels/748542142347083868/749136547755851857/1092571218982477824 (Rapscallion & Glotz)\n- *Stacksep loaders:* https://discord.com/channels/748542142347083868/749135718701465641/991104818951241828 + 6x one (Data & Floppy)\n- *Deepslate loaders:* https://discord.com/channels/748542142347083868/749135718701465641/1065569000899223572 (Philgoodinator)\n- *Unsorted loader:* https://discord.com/channels/748542142347083868/749135718701465641/1048747806489321594 (Acaciachan)\n- *Box sorter:* https://discord.com/channels/748542142347083868/749136459021287485/1098895594992455732 (Acaciachan)\n- *Bulks:*: https://discord.com/channels/748542142347083868/749137424684285992/1125175489338802268 4mil, https://discord.com/channels/748542142347083868/749137424684285992/1125174111539298375 1.2mil (me)\n- *Crafting station:* https://discord.com/channels/748542142347083868/749137321710059542/1112115542518673428 (Sauron)\n- Storage is configured to handle a 500x1500 area.\n- With the schematics an example setup is attached, which includes a quarry, nether transportation line and the storage.\n- World download also includes instructions for running quarry with the sorter, please read those.\n- Note that it doesn't collect all produced deepslate, only up to 8mil.",
+  "timestamp": 1751007056918,
+  "post": {
+    "forumId": "1375568762304204912",
+    "threadId": "1388048947414564894",
+    "continuingMessageIds": [
+      "1388048950887579739"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388048947414564894",
+    "attachmentMessageId": "1388048955002192042"
+  }
+}
