@@ -7,6 +7,8 @@
 
 **Tags:** *Tested & Functional*
 
+**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388179214192087112)
+
 Simple parallel unloader
 
 ## Features
