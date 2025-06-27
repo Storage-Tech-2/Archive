@@ -20,5 +20,5 @@ Togglestate-less and simple device that filters and loads items into shulker box
 Two schematics are provided; one for 1.11+ that's one block higher and one for 1.13+ with two alternative ways to wire the box breaking. Both share the same features.
 
 ## Resources
-- [FL003_113_Simple_1x_Loader_with_Filter.litematic](attachments/FL003_113_Simple_1x_Loader_with_Filter.litematic): MC 1.14, Size 7x7x5 blocks
-- [FL003_111_Simple_1x_Loader_with_Filter.litematic](attachments/FL003_111_Simple_1x_Loader_with_Filter.litematic): MC undefined, Size undefined blocks
+- [FL003_1.13_Simple_1x_Loader_with_Filter.litematic](attachments/FL003_1.13_Simple_1x_Loader_with_Filter.litematic): MC 1.14, Size 7x7x5 blocks
+- [FL003_1.11_Simple_1x_Loader_with_Filter.litematic](attachments/FL003_1.11_Simple_1x_Loader_with_Filter.litematic): Error processing litematic file
