@@ -7,6 +7,8 @@
 
 **Tags:** *Tested & Functional, Item Aligners, Recommended*
 
+**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388178536832962632)
+
 A simple setup that reliably aligns the output of a dropper in the 3 dimensions and time, allowing for a predictable position and motion of the items. Schematic includes some example wiring possibilities.
 
 ## Features
