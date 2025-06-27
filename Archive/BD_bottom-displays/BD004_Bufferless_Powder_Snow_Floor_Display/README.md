@@ -7,6 +7,8 @@
 
 **Tags:** *Recommended, Auto Replacement, Reliable Collection, Bufferless, Tested & Functional*
 
+**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388178138735050904)
+
 0-ticks powder snow into the box when emptied, allowing for a fully reliable hopperless collection.
 
 ## Features
