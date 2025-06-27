@@ -7,6 +7,8 @@
 
 **Tags:** *Tested & Functional, Recommended*
 
+**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388183564100702231)
+
 Comes in 3 schematics: stack separation sorter, sorter + deepslate loaders, sorter + storage.
 Sorter and storage are configured for an average mesa quarry in 1.18+ using VDQ v2. Sorter can handle a 500 wide quarry (wider as well, but that hasn't been tested). Storage is configured to handle a 500x1500 area. With the schematics an example setup is attached, which includes a quarry, nether transportation line and the storage. World download also includes instructions for running quarry with the sorter, please read those.
 Note that it doesn't collect all produced deepslate, only up to 8mil. You're free to modify the storage if needed.
