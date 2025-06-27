@@ -7,6 +7,8 @@
 
 **Tags:** *Tested & Functional, Recommended*
 
+**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388179336368226385)
+
 Split mixed boxes into single type boxes. Produces minimum partial boxes. Up to 64x hopperspeed. 32x variant included in WDL.
 
 ## Features
