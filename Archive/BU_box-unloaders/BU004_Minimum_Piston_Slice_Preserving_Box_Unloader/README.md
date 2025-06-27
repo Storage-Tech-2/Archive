@@ -7,6 +7,8 @@
 
 **Tags:** *Recommended, Tested & Functional, 1X Hopperspeed*
 
+**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388177924435480677)
+
 Unloads items from boxes at hopperspeed.
 
 ## Features
