@@ -19,5 +19,8 @@ A simple 5 block wide accessible loader with a zero ticked composter that buffer
 - Buffers 16 stacks
 - Togglestates
 
+## Notes
+Ensure dust is redirected away from box distribution hoppers
+
 ## Resources
 - [AL003_thin_accessible_loader.litematic](attachments/AL003_thin_accessible_loader.litematic): MC 1.21.4, Size 5x9x1 blocks

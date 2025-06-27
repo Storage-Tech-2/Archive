@@ -73,8 +73,8 @@
     "Buffers 16 stacks",
     "Togglestates"
   ],
-  "notes": "",
-  "timestamp": 1751005215056,
+  "notes": "Ensure dust is redirected away from box distribution hoppers",
+  "timestamp": 1751005255449,
   "post": {
     "forumId": "1375557143201316934",
     "threadId": "1388041221502402620",
