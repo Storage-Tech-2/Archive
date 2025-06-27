@@ -22,16 +22,16 @@
   ],
   "tags": [
     {
-      "id": "1385488501545373755",
-      "name": "Tested & Functional"
+      "id": "1385789129794519081",
+      "name": "Recommended"
     },
     {
       "id": "1386533562282672198",
       "name": "4 Displays"
     },
     {
-      "id": "1385789129794519081",
-      "name": "Recommended"
+      "id": "1385488501545373754",
+      "name": "Broken"
     }
   ],
   "images": [
@@ -90,9 +90,11 @@
     "216 item types (can be reduced)",
     "Fully hopperlocked"
   ],
-  "considerations": [],
+  "considerations": [
+    "Whitelister is broken in newer versions"
+  ],
   "notes": "[Showcase video](https://www.youtube.com/watch?v=i24AdqmGXLI) (!important)\n- Top display designed by @Jayroi\n- Bottom display designed by @DatNerd\n- Box sorter based on work by @crain",
-  "timestamp": 1750832996129,
+  "timestamp": 1750991496100,
   "post": {
     "forumId": "1375565403727724764",
     "threadId": "1387916315875868818",
