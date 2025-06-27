@@ -7,6 +7,8 @@
 
 **Tags:** *Tested & Functional, Recommended, 2 Displays*
 
+**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388202067562201249)
+
 Item bulk with box display capable of storing 1.4 million items per half slice.
 
 ## Features
