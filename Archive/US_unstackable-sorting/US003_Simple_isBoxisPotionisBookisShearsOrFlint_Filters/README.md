@@ -5,6 +5,8 @@
 
 **Tags:** *Recommended, Shears & Flint, Books, isBox, Tested & Functional*
 
+**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388178837678067732)
+
 These filters can accept any unstackable item as input and depending on the inventory block check if they are either a box, a potion, a book, or are shears/flint at hopperspeed.
 
 ## Features
