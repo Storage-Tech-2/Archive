@@ -7,6 +7,8 @@
 
 **Tags:** *Tested & Functional, Recommended, 10 Chests, SS2*
 
+**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388178424639787048)
+
 10 chests per slice chest hall design with SS2 filters.
 
 ## Features
