@@ -18,6 +18,13 @@
       "code": "SS002",
       "timestamp": 1750973671579,
       "path": "SS002_Stack_seperation_based_MIS_or_Multi_Item_redirector"
+    },
+    {
+      "id": "1387153647791636642",
+      "name": "General Quarry Storage",
+      "code": "SS003",
+      "timestamp": 1751039152142,
+      "path": "SS003_General_Quarry_Storage"
     }
   ]
 }
