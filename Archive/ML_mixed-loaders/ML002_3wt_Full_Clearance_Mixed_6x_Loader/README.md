@@ -7,6 +7,8 @@
 
 **Tags:** *6X Hopperspeed, Recommended, Tested & Functional*
 
+**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388177541239668838)
+
 Comparator readouts from all droppers ensures no items are buffered in the droppers/hoppers. Works with all item types and with any frequency input.
 
 ## Features
