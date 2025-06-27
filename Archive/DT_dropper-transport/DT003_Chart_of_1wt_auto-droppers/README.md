@@ -7,6 +7,8 @@
 
 **Tags:** *Tested & Functional, Recommended*
 
+**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388195492529307772)
+
 A collection of various circuits that automatically drop all received items as entities. The blue designs on the left are 2x hopper speed and the ones on the right are 1x.
 
 ## Features
