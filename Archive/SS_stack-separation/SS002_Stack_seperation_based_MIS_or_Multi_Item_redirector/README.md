@@ -7,6 +7,8 @@
 
 **Tags:** *Tested & Functional*
 
+**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388179137419546704)
+
 Sorts item entity stacks to different block positions if they have an item contained in a corresponding set. Designed to be attached to end of storage and not be a bottleneck. Sorts item as entity, so you can redirect every mis category to go anywhere with water stream or shorten the lifetime of items searching for the correct filter by redirecting it to the correct ice stream and giving it an optimal route to reduce search times.
 
 ## Features
