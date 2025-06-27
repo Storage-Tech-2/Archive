@@ -17,7 +17,7 @@
 - Fully hopperlocked
 
 ## Considerations
-- Whitelister is broken in newer versions
+- **Whitelister is broken**. Please replace the keygen/whitelister if you want to use.
 
 ## Notes
 [Showcase video](https://www.youtube.com/watch?v=i24AdqmGXLI) (!important)
