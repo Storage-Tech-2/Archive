@@ -34,3 +34,10 @@ Original unsorted post: https://discord.com/channels/748542142347083868/12030997
 ## Resources
 - [MH001_v31W_Restart_Lifes_Composter_Hybrid_Mini_Bulk.litematic](attachments/MH001_v31W_Restart_Lifes_Composter_Hybrid_Mini_Bulk.litematic): MC 1.21, Size 17x20x37 blocks
 - [MH001_v31_Restart_Lifes_Composter_Hybrid_Mini_Bulk.litematic](attachments/MH001_v31_Restart_Lifes_Composter_Hybrid_Mini_Bulk.litematic): MC 1.21, Size 15x21x37 blocks
+
+## Comments
+
+### Andrews54757 (6/26/2025)
+"Why Hybrid" resource posted by RestartLife
+<img alt="hybrid_loader_explanation.png" src="comments_attachments/1387995973418094643-hybrid_loader_explanation.png?raw=1" height="150px">
+
