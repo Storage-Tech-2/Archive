@@ -7,6 +7,8 @@
 
 **Tags:** *Tested & Functional, Recommended*
 
+**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388179362662187008)
+
 Assigns a filter item depending on the leading item type of the first box. Subsequent boxes are checked and separated based on whether they contain the assigned item. Deassigns when out of boxes, or manually.
 
 ## Features
