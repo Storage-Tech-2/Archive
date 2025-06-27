@@ -7,6 +7,8 @@
 
 **Tags:** *Comparer, Recommended, Tested & Functional*
 
+**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388177701923459084)
+
 Given two boxes, compares the fill level of the two boxes and outputs the more-full box first. Useful for optimizing pairs for a merger.
 
 ## Features
