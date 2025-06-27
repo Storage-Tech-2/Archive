@@ -3,7 +3,7 @@
   "name": "other-displays",
   "code": "OD",
   "description": "Other box displays.",
-  "currentCodeId": 1,
+  "currentCodeId": 2,
   "entries": [
     {
       "id": "1387132949086076948",
@@ -11,6 +11,13 @@
       "code": "OD001",
       "timestamp": 1750788732054,
       "path": "OD001_Default_Extended_Wall_Box_Display"
+    },
+    {
+      "id": "1387997827422097460",
+      "name": "1wt Variable Display",
+      "code": "OD002",
+      "timestamp": 1751013871094,
+      "path": "OD002_1wt_Variable_Display"
     }
   ]
 }
