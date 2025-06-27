@@ -1,7 +1,7 @@
 # Shulker Box Crafters
 <img alt="area_render.png" src="images/area_render.png?raw=1" height="300px">
 
-**Authors:** *金合欢酱(acaciachan), Mangelious, 萌萌的小公举, viommm, ethanmik*
+**Authors:** *金合欢酱(acaciachan), vktec, vktec, vktec, ethanmik*
 
 **Endorsed by:** *Andrews54757*
 
