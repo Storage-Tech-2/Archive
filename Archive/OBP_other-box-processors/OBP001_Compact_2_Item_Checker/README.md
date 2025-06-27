@@ -7,6 +7,8 @@
 
 **Tags:** *Recommended, Tested & Functional*
 
+**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388178450065391647)
+
 Device filters shulker boxes with at least 2 stackable items of the same type. Useful for set-based processing where an extra item is needed to configure an item set.
 
 ## Features
