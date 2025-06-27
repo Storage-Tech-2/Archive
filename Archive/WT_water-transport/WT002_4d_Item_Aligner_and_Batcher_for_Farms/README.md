@@ -7,6 +7,8 @@
 
 **Tags:** *Item Aligners, Untested*
 
+**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388178561529024695)
+
 Aligns items along all axis and time for items in a stream. Useful for farm storages.
 
 ## Features
