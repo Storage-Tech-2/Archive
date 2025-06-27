@@ -7,6 +7,8 @@
 
 **Tags:** *Recommended, Tested & Functional, 3 Way Sorter*
 
+**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388177781778550956)
+
 Separates boxes by fill level into empty, partial, and full boxes at hopperspeed.
 
 ## Features
