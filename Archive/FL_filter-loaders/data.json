@@ -3,7 +3,7 @@
   "name": "filter-loaders",
   "code": "FL",
   "description": "Box loaders with filters on it, excluding crafters",
-  "currentCodeId": 2,
+  "currentCodeId": 3,
   "entries": [
     {
       "id": "1386091760710848542",
@@ -18,6 +18,13 @@
       "code": "FL002",
       "timestamp": 1750719849119,
       "path": "FL002_1wt_1x_Precision_Loader"
+    },
+    {
+      "id": "1388000617972236458",
+      "name": "Simple 1x Filtered Box Loader",
+      "code": "FL003",
+      "timestamp": 1750996741390,
+      "path": "FL003_Simple_1x_Filtered_Box_Loader"
     }
   ]
 }
