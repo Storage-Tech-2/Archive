@@ -1,8 +1,6 @@
 # Simple Dropdown Item Pusher
 <img alt="dropdown_item_pusher.png" src="images/dropdown_item_pusher.png?raw=1" height="300px">
 
-**Authors:** **
-
 **Endorsed by:** *Andrews54757*
 
 **Tags:** *Tested & Functional, Recommended*
