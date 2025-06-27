@@ -1,7 +1,7 @@
 # Simple 1x Shulker Box Unloader
 <img alt="image.png" src="images/image.png?raw=1" height="300px">
 
-**Authors:** *Raffq, SamosTheSage*
+**Authors:** *Raffq, vktec*
 
 **Endorsed by:** *Andrews54757*
 
