@@ -18,4 +18,4 @@ Loads mixed items into boxes at full hopperspeed. Meant for use in input systems
 ## Resources
 - [ML003_1x_Full_Speed_Mixed_Box_Loader_118.litematic](attachments/ML003_1x_Full_Speed_Mixed_Box_Loader_118.litematic): MC 1.18.2, Size 5x5x4 blocks
 - [ML003_1x_Full_Speed_Mixed_Box_Loader_117.litematic](attachments/ML003_1x_Full_Speed_Mixed_Box_Loader_117.litematic): MC 1.17.1, Size 5x5x4 blocks
-- [ML003_1x_Full_Speed_Mixed_Box_Loader_112.litematic](attachments/ML003_1x_Full_Speed_Mixed_Box_Loader_112.litematic): MC undefined, Size undefined blocks
+- [ML003_1x_Full_Speed_Mixed_Box_Loader_112.litematic](attachments/ML003_1x_Full_Speed_Mixed_Box_Loader_112.litematic): Error processing litematic file
