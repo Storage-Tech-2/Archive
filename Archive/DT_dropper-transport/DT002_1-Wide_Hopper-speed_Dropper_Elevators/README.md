@@ -7,6 +7,8 @@
 
 **Tags:** *Tested & Functional, Recommended*
 
+**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388178481124216883)
+
 Collection of various different dropper item elevators. All these designs transfer items at hopper speed (8gt), are lossless and non-directional, exept for D1/2.
 
 ## Notes
