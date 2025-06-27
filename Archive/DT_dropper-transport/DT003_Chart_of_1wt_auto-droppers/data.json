@@ -66,13 +66,13 @@
     "C3 and D3 may break if they are powered externally or if they receive items at greater than 1x speed"
   ],
   "notes": "",
-  "timestamp": 1751001271480,
+  "timestamp": 1751041515832,
   "post": {
+    "threadId": "1388193479342952641",
     "forumId": "1375563020478058557",
-    "threadId": "1388178510073434152",
     "continuingMessageIds": [],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388178510073434152",
-    "attachmentMessageId": "1388178514611540193",
-    "uploadMessageId": "1388178506852073673"
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388193479342952641",
+    "uploadMessageId": "1388193477556174938",
+    "attachmentMessageId": "1388193483759812618"
   }
 }
