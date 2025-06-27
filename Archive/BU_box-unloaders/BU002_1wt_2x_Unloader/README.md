@@ -7,6 +7,8 @@
 
 **Tags:** *2X Hopperspeed, Tested & Functional*
 
+**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388177873306648607)
+
 Unloads boxes at 2X hopperspeed (18000 items/hr).
 
 ## Features
