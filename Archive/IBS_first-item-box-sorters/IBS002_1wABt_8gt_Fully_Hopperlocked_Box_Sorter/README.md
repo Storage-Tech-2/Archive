@@ -7,6 +7,8 @@
 
 **Tags:** *Recommended, Tested & Functional*
 
+**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388177676396921007)
+
 Sorts boxes by their first item's type at hopper speed. Works by taking the first item out of the box, and recombining the box with the item in the assigned slice.
 
 ## Features
