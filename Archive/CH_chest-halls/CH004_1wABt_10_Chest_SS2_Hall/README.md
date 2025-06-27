@@ -1,7 +1,7 @@
 # 1wABt 10 Chest SS2 Hall
 <img alt="SamosTheSage_10_Chest_SSI_Hall.png" src="images/SamosTheSage_10_Chest_SSI_Hall.png?raw=1" height="300px">
 
-**Authors:** *SamosTheSage*
+**Authors:** *vktec*
 
 **Endorsed by:** *Andrews54757*
 
