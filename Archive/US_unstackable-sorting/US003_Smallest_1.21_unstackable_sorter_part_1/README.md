@@ -7,6 +7,8 @@
 
 **Tags:** *Tested & Functional, Recommended, Full Sorters*
 
+**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388178859916001354)
+
 The smallest device to sort between two potion types, books, water bucket, snow bucket, lava bucket, shears, and flint and steel.
 
 ## Features
