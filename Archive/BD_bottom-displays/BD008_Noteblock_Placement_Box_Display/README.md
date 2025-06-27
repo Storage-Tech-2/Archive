@@ -7,6 +7,8 @@
 
 **Tags:** *Tested & Functional, Recommended, Auto Replacement, Reliable Collection*
 
+**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388178259912556550)
+
 Box display that places the 1st box when you click the noteblock, reducing size and manual effort.
 
 ## Features
