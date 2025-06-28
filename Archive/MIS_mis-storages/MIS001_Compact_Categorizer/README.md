@@ -7,7 +7,7 @@
 
 **Tags:** *Recommended, Tested & Functional*
 
-**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388178994268082319)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318067247026286)
 
 A simple storage system intended as a main MIS (multi-item sorter) for the typical survival Minecraft player.
 
