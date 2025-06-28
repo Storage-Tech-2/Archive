@@ -7,7 +7,7 @@
 
 **Tags:** *Tested & Functional, Recommended*
 
-**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388179079429095566)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318128643244185)
 
 Sorts items at hopperspeed into multi-item-type categories with a 40gt delay between items types.  [Video on the design](https://youtu.be/lgmB0znXhrA) with a block by block build tutorial.
 
