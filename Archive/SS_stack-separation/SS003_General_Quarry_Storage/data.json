@@ -81,12 +81,13 @@
   "notes": "- Tested up to 1.20.1\n- In 1.20 it needs 2 blocks moved due to changed surface interaction logic\nAdditional Credits:\n- *Chunk loader:* https://discord.com/channels/594920796867133446/594968639321538560/917049843711631400 (Pfeffabeissa)\n- *Cart-yeeting filter:* https://discord.com/channels/748542142347083868/748578407377272843/1025134782524436590 (Hexatron) (modified by me, one posted by hex is directional and can skip items in some conditions)\n- *Stack separator:* <https://youtu.be/ypuFkR_3M7M> (Rapscallion)\n- *Stack filter:* https://discord.com/channels/748542142347083868/749136547755851857/1092571218982477824 (Rapscallion & Glotz)\n- *Stacksep loaders:* https://discord.com/channels/748542142347083868/749135718701465641/991104818951241828 + 6x one (Data & Floppy)\n- *Deepslate loaders:* https://discord.com/channels/748542142347083868/749135718701465641/1065569000899223572 (Philgoodinator)\n- *Unsorted loader:* https://discord.com/channels/748542142347083868/749135718701465641/1048747806489321594 (Acaciachan)\n- *Box sorter:* https://discord.com/channels/748542142347083868/749136459021287485/1098895594992455732 (Acaciachan)\n- *Bulks:*: https://discord.com/channels/748542142347083868/749137424684285992/1125175489338802268 4mil, https://discord.com/channels/748542142347083868/749137424684285992/1125174111539298375 1.2mil (me)\n- *Crafting station:* https://discord.com/channels/748542142347083868/749137321710059542/1112115542518673428 (Sauron)\n- Storage is configured to handle a 500x1500 area.\n- With the schematics an example setup is attached, which includes a quarry, nether transportation line and the storage.\n- World download also includes instructions for running quarry with the sorter, please read those.\n- Note that it doesn't collect all produced deepslate, only up to 8mil.",
   "timestamp": 1751039185624,
   "post": {
-    "threadId": "1388183564100702231",
+    "threadId": "1388318193717743718",
     "forumId": "1375568762304204912",
     "continuingMessageIds": [
-      "1388183567091110030"
+      "1388318195781341215",
+      "1388318197001748510"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388183564100702231",
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388318193717743718",
     "uploadMessageId": "1388183562322444370",
     "attachmentMessageId": "1388183569876390044"
   }
