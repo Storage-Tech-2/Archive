@@ -7,7 +7,7 @@
 
 **Tags:** *Tested & Functional*
 
-**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388177466354438298)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388316710444208262)
 
 A small box loader in which the box can be opened while being loaded. Adding 2 hoppers can make the box loader 2x speed, but the box will no longer be accessible.
 
