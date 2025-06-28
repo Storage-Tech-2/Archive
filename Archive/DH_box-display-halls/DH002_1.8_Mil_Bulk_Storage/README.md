@@ -7,7 +7,7 @@
 
 **Tags:** *Recommended, Tested & Functional, 2 Displays*
 
-**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388178888265568256)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317982387601458)
 
 Re-locking is proceeded through updating BUDed pistons with a rail line, which is lag efficient. Nice default extended falling block box displays allows for a good UI with flat floor and shulkers being 3 blocks below the chests.
 
