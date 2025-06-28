@@ -7,7 +7,7 @@
 
 **Tags:** *isEmpty/isFull, Tested & Functional, Recommended*
 
-**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388177806344716318)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388316970126151831)
 
 Categorizes boxes by their fill levels at hopperspeed using just one hopper. Can function either as an isFull filter or as an isFull filter by thresholding the comparator.
 
