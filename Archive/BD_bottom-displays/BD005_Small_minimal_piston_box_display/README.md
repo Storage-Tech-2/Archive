@@ -7,7 +7,7 @@
 
 **Tags:** *Tested & Functional, Recommended, Auto Replacement, Reliable Collection*
 
-**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388178175783342193)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317258144546846)
 
 Simple bottom box display with minimal pistons and reliable wiring.
 
