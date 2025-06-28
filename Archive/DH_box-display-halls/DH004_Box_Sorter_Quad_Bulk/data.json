@@ -91,10 +91,10 @@
     "Fully hopperlocked"
   ],
   "considerations": [
-    "**Whitelister is broken**. Please replace the keygen/whitelister if you want to use."
+    "Top displays can break if activated rapidly, make sure global box placement is triggered only after sorting is completed."
   ],
   "notes": "[Showcase video](https://www.youtube.com/watch?v=i24AdqmGXLI) (!important)\n- Top display designed by @Jayroi\n- Bottom display designed by @DatNerd\n- Box sorter based on work by @crain",
-  "timestamp": 1751137410735,
+  "timestamp": 1751137516593,
   "post": {
     "threadId": "1388318048372658316",
     "forumId": "1375565403727724764",

@@ -19,7 +19,7 @@
 - Fully hopperlocked
 
 ## Considerations
-- **Whitelister is broken**. Please replace the keygen/whitelister if you want to use.
+- Top displays can break if activated rapidly, make sure global box placement is triggered only after sorting is completed.
 
 ## Notes
 [Showcase video](https://www.youtube.com/watch?v=i24AdqmGXLI) (!important)
