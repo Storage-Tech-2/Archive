@@ -7,7 +7,7 @@
 
 **Tags:** *Recommended, Tested & Functional, SS2, 8 Chests*
 
-**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388178393660391524)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317438340239425)
 
 8 chest hall design with two double chests of storage per item type.
 
