@@ -7,7 +7,7 @@
 
 **Tags:** *Recommended, Tested & Functional, Box crafters*
 
-**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388179420988178433)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318423427059806)
 
 Crafts empty boxes from wood logs and shulker shells at 16gt speed.
 
