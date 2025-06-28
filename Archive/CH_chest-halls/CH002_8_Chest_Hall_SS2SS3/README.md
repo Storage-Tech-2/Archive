@@ -7,7 +7,7 @@
 
 **Tags:** *SS3, SS2, Tested & Functional, Recommended, 8 Chests*
 
-**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388178361527832648)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317417385758770)
 
 100% locked, 8 items per slice chest hall design with block displays.
 
