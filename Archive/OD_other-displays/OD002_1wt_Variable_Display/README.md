@@ -7,7 +7,7 @@
 
 **Tags:** *Tested & Functional, Recommended, Reliable Collection*
 
-**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388178305970344096)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317374729551995)
 
 Displays a box thrown by the player into the collection hopper. The old box is collected and put into the chest.
 
