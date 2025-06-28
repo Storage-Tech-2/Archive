@@ -7,7 +7,7 @@
 
 **Tags:** *Closed Box Detection, Auto Replacement, Tested & Functional*
 
-**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388178086209785929)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317191060979833)
 
 A small display without empty box collection that breaks the box only when empty and closed.
 
