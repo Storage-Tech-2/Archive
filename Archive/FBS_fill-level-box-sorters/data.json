@@ -3,7 +3,7 @@
   "name": "fill-level-box-sorters",
   "code": "FBS",
   "description": "Devices that sort boxes by fill level",
-  "currentCodeId": 6,
+  "currentCodeId": 7,
   "entries": [
     {
       "id": "1386419505961369690",
@@ -39,6 +39,13 @@
       "code": "FBS006",
       "timestamp": 1751000750503,
       "path": "FBS006_One_Hopper_Box_isEmptyisFull"
+    },
+    {
+      "id": "1388564830234873856",
+      "name": "One Hopper Box 3 Way Fill Level Sorter",
+      "code": "FBS007",
+      "timestamp": 1751130122623,
+      "path": "FBS007_One_Hopper_Box_3_Way_Fill_Level_Sorter"
     }
   ]
 }
