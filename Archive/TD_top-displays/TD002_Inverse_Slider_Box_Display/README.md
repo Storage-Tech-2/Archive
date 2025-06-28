@@ -7,7 +7,7 @@
 
 **Tags:** *Tested & Functional, Recommended, Auto Replacement*
 
-**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388178025505620060)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317141723385927)
 
 Designed for quad bulks with more available space under the top display.
 
