@@ -3,7 +3,7 @@
   "name": "box-unloaders",
   "code": "BU",
   "description": "Box unloaders",
-  "currentCodeId": 6,
+  "currentCodeId": 7,
   "entries": [
     {
       "id": "1386246487452942437",
@@ -46,6 +46,13 @@
       "code": "BU006",
       "timestamp": 1750800241988,
       "path": "BU006_Simple_1x_Shulker_Box_Unloader"
+    },
+    {
+      "id": "1388031532282937445",
+      "name": "Tiny 1x Box Unloader",
+      "code": "BU007",
+      "timestamp": 1751074224693,
+      "path": "BU007_Tiny_1x_Box_Unloader"
     }
   ]
 }
