@@ -3,7 +3,7 @@
   "name": "chest-halls",
   "code": "CH",
   "description": "Chest halls",
-  "currentCodeId": 4,
+  "currentCodeId": 5,
   "entries": [
     {
       "id": "1386233426826231918",
@@ -32,6 +32,13 @@
       "code": "CH004",
       "timestamp": 1750739611035,
       "path": "CH004_1wABt_10_Chest_SS2_Hall"
+    },
+    {
+      "id": "1388550949571793120",
+      "name": "Square UI 1wABt 10 item chest hall",
+      "code": "CH005",
+      "timestamp": 1751126911466,
+      "path": "CH005_Square_UI_1wABt_10_item_chest_hall"
     }
   ]
 }

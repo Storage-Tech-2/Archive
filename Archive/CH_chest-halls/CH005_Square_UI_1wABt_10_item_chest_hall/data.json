@@ -1,0 +1,87 @@
+{
+  "id": "1388550949571793120",
+  "name": "Square UI 1wABt 10 item chest hall",
+  "code": "CH005",
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "1305612001405440044",
+      "username": "fjall0473",
+      "iconURL": "https://cdn.discordapp.com/embed/avatars/3.png"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488483170386069",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1386099837115826406",
+      "name": "10 Chests"
+    },
+    {
+      "id": "1386699846542692493",
+      "name": "SS2"
+    }
+  ],
+  "images": [
+    {
+      "id": "1388550950012190720",
+      "name": "area_render_62_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1388550949571793120/1388550950012190720/area_render_62_.png?ex=68616458&is=686012d8&hm=9a6fa5bb15791aeaa53ec471d3d1726430b483c012698e8a0a2421e184507ee6&",
+      "description": "Sent by andrews54757 at 6/28/2025, 12:05:44 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 537,
+      "path": "images/area_render_62_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1388550950326636604",
+      "name": "CH005_1wabt_10_Item_Chest_hall_SSI.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1388550949571793120/1388550950326636604/1wabt_10_Item_Chest_hall_SSI.litematic?ex=68616458&is=686012d8&hm=0bd3c4a8e6ebbd5fa689714bdb26619ce23a2d73d142b0810cf2e89d98287e77&",
+      "description": "Sent by andrews54757 at 6/28/2025, 12:05:44 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "33x19x4",
+        "version": "1.21"
+      },
+      "path": "attachments/CH005_1wabt_10_Item_Chest_hall_SSI.litematic"
+    }
+  ],
+  "description": "10 item chest hall with a unique square user interface design.",
+  "features": [
+    "43 hopppers per slice and full hopperlocking even when filters are overflowing.",
+    "3 10gt filters per side, the rest is 8gt or less.",
+    "SSI filters.",
+    "No prefilling.",
+    "All filters are accessible with the scaffolding.",
+    "At least a barrel of extra capacity for every chest."
+  ],
+  "considerations": [
+    "The 3 10gt filters may require input batching"
+  ],
+  "notes": "Schematic includes subregions for locking switches and chest hall.",
+  "timestamp": 1751126911466,
+  "post": {
+    "threadId": "1388551652319039702",
+    "forumId": "1375561810392125510",
+    "continuingMessageIds": [
+      "1388551655536066740"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388551652319039702",
+    "uploadMessageId": "1388551651069132881"
+  }
+}
