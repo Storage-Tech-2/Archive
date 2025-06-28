@@ -2,7 +2,7 @@
   "id": "1375557962675912865",
   "name": "other-loaders",
   "code": "OL",
-  "description": "Other box loaders (EG: CUD loaders)",
+  "description": "Other box loaders (EG: CUD loaders or hybrid loaders)",
   "currentCodeId": 2,
   "entries": [
     {
