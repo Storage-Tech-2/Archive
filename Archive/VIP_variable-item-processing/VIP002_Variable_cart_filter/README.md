@@ -7,7 +7,7 @@
 
 **Tags:** *Untested*
 
-**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388179300947071026)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318335824953385)
 
 A fairly simple, experimental version of the variable item sorter using minecarts.
 
