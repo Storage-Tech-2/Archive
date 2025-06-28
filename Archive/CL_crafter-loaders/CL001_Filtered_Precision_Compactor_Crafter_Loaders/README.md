@@ -7,7 +7,7 @@
 
 **Tags:** *Recommended, Tested & Functional*
 
-**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388179387563642960)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318397552394371)
 
 Filters items, crafts, and loads the result into boxes. Typically used to compact items (eg nuggets) so they take up less space. Can be used for recipes with 8 or 9 items.
 
