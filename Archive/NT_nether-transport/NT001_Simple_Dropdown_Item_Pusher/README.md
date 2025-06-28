@@ -5,7 +5,7 @@
 
 **Tags:** *Tested & Functional, Recommended*
 
-**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388179701583052860)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318627815493723)
 
 12gt clockable dropdown item pusher. Useful for pushing items on ice in the nether. All the pistons are sticky. Probably not unload safe. Use string + observers instead of noteblock/observer/repeater trigger to make it automatically fire when item comes.
 
