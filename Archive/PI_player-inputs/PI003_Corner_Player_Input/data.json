@@ -45,17 +45,17 @@
   ],
   "attachments": [
     {
-      "id": "1388566697199403118",
-      "name": "PI003_corner_input.litematic",
+      "id": "1388587587895165049",
+      "name": "PI003_cornyeet_fixed.litematic",
       "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1388566576692990162/1388566697199403118/corner_input.litematic?ex=68617302&is=68602182&hm=7bf455dbebb959a0101a9e5a8fae090565bce0ca08901c73eafb08868192b771&",
-      "description": "Sent by andrews54757 at 6/28/2025, 1:08:19 PM",
+      "url": "https://cdn.discordapp.com/attachments/1388566576692990162/1388587587895165049/cornyeet_fixed.litematic?ex=68618677&is=686034f7&hm=85a1e4908a33647074999bfcbe5eebf40e72745a8a8b5df572852925ca69a6e2&",
+      "description": "Sent by andrews54757 at 6/28/2025, 2:31:19 PM",
       "canDownload": true,
       "litematic": {
         "size": "8x8x8",
         "version": "1.21"
       },
-      "path": "attachments/PI003_corner_input.litematic"
+      "path": "attachments/PI003_cornyeet_fixed.litematic"
     }
   ],
   "description": "An input interface built into a corner. Uses hoppercarts to unload chests rapidly.",
@@ -69,7 +69,7 @@
     "If box display is filled while pause line is activated, box must be opened/closed again to replace it when pause is lifted."
   ],
   "notes": "",
-  "timestamp": 1751130936073,
+  "timestamp": 1751135491793,
   "post": {
     "threadId": "1388568533331480687",
     "forumId": "1375569381781930006",
@@ -77,6 +77,6 @@
       "1388568537869713540"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1388568533331480687",
-    "uploadMessageId": "1388568531448365088"
+    "uploadMessageId": "1388587641016029415"
   }
 }
