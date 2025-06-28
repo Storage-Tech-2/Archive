@@ -7,7 +7,7 @@
 
 **Tags:** *Recommended, Tested & Functional, Cart Yeet*
 
-**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388177834983428238)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388316992443908149)
 
 Stacks hopper-minecarts below the box to quickly unload it. Provides an alternative to box yeeting that doesn't destroy the box.
 
