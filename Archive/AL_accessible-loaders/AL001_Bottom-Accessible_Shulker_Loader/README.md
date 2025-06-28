@@ -7,7 +7,7 @@
 
 **Tags:** *Tileable, Recommended, Tested & Functional*
 
-**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388177440899207349)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388316690047045673)
 
 Single hopper-speed loader with easy access to the box and most of the redstone away from the access side.
 
