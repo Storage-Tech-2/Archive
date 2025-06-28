@@ -3,7 +3,7 @@
   "name": "player-inputs",
   "code": "PI",
   "description": "Player input devices",
-  "currentCodeId": 2,
+  "currentCodeId": 3,
   "entries": [
     {
       "id": "1386870260661227682",
@@ -18,6 +18,13 @@
       "code": "PI002",
       "timestamp": 1751050118719,
       "path": "PI002_Binned_Storage_Input"
+    },
+    {
+      "id": "1388566576692990162",
+      "name": "Corner Player Input",
+      "code": "PI003",
+      "timestamp": 1751130936073,
+      "path": "PI003_Corner_Player_Input"
     }
   ]
 }
