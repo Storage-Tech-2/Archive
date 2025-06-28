@@ -7,7 +7,7 @@
 
 **Tags:** *Recommended, Tested & Functional, isEmpty/isFull*
 
-**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388177754599718984)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388316930456424519)
 
 Separates shulker boxes based on their fill level
 
