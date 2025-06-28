@@ -22,12 +22,16 @@
   ],
   "tags": [
     {
-      "id": "1385488501545373754",
-      "name": "Broken"
-    },
-    {
       "id": "1386533562282672198",
       "name": "4 Displays"
+    },
+    {
+      "id": "1385488501545373755",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789129794519081",
+      "name": "Recommended"
     }
   ],
   "images": [
@@ -56,26 +60,26 @@
   ],
   "attachments": [
     {
-      "id": "1387317689814482965",
-      "name": "DH004_2025-06-24_23-51-13_quad_bulk_showcase.zip",
+      "id": "1388595477078867968",
+      "name": "DH004_quad_bulk_showcase_fixed_1.21.5.zip",
       "contentType": "application/zip",
-      "url": "https://cdn.discordapp.com/attachments/1386956182526230558/1387317689814482965/2025-06-24_23-51-13_quad_bulk_showcase.zip?ex=685ce7c8&is=685b9648&hm=b4e1a008d0446ef161a194839d0d2b964aae4f32627e291200679d36dab0d66d&",
-      "description": "Sent by camphorwood at 6/25/2025, 2:25:12 AM",
+      "url": "https://cdn.discordapp.com/attachments/1386956182526230558/1388595477078867968/quad_bulk_showcase_fixed_1.21.5.zip?ex=68618dd0&is=68603c50&hm=56501a5947f4b9b43220750aab48098650d6e4b02d1093cfa62cf16ee7e6cc3d&",
+      "description": "Sent by andrews54757 at 6/28/2025, 3:02:40 PM",
       "canDownload": true,
-      "path": "attachments/DH004_2025-06-24_23-51-13_quad_bulk_showcase.zip"
+      "path": "attachments/DH004_quad_bulk_showcase_fixed_1.21.5.zip"
     },
     {
-      "id": "1387317690104021074",
-      "name": "DH004_quad_216_clean.litematic",
+      "id": "1388595477410484375",
+      "name": "DH004_camphorwood_quad_bulk_fixed.litematic",
       "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1386956182526230558/1387317690104021074/quad_216_clean.litematic?ex=685ce7c8&is=685b9648&hm=bb308ddc202cfe9a33caa2bf573454957f5874222166572c248f1dc6d9978a7b&",
-      "description": "Sent by camphorwood at 6/25/2025, 2:25:12 AM",
+      "url": "https://cdn.discordapp.com/attachments/1386956182526230558/1388595477410484375/camphorwood_quad_bulk_fixed.litematic?ex=68618dd0&is=68603c50&hm=be9d3eb3add70b51755b09607d28d6e3732643deef6bb546077164d0cbdc3b64&",
+      "description": "Sent by andrews54757 at 6/28/2025, 3:02:40 PM",
       "canDownload": true,
       "litematic": {
         "size": "35x44x65",
         "version": "1.21.4"
       },
-      "path": "attachments/DH004_quad_216_clean.litematic"
+      "path": "attachments/DH004_camphorwood_quad_bulk_fixed.litematic"
     }
   ],
   "description": "4 box displays per slice design with Quad bulk, Box sorters use a special whitelisting keygen, Whitelister uses cart yeeting, hence 1.19+, 216 item types (can be reduced), FHL",
@@ -90,7 +94,7 @@
     "**Whitelister is broken**. Please replace the keygen/whitelister if you want to use."
   ],
   "notes": "[Showcase video](https://www.youtube.com/watch?v=i24AdqmGXLI) (!important)\n- Top display designed by @Jayroi\n- Bottom display designed by @DatNerd\n- Box sorter based on work by @crain",
-  "timestamp": 1751042169260,
+  "timestamp": 1751137410735,
   "post": {
     "threadId": "1388318048372658316",
     "forumId": "1375565403727724764",
@@ -98,7 +102,7 @@
       "1388318051543548005"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1388318048372658316",
-    "uploadMessageId": "1388178965574848584",
+    "uploadMessageId": "1388595691462463561",
     "attachmentMessageId": "1388196225555103918"
   }
 }
