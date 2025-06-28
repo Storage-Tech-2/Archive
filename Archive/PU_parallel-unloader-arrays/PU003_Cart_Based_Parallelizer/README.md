@@ -7,7 +7,7 @@
 
 **Tags:** *Untested*
 
-**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388179243288236092)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318282913943653)
 
 This system aims to accelerate the sorting speed of your main storage by unloading multiple items simultaneously whilst ensuring every item type isn't unloaded faster than what a single filter can handle. Hopper carts are used as a way to quickly pick up full stacks of items and unloading them via cart yeeting. To use drop any items on the input pressure plate and connect your filters to the output. Due to the nature of the system, filters that are compatible with it are: ss2 ssi filters (excluding push filters) and overstacked filters.
 
