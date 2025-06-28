@@ -7,7 +7,7 @@
 
 **Tags:** *Tested & Functional, Recommended, Cart Yeet*
 
-**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388177948129099889)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317081958617148)
 
 Destroys shulker box item entities with lava to unload its contents at hopperspeed.
 
