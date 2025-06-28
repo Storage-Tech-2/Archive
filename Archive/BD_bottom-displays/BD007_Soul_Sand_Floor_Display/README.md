@@ -7,7 +7,7 @@
 
 **Tags:** *Tested & Functional, Recommended, Auto Replacement*
 
-**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388178232431611945)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317306450477066)
 
 A floor display that uses soul sand to collect the empty box in a water stream.
 
