@@ -7,7 +7,7 @@
 
 **Tags:** *Tested & Functional, Recommended, Reliable Collection, Auto Replacement*
 
-**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388178284373868626)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317359298580490)
 
 Wall box display for restock stations
 
