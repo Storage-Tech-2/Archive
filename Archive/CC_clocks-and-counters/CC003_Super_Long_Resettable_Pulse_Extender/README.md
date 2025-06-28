@@ -7,7 +7,7 @@
 
 **Tags:** *Pulse Extenders, Untested*
 
-**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388179640014864394)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318581678407772)
 
 Programmable length from 90s to about 15 hours. Doesn't use hoppers and mostly dustless except one dot. Kinda big (3x6x6).
 
