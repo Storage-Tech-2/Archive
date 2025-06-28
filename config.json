@@ -26,7 +26,7 @@
       "name": "other-loaders",
       "code": "OL",
       "path": "Archive/OL_other-loaders",
-      "description": "Other box loaders (EG: CUD loaders)"
+      "description": "Other box loaders (EG: CUD loaders or hybrid loaders)"
     },
     {
       "id": "1375559535976124717",
@@ -89,7 +89,7 @@
       "name": "dropper-transport",
       "code": "DT",
       "path": "Archive/DT_dropper-transport",
-      "description": "Dropper lines"
+      "description": "Dropper lines and auto droppers"
     },
     {
       "id": "1375563169904459846",
@@ -279,6 +279,20 @@
       "code": "NT",
       "path": "Archive/NT_nether-transport",
       "description": "Transporting items in the nether"
+    },
+    {
+      "id": "1388599490898038945",
+      "name": "item-layouts",
+      "code": "IL",
+      "path": "Archive/IL_item-layouts",
+      "description": "Item layouts for storage systems"
+    },
+    {
+      "id": "1388599778941861898",
+      "name": "testing-guides",
+      "code": "TG",
+      "path": "Archive/TG_testing-guides",
+      "description": "Reference material for how to test things thouroughly"
     }
   ]
 }
