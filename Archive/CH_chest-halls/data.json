@@ -3,7 +3,7 @@
   "name": "chest-halls",
   "code": "CH",
   "description": "Chest halls",
-  "currentCodeId": 5,
+  "currentCodeId": 6,
   "entries": [
     {
       "id": "1386233426826231918",
@@ -39,6 +39,13 @@
       "code": "CH005",
       "timestamp": 1751126911466,
       "path": "CH005_Square_UI_1wABt_10_item_chest_hall"
+    },
+    {
+      "id": "1388554841034592348",
+      "name": "SS3 TIS Layout 10 Chest Hall",
+      "code": "CH006",
+      "timestamp": 1751127805783,
+      "path": "CH006_SS3_TIS_Layout_10_Chest_Hall"
     }
   ]
 }
