@@ -1,0 +1,87 @@
+{
+  "id": "1388624919306305636",
+  "name": "Hermitcraft Item Set",
+  "code": "TG001",
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "323515840236486659",
+      "displayName": "KikuGie",
+      "username": "kikugie",
+      "iconURL": "https://cdn.discordapp.com/avatars/323515840236486659/fa3cbf8851082f9c09921cd682de89d4.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1388600291007533124",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1388625473122074624",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1388624919306305636/1388625473122074624/image.png?ex=6861a9c0&is=68605840&hm=8ad86267e9ca1c9efb27ca6cf34a5ef1931c4f84bed1fc61eaee27b5320bd2e8&",
+      "description": "Sent by andrews54757 at 6/28/2025, 5:01:52 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 256,
+      "path": "images/image.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1388626214326894802",
+      "name": "TG001_Hermitems_S8_1.17.1.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1388624919306305636/1388626214326894802/Hermitems_S8_1.17.1.litematic?ex=6861aa70&is=686058f0&hm=0bf719d19e0f6384fd1ade7f3656a1f362e0b90c70f3f2904beaa85754701d83&",
+      "description": "Sent by andrews54757 at 6/28/2025, 5:04:49 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "33x1x7",
+        "version": "1.17.1"
+      },
+      "path": "attachments/TG001_Hermitems_S8_1.17.1.litematic"
+    },
+    {
+      "id": "1388626213999874048",
+      "name": "TG001_Hermitems_S8_1.21.4.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1388624919306305636/1388626213999874048/Hermitems_S8_1.21.4.litematic?ex=6861aa70&is=686058f0&hm=091db6b6027f292f2785f1c1daa60d198b2d2de2497e59f299fb79c19c420cfd&",
+      "description": "Sent by andrews54757 at 6/28/2025, 5:04:49 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "33x1x7",
+        "version": "1.21.4"
+      },
+      "path": "attachments/TG001_Hermitems_S8_1.21.4.litematic"
+    }
+  ],
+  "description": "Hermitcraft Season 8 player's items for testing main storages. Use this item set as a standard testing suite for mixed box processing.",
+  "features": [
+    "Grouped by player in barrels of shulker boxes, preserving original chest contents",
+    "In total 1.57mil items and 2031 shulkers"
+  ],
+  "considerations": [],
+  "notes": "A spreadsheet with per-player stats is available [here](https://docs.google.com/spreadsheets/d/19sWI78msXHRVCwSgc6w5sglSjWgeYYLOBmrBY4cUgu4/edit?usp=sharing)",
+  "timestamp": 1751144703940,
+  "post": {
+    "threadId": "1388626280060158094",
+    "forumId": "1388599778941861898",
+    "continuingMessageIds": [
+      "1388626283327389727"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388626280060158094",
+    "uploadMessageId": "1388626278613254274"
+  }
+}
