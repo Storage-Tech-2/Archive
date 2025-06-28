@@ -7,7 +7,7 @@
 
 **Tags:** *Tested & Functional*
 
-**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388179185754833118)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318223434518581)
 
 Displays chest cart for player to put items in. On clicking the noteblock yeets items from the cart into the water stream.
 
