@@ -14,7 +14,7 @@
 ## Features
 - 43 hopppers per slice and full hopperlocking even when filters are overflowing.
 - 3 10gt filters per side, the rest is 8gt or less.
-- SSI filters.
+- SS3 signal strength isolated (SSI) filters.
 - No prefilling.
 - All filters are accessible with the scaffolding.
 - At least a barrel of extra capacity for every chest.
