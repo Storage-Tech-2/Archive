@@ -7,7 +7,7 @@
 
 **Tags:** *Tested & Functional, Recommended*
 
-**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388179474520080416)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318468331536524)
 
 Small 6gt box replacement crafting station. Displays two boxes for you with ingredients on the left which breaks when emptied, and a box for the results on the right which breaks when full.
 
