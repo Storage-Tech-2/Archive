@@ -7,7 +7,7 @@
 
 **Tags:** *Untested, Fullspeed*
 
-**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388177624005742863)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388316832016109649)
 
 Loads boxes at 8x hopperspeed without pausing during box replacement. Not tested extensively.
 
