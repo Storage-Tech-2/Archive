@@ -7,7 +7,7 @@
 
 **Tags:** *Auto Replacement, Tested & Functional*
 
-**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388178112931692646)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317211923582976)
 
 An incredibly simple box display that is quick to build and is the only 4 wide box display to my knowledge.
 
