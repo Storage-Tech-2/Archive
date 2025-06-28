@@ -7,7 +7,7 @@
 
 **Tags:** *Untested*
 
-**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388178784200560771)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317906194141234)
 
 High throughput whitelister. Can support 360k/hr for 6 item types (must be different item types), 144k/hr for 3 items types (these 3 slots could all be the same if you want though), and 72k/hr for 4 item types. The 6 item types are single item carts, the 3 item types are present in 2 mixed carts, the 4 item types alternate in sets of 2 between the 2 mixed carts.
 
