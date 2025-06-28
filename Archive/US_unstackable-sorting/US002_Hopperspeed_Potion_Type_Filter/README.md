@@ -7,7 +7,7 @@
 
 **Tags:** *Tested & Functional, Recommended, Potions*
 
-**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388178812558250075)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317923575337011)
 
 Sorts potions by their potion contents using comparator update detectors. Works by trying to brew a potion with a set ingredient.
 
