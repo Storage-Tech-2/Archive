@@ -7,7 +7,7 @@
 
 **Tags:** *Tested & Functional, Recommended*
 
-**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388228737232802027)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318242690564188)
 
 Allows players to input loose items and bulk boxes for separate processing. Includes manual mixed loader display as another input method.
 
