@@ -7,7 +7,7 @@
 
 **Tags:** *Tested & Functional, Recommended, Tileable*
 
-**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388177492031967393)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388316730681458819)
 
 A simple 5 block wide accessible loader with a zero ticked composter that buffers 16 stacks.
 
