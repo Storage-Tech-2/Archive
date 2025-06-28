@@ -7,7 +7,7 @@
 
 **Tags:** *Tested & Functional, 4 Displays*
 
-**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388196468124287017)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318028197789766)
 
 Quad bulk hall design has 4 box displays per slice and 4 box sorters.
 
