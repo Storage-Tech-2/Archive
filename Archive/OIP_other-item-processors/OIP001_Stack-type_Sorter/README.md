@@ -7,7 +7,7 @@
 
 **Tags:** *Recommended, Tested & Functional*
 
-**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388178722930036756)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317684948533249)
 
 Sorts items based on their stack type at hopperspeed. Has three outputs for unstackable, 16-stackable, and 64 stackable items.
 
