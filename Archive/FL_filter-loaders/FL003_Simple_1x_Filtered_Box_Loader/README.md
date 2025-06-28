@@ -5,7 +5,7 @@
 
 **Tags:** *Recommended, 1X Hopperspeed, Tested & Functional*
 
-**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388177415154565195)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388177415154565195)
 
 Togglestate-less and simple device that filters and loads items into shulker boxes at hopperspeed.
 
