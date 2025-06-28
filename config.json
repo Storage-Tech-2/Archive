@@ -293,6 +293,13 @@
       "code": "TG",
       "path": "Archive/TG_testing-guides",
       "description": "Reference material for how to test things thouroughly"
+    },
+    {
+      "id": "1388657467508133928",
+      "name": "tricks-and-tips",
+      "code": "TT",
+      "path": "Archive/TT_tricks-and-tips",
+      "description": "How to guides for tricks tips and more"
     }
   ]
 }
