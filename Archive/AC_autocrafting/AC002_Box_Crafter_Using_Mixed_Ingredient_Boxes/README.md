@@ -7,7 +7,7 @@
 
 **Tags:** *Tested & Functional, Recommended, Box crafters*
 
-**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388179448393629757)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318446168572105)
 
 Consume boxed ingredient materials (containing wood and shulker shells) to craft into shulker boxes with both ingredients being in the same boxes. Instead of having separate boxes for wood and shulker shells, this system creates and uses mixed shulker boxes containing both in a precise ratio.
 
