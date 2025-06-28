@@ -66,9 +66,11 @@
   "timestamp": 1750625540208,
   "post": {
     "forumId": "1386443869729587291",
-    "threadId": "1388179613578170568",
-    "continuingMessageIds": [],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388179613578170568",
+    "threadId": "1388318562669690982",
+    "continuingMessageIds": [
+      "1388318565517492444"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388318562669690982",
     "attachmentMessageId": "1388179618195832872",
     "uploadMessageId": "1388179611938066588"
   }
