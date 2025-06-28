@@ -7,7 +7,7 @@
 
 **Tags:** *Recommended, Tested & Functional*
 
-**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388177649913954376)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388316853004140554)
 
 Separates boxes based on if the first item of the input box matches an item set.
 
