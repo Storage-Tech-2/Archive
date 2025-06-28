@@ -7,7 +7,7 @@
 
 **Tags:** *Tested & Functional, Recommended*
 
-**Original Post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388179583039180950)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318543959031898)
 
 Each slice uses a static filter to check if the box contains the item set in the filter. If so, then the box will be rejected, otherwise the box moves to the next slice.
 
