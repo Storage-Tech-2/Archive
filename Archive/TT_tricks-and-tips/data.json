@@ -3,6 +3,14 @@
   "name": "tricks-and-tips",
   "code": "TT",
   "description": "How to guides for tricks tips and more",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1388663948227903560",
+      "name": "How to float align items",
+      "code": "TT001",
+      "timestamp": 1751154005719,
+      "path": "TT001_How_to_float_align_items"
+    }
+  ]
 }
