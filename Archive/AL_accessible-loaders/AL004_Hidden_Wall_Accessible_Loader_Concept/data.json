@@ -1,0 +1,88 @@
+{
+  "id": "1388326694993268847",
+  "name": "Hidden Wall Accessible Loader Concept",
+  "code": "AL004",
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1202027269338697788",
+      "displayName": "0wUCat",
+      "username": "0wucat_73519",
+      "iconURL": "https://cdn.discordapp.com/embed/avatars/1.png"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488464648208442",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1388326696171733063",
+      "name": "area_render_75_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1388326694993268847/1388326696171733063/area_render_75_.png?ex=6860937e&is=685f41fe&hm=b08567da694c6664400a98b0c2566eab0f4caf73292e5fcd7713b5c18e1df7d8&",
+      "description": "Sent by andrews54757 at 6/27/2025, 9:14:37 PM",
+      "canDownload": true,
+      "width": 529,
+      "height": 800,
+      "path": "images/area_render_75_.png"
+    },
+    {
+      "id": "1388326696419069992",
+      "name": "area_render_74_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1388326694993268847/1388326696419069992/area_render_74_.png?ex=6860937e&is=685f41fe&hm=8a1fbdd04bd2ba1b64bc01c7389151bb33b340fd1d0ea05c1d336f5e24224205&",
+      "description": "Sent by andrews54757 at 6/27/2025, 9:14:37 PM",
+      "canDownload": true,
+      "width": 529,
+      "height": 800,
+      "path": "images/area_render_74_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1388326695701975050",
+      "name": "AL004_silly_hidden_wall_loader.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1388326694993268847/1388326695701975050/silly_hidden_wall_loader.litematic?ex=6860937e&is=685f41fe&hm=166b47bfc7b8f16302cabeea8eddf1a5415736b472981e715beed67d14185eb3&",
+      "description": "Sent by andrews54757 at 6/27/2025, 9:14:37 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "7x9x6",
+        "version": "1.21.4"
+      },
+      "path": "attachments/AL004_silly_hidden_wall_loader.litematic"
+    }
+  ],
+  "description": "Silly hidden 2x accessible shulker loader. A zero tick composter pusher pops out of the wall to break the box with reliable collection.",
+  "features": [
+    "Interesting user interface",
+    "2x mixed box loading with accessible box"
+  ],
+  "considerations": [
+    "External clock on/off",
+    "Breaks with random clock timings"
+  ],
+  "notes": "The concept of this design is very interesting, but we recommend it for inspiration purposes only.",
+  "timestamp": 1751073563647,
+  "post": {
+    "threadId": "1388327895432171652",
+    "forumId": "1375557143201316934",
+    "continuingMessageIds": [
+      "1388327898603061359"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388327895432171652",
+    "uploadMessageId": "1388327894035730493"
+  }
+}
