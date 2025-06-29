@@ -60,15 +60,6 @@
   ],
   "attachments": [
     {
-      "id": "1388595477078867968",
-      "name": "DH004_quad_bulk_showcase_fixed_1.21.5.zip",
-      "contentType": "application/zip",
-      "url": "https://cdn.discordapp.com/attachments/1386956182526230558/1388595477078867968/quad_bulk_showcase_fixed_1.21.5.zip?ex=68618dd0&is=68603c50&hm=56501a5947f4b9b43220750aab48098650d6e4b02d1093cfa62cf16ee7e6cc3d&",
-      "description": "Sent by andrews54757 at 6/28/2025, 3:02:40 PM",
-      "canDownload": true,
-      "path": "attachments/DH004_quad_bulk_showcase_fixed_1.21.5.zip"
-    },
-    {
       "id": "1388595477410484375",
       "name": "DH004_camphorwood_quad_bulk_fixed.litematic",
       "contentType": "unknown",
@@ -80,6 +71,15 @@
         "version": "1.21.4"
       },
       "path": "attachments/DH004_camphorwood_quad_bulk_fixed.litematic"
+    },
+    {
+      "id": "1388745611863527424",
+      "name": "DH004_2025-06-29_05-24-04_quad_bulk_showcase.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1386956182526230558/1388745611863527424/2025-06-29_05-24-04_quad_bulk_showcase.zip?ex=686219a3&is=6860c823&hm=0ddb262b429983ca1e12fd443f65362898cccbcb3a9c8aeb257ea34e7bccd847&",
+      "description": "Sent by camphorwood at 6/29/2025, 12:59:15 AM",
+      "canDownload": true,
+      "path": "attachments/DH004_2025-06-29_05-24-04_quad_bulk_showcase.zip"
     }
   ],
   "description": "4 box displays per slice design with Quad bulk, Box sorters use a special whitelisting keygen, Whitelister uses cart yeeting, hence 1.19+, 216 item types (can be reduced), FHL",
@@ -94,7 +94,7 @@
     "Top displays can break if activated rapidly, make sure global box placement is triggered only after sorting is completed."
   ],
   "notes": "[Showcase video](https://www.youtube.com/watch?v=i24AdqmGXLI) (!important)\n- Top display designed by @Jayroi\n- Bottom display designed by @DatNerd\n- Box sorter based on work by @crain",
-  "timestamp": 1751137516593,
+  "timestamp": 1751173240108,
   "post": {
     "threadId": "1388318048372658316",
     "forumId": "1375565403727724764",
@@ -102,7 +102,7 @@
       "1388318051543548005"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1388318048372658316",
-    "uploadMessageId": "1388595691462463561",
+    "uploadMessageId": "1388745975819927663",
     "attachmentMessageId": "1388196225555103918"
   }
 }
