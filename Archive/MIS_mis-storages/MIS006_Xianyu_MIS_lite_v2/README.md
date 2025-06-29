@@ -1,5 +1,5 @@
 # Xianyu MIS lite v2
-<img alt="XianyuMIS_lite_v2.png" src="images/XianyuMIS_lite_v2.png?raw=1" height="300px">
+<img alt="XianyuMIS_v2.png" src="images/XianyuMIS_v2.png?raw=1" height="300px">
 
 **Authors:** *siderXD, Capybruhh*
 
@@ -7,7 +7,7 @@
 
 **Tags:** *Tested & Functional, Recommended*
 
-**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388915045534138369)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388925689826115624)
 
 - A beginner to intermediate cart-based MIS storage. Fast speed, minimum prefill, minimum lag, and beginner-friendly.
 

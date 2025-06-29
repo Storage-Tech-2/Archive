@@ -39,15 +39,15 @@
   ],
   "images": [
     {
-      "id": "1388786405840523375",
-      "name": "XianyuMIS_lite_v2.png",
+      "id": "1388918523790758088",
+      "name": "XianyuMIS_v2.png",
       "contentType": "image/png",
-      "url": "https://cdn.discordapp.com/attachments/1388786404317724712/1388786405840523375/XianyuMIS_lite_v2.png?ex=68623fa1&is=6860ee21&hm=41b591734930ca661344187334b491d2698955693b23fc61fb811b16b2956eba&",
-      "description": "Sent by jeffyangzx at 6/29/2025, 3:41:21 AM",
+      "url": "https://cdn.discordapp.com/attachments/1388786404317724712/1388918523790758088/XianyuMIS_v2.png?ex=6862baac&is=6861692c&hm=c79b3435191bed74a34dcdad426da13ae0330127e6cd07a473648d265d0fa739&",
+      "description": "Sent by jeffyangzx at 6/29/2025, 12:26:20 PM",
       "canDownload": true,
       "width": 800,
-      "height": 679,
-      "path": "images/XianyuMIS_lite_v2.png"
+      "height": 688,
+      "path": "images/XianyuMIS_v2.png"
     }
   ],
   "attachments": [
@@ -93,14 +93,14 @@
     "there is one inaccessible chest for buffer per slice"
   ],
   "notes": "- need chunk alignment",
-  "timestamp": 1751214310513,
+  "timestamp": 1751216088651,
   "post": {
-    "threadId": "1388915045534138369",
+    "threadId": "1388925689826115624",
     "forumId": "1375566804910604349",
     "continuingMessageIds": [
-      "1388915049283715203"
+      "1388925694163288214"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388915045534138369",
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388925689826115624",
     "uploadMessageId": "1388918233557368893"
   }
 }
