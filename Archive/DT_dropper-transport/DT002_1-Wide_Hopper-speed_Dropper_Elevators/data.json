@@ -12,8 +12,8 @@
     {
       "type": "discord-in-guild",
       "id": "239078039831445504",
-      "username": "andrews54757",
       "displayName": "Andrews54757",
+      "username": "andrews54757",
       "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
     },
     {
@@ -24,7 +24,7 @@
     },
     {
       "type": "unknown",
-      "username": "vktec"
+      "username": "Minestop"
     }
   ],
   "endorsers": [
@@ -87,7 +87,7 @@
   "features": [],
   "considerations": [],
   "notes": "A3 by @rapscallion1138\nB2 by Minestop\nD1/2 by @andrews54757 \ncompiled by @walter7381 \n\n-  D1/2 (Green) is non tillable but transfers items instantly and is silent. Doesn't work when rails are facing towards the positive X direction (east) .\n-  \"Unstackables noisy\" mean that the design is normally silent however, unstackable items may cause clicking noises in adjacent slices.\n-  C1 is 1.13+ and is very noisy\n- All design not labelled silent have clicking along the tower after items are done passing through, otherwise they are silent. (Excluding C1)",
-  "timestamp": 1750745379522,
+  "timestamp": 1751162353341,
   "post": {
     "forumId": "1375563020478058557",
     "threadId": "1388317501406056528",
