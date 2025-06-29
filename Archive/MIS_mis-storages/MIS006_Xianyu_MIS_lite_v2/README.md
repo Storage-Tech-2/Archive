@@ -32,7 +32,5 @@
 - need chunk alignment
 
 ## Resources
-- [MIS006_XianyuMIS_lite_v2_1.21.4.zip](attachments/MIS006_XianyuMIS_lite_v2_1.21.4.zip): discord
 - [MIS006_XianyuMIS_lite_v2_1.21.litematic](attachments/MIS006_XianyuMIS_lite_v2_1.21.litematic): MC 1.20.4, Size 32x22x29 blocks
-- [MIS006_XianyuMIS_lite_v2_1.20.litematic](attachments/MIS006_XianyuMIS_lite_v2_1.20.litematic): MC 1.20.1, Size 32x22x29 blocks
-- [MIS006_XianyuMIS_lite_v2_1.20_blank.litematic](attachments/MIS006_XianyuMIS_lite_v2_1.20_blank.litematic): MC 1.20.1, Size 32x22x29 blocks
+- [MIS006_XianyuMIS_lite_v2.zip](attachments/MIS006_XianyuMIS_lite_v2.zip): application/zip
