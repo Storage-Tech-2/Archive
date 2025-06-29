@@ -54,11 +54,11 @@
       "path": "attachments/TG001_Hermitems_S8_1.17.1.litematic"
     },
     {
-      "id": "1388626213999874048",
+      "id": "1388711078334169238",
       "name": "TG001_Hermitems_S8_1.21.4.litematic",
       "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1388624919306305636/1388626213999874048/Hermitems_S8_1.21.4.litematic?ex=6861aa70&is=686058f0&hm=091db6b6027f292f2785f1c1daa60d198b2d2de2497e59f299fb79c19c420cfd&",
-      "description": "Sent by andrews54757 at 6/28/2025, 5:04:49 PM",
+      "url": "https://cdn.discordapp.com/attachments/1388624919306305636/1388711078334169238/Hermitems_S8_1.21.4.litematic?ex=6861f97a&is=6860a7fa&hm=6f694bca82b75c1140ca68716535c4efd476912ab95b69080892b019f73a97d3&",
+      "description": "Sent by andrews54757 at 6/28/2025, 10:42:02 PM",
       "canDownload": true,
       "litematic": {
         "size": "33x1x7",
@@ -74,7 +74,7 @@
   ],
   "considerations": [],
   "notes": "A spreadsheet with per-player stats is available [here](https://docs.google.com/spreadsheets/d/19sWI78msXHRVCwSgc6w5sglSjWgeYYLOBmrBY4cUgu4/edit?usp=sharing)",
-  "timestamp": 1751144703940,
+  "timestamp": 1751164937546,
   "post": {
     "threadId": "1388626280060158094",
     "forumId": "1388599778941861898",
@@ -82,6 +82,6 @@
       "1388626283327389727"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1388626280060158094",
-    "uploadMessageId": "1388626278613254274"
+    "uploadMessageId": "1388711145040248863"
   }
 }
