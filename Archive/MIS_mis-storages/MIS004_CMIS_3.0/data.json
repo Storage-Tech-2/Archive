@@ -4,10 +4,11 @@
   "code": "MIS004",
   "authors": [
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "142441395095863296",
       "username": "civicdude",
-      "iconURL": "https://cdn.discordapp.com/avatars/142441395095863296/dcf48bee377748f5809116893cac5bae.webp"
+      "iconURL": "https://cdn.discordapp.com/avatars/142441395095863296/dcf48bee377748f5809116893cac5bae.webp",
+      "displayName": "Civic Dude"
     }
   ],
   "endorsers": [
