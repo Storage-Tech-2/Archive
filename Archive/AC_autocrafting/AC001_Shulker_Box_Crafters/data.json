@@ -6,22 +6,21 @@
     {
       "type": "discord-in-guild",
       "id": "656864003242328064",
-      "name": "acaciachan",
       "displayName": "金合欢酱(acaciachan)",
-      "iconURL": "https://cdn.discordapp.com/avatars/656864003242328064/65e1c203d9ea0af6509f0754122b45a2.webp",
-      "username": "acaciachan"
+      "username": "acaciachan",
+      "iconURL": "https://cdn.discordapp.com/avatars/656864003242328064/65e1c203d9ea0af6509f0754122b45a2.webp"
     },
     {
       "type": "unknown",
-      "username": "vktec"
+      "username": "Mangelious"
     },
     {
       "type": "unknown",
-      "username": "vktec"
+      "username": "萌萌的小公举"
     },
     {
       "type": "unknown",
-      "username": "vktec"
+      "username": "viommm"
     },
     {
       "type": "discord-external",
@@ -114,7 +113,7 @@
   ],
   "considerations": [],
   "notes": "Recommended startup process:\n1. After build complete, remove the two hoppers under the box, then place the material box.\n2. Take 8 logs from the box and make them into 4 chests, put into the 'final crafter(box crafter)'.\n3. Place hopper under the box, then put item into the detected hopper and take out, then ready.\n\nThe consumption of the two raw materials is 1:1. The observer under the comparator is to increase the crafting cycle from 15t to 16t. DO NOT power the noteblock to shutdown, please lock or cut the output hopper to shutdown.",
-  "timestamp": 1750645043031,
+  "timestamp": 1751161631055,
   "post": {
     "forumId": "1375570772348764392",
     "threadId": "1388318423427059806",
