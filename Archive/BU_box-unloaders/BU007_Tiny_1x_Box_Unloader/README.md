@@ -16,6 +16,9 @@ Tiny hopperspeed box unloaders.
 - Automatic first box placement
 - Super small size
 
+## Considerations
+- Very rare chance of box ending up in item output if adjacent slices are broken simultaneously. Tile every two blocks to avoid this issue.
+
 ## Other Images
 <img src="images/area_render_4.png?raw=1" height="300px">
 
