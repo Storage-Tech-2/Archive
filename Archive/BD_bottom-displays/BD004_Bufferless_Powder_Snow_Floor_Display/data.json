@@ -16,10 +16,11 @@
       "iconURL": "https://cdn.discordapp.com/avatars/528559320086872064/83e4a5181f4b2cbfe68b3fdc14b6aeef.webp"
     },
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "240860456057700352",
       "username": "philgoodinator",
-      "iconURL": "https://cdn.discordapp.com/avatars/240860456057700352/a9f4d6256aa4effec933334c93da54c0.webp"
+      "iconURL": "https://cdn.discordapp.com/avatars/240860456057700352/a9f4d6256aa4effec933334c93da54c0.webp",
+      "displayName": "Philgoodinator"
     }
   ],
   "endorsers": [
