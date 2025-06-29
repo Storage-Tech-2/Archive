@@ -6,10 +6,9 @@
     {
       "type": "discord-in-guild",
       "id": "656864003242328064",
-      "name": "acaciachan",
       "displayName": "金合欢酱(acaciachan)",
-      "iconURL": "https://cdn.discordapp.com/avatars/656864003242328064/65e1c203d9ea0af6509f0754122b45a2.webp",
-      "username": "acaciachan"
+      "username": "acaciachan",
+      "iconURL": "https://cdn.discordapp.com/avatars/656864003242328064/65e1c203d9ea0af6509f0754122b45a2.webp"
     },
     {
       "type": "discord-in-guild",
@@ -20,7 +19,7 @@
     },
     {
       "type": "unknown",
-      "username": "vktec"
+      "username": "兔子(tuzier)"
     }
   ],
   "endorsers": [
@@ -135,7 +134,7 @@
     "You need to make a \"box material loader\" in a place such as main storage to make the mixed boxes"
   ],
   "notes": "Designs for both mixed box loader and box crafter are included in the WDL. Also included is a slower 1.5x speed version but entityless and without togglestates.",
-  "timestamp": 1751000841634,
+  "timestamp": 1751161647069,
   "post": {
     "forumId": "1375570772348764392",
     "threadId": "1388318446168572105",
