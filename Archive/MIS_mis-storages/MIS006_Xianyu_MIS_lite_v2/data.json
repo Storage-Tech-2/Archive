@@ -1,0 +1,128 @@
+{
+  "id": "1388786404317724712",
+  "name": "Xianyu MIS lite v2",
+  "code": "MIS006",
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1008428083692449954",
+      "displayName": "siderXD",
+      "username": "nesider.",
+      "iconURL": "https://cdn.discordapp.com/avatars/1008428083692449954/12cbd75e7eb2fdadef6e9f865b8b5255.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "1154811326540038185",
+      "displayName": "Capybruhh",
+      "username": "jeffyangzx",
+      "iconURL": "https://cdn.discordapp.com/avatars/1154811326540038185/69c37494ea59a6a85f22cf992839ef2e.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488504204562639",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1388786405840523375",
+      "name": "XianyuMIS_lite_v2.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1388786404317724712/1388786405840523375/XianyuMIS_lite_v2.png?ex=68623fa1&is=6860ee21&hm=41b591734930ca661344187334b491d2698955693b23fc61fb811b16b2956eba&",
+      "description": "Sent by jeffyangzx at 6/29/2025, 3:41:21 AM",
+      "canDownload": true,
+      "width": 800,
+      "height": 679,
+      "path": "images/XianyuMIS_lite_v2.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1388457117748297818",
+      "name": "MIS006_XianyuMIS_lite_v2_1.21.4.zip",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1382969100388536422/1388457117748297818/XianyuMIS_lite_v2_1.21.4.zip?ex=68610cf5&is=685fbb75&hm=9cbeb4ecf6498fc0e25e9d2fabec05577eb92420f5591035d0d3346f8f10f226&",
+      "description": "[DiscordCDN] Sent by jeffyangzx at 6/29/2025, 3:41:21 AM",
+      "canDownload": true,
+      "path": "attachments/MIS006_XianyuMIS_lite_v2_1.21.4.zip"
+    },
+    {
+      "id": "1388457118067200080",
+      "name": "MIS006_XianyuMIS_lite_v2_1.21.litematic",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1382969100388536422/1388457118067200080/XianyuMIS_lite_v2_1.21.litematic?ex=68610cf5&is=685fbb75&hm=7e2bcc89076e302c6face719aba16b5ddfd34d5fbef54aa61ab0a0a762c18210&",
+      "description": "[DiscordCDN] Sent by jeffyangzx at 6/29/2025, 3:41:21 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "32x22x29",
+        "version": "1.20.4"
+      },
+      "path": "attachments/MIS006_XianyuMIS_lite_v2_1.21.litematic"
+    },
+    {
+      "id": "1388544422224072786",
+      "name": "MIS006_XianyuMIS_lite_v2_1.20.litematic",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1382969100388536422/1388544422224072786/XianyuMIS_lite_v2_1.20.litematic?ex=68615e44&is=68600cc4&hm=febc85e411359095de5c0b906db69e131b85c0aec69f1161058444f8566ae396&",
+      "description": "[DiscordCDN] Sent by jeffyangzx at 6/29/2025, 3:41:21 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "32x22x29",
+        "version": "1.20.1"
+      },
+      "path": "attachments/MIS006_XianyuMIS_lite_v2_1.20.litematic"
+    },
+    {
+      "id": "1388544422706286632",
+      "name": "MIS006_XianyuMIS_lite_v2_1.20_blank.litematic",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1382969100388536422/1388544422706286632/XianyuMIS_lite_v2_1.20_blank.litematic?ex=68615e44&is=68600cc4&hm=c2b2a90aabb148dac59798a43b5a7c6edf6db3f70558180edc08d7e7fd74dc62&",
+      "description": "[DiscordCDN] Sent by jeffyangzx at 6/29/2025, 3:41:21 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "32x22x29",
+        "version": "1.20.1"
+      },
+      "path": "attachments/MIS006_XianyuMIS_lite_v2_1.20_blank.litematic"
+    }
+  ],
+  "description": "- A beginner to intermediate cart-based MIS storage. Fast speed, minimum prefill, minimum lag, and beginner-friendly.",
+  "features": [
+    "max speed 9.7x HS, operating at 6.5x HS on average",
+    "smart input with lock feature and isBox check",
+    "different input for boxes and loose items",
+    "46 slices in total, easy to expand",
+    "works in all directions",
+    "accessible and easily configurable whitelisters",
+    "build simplicity and small amount of prefill",
+    "safety features such as blocker missing alarm and emergency stop"
+  ],
+  "considerations": [
+    "no hopperlocking",
+    "no bulk storage",
+    "no unstackable sorter",
+    "input box breaking not 100% precise",
+    "there is one inaccessible chest for buffer per slice"
+  ],
+  "notes": "- need chunk alignment",
+  "timestamp": 1751213549968,
+  "post": {
+    "threadId": "1388915045534138369",
+    "forumId": "1375566804910604349",
+    "continuingMessageIds": [
+      "1388915049283715203"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388915045534138369",
+    "uploadMessageId": "1388915042748993559"
+  }
+}

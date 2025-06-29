@@ -3,7 +3,7 @@
   "name": "mis-storages",
   "code": "MIS",
   "description": "Multi item storages",
-  "currentCodeId": 5,
+  "currentCodeId": 6,
   "entries": [
     {
       "id": "1386227823450132604",
@@ -32,6 +32,13 @@
       "code": "MIS005",
       "timestamp": 1751129755827,
       "path": "MIS005_J-MIS_Jays_Moony_Item_Sorter"
+    },
+    {
+      "id": "1388786404317724712",
+      "name": "Xianyu MIS lite v2",
+      "code": "MIS006",
+      "timestamp": 1751213549968,
+      "path": "MIS006_Xianyu_MIS_lite_v2"
     }
   ]
 }
