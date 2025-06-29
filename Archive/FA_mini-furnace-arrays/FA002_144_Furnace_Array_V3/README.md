@@ -36,4 +36,4 @@
 this Post is long af lmao
 
 ## Resources
-- [FA002_144_Furnace_Array_V3Hopefully_less_broken.litematic](attachments/FA002_144_Furnace_Array_V3Hopefully_less_broken.litematic): MC 1.19.4, Size 10x12x46 blocks
+- [FA002_144_Furnace_Array_V3.3_By_Kayzm.litematic](attachments/FA002_144_Furnace_Array_V3.3_By_Kayzm.litematic): MC 1.19.4, Size 10x13x46 blocks
