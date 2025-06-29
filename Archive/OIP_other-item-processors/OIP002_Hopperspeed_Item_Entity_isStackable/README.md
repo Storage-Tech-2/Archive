@@ -1,7 +1,7 @@
 # Hopperspeed Item Entity isStackable
 <img alt="isStackable_simple.png" src="images/isStackable_simple.png?raw=1" height="300px">
 
-**Authors:** *金合欢酱(acaciachan), vktec*
+**Authors:** *金合欢酱(acaciachan), daisy_pig*
 
 **Endorsed by:** *Andrews54757*
 
