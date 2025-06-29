@@ -1,7 +1,7 @@
 # Inverse Slider Box Display
 <img alt="area_render_355_.png" src="images/area_render_355_.png?raw=1" height="300px">
 
-**Authors:** *jayroi*
+**Authors:** *jayroi, Sunflower, skyzy*
 
 **Endorsed by:** *Andrews54757*
 

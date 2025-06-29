@@ -8,6 +8,20 @@
       "id": "577991168369885223",
       "username": "jayroi",
       "iconURL": "https://cdn.discordapp.com/avatars/577991168369885223/2775f84c1b6a1241468c6efdc8a320ce.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "1159969623496740916",
+      "displayName": "Sunflower",
+      "username": "8as1l",
+      "iconURL": "https://cdn.discordapp.com/avatars/1159969623496740916/7d8b24f15f6c669bce6b38cb9ead4f98.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "727730797049806898",
+      "displayName": "skyzy",
+      "username": "sskyzy",
+      "iconURL": "https://cdn.discordapp.com/avatars/727730797049806898/00d0b08b860ed57fbd2c228943b0de07.webp"
     }
   ],
   "endorsers": [
@@ -109,7 +123,7 @@
     "Initial placement has many piston actions"
   ],
   "notes": "- Older versions may need more than two slices in order to avoid toggling the sticky during the initial place.",
-  "timestamp": 1750779242043,
+  "timestamp": 1751215138324,
   "post": {
     "forumId": "1375560792665231450",
     "threadId": "1388317141723385927",
