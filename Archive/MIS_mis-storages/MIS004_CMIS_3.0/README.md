@@ -1,7 +1,7 @@
 # CMIS 3.0
 <img alt="area_render_41_.png" src="images/area_render_41_.png?raw=1" height="300px">
 
-**Authors:** *civicdude*
+**Authors:** *Civic Dude*
 
 **Endorsed by:** *Andrews54757*
 
