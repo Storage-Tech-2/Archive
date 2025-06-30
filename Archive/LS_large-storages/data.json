@@ -3,6 +3,14 @@
   "name": "large-storages",
   "code": "LS",
   "description": "Large/full size storages",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1389156295520682004",
+      "name": "Sweet Potatoes MS",
+      "code": "LS001",
+      "timestamp": 1751292193469,
+      "path": "LS001_Sweet_Potatoes_MS"
+    }
+  ]
 }

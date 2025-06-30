@@ -1,0 +1,93 @@
+{
+  "id": "1389156295520682004",
+  "name": "Sweet Potatoes MS",
+  "code": "LS001",
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "568329498072842240",
+      "displayName": "womp",
+      "username": "compactsmg",
+      "iconURL": "https://cdn.discordapp.com/embed/avatars/0.png"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "831969094797361193",
+      "username": "valblaze",
+      "displayName": "ValBlaze",
+      "iconURL": "https://cdn.discordapp.com/avatars/831969094797361193/a25d7d10ee9e988720bc3eefe02eeaf7.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488508155723783",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1389156296967852053",
+      "name": "area_render_3_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1389156295520682004/1389156296967852053/area_render_3_.png?ex=6863981e&is=6862469e&hm=1e9f13949a39ffc06711bb4eda06add9d144789aa62e10d0f58079bdcfbadcd7&",
+      "description": "Sent by compactsmg at 6/30/2025, 4:11:10 AM",
+      "canDownload": true,
+      "width": 784,
+      "height": 800,
+      "path": "images/area_render_3_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1389156353871708321",
+      "name": "LS001_Sweet_Potatoes.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1389156295520682004/1389156353871708321/Sweet_Potatoes.litematic?ex=6863982c&is=686246ac&hm=df82000d2809079ce1f5079c815357f518a1c93d46ffd0e483e9feee821c0cda&",
+      "description": "Sent by compactsmg at 6/30/2025, 4:11:24 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "144x84x128",
+        "version": "1.21.5"
+      },
+      "path": "attachments/LS001_Sweet_Potatoes.litematic"
+    },
+    {
+      "id": "1389156354161381507",
+      "name": "LS001_Sweet_Potatoes_Nether_Side.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1389156295520682004/1389156354161381507/Sweet_Potatoes_Nether_Side.litematic?ex=6863982c&is=686246ac&hm=c5365d9a51441e0f4cfab8490712bb09fa9534dec965786c8293945e24d92feb&",
+      "description": "Sent by compactsmg at 6/30/2025, 4:11:24 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "18x6x14",
+        "version": "1.21.1"
+      },
+      "path": "attachments/LS001_Sweet_Potatoes_Nether_Side.litematic"
+    }
+  ],
+  "description": "A fairly large storage system that utilizes a parallel unloading array allowing the system to unload at a max of 8x hopper speed.",
+  "features": [
+    "~90% Hopperlocked",
+    "Has various peripherals: restock stations, furnace array, crafting station, and yeeting station, masscrafter, brewer, and unstackable sorter",
+    "Has a concrete duper in the middle of the storage (This was requested, can easily be omitted in the building process)",
+    "Has a big bulk with capacity for ~1.3m / item.",
+    "Has 1 DC capacity chest halls with SS2 filters.",
+    "Uses MIS 5.1"
+  ],
+  "considerations": [
+    "This system requires you to have Carpet's `stackableShulkerBoxes` rule enabled and subsequently Kikugie's StackableShulkerFix."
+  ],
+  "notes": "Tested for ~400k items without issues",
+  "timestamp": 1751292193469,
+  "post": {
+    "threadId": "1389244896870797333",
+    "forumId": "1375566903241740450",
+    "continuingMessageIds": [
+      "1389244900314185878"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1389244896870797333",
+    "uploadMessageId": "1389244894945480846"
+  }
+}
