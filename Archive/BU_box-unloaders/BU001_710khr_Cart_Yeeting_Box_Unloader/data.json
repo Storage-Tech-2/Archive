@@ -21,6 +21,12 @@
       "id": "531601171211878431",
       "username": "rapscallion1138",
       "iconURL": "https://cdn.discordapp.com/avatars/531601171211878431/8db107ef61024878a05baab3a798d7d5.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "551464150925180928",
+      "username": "_javierrubik33",
+      "iconURL": "https://cdn.discordapp.com/avatars/551464150925180928/6348ffe8aa6bb90856447c503288827b.webp"
     }
   ],
   "endorsers": [
@@ -85,7 +91,7 @@
     "It's big (smaller version exists for only slightly slower speeds: [will link soon])"
   ],
   "notes": "See thread for testing statistics",
-  "timestamp": 1751314424709,
+  "timestamp": 1751318350475,
   "post": {
     "threadId": "1389338141583741085",
     "forumId": "1375560446676963450",
