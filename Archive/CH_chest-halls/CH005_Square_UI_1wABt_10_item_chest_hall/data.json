@@ -65,7 +65,7 @@
   "features": [
     "43 hopppers per slice and full hopperlocking even when filters are overflowing.",
     "3 10gt filters per side, the rest is 8gt or less.",
-    "SS3 signal strength isolated (SSI) filters.",
+    "SS2 signal strength isolated (SSI) filters.",
     "No prefilling.",
     "All filters are accessible with the scaffolding.",
     "At least a barrel of extra capacity for every chest."
@@ -74,7 +74,7 @@
     "The 3 10gt filters may require input batching"
   ],
   "notes": "Schematic includes subregions for locking switches and chest hall.",
-  "timestamp": 1751127849338,
+  "timestamp": 1751289310557,
   "post": {
     "threadId": "1388551652319039702",
     "forumId": "1375561810392125510",
