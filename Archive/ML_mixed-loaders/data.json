@@ -3,7 +3,7 @@
   "name": "mixed-loaders",
   "code": "ML",
   "description": "Box loaders which load mixed item types",
-  "currentCodeId": 5,
+  "currentCodeId": 6,
   "entries": [
     {
       "id": "1386244541513863249",
@@ -39,6 +39,13 @@
       "code": "ML005",
       "timestamp": 1751125560672,
       "path": "ML005_Globally_Clocked_3wt_8x_Mixed_Box_Loader"
+    },
+    {
+      "id": "1389197974826913814",
+      "name": "3wt 6x fullspeed mixed loader",
+      "code": "ML006",
+      "timestamp": 1751296638591,
+      "path": "ML006_3wt_6x_fullspeed_mixed_loader"
     }
   ]
 }

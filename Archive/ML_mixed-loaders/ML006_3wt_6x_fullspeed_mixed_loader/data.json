@@ -1,0 +1,101 @@
+{
+  "id": "1389197974826913814",
+  "name": "3wt 6x fullspeed mixed loader",
+  "code": "ML006",
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "444883614761746436",
+      "displayName": "camphorwood",
+      "username": "camphorwood",
+      "iconURL": "https://cdn.discordapp.com/avatars/444883614761746436/17e4ab17b53d45242bc5b87532e74c0c.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "610020794684276736",
+      "username": "bonkloud",
+      "iconURL": "https://cdn.discordapp.com/avatars/610020794684276736/6d24e4a9cf39f2b4cc9830d69a61347e.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1386423142574194868",
+      "name": "6X Hopperspeed"
+    },
+    {
+      "id": "1386839243879616523",
+      "name": "Fullspeed"
+    },
+    {
+      "id": "1386422917729882322",
+      "name": "Full Clearance"
+    }
+  ],
+  "images": [
+    {
+      "id": "1389198695169265747",
+      "name": "2025-06-30_18.53.16.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1389197974826913814/1389198695169265747/2025-06-30_18.53.16.png?ex=6863bf9a&is=68626e1a&hm=cb9a4d001943e856007de2346e17555ada64ae9aa23c7d2de0b3545f9778ed35&",
+      "description": "Sent by camphorwood at 6/30/2025, 6:59:39 AM",
+      "canDownload": true,
+      "width": 800,
+      "height": 450,
+      "path": "images/2025-06-30_18.53.16.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1389259138948661410",
+      "name": "ML006_3wt_6x_fullspeed_mixed.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1389197974826913814/1389259138948661410/3wt_6x_fullspeed_mixed.litematic?ex=6863f7e5&is=6862a665&hm=8ba22c7e413c253e283ce56515b40d57551993f07c506c305c7f5b99ecfbe3a2&",
+      "description": "Sent by camphorwood at 6/30/2025, 10:59:50 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "6x6x3",
+        "version": "1.21.5"
+      },
+      "path": "attachments/ML006_3wt_6x_fullspeed_mixed.litematic"
+    },
+    {
+      "id": "1389259138512715787",
+      "name": "ML006_3wt_6x_fullspeed_mixed_wdl.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1389197974826913814/1389259138512715787/3wt_6x_fullspeed_mixed_wdl.zip?ex=6863f7e5&is=6862a665&hm=8ceffb2655f16d6c1ea933336583ed08402e9c818d8785c75ee250c6c9d9101c&",
+      "description": "Sent by camphorwood at 6/30/2025, 10:59:50 AM",
+      "canDownload": true,
+      "path": "attachments/ML006_3wt_6x_fullspeed_mixed_wdl.zip"
+    }
+  ],
+  "description": "This loader design features mixed item loading at full 6x hopperspeed (54k items/h)",
+  "features": [
+    "3-wide tileable",
+    "Size: 6x6x3",
+    "Globally clocked",
+    "Useful for general item loading"
+  ],
+  "considerations": [
+    "2/3 iced (nether unfriendly)"
+  ],
+  "notes": "- Our testing shows that it works with the Hermitcraft item set\n- WDL is 1.21.5 and includes testing setup",
+  "timestamp": 1751296638591,
+  "post": {
+    "threadId": "1389263540937818313",
+    "forumId": "1375557473066418206",
+    "continuingMessageIds": [
+      "1389263544452775957"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1389263540937818313",
+    "uploadMessageId": "1389263539335729192"
+  }
+}
