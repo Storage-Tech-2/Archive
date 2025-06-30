@@ -1,0 +1,93 @@
+{
+  "id": "1389350108801400832",
+  "name": "Compact Cart Yeeting Box Unloader",
+  "code": "BU008",
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "688456529338433611",
+      "displayName": "Christone",
+      "username": "glidingmonkey",
+      "iconURL": "https://cdn.discordapp.com/avatars/688456529338433611/348a34add443a5a71237111010e484b1.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "925291210325753907",
+      "displayName": "Carrie",
+      "username": "sandcaribou",
+      "iconURL": "https://cdn.discordapp.com/avatars/925291210325753907/656d2b1879c7cc0eb36abb9fb826255a.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "173621852290285568",
+      "username": "math_dragon",
+      "iconURL": "https://cdn.discordapp.com/avatars/173621852290285568/9199769ffaa86def287450d9b5b6261d.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "688456529338433611",
+      "username": "glidingmonkey",
+      "displayName": "Christone",
+      "iconURL": "https://cdn.discordapp.com/avatars/688456529338433611/348a34add443a5a71237111010e484b1.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488474148438035",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1386248660974567445",
+      "name": "Cart Yeet"
+    }
+  ],
+  "images": [
+    {
+      "id": "1389350109392932985",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1389350108801400832/1389350109392932985/image.png?ex=68644c9e&is=6862fb1e&hm=281c785641d0d300dc4d7f1b4dd9e417c2978996984a90113dcf791ff7e04ee2&",
+      "description": "Sent by glidingmonkey at 6/30/2025, 5:01:18 PM",
+      "canDownload": true,
+      "width": 685,
+      "height": 800,
+      "path": "images/image.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1389350109719822537",
+      "name": "BU008_Fast_Box_Unloader_-_Smaller.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1389350108801400832/1389350109719822537/Fast_Box_Unloader_-_Smaller.litematic?ex=68644c9f&is=6862fb1f&hm=499b62623a7e9521044ef7d957454156481b967ab8e372b77fe30f26debe5ed4&",
+      "description": "Sent by glidingmonkey at 6/30/2025, 5:01:18 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "3x8x7",
+        "version": "1.20.1"
+      },
+      "path": "attachments/BU008_Fast_Box_Unloader_-_Smaller.litematic"
+    }
+  ],
+  "description": "Stacks hopper-minecarts below the box to quickly unload it. Provides an alternative to box yeeting that doesn't destroy the box.",
+  "features": [
+    "Unloads boxes very fast (Average: hermitcraft set testing pending)",
+    "Handles empty boxes",
+    "Unloaded boxes are preserved and sent to their own output",
+    "Size: 3x8x7"
+  ],
+  "considerations": [],
+  "notes": "",
+  "timestamp": 1751318613327,
+  "post": {
+    "threadId": "1389355709119856772",
+    "forumId": "1375560446676963450",
+    "continuingMessageIds": [
+      "1389355712546865162"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1389355709119856772",
+    "uploadMessageId": "1389355707454722058"
+  }
+}
