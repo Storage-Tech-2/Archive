@@ -28,6 +28,7 @@ Tested for ~400k items without issues
 **Sourced Components:**
 - Chest Hall: https://discord.com/channels/1375556143186837695/1388317417385758770
 - Bulk: [PyraLeft's new bulk](https://discord.com/channels/614934109751345153/731632393315942531/1327412377406148628)
+- Parallel Unloading Array: https://discord.com/channels/748542142347083868/1241919346477891684
 - 6x Full Clearance Loader: https://discord.com/channels/1375556143186837695/1388316771832041482
 - Chunkloader: https://discord.com/channels/748542142347083868/748547221338849330/1127706483723882537
 - Stacked Box Storage: https://discord.com/channels/748542142347083868/1182473535566921788/1182476705714147348
