@@ -12,10 +12,13 @@
 Stacks hopper-minecarts below the box to quickly unload it. Provides an alternative to box yeeting that doesn't destroy the box.
 
 ## Features
-- Unloads boxes very fast (Average: hermitcraft set testing pending)
+- Unloads boxes very fast (Average: 600k items/hr)
 - Handles empty boxes
 - Unloaded boxes are preserved and sent to their own output
 - Size: 3x8x7
+
+## Considerations
+- 15% slower than https://discord.com/channels/1375556143186837695/1389338141583741085/1389338141583741085 (but this is 30% smaller size)
 
 ## Resources
 - [BU008_Fast_Box_Unloader_-_Smaller.litematic](attachments/BU008_Fast_Box_Unloader_-_Smaller.litematic): MC 1.20.1, Size 3x8x7 blocks

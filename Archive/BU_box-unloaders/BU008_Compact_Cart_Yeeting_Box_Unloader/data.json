@@ -73,14 +73,16 @@
   ],
   "description": "Stacks hopper-minecarts below the box to quickly unload it. Provides an alternative to box yeeting that doesn't destroy the box.",
   "features": [
-    "Unloads boxes very fast (Average: hermitcraft set testing pending)",
+    "Unloads boxes very fast (Average: 600k items/hr)",
     "Handles empty boxes",
     "Unloaded boxes are preserved and sent to their own output",
     "Size: 3x8x7"
   ],
-  "considerations": [],
+  "considerations": [
+    "15% slower than https://discord.com/channels/1375556143186837695/1389338141583741085/1389338141583741085 (but this is 30% smaller size)"
+  ],
   "notes": "",
-  "timestamp": 1751318613327,
+  "timestamp": 1751330430449,
   "post": {
     "threadId": "1389355709119856772",
     "forumId": "1375560446676963450",
