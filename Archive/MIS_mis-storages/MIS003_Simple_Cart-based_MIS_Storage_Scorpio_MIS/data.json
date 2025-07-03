@@ -31,12 +31,21 @@
       "id": "1379027871531532389",
       "name": "area_render_26_.png",
       "contentType": "discord",
-      "url": "https://cdn.discordapp.com/attachments/1315522702492172300/1379027871531532389/area_render_26_.png?ex=6859c609&is=68587489&hm=4df7a03c9e05391ede542e572d6a7a075f0bd315f934db5b4ae661dd95328ab9&",
-      "description": "[DiscordCDN] Sent by scorpio03 at 6/23/2025, 12:04:17 AM",
+      "url": "https://cdn.discordapp.com/attachments/1315522702492172300/1379027871531532389/area_render_26_.png",
+      "description": "[DiscordCDN] Sent by scorpio03 at 7/2/2025, 11:44:00 PM",
       "canDownload": true,
-      "width": 800,
-      "height": 461,
       "path": "images/area_render_26_.png"
+    },
+    {
+      "id": "1390325206727262248",
+      "name": "area_render_8_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386555107084210176/1390325206727262248/area_render_8_.png?ex=6867d8c0&is=68668740&hm=e21649e63aebd7949859820f9ff0cdef18784ade713ac790bb3fc1e60fd0345e&",
+      "description": "Sent by scorpio03 at 7/3/2025, 9:36:00 AM",
+      "canDownload": true,
+      "width": 752,
+      "height": 800,
+      "path": "images/area_render_8_.png"
     }
   ],
   "attachments": [
@@ -50,30 +59,31 @@
       "path": "attachments/MIS003_ScorpioMIS.url"
     }
   ],
-  "description": "A simple and cheap early game storage system using hopper minecart multi-item sorter (MIS). This design has minimal waterlogged blocks and cursed rail placements",
+  "description": "A simple and cheap early game storage system using hopper minecart multi-item sorter (MIS). This design has minimal waterlogged blocks and cursed rail placements\n### Positives\n- Cheap and easy to build, optimized for build simplicity\n- Has every items prefilled in whitelister chests for reference\n- Somewhat decent speed (2.4x hopper speed at max) compared to other early game storage systems like https://discord.com/channels/1161803566265143306/1378802569585098823",
   "features": [
     "2.4x hopper speed at max",
     "Hopper cart sucks 4 shears and 15 items every 50gt (which makes it handle both 16 and 64 stackable items)",
-    "Has both box unloader for box input and loose item input",
-    "Decorated version has a mixed box loader for overflow items, a switch and a chunk loading indicator light"
+    "Has both loose item input and a box unloader for box input",
+    "Schematic info:",
+    "Decorated version: includes a mixed box loader for overflow items, a switch and a chunk loading indicator light",
+    "Accessible whitelister version: includes a restock station, a switch and a chunk loading indicator light"
   ],
   "considerations": [
-    "Bigger size compared to other early game storage systems",
     "Not hopper locked",
     "No unstackable sorting",
     "No bulk storage",
     "Slower than designs like <#1382996113191206932>"
   ],
-  "notes": "## Instructions\n### Notes\n- When building the storage, make sure to chunk align so that the storage is within the 3x3 loading range of the chunk loader.\n- The base version does not have a box loader for overflow items, if the unsorted chests are full then the overflow items will despawn. You can add the mixed box loader attached in the decorated version in that case.\n### Build\n- Glow lichen can be replaced with sign\n- Make sure to only fill the cart dispenser with 8 hopper minecarts\n### How to use\n1. Input loose items into the shulker box\n2. Input shulker boxes (empty or without items) into the double chest",
-  "timestamp": 1750652062556,
+  "notes": "## Instructions\n### Notes\n- The base and accessible version does not have a box loader for overflow items, if the unsorted chests are full then the overflow items will despawn. You can add the mixed box loader attached in the decorated version in that case.\n### Build\n- When building the storage, make sure to chunk align so that the storage is within the 3x3 loading range of the chunk loader.\n- Glow lichen can be replaced with sign\n- Make sure to only fill the cart dispenser with 8 hopper minecarts, refer to schematic\n- It is recommended to temporarily fill all the whitelister chest filter slots with blocker items (renamed iron nuggets). Once you acquire the actual filter items, to replace the placeholders. For a visual guide, refer to the demonstration at [this timestamp](<https://youtu.be/oU5EjKhhbnk?si=XwvpGQnIHJRrBjRf&t=76>)\n### How to use\n1. Input loose items into the shulker box\n2. Input shulker boxes (empty or not) into the double chest",
+  "timestamp": 1751549961893,
   "post": {
+    "threadId": "1390326056405434429",
     "forumId": "1375566804910604349",
-    "threadId": "1388318086687490229",
     "continuingMessageIds": [
-      "1388318089325580410"
+      "1390326060729634856",
+      "1390326061295861902"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388318086687490229",
-    "attachmentMessageId": "1388179026111103118",
+    "threadURL": "https://discord.com/channels/1375556143186837695/1390326056405434429",
     "uploadMessageId": "1388179019459199086"
   }
 }
