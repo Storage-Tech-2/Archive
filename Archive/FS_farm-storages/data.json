@@ -3,6 +3,14 @@
   "name": "farm-storages",
   "code": "FS",
   "description": "Farm storages and digsorts",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1390475873404194897",
+      "name": "Concrete Factory/Duper Storage",
+      "code": "FS001",
+      "timestamp": 1751586201390,
+      "path": "FS001_Concrete_FactoryDuper_Storage"
+    }
+  ]
 }
