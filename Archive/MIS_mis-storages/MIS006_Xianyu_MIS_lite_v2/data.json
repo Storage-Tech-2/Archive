@@ -39,39 +39,52 @@
   ],
   "images": [
     {
-      "id": "1388918523790758088",
-      "name": "XianyuMIS_v2.png",
+      "id": "1390206182718967928",
+      "name": "XianyuMIS_lite_v2.01.png",
       "contentType": "image/png",
-      "url": "https://cdn.discordapp.com/attachments/1388786404317724712/1388918523790758088/XianyuMIS_v2.png?ex=6862baac&is=6861692c&hm=c79b3435191bed74a34dcdad426da13ae0330127e6cd07a473648d265d0fa739&",
-      "description": "Sent by jeffyangzx at 6/29/2025, 12:26:20 PM",
+      "url": "https://cdn.discordapp.com/attachments/1388786404317724712/1390206182718967928/XianyuMIS_lite_v2.01.png?ex=686769e6&is=68661866&hm=82a5b7bfb5a8b58764776f894b35deca5dafce26504f6e0c284195f8c8441432&",
+      "description": "Sent by jeffyangzx at 7/3/2025, 1:43:02 AM",
       "canDownload": true,
       "width": 800,
-      "height": 688,
-      "path": "images/XianyuMIS_v2.png"
+      "height": 697,
+      "path": "images/XianyuMIS_lite_v2.01.png"
     }
   ],
   "attachments": [
     {
-      "id": "1388918058881519636",
-      "name": "MIS006_XianyuMIS_lite_v2_1.21.litematic",
-      "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1388786404317724712/1388918058881519636/XianyuMIS_lite_v2_1.21.litematic?ex=6862ba3e&is=686168be&hm=9829d94e245549ef861bb221416b8828b992234f40c174f9cc5e008683917936&",
-      "description": "Sent by jeffyangzx at 6/29/2025, 12:24:30 PM",
+      "id": "1390206181250830398",
+      "name": "MIS006_XianyuMIS_lite_v2.01_WDL_1.21.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1388786404317724712/1390206181250830398/XianyuMIS_lite_v2.01_WDL_1.21.zip?ex=686769e6&is=68661866&hm=4cfada345419a20d8c4fdd22e6034e5d8e89384c4bafdd0865253a0c0f73671a&",
+      "description": "Sent by jeffyangzx at 7/3/2025, 1:43:02 AM",
       "canDownload": true,
-      "litematic": {
-        "size": "32x22x29",
-        "version": "1.20.4"
-      },
-      "path": "attachments/MIS006_XianyuMIS_lite_v2_1.21.litematic"
+      "path": "attachments/MIS006_XianyuMIS_lite_v2.01_WDL_1.21.zip"
     },
     {
-      "id": "1388918059271458986",
-      "name": "MIS006_XianyuMIS_lite_v2.zip",
-      "contentType": "application/zip",
-      "url": "https://cdn.discordapp.com/attachments/1388786404317724712/1388918059271458986/XianyuMIS_lite_v2.zip?ex=6862ba3e&is=686168be&hm=2f1ef4e82c3a0e5f68c1024a4018761761eddd3159562d838c25b294449c7c7a&",
-      "description": "Sent by jeffyangzx at 6/29/2025, 12:24:30 PM",
+      "id": "1390206180911222784",
+      "name": "MIS006_XianyuMIS_lite_v2.01_1.20.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1388786404317724712/1390206180911222784/XianyuMIS_lite_v2.01_1.20.litematic?ex=686769e6&is=68661866&hm=398886f8d813f85f99c9083cb7bb3dbcb8eb1f67695a38a792594d72a12dbe43&",
+      "description": "Sent by jeffyangzx at 7/3/2025, 1:43:02 AM",
       "canDownload": true,
-      "path": "attachments/MIS006_XianyuMIS_lite_v2.zip"
+      "litematic": {
+        "size": "38x22x28",
+        "version": "1.20.1"
+      },
+      "path": "attachments/MIS006_XianyuMIS_lite_v2.01_1.20.litematic"
+    },
+    {
+      "id": "1390206180562960406",
+      "name": "MIS006_XianyuMIS_lite_v2.01.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1388786404317724712/1390206180562960406/XianyuMIS_lite_v2.01.litematic?ex=686769e6&is=68661866&hm=5e02e2aeeb06370181ce6604d69dd89e5754ce84df8370643a3c092028a57d36&",
+      "description": "Sent by jeffyangzx at 7/3/2025, 1:43:02 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "38x22x28",
+        "version": "1.20.4"
+      },
+      "path": "attachments/MIS006_XianyuMIS_lite_v2.01.litematic"
     }
   ],
   "description": "- A beginner to intermediate cart-based MIS storage. Fast speed, minimum prefill, minimum lag, and beginner-friendly.",
@@ -93,14 +106,14 @@
     "there is one inaccessible chest for buffer per slice"
   ],
   "notes": "- need chunk alignment",
-  "timestamp": 1751216088651,
+  "timestamp": 1751548922735,
   "post": {
-    "threadId": "1388925689826115624",
+    "threadId": "1390321702365302926",
     "forumId": "1375566804910604349",
     "continuingMessageIds": [
-      "1388925694163288214"
+      "1390321705284669470"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388925689826115624",
-    "uploadMessageId": "1388918233557368893"
+    "threadURL": "https://discord.com/channels/1375556143186837695/1390321702365302926",
+    "uploadMessageId": "1390321699723022358"
   }
 }

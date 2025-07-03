@@ -1,5 +1,5 @@
 # Xianyu MIS lite v2
-<img alt="XianyuMIS_v2.png" src="images/XianyuMIS_v2.png?raw=1" height="300px">
+<img alt="XianyuMIS_lite_v2.01.png" src="images/XianyuMIS_lite_v2.01.png?raw=1" height="300px">
 
 **Authors:** *siderXD, Capybruhh*
 
@@ -7,7 +7,7 @@
 
 **Tags:** *Tested & Functional, Recommended*
 
-**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388925689826115624)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1390321702365302926)
 
 - A beginner to intermediate cart-based MIS storage. Fast speed, minimum prefill, minimum lag, and beginner-friendly.
 
@@ -32,5 +32,6 @@
 - need chunk alignment
 
 ## Resources
-- [MIS006_XianyuMIS_lite_v2_1.21.litematic](attachments/MIS006_XianyuMIS_lite_v2_1.21.litematic): MC 1.20.4, Size 32x22x29 blocks
-- [MIS006_XianyuMIS_lite_v2.zip](attachments/MIS006_XianyuMIS_lite_v2.zip): application/zip
+- [MIS006_XianyuMIS_lite_v2.01_WDL_1.21.zip](attachments/MIS006_XianyuMIS_lite_v2.01_WDL_1.21.zip): application/zip
+- [MIS006_XianyuMIS_lite_v2.01_1.20.litematic](attachments/MIS006_XianyuMIS_lite_v2.01_1.20.litematic): MC 1.20.1, Size 38x22x28 blocks
+- [MIS006_XianyuMIS_lite_v2.01.litematic](attachments/MIS006_XianyuMIS_lite_v2.01.litematic): MC 1.20.4, Size 38x22x28 blocks
