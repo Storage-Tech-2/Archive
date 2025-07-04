@@ -93,17 +93,18 @@
       "path": "attachments/BU007_1x_box_unloader_-_empty_box_handling.litematic"
     }
   ],
-  "description": "Tiny hopperspeed box unloaders.",
+  "description": "Tiny hopperspeed box unloaders without using toggle states.",
   "features": [
     "Empty box handling variant and fast box replacement variant included",
     "Automatic first box placement",
-    "Super small size"
+    "Super small size",
+    "Togglestateless"
   ],
   "considerations": [
     "Very rare chance of box ending up in item output if adjacent slices are broken simultaneously. Tile every two blocks to avoid this issue."
   ],
   "notes": "",
-  "timestamp": 1751232630636,
+  "timestamp": 1751650739913,
   "post": {
     "threadId": "1388330669297631393",
     "forumId": "1375560446676963450",
