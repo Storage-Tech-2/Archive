@@ -7,7 +7,7 @@
 
 **Tags:** *Tested & Functional, 1X Hopperspeed*
 
-**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1390785848492163305)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1390786621640671335)
 
 Simple hopperspeed box unloader. Toggle-less variant included.
 
