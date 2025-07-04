@@ -3,7 +3,7 @@
   "name": "box-unloaders",
   "code": "BU",
   "description": "Box unloaders",
-  "currentCodeId": 8,
+  "currentCodeId": 9,
   "entries": [
     {
       "id": "1386456499231916093",
@@ -60,6 +60,13 @@
       "code": "BU008",
       "timestamp": 1751351855923,
       "path": "BU008_Compact_Cart_Yeeting_Box_Unloader"
+    },
+    {
+      "id": "1390777762352205845",
+      "name": "1wt Cringe Box Unloader",
+      "code": "BU009",
+      "timestamp": 1751657733143,
+      "path": "BU009_1wt_Cringe_Box_Unloader"
     }
   ]
 }
