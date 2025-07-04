@@ -27,13 +27,3 @@ Simple hopperspeed box unloader. Toggle-less variant included.
 ## Resources
 - [BU006_perfect_shulker_unloader.litematic](attachments/BU006_perfect_shulker_unloader.litematic): MC 1.16.2, Size 6x4x1 blocks
 - [BU006_toggle_less_unloader.litematic](attachments/BU006_toggle_less_unloader.litematic): MC 1.21.4, Size 1x5x6 blocks
-
-## Comments
-
-### Andrews54757 (6/24/2025)
-Variant without toggle states:
-<img alt="image.png" src="comments_attachments/1387250670813319228-image.png?raw=1" height="150px">
-
-**Other attachments:**
-- [BU006_toggle_less_unloader.litematic](comments_attachments/1387250671014903888-bu006_toggle_less_unloader.litematic): MC 1.21.4, Size 1x5x6 blocks
-
