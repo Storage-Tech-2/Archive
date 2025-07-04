@@ -39,12 +39,21 @@
       "id": "1387180396269146143",
       "name": "image.png",
       "contentType": "image/png",
-      "url": "https://cdn.discordapp.com/attachments/1387180395883397291/1387180396269146143/image.png?ex=685c67eb&is=685b166b&hm=934ebed561799a7950902deac73bac0bd8d9a3f365e6c802b513757326dcec79&",
+      "url": "https://cdn.discordapp.com/attachments/1387180395883397291/1387180396269146143/image.png?ex=6868ee2b&is=68679cab&hm=3e46c37865e65757acfa5cadaa9e6922198a42230e5c8246021dd04bcd90cc2e&",
       "description": "Sent by andrews54757 at 6/24/2025, 5:19:38 PM",
       "canDownload": true,
-      "width": 492,
-      "height": 366,
       "path": "images/image.png"
+    },
+    {
+      "id": "1390784091451949178",
+      "name": "togglelessimage.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387180395883397291/1390784091451949178/togglelessimage.png?ex=6869841e&is=6868329e&hm=4e7346459fdbd5f3db86caa910b195cf81a26f36d6ebddc18126ca22dc4ab7fc&",
+      "description": "Sent by andrews54757 at 7/4/2025, 3:59:27 PM",
+      "canDownload": true,
+      "width": 550,
+      "height": 471,
+      "path": "images/togglelessimage.png"
     }
   ],
   "attachments": [
@@ -52,7 +61,7 @@
       "id": "1387180396579520624",
       "name": "BU006_perfect_shulker_unloader.litematic",
       "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1387180395883397291/1387180396579520624/perfect_shulker_unloader.litematic?ex=685c67eb&is=685b166b&hm=d758423de22b573c389c5d2c9aacce67c137a34879fbb6cec85d5e090b02581c&",
+      "url": "https://cdn.discordapp.com/attachments/1387180395883397291/1387180396579520624/perfect_shulker_unloader.litematic?ex=6868ee2b&is=68679cab&hm=70174f254b1eefdb98e7052a16af52fc6e6fdf3cf1c2096e0a8511282db77573&",
       "description": "Sent by andrews54757 at 6/24/2025, 5:19:38 PM",
       "canDownload": true,
       "litematic": {
@@ -60,27 +69,38 @@
         "version": "1.16.2"
       },
       "path": "attachments/BU006_perfect_shulker_unloader.litematic"
+    },
+    {
+      "id": "1390784091909259475",
+      "name": "BU006_toggle_less_unloader.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387180395883397291/1390784091909259475/toggle_less_unloader.litematic?ex=6869841f&is=6868329f&hm=63a7d95f1669d23fae86b3303bcc1620379a4ecc79e1a0891c09f168fa4c8d77&",
+      "description": "Sent by andrews54757 at 7/4/2025, 3:59:27 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "1x5x6",
+        "version": "1.21.4"
+      },
+      "path": "attachments/BU006_toggle_less_unloader.litematic"
     }
   ],
-  "description": "Simple hopperspeed box unloader",
+  "description": "Simple hopperspeed box unloader. Toggle-less variant included.",
   "features": [
     "Small design",
     "Can handle empty boxes"
   ],
   "considerations": [
-    "Togglestateful",
     "Box collection is not 100% reliable if tiled because box item can be collected by adjacent slice, must be A/B tiled."
   ],
   "notes": "[Showcase Video](https://www.youtube.com/watch?v=Vp17vDuMHAQ)",
-  "timestamp": 1751161572037,
+  "timestamp": 1751659221464,
   "post": {
+    "threadId": "1390784325120692265",
     "forumId": "1375560446676963450",
-    "threadId": "1388317099889397803",
     "continuingMessageIds": [
-      "1388317103777517618"
+      "1390784329386557571"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388317099889397803",
-    "attachmentMessageId": "1388177975677288559",
-    "uploadMessageId": "1388177969868046467"
+    "threadURL": "https://discord.com/channels/1375556143186837695/1390784325120692265",
+    "uploadMessageId": "1390784322830602366"
   }
 }
