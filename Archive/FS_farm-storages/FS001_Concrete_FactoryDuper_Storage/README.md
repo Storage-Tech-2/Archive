@@ -28,4 +28,4 @@ A common question is "how to make concrete storage?" This was put together as a 
 - <@240860456057700352>: Box sorter keygen and u-turn design
 
 ## Resources
-- [FS001_Concrete_Storage_v4.1_Hotfix_with_invs_fr_fr_no_cap_ong.litematic](attachments/FS001_Concrete_Storage_v4.1_Hotfix_with_invs_fr_fr_no_cap_ong.litematic): MC 1.21, Size 32x44x21 blocks
+- [FS001_soronto_concrete_v4.1_fixed.litematic](attachments/FS001_soronto_concrete_v4.1_fixed.litematic): MC 1.21.4, Size 32x44x21 blocks
