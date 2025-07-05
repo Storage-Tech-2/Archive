@@ -20,20 +20,7 @@
       "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
     }
   ],
-  "tags": [
-    {
-      "id": "1385488512379518984",
-      "name": "Tested & Functional"
-    },
-    {
-      "id": "1385789144063807591",
-      "name": "Recommended"
-    },
-    {
-      "id": "1385488512379518983",
-      "name": "Broken"
-    }
-  ],
+  "tags": [],
   "images": [
     {
       "id": "1386475806288773254",
