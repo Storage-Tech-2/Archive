@@ -87,7 +87,7 @@
       "path": "attachments/MIS006_XianyuMIS_lite_v2.01.litematic"
     }
   ],
-  "description": "- A beginner to intermediate cart-based MIS storage. Fast speed, minimum prefill, minimum lag, and beginner-friendly.",
+  "description": "A beginner to intermediate cart-based MIS storage. Fast speed, minimum prefill, minimum lag, and beginner-friendly.",
   "features": [
     "max speed 9.7x HS, operating at 6.5x HS on average",
     "smart input with lock feature and isBox check",
@@ -105,8 +105,8 @@
     "input box breaking not 100% precise",
     "there is one inaccessible chest for buffer per slice"
   ],
-  "notes": "- need chunk alignment",
-  "timestamp": 1751548922735,
+  "notes": "- need chunk alignment\n- 1.20.4+. Box displays input are broken in older versions.",
+  "timestamp": 1751865463564,
   "post": {
     "threadId": "1390321702365302926",
     "forumId": "1375566804910604349",

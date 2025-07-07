@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1390321702365302926)
 
-- A beginner to intermediate cart-based MIS storage. Fast speed, minimum prefill, minimum lag, and beginner-friendly.
+A beginner to intermediate cart-based MIS storage. Fast speed, minimum prefill, minimum lag, and beginner-friendly.
 
 ## Features
 - max speed 9.7x HS, operating at 6.5x HS on average
@@ -30,6 +30,7 @@
 
 ## Notes
 - need chunk alignment
+- 1.20.4+. Box displays input are broken in older versions.
 
 ## Resources
 - [MIS006_XianyuMIS_lite_v2.01_WDL_1.21.zip](attachments/MIS006_XianyuMIS_lite_v2.01_WDL_1.21.zip): application/zip
