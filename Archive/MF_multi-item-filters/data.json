@@ -4,13 +4,5 @@
   "code": "MF",
   "description": "Multi item filters check if an item is part of a set of items in the same slice/device",
   "currentCodeId": 2,
-  "entries": [
-    {
-      "id": "1390253396203929702",
-      "name": "2wt MIS V5.1",
-      "code": "MF002",
-      "timestamp": 1751546887419,
-      "path": "MF002_2wt_MIS_V5.1"
-    }
-  ]
+  "entries": []
 }
