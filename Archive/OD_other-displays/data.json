@@ -3,7 +3,7 @@
   "name": "other-displays",
   "code": "OD",
   "description": "Other box displays.",
-  "currentCodeId": 2,
+  "currentCodeId": 3,
   "entries": [
     {
       "id": "1387132949086076948",
@@ -18,6 +18,13 @@
       "code": "OD002",
       "timestamp": 1751013871094,
       "path": "OD002_1wt_Variable_Display"
+    },
+    {
+      "id": "1387253213308129421",
+      "name": "Noteblock Placement Box Display",
+      "code": "OD003",
+      "timestamp": 1751903304287,
+      "path": "OD003_Noteblock_Placement_Box_Display"
     }
   ]
 }
