@@ -3,7 +3,7 @@
   "name": "unstackable-sorting",
   "code": "US",
   "description": "Sort unstackable items by its type, typically by exploiting unique interactions with that item",
-  "currentCodeId": 3,
+  "currentCodeId": 4,
   "entries": [
     {
       "id": "1387480002978910330",
@@ -18,6 +18,13 @@
       "code": "US003",
       "timestamp": 1750969207691,
       "path": "US003_Simple_isBoxisPotionisBookisShearsOrFlint_Filters"
+    },
+    {
+      "id": "1391830251625250867",
+      "name": "[1.17+] Bucked Mob Yeeter & Unstackable Axolotl Separator",
+      "code": "US004",
+      "timestamp": 1751908823726,
+      "path": "US004_1.17_Bucked_Mob_Yeeter__Unstackable_Axolotl_Separator"
     }
   ]
 }
