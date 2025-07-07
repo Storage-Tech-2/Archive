@@ -1,7 +1,7 @@
 # 18gt Box First Item Blacklister/Whitelister
 <img alt="b.png" src="images/b.png?raw=1" height="300px">
 
-**Authors:** *drakephose*
+**Authors:** *DrakePHOSE*
 
 **Endorsed by:** *Andrews54757*
 

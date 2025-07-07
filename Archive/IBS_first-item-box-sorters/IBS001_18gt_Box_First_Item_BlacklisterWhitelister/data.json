@@ -4,10 +4,11 @@
   "code": "IBS001",
   "authors": [
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "183711148288245760",
       "username": "drakephose",
-      "iconURL": "https://cdn.discordapp.com/avatars/183711148288245760/bfaafaea0f922180417020864ce32970.webp"
+      "iconURL": "https://cdn.discordapp.com/avatars/183711148288245760/bfaafaea0f922180417020864ce32970.webp",
+      "displayName": "DrakePHOSE"
     }
   ],
   "endorsers": [
