@@ -1,0 +1,84 @@
+{
+  "id": "1391488725145489520",
+  "name": "Honey Slime Latch Display",
+  "code": "BD009",
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "759402531235037204",
+      "displayName": "oliver ♱",
+      "username": "olivuhhr",
+      "iconURL": "https://cdn.discordapp.com/avatars/759402531235037204/97e34e627fa5ab71a393b72da714f9b8.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "660633169191632908",
+      "username": "etikle",
+      "displayName": "Passionate Storage Techer 69",
+      "iconURL": "https://cdn.discordapp.com/avatars/660633169191632908/194eb1a786a28d07166515b6a1711c05.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488478745137341",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1386125210507542578",
+      "name": "Reliable Collection"
+    },
+    {
+      "id": "1386201743825567905",
+      "name": "Auto Replacement"
+    }
+  ],
+  "images": [
+    {
+      "id": "1391488725854195743",
+      "name": "area_render_12_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1391488725145489520/1391488725854195743/area_render_12_.png?ex=686c145c&is=686ac2dc&hm=f80fcd56450be4fd1dfe2f5d372b9f97f62bacc5249db68e548ece535f82f1f2&",
+      "description": "Sent by olivuhhr at 7/6/2025, 2:39:24 PM",
+      "canDownload": true,
+      "width": 658,
+      "height": 800,
+      "path": "images/area_render_12_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1391488726148055050",
+      "name": "BD009_Latch_Box_Display.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1391488725145489520/1391488726148055050/Latch_Box_Display.litematic?ex=686c145c&is=686ac2dc&hm=5d2b11868afdb2bea7c45521f2c2d3b2f3bd97989c984e63fef5c5e63da025a2&",
+      "description": "Sent by olivuhhr at 7/6/2025, 2:39:24 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "9x11x2",
+        "version": "1.20.1"
+      },
+      "path": "attachments/BD009_Latch_Box_Display.litematic"
+    }
+  ],
+  "description": "A device made using obi's box display with a water stream and latch for UI.",
+  "features": [
+    "Good UI because of the latch",
+    "Water stream collection",
+    "AB tilable",
+    "Tested multiple times"
+  ],
+  "considerations": [],
+  "notes": "Credit to obi for the restock station. Schematic version 1.20.1.",
+  "timestamp": 1751890916134,
+  "post": {
+    "threadId": "1391756120564957194",
+    "forumId": "1375561551188328531",
+    "continuingMessageIds": [
+      "1391756123673202804"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1391756120564957194",
+    "uploadMessageId": "1391756118786834443"
+  }
+}
