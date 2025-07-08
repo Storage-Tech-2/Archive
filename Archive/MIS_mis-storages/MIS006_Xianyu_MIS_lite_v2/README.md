@@ -33,6 +33,6 @@ A beginner to intermediate cart-based MIS storage. Fast speed, minimum prefill, 
 - 1.20.4+. Box displays input are broken in older versions.
 
 ## Resources
-- [MIS006_XianyuMIS_lite_v2.01_WDL_1.21.zip](attachments/MIS006_XianyuMIS_lite_v2.01_WDL_1.21.zip): application/zip
+- [MIS006_XianyuMIS_lite_v2.01_WDL_1.21.zip](attachments/MIS006_XianyuMIS_lite_v2.01_WDL_1.21.zip): MC 1.21
 - [MIS006_XianyuMIS_lite_v2.01_1.20.litematic](attachments/MIS006_XianyuMIS_lite_v2.01_1.20.litematic): MC 1.20.1, Size 38x22x28 blocks
 - [MIS006_XianyuMIS_lite_v2.01.litematic](attachments/MIS006_XianyuMIS_lite_v2.01.litematic): MC 1.20.4, Size 38x22x28 blocks

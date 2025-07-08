@@ -71,7 +71,10 @@
       "url": "https://cdn.discordapp.com/attachments/1387083566676181035/1387083569155014706/Ideal_Splitter_V3-r8.zip?ex=685c0dbd&is=685abc3d&hm=006a0c1ecb937b745d8751480c1949d969e86e60c3a948ac16e8380918cdfede&",
       "description": "Sent by andrews54757 at 6/24/2025, 10:54:53 AM",
       "canDownload": true,
-      "path": "attachments/VIP003_Ideal_Splitter_V3-r8.zip"
+      "path": "attachments/VIP003_Ideal_Splitter_V3-r8.zip",
+      "wdl": {
+        "version": "1.21.4"
+      }
     },
     {
       "id": "1387083569565798600",

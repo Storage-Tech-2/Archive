@@ -27,6 +27,6 @@ Developed on [SoonCMP](https://soontech.org) ("Ideal Splitter" waypoint). [Showc
 
 ## Resources
 - [VIP003_ideal3-2.png](attachments/VIP003_ideal3-2.png): image/png
-- [VIP003_Ideal_Splitter_V3-r8.zip](attachments/VIP003_Ideal_Splitter_V3-r8.zip): application/zip
+- [VIP003_Ideal_Splitter_V3-r8.zip](attachments/VIP003_Ideal_Splitter_V3-r8.zip): MC 1.21.4
 - [VIP003_ideal_v3_64x.litematic](attachments/VIP003_ideal_v3_64x.litematic): MC 1.21.4, Size 43x16x14 blocks
 - [VIP003_ideal_v3_32x.litematic](attachments/VIP003_ideal_v3_32x.litematic): MC 1.21.4, Size 27x16x14 blocks

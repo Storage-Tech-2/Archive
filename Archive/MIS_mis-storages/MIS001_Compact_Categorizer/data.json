@@ -69,7 +69,10 @@
       "url": "https://cdn.discordapp.com/attachments/1386227823450132604/1386227883042799807/Compact_Categorizer_World.zip?ex=6858f0d2&is=68579f52&hm=35db32a373ffd15eab2d1c71300f081b470332a8029e24470c1e51e69c3e8408&",
       "description": "Sent by andrews54757 at 6/22/2025, 2:14:42 AM",
       "canDownload": true,
-      "path": "attachments/MIS001_Compact_Categorizer_World.zip"
+      "path": "attachments/MIS001_Compact_Categorizer_World.zip",
+      "wdl": {
+        "version": "1.21"
+      }
     },
     {
       "id": "DnrAoKd8ZOc",
@@ -78,7 +81,17 @@
       "url": "https://youtu.be/DnrAoKd8ZOc",
       "description": "[YouTube] Sent by andrews54757 at 6/22/2025, 2:14:27 AM",
       "canDownload": false,
-      "path": "attachments/MIS001_YouTube_Video_DnrAoKd8ZOc.url"
+      "path": "attachments/MIS001_YouTube_Video_DnrAoKd8ZOc.url",
+      "youtube": {
+        "title": "Compact Categorizer Showcase!!",
+        "author_name": "Inspector Talon",
+        "author_url": "https://www.youtube.com/@inspectortalon",
+        "thumbnail_url": "https://i.ytimg.com/vi/DnrAoKd8ZOc/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      }
     }
   ],
   "description": "A simple storage system intended as a main MIS (multi-item sorter) for the typical survival Minecraft player.",

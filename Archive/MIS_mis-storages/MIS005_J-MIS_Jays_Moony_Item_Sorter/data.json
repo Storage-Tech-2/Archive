@@ -101,7 +101,10 @@
       "url": "https://cdn.discordapp.com/attachments/1182780067164717197/1234329599165337621/J-M-IS_V3.01.zip?ex=68614cc5&is=685ffb45&hm=a5b5c5a599f3e8522b629ec18820fd9329285d4a5e415201629dddf1ae196eeb&",
       "description": "[DiscordCDN] Sent by andrews54757 at 6/28/2025, 12:48:20 PM",
       "canDownload": true,
-      "path": "attachments/MIS005_J-M-IS_V3.01.zip"
+      "path": "attachments/MIS005_J-M-IS_V3.01.zip",
+      "wdl": {
+        "version": "1.20.1"
+      }
     }
   ],
   "description": "A compact MIS system using MIS 5.1 and hybrid box loaders, acting as bulk (97k capacity per bulk item, with overflow protection).",

@@ -33,5 +33,5 @@ For further questions, see [Compact Categorizer Help Thread](https://discord.com
 
 ## Resources
 - [MIS001_Compact_Categorizer.litematic](attachments/MIS001_Compact_Categorizer.litematic): MC 1.20.1, Size 27x18x17 blocks
-- [MIS001_Compact_Categorizer_World.zip](attachments/MIS001_Compact_Categorizer_World.zip): application/zip
-- https://youtu.be/DnrAoKd8ZOc: YouTube video
+- [MIS001_Compact_Categorizer_World.zip](attachments/MIS001_Compact_Categorizer_World.zip): MC 1.21
+- [Compact Categorizer Showcase\!\!](https://youtu.be/DnrAoKd8ZOc): by [Inspector Talon](https://www.youtube.com/@inspectortalon)

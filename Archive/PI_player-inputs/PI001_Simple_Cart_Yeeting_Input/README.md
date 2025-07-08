@@ -1,7 +1,7 @@
 # Simple Cart Yeeting Input
 <img alt="Simple_Cart_Yeeting_Input.png" src="images/Simple_Cart_Yeeting_Input.png?raw=1" height="300px">
 
-**Authors:** *KikuGie, philgoodinator*
+**Authors:** *KikuGie, Philgoodinator*
 
 **Endorsed by:** *Andrews54757*
 

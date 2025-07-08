@@ -1,7 +1,7 @@
 # Fully Hopperlocked Compact Bulk Storage
 <img alt="Compat_Bulk_Updated_1.4_Mil.png" src="images/Compat_Bulk_Updated_1.4_Mil.png?raw=1" height="300px">
 
-**Authors:** *philgoodinator, 金合欢酱(acaciachan), pfeffabeissa, walter7381*
+**Authors:** *Philgoodinator, 金合欢酱(acaciachan), pfeffabeissa, walter7381*
 
 **Endorsed by:** *Andrews54757*
 

@@ -58,7 +58,10 @@
       "url": "https://cdn.discordapp.com/attachments/1388786404317724712/1390206181250830398/XianyuMIS_lite_v2.01_WDL_1.21.zip?ex=686769e6&is=68661866&hm=4cfada345419a20d8c4fdd22e6034e5d8e89384c4bafdd0865253a0c0f73671a&",
       "description": "Sent by jeffyangzx at 7/3/2025, 1:43:02 AM",
       "canDownload": true,
-      "path": "attachments/MIS006_XianyuMIS_lite_v2.01_WDL_1.21.zip"
+      "path": "attachments/MIS006_XianyuMIS_lite_v2.01_WDL_1.21.zip",
+      "wdl": {
+        "version": "1.21"
+      }
     },
     {
       "id": "1390206180911222784",

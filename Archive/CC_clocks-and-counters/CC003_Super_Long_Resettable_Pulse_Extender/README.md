@@ -1,7 +1,7 @@
 # Super Long Resettable Pulse Extender
 <img alt="area_render_25.png" src="images/area_render_25.png?raw=1" height="300px">
 
-**Authors:** *philgoodinator*
+**Authors:** *Philgoodinator*
 
 **Endorsed by:** *Andrews54757*
 

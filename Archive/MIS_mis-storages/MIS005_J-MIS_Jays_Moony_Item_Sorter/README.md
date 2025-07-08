@@ -35,4 +35,4 @@ WDL Includes (from left to right) an unassigned build (no filters), an assigned 
 - [MIS005_J-MIS_v3_Barebones.litematic](attachments/MIS005_J-MIS_v3_Barebones.litematic): MC 1.20.1, Size 29x33x29 blocks
 - [MIS005_J-MIS_v3_Preset_Filters.litematic](attachments/MIS005_J-MIS_v3_Preset_Filters.litematic): MC 1.20.1, Size 29x33x29 blocks
 - [MIS005_J-MIS_v3_No_Filters.litematic](attachments/MIS005_J-MIS_v3_No_Filters.litematic): MC 1.20.1, Size 29x33x29 blocks
-- [MIS005_J-M-IS_V3.01.zip](attachments/MIS005_J-M-IS_V3.01.zip): discord
+- [MIS005_J-M-IS_V3.01.zip](attachments/MIS005_J-M-IS_V3.01.zip): MC 1.20.1
