@@ -42,15 +42,15 @@
   ],
   "images": [
     {
-      "id": "1389198695169265747",
-      "name": "2025-06-30_18.53.16.png",
+      "id": "1392582706776510625",
+      "name": "ML006_3wt_6x_fullspeed_mixed_render.png",
       "contentType": "image/png",
-      "url": "https://cdn.discordapp.com/attachments/1389197974826913814/1389198695169265747/2025-06-30_18.53.16.png?ex=6863bf9a&is=68626e1a&hm=cb9a4d001943e856007de2346e17555ada64ae9aa23c7d2de0b3545f9778ed35&",
-      "description": "Sent by camphorwood at 6/30/2025, 6:59:39 AM",
+      "url": "https://cdn.discordapp.com/attachments/1389197974826913814/1392582706776510625/ML006_3wt_6x_fullspeed_mixed_render.png?ex=68700f36&is=686ebdb6&hm=49fef52f6706cc8235ffe1ea400edcf0295b8b27d739de39dbc8605debc43b71&",
+      "description": "Sent by TMC Schematic Renderer at 7/9/2025, 3:06:30 PM",
       "canDownload": true,
-      "width": 800,
-      "height": 450,
-      "path": "images/2025-06-30_18.53.16.png"
+      "width": 743,
+      "height": 800,
+      "path": "images/ML006_3wt_6x_fullspeed_mixed_render.png"
     }
   ],
   "attachments": [
@@ -74,10 +74,7 @@
       "url": "https://cdn.discordapp.com/attachments/1389197974826913814/1389259138512715787/3wt_6x_fullspeed_mixed_wdl.zip?ex=6863f7e5&is=6862a665&hm=8ceffb2655f16d6c1ea933336583ed08402e9c818d8785c75ee250c6c9d9101c&",
       "description": "Sent by camphorwood at 6/30/2025, 10:59:50 AM",
       "canDownload": true,
-      "path": "attachments/ML006_3wt_6x_fullspeed_mixed_wdl.zip",
-      "wdl": {
-        "version": "1.21.5"
-      }
+      "path": "attachments/ML006_3wt_6x_fullspeed_mixed_wdl.zip"
     }
   ],
   "description": "This loader design features mixed item loading at full 6x hopperspeed (54k items/h)",
@@ -91,14 +88,14 @@
     "2/3 iced (nether unfriendly)"
   ],
   "notes": "- Our testing shows that it works with the Hermitcraft item set\n- WDL is 1.21.5 and includes testing setup",
-  "timestamp": 1751296638591,
+  "timestamp": 1752088011501,
   "post": {
-    "threadId": "1389263540937818313",
+    "threadId": "1392582799739064521",
     "forumId": "1375557473066418206",
     "continuingMessageIds": [
-      "1389263544452775957"
+      "1392582803518128301"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1389263540937818313",
+    "threadURL": "https://discord.com/channels/1375556143186837695/1392582799739064521",
     "uploadMessageId": "1389263539335729192"
   }
 }
