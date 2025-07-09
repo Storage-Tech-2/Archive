@@ -72,14 +72,15 @@
   "features": [
     "Empty boxes are collected instantly and are unable to land in other slices, avoiding output contamination.",
     "Boxes are separated reliably and dropped out of the bottom, while unloaded items go in the chest.",
-    "Very easy to hopper lock & add initial box detection",
+    "Very easy to hopper lock",
     "Solid state & togglestateless, improving robustness."
   ],
   "considerations": [
-    "Does not handle empty boxes"
+    "Does not handle empty boxes",
+    "No initial box placement due to possible issue with random input"
   ],
   "notes": "",
-  "timestamp": 1750650896273,
+  "timestamp": 1752040649325,
   "post": {
     "forumId": "1375560446676963450",
     "threadId": "1388317057002504253",
