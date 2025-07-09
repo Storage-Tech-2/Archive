@@ -7,7 +7,7 @@
 
 **Tags:** *6X Hopperspeed, Fullspeed, Full Clearance*
 
-**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1392582799739064521)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1392589712405037146)
 
 This loader design features mixed item loading at full 6x hopperspeed (54k items/h)
 
