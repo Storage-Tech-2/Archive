@@ -1,5 +1,5 @@
 # Simple 1x Shulker Box Unloader
-<img alt="image.png" src="images/image.png?raw=1">
+<img alt="BU006_toggle_less_unloader_render.png" src="images/BU006_toggle_less_unloader_render.png?raw=1" height="300px">
 
 **Authors:** *Raffq, SamosTheSage*
 
@@ -7,7 +7,7 @@
 
 **Tags:** *Tested & Functional, 1X Hopperspeed*
 
-**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1390787085635420291)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1392582417025597580)
 
 Simple hopperspeed box unloader. Toggle-less variant included.
 
@@ -22,7 +22,7 @@ Simple hopperspeed box unloader. Toggle-less variant included.
 [Showcase Video](https://www.youtube.com/watch?v=Vp17vDuMHAQ)
 
 ## Other Images
-<img src="images/togglelessimage.png?raw=1" height="300px">
+<img src="images/BU006_perfect_shulker_unloader_render.png?raw=1" height="300px">
 
 ## Resources
 - [BU006_perfect_shulker_unloader.litematic](attachments/BU006_perfect_shulker_unloader.litematic): MC 1.16.2, Size 6x4x1 blocks
