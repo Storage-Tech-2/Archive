@@ -103,26 +103,18 @@
       "path": "attachments/BD006_Data_-_Floor_Display.litematic"
     }
   ],
-  "description": "A tiny floor display which is great for quad bulks.",
-  "features": [
-    "Local first box placement",
-    "Default extended",
-    "Collectionless",
-    "1 hopper, locked when a box is displayed"
-  ],
-  "considerations": [
-    "Will eventually buffer boxes in the hopper and dispenser."
-  ],
-  "notes": "This design is 1.16 due to the comparator on the piston",
-  "timestamp": 1750969637032,
-  "post": {
-    "forumId": "1375561551188328531",
-    "threadId": "1388317284279390339",
-    "continuingMessageIds": [
-      "1388317289652293642"
+  "records": {
+    "description": "A tiny floor display which is great for quad bulks.",
+    "features": [
+      "Local first box placement",
+      "Default extended",
+      "Collectionless",
+      "1 hopper, locked when a box is displayed"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388317284279390339",
-    "attachmentMessageId": "1388178213347528886",
-    "uploadMessageId": "1388178203239121006"
-  }
+    "considerations": [
+      "Will eventually buffer boxes in the hopper and dispenser."
+    ],
+    "notes": "This design is 1.16 due to the comparator on the piston"
+  },
+  "timestamp": 1750969637032
 }

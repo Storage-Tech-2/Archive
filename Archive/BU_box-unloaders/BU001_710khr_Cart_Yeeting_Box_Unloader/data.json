@@ -76,25 +76,18 @@
       "path": "attachments/BU001_Stacked_Cart_Box_Unloader_Updated.litematic"
     }
   ],
-  "description": "Stacks hopper-minecarts below the box to quickly unload it. Provides an alternative to box yeeting that doesn't destroy the box.",
-  "features": [
-    "Unloads boxes very fast (Average: 710k items/hr, Max: 1.2mil items/hr)",
-    "Handles empty boxes",
-    "Unloaded boxes are preserved and sent to their own output",
-    "Size: 8x11x3"
-  ],
-  "considerations": [
-    "It's big (smaller version exists for only slightly slower speeds: https://discord.com/channels/1375556143186837695/1389355709119856772/1389355709119856772)"
-  ],
-  "notes": "",
-  "timestamp": 1751351873280,
-  "post": {
-    "threadId": "1389338141583741085",
-    "forumId": "1375560446676963450",
-    "continuingMessageIds": [
-      "1389338144926601366"
+  "records": {
+    "description": "Stacks hopper-minecarts below the box to quickly unload it. Provides an alternative to box yeeting that doesn't destroy the box.",
+    "features": [
+      "Unloads boxes very fast (Average: 710k items/hr, Max: 1.2mil items/hr)",
+      "Handles empty boxes",
+      "Unloaded boxes are preserved and sent to their own output",
+      "Size: 8x11x3"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1389338141583741085",
-    "uploadMessageId": "1389338139062960309"
-  }
+    "considerations": [
+      "It's big (smaller version exists for only slightly slower speeds: https://discord.com/channels/1375556143186837695/1389355709119856772/1389355709119856772)"
+    ],
+    "notes": ""
+  },
+  "timestamp": 1751351873280
 }

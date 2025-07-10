@@ -59,22 +59,15 @@
       "path": "attachments/AL001_accessible_shulker_loader.litematic"
     }
   ],
-  "description": "Single hopper-speed loader with easy access to the box and most of the redstone away from the access side.",
-  "features": [
-    "One wide tileable",
-    "slice preserving",
-    "100% reliable collection"
-  ],
-  "considerations": [],
-  "notes": "Alternate honey and slime to tile.",
-  "timestamp": 1752087867743,
-  "post": {
-    "threadId": "1392582196652675092",
-    "forumId": "1375557143201316934",
-    "continuingMessageIds": [
-      "1392582199366123747"
+  "records": {
+    "description": "Single hopper-speed loader with easy access to the box and most of the redstone away from the access side.",
+    "features": [
+      "One wide tileable",
+      "slice preserving",
+      "100% reliable collection"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1392582196652675092",
-    "uploadMessageId": "1388177439364088061"
-  }
+    "considerations": [],
+    "notes": "Alternate honey and slime to tile."
+  },
+  "timestamp": 1752087867743
 }

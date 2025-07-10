@@ -81,25 +81,18 @@
       "path": "attachments/OL002_Sorting_precision_hybrid_box_loader_1.litematic"
     }
   ],
-  "description": "Box loader that puts loose items into a chest until the chest fills up, then starts filling shulker boxes with the items.",
-  "features": [
-    "Fully Hopper Locked",
-    "1 Wide Tileable",
-    "No Full Boxes Buffered",
-    "Precision Box Breaking"
-  ],
-  "considerations": [
-    "Dispensers need 1 shulker box to be manually prefilled"
-  ],
-  "notes": "2 versions, smaller one will have 2 unlocked hoppers every 16 slices due to how one of the locking lines is and lacks overflow protection, the larger one fixes both of these issues",
-  "timestamp": 1751128287837,
-  "post": {
-    "threadId": "1388557426013376634",
-    "forumId": "1375557962675912865",
-    "continuingMessageIds": [
-      "1388557430480310313"
+  "records": {
+    "description": "Box loader that puts loose items into a chest until the chest fills up, then starts filling shulker boxes with the items.",
+    "features": [
+      "Fully Hopper Locked",
+      "1 Wide Tileable",
+      "No Full Boxes Buffered",
+      "Precision Box Breaking"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388557426013376634",
-    "uploadMessageId": "1388557424109293588"
-  }
+    "considerations": [
+      "Dispensers need 1 shulker box to be manually prefilled"
+    ],
+    "notes": "2 versions, smaller one will have 2 unlocked hoppers every 16 slices due to how one of the locking lines is and lacks overflow protection, the larger one fixes both of these issues"
+  },
+  "timestamp": 1751128287837
 }

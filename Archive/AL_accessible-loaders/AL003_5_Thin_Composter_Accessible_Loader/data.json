@@ -62,27 +62,19 @@
       "path": "attachments/AL003_thin_accessible_loader.litematic"
     }
   ],
-  "description": "A simple 5 block wide accessible loader with a zero ticked composter that buffers 16 stacks.",
-  "features": [
-    "5 blocks wide",
-    "composter device",
-    "buffer 16 stacks"
-  ],
-  "considerations": [
-    "9 blocks tall",
-    "Buffers 16 stacks",
-    "Togglestates"
-  ],
-  "notes": "Ensure dust is redirected away from box distribution hoppers",
-  "timestamp": 1751005255449,
-  "post": {
-    "forumId": "1375557143201316934",
-    "threadId": "1388316730681458819",
-    "continuingMessageIds": [
-      "1388316735106449509"
+  "records": {
+    "description": "A simple 5 block wide accessible loader with a zero ticked composter that buffers 16 stacks.",
+    "features": [
+      "5 blocks wide",
+      "composter device",
+      "buffer 16 stacks"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388316730681458819",
-    "attachmentMessageId": "1388177497010602035",
-    "uploadMessageId": "1388177489800724491"
-  }
+    "considerations": [
+      "9 blocks tall",
+      "Buffers 16 stacks",
+      "Togglestates"
+    ],
+    "notes": "Ensure dust is redirected away from box distribution hoppers"
+  },
+  "timestamp": 1751005255449
 }

@@ -75,25 +75,18 @@
       "path": "attachments/TD002_improved_inverse_slider_display.litematic"
     }
   ],
-  "description": "Designed for quad bulks with more available space under the top display.",
-  "features": [
-    "Nice top UI",
-    "Locally locked minimum hopper locking",
-    "Global first box placement"
-  ],
-  "considerations": [
-    "Requires more space under the display compared to https://discord.com/channels/748542142347083868/749137152192806954/1085199265992802485",
-    "Initial placement has many piston actions"
-  ],
-  "notes": "- Older versions may need more than two slices in order to avoid toggling the sticky during the initial place.",
-  "timestamp": 1751216594040,
-  "post": {
-    "threadId": "1388927809933676635",
-    "forumId": "1375560792665231450",
-    "continuingMessageIds": [
-      "1388927812500455494"
+  "records": {
+    "description": "Designed for quad bulks with more available space under the top display.",
+    "features": [
+      "Nice top UI",
+      "Locally locked minimum hopper locking",
+      "Global first box placement"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388927809933676635",
-    "uploadMessageId": "1388927808151224410"
-  }
+    "considerations": [
+      "Requires more space under the display compared to https://discord.com/channels/748542142347083868/749137152192806954/1085199265992802485",
+      "Initial placement has many piston actions"
+    ],
+    "notes": "- Older versions may need more than two slices in order to avoid toggling the sticky during the initial place."
+  },
+  "timestamp": 1751216594040
 }

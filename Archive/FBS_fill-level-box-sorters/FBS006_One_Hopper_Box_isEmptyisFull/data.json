@@ -63,22 +63,14 @@
       "path": "attachments/FBS006_1_hopper_fill_level_sorter.litematic"
     }
   ],
-  "description": "Categorizes boxes by their fill levels at hopperspeed using just one hopper. Can function either as an isFull filter or as an isFull filter by thresholding the comparator.",
-  "features": [
-    "Uses just one hopper",
-    "Hopperspeed"
-  ],
-  "considerations": [],
-  "notes": "",
-  "timestamp": 1751000750503,
-  "post": {
-    "forumId": "1375559651579527208",
-    "threadId": "1388316970126151831",
-    "continuingMessageIds": [
-      "1388316974211137718"
+  "records": {
+    "description": "Categorizes boxes by their fill levels at hopperspeed using just one hopper. Can function either as an isFull filter or as an isFull filter by thresholding the comparator.",
+    "features": [
+      "Uses just one hopper",
+      "Hopperspeed"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388316970126151831",
-    "attachmentMessageId": "1388177810987810856",
-    "uploadMessageId": "1388177804318867549"
-  }
+    "considerations": [],
+    "notes": ""
+  },
+  "timestamp": 1751000750503
 }

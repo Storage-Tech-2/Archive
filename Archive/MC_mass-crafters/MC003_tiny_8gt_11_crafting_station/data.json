@@ -57,23 +57,15 @@
       "path": "attachments/MC003_tiny_8gt_11_crafting_staition_made_by_wawuli_r11.litematic"
     }
   ],
-  "description": "Small 8gt box replacement crafting station. Displays boxes for you with ingredients on the left which breaks when emptied, and a box for the results on the right which breaks when full.",
-  "features": [
-    "auto first box dispense",
-    "automatic handling of empty boxes",
-    "8gt reset on both sides"
-  ],
-  "considerations": [],
-  "notes": "",
-  "timestamp": 1750778885787,
-  "post": {
-    "forumId": "1375570813591486525",
-    "threadId": "1388318487616684082",
-    "continuingMessageIds": [
-      "1388318491353944196"
+  "records": {
+    "description": "Small 8gt box replacement crafting station. Displays boxes for you with ingredients on the left which breaks when emptied, and a box for the results on the right which breaks when full.",
+    "features": [
+      "auto first box dispense",
+      "automatic handling of empty boxes",
+      "8gt reset on both sides"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388318487616684082",
-    "attachmentMessageId": "1388179506035949639",
-    "uploadMessageId": "1388179499320999959"
-  }
+    "considerations": [],
+    "notes": ""
+  },
+  "timestamp": 1750778885787
 }

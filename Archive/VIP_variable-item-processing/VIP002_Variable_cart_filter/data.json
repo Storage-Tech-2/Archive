@@ -54,21 +54,13 @@
       "path": "attachments/VIP002_12gt_Cart_Replacement_Cycvar_Filter_v104.litematic"
     }
   ],
-  "description": "A fairly simple, experimental version of the variable item sorter using minecarts.",
-  "features": [
-    "75gt cycle,"
-  ],
-  "considerations": [],
-  "notes": "",
-  "timestamp": 1750631500111,
-  "post": {
-    "forumId": "1375569954073477120",
-    "threadId": "1388318335824953385",
-    "continuingMessageIds": [
-      "1388318338417168456"
+  "records": {
+    "description": "A fairly simple, experimental version of the variable item sorter using minecarts.",
+    "features": [
+      "75gt cycle,"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388318335824953385",
-    "attachmentMessageId": "1388179304625733733",
-    "uploadMessageId": "1388179299554820106"
-  }
+    "considerations": [],
+    "notes": ""
+  },
+  "timestamp": 1750631500111
 }

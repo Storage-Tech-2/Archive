@@ -61,27 +61,20 @@
       "path": "attachments/CH005_1wabt_10_Item_Chest_hall_SSI.litematic"
     }
   ],
-  "description": "10 item chest hall with a unique square user interface design.",
-  "features": [
-    "43 hopppers per slice and full hopperlocking even when filters are overflowing.",
-    "3 10gt filters per side, the rest is 8gt or less.",
-    "SS2 signal strength isolated (SSI) filters.",
-    "No prefilling.",
-    "All filters are accessible with the scaffolding.",
-    "At least a barrel of extra capacity for every chest."
-  ],
-  "considerations": [
-    "The 3 10gt filters may require input batching"
-  ],
-  "notes": "Schematic includes subregions for locking switches and chest hall.",
-  "timestamp": 1751289310557,
-  "post": {
-    "threadId": "1388551652319039702",
-    "forumId": "1375561810392125510",
-    "continuingMessageIds": [
-      "1388551655536066740"
+  "records": {
+    "description": "10 item chest hall with a unique square user interface design.",
+    "features": [
+      "43 hopppers per slice and full hopperlocking even when filters are overflowing.",
+      "3 10gt filters per side, the rest is 8gt or less.",
+      "SS2 signal strength isolated (SSI) filters.",
+      "No prefilling.",
+      "All filters are accessible with the scaffolding.",
+      "At least a barrel of extra capacity for every chest."
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388551652319039702",
-    "uploadMessageId": "1388551651069132881"
-  }
+    "considerations": [
+      "The 3 10gt filters may require input batching"
+    ],
+    "notes": "Schematic includes subregions for locking switches and chest hall."
+  },
+  "timestamp": 1751289310557
 }

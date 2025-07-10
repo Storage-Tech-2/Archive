@@ -63,21 +63,14 @@
       "path": "attachments/FBS007_Single_Hopper_Fill_Level_Sorter.litematic"
     }
   ],
-  "description": "Separates boxes by fill level into empty, partial, and full boxes at hopper speed using only one hopper.",
-  "features": [
-    "Hopperspeed box processing",
-    "Uses only one hopper"
-  ],
-  "considerations": [],
-  "notes": "",
-  "timestamp": 1751130122623,
-  "post": {
-    "threadId": "1388565121130823800",
-    "forumId": "1375559651579527208",
-    "continuingMessageIds": [
-      "1388565124243259544"
+  "records": {
+    "description": "Separates boxes by fill level into empty, partial, and full boxes at hopper speed using only one hopper.",
+    "features": [
+      "Hopperspeed box processing",
+      "Uses only one hopper"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388565121130823800",
-    "uploadMessageId": "1388565119578931350"
-  }
+    "considerations": [],
+    "notes": ""
+  },
+  "timestamp": 1751130122623
 }

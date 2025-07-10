@@ -58,24 +58,16 @@
       "path": "attachments/PI002_Ultimate_Storage_Input_v5.litematic"
     }
   ],
-  "description": "Allows players to input loose items and bulk boxes for separate processing. Includes manual mixed loader display as another input method.",
-  "features": [
-    "Minimum piston and hopper count",
-    "Fully hopperlocked",
-    "Manual loader for loose items, box won't break until items are inputted",
-    "Small, 5x5x7 footprint (excluding signs and floor)"
-  ],
-  "considerations": [],
-  "notes": "Requires an external input handler, take for example https://discord.com/channels/748542142347083868/1121057305698517093/1123390860147560609 or https://discord.com/channels/748542142347083868/748578407377272843/1191660970687348756",
-  "timestamp": 1751050118719,
-  "post": {
-    "threadId": "1388318242690564188",
-    "forumId": "1375569381781930006",
-    "continuingMessageIds": [
-      "1388318246410784912"
+  "records": {
+    "description": "Allows players to input loose items and bulk boxes for separate processing. Includes manual mixed loader display as another input method.",
+    "features": [
+      "Minimum piston and hopper count",
+      "Fully hopperlocked",
+      "Manual loader for loose items, box won't break until items are inputted",
+      "Small, 5x5x7 footprint (excluding signs and floor)"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388318242690564188",
-    "uploadMessageId": "1388228735798480976",
-    "attachmentMessageId": "1388228742802964560"
-  }
+    "considerations": [],
+    "notes": "Requires an external input handler, take for example https://discord.com/channels/748542142347083868/1121057305698517093/1123390860147560609 or https://discord.com/channels/748542142347083868/748578407377272843/1191660970687348756"
+  },
+  "timestamp": 1751050118719
 }

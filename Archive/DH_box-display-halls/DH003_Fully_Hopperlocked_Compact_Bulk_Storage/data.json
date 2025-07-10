@@ -93,35 +93,27 @@
       "path": "attachments/DH003_compact_bulk_updated_1_4_mil.litematic"
     }
   ],
-  "description": "Item bulk with box display capable of storing 1.4 million items per half slice.",
-  "features": [
-    "100% hopperlocked",
-    "1.4 million items per half slice",
-    "Togglestateless",
-    "Compact (17x35x21), sticks out 3 blocks from the first slice and 2 from the last",
-    "19 hoppers per half slice",
-    "If a slice runs out of items it will unlock itself to restock",
-    "Bufferless, Global initial box placement box display",
-    "Collection hoppers unlock only when needed",
-    "Empty boxes are dropped into a waterstream",
-    "Reliable collection of overflowing and unsorted boxes into a waterstream",
-    "Reliable with random input",
-    "Dropperline U-Turn only triggers and unlocks the side's hoppers when necessary",
-    "Recombination for unsorted boxes triggers only when needed"
-  ],
-  "considerations": [
-    "Fails if only one item is inside an inputted box"
-  ],
-  "notes": "Box sorter slice by @acaciachan . Keygen by @pfeffabeissa and @walter7381",
-  "timestamp": 1751043563047,
-  "post": {
-    "threadId": "1388318003216781562",
-    "forumId": "1375565403727724764",
-    "continuingMessageIds": [
-      "1388318006186213558"
+  "records": {
+    "description": "Item bulk with box display capable of storing 1.4 million items per half slice.",
+    "features": [
+      "100% hopperlocked",
+      "1.4 million items per half slice",
+      "Togglestateless",
+      "Compact (17x35x21), sticks out 3 blocks from the first slice and 2 from the last",
+      "19 hoppers per half slice",
+      "If a slice runs out of items it will unlock itself to restock",
+      "Bufferless, Global initial box placement box display",
+      "Collection hoppers unlock only when needed",
+      "Empty boxes are dropped into a waterstream",
+      "Reliable collection of overflowing and unsorted boxes into a waterstream",
+      "Reliable with random input",
+      "Dropperline U-Turn only triggers and unlocks the side's hoppers when necessary",
+      "Recombination for unsorted boxes triggers only when needed"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388318003216781562",
-    "uploadMessageId": "1388202064257093753",
-    "attachmentMessageId": "1388202072259952801"
-  }
+    "considerations": [
+      "Fails if only one item is inside an inputted box"
+    ],
+    "notes": "Box sorter slice by @acaciachan . Keygen by @pfeffabeissa and @walter7381"
+  },
+  "timestamp": 1751043563047
 }

@@ -61,24 +61,17 @@
       "path": "attachments/BU005_figi_hopperspeed_box_yeeter_1.17.1.litematic"
     }
   ],
-  "description": "Destroys shulker box item entities with lava to unload its contents at hopperspeed.",
-  "features": [
-    "Dustless",
-    "No piston toggle states",
-    "2 wide tileable"
-  ],
-  "considerations": [
-    "Destroys shulker boxes"
-  ],
-  "notes": "",
-  "timestamp": 1752087962505,
-  "post": {
-    "threadId": "1392582594712961237",
-    "forumId": "1375560446676963450",
-    "continuingMessageIds": [
-      "1392582597112102963"
+  "records": {
+    "description": "Destroys shulker box item entities with lava to unload its contents at hopperspeed.",
+    "features": [
+      "Dustless",
+      "No piston toggle states",
+      "2 wide tileable"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1392582594712961237",
-    "uploadMessageId": "1388177946585600061"
-  }
+    "considerations": [
+      "Destroys shulker boxes"
+    ],
+    "notes": ""
+  },
+  "timestamp": 1752087962505
 }

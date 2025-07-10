@@ -61,29 +61,21 @@
       "path": "attachments/BD002_collectionless_smart_display.litematic"
     }
   ],
-  "description": "A small display without empty box collection that breaks the box only when empty and closed.",
-  "features": [
-    "Small (6x6)",
-    "Smart box breaking, only breaks it when empty and closed",
-    "Global first box placement",
-    "Minimum hoppers, fully locked"
-  ],
-  "considerations": [
-    "When triggering while the display is replacing a box, the global first box placement can cause it to break a newly dispensed full box",
-    "No empty box collection",
-    "When emptying adjacent slices in very quick succession, one of them may fail to replace its box",
-    "Buffers a box"
-  ],
-  "notes": "",
-  "timestamp": 1750683096514,
-  "post": {
-    "forumId": "1375561551188328531",
-    "threadId": "1388317191060979833",
-    "continuingMessageIds": [
-      "1388317195167203469"
+  "records": {
+    "description": "A small display without empty box collection that breaks the box only when empty and closed.",
+    "features": [
+      "Small (6x6)",
+      "Smart box breaking, only breaks it when empty and closed",
+      "Global first box placement",
+      "Minimum hoppers, fully locked"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388317191060979833",
-    "attachmentMessageId": "1388178092157046916",
-    "uploadMessageId": "1388178084779524298"
-  }
+    "considerations": [
+      "When triggering while the display is replacing a box, the global first box placement can cause it to break a newly dispensed full box",
+      "No empty box collection",
+      "When emptying adjacent slices in very quick succession, one of them may fail to replace its box",
+      "Buffers a box"
+    ],
+    "notes": ""
+  },
+  "timestamp": 1750683096514
 }

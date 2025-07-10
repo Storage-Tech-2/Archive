@@ -54,23 +54,15 @@
       "path": "attachments/IF001_basic_fixed_filters.litematic"
     }
   ],
-  "description": "The top-most hopper will only suck items that have a certain item type at hopperspeed (1 item/8gt or 2.5 items/sec). Two variants are common: Signal Strength 2 (SS2) and Signal Strength 3 (SS3) filters.",
-  "features": [
-    "Basic designs with inventory setup guide"
-  ],
-  "considerations": [
-    "SS2 filter is not 1 wide tileable, you must A/B tile"
-  ],
-  "notes": "",
-  "timestamp": 1750571980621,
-  "post": {
-    "forumId": "1375563999692849302",
-    "threadId": "1388317615625212018",
-    "continuingMessageIds": [
-      "1388317619345686558"
+  "records": {
+    "description": "The top-most hopper will only suck items that have a certain item type at hopperspeed (1 item/8gt or 2.5 items/sec). Two variants are common: Signal Strength 2 (SS2) and Signal Strength 3 (SS3) filters.",
+    "features": [
+      "Basic designs with inventory setup guide"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388317615625212018",
-    "attachmentMessageId": "1388178629716086914",
-    "uploadMessageId": "1388178622837293110"
-  }
+    "considerations": [
+      "SS2 filter is not 1 wide tileable, you must A/B tile"
+    ],
+    "notes": ""
+  },
+  "timestamp": 1750571980621
 }

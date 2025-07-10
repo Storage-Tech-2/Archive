@@ -85,27 +85,19 @@
       }
     }
   ],
-  "description": "4 box displays per slice design with Quad bulk, Box sorters use a special whitelisting keygen, Whitelister uses cart yeeting, hence 1.19+, 216 item types (can be reduced), FHL",
-  "features": [
-    "Quad bulk",
-    "Box sorters use a special whitelisting keygen",
-    "Whitelister uses cart yeeting, hence 1.19+",
-    "216 item types (can be reduced)",
-    "Fully hopperlocked"
-  ],
-  "considerations": [
-    "Top displays can break if activated rapidly, make sure global box placement is triggered only after sorting is completed."
-  ],
-  "notes": "[Showcase video](https://www.youtube.com/watch?v=i24AdqmGXLI) (!important)\n- Top display designed by @Jayroi\n- Bottom display designed by @DatNerd\n- Box sorter based on work by @crain",
-  "timestamp": 1751173240108,
-  "post": {
-    "threadId": "1388318048372658316",
-    "forumId": "1375565403727724764",
-    "continuingMessageIds": [
-      "1388318051543548005"
+  "records": {
+    "description": "4 box displays per slice design with Quad bulk, Box sorters use a special whitelisting keygen, Whitelister uses cart yeeting, hence 1.19+, 216 item types (can be reduced), FHL",
+    "features": [
+      "Quad bulk",
+      "Box sorters use a special whitelisting keygen",
+      "Whitelister uses cart yeeting, hence 1.19+",
+      "216 item types (can be reduced)",
+      "Fully hopperlocked"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388318048372658316",
-    "uploadMessageId": "1388745975819927663",
-    "attachmentMessageId": "1388196225555103918"
-  }
+    "considerations": [
+      "Top displays can break if activated rapidly, make sure global box placement is triggered only after sorting is completed."
+    ],
+    "notes": "[Showcase video](https://www.youtube.com/watch?v=i24AdqmGXLI) (!important)\n- Top display designed by @Jayroi\n- Bottom display designed by @DatNerd\n- Box sorter based on work by @crain"
+  },
+  "timestamp": 1751173240108
 }

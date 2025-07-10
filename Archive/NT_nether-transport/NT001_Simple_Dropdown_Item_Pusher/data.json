@@ -50,23 +50,15 @@
       "path": "attachments/NT001_dropdown_item_pusher.litematic"
     }
   ],
-  "description": "12gt clockable dropdown item pusher. Useful for pushing items on ice in the nether. All the pistons are sticky. Probably not unload safe. Use string + observers instead of noteblock/observer/repeater trigger to make it automatically fire when item comes.",
-  "features": [
-    "Simple, 12 gt clockable design"
-  ],
-  "considerations": [
-    "Togglestate"
-  ],
-  "notes": "",
-  "timestamp": 1750788510279,
-  "post": {
-    "forumId": "1387131693411995658",
-    "threadId": "1388318627815493723",
-    "continuingMessageIds": [
-      "1388318630248448194"
+  "records": {
+    "description": "12gt clockable dropdown item pusher. Useful for pushing items on ice in the nether. All the pistons are sticky. Probably not unload safe. Use string + observers instead of noteblock/observer/repeater trigger to make it automatically fire when item comes.",
+    "features": [
+      "Simple, 12 gt clockable design"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388318627815493723",
-    "attachmentMessageId": "1388179710801875145",
-    "uploadMessageId": "1388179699565465784"
-  }
+    "considerations": [
+      "Togglestate"
+    ],
+    "notes": ""
+  },
+  "timestamp": 1750788510279
 }

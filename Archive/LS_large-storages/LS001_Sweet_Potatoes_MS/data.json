@@ -67,28 +67,20 @@
       "path": "attachments/LS001_Sweet_Potatoes_Nether_Side.litematic"
     }
   ],
-  "description": "A fairly large storage system that utilizes a parallel unloading array allowing the system to unload at a max of 8x hopper speed.",
-  "features": [
-    "~90% Hopperlocked",
-    "Has various peripherals: restock stations, furnace array, crafting station, and yeeting station, masscrafter, brewer, and unstackable sorter",
-    "Has a concrete duper in the middle of the storage (This was requested, can easily be omitted in the building process)",
-    "Has a big bulk with capacity for ~1.3m / item.",
-    "Has 1 DC capacity chest halls with SS2 filters.",
-    "Uses MIS 5.1"
-  ],
-  "considerations": [
-    "This system requires you to have Carpet's `stackableShulkerBoxes` rule enabled and subsequently Kikugie's StackableShulkerFix."
-  ],
-  "notes": "Tested for ~400k items without issues\n\n**Sourced Components:**\n- Chest Hall: https://discord.com/channels/1375556143186837695/1388317417385758770\n- Bulk: [PyraLeft's new bulk](https://discord.com/channels/614934109751345153/731632393315942531/1327412377406148628)\n- Parallel Unloading Array: https://discord.com/channels/748542142347083868/1241919346477891684\n- 6x Full Clearance Loader: https://discord.com/channels/1375556143186837695/1388316771832041482\n- Chunkloader: https://discord.com/channels/748542142347083868/748547221338849330/1127706483723882537\n- Stacked Box Storage: https://discord.com/channels/748542142347083868/1182473535566921788/1182476705714147348\n- Colored Box Crafter: https://discord.com/channels/1375556143186837695/1388318423427059806\n- 1x Loader: https://discord.com/channels/1375556143186837695/1388316649903624192\n- MIS: https://discord.com/channels/748542142347083868/1114672908065837148/1119002430688997386\n- Unstackable Sorter: https://discord.com/channels/748542142347083868/1286267762360188958/1286268041662824471\n- Buffer Box Display: https://discord.com/channels/748542142347083868/1120296660543746138/1187751207108882563\n- Brewer: [MineBrew](https://discord.com/channels/614934109751345153/1299123456239206461)\n- Furnace Array: https://discord.com/channels/1375556143186837695/1388318507229249557\n- Crafting Station: https://discord.com/channels/748542142347083868/1112115542518673428/1188490793401458761\n- Yeeting Station: https://discord.com/channels/748542142347083868/1062856400092549251/1188498493535432794\n- Masscrafter: https://discord.com/channels/861217564130279425/1127745870763409419\n- Restock Station: https://discord.com/channels/1375556143186837695/1388317359298580490\n- Item Layout: Modified from YAMS",
-  "timestamp": 1751379185451,
-  "post": {
-    "threadId": "1389244896870797333",
-    "forumId": "1375566903241740450",
-    "continuingMessageIds": [
-      "1389244900314185878",
-      "1389602561635385526"
+  "records": {
+    "description": "A fairly large storage system that utilizes a parallel unloading array allowing the system to unload at a max of 8x hopper speed.",
+    "features": [
+      "~90% Hopperlocked",
+      "Has various peripherals: restock stations, furnace array, crafting station, and yeeting station, masscrafter, brewer, and unstackable sorter",
+      "Has a concrete duper in the middle of the storage (This was requested, can easily be omitted in the building process)",
+      "Has a big bulk with capacity for ~1.3m / item.",
+      "Has 1 DC capacity chest halls with SS2 filters.",
+      "Uses MIS 5.1"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1389244896870797333",
-    "uploadMessageId": "1389244894945480846"
-  }
+    "considerations": [
+      "This system requires you to have Carpet's `stackableShulkerBoxes` rule enabled and subsequently Kikugie's StackableShulkerFix."
+    ],
+    "notes": "Tested for ~400k items without issues\n\n**Sourced Components:**\n- Chest Hall: https://discord.com/channels/1375556143186837695/1388317417385758770\n- Bulk: [PyraLeft's new bulk](https://discord.com/channels/614934109751345153/731632393315942531/1327412377406148628)\n- Parallel Unloading Array: https://discord.com/channels/748542142347083868/1241919346477891684\n- 6x Full Clearance Loader: https://discord.com/channels/1375556143186837695/1388316771832041482\n- Chunkloader: https://discord.com/channels/748542142347083868/748547221338849330/1127706483723882537\n- Stacked Box Storage: https://discord.com/channels/748542142347083868/1182473535566921788/1182476705714147348\n- Colored Box Crafter: https://discord.com/channels/1375556143186837695/1388318423427059806\n- 1x Loader: https://discord.com/channels/1375556143186837695/1388316649903624192\n- MIS: https://discord.com/channels/748542142347083868/1114672908065837148/1119002430688997386\n- Unstackable Sorter: https://discord.com/channels/748542142347083868/1286267762360188958/1286268041662824471\n- Buffer Box Display: https://discord.com/channels/748542142347083868/1120296660543746138/1187751207108882563\n- Brewer: [MineBrew](https://discord.com/channels/614934109751345153/1299123456239206461)\n- Furnace Array: https://discord.com/channels/1375556143186837695/1388318507229249557\n- Crafting Station: https://discord.com/channels/748542142347083868/1112115542518673428/1188490793401458761\n- Yeeting Station: https://discord.com/channels/748542142347083868/1062856400092549251/1188498493535432794\n- Masscrafter: https://discord.com/channels/861217564130279425/1127745870763409419\n- Restock Station: https://discord.com/channels/1375556143186837695/1388317359298580490\n- Item Layout: Modified from YAMS"
+  },
+  "timestamp": 1751379185451
 }

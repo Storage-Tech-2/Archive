@@ -73,24 +73,16 @@
       "path": "attachments/PU001_Simple_parallel_unloader_V3_SS3.litematic"
     }
   ],
-  "description": "Simple parallel unloader",
-  "features": [
-    "Unloads items at around 3-4x hopper speed (based on samples from real world item sets)",
-    "Separates empty boxes and unstackables into their own output",
-    "Simple logic reduces points of failure. Doesn't require filter items or sophisticated box processing.",
-    "Batches 16 stackables to either 5 or 10"
-  ],
-  "considerations": [],
-  "notes": "",
-  "timestamp": 1750628874967,
-  "post": {
-    "forumId": "1375569870577467412",
-    "threadId": "1388318262839742555",
-    "continuingMessageIds": [
-      "1388318266098843678"
+  "records": {
+    "description": "Simple parallel unloader",
+    "features": [
+      "Unloads items at around 3-4x hopper speed (based on samples from real world item sets)",
+      "Separates empty boxes and unstackables into their own output",
+      "Simple logic reduces points of failure. Doesn't require filter items or sophisticated box processing.",
+      "Batches 16 stackables to either 5 or 10"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388318262839742555",
-    "attachmentMessageId": "1388179221599223853",
-    "uploadMessageId": "1388179211591614506"
-  }
+    "considerations": [],
+    "notes": ""
+  },
+  "timestamp": 1750628874967
 }

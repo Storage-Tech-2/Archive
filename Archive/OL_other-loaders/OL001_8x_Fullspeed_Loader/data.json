@@ -58,22 +58,14 @@
       "path": "attachments/OL001_8x_Fullspeed_Loader_v102.litematic"
     }
   ],
-  "description": "Loads boxes at 8x hopperspeed without pausing during box replacement. Not tested extensively.",
-  "features": [
-    "Fullspeed loading",
-    "3 wide"
-  ],
-  "considerations": [],
-  "notes": "",
-  "timestamp": 1750631487535,
-  "post": {
-    "forumId": "1375557962675912865",
-    "threadId": "1388316832016109649",
-    "continuingMessageIds": [
-      "1388316834381430804"
+  "records": {
+    "description": "Loads boxes at 8x hopperspeed without pausing during box replacement. Not tested extensively.",
+    "features": [
+      "Fullspeed loading",
+      "3 wide"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388316832016109649",
-    "attachmentMessageId": "1388177630200860672",
-    "uploadMessageId": "1388177622499856445"
-  }
+    "considerations": [],
+    "notes": ""
+  },
+  "timestamp": 1750631487535
 }

@@ -69,18 +69,11 @@
       "path": "attachments/TT001_howtofloat.drawio"
     }
   ],
-  "description": "This guide shows you how you can build a float item aligner. Float alignment allows you to push an item with a piston or pick it up with a hopper despite not colliding with the block.",
-  "features": [],
-  "considerations": [],
-  "notes": "",
-  "timestamp": 1751383278024,
-  "post": {
-    "threadId": "1388665299418480761",
-    "forumId": "1388657467508133928",
-    "continuingMessageIds": [
-      "1388665303491149954"
-    ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388665299418480761",
-    "uploadMessageId": "1388665296449179710"
-  }
+  "records": {
+    "description": "This guide shows you how you can build a float item aligner. Float alignment allows you to push an item with a piston or pick it up with a hopper despite not colliding with the block.",
+    "features": [],
+    "considerations": [],
+    "notes": ""
+  },
+  "timestamp": 1751383278024
 }

@@ -68,27 +68,19 @@
       "path": "attachments/BU004_box_unloader_slice_preserving_solidstate_Obi.litematic"
     }
   ],
-  "description": "Unloads items from boxes at hopperspeed.",
-  "features": [
-    "Empty boxes are collected instantly and are unable to land in other slices, avoiding output contamination.",
-    "Boxes are separated reliably and dropped out of the bottom, while unloaded items go in the chest.",
-    "Very easy to hopper lock",
-    "Solid state & togglestateless, improving robustness."
-  ],
-  "considerations": [
-    "Does not handle empty boxes",
-    "No initial box placement due to possible issue with random input"
-  ],
-  "notes": "",
-  "timestamp": 1752040649325,
-  "post": {
-    "forumId": "1375560446676963450",
-    "threadId": "1388317057002504253",
-    "continuingMessageIds": [
-      "1388317062723534858"
+  "records": {
+    "description": "Unloads items from boxes at hopperspeed.",
+    "features": [
+      "Empty boxes are collected instantly and are unable to land in other slices, avoiding output contamination.",
+      "Boxes are separated reliably and dropped out of the bottom, while unloaded items go in the chest.",
+      "Very easy to hopper lock",
+      "Solid state & togglestateless, improving robustness."
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388317057002504253",
-    "attachmentMessageId": "1388177928587837641",
-    "uploadMessageId": "1388177923319533731"
-  }
+    "considerations": [
+      "Does not handle empty boxes",
+      "No initial box placement due to possible issue with random input"
+    ],
+    "notes": ""
+  },
+  "timestamp": 1752040649325
 }

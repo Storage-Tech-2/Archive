@@ -71,31 +71,23 @@
       "path": "attachments/PU003_Cart_Based_Paralleliser_Javi.litematic"
     }
   ],
-  "description": "This system aims to accelerate the sorting speed of your main storage by unloading multiple items simultaneously whilst ensuring every item type isn't unloaded faster than what a single filter can handle. Hopper carts are used as a way to quickly pick up full stacks of items and unloading them via cart yeeting. To use drop any items on the input pressure plate and connect your filters to the output. Due to the nature of the system, filters that are compatible with it are: ss2 ssi filters (excluding push filters) and overstacked filters.",
-  "features": [
-    "Up to x64 hopper speed (576k items/hour)",
-    "Small footprint (12x12x12 blocks)",
-    "3 separate outputs for stackables, unstackables and boxes",
-    "Can handle any input (but stacked unstackables)",
-    "Bufferless (any single item will be instantly dropped into the output, same for unmapped items)",
-    "4d aligned output",
-    "~88% hopper locked (30/33 hoppers)"
-  ],
-  "considerations": [
-    "Entity lag",
-    "Can't be rotated (curved rail redirection is used)",
-    "Any stacked unstackables (StackableShulkerBoxes included) inputted will not be sorted correctly and one item of every stack would despawn."
-  ],
-  "notes": "Use the north direction sub schem, the others might be forked. Explanation of device in thread.",
-  "timestamp": 1750742967911,
-  "post": {
-    "forumId": "1375569870577467412",
-    "threadId": "1388318282913943653",
-    "continuingMessageIds": [
-      "1388318285925322822"
+  "records": {
+    "description": "This system aims to accelerate the sorting speed of your main storage by unloading multiple items simultaneously whilst ensuring every item type isn't unloaded faster than what a single filter can handle. Hopper carts are used as a way to quickly pick up full stacks of items and unloading them via cart yeeting. To use drop any items on the input pressure plate and connect your filters to the output. Due to the nature of the system, filters that are compatible with it are: ss2 ssi filters (excluding push filters) and overstacked filters.",
+    "features": [
+      "Up to x64 hopper speed (576k items/hour)",
+      "Small footprint (12x12x12 blocks)",
+      "3 separate outputs for stackables, unstackables and boxes",
+      "Can handle any input (but stacked unstackables)",
+      "Bufferless (any single item will be instantly dropped into the output, same for unmapped items)",
+      "4d aligned output",
+      "~88% hopper locked (30/33 hoppers)"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388318282913943653",
-    "attachmentMessageId": "1388179247448981535",
-    "uploadMessageId": "1388179241576693961"
-  }
+    "considerations": [
+      "Entity lag",
+      "Can't be rotated (curved rail redirection is used)",
+      "Any stacked unstackables (StackableShulkerBoxes included) inputted will not be sorted correctly and one item of every stack would despawn."
+    ],
+    "notes": "Use the north direction sub schem, the others might be forked. Explanation of device in thread."
+  },
+  "timestamp": 1750742967911
 }

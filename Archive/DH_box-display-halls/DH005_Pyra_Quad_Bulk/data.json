@@ -69,29 +69,21 @@
       "path": "attachments/DH005_Pyra_Quad_Bulk.litematic"
     }
   ],
-  "description": "Quad bulk hall design has 4 box displays per slice and 4 box sorters.",
-  "features": [
-    "FHL",
-    "Sticks 2 blocks from both sides",
-    "4 bulk silos/slice",
-    "Nice smart dropper turns",
-    "Global box placement",
-    "Slice capacity: Top: 1.564 mil Top: 1.594 mil",
-    "Size for 16 slices: 35x39x20"
-  ],
-  "considerations": [
-    "Lot of inventory prefilling"
-  ],
-  "notes": "",
-  "timestamp": 1751042228343,
-  "post": {
-    "threadId": "1388318028197789766",
-    "forumId": "1375565403727724764",
-    "continuingMessageIds": [
-      "1388318030949253215"
+  "records": {
+    "description": "Quad bulk hall design has 4 box displays per slice and 4 box sorters.",
+    "features": [
+      "FHL",
+      "Sticks 2 blocks from both sides",
+      "4 bulk silos/slice",
+      "Nice smart dropper turns",
+      "Global box placement",
+      "Slice capacity: Top: 1.564 mil Top: 1.594 mil",
+      "Size for 16 slices: 35x39x20"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388318028197789766",
-    "uploadMessageId": "1388178938013945867",
-    "attachmentMessageId": "1388196474797559951"
-  }
+    "considerations": [
+      "Lot of inventory prefilling"
+    ],
+    "notes": ""
+  },
+  "timestamp": 1751042228343
 }

@@ -76,25 +76,18 @@
       "path": "attachments/VIP004_MiniSplittiFFS_1.21.4.litematic"
     }
   ],
-  "description": "Takes in mixed boxes and splits them into boxes containing a single item type. Uses dueling hoppers splitter technique.",
-  "features": [
-    "90% hopper locked (a total of 5 unlocked hoppers out of 50 total)",
-    "Small size! 12x6x16 (LWH)",
-    "Emptied Boxes and Unstackables are output in separate streams from Partials output.",
-    "Pauseable with global clock"
-  ],
-  "considerations": [
-    "Does not handle Empty box inputs (Please don't send empty boxes to splitters in the first place!)"
-  ],
-  "notes": "Press stone button to start splitting after putting in boxes. Empty box input hopper is covered by wool for hopperNoItemCost carpet rule but can be replaced with more chest storage.",
-  "timestamp": 1751167744957,
-  "post": {
-    "threadId": "1388722921622736916",
-    "forumId": "1375569954073477120",
-    "continuingMessageIds": [
-      "1388722924193841234"
+  "records": {
+    "description": "Takes in mixed boxes and splits them into boxes containing a single item type. Uses dueling hoppers splitter technique.",
+    "features": [
+      "90% hopper locked (a total of 5 unlocked hoppers out of 50 total)",
+      "Small size! 12x6x16 (LWH)",
+      "Emptied Boxes and Unstackables are output in separate streams from Partials output.",
+      "Pauseable with global clock"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388722921622736916",
-    "uploadMessageId": "1388722919311544451"
-  }
+    "considerations": [
+      "Does not handle Empty box inputs (Please don't send empty boxes to splitters in the first place!)"
+    ],
+    "notes": "Press stone button to start splitting after putting in boxes. Empty box input hopper is covered by wool for hopperNoItemCost carpet rule but can be replaced with more chest storage."
+  },
+  "timestamp": 1751167744957
 }

@@ -79,26 +79,19 @@
       "path": "attachments/OD003_Noteblock_Box_Display_Hopper_Collection.litematic"
     }
   ],
-  "description": "Box display that places the 1st box when you click the noteblock, reducing size and manual effort.",
-  "features": [
-    "Fully hopper locked, minimum hoppers",
-    "Fast replacement with clean animation",
-    "Easy and compact 1st box placement by clicking the noteblock"
-  ],
-  "considerations": [
-    "Honey and slime",
-    "Noteblock may need 2 clicks to place the 1st box",
-    "Boxes are buffered in the accessible dropper/hopper"
-  ],
-  "notes": "Box collection isn't 100% reliable in the schematic but can be made reliable with this layout without hopperlocking the collection hoppers.",
-  "timestamp": 1751903304287,
-  "post": {
-    "threadId": "1391808083189170357",
-    "forumId": "1375561629378416740",
-    "continuingMessageIds": [
-      "1391808086544486634"
+  "records": {
+    "description": "Box display that places the 1st box when you click the noteblock, reducing size and manual effort.",
+    "features": [
+      "Fully hopper locked, minimum hoppers",
+      "Fast replacement with clean animation",
+      "Easy and compact 1st box placement by clicking the noteblock"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1391808083189170357",
-    "uploadMessageId": "1391808081935077537"
-  }
+    "considerations": [
+      "Honey and slime",
+      "Noteblock may need 2 clicks to place the 1st box",
+      "Boxes are buffered in the accessible dropper/hopper"
+    ],
+    "notes": "Box collection isn't 100% reliable in the schematic but can be made reliable with this layout without hopperlocking the collection hoppers."
+  },
+  "timestamp": 1751903304287
 }

@@ -65,25 +65,17 @@
       "path": "attachments/CH003_8_chesthall_IAMBOB.litematic"
     }
   ],
-  "description": "8 chest hall design with two double chests of storage per item type.",
-  "features": [
-    "30 hoppers |  100% locked, even when filters are overflowing",
-    "8 items/slice, with 2 double chests of capacity per item",
-    "SS2 filters. All no more than 8 gt",
-    "All the display blocks can be solid",
-    "Every filter hopper is accessible"
-  ],
-  "considerations": [],
-  "notes": "",
-  "timestamp": 1750738755915,
-  "post": {
-    "forumId": "1375561810392125510",
-    "threadId": "1388317438340239425",
-    "continuingMessageIds": [
-      "1388317442270560316"
+  "records": {
+    "description": "8 chest hall design with two double chests of storage per item type.",
+    "features": [
+      "30 hoppers |  100% locked, even when filters are overflowing",
+      "8 items/slice, with 2 double chests of capacity per item",
+      "SS2 filters. All no more than 8 gt",
+      "All the display blocks can be solid",
+      "Every filter hopper is accessible"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388317438340239425",
-    "attachmentMessageId": "1388178398504816682",
-    "uploadMessageId": "1388178392247046194"
-  }
+    "considerations": [],
+    "notes": ""
+  },
+  "timestamp": 1750738755915
 }

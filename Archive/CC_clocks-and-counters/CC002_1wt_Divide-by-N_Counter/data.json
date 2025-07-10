@@ -57,21 +57,13 @@
       "path": "attachments/CC002_divide_by_n.litematic"
     }
   ],
-  "description": "The toggle will switch each time the top rail is pulsed `N` times, where `N` is the number of items in the dropper counter below.",
-  "features": [
-    "1 Wide tileable design"
-  ],
-  "considerations": [],
-  "notes": "",
-  "timestamp": 1750625540208,
-  "post": {
-    "forumId": "1386443869729587291",
-    "threadId": "1388318562669690982",
-    "continuingMessageIds": [
-      "1388318565517492444"
+  "records": {
+    "description": "The toggle will switch each time the top rail is pulsed `N` times, where `N` is the number of items in the dropper counter below.",
+    "features": [
+      "1 Wide tileable design"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388318562669690982",
-    "attachmentMessageId": "1388179618195832872",
-    "uploadMessageId": "1388179611938066588"
-  }
+    "considerations": [],
+    "notes": ""
+  },
+  "timestamp": 1750625540208
 }

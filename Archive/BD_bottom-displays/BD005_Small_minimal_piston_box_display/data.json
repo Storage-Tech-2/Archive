@@ -71,26 +71,18 @@
       "path": "attachments/BD005_ken_small_minimal_piston_box_display_1171.litematic"
     }
   ],
-  "description": "Simple bottom box display with minimal pistons and reliable wiring.",
-  "features": [
-    "Fully hopper-locked",
-    "Uses the minimal number of pistons for this layout",
-    "Smallest display with this layout that I know of",
-    "Fully independent slices",
-    "Adjacent slices can be triggered at weird intervals and will not break",
-    "No breakable togglestates"
-  ],
-  "considerations": [],
-  "notes": "",
-  "timestamp": 1750744033654,
-  "post": {
-    "forumId": "1375561551188328531",
-    "threadId": "1388317258144546846",
-    "continuingMessageIds": [
-      "1388317261621756033"
+  "records": {
+    "description": "Simple bottom box display with minimal pistons and reliable wiring.",
+    "features": [
+      "Fully hopper-locked",
+      "Uses the minimal number of pistons for this layout",
+      "Smallest display with this layout that I know of",
+      "Fully independent slices",
+      "Adjacent slices can be triggered at weird intervals and will not break",
+      "No breakable togglestates"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388317258144546846",
-    "attachmentMessageId": "1388178183777550428",
-    "uploadMessageId": "1388178173996568586"
-  }
+    "considerations": [],
+    "notes": ""
+  },
+  "timestamp": 1750744033654
 }

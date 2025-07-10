@@ -57,26 +57,18 @@
       "path": "attachments/VIP001_Global_reset_variable_loader_44.litematic"
     }
   ],
-  "description": "Automatically sets filters based on what items come to each slice first, and loads them into single-type boxes. All filters are simultaneously reset when item stream stops.",
-  "features": [
-    "Butterfly tiled (2 wide tileable slices with 2 filters in each)",
-    "Ejects partial boxes on reset",
-    "Burns items when boxes are low",
-    "Fullspeed breaking prevents backups in the loader",
-    "Failed boxplacements due to unloading are fixed on reset",
-    "Loaders can also be reset while items come in"
-  ],
-  "considerations": [],
-  "notes": "Filters are setup with 0-19-1-1-1 dummy items in the filter hoppers.",
-  "timestamp": 1750621999017,
-  "post": {
-    "forumId": "1375569954073477120",
-    "threadId": "1388318311779139598",
-    "continuingMessageIds": [
-      "1388318315365007412"
+  "records": {
+    "description": "Automatically sets filters based on what items come to each slice first, and loads them into single-type boxes. All filters are simultaneously reset when item stream stops.",
+    "features": [
+      "Butterfly tiled (2 wide tileable slices with 2 filters in each)",
+      "Ejects partial boxes on reset",
+      "Burns items when boxes are low",
+      "Fullspeed breaking prevents backups in the loader",
+      "Failed boxplacements due to unloading are fixed on reset",
+      "Loaders can also be reset while items come in"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388318311779139598",
-    "attachmentMessageId": "1388179282039144472",
-    "uploadMessageId": "1388179273868771338"
-  }
+    "considerations": [],
+    "notes": "Filters are setup with 0-19-1-1-1 dummy items in the filter hoppers."
+  },
+  "timestamp": 1750621999017
 }

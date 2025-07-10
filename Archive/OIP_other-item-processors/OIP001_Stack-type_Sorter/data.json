@@ -58,23 +58,15 @@
       "path": "attachments/OIP001_stack_type_sorter.litematic"
     }
   ],
-  "description": "Sorts items based on their stack type at hopperspeed. Has three outputs for unstackable, 16-stackable, and 64 stackable items.",
-  "features": [
-    "Small size: 5x4x2",
-    "No pistons",
-    "6 hoppers total"
-  ],
-  "considerations": [],
-  "notes": "First dropper should have 38 items in its last slot.",
-  "timestamp": 1750565912801,
-  "post": {
-    "forumId": "1375564209882009772",
-    "threadId": "1388317684948533249",
-    "continuingMessageIds": [
-      "1388317687536681053"
+  "records": {
+    "description": "Sorts items based on their stack type at hopperspeed. Has three outputs for unstackable, 16-stackable, and 64 stackable items.",
+    "features": [
+      "Small size: 5x4x2",
+      "No pistons",
+      "6 hoppers total"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388317684948533249",
-    "attachmentMessageId": "1388178727925448834",
-    "uploadMessageId": "1388178721357430885"
-  }
+    "considerations": [],
+    "notes": "First dropper should have 38 items in its last slot."
+  },
+  "timestamp": 1750565912801
 }

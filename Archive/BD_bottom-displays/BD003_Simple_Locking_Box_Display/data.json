@@ -57,23 +57,15 @@
       "path": "attachments/BD003_b1nary_simple_locking_box_display_improved.litematic"
     }
   ],
-  "description": "An incredibly simple box display that is quick to build and is the only 4 wide box display to my knowledge.",
-  "features": [],
-  "considerations": [
-    "One Wide AB Tileable (alternate slime and honey)",
-    "You can’t easily handle initial box detection.",
-    "It should be possible to time the breaking on another slice to cause the box breaking to trigger extra and break a partial full box, but this is so incredibly unlikely."
-  ],
-  "notes": "",
-  "timestamp": 1750969815969,
-  "post": {
-    "forumId": "1375561551188328531",
-    "threadId": "1388317211923582976",
-    "continuingMessageIds": [
-      "1388317214565863556"
+  "records": {
+    "description": "An incredibly simple box display that is quick to build and is the only 4 wide box display to my knowledge.",
+    "features": [],
+    "considerations": [
+      "One Wide AB Tileable (alternate slime and honey)",
+      "You can’t easily handle initial box detection.",
+      "It should be possible to time the breaking on another slice to cause the box breaking to trigger extra and break a partial full box, but this is so incredibly unlikely."
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388317211923582976",
-    "attachmentMessageId": "1388178117851615334",
-    "uploadMessageId": "1388178111866339440"
-  }
+    "notes": ""
+  },
+  "timestamp": 1750969815969
 }

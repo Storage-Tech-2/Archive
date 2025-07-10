@@ -59,25 +59,17 @@
       "path": "attachments/VBS001_Hopper_Speed_Box_Grouper_4x5x6.litematic"
     }
   ],
-  "description": "Assigns a filter item depending on the leading item type of the first box. Subsequent boxes are checked and separated based on whether they contain the assigned item. Deassigns when out of boxes, or manually.",
-  "features": [
-    "Works at 8gt",
-    "No renamed filter items needed, unstackables work fine",
-    "Relatively small footprint (5x4x6)."
-  ],
-  "considerations": [
-    "Can't handle empty boxes"
-  ],
-  "notes": "The schematic contains two versions: One that deassigns automatically and manually. Inspired by https://discord.com/channels/748542142347083868/749136504558714982/1315103045763207248",
-  "timestamp": 1750741216590,
-  "post": {
-    "forumId": "1375570066451599401",
-    "threadId": "1388318379789516932",
-    "continuingMessageIds": [
-      "1388318383581429812"
+  "records": {
+    "description": "Assigns a filter item depending on the leading item type of the first box. Subsequent boxes are checked and separated based on whether they contain the assigned item. Deassigns when out of boxes, or manually.",
+    "features": [
+      "Works at 8gt",
+      "No renamed filter items needed, unstackables work fine",
+      "Relatively small footprint (5x4x6)."
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388318379789516932",
-    "attachmentMessageId": "1388179367406075914",
-    "uploadMessageId": "1388179360766230581"
-  }
+    "considerations": [
+      "Can't handle empty boxes"
+    ],
+    "notes": "The schematic contains two versions: One that deassigns automatically and manually. Inspired by https://discord.com/channels/748542142347083868/749136504558714982/1315103045763207248"
+  },
+  "timestamp": 1750741216590
 }

@@ -65,27 +65,20 @@
       "path": "attachments/CH006_Seven_TIS_SS3.litematic"
     }
   ],
-  "description": "10 chests per slice hall using the TIS layout, but with SS3 filters",
-  "features": [
-    "Slices are identical, locking system is the only change between slices",
-    "0 prefilled hopper/dispenser",
-    "Runs at hopperspeed",
-    "Fully hopper-locked (36 hoppers/Slice)"
-  ],
-  "considerations": [
-    "TIS layout requires 2 transparent block displays per slice",
-    "Brief clicking noise in the bottom droppers after they are done elevating items",
-    "Bottom filters are only accessible through the locking system after removing the display blocks (from the inside)"
-  ],
-  "notes": "",
-  "timestamp": 1751127805783,
-  "post": {
-    "threadId": "1388555404023300128",
-    "forumId": "1375561810392125510",
-    "continuingMessageIds": [
-      "1388555409513644196"
+  "records": {
+    "description": "10 chests per slice hall using the TIS layout, but with SS3 filters",
+    "features": [
+      "Slices are identical, locking system is the only change between slices",
+      "0 prefilled hopper/dispenser",
+      "Runs at hopperspeed",
+      "Fully hopper-locked (36 hoppers/Slice)"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388555404023300128",
-    "uploadMessageId": "1388555401795997758"
-  }
+    "considerations": [
+      "TIS layout requires 2 transparent block displays per slice",
+      "Brief clicking noise in the bottom droppers after they are done elevating items",
+      "Bottom filters are only accessible through the locking system after removing the display blocks (from the inside)"
+    ],
+    "notes": ""
+  },
+  "timestamp": 1751127805783
 }

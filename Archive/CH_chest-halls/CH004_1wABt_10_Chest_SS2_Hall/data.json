@@ -63,27 +63,19 @@
       "path": "attachments/CH004_SamosTheSage_10_Chest_SSI_Hall.litematic"
     }
   ],
-  "description": "10 chests per slice chest hall design with SS2 filters.",
-  "features": [
-    "32 hoppers | 100% locked",
-    "10 items/slice.",
-    "SS2 filters. 6/10 of them are 8gt or less; 4/10 of them are 10gt.",
-    "All the display blocks can be solid.",
-    "No prefilling needed.",
-    "No dropper elevators.",
-    "Every filter hopper is accessible thanks to the scaffolding (optional)."
-  ],
-  "considerations": [],
-  "notes": "",
-  "timestamp": 1751161587098,
-  "post": {
-    "forumId": "1375561810392125510",
-    "threadId": "1388317459878252595",
-    "continuingMessageIds": [
-      "1388317463036297308"
+  "records": {
+    "description": "10 chests per slice chest hall design with SS2 filters.",
+    "features": [
+      "32 hoppers | 100% locked",
+      "10 items/slice.",
+      "SS2 filters. 6/10 of them are 8gt or less; 4/10 of them are 10gt.",
+      "All the display blocks can be solid.",
+      "No prefilling needed.",
+      "No dropper elevators.",
+      "Every filter hopper is accessible thanks to the scaffolding (optional)."
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388317459878252595",
-    "attachmentMessageId": "1388178430427926642",
-    "uploadMessageId": "1388178422693625907"
-  }
+    "considerations": [],
+    "notes": ""
+  },
+  "timestamp": 1751161587098
 }

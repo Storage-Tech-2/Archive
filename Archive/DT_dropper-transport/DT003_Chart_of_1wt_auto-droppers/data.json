@@ -57,24 +57,16 @@
       "path": "attachments/DT003_AutoDropper_Collection.litematic"
     }
   ],
-  "description": "A collection of various circuits that automatically drop all received items as entities. The blue designs on the left are 2x hopper speed and the ones on the right are 1x.",
-  "features": [
-    "All designs except C3 and D3 are unbreakable with random input"
-  ],
-  "considerations": [
-    "The piston in C3 will clock when receiving items and power the dropper twice as often then needed",
-    "C3 and D3 may break if they are powered externally or if they receive items at greater than 1x speed"
-  ],
-  "notes": "",
-  "timestamp": 1751041995761,
-  "post": {
-    "threadId": "1388317521471475722",
-    "forumId": "1375563020478058557",
-    "continuingMessageIds": [
-      "1388317525351337985"
+  "records": {
+    "description": "A collection of various circuits that automatically drop all received items as entities. The blue designs on the left are 2x hopper speed and the ones on the right are 1x.",
+    "features": [
+      "All designs except C3 and D3 are unbreakable with random input"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388317521471475722",
-    "uploadMessageId": "1388195190900134069",
-    "attachmentMessageId": "1388195496765554843"
-  }
+    "considerations": [
+      "The piston in C3 will clock when receiving items and power the dropper twice as often then needed",
+      "C3 and D3 may break if they are powered externally or if they receive items at greater than 1x speed"
+    ],
+    "notes": ""
+  },
+  "timestamp": 1751041995761
 }

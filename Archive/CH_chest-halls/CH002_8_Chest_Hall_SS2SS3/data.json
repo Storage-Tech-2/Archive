@@ -101,26 +101,18 @@
       "path": "attachments/CH002_PyraLeft_Simple_SS3_Hall.litematic"
     }
   ],
-  "description": "100% locked, 8 items per slice chest hall design with block displays.",
-  "features": [
-    "22 hoppers | 1e-12 s",
-    "8 items per slice",
-    "SS2 filters, SS3 variant by Pyra",
-    "no prefilling required",
-    "all filters are 8gt",
-    "all display blocks can be solid"
-  ],
-  "considerations": [],
-  "notes": "",
-  "timestamp": 1750685720228,
-  "post": {
-    "forumId": "1375561810392125510",
-    "threadId": "1388317417385758770",
-    "continuingMessageIds": [
-      "1388317421655298158"
+  "records": {
+    "description": "100% locked, 8 items per slice chest hall design with block displays.",
+    "features": [
+      "22 hoppers | 1e-12 s",
+      "8 items per slice",
+      "SS2 filters, SS3 variant by Pyra",
+      "no prefilling required",
+      "all filters are 8gt",
+      "all display blocks can be solid"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388317417385758770",
-    "attachmentMessageId": "1388178367756374097",
-    "uploadMessageId": "1388178359976202291"
-  }
+    "considerations": [],
+    "notes": ""
+  },
+  "timestamp": 1750685720228
 }

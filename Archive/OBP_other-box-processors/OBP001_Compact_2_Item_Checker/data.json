@@ -59,24 +59,16 @@
       "path": "attachments/OBP001_ge2item_box_filter.litematic"
     }
   ],
-  "description": "Device filters shulker boxes with at least 2 stackable items of the same type. Useful for set-based processing where an extra item is needed to configure an item set.",
-  "features": [
-    "1 box every 36gt throughput",
-    "Small size (4x5x5)",
-    "Works with random input",
-    "Can be fully hopperlocked"
-  ],
-  "considerations": [],
-  "notes": "isBoxEmpty and isItemUnstackable signal outputs for additional processing (box routing is left to the discretion of the user)",
-  "timestamp": 1751997391729,
-  "post": {
-    "forumId": "1375562461276672042",
-    "threadId": "1388317479805259918",
-    "continuingMessageIds": [
-      "1388317483273949205"
+  "records": {
+    "description": "Device filters shulker boxes with at least 2 stackable items of the same type. Useful for set-based processing where an extra item is needed to configure an item set.",
+    "features": [
+      "1 box every 36gt throughput",
+      "Small size (4x5x5)",
+      "Works with random input",
+      "Can be fully hopperlocked"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388317479805259918",
-    "attachmentMessageId": "1388178457565069425",
-    "uploadMessageId": "1388178447817244776"
-  }
+    "considerations": [],
+    "notes": "isBoxEmpty and isItemUnstackable signal outputs for additional processing (box routing is left to the discretion of the user)"
+  },
+  "timestamp": 1751997391729
 }

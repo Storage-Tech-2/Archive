@@ -58,25 +58,18 @@
       "path": "attachments/PI003_cornyeet_fixed.litematic"
     }
   ],
-  "description": "An input interface built into a corner. Uses hoppercarts to unload chests rapidly.",
-  "features": [
-    "Included manual loader display box for loose items, which replaces box if the box has items and is closed.",
-    "Chest contents are unloaded as item entities rapidly using hoppercarts.",
-    "Chest inputs are not unloaded until noteblock is pressed.",
-    "Pause line stops unloading of chests and locks box display"
-  ],
-  "considerations": [
-    "If box display is filled while pause line is activated, box must be opened/closed again to replace it when pause is lifted."
-  ],
-  "notes": "",
-  "timestamp": 1751135491793,
-  "post": {
-    "threadId": "1388568533331480687",
-    "forumId": "1375569381781930006",
-    "continuingMessageIds": [
-      "1388568537869713540"
+  "records": {
+    "description": "An input interface built into a corner. Uses hoppercarts to unload chests rapidly.",
+    "features": [
+      "Included manual loader display box for loose items, which replaces box if the box has items and is closed.",
+      "Chest contents are unloaded as item entities rapidly using hoppercarts.",
+      "Chest inputs are not unloaded until noteblock is pressed.",
+      "Pause line stops unloading of chests and locks box display"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388568533331480687",
-    "uploadMessageId": "1388587641016029415"
-  }
+    "considerations": [
+      "If box display is filled while pause line is activated, box must be opened/closed again to replace it when pause is lifted."
+    ],
+    "notes": ""
+  },
+  "timestamp": 1751135491793
 }

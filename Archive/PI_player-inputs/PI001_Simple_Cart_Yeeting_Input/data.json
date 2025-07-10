@@ -61,23 +61,15 @@
       "path": "attachments/PI001_Simple_Cart_Yeeting_Input.litematic"
     }
   ],
-  "description": "Displays chest cart for player to put items in. On clicking the noteblock yeets items from the cart into the water stream.",
-  "features": [
-    "Small (5x5x3)",
-    "Instant activation when pressing noteblock",
-    "Spam-proof (19gt reset)"
-  ],
-  "considerations": [],
-  "notes": "",
-  "timestamp": 1750726091289,
-  "post": {
-    "forumId": "1375569381781930006",
-    "threadId": "1388318223434518581",
-    "continuingMessageIds": [
-      "1388318226043375699"
+  "records": {
+    "description": "Displays chest cart for player to put items in. On clicking the noteblock yeets items from the cart into the water stream.",
+    "features": [
+      "Small (5x5x3)",
+      "Instant activation when pressing noteblock",
+      "Spam-proof (19gt reset)"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388318223434518581",
-    "attachmentMessageId": "1388179191656091770",
-    "uploadMessageId": "1388179184735748189"
-  }
+    "considerations": [],
+    "notes": ""
+  },
+  "timestamp": 1750726091289
 }

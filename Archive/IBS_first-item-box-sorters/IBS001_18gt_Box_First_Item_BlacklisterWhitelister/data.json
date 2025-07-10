@@ -82,25 +82,17 @@
       "path": "attachments/IBS001_DrakePHOSE_18gt_Box_Whitelister.litematic"
     }
   ],
-  "description": "Separates boxes based on if the first item of the input box matches an item set.",
-  "features": [
-    "Output can be adjusted. For example: moving the gate to a different distance, replacing the gate with a piston setup (the gate cannot be replaced by a trapdoor at the distance shown), or by locking or unlocking a hopper to separate the box.",
-    "Can be expanded or made smaller, however the 8 slice version presented is the only one I tested. If hopper separation is used, additional testing should be minimal.",
-    "50-53 items per slice can be sorted, depending on how many 16 stackables there are in the chest."
-  ],
-  "considerations": [
-    "If an item or empty box is input, the output will spit out a hopper minecart. If enough hopper carts are spit out, it will break."
-  ],
-  "notes": "- The chest should be configured to have 55 dummy 64 stackables and 3 unstackables. To add an item to the black/whitelist, remove 1 stackable item, or 4 if the item being added is a 16 stackable, then add ***only*** 1 of the listed item into the chest.\n- Add an item ***only*** to 1 chest.\n- The signal strength of the comparators reading from the chests should be 2 then change to 1 when one item is removed from the chest.",
-  "timestamp": 1750630085984,
-  "post": {
-    "forumId": "1375559535976124717",
-    "threadId": "1388316853004140554",
-    "continuingMessageIds": [
-      "1388316855805939813"
+  "records": {
+    "description": "Separates boxes based on if the first item of the input box matches an item set.",
+    "features": [
+      "Output can be adjusted. For example: moving the gate to a different distance, replacing the gate with a piston setup (the gate cannot be replaced by a trapdoor at the distance shown), or by locking or unlocking a hopper to separate the box.",
+      "Can be expanded or made smaller, however the 8 slice version presented is the only one I tested. If hopper separation is used, additional testing should be minimal.",
+      "50-53 items per slice can be sorted, depending on how many 16 stackables there are in the chest."
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388316853004140554",
-    "attachmentMessageId": "1388177655756750918",
-    "uploadMessageId": "1388177648114729102"
-  }
+    "considerations": [
+      "If an item or empty box is input, the output will spit out a hopper minecart. If enough hopper carts are spit out, it will break."
+    ],
+    "notes": "- The chest should be configured to have 55 dummy 64 stackables and 3 unstackables. To add an item to the black/whitelist, remove 1 stackable item, or 4 if the item being added is a 16 stackable, then add ***only*** 1 of the listed item into the chest.\n- Add an item ***only*** to 1 chest.\n- The signal strength of the comparators reading from the chests should be 2 then change to 1 when one item is removed from the chest."
+  },
+  "timestamp": 1750630085984
 }

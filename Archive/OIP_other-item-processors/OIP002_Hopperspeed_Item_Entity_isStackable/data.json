@@ -66,22 +66,14 @@
       "path": "attachments/OIP002_8gt_item_entity_isStackable_sorter.litematic"
     }
   ],
-  "description": "Performs a isStackable check on a entire item entity stack every 8gt. If each item entity is stacked to 64, it can process up to 576,000 items/hour.",
-  "features": [
-    "4x6x5 footprint",
-    "Has input protection, so it doesn't break with random inputs"
-  ],
-  "considerations": [],
-  "notes": "Requires 4 hopper minecarts in the dispenser",
-  "timestamp": 1751161603353,
-  "post": {
-    "forumId": "1375564209882009772",
-    "threadId": "1388317887462113373",
-    "continuingMessageIds": [
-      "1388317890058391636"
+  "records": {
+    "description": "Performs a isStackable check on a entire item entity stack every 8gt. If each item entity is stacked to 64, it can process up to 576,000 items/hour.",
+    "features": [
+      "4x6x5 footprint",
+      "Has input protection, so it doesn't break with random inputs"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388317887462113373",
-    "attachmentMessageId": "1388178757654679612",
-    "uploadMessageId": "1388178751145119814"
-  }
+    "considerations": [],
+    "notes": "Requires 4 hopper minecarts in the dispenser"
+  },
+  "timestamp": 1751161603353
 }

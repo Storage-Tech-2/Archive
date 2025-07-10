@@ -62,26 +62,18 @@
       "path": "attachments/BD007_Bipim_-_Soul_Sand_Floor_Display.litematic"
     }
   ],
-  "description": "A floor display that uses soul sand to collect the empty box in a water stream.",
-  "features": [
-    "Global first box placement",
-    "Collectionful",
-    "1 hopper, locked",
-    "Buffers 1 box in the hopper"
-  ],
-  "considerations": [
-    "Unreliable box collection"
-  ],
-  "notes": "This design is unreliable pre-1.17, also the empty box collection will fail around 1 in every 1,000 times.",
-  "timestamp": 1750795513273,
-  "post": {
-    "forumId": "1375561551188328531",
-    "threadId": "1388317306450477066",
-    "continuingMessageIds": [
-      "1388317309134966876"
+  "records": {
+    "description": "A floor display that uses soul sand to collect the empty box in a water stream.",
+    "features": [
+      "Global first box placement",
+      "Collectionful",
+      "1 hopper, locked",
+      "Buffers 1 box in the hopper"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388317306450477066",
-    "attachmentMessageId": "1388178239196893264",
-    "uploadMessageId": "1388178230594375761"
-  }
+    "considerations": [
+      "Unreliable box collection"
+    ],
+    "notes": "This design is unreliable pre-1.17, also the empty box collection will fail around 1 in every 1,000 times."
+  },
+  "timestamp": 1750795513273
 }

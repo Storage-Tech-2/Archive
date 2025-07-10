@@ -79,25 +79,17 @@
       "path": "attachments/CH001_PyraLeft_TIS_1w.litematic"
     }
   ],
-  "description": "10 chests per slice hall using the TIS layout.",
-  "features": [
-    "30 hoppers per slice",
-    "100% locked, even when filters are overflowing using global locking lines"
-  ],
-  "considerations": [
-    "Bottom filter still requires prefilling",
-    "2/10 filters are 10gt and may require special item 4D alignment"
-  ],
-  "notes": "Scaffolding doesn't need to be placed every second ice blocks like in the schematic. You can replace the normal water stream blockers/extenders for scaffolding and it should support all floating blocks.",
-  "timestamp": 1750576185525,
-  "post": {
-    "forumId": "1375561810392125510",
-    "threadId": "1388317398049882207",
-    "continuingMessageIds": [
-      "1388317400381784115"
+  "records": {
+    "description": "10 chests per slice hall using the TIS layout.",
+    "features": [
+      "30 hoppers per slice",
+      "100% locked, even when filters are overflowing using global locking lines"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388317398049882207",
-    "attachmentMessageId": "1388178336663994520",
-    "uploadMessageId": "1388178330531926118"
-  }
+    "considerations": [
+      "Bottom filter still requires prefilling",
+      "2/10 filters are 10gt and may require special item 4D alignment"
+    ],
+    "notes": "Scaffolding doesn't need to be placed every second ice blocks like in the schematic. You can replace the normal water stream blockers/extenders for scaffolding and it should support all floating blocks."
+  },
+  "timestamp": 1750576185525
 }

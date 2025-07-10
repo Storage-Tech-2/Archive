@@ -57,27 +57,19 @@
       "path": "attachments/FA001_Entityless_50_furnace_array_revisited.litematic"
     }
   ],
-  "description": "Simple double-hopperspeed 50 furnace array for storage halls.",
-  "features": [
-    "-Simpler and cheap, no entities. (distributes by creating breaks in the instant dropper line every 200gts)",
-    "-On/Off switch and distribution is spam resistant (not spam proof)",
-    "-Fully lockable while keeping all furnaces accessible from the outside of the array",
-    "-Requires much less prefill since the fuel inputs share a dropper line",
-    "-Includes a low fuel Indicator"
-  ],
-  "considerations": [
-    "Manual on/off"
-  ],
-  "notes": "",
-  "timestamp": 1750738111030,
-  "post": {
-    "forumId": "1375570984970752080",
-    "threadId": "1388318507229249557",
-    "continuingMessageIds": [
-      "1388318509624332370"
+  "records": {
+    "description": "Simple double-hopperspeed 50 furnace array for storage halls.",
+    "features": [
+      "-Simpler and cheap, no entities. (distributes by creating breaks in the instant dropper line every 200gts)",
+      "-On/Off switch and distribution is spam resistant (not spam proof)",
+      "-Fully lockable while keeping all furnaces accessible from the outside of the array",
+      "-Requires much less prefill since the fuel inputs share a dropper line",
+      "-Includes a low fuel Indicator"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388318507229249557",
-    "attachmentMessageId": "1388179534259687617",
-    "uploadMessageId": "1388179523807219864"
-  }
+    "considerations": [
+      "Manual on/off"
+    ],
+    "notes": ""
+  },
+  "timestamp": 1750738111030
 }

@@ -92,26 +92,18 @@
       "path": "attachments/US002_potion_filter_global_clock_v2.litematic"
     }
   ],
-  "description": "Sorts potions by their potion contents using comparator update detectors. Works by trying to brew a potion with a set ingredient.",
-  "features": [
-    "Hopperspeed and 2 wide (not tileable).",
-    "Consumes 1 blaze powder every 20 sorted potions.",
-    "Includes V2 which is smaller but is globally clocked (pulse 2 tick repeater)"
-  ],
-  "considerations": [
-    "Not tileable",
-    "Cannot differentiate between all potion types"
-  ],
-  "notes": "Put an ingredient item in the brewer to set what type(s) you want to filter. It's not consumed during filtering. [Showcase Video](https://www.youtube.com/watch?v=0b2GOj19gPY)",
-  "timestamp": 1750973599550,
-  "post": {
-    "forumId": "1375564342392786944",
-    "threadId": "1388317923575337011",
-    "continuingMessageIds": [
-      "1388317927870300271"
+  "records": {
+    "description": "Sorts potions by their potion contents using comparator update detectors. Works by trying to brew a potion with a set ingredient.",
+    "features": [
+      "Hopperspeed and 2 wide (not tileable).",
+      "Consumes 1 blaze powder every 20 sorted potions.",
+      "Includes V2 which is smaller but is globally clocked (pulse 2 tick repeater)"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388317923575337011",
-    "attachmentMessageId": "1388178817557991587",
-    "uploadMessageId": "1388178810326749307"
-  }
+    "considerations": [
+      "Not tileable",
+      "Cannot differentiate between all potion types"
+    ],
+    "notes": "Put an ingredient item in the brewer to set what type(s) you want to filter. It's not consumed during filtering. [Showcase Video](https://www.youtube.com/watch?v=0b2GOj19gPY)"
+  },
+  "timestamp": 1750973599550
 }

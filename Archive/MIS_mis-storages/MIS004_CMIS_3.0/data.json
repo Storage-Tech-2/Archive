@@ -65,28 +65,20 @@
       "path": "attachments/MIS004_CMIS-V32.litematic"
     }
   ],
-  "description": "CMIS 3.0 is a complete storage system designed for single player or small server use, to sort and store almost every item in 1.20+ within a reasonably compact user interface. The system utilizes a combination of Variable Sorting and Encoded Storage, as well as Shulker Box Sorters for additional local \"pseudoBulk\" storage of up to 80 different item types. Auto and Manual Restocking logic is included for the (up to) 62 different BULK item types, with parallelized MIS sorting for greater efficiency.",
-  "features": [
-    "-Variable Sorting, using Splitters, Whitelisters, Groupers and Mergers",
-    "-Encoded Bulk Storage",
-    "-Restocking built-in",
-    "-Simple UI",
-    "-Remote Bulk (place those laggy hoppers far away from main base!)"
-  ],
-  "considerations": [
-    "-Bulk items will \"buffer\" up to a full box in the sorting system before sending to storage.",
-    "-No first box placement (please see helper doc for recommended usage)"
-  ],
-  "notes": "Sourced Components: \nMost Variable Components created by JayRoi, but modified by me for this application\nRemote Bulk Storage assembled by JayRoi (Others' components, but assembled for me by JayRoi)\nMIS 4.2 by DatNerd, RaPsCaLLioN1138, and metamilo \nMIS 4.2 Item Gate by Walter \nShulker Box Sorter by acaciachan\nUnstackable Sorter by 77\nShulker Based Chunk Loader by: Kahyxen \nToo many more to fully list out here.\n\nPlease read through the Helper Doc for notes and recommended usage guide. It should help answer questions you may have: https://docs.google.com/document/d/1DmgJ8bP_PfPDhblRkjGzzps4gjStQry--KjlQabvRXk/edit#heading=h.om2co7r3xq9n",
-  "timestamp": 1750968933595,
-  "post": {
-    "forumId": "1375566804910604349",
-    "threadId": "1388318106086015129",
-    "continuingMessageIds": [
-      "1388318111874420772"
+  "records": {
+    "description": "CMIS 3.0 is a complete storage system designed for single player or small server use, to sort and store almost every item in 1.20+ within a reasonably compact user interface. The system utilizes a combination of Variable Sorting and Encoded Storage, as well as Shulker Box Sorters for additional local \"pseudoBulk\" storage of up to 80 different item types. Auto and Manual Restocking logic is included for the (up to) 62 different BULK item types, with parallelized MIS sorting for greater efficiency.",
+    "features": [
+      "-Variable Sorting, using Splitters, Whitelisters, Groupers and Mergers",
+      "-Encoded Bulk Storage",
+      "-Restocking built-in",
+      "-Simple UI",
+      "-Remote Bulk (place those laggy hoppers far away from main base!)"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388318106086015129",
-    "attachmentMessageId": "1388179058046795778",
-    "uploadMessageId": "1388179048999686214"
-  }
+    "considerations": [
+      "-Bulk items will \"buffer\" up to a full box in the sorting system before sending to storage.",
+      "-No first box placement (please see helper doc for recommended usage)"
+    ],
+    "notes": "Sourced Components: \nMost Variable Components created by JayRoi, but modified by me for this application\nRemote Bulk Storage assembled by JayRoi (Others' components, but assembled for me by JayRoi)\nMIS 4.2 by DatNerd, RaPsCaLLioN1138, and metamilo \nMIS 4.2 Item Gate by Walter \nShulker Box Sorter by acaciachan\nUnstackable Sorter by 77\nShulker Based Chunk Loader by: Kahyxen \nToo many more to fully list out here.\n\nPlease read through the Helper Doc for notes and recommended usage guide. It should help answer questions you may have: https://docs.google.com/document/d/1DmgJ8bP_PfPDhblRkjGzzps4gjStQry--KjlQabvRXk/edit#heading=h.om2co7r3xq9n"
+  },
+  "timestamp": 1750968933595
 }

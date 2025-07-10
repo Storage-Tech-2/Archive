@@ -90,24 +90,17 @@
       "path": "attachments/CH007_acaciachan_32_Hopper_FHL_10_Chest_Hall.litematic"
     }
   ],
-  "description": "10 chest per slice hall using CommandLeo's 10 chest hall layout.",
-  "features": [
-    "SS2 signal strength isolated (SSI) filters",
-    "Includes two variants: 32 hopper version with push filter, 36 hopper version with dropper elevator",
-    "4 is 10gt filters on slice B, other filters 8gt or less",
-    "Locking lines can be toggled without affecting other filters",
-    "CommanLeo's 10 chest hall UI layout"
-  ],
-  "considerations": [],
-  "notes": "",
-  "timestamp": 1751289629002,
-  "post": {
-    "threadId": "1388572747545972848",
-    "forumId": "1375561810392125510",
-    "continuingMessageIds": [
-      "1388572752566288504"
+  "records": {
+    "description": "10 chest per slice hall using CommandLeo's 10 chest hall layout.",
+    "features": [
+      "SS2 signal strength isolated (SSI) filters",
+      "Includes two variants: 32 hopper version with push filter, 36 hopper version with dropper elevator",
+      "4 is 10gt filters on slice B, other filters 8gt or less",
+      "Locking lines can be toggled without affecting other filters",
+      "CommanLeo's 10 chest hall UI layout"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388572747545972848",
-    "uploadMessageId": "1388572744890978335"
-  }
+    "considerations": [],
+    "notes": ""
+  },
+  "timestamp": 1751289629002
 }

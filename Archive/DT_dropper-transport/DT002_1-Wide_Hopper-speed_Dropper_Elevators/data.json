@@ -83,19 +83,11 @@
       "path": "attachments/DT002_1_Wide_Hopper_Speed_Dropper_Elevators.litematic"
     }
   ],
-  "description": "Collection of various different dropper item elevators. All these designs transfer items at hopper speed (8gt), are lossless and non-directional, exept for D1/2.",
-  "features": [],
-  "considerations": [],
-  "notes": "A3 by @rapscallion1138\nB2 by Minestop\nD1/2 by @andrews54757 \ncompiled by @walter7381 \n\n-  D1/2 (Green) is non tillable but transfers items instantly and is silent. Doesn't work when rails are facing towards the positive X direction (east) .\n-  \"Unstackables noisy\" mean that the design is normally silent however, unstackable items may cause clicking noises in adjacent slices.\n-  C1 is 1.13+ and is very noisy\n- All design not labelled silent have clicking along the tower after items are done passing through, otherwise they are silent. (Excluding C1)",
-  "timestamp": 1751162353341,
-  "post": {
-    "forumId": "1375563020478058557",
-    "threadId": "1388317501406056528",
-    "continuingMessageIds": [
-      "1388317504111247481"
-    ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388317501406056528",
-    "attachmentMessageId": "1388178487420129350",
-    "uploadMessageId": "1388178478112706612"
-  }
+  "records": {
+    "description": "Collection of various different dropper item elevators. All these designs transfer items at hopper speed (8gt), are lossless and non-directional, exept for D1/2.",
+    "features": [],
+    "considerations": [],
+    "notes": "A3 by @rapscallion1138\nB2 by Minestop\nD1/2 by @andrews54757 \ncompiled by @walter7381 \n\n-  D1/2 (Green) is non tillable but transfers items instantly and is silent. Doesn't work when rails are facing towards the positive X direction (east) .\n-  \"Unstackables noisy\" mean that the design is normally silent however, unstackable items may cause clicking noises in adjacent slices.\n-  C1 is 1.13+ and is very noisy\n- All design not labelled silent have clicking along the tower after items are done passing through, otherwise they are silent. (Excluding C1)"
+  },
+  "timestamp": 1751162353341
 }

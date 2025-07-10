@@ -54,28 +54,20 @@
       "path": "attachments/SS001_Stack_Separation_Sorter-Loader_v31.litematic"
     }
   ],
-  "description": "Uses stack separation to filter entire stack of items at once. Each of the 3wt modules loads sorted items into shulker boxes at 8x hopperspeed.",
-  "features": [
-    "8830 stacks/h core (up to 565k items/hr)",
-    "72k/h loaders per slice",
-    "Distributive loading functionality",
-    "Pause on slice overflow",
-    "Partial box collection"
-  ],
-  "considerations": [
-    "Doesn't include storage and unsorted handling.",
-    "Loaders can spit items"
-  ],
-  "notes": "If you want to use multiple slices to load same item type, use 'multi-slice-loading-slice', with last in line being normal 'base' slice. Additional credits: RaPsCaLLioN1138 for stacksep core, camphorwood for 3wt 8x loader.",
-  "timestamp": 1750790550638,
-  "post": {
-    "forumId": "1375568762304204912",
-    "threadId": "1388318153205088398",
-    "continuingMessageIds": [
-      "1388318156807999590"
+  "records": {
+    "description": "Uses stack separation to filter entire stack of items at once. Each of the 3wt modules loads sorted items into shulker boxes at 8x hopperspeed.",
+    "features": [
+      "8830 stacks/h core (up to 565k items/hr)",
+      "72k/h loaders per slice",
+      "Distributive loading functionality",
+      "Pause on slice overflow",
+      "Partial box collection"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388318153205088398",
-    "attachmentMessageId": "1388179118356693053",
-    "uploadMessageId": "1388179108017606727"
-  }
+    "considerations": [
+      "Doesn't include storage and unsorted handling.",
+      "Loaders can spit items"
+    ],
+    "notes": "If you want to use multiple slices to load same item type, use 'multi-slice-loading-slice', with last in line being normal 'base' slice. Additional credits: RaPsCaLLioN1138 for stacksep core, camphorwood for 3wt 8x loader."
+  },
+  "timestamp": 1750790550638
 }

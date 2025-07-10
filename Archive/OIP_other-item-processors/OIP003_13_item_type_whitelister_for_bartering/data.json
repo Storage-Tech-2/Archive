@@ -54,22 +54,14 @@
       "path": "attachments/OIP003_Bartering_13_Item_Whitelister_v1.0.2.litematic"
     }
   ],
-  "description": "High throughput whitelister. Can support 360k/hr for 6 item types (must be different item types), 144k/hr for 3 items types (these 3 slots could all be the same if you want though), and 72k/hr for 4 item types. The 6 item types are single item carts, the 3 item types are present in 2 mixed carts, the 4 item types alternate in sets of 2 between the 2 mixed carts.",
-  "features": [
-    "Very high throughput filtering selecting multiple item types",
-    "The schematic contains an item layout for bartering."
-  ],
-  "considerations": [],
-  "notes": "This specific schem hasn't been tested, but the design itself has been tested for many hours with random input, so if there is a bug there is a working version somewhere. This is intended to be paired with a redcoded array so that the 6 item types don't need filtered loaders.",
-  "timestamp": 1750998109095,
-  "post": {
-    "forumId": "1375564209882009772",
-    "threadId": "1388317906194141234",
-    "continuingMessageIds": [
-      "1388317909239070772"
+  "records": {
+    "description": "High throughput whitelister. Can support 360k/hr for 6 item types (must be different item types), 144k/hr for 3 items types (these 3 slots could all be the same if you want though), and 72k/hr for 4 item types. The 6 item types are single item carts, the 3 item types are present in 2 mixed carts, the 4 item types alternate in sets of 2 between the 2 mixed carts.",
+    "features": [
+      "Very high throughput filtering selecting multiple item types",
+      "The schematic contains an item layout for bartering."
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388317906194141234",
-    "attachmentMessageId": "1388178788638130258",
-    "uploadMessageId": "1388178781839036598"
-  }
+    "considerations": [],
+    "notes": "This specific schem hasn't been tested, but the design itself has been tested for many hours with random input, so if there is a bug there is a working version somewhere. This is intended to be paired with a redcoded array so that the 6 item types don't need filtered loaders."
+  },
+  "timestamp": 1750998109095
 }

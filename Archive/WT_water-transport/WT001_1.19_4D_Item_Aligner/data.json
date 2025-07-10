@@ -61,23 +61,15 @@
       "path": "attachments/WT001_119_4D_Aligner.litematic"
     }
   ],
-  "description": "A simple setup that reliably aligns the output of a dropper in the 3 dimensions and time, allowing for a predictable position and motion of the items. Schematic includes some example wiring possibilities.",
-  "features": [
-    "Pistonless",
-    "4gt clockable",
-    "4 gt clockable without item merging"
-  ],
-  "considerations": [],
-  "notes": "The waterlogged stairs can be any water source block and the leaves can be any block that redirects water without creating a source.",
-  "timestamp": 1750626047771,
-  "post": {
-    "forumId": "1375563169904459846",
-    "threadId": "1388317540870131842",
-    "continuingMessageIds": [
-      "1388317543491702905"
+  "records": {
+    "description": "A simple setup that reliably aligns the output of a dropper in the 3 dimensions and time, allowing for a predictable position and motion of the items. Schematic includes some example wiring possibilities.",
+    "features": [
+      "Pistonless",
+      "4gt clockable",
+      "4 gt clockable without item merging"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388317540870131842",
-    "attachmentMessageId": "1388178541300023317",
-    "uploadMessageId": "1388178534861897860"
-  }
+    "considerations": [],
+    "notes": "The waterlogged stairs can be any water source block and the leaves can be any block that redirects water without creating a source."
+  },
+  "timestamp": 1750626047771
 }

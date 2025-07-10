@@ -67,21 +67,14 @@
       "path": "attachments/TG001_Hermitems_S8_1.21.4.litematic"
     }
   ],
-  "description": "Hermitcraft Season 8 player's items for testing main storages. Use this item set as a standard testing suite for mixed box processing.",
-  "features": [
-    "Grouped by player in barrels of shulker boxes, preserving original chest contents",
-    "In total 1.57mil items and 2031 shulkers"
-  ],
-  "considerations": [],
-  "notes": "A spreadsheet with per-player stats is available [here](https://docs.google.com/spreadsheets/d/19sWI78msXHRVCwSgc6w5sglSjWgeYYLOBmrBY4cUgu4/edit?usp=sharing)",
-  "timestamp": 1751164937546,
-  "post": {
-    "threadId": "1388626280060158094",
-    "forumId": "1388599778941861898",
-    "continuingMessageIds": [
-      "1388626283327389727"
+  "records": {
+    "description": "Hermitcraft Season 8 player's items for testing main storages. Use this item set as a standard testing suite for mixed box processing.",
+    "features": [
+      "Grouped by player in barrels of shulker boxes, preserving original chest contents",
+      "In total 1.57mil items and 2031 shulkers"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388626280060158094",
-    "uploadMessageId": "1388711145040248863"
-  }
+    "considerations": [],
+    "notes": "A spreadsheet with per-player stats is available [here](https://docs.google.com/spreadsheets/d/19sWI78msXHRVCwSgc6w5sglSjWgeYYLOBmrBY4cUgu4/edit?usp=sharing)"
+  },
+  "timestamp": 1751164937546
 }

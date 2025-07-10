@@ -62,24 +62,16 @@
       "path": "attachments/FBS001_comparerer.litematic"
     }
   ],
-  "description": "Given two boxes, compares the fill level of the two boxes and outputs the more-full box first. Useful for optimizing pairs for a merger.",
-  "features": [
-    "Only 3 hoppers used",
-    "2 blocks high"
-  ],
-  "considerations": [
-    "External clock signal required"
-  ],
-  "notes": "The noteblock is the clock input. Send pulse there after putting two boxes into the input.",
-  "timestamp": 1750619211970,
-  "post": {
-    "forumId": "1375559651579527208",
-    "threadId": "1388316891721764885",
-    "continuingMessageIds": [
-      "1388316895991697502"
+  "records": {
+    "description": "Given two boxes, compares the fill level of the two boxes and outputs the more-full box first. Useful for optimizing pairs for a merger.",
+    "features": [
+      "Only 3 hoppers used",
+      "2 blocks high"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388316891721764885",
-    "attachmentMessageId": "1388177707602542730",
-    "uploadMessageId": "1388177700623224872"
-  }
+    "considerations": [
+      "External clock signal required"
+    ],
+    "notes": "The noteblock is the clock input. Send pulse there after putting two boxes into the input."
+  },
+  "timestamp": 1750619211970
 }
