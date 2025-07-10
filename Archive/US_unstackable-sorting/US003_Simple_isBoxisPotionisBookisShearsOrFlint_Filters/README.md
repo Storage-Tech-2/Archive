@@ -8,10 +8,10 @@
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317944609636402)
 
 These filters can accept any unstackable item as input and depending on the inventory block check if they are either a box, a potion, a book, or are shears/flint at hopperspeed.
-
 ## Features
 - Very simple hopperspeed design
 - Can accept any obtainable unstackable item as input
+## Considerations
 
 ## Notes
 The isShearsOrFlint filter uses a dispenser. Be careful not to input stackable TNT by accident.

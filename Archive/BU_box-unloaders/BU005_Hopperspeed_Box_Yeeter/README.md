@@ -10,14 +10,13 @@
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1392582594712961237)
 
 Destroys shulker box item entities with lava to unload its contents at hopperspeed.
-
 ## Features
 - Dustless
 - No piston toggle states
 - 2 wide tileable
-
 ## Considerations
 - Destroys shulker boxes
+## Notes
 
 ## Resources
 - [BU005_figi_hopperspeed_box_yeeter_1.17.1.litematic](attachments/BU005_figi_hopperspeed_box_yeeter_1.17.1.litematic): MC 1.17.1, Size 3x6x6 blocks

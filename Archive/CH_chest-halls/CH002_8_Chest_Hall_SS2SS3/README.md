@@ -10,7 +10,6 @@
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317417385758770)
 
 100% locked, 8 items per slice chest hall design with block displays.
-
 ## Features
 - 22 hoppers | 1e-12 s
 - 8 items per slice
@@ -18,6 +17,9 @@
 - no prefilling required
 - all filters are 8gt
 - all display blocks can be solid
+## Considerations
+
+## Notes
 
 ## Other Images
 <img src="images/PyraLeft_SS3_Hall.png?raw=1" height="300px">

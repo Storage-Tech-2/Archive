@@ -10,15 +10,12 @@
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318379789516932)
 
 Assigns a filter item depending on the leading item type of the first box. Subsequent boxes are checked and separated based on whether they contain the assigned item. Deassigns when out of boxes, or manually.
-
 ## Features
 - Works at 8gt
 - No renamed filter items needed, unstackables work fine
 - Relatively small footprint (5x4x6).
-
 ## Considerations
 - Can't handle empty boxes
-
 ## Notes
 The schematic contains two versions: One that deassigns automatically and manually. Inspired by https://discord.com/channels/748542142347083868/749136504558714982/1315103045763207248
 

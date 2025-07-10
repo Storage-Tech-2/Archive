@@ -10,14 +10,11 @@
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1392582417025597580)
 
 Simple hopperspeed box unloader. Toggle-less variant included.
-
 ## Features
 - Small design
 - Can handle empty boxes
-
 ## Considerations
 - Box collection is not 100% reliable if tiled because box item can be collected by adjacent slice, must be A/B tiled.
-
 ## Notes
 [Showcase Video](https://www.youtube.com/watch?v=Vp17vDuMHAQ)
 

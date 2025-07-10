@@ -10,15 +10,12 @@
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1391829514333720638)
 
 Crafts filtered items. Works with 2-9 slot crafts. Can be adapted to be 1 slot. 1 slot and hopper locked variations are in the thread.
-
 ## Features
 - Compact
 - SS2
-
 ## Considerations
 - Expensive
 - AB tileable
-
 ## Notes
 The lower filter hopper must be configured with output signal strength 1 when read from the comparator. This comparator subtracts from the comparator reading the top filter hopper to make the filter circuit smaller.
 

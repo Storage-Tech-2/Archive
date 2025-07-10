@@ -10,18 +10,15 @@
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318153205088398)
 
 Uses stack separation to filter entire stack of items at once. Each of the 3wt modules loads sorted items into shulker boxes at 8x hopperspeed.
-
 ## Features
 - 8830 stacks/h core (up to 565k items/hr)
 - 72k/h loaders per slice
 - Distributive loading functionality
 - Pause on slice overflow
 - Partial box collection
-
 ## Considerations
 - Doesn't include storage and unsorted handling.
 - Loaders can spit items
-
 ## Notes
 If you want to use multiple slices to load same item type, use 'multi-slice-loading-slice', with last in line being normal 'base' slice. Additional credits: RaPsCaLLioN1138 for stacksep core, camphorwood for 3wt 8x loader.
 

@@ -10,7 +10,6 @@
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388551652319039702)
 
 10 item chest hall with a unique square user interface design.
-
 ## Features
 - 43 hopppers per slice and full hopperlocking even when filters are overflowing.
 - 3 10gt filters per side, the rest is 8gt or less.
@@ -18,10 +17,8 @@
 - No prefilling.
 - All filters are accessible with the scaffolding.
 - At least a barrel of extra capacity for every chest.
-
 ## Considerations
 - The 3 10gt filters may require input batching
-
 ## Notes
 Schematic includes subregions for locking switches and chest hall.
 

@@ -10,7 +10,6 @@
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318282913943653)
 
 This system aims to accelerate the sorting speed of your main storage by unloading multiple items simultaneously whilst ensuring every item type isn't unloaded faster than what a single filter can handle. Hopper carts are used as a way to quickly pick up full stacks of items and unloading them via cart yeeting. To use drop any items on the input pressure plate and connect your filters to the output. Due to the nature of the system, filters that are compatible with it are: ss2 ssi filters (excluding push filters) and overstacked filters.
-
 ## Features
 - Up to x64 hopper speed (576k items/hour)
 - Small footprint (12x12x12 blocks)
@@ -19,12 +18,10 @@ This system aims to accelerate the sorting speed of your main storage by unloadi
 - Bufferless (any single item will be instantly dropped into the output, same for unmapped items)
 - 4d aligned output
 - ~88% hopper locked (30/33 hoppers)
-
 ## Considerations
 - Entity lag
 - Can't be rotated (curved rail redirection is used)
 - Any stacked unstackables (StackableShulkerBoxes included) inputted will not be sorted correctly and one item of every stack would despawn.
-
 ## Notes
 Use the north direction sub schem, the others might be forked. Explanation of device in thread.
 

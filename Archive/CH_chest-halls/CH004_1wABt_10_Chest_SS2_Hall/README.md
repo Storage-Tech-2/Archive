@@ -10,7 +10,6 @@
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317459878252595)
 
 10 chests per slice chest hall design with SS2 filters.
-
 ## Features
 - 32 hoppers | 100% locked
 - 10 items/slice.
@@ -19,6 +18,9 @@
 - No prefilling needed.
 - No dropper elevators.
 - Every filter hopper is accessible thanks to the scaffolding (optional).
+## Considerations
+
+## Notes
 
 ## Resources
 - [CH004_SamosTheSage_10_Chest_SSI_Hall.litematic](attachments/CH004_SamosTheSage_10_Chest_SSI_Hall.litematic): MC 1.19.2, Size 33x18x3 blocks

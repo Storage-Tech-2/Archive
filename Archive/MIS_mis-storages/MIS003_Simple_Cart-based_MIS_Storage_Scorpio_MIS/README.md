@@ -10,20 +10,17 @@
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1390326056405434429)
 
 A simple and cheap early game storage system using hopper minecart multi-item sorter (MIS). This design has minimal waterlogged blocks and cursed rail placements
-
 ## Features
 - Cheap and easy to build, optimized for build simplicity
 - Has every items prefilled in whitelister chests for reference
 - Somewhat decent speed (2.4x hopper speed at max) compared to other early game storage systems like https://discord.com/channels/1161803566265143306/1378802569585098823
 - Hopper cart sucks 4 shears and 15 items every 50gt (which makes it handle both 16 and 64 stackable items)
 - Has both loose item input and a box unloader for box input
-
 ## Considerations
 - Not hopper locked
 - No unstackable sorting
 - No bulk storage
 - Slower than designs like <#1382996113191206932>
-
 ## Notes
 - Decorated version: includes a mixed box loader for overflow items, a switch and a chunk loading indicator light
 - Accessible whitelister version: includes a restock station, a switch and a chunk loading indicator light

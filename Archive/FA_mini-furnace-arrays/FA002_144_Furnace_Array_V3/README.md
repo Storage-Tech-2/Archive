@@ -10,7 +10,6 @@
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318526149886072)
 
 144 Furnace array that provides and input and output of shulker boxes in a relatively small form factor. It Provides two modes, Full send mode which is useful for a lot of boxes with the same item type that needs to be smelted. The second mode is a box preservation mode that maintains the content of the shulker box if you are doing boxes with separate item types(this one is roughly ~25% slower assuming full boxes)
-
 ## Features
 - 10x12x46
 - Fully hopperlocked (458 total hoppers)
@@ -18,7 +17,6 @@
 - max Speed of just below 6x Hopper speed
 - Togglestate-less
 - Protection against running out of fuel(Reads extra boxes)
-
 ## Considerations
 - A few flashing dust
 - Single Minecart Entity
@@ -26,7 +24,6 @@
 - Rail placements are kinda sus
 - Chunk loading line briefly turns off on box preservation mode(for like 3 seconds between item types)
 - There is no protection against switching between modes when going through the pause sequence and then resuming
-
 ## Notes
 - The Array only supports fuel that can burn 8 or more items(coal, charcoal, blaze rods)
 - Schematic was taken and the system was tested in 1.19.4

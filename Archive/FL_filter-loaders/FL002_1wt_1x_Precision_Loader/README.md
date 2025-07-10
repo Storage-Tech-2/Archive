@@ -10,7 +10,6 @@
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388316649903624192)
 
 Filters and loads items into boxes at hopperspeed.  Slice preserving box breaking mechanism ensures that no box items land in adjacent slices.
-
 ## Features
 - 1-wide tileable
 - Small size (7x9 for the SS3 version)
@@ -18,6 +17,7 @@ Filters and loads items into boxes at hopperspeed.  Slice preserving box breakin
 - No toggle states
 - No buffered boxes
 - Signal strength 1 and signal strength 2 filter variants available.
+## Considerations
 
 ## Notes
 - Replace glass with solid blocks and remove the composters in 1.13 and below

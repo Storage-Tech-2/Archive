@@ -10,17 +10,14 @@
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1391808083189170357)
 
 Box display that places the 1st box when you click the noteblock, reducing size and manual effort.
-
 ## Features
 - Fully hopper locked, minimum hoppers
 - Fast replacement with clean animation
 - Easy and compact 1st box placement by clicking the noteblock
-
 ## Considerations
 - Honey and slime
 - Noteblock may need 2 clicks to place the 1st box
 - Boxes are buffered in the accessible dropper/hopper
-
 ## Notes
 Box collection isn't 100% reliable in the schematic but can be made reliable with this layout without hopperlocking the collection hoppers.
 

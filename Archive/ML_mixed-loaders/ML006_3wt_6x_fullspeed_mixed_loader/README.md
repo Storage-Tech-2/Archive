@@ -23,4 +23,4 @@ This loader design features mixed item loading at full 6x hopperspeed (54k items
 
 ## Resources
 - [ML006_3wt_6x_fullspeed_mixed.litematic](attachments/ML006_3wt_6x_fullspeed_mixed.litematic): MC 1.21.5, Size 6x6x3 blocks
-- [ML006_3wt_6x_fullspeed_mixed_wdl.zip](attachments/ML006_3wt_6x_fullspeed_mixed_wdl.zip): application/zip
+- [ML006_3wt_6x_fullspeed_mixed_wdl.zip](attachments/ML006_3wt_6x_fullspeed_mixed_wdl.zip): MC 1.21.5

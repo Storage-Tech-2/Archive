@@ -10,15 +10,14 @@
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388330669297631393)
 
 Tiny hopperspeed box unloaders without using toggle states.
-
 ## Features
 - Empty box handling variant and fast box replacement variant included
 - Automatic first box placement
 - Super small size
 - Togglestateless
-
 ## Considerations
 - Very rare chance of box ending up in item output if adjacent slices are broken simultaneously. Tile every two blocks to avoid this issue.
+## Notes
 
 ## Other Images
 <img src="images/area_render_4.png?raw=1" height="300px">

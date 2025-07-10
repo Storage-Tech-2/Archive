@@ -10,18 +10,15 @@
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318106086015129)
 
 CMIS 3.0 is a complete storage system designed for single player or small server use, to sort and store almost every item in 1.20+ within a reasonably compact user interface. The system utilizes a combination of Variable Sorting and Encoded Storage, as well as Shulker Box Sorters for additional local "pseudoBulk" storage of up to 80 different item types. Auto and Manual Restocking logic is included for the (up to) 62 different BULK item types, with parallelized MIS sorting for greater efficiency.
-
 ## Features
 - -Variable Sorting, using Splitters, Whitelisters, Groupers and Mergers
 - -Encoded Bulk Storage
 - -Restocking built-in
 - -Simple UI
 - -Remote Bulk (place those laggy hoppers far away from main base!)
-
 ## Considerations
 - -Bulk items will "buffer" up to a full box in the sorting system before sending to storage.
 - -No first box placement (please see helper doc for recommended usage)
-
 ## Notes
 Sourced Components: 
 Most Variable Components created by JayRoi, but modified by me for this application

@@ -74,7 +74,10 @@
       "url": "https://cdn.discordapp.com/attachments/1389197974826913814/1389259138512715787/3wt_6x_fullspeed_mixed_wdl.zip?ex=6863f7e5&is=6862a665&hm=8ceffb2655f16d6c1ea933336583ed08402e9c818d8785c75ee250c6c9d9101c&",
       "description": "Sent by camphorwood at 6/30/2025, 10:59:50 AM",
       "canDownload": true,
-      "path": "attachments/ML006_3wt_6x_fullspeed_mixed_wdl.zip"
+      "path": "attachments/ML006_3wt_6x_fullspeed_mixed_wdl.zip",
+      "wdl": {
+        "version": "1.21.5"
+      }
     }
   ],
   "records": {

@@ -10,7 +10,6 @@
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318003216781562)
 
 Item bulk with box display capable of storing 1.4 million items per half slice.
-
 ## Features
 - 100% hopperlocked
 - 1.4 million items per half slice
@@ -25,10 +24,8 @@ Item bulk with box display capable of storing 1.4 million items per half slice.
 - Reliable with random input
 - Dropperline U-Turn only triggers and unlocks the side's hoppers when necessary
 - Recombination for unsorted boxes triggers only when needed
-
 ## Considerations
 - Fails if only one item is inside an inputted box
-
 ## Notes
 Box sorter slice by @acaciachan . Keygen by @pfeffabeissa and @walter7381
 

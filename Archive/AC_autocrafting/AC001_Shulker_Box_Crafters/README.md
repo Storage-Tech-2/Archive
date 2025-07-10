@@ -10,10 +10,10 @@
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318423427059806)
 
 Crafts empty boxes from wood logs and shulker shells at 16gt speed.
-
 ## Features
 - Built-in box unloader: Input boxes of logs and shells.
 - Colored box variants included made by EthanMik. [Setup Video](https://youtu.be/llxf7ab16gw)
+## Considerations
 
 ## Notes
 Recommended startup process:

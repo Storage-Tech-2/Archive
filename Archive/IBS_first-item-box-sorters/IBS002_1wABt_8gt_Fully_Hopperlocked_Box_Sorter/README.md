@@ -10,7 +10,6 @@
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388316872188891187)
 
 Sorts boxes by their first item's type at hopper speed. Works by taking the first item out of the box, and recombining the box with the item in the assigned slice.
-
 ## Features
 - 1wABt slices, ABC tileable locking lines
 - Very small: 6x7 (excluding the hopperlocking and the overflow)
@@ -20,6 +19,7 @@ Sorts boxes by their first item's type at hopper speed. Works by taking the firs
 - No buffered boxes
 - Multi shulker box sorting support
 - Repeaters in the upper dropper line can be replaced with observers
+## Considerations
 
 ## Notes
 - Both schematics are functionally identical, the 1.16 slices are smaller because of the use of target blocks for the global locking.

@@ -10,16 +10,13 @@
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388927809933676635)
 
 Designed for quad bulks with more available space under the top display.
-
 ## Features
 - Nice top UI
 - Locally locked minimum hopper locking
 - Global first box placement
-
 ## Considerations
 - Requires more space under the display compared to https://discord.com/channels/748542142347083868/749137152192806954/1085199265992802485
 - Initial placement has many piston actions
-
 ## Notes
 - Older versions may need more than two slices in order to avoid toggling the sticky during the initial place.
 

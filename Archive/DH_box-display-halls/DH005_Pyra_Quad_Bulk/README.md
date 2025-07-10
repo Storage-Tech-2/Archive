@@ -10,7 +10,6 @@
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318028197789766)
 
 Quad bulk hall design has 4 box displays per slice and 4 box sorters.
-
 ## Features
 - FHL
 - Sticks 2 blocks from both sides
@@ -19,9 +18,9 @@ Quad bulk hall design has 4 box displays per slice and 4 box sorters.
 - Global box placement
 - Slice capacity: Top: 1.564 mil Top: 1.594 mil
 - Size for 16 slices: 35x39x20
-
 ## Considerations
 - Lot of inventory prefilling
+## Notes
 
 ## Other Images
 <img src="images/area_render_80_.png?raw=1" height="300px">

@@ -10,7 +10,6 @@
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1389244896870797333)
 
 A fairly large storage system that utilizes a parallel unloading array allowing the system to unload at a max of 8x hopper speed.
-
 ## Features
 - ~90% Hopperlocked
 - Has various peripherals: restock stations, furnace array, crafting station, and yeeting station, masscrafter, brewer, and unstackable sorter
@@ -18,10 +17,8 @@ A fairly large storage system that utilizes a parallel unloading array allowing 
 - Has a big bulk with capacity for ~1.3m / item.
 - Has 1 DC capacity chest halls with SS2 filters.
 - Uses MIS 5.1
-
 ## Considerations
 - This system requires you to have Carpet's `stackableShulkerBoxes` rule enabled and subsequently Kikugie's StackableShulkerFix.
-
 ## Notes
 Tested for ~400k items without issues
 

@@ -9,18 +9,15 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388316751061581936)
 
-Loads single or mixed item types into shulker boxes at 8x hopper speed (approximately 72k/hr). 
-
+Loads single or mixed item types into shulker boxes at 8x hopper speed (approximately 72k/hr).
 ## Features
 - Small (7x7x3)
 - No item spitting with random input
 - Locally clocked
 - Ejects boxes as items without buffer
-
 ## Considerations
 - Only 2/3 blocks in the item stream are ice making it not that Nether friendly
 - Can buffer items inside the droppers
-
 ## Notes
 For Minecraft 1.13 compatibility, use droppers instead of composters.
 

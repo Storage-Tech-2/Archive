@@ -12,12 +12,14 @@
 A small box loader in which the box can be opened while being loaded. Adding 2 hoppers can make the box loader 2x speed, but the box will no longer be accessible.
 
 Included are also versions that have built in box crafters instead of empty box supply
-
 ## Features
 - smaller size than any box loader
 - box opened while loading
 - adding 2 hoppers can make box loader 2x speed
 - box will no longer accessible if 2 hoppers added
+## Considerations
+
+## Notes
 
 ## Other Images
 <img src="images/Scorpio_-_2x_Box_Loader.png?raw=1">

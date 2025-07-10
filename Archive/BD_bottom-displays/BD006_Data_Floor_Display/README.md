@@ -10,16 +10,13 @@
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317284279390339)
 
 A tiny floor display which is great for quad bulks.
-
 ## Features
 - Local first box placement
 - Default extended
 - Collectionless
 - 1 hopper, locked when a box is displayed
-
 ## Considerations
 - Will eventually buffer boxes in the hopper and dispenser.
-
 ## Notes
 This design is 1.16 due to the comparator on the piston
 

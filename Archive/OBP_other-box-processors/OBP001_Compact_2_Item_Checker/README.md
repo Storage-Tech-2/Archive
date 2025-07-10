@@ -10,12 +10,12 @@
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317479805259918)
 
 Device filters shulker boxes with at least 2 stackable items of the same type. Useful for set-based processing where an extra item is needed to configure an item set.
-
 ## Features
 - 1 box every 36gt throughput
 - Small size (4x5x5)
 - Works with random input
 - Can be fully hopperlocked
+## Considerations
 
 ## Notes
 isBoxEmpty and isItemUnstackable signal outputs for additional processing (box routing is left to the discretion of the user)

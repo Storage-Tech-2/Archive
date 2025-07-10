@@ -10,15 +10,12 @@
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388316626327175210)
 
 Filters then loads items into boxes at 4x hopperspeed. Only requires prefilling a single hopper under each filter with a stack of the sorted item. Uses 2x filters that sync with hopper cooldown better than most high speed loaders. Two versions using different filters are provided: SS3 (2wABt) and SSI.
-
 ## Features
 - No item spitting with random input
 - Relatively small footprint (SS3: 6x9x2; SSI: 7x10x2)
 - Minimal prefilling needed when setting up, only 64+1 of the desired item. Prefill [like so](https://discord.com/channels/748542142347083868/869352287708012634/869591141065039962).
-
 ## Considerations
 - An empty box needs to be put into the dispenser when first setting up
-
 ## Notes
 You can find a different design suited for larger quantities of items in the thread.
 

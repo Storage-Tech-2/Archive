@@ -10,12 +10,12 @@
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317982387601458)
 
 Re-locking is proceeded through updating BUDed pistons with a rail line, which is lag efficient. Nice default extended falling block box displays allows for a good UI with flat floor and shulkers being 3 blocks below the chests.
-
 ## Features
 - Fully locked when idle
 - 1.8 million capacity per item
 - U-turn triggering and unlocking only when necessary
 - Nice UI with default extended display
+## Considerations
 
 ## Notes
 Additional credits:

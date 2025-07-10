@@ -10,7 +10,6 @@
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1390321702365302926)
 
 A beginner to intermediate cart-based MIS storage. Fast speed, minimum prefill, minimum lag, and beginner-friendly.
-
 ## Features
 - max speed 9.7x HS, operating at 6.5x HS on average
 - smart input with lock feature and isBox check
@@ -20,14 +19,12 @@ A beginner to intermediate cart-based MIS storage. Fast speed, minimum prefill, 
 - accessible and easily configurable whitelisters
 - build simplicity and small amount of prefill
 - safety features such as blocker missing alarm and emergency stop
-
 ## Considerations
 - no hopperlocking
 - no bulk storage
 - no unstackable sorter
 - input box breaking not 100% precise
 - there is one inaccessible chest for buffer per slice
-
 ## Notes
 - need chunk alignment
 - 1.20.4+. Box displays input are broken in older versions.

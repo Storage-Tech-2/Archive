@@ -10,17 +10,14 @@
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318048372658316)
 
 4 box displays per slice design with Quad bulk, Box sorters use a special whitelisting keygen, Whitelister uses cart yeeting, hence 1.19+, 216 item types (can be reduced), FHL
-
 ## Features
 - Quad bulk
 - Box sorters use a special whitelisting keygen
 - Whitelister uses cart yeeting, hence 1.19+
 - 216 item types (can be reduced)
 - Fully hopperlocked
-
 ## Considerations
 - Top displays can break if activated rapidly, make sure global box placement is triggered only after sorting is completed.
-
 ## Notes
 [Showcase video](https://www.youtube.com/watch?v=i24AdqmGXLI) (!important)
 - Top display designed by @Jayroi

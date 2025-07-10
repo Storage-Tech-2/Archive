@@ -10,10 +10,12 @@
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388565121130823800)
 
 Separates boxes by fill level into empty, partial, and full boxes at hopper speed using only one hopper.
-
 ## Features
 - Hopperspeed box processing
 - Uses only one hopper
+## Considerations
+
+## Notes
 
 ## Resources
 - [FBS007_Single_Hopper_Fill_Level_Sorter.litematic](attachments/FBS007_Single_Hopper_Fill_Level_Sorter.litematic): MC 1.20.1, Size 11x4x3 blocks

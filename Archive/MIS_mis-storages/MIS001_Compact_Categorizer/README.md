@@ -10,7 +10,6 @@
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318067247026286)
 
 A simple storage system intended as a main MIS (multi-item sorter) for the typical survival Minecraft player.
-
 ## Features
 - Sorts at ~½-⅔ hopperspeed (~4500-6000/h).
 - Includes hopperlocked and chunk loading variants.
@@ -22,12 +21,10 @@ A simple storage system intended as a main MIS (multi-item sorter) for the typic
 - Resistant to unloading breakages.
 - Sturdy against misuse or malfunction.
 - Extremely lag efficient.
-
 ## Considerations
 - Lacks parallelization, which affects speed.
 - Limited sortable item types per slice.
 - No unstackable handling
-
 ## Notes
 For further questions, see [Compact Categorizer Help Thread](https://discord.com/channels/748542142347083868/1291785785707856026) on the Storage Tech Discord. [Showcase Video on Youtube](https://youtu.be/DnrAoKd8ZOc)
 

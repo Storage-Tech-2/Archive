@@ -10,12 +10,12 @@
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317037826281663)
 
 A simple non-tileable hopperspeed box unloader.
-
 ## Features
 - 3x4x4 in size
 - First box placement and empty box handling
 - No items buffered in output hopper
 - Unloads at hopperspeed unless while replacing the box
+## Considerations
 
 ## Notes
 Two schematics are provided: One with a hopper to collect the empty box and another with a waterstream set up to transport the empty boxes (4x4x4 in size).

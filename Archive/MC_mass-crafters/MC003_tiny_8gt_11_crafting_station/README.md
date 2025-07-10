@@ -10,11 +10,13 @@
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318487616684082)
 
 Small 8gt box replacement crafting station. Displays boxes for you with ingredients on the left which breaks when emptied, and a box for the results on the right which breaks when full.
-
 ## Features
 - auto first box dispense
 - automatic handling of empty boxes
 - 8gt reset on both sides
+## Considerations
+
+## Notes
 
 ## Resources
 - [MC003_tiny_8gt_11_crafting_staition_made_by_wawuli_r11.litematic](attachments/MC003_tiny_8gt_11_crafting_staition_made_by_wawuli_r11.litematic): MC 1.18.2, Size 4x5x5 blocks

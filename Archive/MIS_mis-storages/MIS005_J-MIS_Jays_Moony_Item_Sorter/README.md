@@ -10,7 +10,6 @@
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388563583658365163)
 
 A compact MIS system using MIS 5.1 and hybrid box loaders, acting as bulk (97k capacity per bulk item, with overflow protection).
-
 ## Features
 - Input full boxes and loose items in the same place
 - 896 Hoppers, 75% Hopperlocked
@@ -22,12 +21,10 @@ A compact MIS system using MIS 5.1 and hybrid box loaders, acting as bulk (97k c
 - Includes an MIS fix mode, which locks hoppers in the mis and manually buffer droppers, (video will include a tutorial).
 - Overflow and empty box detection.
 - Pause feature, USE WELL BEFORE LOGGING OFF!!!
-
 ## Considerations
 - No box sorting, all boxes input are unloaded, and if bulk, repacked into boxes.
 - Pause feature is rather slow.
 - While all automatic systems are toggle-stateless, the box-call feature has a brief couple toggle-states for compactness.
-
 ## Notes
 WDL Includes (from left to right) an unassigned build (no filters), an assigned build (with filters), and an undecorated, unfiltered build, plus the item layout and slice behind.
 

@@ -10,11 +10,13 @@
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388316911879848067)
 
 Small device that categorizes boxes by their fill levels at hopperspeed. Can function either as an isFull filter or as an isNotEmpty sorter with modification to the comparator barrel's contents.
-
 ## Features
 - Small size (3x3x4).
 - Hopperspeed (8gt; 9000 boxes/hr).
 - Works with randomly timed input.
+## Considerations
+
+## Notes
 
 ## Resources
 - [FBS003_nvertd_isfull_v2.litematic](attachments/FBS003_nvertd_isfull_v2.litematic): MC 1.17.1, Size 4x3x5 blocks
