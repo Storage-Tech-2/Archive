@@ -17,9 +17,6 @@
 - no prefilling required
 - all filters are 8gt
 - all display blocks can be solid
-## Considerations
-
-## Notes
 
 ## Other Images
 <img src="images/PyraLeft_SS3_Hall.png?raw=1" height="300px">

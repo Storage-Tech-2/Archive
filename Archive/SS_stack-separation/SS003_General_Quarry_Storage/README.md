@@ -16,8 +16,6 @@ Note that it doesn't collect all produced deepslate, only up to 8mil. You're fre
 - Comes in 3 schematics: stack separation sorter, sorter + deepslate loaders, sorter + storage.
 - Sorter and storage are configured for an average mesa quarry in 1.18+ using VDQ v2.
 - Sorter can handle a 500 wide quarry (wider as well, but that hasn't been tested).
-## Considerations
-
 ## Notes
 - Tested up to 1.20.1
 - In 1.20 it needs 2 blocks moved due to changed surface interaction logic

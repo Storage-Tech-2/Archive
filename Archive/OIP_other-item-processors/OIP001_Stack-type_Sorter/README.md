@@ -14,8 +14,6 @@ Sorts items based on their stack type at hopperspeed. Has three outputs for unst
 - Small size: 5x4x2
 - No pistons
 - 6 hoppers total
-## Considerations
-
 ## Notes
 First dropper should have 38 items in its last slot.
 

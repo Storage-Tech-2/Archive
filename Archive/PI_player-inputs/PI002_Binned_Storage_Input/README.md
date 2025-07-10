@@ -15,8 +15,6 @@ Allows players to input loose items and bulk boxes for separate processing. Incl
 - Fully hopperlocked
 - Manual loader for loose items, box won't break until items are inputted
 - Small, 5x5x7 footprint (excluding signs and floor)
-## Considerations
-
 ## Notes
 Requires an external input handler, take for example https://discord.com/channels/748542142347083868/1121057305698517093/1123390860147560609 or https://discord.com/channels/748542142347083868/748578407377272843/1191660970687348756
 

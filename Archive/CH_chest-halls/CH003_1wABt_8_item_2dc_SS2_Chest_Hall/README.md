@@ -16,9 +16,6 @@
 - SS2 filters. All no more than 8 gt
 - All the display blocks can be solid
 - Every filter hopper is accessible
-## Considerations
-
-## Notes
 
 ## Resources
 - [CH003_8_chesthall_IAMBOB.litematic](attachments/CH003_8_chesthall_IAMBOB.litematic): MC 1.18.2, Size 29x17x4 blocks

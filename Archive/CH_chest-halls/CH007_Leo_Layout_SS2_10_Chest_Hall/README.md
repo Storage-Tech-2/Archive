@@ -16,9 +16,6 @@
 - 4 is 10gt filters on slice B, other filters 8gt or less
 - Locking lines can be toggled without affecting other filters
 - CommanLeo's 10 chest hall UI layout
-## Considerations
-
-## Notes
 
 ## Other Images
 <img src="images/area_render_78_.png?raw=1" height="300px">

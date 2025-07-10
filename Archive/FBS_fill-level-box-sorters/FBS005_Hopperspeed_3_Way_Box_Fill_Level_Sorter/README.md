@@ -13,8 +13,6 @@ Separates boxes by fill level into empty, partial, and full boxes at hopperspeed
 ## Features
 - Separates empty/partial/full boxes at hopper speed
 - Compact (3x6x4), cleanly placed outputs
-## Considerations
-
 ## Notes
 Based on https://discord.com/channels/748542142347083868/749136504558714982/878250158532476928
 

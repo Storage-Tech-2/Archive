@@ -20,7 +20,6 @@ A small display without empty box collection that breaks the box only when empty
 - No empty box collection
 - When emptying adjacent slices in very quick succession, one of them may fail to replace its box
 - Buffers a box
-## Notes
 
 ## Resources
 - [BD002_collectionless_smart_display.litematic](attachments/BD002_collectionless_smart_display.litematic): MC 1.14.4, Size 6x6x2 blocks

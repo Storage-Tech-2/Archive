@@ -13,9 +13,6 @@ Loads boxes at 8x hopperspeed without pausing during box replacement. Not tested
 ## Features
 - Fullspeed loading
 - 3 wide
-## Considerations
-
-## Notes
 
 ## Resources
 - [OL001_8x_Fullspeed_Loader_v102.litematic](attachments/OL001_8x_Fullspeed_Loader_v102.litematic): MC 1.21, Size 8x8x3 blocks

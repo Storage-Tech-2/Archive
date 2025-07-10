@@ -19,8 +19,6 @@ Sorts boxes by their first item's type at hopper speed. Works by taking the firs
 - No buffered boxes
 - Multi shulker box sorting support
 - Repeaters in the upper dropper line can be replaced with observers
-## Considerations
-
 ## Notes
 - Both schematics are functionally identical, the 1.16 slices are smaller because of the use of target blocks for the global locking.
 

@@ -12,7 +12,6 @@ The top-most hopper will only suck items that have a certain item type at hopper
 - Basic designs with inventory setup guide
 ## Considerations
 - SS2 filter is not 1 wide tileable, you must A/B tile
-## Notes
 
 ## Resources
 - [IF001_basic_fixed_filters.litematic](attachments/IF001_basic_fixed_filters.litematic): MC 1.21.4, Size 1x4x12 blocks

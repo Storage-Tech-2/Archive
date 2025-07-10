@@ -18,9 +18,6 @@
 - No prefilling needed.
 - No dropper elevators.
 - Every filter hopper is accessible thanks to the scaffolding (optional).
-## Considerations
-
-## Notes
 
 ## Resources
 - [CH004_SamosTheSage_10_Chest_SSI_Hall.litematic](attachments/CH004_SamosTheSage_10_Chest_SSI_Hall.litematic): MC 1.19.2, Size 33x18x3 blocks

@@ -16,7 +16,6 @@ Destroys shulker box item entities with lava to unload its contents at hopperspe
 - 2 wide tileable
 ## Considerations
 - Destroys shulker boxes
-## Notes
 
 ## Resources
 - [BU005_figi_hopperspeed_box_yeeter_1.17.1.litematic](attachments/BU005_figi_hopperspeed_box_yeeter_1.17.1.litematic): MC 1.17.1, Size 3x6x6 blocks

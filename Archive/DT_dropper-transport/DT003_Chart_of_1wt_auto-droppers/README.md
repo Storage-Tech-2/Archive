@@ -15,7 +15,6 @@ A collection of various circuits that automatically drop all received items as e
 ## Considerations
 - The piston in C3 will clock when receiving items and power the dropper twice as often then needed
 - C3 and D3 may break if they are powered externally or if they receive items at greater than 1x speed
-## Notes
 
 ## Resources
 - [DT003_AutoDropper_Collection.litematic](attachments/DT003_AutoDropper_Collection.litematic): MC 1.16.5, Size 2x19x34 blocks

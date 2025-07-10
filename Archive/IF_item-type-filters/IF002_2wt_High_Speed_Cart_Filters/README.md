@@ -13,8 +13,6 @@
 ## Features
 - 63x and 310x hopperspeed designs
 - 2 wide tileable layouts
-## Considerations
-
 ## Notes
 Replace pink_glass in water stream with slime_block to make the item move slower if needed. At least 4 carts in each slice must be launched every time it turn on. Wait for 5x8gt after turning off before turning it on again.  "another" is another layout.
 

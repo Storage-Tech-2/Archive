@@ -13,9 +13,6 @@ Separates boxes by fill level into empty, partial, and full boxes at hopper spee
 ## Features
 - Hopperspeed box processing
 - Uses only one hopper
-## Considerations
-
-## Notes
 
 ## Resources
 - [FBS007_Single_Hopper_Fill_Level_Sorter.litematic](attachments/FBS007_Single_Hopper_Fill_Level_Sorter.litematic): MC 1.20.1, Size 11x4x3 blocks

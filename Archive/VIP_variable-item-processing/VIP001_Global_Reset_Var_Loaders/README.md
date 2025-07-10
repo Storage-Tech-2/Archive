@@ -17,8 +17,6 @@ Automatically sets filters based on what items come to each slice first, and loa
 - Fullspeed breaking prevents backups in the loader
 - Failed boxplacements due to unloading are fixed on reset
 - Loaders can also be reset while items come in
-## Considerations
-
 ## Notes
 Filters are setup with 0-19-1-1-1 dummy items in the filter hoppers.
 

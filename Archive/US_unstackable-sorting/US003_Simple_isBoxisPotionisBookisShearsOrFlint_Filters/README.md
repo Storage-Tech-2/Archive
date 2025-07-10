@@ -11,8 +11,6 @@ These filters can accept any unstackable item as input and depending on the inve
 ## Features
 - Very simple hopperspeed design
 - Can accept any obtainable unstackable item as input
-## Considerations
-
 ## Notes
 The isShearsOrFlint filter uses a dispenser. Be careful not to input stackable TNT by accident.
 

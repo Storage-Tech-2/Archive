@@ -13,8 +13,6 @@ Performs a isStackable check on a entire item entity stack every 8gt. If each it
 ## Features
 - 4x6x5 footprint
 - Has input protection, so it doesn't break with random inputs
-## Considerations
-
 ## Notes
 Requires 4 hopper minecarts in the dispenser
 

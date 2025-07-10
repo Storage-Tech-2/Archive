@@ -12,7 +12,6 @@
 - Simple, 12 gt clockable design
 ## Considerations
 - Togglestate
-## Notes
 
 ## Resources
 - [NT001_dropdown_item_pusher.litematic](attachments/NT001_dropdown_item_pusher.litematic): MC 1.17.1, Size 4x3x1 blocks

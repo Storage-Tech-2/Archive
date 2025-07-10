@@ -15,8 +15,6 @@ Loads mixed items into boxes at full double hopperspeed. Meant for use in input 
 - Meant for use in input systems to prevent the case where items can back up into the item/box checker
 - Hopper for item and shulker box input not included in the schematic
 - Schematic includes a globally and locally clocked version
-## Considerations
-
 ## Notes
 Hopper for item and shulker box input not included in the schematic. Replace glass with slabs for 1.13 compatibility.
 

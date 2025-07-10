@@ -17,9 +17,6 @@ Simple bottom box display with minimal pistons and reliable wiring.
 - Fully independent slices
 - Adjacent slices can be triggered at weird intervals and will not break
 - No breakable togglestates
-## Considerations
-
-## Notes
 
 ## Resources
 - [BD005_ken_small_minimal_piston_box_display_1171.litematic](attachments/BD005_ken_small_minimal_piston_box_display_1171.litematic): MC 1.17.1, Size 5x7x1 blocks

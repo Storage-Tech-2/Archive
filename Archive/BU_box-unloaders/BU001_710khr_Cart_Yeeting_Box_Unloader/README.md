@@ -17,7 +17,6 @@ Stacks hopper-minecarts below the box to quickly unload it. Provides an alternat
 - Size: 8x11x3
 ## Considerations
 - It's big (smaller version exists for only slightly slower speeds: https://discord.com/channels/1375556143186837695/1389355709119856772/1389355709119856772)
-## Notes
 
 ## Resources
 - [BU001_Stacked_Cart_Box_Unloader_Updated.litematic](attachments/BU001_Stacked_Cart_Box_Unloader_Updated.litematic): MC 1.19, Size 3x10x8 blocks

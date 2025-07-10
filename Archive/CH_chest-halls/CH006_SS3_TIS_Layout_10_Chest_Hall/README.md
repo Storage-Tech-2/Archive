@@ -19,7 +19,6 @@
 - TIS layout requires 2 transparent block displays per slice
 - Brief clicking noise in the bottom droppers after they are done elevating items
 - Bottom filters are only accessible through the locking system after removing the display blocks (from the inside)
-## Notes
 
 ## Resources
 - [CH006_Seven_TIS_SS3.litematic](attachments/CH006_Seven_TIS_SS3.litematic): MC 1.20.1, Size 4x20x27 blocks

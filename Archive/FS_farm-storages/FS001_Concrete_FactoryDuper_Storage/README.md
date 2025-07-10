@@ -17,7 +17,6 @@ A common question is "how to make concrete storage?" This was put together as a 
 - Some overflow storage
 ## Considerations
 - Destroys partial boxes resulting from resetting variable loaders.
-## Notes
 
 ## Acknowledgements:**
 - heilzmaker (<@298337622869147648>): Designed global reset var loaders

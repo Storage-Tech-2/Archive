@@ -15,9 +15,6 @@ Simple parallel unloader
 - Separates empty boxes and unstackables into their own output
 - Simple logic reduces points of failure. Doesn't require filter items or sophisticated box processing.
 - Batches 16 stackables to either 5 or 10
-## Considerations
-
-## Notes
 
 ## Resources
 - [PU001_Simple_parallel_unloader_V3_SS2.litematic](attachments/PU001_Simple_parallel_unloader_V3_SS2.litematic): MC 1.21.1, Size 12x22x17 blocks

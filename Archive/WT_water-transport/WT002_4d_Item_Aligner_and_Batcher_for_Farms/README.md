@@ -12,8 +12,6 @@
 Aligns items along all axis and time for items in a stream. Useful for farm storages.
 ## Features
 - Adjustable output interval. This one is on an 64gt clock, add more repeaters to increase delay.
-## Considerations
-
 ## Notes
 To use: put items on gold block (preferrably towards the carpet) and flick the lever
 

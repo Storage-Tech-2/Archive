@@ -13,9 +13,6 @@ Categorizes boxes by their fill levels at hopperspeed using just one hopper. Can
 ## Features
 - Uses just one hopper
 - Hopperspeed
-## Considerations
-
-## Notes
 
 ## Resources
 - [FBS006_1_hopper_fill_level_sorter.litematic](attachments/FBS006_1_hopper_fill_level_sorter.litematic): MC 1.21.4, Size 7x4x3 blocks

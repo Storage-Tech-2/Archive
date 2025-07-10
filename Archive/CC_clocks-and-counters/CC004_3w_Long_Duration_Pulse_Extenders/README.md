@@ -14,9 +14,6 @@ Works by having a memory cell subtracted one signal strength each time a self-re
 Multiple variations are included, the smallest design to the left lasts 40 seconds, the right most design can use any pulse extender, and there is a separate schematic for a 2 wide version.
 ## Features
 - 2 wide tileable
-## Considerations
-
-## Notes
 
 ## Resources
 - [CC004_3w_LongPulseExtenders.litematic](attachments/CC004_3w_LongPulseExtenders.litematic): MC 1.18.2, Size 13x4x10 blocks

@@ -15,7 +15,6 @@ Programmable length from 90s to about 15 hours. Doesn't use hoppers and mostly d
 - Doesn't use hoppers and mostly dustless except one dot
 ## Considerations
 - Kinda big (3x6x6)
-## Notes
 
 ## Resources
 - [CC003_way_too_long_extender.litematic](attachments/CC003_way_too_long_extender.litematic): MC 1.18.2, Size 6x6x3 blocks

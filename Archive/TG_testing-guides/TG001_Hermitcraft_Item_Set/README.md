@@ -13,8 +13,6 @@ Hermitcraft Season 8 player's items for testing main storages. Use this item set
 ## Features
 - Grouped by player in barrels of shulker boxes, preserving original chest contents
 - In total 1.57mil items and 2031 shulkers
-## Considerations
-
 ## Notes
 A spreadsheet with per-player stats is available [here](https://docs.google.com/spreadsheets/d/19sWI78msXHRVCwSgc6w5sglSjWgeYYLOBmrBY4cUgu4/edit?usp=sharing)
 

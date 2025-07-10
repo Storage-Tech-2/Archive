@@ -14,9 +14,6 @@ Comparator readouts from all droppers ensures no items are buffered in the dropp
 - 9x8x3 footprint
 - Full boxes are dropped as items with no buffer
 - No item spitting with random input
-## Considerations
-
-## Notes
 
 ## Resources
 - [ML002_6x_full_clearance_mix_loader.litematic](attachments/ML002_6x_full_clearance_mix_loader.litematic): MC 1.15.2, Size 9x8x3 blocks

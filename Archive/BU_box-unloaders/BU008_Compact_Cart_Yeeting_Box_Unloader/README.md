@@ -17,7 +17,6 @@ Stacks hopper-minecarts below the box to quickly unload it. Provides an alternat
 - Size: 3x8x7
 ## Considerations
 - 15% slower than https://discord.com/channels/1375556143186837695/1389338141583741085/1389338141583741085 (but this is 30% smaller size)
-## Notes
 
 ## Resources
 - [BU008_Fast_Box_Unloader_-_Smaller.litematic](attachments/BU008_Fast_Box_Unloader_-_Smaller.litematic): MC 1.20.1, Size 3x8x7 blocks

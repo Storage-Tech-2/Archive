@@ -13,8 +13,6 @@ Crafts empty boxes from wood logs and shulker shells at 16gt speed.
 ## Features
 - Built-in box unloader: Input boxes of logs and shells.
 - Colored box variants included made by EthanMik. [Setup Video](https://youtu.be/llxf7ab16gw)
-## Considerations
-
 ## Notes
 Recommended startup process:
 1. After build complete, remove the two hoppers under the box, then place the material box.

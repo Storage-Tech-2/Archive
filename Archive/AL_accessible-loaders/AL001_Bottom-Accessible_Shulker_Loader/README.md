@@ -14,8 +14,6 @@ Single hopper-speed loader with easy access to the box and most of the redstone 
 - One wide tileable
 - slice preserving
 - 100% reliable collection
-## Considerations
-
 ## Notes
 Alternate honey and slime to tile.
 

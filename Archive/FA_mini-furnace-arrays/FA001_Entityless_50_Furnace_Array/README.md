@@ -18,7 +18,6 @@ Simple double-hopperspeed 50 furnace array for storage halls.
 - -Includes a low fuel Indicator
 ## Considerations
 - Manual on/off
-## Notes
 
 ## Resources
 - [FA001_Entityless_50_furnace_array_revisited.litematic](attachments/FA001_Entityless_50_furnace_array_revisited.litematic): MC 1.21, Size 30x9x4 blocks

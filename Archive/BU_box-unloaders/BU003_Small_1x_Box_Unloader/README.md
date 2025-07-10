@@ -15,8 +15,6 @@ A simple non-tileable hopperspeed box unloader.
 - First box placement and empty box handling
 - No items buffered in output hopper
 - Unloads at hopperspeed unless while replacing the box
-## Considerations
-
 ## Notes
 Two schematics are provided: One with a hopper to collect the empty box and another with a waterstream set up to transport the empty boxes (4x4x4 in size).
 

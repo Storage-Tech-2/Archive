@@ -17,7 +17,6 @@ Loads items at 6x hopper speed into shulker boxes on a global clock. This has th
 - Schematic contains some tiling examples
 ## Considerations
 - No item filter included
-## Notes
 
 ## Resources
 - [OL003_Globally_Clocked_6x.litematic](attachments/OL003_Globally_Clocked_6x.litematic): MC 1.14, Size 29x6x26 blocks

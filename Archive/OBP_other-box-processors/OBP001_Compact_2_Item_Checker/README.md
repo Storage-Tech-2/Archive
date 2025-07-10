@@ -15,8 +15,6 @@ Device filters shulker boxes with at least 2 stackable items of the same type. U
 - Small size (4x5x5)
 - Works with random input
 - Can be fully hopperlocked
-## Considerations
-
 ## Notes
 isBoxEmpty and isItemUnstackable signal outputs for additional processing (box routing is left to the discretion of the user)
 

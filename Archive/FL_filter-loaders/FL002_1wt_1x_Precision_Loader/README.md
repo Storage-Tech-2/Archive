@@ -17,8 +17,6 @@ Filters and loads items into boxes at hopperspeed.  Slice preserving box breakin
 - No toggle states
 - No buffered boxes
 - Signal strength 1 and signal strength 2 filter variants available.
-## Considerations
-
 ## Notes
 - Replace glass with solid blocks and remove the composters in 1.13 and below
 - Replace noteblocks with trapdoors and the updater noteblocks in the water output versions with alternating rails in 1.12 and below

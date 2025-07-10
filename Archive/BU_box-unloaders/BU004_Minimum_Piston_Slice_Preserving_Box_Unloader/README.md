@@ -18,7 +18,6 @@ Unloads items from boxes at hopperspeed.
 ## Considerations
 - Does not handle empty boxes
 - No initial box placement due to possible issue with random input
-## Notes
 
 ## Resources
 - [BU004_box_unloader_slice_preserving_solidstate_Obi.litematic](attachments/BU004_box_unloader_slice_preserving_solidstate_Obi.litematic): MC 1.18.2, Size 6x7x1 blocks

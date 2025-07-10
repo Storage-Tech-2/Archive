@@ -12,8 +12,6 @@
 Displays a box thrown by the player into the collection hopper. The old box is collected and put into the chest.
 ## Features
 - Small design, only 6x5 blocks
-## Considerations
-
 ## Notes
 Concept by daisy_pig
 

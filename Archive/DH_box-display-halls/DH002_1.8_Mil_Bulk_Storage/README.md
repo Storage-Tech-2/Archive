@@ -15,8 +15,6 @@ Re-locking is proceeded through updating BUDed pistons with a rail line, which i
 - 1.8 million capacity per item
 - U-turn triggering and unlocking only when necessary
 - Nice UI with default extended display
-## Considerations
-
 ## Notes
 Additional credits:
 - acaciachan - box sorter

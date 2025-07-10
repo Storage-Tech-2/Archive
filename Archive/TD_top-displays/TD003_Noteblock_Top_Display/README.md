@@ -15,7 +15,6 @@ A small manual top display meant for quad bulks.
 - 1 hopper, locked
 ## Considerations
 - Buffers at least 1 box in the hopper
-## Notes
 
 ## Resources
 - [TD003_Noteblock_Top_Display.litematic](attachments/TD003_Noteblock_Top_Display.litematic): MC 1.21.4, Size 1x5x7 blocks

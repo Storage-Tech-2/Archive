@@ -20,11 +20,6 @@ __[GitHub repository](https://github.com/Kikugie/ss2-filters)__
 by @kikugie
 
 Provides the data for the above mentioned website but is presented differently. Has a chart, a spreadsheet and litematics for the filters.
-## Features
-
-## Considerations
-
-## Notes
 
 ## Resources
 - [IF003_SS2_FIlter_Chart.png](attachments/IF003_SS2_FIlter_Chart.png): image/png
