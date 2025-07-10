@@ -29,10 +29,9 @@ A simple and cheap early game storage system using hopper minecart multi-item so
 - Glow lichen can be replaced with sign
 - Make sure to only fill the cart dispenser with 8 hopper minecarts, refer to schematic
 - It is recommended to temporarily fill all the whitelister chest filter slots with blocker items (renamed iron nuggets). Once you acquire the actual filter items, to replace the placeholders. For a visual guide, refer to the demonstration at [this timestamp](<https://youtu.be/oU5EjKhhbnk?si=XwvpGQnIHJRrBjRf&t=76>)
-
-**How to use**
-1. Input loose items into the shulker box
-2. Input shulker boxes (empty or not) into the double chest
+## How to use
+- Input loose items into the shulker box
+- Input shulker boxes (empty or not) into the double chest
 
 ## Other Images
 <img src="images/area_render_8_.png?raw=1" height="300px">
