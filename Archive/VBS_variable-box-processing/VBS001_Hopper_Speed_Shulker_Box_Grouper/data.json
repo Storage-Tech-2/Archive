@@ -71,5 +71,15 @@
     ],
     "notes": "The schematic contains two versions: One that deassigns automatically and manually. Inspired by https://discord.com/channels/748542142347083868/749136504558714982/1315103045763207248"
   },
-  "timestamp": 1750741216590
+  "timestamp": 1750741216590,
+  "post": {
+    "forumId": "1375570066451599401",
+    "threadId": "1388318379789516932",
+    "continuingMessageIds": [
+      "1388318383581429812"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388318379789516932",
+    "attachmentMessageId": "1388179367406075914",
+    "uploadMessageId": "1388179360766230581"
+  }
 }

@@ -77,5 +77,15 @@
     ],
     "notes": "Two schematics are provided; one for 1.11+ that's one block higher and one for 1.13+ with two alternative ways to wire the box breaking. Both share the same features."
   },
-  "timestamp": 1750997281473
+  "timestamp": 1750997281473,
+  "post": {
+    "forumId": "1375556999257002185",
+    "threadId": "1388316667855241277",
+    "continuingMessageIds": [
+      "1388316670208249948"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388316667855241277",
+    "attachmentMessageId": "1388177421156483152",
+    "uploadMessageId": "1388177413464129627"
+  }
 }

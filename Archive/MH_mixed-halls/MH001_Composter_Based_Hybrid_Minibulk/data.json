@@ -121,5 +121,15 @@
     ],
     "notes": "Original unsorted post: https://discord.com/channels/748542142347083868/1203099749746475088/1308614543894642760"
   },
-  "timestamp": 1750744689912
+  "timestamp": 1750744689912,
+  "post": {
+    "forumId": "1375563506765664388",
+    "threadId": "1388317585392668763",
+    "continuingMessageIds": [
+      "1388317591612686387"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388317585392668763",
+    "attachmentMessageId": "1388178598019469336",
+    "uploadMessageId": "1388178589496905812"
+  }
 }

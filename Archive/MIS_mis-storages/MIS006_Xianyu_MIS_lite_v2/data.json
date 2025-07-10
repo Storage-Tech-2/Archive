@@ -111,5 +111,14 @@
     ],
     "notes": "- need chunk alignment\n- 1.20.4+. Box displays input are broken in older versions."
   },
-  "timestamp": 1751865463564
+  "timestamp": 1751865463564,
+  "post": {
+    "threadId": "1390321702365302926",
+    "forumId": "1375566804910604349",
+    "continuingMessageIds": [
+      "1390321705284669470"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1390321702365302926",
+    "uploadMessageId": "1390321699723022358"
+  }
 }

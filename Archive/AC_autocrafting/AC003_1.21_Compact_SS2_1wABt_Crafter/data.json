@@ -114,5 +114,14 @@
     ],
     "notes": "The lower filter hopper must be configured with output signal strength 1 when read from the comparator. This comparator subtracts from the comparator reading the top filter hopper to make the filter circuit smaller."
   },
-  "timestamp": 1751908414463
+  "timestamp": 1751908414463,
+  "post": {
+    "threadId": "1391829514333720638",
+    "forumId": "1375570772348764392",
+    "continuingMessageIds": [
+      "1391829523657523353"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1391829514333720638",
+    "uploadMessageId": "1391829512752206034"
+  }
 }

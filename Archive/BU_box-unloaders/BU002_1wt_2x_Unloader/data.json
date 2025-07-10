@@ -72,5 +72,15 @@
     ],
     "notes": "If you don't continuously lock the hopper(&cart) under the box, when there is no box unloading in this slice, the adjacent slice box may get into it when breaking box."
   },
-  "timestamp": 1750627612893
+  "timestamp": 1750627612893,
+  "post": {
+    "forumId": "1375560446676963450",
+    "threadId": "1388317019501363371",
+    "continuingMessageIds": [
+      "1388317021812428860"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388317019501363371",
+    "attachmentMessageId": "1388177877496889416",
+    "uploadMessageId": "1388177869812793417"
+  }
 }

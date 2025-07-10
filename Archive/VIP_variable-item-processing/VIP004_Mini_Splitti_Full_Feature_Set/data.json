@@ -89,5 +89,14 @@
     ],
     "notes": "Press stone button to start splitting after putting in boxes. Empty box input hopper is covered by wool for hopperNoItemCost carpet rule but can be replaced with more chest storage."
   },
-  "timestamp": 1751167744957
+  "timestamp": 1751167744957,
+  "post": {
+    "threadId": "1388722921622736916",
+    "forumId": "1375569954073477120",
+    "continuingMessageIds": [
+      "1388722924193841234"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388722921622736916",
+    "uploadMessageId": "1388722919311544451"
+  }
 }

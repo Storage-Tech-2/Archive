@@ -116,5 +116,15 @@
     ],
     "notes": "This design is 1.16 due to the comparator on the piston"
   },
-  "timestamp": 1750969637032
+  "timestamp": 1750969637032,
+  "post": {
+    "forumId": "1375561551188328531",
+    "threadId": "1388317284279390339",
+    "continuingMessageIds": [
+      "1388317289652293642"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388317284279390339",
+    "attachmentMessageId": "1388178213347528886",
+    "uploadMessageId": "1388178203239121006"
+  }
 }

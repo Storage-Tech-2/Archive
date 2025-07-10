@@ -88,5 +88,15 @@
     ],
     "notes": "Interface inspired by @m3"
   },
-  "timestamp": 1750778953520
+  "timestamp": 1750778953520,
+  "post": {
+    "forumId": "1375570813591486525",
+    "threadId": "1388318468331536524",
+    "continuingMessageIds": [
+      "1388318470612975637"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388318468331536524",
+    "attachmentMessageId": "1388179479964160092",
+    "uploadMessageId": "1388179472301428839"
+  }
 }

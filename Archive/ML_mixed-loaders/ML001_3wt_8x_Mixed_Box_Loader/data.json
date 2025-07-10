@@ -76,5 +76,15 @@
     ],
     "notes": "For Minecraft 1.13 compatibility, use droppers instead of composters."
   },
-  "timestamp": 1750576991354
+  "timestamp": 1750576991354,
+  "post": {
+    "forumId": "1375557473066418206",
+    "threadId": "1388316751061581936",
+    "continuingMessageIds": [
+      "1388316754878398637"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388316751061581936",
+    "attachmentMessageId": "1388177521211736099",
+    "uploadMessageId": "1388177514286944327"
+  }
 }

@@ -136,5 +136,16 @@
     ],
     "notes": "Designs for both mixed box loader and box crafter are included in the WDL. Also included is a slower 1.5x speed version but entityless and without togglestates."
   },
-  "timestamp": 1751161647069
+  "timestamp": 1751161647069,
+  "post": {
+    "forumId": "1375570772348764392",
+    "threadId": "1388318446168572105",
+    "continuingMessageIds": [
+      "1388318450014883932",
+      "1388318450736169100"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388318446168572105",
+    "attachmentMessageId": "1388179454467113160",
+    "uploadMessageId": "1388179446728495194"
+  }
 }

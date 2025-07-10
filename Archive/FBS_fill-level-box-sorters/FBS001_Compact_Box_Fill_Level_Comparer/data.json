@@ -73,5 +73,15 @@
     ],
     "notes": "The noteblock is the clock input. Send pulse there after putting two boxes into the input."
   },
-  "timestamp": 1750619211970
+  "timestamp": 1750619211970,
+  "post": {
+    "forumId": "1375559651579527208",
+    "threadId": "1388316891721764885",
+    "continuingMessageIds": [
+      "1388316895991697502"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388316891721764885",
+    "attachmentMessageId": "1388177707602542730",
+    "uploadMessageId": "1388177700623224872"
+  }
 }

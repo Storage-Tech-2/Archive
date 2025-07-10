@@ -88,5 +88,14 @@
     ],
     "notes": "- Older versions may need more than two slices in order to avoid toggling the sticky during the initial place."
   },
-  "timestamp": 1751216594040
+  "timestamp": 1751216594040,
+  "post": {
+    "threadId": "1388927809933676635",
+    "forumId": "1375560792665231450",
+    "continuingMessageIds": [
+      "1388927812500455494"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388927809933676635",
+    "uploadMessageId": "1388927808151224410"
+  }
 }

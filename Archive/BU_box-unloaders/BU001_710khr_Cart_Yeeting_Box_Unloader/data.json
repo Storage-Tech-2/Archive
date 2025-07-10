@@ -89,5 +89,14 @@
     ],
     "notes": ""
   },
-  "timestamp": 1751351873280
+  "timestamp": 1751351873280,
+  "post": {
+    "threadId": "1389338141583741085",
+    "forumId": "1375560446676963450",
+    "continuingMessageIds": [
+      "1389338144926601366"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1389338141583741085",
+    "uploadMessageId": "1389338139062960309"
+  }
 }

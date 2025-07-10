@@ -128,5 +128,14 @@
     ],
     "notes": "WDL Includes (from left to right) an unassigned build (no filters), an assigned build (with filters), and an undecorated, unfiltered build, plus the item layout and slice behind."
   },
-  "timestamp": 1751129755827
+  "timestamp": 1751129755827,
+  "post": {
+    "threadId": "1388563583658365163",
+    "forumId": "1375566804910604349",
+    "continuingMessageIds": [
+      "1388563587567456287"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388563583658365163",
+    "uploadMessageId": "1388563581708275914"
+  }
 }

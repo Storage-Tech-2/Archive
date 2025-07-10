@@ -102,5 +102,14 @@
     "considerations": [],
     "notes": ""
   },
-  "timestamp": 1751289629002
+  "timestamp": 1751289629002,
+  "post": {
+    "threadId": "1388572747545972848",
+    "forumId": "1375561810392125510",
+    "continuingMessageIds": [
+      "1388572752566288504"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388572747545972848",
+    "uploadMessageId": "1388572744890978335"
+  }
 }

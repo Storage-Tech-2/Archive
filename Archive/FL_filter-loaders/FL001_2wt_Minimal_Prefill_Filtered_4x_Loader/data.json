@@ -85,5 +85,15 @@
     ],
     "notes": "You can find a different design suited for larger quantities of items in the thread."
   },
-  "timestamp": 1750565056538
+  "timestamp": 1750565056538,
+  "post": {
+    "forumId": "1375556999257002185",
+    "threadId": "1388316626327175210",
+    "continuingMessageIds": [
+      "1388316630685188136"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388316626327175210",
+    "attachmentMessageId": "1388177353695563806",
+    "uploadMessageId": "1388177345898348748"
+  }
 }

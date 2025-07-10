@@ -75,5 +75,15 @@
     ],
     "notes": "This design is unreliable pre-1.17, also the empty box collection will fail around 1 in every 1,000 times."
   },
-  "timestamp": 1750795513273
+  "timestamp": 1750795513273,
+  "post": {
+    "forumId": "1375561551188328531",
+    "threadId": "1388317306450477066",
+    "continuingMessageIds": [
+      "1388317309134966876"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388317306450477066",
+    "attachmentMessageId": "1388178239196893264",
+    "uploadMessageId": "1388178230594375761"
+  }
 }

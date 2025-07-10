@@ -115,5 +115,15 @@
     "considerations": [],
     "notes": "Recommended startup process:\n1. After build complete, remove the two hoppers under the box, then place the material box.\n2. Take 8 logs from the box and make them into 4 chests, put into the 'final crafter(box crafter)'.\n3. Place hopper under the box, then put item into the detected hopper and take out, then ready.\n\nThe consumption of the two raw materials is 1:1. The observer under the comparator is to increase the crafting cycle from 15t to 16t. DO NOT power the noteblock to shutdown, please lock or cut the output hopper to shutdown."
   },
-  "timestamp": 1751161631055
+  "timestamp": 1751161631055,
+  "post": {
+    "forumId": "1375570772348764392",
+    "threadId": "1388318423427059806",
+    "continuingMessageIds": [
+      "1388318426329514064"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388318423427059806",
+    "attachmentMessageId": "1388179428416159804",
+    "uploadMessageId": "1388179419465515108"
+  }
 }

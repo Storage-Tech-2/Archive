@@ -93,5 +93,14 @@
     ],
     "notes": "Box collection isn't 100% reliable in the schematic but can be made reliable with this layout without hopperlocking the collection hoppers."
   },
-  "timestamp": 1751903304287
+  "timestamp": 1751903304287,
+  "post": {
+    "threadId": "1391808083189170357",
+    "forumId": "1375561629378416740",
+    "continuingMessageIds": [
+      "1391808086544486634"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1391808083189170357",
+    "uploadMessageId": "1391808081935077537"
+  }
 }

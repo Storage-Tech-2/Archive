@@ -126,5 +126,15 @@
     "considerations": [],
     "notes": "Replace pink_glass in water stream with slime_block to make the item move slower if needed. At least 4 carts in each slice must be launched every time it turn on. Wait for 5x8gt after turning off before turning it on again.  \"another\" is another layout."
   },
-  "timestamp": 1750621110942
+  "timestamp": 1750621110942,
+  "post": {
+    "forumId": "1375563999692849302",
+    "threadId": "1388317640162021450",
+    "continuingMessageIds": [
+      "1388317644813500608"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388317640162021450",
+    "attachmentMessageId": "1388178668995481631",
+    "uploadMessageId": "1388178651555561572"
+  }
 }

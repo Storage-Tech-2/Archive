@@ -70,5 +70,15 @@
     "considerations": [],
     "notes": "Filters are setup with 0-19-1-1-1 dummy items in the filter hoppers."
   },
-  "timestamp": 1750621999017
+  "timestamp": 1750621999017,
+  "post": {
+    "forumId": "1375569954073477120",
+    "threadId": "1388318311779139598",
+    "continuingMessageIds": [
+      "1388318315365007412"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388318311779139598",
+    "attachmentMessageId": "1388179282039144472",
+    "uploadMessageId": "1388179273868771338"
+  }
 }
