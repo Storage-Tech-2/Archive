@@ -102,24 +102,17 @@
       "path": "attachments/AC003_Compact_SS2_1wAB_Crafter_Clock.litematic"
     }
   ],
-  "description": "Crafts filtered items. Works with 2-9 slot crafts. Can be adapted to be 1 slot. 1 slot and hopper locked variations are in the thread.",
-  "features": [
-    "Compact",
-    "SS2"
-  ],
-  "considerations": [
-    "Expensive",
-    "AB tileable"
-  ],
-  "notes": "The lower filter hopper must be configured with output signal strength 1 when read from the comparator. This comparator subtracts from the comparator reading the top filter hopper to make the filter circuit smaller.",
-  "timestamp": 1751908414463,
-  "post": {
-    "threadId": "1391829514333720638",
-    "forumId": "1375570772348764392",
-    "continuingMessageIds": [
-      "1391829523657523353"
+  "records": {
+    "description": "Crafts filtered items. Works with 2-9 slot crafts. Can be adapted to be 1 slot. 1 slot and hopper locked variations are in the thread.",
+    "features": [
+      "Compact",
+      "SS2"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1391829514333720638",
-    "uploadMessageId": "1391829512752206034"
-  }
+    "considerations": [
+      "Expensive",
+      "AB tileable"
+    ],
+    "notes": "The lower filter hopper must be configured with output signal strength 1 when read from the comparator. This comparator subtracts from the comparator reading the top filter hopper to make the filter circuit smaller."
+  },
+  "timestamp": 1751908414463
 }

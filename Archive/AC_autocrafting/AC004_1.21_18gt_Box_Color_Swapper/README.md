@@ -7,10 +7,9 @@
 
 **Tags:** *Tested & Functional*
 
-**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1392136450031747102)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1392943296791449691)
 
 A box color changer that alters the color of a non-empty box if the first item in the box matches one of the items in a chest.
-
 ## Features
 - Can be expanded or made smaller
 - Plug & play with no extra infrastructure required
@@ -18,7 +17,6 @@ A box color changer that alters the color of a non-empty box if the first item i
 - 1 dye is used per matched box
 - In 1.21.2+, boxes of the same color will not be affected
 - In 1.21 & 1.21.1, redundant crafting process will not fail, adding safety features
-
 ## Notes
 Filter setup instructions: Add an item to a chest and the signal strength of the comparators should be 2 then change to 1 when one item is removed from the chest.
 
