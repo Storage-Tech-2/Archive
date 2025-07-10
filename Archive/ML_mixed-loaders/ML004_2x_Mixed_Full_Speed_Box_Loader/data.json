@@ -66,24 +66,16 @@
       "path": "attachments/ML004_2x_Mixed_Full_Speed_Box_Loader.litematic"
     }
   ],
-  "description": "Loads mixed items into boxes at full double hopperspeed. Meant for use in input systems to prevent the case where items can back up into the item/box checker if the input receives a constant stream of items.",
-  "features": [
-    "Loads mixed items into boxes at full double hopperspeed",
-    "Meant for use in input systems to prevent the case where items can back up into the item/box checker",
-    "Hopper for item and shulker box input not included in the schematic",
-    "Schematic includes a globally and locally clocked version"
-  ],
-  "considerations": [],
-  "notes": "Hopper for item and shulker box input not included in the schematic. Replace glass with slabs for 1.13 compatibility.",
-  "timestamp": 1750718622761,
-  "post": {
-    "forumId": "1375557473066418206",
-    "threadId": "1388316812520722533",
-    "continuingMessageIds": [
-      "1388316815955984415"
+  "records": {
+    "description": "Loads mixed items into boxes at full double hopperspeed. Meant for use in input systems to prevent the case where items can back up into the item/box checker if the input receives a constant stream of items.",
+    "features": [
+      "Loads mixed items into boxes at full double hopperspeed",
+      "Meant for use in input systems to prevent the case where items can back up into the item/box checker",
+      "Hopper for item and shulker box input not included in the schematic",
+      "Schematic includes a globally and locally clocked version"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388316812520722533",
-    "attachmentMessageId": "1388177605433491636",
-    "uploadMessageId": "1388177598466756682"
-  }
+    "considerations": [],
+    "notes": "Hopper for item and shulker box input not included in the schematic. Replace glass with slabs for 1.13 compatibility."
+  },
+  "timestamp": 1750718622761
 }

@@ -62,25 +62,18 @@
       "path": "attachments/ML005_3wt_8x_Mixed_Loader_Globally_Clocked.litematic"
     }
   ],
-  "description": "This mixed 8x loader uses an external global clock signal to activate its droppers. This has the benefit of being smaller and less laggier than local clock systems.",
-  "features": [
-    "Smaller size",
-    "No item spitting with random input",
-    "Globally clocked",
-    "Ejects boxes as items without buffer"
-  ],
-  "considerations": [
-    "Only 2/3 blocks in the item stream are ice making it not that nether friendly"
-  ],
-  "notes": "",
-  "timestamp": 1751125560672,
-  "post": {
-    "threadId": "1388545987701641337",
-    "forumId": "1375557473066418206",
-    "continuingMessageIds": [
-      "1388545992277622834"
+  "records": {
+    "description": "This mixed 8x loader uses an external global clock signal to activate its droppers. This has the benefit of being smaller and less laggier than local clock systems.",
+    "features": [
+      "Smaller size",
+      "No item spitting with random input",
+      "Globally clocked",
+      "Ejects boxes as items without buffer"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388545987701641337",
-    "uploadMessageId": "1388545985537380412"
-  }
+    "considerations": [
+      "Only 2/3 blocks in the item stream are ice making it not that nether friendly"
+    ],
+    "notes": ""
+  },
+  "timestamp": 1751125560672
 }

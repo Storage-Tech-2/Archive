@@ -70,23 +70,15 @@
       "path": "attachments/ML002_6x_full_clearance_mix_loader.litematic"
     }
   ],
-  "description": "Comparator readouts from all droppers ensures no items are buffered in the droppers/hoppers. Works with all item types and with any frequency input.",
-  "features": [
-    "9x8x3 footprint",
-    "Full boxes are dropped as items with no buffer",
-    "No item spitting with random input"
-  ],
-  "considerations": [],
-  "notes": "",
-  "timestamp": 1750619626659,
-  "post": {
-    "forumId": "1375557473066418206",
-    "threadId": "1388316771832041482",
-    "continuingMessageIds": [
-      "1388316775300464720"
+  "records": {
+    "description": "Comparator readouts from all droppers ensures no items are buffered in the droppers/hoppers. Works with all item types and with any frequency input.",
+    "features": [
+      "9x8x3 footprint",
+      "Full boxes are dropped as items with no buffer",
+      "No item spitting with random input"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388316771832041482",
-    "attachmentMessageId": "1388177548080316499",
-    "uploadMessageId": "1388177539612151949"
-  }
+    "considerations": [],
+    "notes": ""
+  },
+  "timestamp": 1750619626659
 }

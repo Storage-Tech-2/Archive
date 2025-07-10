@@ -86,24 +86,16 @@
       "path": "attachments/ML003_1x_Full_Speed_Mixed_Box_Loader_112.litematic"
     }
   ],
-  "description": "Loads mixed items into boxes at full hopperspeed. Meant for use in input systems to prevent the case where items can back up into the item/box checker if the input receives a constant stream of items.",
-  "features": [
-    "5x5x4 size",
-    "Does not break with random input due to locking the dropper before box replacement",
-    "Clocks droppers at 8gt during normal operation and 4gt to clear backup to maintain full 1x hopper speed",
-    "Automatically breaks box after a period of no input"
-  ],
-  "considerations": [],
-  "notes": "",
-  "timestamp": 1750718201673,
-  "post": {
-    "forumId": "1375557473066418206",
-    "threadId": "1388316790202957984",
-    "continuingMessageIds": [
-      "1388316793264672789"
+  "records": {
+    "description": "Loads mixed items into boxes at full hopperspeed. Meant for use in input systems to prevent the case where items can back up into the item/box checker if the input receives a constant stream of items.",
+    "features": [
+      "5x5x4 size",
+      "Does not break with random input due to locking the dropper before box replacement",
+      "Clocks droppers at 8gt during normal operation and 4gt to clear backup to maintain full 1x hopper speed",
+      "Automatically breaks box after a period of no input"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388316790202957984",
-    "attachmentMessageId": "1388177579533406312",
-    "uploadMessageId": "1388177566287921205"
-  }
+    "considerations": [],
+    "notes": ""
+  },
+  "timestamp": 1750718201673
 }

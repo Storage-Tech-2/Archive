@@ -77,25 +77,27 @@
       "path": "attachments/ML006_3wt_6x_fullspeed_mixed_wdl.zip"
     }
   ],
-  "description": "This loader design features mixed item loading at full 6x hopperspeed (54k items/h)",
-  "features": [
-    "3-wide tileable",
-    "Size: 6x6x3",
-    "Globally clocked",
-    "Useful for general item loading"
-  ],
-  "considerations": [
-    "2/3 iced (nether unfriendly)"
-  ],
-  "notes": "- Our testing shows that it works with the Hermitcraft item set\n- WDL is 1.21.5 and includes testing setup",
-  "timestamp": 1752089659842,
+  "records": {
+    "description": "This loader design features mixed item loading at full 6x hopperspeed (54k items/h)",
+    "features": [
+      "3-wide tileable",
+      "Size: 6x6x3",
+      "Globally clocked",
+      "Useful for general item loading"
+    ],
+    "considerations": [
+      "2/3 iced (nether unfriendly)"
+    ],
+    "notes": "- Our testing shows that it works with the Hermitcraft item set\n- WDL is 1.21.5 and includes testing setup"
+  },
+  "timestamp": 1752174300034,
   "post": {
-    "threadId": "1392589712405037146",
+    "threadId": "1392944720136638505",
     "forumId": "1375557473066418206",
     "continuingMessageIds": [
-      "1392589716083179560"
+      "1392944724813549790"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1392589712405037146",
-    "uploadMessageId": "1389263539335729192"
+    "threadURL": "https://discord.com/channels/1375556143186837695/1392944720136638505",
+    "uploadMessageId": "1392944718526025781"
   }
 }

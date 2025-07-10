@@ -7,19 +7,16 @@
 
 **Tags:** *6X Hopperspeed, Fullspeed, Full Clearance*
 
-**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1392589712405037146)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1392944720136638505)
 
 This loader design features mixed item loading at full 6x hopperspeed (54k items/h)
-
 ## Features
 - 3-wide tileable
 - Size: 6x6x3
 - Globally clocked
 - Useful for general item loading
-
 ## Considerations
 - 2/3 iced (nether unfriendly)
-
 ## Notes
 - Our testing shows that it works with the Hermitcraft item set
 - WDL is 1.21.5 and includes testing setup
