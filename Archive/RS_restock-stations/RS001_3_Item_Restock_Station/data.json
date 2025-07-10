@@ -9,6 +9,22 @@
       "displayName": "Xia",
       "username": "putangina_ka_",
       "iconURL": "https://cdn.discordapp.com/avatars/1167143504573644901/67f85a384cadc1f1b6941c61f45d5f39.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "114896993654013958",
+      "username": "datnerd",
+      "reason": "Floor display design",
+      "dontDisplay": true,
+      "iconURL": "https://cdn.discordapp.com/avatars/114896993654013958/d4cec89664bba88100de2df0c32c44eb.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "166080074536189952",
+      "username": "misterkartoffel",
+      "reason": "Top display design",
+      "dontDisplay": true,
+      "iconURL": "https://cdn.discordapp.com/avatars/166080074536189952/581e29f95fcb4f482d0a1858830f4465.webp"
     }
   ],
   "endorsers": [
@@ -68,7 +84,7 @@
       "Floor and top displays both use toggles"
     ]
   },
-  "timestamp": 1752188196647,
+  "timestamp": 1752191658969,
   "post": {
     "threadId": "1393003004998848643",
     "forumId": "1375571041174159430",

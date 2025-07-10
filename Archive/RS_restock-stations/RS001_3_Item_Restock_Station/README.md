@@ -20,5 +20,9 @@ A restock station that uses 3 box displays.
 - For the middle display, if 3 adjacent displayed boxes are emptied within 1gt of each other, one of the slices will fail to replace its box
 - Floor and top displays both use toggles
 
+## Acknowledgements:**
+- datnerd (<@114896993654013958>): Floor display design
+- misterkartoffel (<@166080074536189952>): Top display design
+
 ## Resources
 - [RS001_Xia_-_3_Item_Restock_Station.litematic](attachments/RS001_Xia_-_3_Item_Restock_Station.litematic): MC 1.21.4, Size 1x12x10 blocks
