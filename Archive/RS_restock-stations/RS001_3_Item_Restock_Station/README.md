@@ -18,7 +18,7 @@ A restock station that uses 3 box displays.
 ## Considerations
 - Unlocked hoppers
 - For the middle display, if 3 adjacent displayed boxes are emptied within 1gt of each other, one of the slices will fail to replace its box
-- Floor and top displays both use toggles
+- Top display use togglestates
 
 ## Acknowledgements:**
 - datnerd (<@114896993654013958>): Floor display design

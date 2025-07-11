@@ -81,10 +81,10 @@
     "considerations": [
       "Unlocked hoppers",
       "For the middle display, if 3 adjacent displayed boxes are emptied within 1gt of each other, one of the slices will fail to replace its box",
-      "Floor and top displays both use toggles"
+      "Top display use togglestates"
     ]
   },
-  "timestamp": 1752191658969,
+  "timestamp": 1752253853582,
   "post": {
     "threadId": "1393003004998848643",
     "forumId": "1375571041174159430",
