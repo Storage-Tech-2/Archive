@@ -5,7 +5,7 @@
 
 **Endorsed by:** *ValBlaze*
 
-**Tags:** *Tested & Functional*
+**Tags:** *Untested*
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1389244896870797333)
 
@@ -21,8 +21,7 @@ A fairly large storage system that utilizes a parallel unloading array allowing 
 - This system requires you to have Carpet's `stackableShulkerBoxes` rule enabled and subsequently Kikugie's StackableShulkerFix.
 ## Notes
 Tested for ~400k items without issues
-
-**Sourced Components:**
+## Sourced components
 - Chest Hall: https://discord.com/channels/1375556143186837695/1388317417385758770
 - Bulk: [PyraLeft's new bulk](https://discord.com/channels/614934109751345153/731632393315942531/1327412377406148628)
 - Parallel Unloading Array: https://discord.com/channels/748542142347083868/1241919346477891684
