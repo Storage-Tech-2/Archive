@@ -1,5 +1,5 @@
 # 3wt 6x fullspeed mixed loader
-<img alt="ML006_3wt_6x_fullspeed_mixed_render.png" src="images/ML006_3wt_6x_fullspeed_mixed_render.png?raw=1" height="300px">
+<img alt="3wt6x_global_render.png" src="images/3wt6x_global_render.png?raw=1" height="300px">
 
 **Authors:** *camphorwood, bonkloud*
 
@@ -7,7 +7,7 @@
 
 **Tags:** *6X Hopperspeed, Fullspeed, Full Clearance*
 
-**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1392947065121935622)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1394718456934563972)
 
 This loader design features mixed item loading at full 6x hopperspeed (54k items/h)
 ## Features
@@ -22,5 +22,4 @@ This loader design features mixed item loading at full 6x hopperspeed (54k items
 - WDL is 1.21.5 and includes testing setup
 
 ## Resources
-- [ML006_3wt_6x_fullspeed_mixed.litematic](attachments/ML006_3wt_6x_fullspeed_mixed.litematic): MC 1.21.5, Size 6x6x3 blocks
-- [ML006_3wt_6x_fullspeed_mixed_wdl.zip](attachments/ML006_3wt_6x_fullspeed_mixed_wdl.zip): MC 1.21.5
+- [ML006_3wt6x_global.litematic](attachments/ML006_3wt6x_global.litematic): MC 1.21.5, Size 7x6x4 blocks

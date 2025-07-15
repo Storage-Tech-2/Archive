@@ -42,40 +42,28 @@
   ],
   "images": [
     {
-      "id": "1392589644482478190",
-      "name": "ML006_3wt_6x_fullspeed_mixed_render.png",
+      "id": "1394718266307645540",
+      "name": "3wt6x_global_render.png",
       "contentType": "image/png",
-      "url": "https://cdn.discordapp.com/attachments/1389197974826913814/1392589644482478190/ML006_3wt_6x_fullspeed_mixed_render.png?ex=687015ac&is=686ec42c&hm=2fdba4b35418bea096c0b14926e6c537f090a4941d21fbfa24a56b555b24f586&",
-      "description": "Sent by TMC Schematic Renderer at 7/9/2025, 3:34:04 PM",
+      "url": "https://cdn.discordapp.com/attachments/1389197974826913814/1394718266307645540/3wt6x_global_render.png?ex=6877d41b&is=6876829b&hm=559fa3a6aa584022b706384fe975be88e638d1814fa4815c2d0869a79cade926&",
+      "description": "Sent by TMC Schematic Renderer at 7/15/2025, 12:32:27 PM",
       "canDownload": true,
-      "width": 743,
+      "width": 798,
       "height": 800,
-      "path": "images/ML006_3wt_6x_fullspeed_mixed_render.png"
+      "path": "images/3wt6x_global_render.png"
     }
   ],
   "attachments": [
     {
-      "id": "1389259138948661410",
-      "name": "ML006_3wt_6x_fullspeed_mixed.litematic",
+      "id": "1394717760789151776",
+      "name": "ML006_3wt6x_global.litematic",
       "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1389197974826913814/1389259138948661410/3wt_6x_fullspeed_mixed.litematic?ex=6863f7e5&is=6862a665&hm=8ba22c7e413c253e283ce56515b40d57551993f07c506c305c7f5b99ecfbe3a2&",
-      "description": "Sent by camphorwood at 6/30/2025, 10:59:50 AM",
+      "url": "https://cdn.discordapp.com/attachments/1389197974826913814/1394717760789151776/3wt6x_global.litematic?ex=6877d3a2&is=68768222&hm=30e45f6a96e3f05c7e9c0348e84d0beec6337e458a57efac506e4612073aee03&",
+      "description": "Sent by camphorwood at 7/15/2025, 12:30:26 PM",
       "canDownload": true,
+      "path": "attachments/ML006_3wt6x_global.litematic",
       "litematic": {
-        "size": "6x6x3",
-        "version": "1.21.5"
-      },
-      "path": "attachments/ML006_3wt_6x_fullspeed_mixed.litematic"
-    },
-    {
-      "id": "1389259138512715787",
-      "name": "ML006_3wt_6x_fullspeed_mixed_wdl.zip",
-      "contentType": "application/zip",
-      "url": "https://cdn.discordapp.com/attachments/1389197974826913814/1389259138512715787/3wt_6x_fullspeed_mixed_wdl.zip?ex=6863f7e5&is=6862a665&hm=8ceffb2655f16d6c1ea933336583ed08402e9c818d8785c75ee250c6c9d9101c&",
-      "description": "Sent by camphorwood at 6/30/2025, 10:59:50 AM",
-      "canDownload": true,
-      "path": "attachments/ML006_3wt_6x_fullspeed_mixed_wdl.zip",
-      "wdl": {
+        "size": "7x6x4",
         "version": "1.21.5"
       }
     }
@@ -93,14 +81,14 @@
     ],
     "notes": "- Our testing shows that it works with the Hermitcraft item set\n- WDL is 1.21.5 and includes testing setup"
   },
-  "timestamp": 1752174859028,
+  "timestamp": 1752597191620,
   "post": {
-    "threadId": "1392947065121935622",
+    "threadId": "1394718456934563972",
     "forumId": "1375557473066418206",
     "continuingMessageIds": [
-      "1392947068850536500"
+      "1394718460285812787"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1392947065121935622",
-    "uploadMessageId": "1392947063485894829"
+    "threadURL": "https://discord.com/channels/1375556143186837695/1394718456934563972",
+    "uploadMessageId": "1394718454862577816"
   }
 }
