@@ -80,12 +80,12 @@
       "Globally clocked",
       "Useful for general item loading"
     ],
-    "considerations": [
-      "2/3 iced (nether unfriendly)"
-    ],
-    "notes": "- Our testing shows that it works with the Hermitcraft item set\n- WDL is 1.21.5 and includes testing setup"
+    "notes": [
+      "Our testing shows that it works with the Hermitcraft item set",
+      "Schem includes global clocking front"
+    ]
   },
-  "timestamp": 1752597441853,
+  "timestamp": 1752597593874,
   "post": {
     "threadId": "1394718456934563972",
     "forumId": "1375557473066418206",

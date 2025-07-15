@@ -15,11 +15,9 @@ This loader design features mixed item loading at full 6x hopperspeed (54k items
 - Size: 6x6x3
 - Globally clocked
 - Useful for general item loading
-## Considerations
-- 2/3 iced (nether unfriendly)
 ## Notes
 - Our testing shows that it works with the Hermitcraft item set
-- WDL is 1.21.5 and includes testing setup
+- Schem includes global clocking front
 
 ## Resources
 - [ML006_3wt6x_global.litematic](attachments/ML006_3wt6x_global.litematic): MC 1.21.5, Size 7x6x4 blocks
