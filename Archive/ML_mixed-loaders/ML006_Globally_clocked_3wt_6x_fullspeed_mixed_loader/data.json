@@ -1,6 +1,6 @@
 {
   "id": "1389197974826913814",
-  "name": "3wt 6x fullspeed mixed loader",
+  "name": "Globally clocked 3wt 6x fullspeed mixed loader",
   "code": "ML006",
   "authors": [
     {
@@ -85,7 +85,7 @@
     ],
     "notes": "- Our testing shows that it works with the Hermitcraft item set\n- WDL is 1.21.5 and includes testing setup"
   },
-  "timestamp": 1752597191620,
+  "timestamp": 1752597441853,
   "post": {
     "threadId": "1394718456934563972",
     "forumId": "1375557473066418206",

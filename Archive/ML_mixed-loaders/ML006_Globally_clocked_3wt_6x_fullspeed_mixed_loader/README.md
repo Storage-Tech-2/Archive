@@ -1,4 +1,4 @@
-# 3wt 6x fullspeed mixed loader
+# Globally clocked 3wt 6x fullspeed mixed loader
 <img alt="3wt6x_global_render.png" src="images/3wt6x_global_render.png?raw=1" height="300px">
 
 **Authors:** *camphorwood, bonkloud*
