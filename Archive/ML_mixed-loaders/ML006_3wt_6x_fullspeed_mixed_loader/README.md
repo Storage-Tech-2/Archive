@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *6X Hopperspeed, Fullspeed, Full Clearance*
+**Tags:** *Global Clock, Full Clearance, Fullspeed, 6X Hopperspeed*
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1394718456934563972)
 
