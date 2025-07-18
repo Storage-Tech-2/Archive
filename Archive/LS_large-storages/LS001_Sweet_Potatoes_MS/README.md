@@ -42,6 +42,6 @@ Tested for ~400k items without issues
 - Item Layout: Modified from YAMS
 
 ## Resources
+- [LS001_Sweet_Potatoes.url](https://www.mediafire.com/folder/vrackqnk2jjkt/Sweet_Potatoes): Mediafire link
 - [LS001_Sweet_Potatoes_Nether_Side.litematic](attachments/LS001_Sweet_Potatoes_Nether_Side.litematic): MC 1.21.1, Size 18x6x14 blocks
 - [LS001_Sweet_Potatoes.litematic](attachments/LS001_Sweet_Potatoes.litematic): MC 1.21.5, Size 144x85x128 blocks
-- [LS001_Sweet_Potatoes.url](https://www.mediafire.com/folder/vrackqnk2jjkt/Sweet_Potatoes): Mediafire link
