@@ -7,7 +7,7 @@
 
 **Tags:** *Tested & Functional, Recommended, Full Sorters*
 
-**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1395662276803039272)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1395668040280182917)
 
 The smallest device to sort between two potion types, books, shears, flint and steel, lava bucket, water bucket, snow bucket, carts, boats, and music discs.
 ## Features
@@ -29,8 +29,8 @@ The smallest device to sort between two potion types, books, shears, flint and s
 ## Other Images
 <img src="images/area_render_92_.png?raw=1">
 
-<img src="images/image.png?raw=1" height="300px">
+<img src="images/area_render_97_.png?raw=1" height="300px">
 
 ## Resources
-- [US003_smallest_1.21_unstackable_sorter.litematic](attachments/US003_smallest_1.21_unstackable_sorter.litematic): MC 1.21.4, Size 12x6x5 blocks
-- [US003_smallest_1.21_unstackable_sorter_fish_preserving.litematic](attachments/US003_smallest_1.21_unstackable_sorter_fish_preserving.litematic): MC 1.21.4, Size 12x7x5 blocks
+- [US005_smallest_1.21_unstackable_sorter.litematic](attachments/US005_smallest_1.21_unstackable_sorter.litematic): MC 1.21.4, Size 12x6x5 blocks
+- [US005_smallest_1.21_unstackable_sorter_fish_preserving.litematic](attachments/US005_smallest_1.21_unstackable_sorter_fish_preserving.litematic): MC 1.21.4, Size 12x7x5 blocks
