@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Tested & Functional, Recommended, Full Sorters*
+**Tags:** *Full Sorters*
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1395668040280182917)
 
@@ -32,5 +32,5 @@ The smallest device to sort between two potion types, books, shears, flint and s
 <img src="images/area_render_97_.png?raw=1" height="300px">
 
 ## Resources
-- [US005_smallest_1.21_unstackable_sorter.litematic](attachments/US005_smallest_1.21_unstackable_sorter.litematic): MC 1.21.4, Size 12x6x5 blocks
-- [US005_smallest_1.21_unstackable_sorter_fish_preserving.litematic](attachments/US005_smallest_1.21_unstackable_sorter_fish_preserving.litematic): MC 1.21.4, Size 12x7x5 blocks
+- [US006_smallest_1.21_unstackable_sorter.litematic](attachments/US006_smallest_1.21_unstackable_sorter.litematic): MC 1.21.4, Size 12x6x5 blocks
+- [US006_smallest_1.21_unstackable_sorter_fish_preserving.litematic](attachments/US006_smallest_1.21_unstackable_sorter_fish_preserving.litematic): MC 1.21.4, Size 12x7x5 blocks

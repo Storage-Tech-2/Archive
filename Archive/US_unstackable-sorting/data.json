@@ -3,7 +3,7 @@
   "name": "unstackable-sorting",
   "code": "US",
   "description": "Sort unstackable items by its type, typically by exploiting unique interactions with that item",
-  "currentCodeId": 5,
+  "currentCodeId": 6,
   "entries": [
     {
       "id": "1387480002978910330",
@@ -29,9 +29,9 @@
     {
       "id": "1387991465849917562",
       "name": "Smallest 1.21 Unstackable Sorter",
-      "code": "US005",
-      "timestamp": 1752823589830,
-      "path": "US005_Smallest_1.21_Unstackable_Sorter"
+      "code": "US006",
+      "timestamp": 1752826233192,
+      "path": "US006_Smallest_1.21_Unstackable_Sorter"
     }
   ]
 }
