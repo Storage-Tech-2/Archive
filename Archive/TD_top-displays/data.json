@@ -3,7 +3,7 @@
   "name": "top-displays",
   "code": "TD",
   "description": "Top box displays",
-  "currentCodeId": 4,
+  "currentCodeId": 5,
   "entries": [
     {
       "id": "1386199263746461867",
@@ -25,6 +25,13 @@
       "code": "TD003",
       "timestamp": 1750857008067,
       "path": "TD003_Noteblock_Top_Display"
+    },
+    {
+      "id": "1396151574577021061",
+      "name": "Small Slider Top Display",
+      "code": "TD005",
+      "timestamp": 1752947318573,
+      "path": "TD005_Small_Slider_Top_Display"
     }
   ]
 }
