@@ -1,7 +1,7 @@
 # Entityless 50 Furnace Array
 <img alt="area_render.png" src="images/area_render.png?raw=1" height="300px">
 
-**Authors:** *floppydonkey*
+**Authors:** *FloppyDonkey*
 
 **Endorsed by:** *Andrews54757*
 
