@@ -4,5 +4,6 @@
   "code": "CT",
   "description": "Minecarts",
   "currentCodeId": 0,
-  "entries": []
+  "entries": [],
+  "category": "Transport"
 }
