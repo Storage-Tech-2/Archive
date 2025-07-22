@@ -4,5 +4,6 @@
   "code": "MF",
   "description": "Multi item filters check if an item is part of a set of items in the same slice/device",
   "currentCodeId": 2,
-  "entries": []
+  "entries": [],
+  "category": "Item Processing"
 }
