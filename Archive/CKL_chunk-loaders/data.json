@@ -4,6 +4,14 @@
   "code": "CKL",
   "category": "Peripherals",
   "description": "Chunk loaders for storage systems",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1397058574407958654",
+      "name": "FHL Pumpkin based Chunkloader",
+      "code": "CKL001",
+      "timestamp": 1753156502117,
+      "path": "CKL001_FHL_Pumpkin_based_Chunkloader"
+    }
+  ]
 }
