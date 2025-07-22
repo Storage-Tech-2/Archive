@@ -4,5 +4,6 @@
   "code": "WBS",
   "description": "Sorts boxes by checking if it contains a specific item type in any slot",
   "currentCodeId": 1,
-  "entries": []
+  "entries": [],
+  "category": "Box Sorting"
 }
