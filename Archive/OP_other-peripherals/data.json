@@ -2,7 +2,8 @@
   "id": "1376069973910229052",
   "name": "other-peripherals",
   "code": "OP",
-  "description": "Other peripherals, eg chunk loaders",
+  "description": "Other peripherals",
   "currentCodeId": 0,
-  "entries": []
+  "entries": [],
+  "category": "Peripherals"
 }
