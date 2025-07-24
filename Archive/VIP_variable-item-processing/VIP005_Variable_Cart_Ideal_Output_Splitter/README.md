@@ -23,3 +23,10 @@ Takes item entities as input, and loads them into single type boxes using variab
 ## Resources
 - [VIP005_var_cart_ideal_output_split.litematic](attachments/VIP005_var_cart_ideal_output_split.litematic): MC 1.21, Size 21x14x33 blocks
 - [VIP005_Bilibili_Video_BV1JCpreNEX9.url](https://www.bilibili.com/video/BV1JCpreNEX9/): Bilibili video
+
+## Comments
+
+### Andrews54757 (7/24/2025)
+Item input is on the side. Add loose items into the stream to start the device.
+<img alt="image.png" src="comments_attachments/1397834495616618526-image.png?raw=1" height="150px">
+
