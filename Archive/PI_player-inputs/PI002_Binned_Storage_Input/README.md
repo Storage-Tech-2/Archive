@@ -1,7 +1,7 @@
 # Binned Storage Input
 <img alt="area_render_21_.png" src="images/area_render_21_.png?raw=1" height="300px">
 
-**Authors:** *oliver ♱*
+**Authors:** *SVJ*
 
 **Endorsed by:** *Andrews54757*
 
