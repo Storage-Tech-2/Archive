@@ -22,10 +22,11 @@
       "iconURL": "https://cdn.discordapp.com/avatars/663789366203908169/10193fcf1bbae12abbafe1496c300e13.webp"
     },
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "1165983253493198972",
       "username": "wreg_",
-      "iconURL": "https://cdn.discordapp.com/avatars/1165983253493198972/4eae41af71aa41964fa5815ef233af80.webp"
+      "iconURL": "https://cdn.discordapp.com/avatars/1165983253493198972/4eae41af71aa41964fa5815ef233af80.webp",
+      "displayName": "wreg"
     }
   ],
   "endorsers": [
