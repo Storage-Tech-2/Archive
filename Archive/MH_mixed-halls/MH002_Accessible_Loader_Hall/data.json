@@ -42,17 +42,6 @@
       "description": "Sent by camphorwood at 7/26/2025, 11:57:21 AM",
       "canDownload": true,
       "path": "images/image.png"
-    },
-    {
-      "id": "1398696336198734066",
-      "name": "pyra_waterstream.png",
-      "contentType": "image/png",
-      "url": "https://cdn.discordapp.com/attachments/1398695700073811978/1398696336198734066/pyra_waterstream.png?ex=68864cf9&is=6884fb79&hm=05d947a1bf692f2bf82be7a95db0f70e1a5e607042d19bac20ae9ee1d42a2af1&",
-      "description": "Sent by camphorwood at 7/26/2025, 11:59:53 AM",
-      "canDownload": true,
-      "width": 800,
-      "height": 276,
-      "path": "images/pyra_waterstream.png"
     }
   ],
   "attachments": [
@@ -68,6 +57,15 @@
         "size": "6x18x17",
         "version": "1.21.1"
       }
+    },
+    {
+      "id": "1398696336198734066",
+      "name": "MH002_pyra_waterstream.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1398695700073811978/1398696336198734066/pyra_waterstream.png?ex=68864cf9&is=6884fb79&hm=05d947a1bf692f2bf82be7a95db0f70e1a5e607042d19bac20ae9ee1d42a2af1&",
+      "description": "Sent by camphorwood at 7/26/2025, 11:59:53 AM",
+      "canDownload": true,
+      "path": "attachments/MH002_pyra_waterstream.png"
     }
   ],
   "records": {
@@ -84,14 +82,14 @@
     ],
     "notes": "Please don't lock the hall while it is in operation. Box display from DatNerd, Overflow water stream by Pyraleft"
   },
-  "timestamp": 1753549869987,
+  "timestamp": 1753550021133,
   "post": {
-    "threadId": "1398714277963108402",
+    "threadId": "1398714918714212473",
     "forumId": "1375563506765664388",
     "continuingMessageIds": [
-      "1398714282044297256"
+      "1398714921285587095"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1398714277963108402",
-    "uploadMessageId": "1398714275710898341"
+    "threadURL": "https://discord.com/channels/1375556143186837695/1398714918714212473",
+    "uploadMessageId": "1398714910522867793"
   }
 }
