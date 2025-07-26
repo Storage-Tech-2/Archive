@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Tested & Functional*
+**Tags:** *Accessible Loaders, Tested & Functional*
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1398714918714212473)
 
