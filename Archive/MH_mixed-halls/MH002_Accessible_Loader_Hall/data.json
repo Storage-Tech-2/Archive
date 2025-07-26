@@ -1,0 +1,97 @@
+{
+  "id": "1398695700073811978",
+  "name": "Accessible Loader Hall",
+  "code": "MH002",
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "444883614761746436",
+      "displayName": "camphorwood",
+      "username": "camphorwood",
+      "iconURL": "https://cdn.discordapp.com/avatars/444883614761746436/17e4ab17b53d45242bc5b87532e74c0c.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "1234197202193219644",
+      "displayName": "Koalus",
+      "username": "koalus69",
+      "iconURL": "https://cdn.discordapp.com/avatars/1234197202193219644/9484efd5ab87fff26a62c943bc2dc55f.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488493937168391",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1398695700614742138",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1398695700073811978/1398695700614742138/image.png?ex=68864c61&is=6884fae1&hm=a7596ba8594cd482367d08ddddf6c10608aa5fe4d7c4cd39bf6d419162281cde&",
+      "description": "Sent by camphorwood at 7/26/2025, 11:57:21 AM",
+      "canDownload": true,
+      "path": "images/image.png"
+    },
+    {
+      "id": "1398696336198734066",
+      "name": "pyra_waterstream.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1398695700073811978/1398696336198734066/pyra_waterstream.png?ex=68864cf9&is=6884fb79&hm=05d947a1bf692f2bf82be7a95db0f70e1a5e607042d19bac20ae9ee1d42a2af1&",
+      "description": "Sent by camphorwood at 7/26/2025, 11:59:53 AM",
+      "canDownload": true,
+      "width": 800,
+      "height": 276,
+      "path": "images/pyra_waterstream.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1398695990680096849",
+      "name": "MH002_accessible_loader_hall.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1398695700073811978/1398695990680096849/accessible_loader_hall.litematic?ex=68864ca6&is=6884fb26&hm=282a922215884ae47ba44f4dba9369148c60cd2b86e32199d83e9ae03ca3ed09&",
+      "description": "Sent by camphorwood at 7/26/2025, 11:58:30 AM",
+      "canDownload": true,
+      "path": "attachments/MH002_accessible_loader_hall.litematic",
+      "litematic": {
+        "size": "6x18x17",
+        "version": "1.21.1"
+      }
+    }
+  ],
+  "records": {
+    "description": "Items are loaded into an accessible shulker box, the subsequent full boxes are then stored in double chests",
+    "features": [
+      "SSI filters",
+      "Low buffer before box replacement",
+      "200k item capacity per item type",
+      "Overflow box collection"
+    ],
+    "considerations": [
+      "Average of 3.5 unlocked hoppers per slice",
+      "Displays buffers boxes"
+    ],
+    "notes": "Please don't lock the hall while it is in operation. Box display from DatNerd, Overflow water stream by Pyraleft"
+  },
+  "timestamp": 1753549869987,
+  "post": {
+    "threadId": "1398714277963108402",
+    "forumId": "1375563506765664388",
+    "continuingMessageIds": [
+      "1398714282044297256"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1398714277963108402",
+    "uploadMessageId": "1398714275710898341"
+  }
+}
