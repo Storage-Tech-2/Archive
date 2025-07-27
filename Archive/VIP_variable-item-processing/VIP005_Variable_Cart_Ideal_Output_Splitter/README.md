@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Untested*
+**Tags:** *Broken*
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1397833391767818270)
 
@@ -22,7 +22,7 @@ Takes item entities as input, and loads them into single type boxes using variab
 
 ## Resources
 - [VIP005_var_cart_ideal_output_split.litematic](attachments/VIP005_var_cart_ideal_output_split.litematic): MC 1.21, Size 21x14x33 blocks
-- [VIP005_Bilibili_Video_BV1JCpreNEX9.url](https://www.bilibili.com/video/BV1JCpreNEX9/): Bilibili video
+- [VIP005_Bilibili_Video_BV1HFPxeCE4m.url](https://www.bilibili.com/video/BV1HFPxeCE4m/): Bilibili video
 
 ## Comments
 
