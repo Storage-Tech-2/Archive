@@ -74,21 +74,10 @@
       "No bulk storage",
       "Slower than designs like <#1382996113191206932>"
     ],
-    "notes": [
-      "Decorated version: includes a mixed box loader for overflow items, a switch and a chunk loading indicator light",
-      "Accessible whitelister version: includes a restock station, a switch and a chunk loading indicator light",
-      "The base and accessible version does not have a box loader for overflow items, if the unsorted chests are full then the overflow items will despawn. You can add the mixed box loader attached in the decorated version in that case.",
-      "When building the storage, make sure to chunk align so that the storage is within the 3x3 loading range of the chunk loader.",
-      "Glow lichen can be replaced with sign",
-      "Make sure to only fill the cart dispenser with 8 hopper minecarts, refer to schematic",
-      "It is recommended to temporarily fill all the whitelister chest filter slots with blocker items (renamed iron nuggets). Once you acquire the actual filter items, to replace the placeholders. For a visual guide, refer to the demonstration at [this timestamp](<https://youtu.be/oU5EjKhhbnk?si=XwvpGQnIHJRrBjRf&t=76>)"
-    ],
-    "how to use": [
-      "Input loose items into the shulker box",
-      "Input shulker boxes (empty or not) into the double chest"
-    ]
+    "notes": "The base and accessible version does not have a box loader for overflow items, if the unsorted chests are full then the overflow items will despawn. You can add the mixed box loader attached in the decorated version in that case.",
+    "instructions": "### Build\n- When building the storage, make sure to chunk align so that the storage is within the 3x3 loading range of the chunk loader.\n- Glow lichen can be replaced with sign\n- Make sure to only fill the cart dispenser with 8 hopper minecarts, refer to schematic\n- Make sure to RENAME the blocker items (e.g. the iron nuggets except the actual filter item)\n- It is recommended to temporarily fill all the whitelister chest filter slots with blocker items (renamed iron nuggets). Once you acquire the actual filter items, to replace the placeholders. For a visual guide, refer to the demonstration at [this timestamp](<https://youtu.be/oU5EjKhhbnk?si=XwvpGQnIHJRrBjRf&t=76>)\n\n### How to use\n1. Input loose items into the shulker box\n2. Input shulker boxes (empty or not) into the double chest"
   },
-  "timestamp": 1752180144723,
+  "timestamp": 1753625109559,
   "post": {
     "threadId": "1390326056405434429",
     "forumId": "1375566804910604349",
