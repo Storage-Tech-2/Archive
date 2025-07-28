@@ -3,7 +3,7 @@
   "name": "box-unloaders",
   "code": "BU",
   "description": "Box unloaders",
-  "currentCodeId": 9,
+  "currentCodeId": 10,
   "entries": [
     {
       "id": "1386456499231916093",
@@ -60,6 +60,13 @@
       "code": "BU008",
       "timestamp": 1751351855923,
       "path": "BU008_Compact_Cart_Yeeting_Box_Unloader"
+    },
+    {
+      "id": "1399539219826999418",
+      "name": "1wt Full-Featured Box Unloader",
+      "code": "BU010",
+      "timestamp": 1753747051943,
+      "path": "BU010_1wt_Full-Featured_Box_Unloader"
     }
   ],
   "category": "Box Loaders & Unloaders"

@@ -1,0 +1,85 @@
+{
+  "id": "1399539219826999418",
+  "name": "1wt Full-Featured Box Unloader",
+  "code": "BU010",
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "688456529338433611",
+      "displayName": "Christone",
+      "username": "glidingmonkey",
+      "iconURL": "https://cdn.discordapp.com/avatars/688456529338433611/348a34add443a5a71237111010e484b1.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488474148438035",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1386248557111017532",
+      "name": "1X Hopperspeed"
+    }
+  ],
+  "images": [
+    {
+      "id": "1399539542834282527",
+      "name": "1wt_full-featured_box_unloader_render.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1399539219826999418/1399539542834282527/1wt_full-featured_box_unloader_render.png?ex=68895e45&is=68880cc5&hm=e20c56ba142a3ce00133271ae3a84ededf550c16de6b24c994d430a4abc87d10&",
+      "description": "Sent by TMC Schematic Renderer at 7/28/2025, 7:50:29 PM",
+      "canDownload": true,
+      "width": 693,
+      "height": 800,
+      "path": "images/1wt_full-featured_box_unloader_render.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1399539222834188349",
+      "name": "BU010_1wt_full-featured_box_unloader.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1399539219826999418/1399539222834188349/1wt_full-featured_box_unloader.litematic?ex=68895df8&is=68880c78&hm=6561cb6046dc929c3ef73ee185a591404be419d9323c06e86d670c368698800e&",
+      "description": "Sent by glidingmonkey at 7/28/2025, 7:49:12 PM",
+      "canDownload": true,
+      "path": "attachments/BU010_1wt_full-featured_box_unloader.litematic",
+      "litematic": {
+        "size": "1x9x7",
+        "version": "1.20.1"
+      }
+    }
+  ],
+  "records": {
+    "description": "Unlike most others, this 1 wide box unloader can handle boxes with any fill level (including empty boxes), and is 100% reliable when tiled.",
+    "features": [
+      "Handles empty and low quantity boxes",
+      "True 1 wide tileable design",
+      "Output backlog safe",
+      "Automatic first box placement",
+      "100% reliable precision box collection with in-slice box output",
+      "No buffered boxes"
+    ],
+    "considerations": [
+      "Box input dispenser is on the side, item output is placed higher than box output."
+    ]
+  },
+  "timestamp": 1753747051943,
+  "post": {
+    "threadId": "1399541318337695875",
+    "forumId": "1375560446676963450",
+    "continuingMessageIds": [
+      "1399541321865101333"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1399541318337695875",
+    "uploadMessageId": "1399541317150707905"
+  }
+}
