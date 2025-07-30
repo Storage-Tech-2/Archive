@@ -1,0 +1,129 @@
+{
+  "id": "1399902816641749023",
+  "name": "Hopperlocked Filtered Box Loader Array",
+  "code": "FL004",
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "660633169191632908",
+      "displayName": "Passionate Storage Techer 69",
+      "username": "etikle",
+      "iconURL": "https://cdn.discordapp.com/avatars/660633169191632908/194eb1a786a28d07166515b6a1711c05.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488462563512408",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1386096970988257380",
+      "name": "1X Hopperspeed"
+    }
+  ],
+  "images": [
+    {
+      "id": "1399902818047098880",
+      "name": "area_render_103_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1399902816641749023/1399902818047098880/area_render_103_.png?ex=688ab098&is=68895f18&hm=532f3b0c8e3b5385c165e1ff0633ecc00100238bfe1d7773dc1306b05ff3a834&",
+      "description": "Sent by andrews54757 at 7/29/2025, 7:54:00 PM",
+      "canDownload": true,
+      "path": "images/area_render_103_.png"
+    },
+    {
+      "id": "1399902818336510004",
+      "name": "area_render_104_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1399902816641749023/1399902818336510004/area_render_104_.png?ex=688ab098&is=68895f18&hm=ef476c13f105a1bd186de9820cffce323c9fe68f265120a32cc5743c25df56a3&",
+      "description": "Sent by andrews54757 at 7/29/2025, 7:54:00 PM",
+      "canDownload": true,
+      "path": "images/area_render_104_.png"
+    },
+    {
+      "id": "1399903483028574228",
+      "name": "area_render_105_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1399902816641749023/1399903483028574228/area_render_105_.png?ex=688ab137&is=68895fb7&hm=0f4b01c72bea66c3b47f76be63fff66dcb22418899c73755364ad8bf13f4dc34&",
+      "description": "Sent by andrews54757 at 7/29/2025, 7:56:39 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 665,
+      "path": "images/area_render_105_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1399902817342459994",
+      "name": "FL004_4_Hopper_1x_Array_v2.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1399902816641749023/1399902817342459994/4_Hopper_1x_Array_v2.litematic?ex=688ab098&is=68895f18&hm=fe609b2ef95e91c54c46519035057bc8a39f0e9fa28a9317c135ea3620bb1a15&",
+      "description": "Sent by andrews54757 at 7/29/2025, 7:54:00 PM",
+      "canDownload": true,
+      "path": "attachments/FL004_4_Hopper_1x_Array_v2.litematic",
+      "litematic": {
+        "size": "9x9x37",
+        "version": "1.20.1"
+      }
+    },
+    {
+      "id": "1399903483309850845",
+      "name": "FL004_4_Hopper_1x_Array_2x2.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1399902816641749023/1399903483309850845/4_Hopper_1x_Array_2x2.litematic?ex=688ab137&is=68895fb7&hm=b3ab114f8ee004f32a0df9f4dc86db404467eb058d73fe1667a9b52318107df1&",
+      "description": "Sent by andrews54757 at 7/29/2025, 7:56:39 PM",
+      "canDownload": true,
+      "path": "attachments/FL004_4_Hopper_1x_Array_2x2.litematic",
+      "litematic": {
+        "size": "19x17x37",
+        "version": "1.20.1"
+      }
+    }
+  ],
+  "records": {
+    "description": "This filtered shulker box array is fully hopperlocked and uses only 4 hoppers in each slice.",
+    "features": [
+      "Fully hopperlocked",
+      "Low hopper count: 4 hoppers/slice",
+      "9x9 Size",
+      "Signal strength independent filters",
+      "Water collection",
+      "Can be stacked vertically (128x hopperspeed 2x2 layout schematic included)"
+    ],
+    "considerations": [
+      "While there is a 1x loader every 1 wide slice, you need to AB tile 2 wide slices containing 2 loaders at a time.",
+      "Waterstream box distribution is required",
+      "Waterstream requires gaps in ice for hopperlocking"
+    ],
+    "notes": [
+      "The base schematic contains a 32x hopperspeed capacity.",
+      "Empty boxes dispensing is triggered when a full box is output with a 1:1 ratio. If you run out of boxes, you will have to manually dump in empty boxes in the box distribution stream to refill the loaders. Global call based distribution coming soon:tm:",
+      "Inspired by https://discord.com/channels/748542142347083868/749137424684285992/1227104372878741596"
+    ],
+    "instructions": [
+      "Setup hopper filters",
+      "Unlock loaders by flicking the hopperlocking lever on red concrete block at the bottom corner of the device",
+      "Dump item entities into input",
+      "Relock loaders only after everything has been loaded into boxes. Engaging locking while loader is active may cause box replacement to fail."
+    ]
+  },
+  "timestamp": 1753834522003,
+  "post": {
+    "threadId": "1399908195421388800",
+    "forumId": "1375556999257002185",
+    "continuingMessageIds": [
+      "1399908199213039860"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1399908195421388800",
+    "uploadMessageId": "1399908193382957079"
+  }
+}

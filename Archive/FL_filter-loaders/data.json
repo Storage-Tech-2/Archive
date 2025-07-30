@@ -3,7 +3,7 @@
   "name": "filter-loaders",
   "code": "FL",
   "description": "Box loaders with filters on it, excluding crafters",
-  "currentCodeId": 3,
+  "currentCodeId": 4,
   "entries": [
     {
       "id": "1386091760710848542",
@@ -25,6 +25,13 @@
       "code": "FL003",
       "timestamp": 1750997281473,
       "path": "FL003_Simple_1x_Filtered_Box_Loader"
+    },
+    {
+      "id": "1399902816641749023",
+      "name": "Hopperlocked Filtered Box Loader Array",
+      "code": "FL004",
+      "timestamp": 1753834522003,
+      "path": "FL004_Hopperlocked_Filtered_Box_Loader_Array"
     }
   ],
   "category": "Box Loaders & Unloaders"
