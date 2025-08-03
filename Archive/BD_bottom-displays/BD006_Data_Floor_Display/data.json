@@ -114,9 +114,9 @@
     "considerations": [
       "Will eventually buffer boxes in the hopper and dispenser."
     ],
-    "notes": "This design is 1.16 due to the comparator on the piston"
+    "notes": "Versions with the comparator on the piston are 1.16+"
   },
-  "timestamp": 1750969637032,
+  "timestamp": 1754180730718,
   "post": {
     "forumId": "1375561551188328531",
     "threadId": "1388317284279390339",

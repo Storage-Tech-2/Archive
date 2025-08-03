@@ -18,7 +18,7 @@ A tiny floor display which is great for quad bulks.
 ## Considerations
 - Will eventually buffer boxes in the hopper and dispenser.
 ## Notes
-This design is 1.16 due to the comparator on the piston
+Versions with the comparator on the piston are 1.16+
 
 ## Other Images
 <img src="images/area_render.png?raw=1" height="300px">
