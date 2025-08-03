@@ -1,4 +1,4 @@
-# 1.16+ Unencoded Variable Box Temp
+# Unencoded Variable Box Temp
 <img alt="area_render_107_.png" src="images/area_render_107_.png?raw=1" height="300px">
 
 **Authors:** *vincent, 77777777777777777777, insto*

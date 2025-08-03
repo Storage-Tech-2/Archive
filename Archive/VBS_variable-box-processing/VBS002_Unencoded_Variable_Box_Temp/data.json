@@ -1,6 +1,6 @@
 {
   "id": "1401371516389687346",
-  "name": "1.16+ Unencoded Variable Box Temp",
+  "name": "Unencoded Variable Box Temp",
   "code": "VBS002",
   "authors": [
     {
@@ -110,7 +110,7 @@
     ],
     "notes": "Press the wooden button to start processing input. Flip the lever on the yellow concrete block to pause the system. Can theoretically work in Minecraft 1.16+"
   },
-  "timestamp": 1754184530091,
+  "timestamp": 1754184552012,
   "post": {
     "threadId": "1401376236223074426",
     "forumId": "1375570066451599401",
