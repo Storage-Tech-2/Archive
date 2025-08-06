@@ -3,7 +3,7 @@
   "name": "other-displays",
   "code": "OD",
   "description": "Other box displays.",
-  "currentCodeId": 3,
+  "currentCodeId": 4,
   "entries": [
     {
       "id": "1387132949086076948",
@@ -25,6 +25,13 @@
       "code": "OD003",
       "timestamp": 1751903304287,
       "path": "OD003_Noteblock_Placement_Box_Display"
+    },
+    {
+      "id": "1402509058203848854",
+      "name": "Wall Box Display",
+      "code": "OD004",
+      "timestamp": 1754455048350,
+      "path": "OD004_Wall_Box_Display"
     }
   ],
   "category": "Box Displays"
