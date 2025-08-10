@@ -10,7 +10,11 @@
       "name": "Simple Dropdown Item Pusher",
       "code": "NT001",
       "timestamp": 1750788510279,
-      "path": "NT001_Simple_Dropdown_Item_Pusher"
+      "path": "NT001_Simple_Dropdown_Item_Pusher",
+      "tags": [
+        "Tested & Functional",
+        "Recommended"
+      ]
     }
   ],
   "category": "Transport"

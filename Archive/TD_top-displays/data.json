@@ -10,28 +10,46 @@
       "name": "Drop-Down Ceiling Box Display",
       "code": "TD001",
       "timestamp": 1750566430138,
-      "path": "TD001_Drop-Down_Ceiling_Box_Display"
+      "path": "TD001_Drop-Down_Ceiling_Box_Display",
+      "tags": [
+        "Recommended",
+        "Auto Replacement",
+        "Tested & Functional"
+      ]
     },
     {
       "id": "1387092967147180035",
       "name": "Inverse Slider Box Display",
       "code": "TD002",
       "timestamp": 1751216594040,
-      "path": "TD002_Inverse_Slider_Box_Display"
+      "path": "TD002_Inverse_Slider_Box_Display",
+      "tags": [
+        "Auto Replacement",
+        "Tested & Functional"
+      ]
     },
     {
       "id": "1387184563532333288",
       "name": "Noteblock Top Display",
       "code": "TD003",
       "timestamp": 1750857008067,
-      "path": "TD003_Noteblock_Top_Display"
+      "path": "TD003_Noteblock_Top_Display",
+      "tags": [
+        "Tested & Functional",
+        "Manual Replacement"
+      ]
     },
     {
       "id": "1396151574577021061",
       "name": "Small Slider Top Display",
       "code": "TD005",
       "timestamp": 1752947318573,
-      "path": "TD005_Small_Slider_Top_Display"
+      "path": "TD005_Small_Slider_Top_Display",
+      "tags": [
+        "Recommended",
+        "Auto Replacement",
+        "Tested & Functional"
+      ]
     }
   ],
   "category": "Box Displays"

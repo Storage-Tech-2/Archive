@@ -10,28 +10,50 @@
       "name": "Default Extended Wall Box Display",
       "code": "OD001",
       "timestamp": 1750788732054,
-      "path": "OD001_Default_Extended_Wall_Box_Display"
+      "path": "OD001_Default_Extended_Wall_Box_Display",
+      "tags": [
+        "Tested & Functional",
+        "Recommended",
+        "Reliable Collection",
+        "Auto Replacement"
+      ]
     },
     {
       "id": "1387997827422097460",
       "name": "1wt Variable Display",
       "code": "OD002",
       "timestamp": 1751013871094,
-      "path": "OD002_1wt_Variable_Display"
+      "path": "OD002_1wt_Variable_Display",
+      "tags": [
+        "Tested & Functional",
+        "Recommended",
+        "Reliable Collection"
+      ]
     },
     {
       "id": "1387253213308129421",
       "name": "Noteblock Placement Box Display",
       "code": "OD003",
       "timestamp": 1751903304287,
-      "path": "OD003_Noteblock_Placement_Box_Display"
+      "path": "OD003_Noteblock_Placement_Box_Display",
+      "tags": [
+        "Tested & Functional",
+        "Recommended",
+        "Auto Replacement",
+        "Reliable Collection"
+      ]
     },
     {
       "id": "1402509058203848854",
       "name": "Wall Box Display",
       "code": "OD004",
       "timestamp": 1754455048350,
-      "path": "OD004_Wall_Box_Display"
+      "path": "OD004_Wall_Box_Display",
+      "tags": [
+        "Tested & Functional",
+        "Reliable Collection",
+        "Auto Replacement"
+      ]
     }
   ],
   "category": "Box Displays"

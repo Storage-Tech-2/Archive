@@ -10,35 +10,60 @@
       "name": "Compact Box Fill Level Comparer",
       "code": "FBS001",
       "timestamp": 1750619211970,
-      "path": "FBS001_Compact_Box_Fill_Level_Comparer"
+      "path": "FBS001_Compact_Box_Fill_Level_Comparer",
+      "tags": [
+        "Comparer",
+        "Recommended",
+        "Tested & Functional"
+      ]
     },
     {
       "id": "1386898690844786738",
       "name": "Compact Shulker Box (is full?/is partial?) Sorter",
       "code": "FBS003",
       "timestamp": 1750732870769,
-      "path": "FBS003_Compact_Shulker_Box_is_fullis_partial_Sorter"
+      "path": "FBS003_Compact_Shulker_Box_is_fullis_partial_Sorter",
+      "tags": [
+        "Recommended",
+        "Tested & Functional",
+        "isEmpty/isFull"
+      ]
     },
     {
       "id": "1386919025174515793",
       "name": "Hopperspeed 3 Way Box Fill Level Sorter",
       "code": "FBS005",
       "timestamp": 1750737826127,
-      "path": "FBS005_Hopperspeed_3_Way_Box_Fill_Level_Sorter"
+      "path": "FBS005_Hopperspeed_3_Way_Box_Fill_Level_Sorter",
+      "tags": [
+        "Recommended",
+        "Tested & Functional",
+        "3 Way Sorter"
+      ]
     },
     {
       "id": "1388021020811591771",
       "name": "One Hopper Box isEmpty/isFull",
       "code": "FBS006",
       "timestamp": 1751000750503,
-      "path": "FBS006_One_Hopper_Box_isEmptyisFull"
+      "path": "FBS006_One_Hopper_Box_isEmptyisFull",
+      "tags": [
+        "isEmpty/isFull",
+        "Tested & Functional",
+        "Recommended"
+      ]
     },
     {
       "id": "1388564830234873856",
       "name": "One Hopper Box 3 Way Fill Level Sorter",
       "code": "FBS007",
       "timestamp": 1751130122623,
-      "path": "FBS007_One_Hopper_Box_3_Way_Fill_Level_Sorter"
+      "path": "FBS007_One_Hopper_Box_3_Way_Fill_Level_Sorter",
+      "tags": [
+        "Tested & Functional",
+        "Recommended",
+        "3 Way Sorter"
+      ]
     }
   ],
   "category": "Box Sorting"

@@ -10,35 +10,53 @@
       "name": "Compact Categorizer",
       "code": "MIS001",
       "timestamp": 1750573808217,
-      "path": "MIS001_Compact_Categorizer"
+      "path": "MIS001_Compact_Categorizer",
+      "tags": [
+        "Recommended",
+        "Tested & Functional"
+      ]
     },
     {
       "id": "1386555107084210176",
       "name": "Simple Cart-based MIS Storage (Scorpio MIS)",
       "code": "MIS003",
       "timestamp": 1753625109559,
-      "path": "MIS003_Simple_Cart-based_MIS_Storage_Scorpio_MIS"
+      "path": "MIS003_Simple_Cart-based_MIS_Storage_Scorpio_MIS",
+      "tags": [
+        "Tested & Functional"
+      ]
     },
     {
       "id": "1387111186075488287",
       "name": "CMIS 3.0",
       "code": "MIS004",
       "timestamp": 1750968933595,
-      "path": "MIS004_CMIS_3.0"
+      "path": "MIS004_CMIS_3.0",
+      "tags": [
+        "Untested"
+      ]
     },
     {
       "id": "1388561670355550298",
       "name": "J-MIS (Jay's Moony Item Sorter)",
       "code": "MIS005",
       "timestamp": 1751129755827,
-      "path": "MIS005_J-MIS_Jays_Moony_Item_Sorter"
+      "path": "MIS005_J-MIS_Jays_Moony_Item_Sorter",
+      "tags": [
+        "Tested & Functional",
+        "Recommended"
+      ]
     },
     {
       "id": "1388786404317724712",
       "name": "Xianyu MIS lite v2",
       "code": "MIS006",
       "timestamp": 1751865463564,
-      "path": "MIS006_Xianyu_MIS_lite_v2"
+      "path": "MIS006_Xianyu_MIS_lite_v2",
+      "tags": [
+        "Tested & Functional",
+        "Recommended"
+      ]
     }
   ],
   "category": "Full Systems"

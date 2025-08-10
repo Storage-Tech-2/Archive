@@ -10,14 +10,21 @@
       "name": "Entityless 50 Furnace Array",
       "code": "FA001",
       "timestamp": 1750738111030,
-      "path": "FA001_Entityless_50_Furnace_Array"
+      "path": "FA001_Entityless_50_Furnace_Array",
+      "tags": [
+        "Recommended",
+        "Tested & Functional"
+      ]
     },
     {
       "id": "1386952483917795468",
       "name": "144 Furnace Array V3",
       "code": "FA002",
       "timestamp": 1751229406214,
-      "path": "FA002_144_Furnace_Array_V3"
+      "path": "FA002_144_Furnace_Array_V3",
+      "tags": [
+        "Tested & Functional"
+      ]
     }
   ],
   "category": "Peripherals"

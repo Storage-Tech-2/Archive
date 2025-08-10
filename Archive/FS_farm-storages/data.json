@@ -10,7 +10,11 @@
       "name": "Concrete Factory/Duper Storage",
       "code": "FS001",
       "timestamp": 1751602813294,
-      "path": "FS001_Concrete_FactoryDuper_Storage"
+      "path": "FS001_Concrete_FactoryDuper_Storage",
+      "tags": [
+        "Tested & Functional",
+        "Recommended"
+      ]
     }
   ],
   "category": "Full Systems"

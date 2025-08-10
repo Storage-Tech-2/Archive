@@ -10,14 +10,22 @@
       "name": "Small 6gt 2+1 crafting station",
       "code": "MC002",
       "timestamp": 1750778953520,
-      "path": "MC002_Small_6gt_21_crafting_station"
+      "path": "MC002_Small_6gt_21_crafting_station",
+      "tags": [
+        "Tested & Functional",
+        "Recommended"
+      ]
     },
     {
       "id": "1387091494158209074",
       "name": "tiny 8gt 1+1 crafting station",
       "code": "MC003",
       "timestamp": 1750778885787,
-      "path": "MC003_tiny_8gt_11_crafting_station"
+      "path": "MC003_tiny_8gt_11_crafting_station",
+      "tags": [
+        "Tested & Functional",
+        "Recommended"
+      ]
     }
   ],
   "category": "Peripherals"

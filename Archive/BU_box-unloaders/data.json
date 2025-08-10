@@ -10,63 +10,104 @@
       "name": "1wt 2x Unloader",
       "code": "BU002",
       "timestamp": 1750627612893,
-      "path": "BU002_1wt_2x_Unloader"
+      "path": "BU002_1wt_2x_Unloader",
+      "tags": [
+        "2X Hopperspeed",
+        "Tested & Functional"
+      ]
     },
     {
       "id": "1386479322843320361",
       "name": "Small 1x Box Unloader",
       "code": "BU003",
       "timestamp": 1750632898364,
-      "path": "BU003_Small_1x_Box_Unloader"
+      "path": "BU003_Small_1x_Box_Unloader",
+      "tags": [
+        "Recommended",
+        "Tested & Functional",
+        "1X Hopperspeed"
+      ]
     },
     {
       "id": "1386553835446603825",
       "name": "Minimum Piston, Slice Preserving Box Unloader",
       "code": "BU004",
       "timestamp": 1752040649325,
-      "path": "BU004_Minimum_Piston_Slice_Preserving_Box_Unloader"
+      "path": "BU004_Minimum_Piston_Slice_Preserving_Box_Unloader",
+      "tags": [
+        "Tested & Functional",
+        "1X Hopperspeed"
+      ]
     },
     {
       "id": "1386937530808537098",
       "name": "Hopperspeed Box Yeeter",
       "code": "BU005",
       "timestamp": 1752087962505,
-      "path": "BU005_Hopperspeed_Box_Yeeter"
+      "path": "BU005_Hopperspeed_Box_Yeeter",
+      "tags": [
+        "Recommended",
+        "Tested & Functional",
+        "Box Yeet"
+      ]
     },
     {
       "id": "1387180395883397291",
       "name": "Simple 1x Shulker Box Unloader",
       "code": "BU006",
       "timestamp": 1752087920247,
-      "path": "BU006_Simple_1x_Shulker_Box_Unloader"
+      "path": "BU006_Simple_1x_Shulker_Box_Unloader",
+      "tags": [
+        "Tested & Functional",
+        "1X Hopperspeed"
+      ]
     },
     {
       "id": "1388031532282937445",
       "name": "Tiny 1x Box Unloader",
       "code": "BU007",
       "timestamp": 1751650739913,
-      "path": "BU007_Tiny_1x_Box_Unloader"
+      "path": "BU007_Tiny_1x_Box_Unloader",
+      "tags": [
+        "1X Hopperspeed",
+        "Tested & Functional",
+        "Recommended"
+      ]
     },
     {
       "id": "1386246487452942437",
       "name": "710k/hr Cart Yeeting Box Unloader",
       "code": "BU001",
       "timestamp": 1751351873280,
-      "path": "BU001_710khr_Cart_Yeeting_Box_Unloader"
+      "path": "BU001_710khr_Cart_Yeeting_Box_Unloader",
+      "tags": [
+        "Tested & Functional",
+        "Cart Yeet"
+      ]
     },
     {
       "id": "1389350108801400832",
       "name": "Compact Cart Yeeting Box Unloader",
       "code": "BU008",
       "timestamp": 1751351855923,
-      "path": "BU008_Compact_Cart_Yeeting_Box_Unloader"
+      "path": "BU008_Compact_Cart_Yeeting_Box_Unloader",
+      "tags": [
+        "Tested & Functional",
+        "Cart Yeet",
+        "Recommended"
+      ]
     },
     {
       "id": "1399539219826999418",
       "name": "1wt Full-Featured Box Unloader",
       "code": "BU010",
       "timestamp": 1754154339472,
-      "path": "BU010_1wt_Full-Featured_Box_Unloader"
+      "path": "BU010_1wt_Full-Featured_Box_Unloader",
+      "tags": [
+        "Recommended",
+        "Tested & Functional",
+        "1X Hopperspeed"
+      ]
     }
   ],
   "category": "Box Loaders & Unloaders"

@@ -10,21 +10,32 @@
       "name": "18gt Box First Item Blacklister/Whitelister",
       "code": "IBS001",
       "timestamp": 1750630085984,
-      "path": "IBS001_18gt_Box_First_Item_BlacklisterWhitelister"
+      "path": "IBS001_18gt_Box_First_Item_BlacklisterWhitelister",
+      "tags": [
+        "Recommended",
+        "Tested & Functional"
+      ]
     },
     {
       "id": "1386694246311919667",
       "name": "1wABt 8gt Fully Hopperlocked Box Sorter",
       "code": "IBS002",
       "timestamp": 1750684230647,
-      "path": "IBS002_1wABt_8gt_Fully_Hopperlocked_Box_Sorter"
+      "path": "IBS002_1wABt_8gt_Fully_Hopperlocked_Box_Sorter",
+      "tags": [
+        "Recommended",
+        "Tested & Functional"
+      ]
     },
     {
       "id": "1402501851211104426",
       "name": "2wt 16gt Multi-type Box Sorter",
       "code": "IBS003",
       "timestamp": 1754454467224,
-      "path": "IBS003_2wt_16gt_Multi-type_Box_Sorter"
+      "path": "IBS003_2wt_16gt_Multi-type_Box_Sorter",
+      "tags": [
+        "Tested & Functional"
+      ]
     }
   ],
   "category": "Box Sorting"

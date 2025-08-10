@@ -10,21 +10,33 @@
       "name": "8x Fullspeed Loader",
       "code": "OL001",
       "timestamp": 1750631487535,
-      "path": "OL001_8x_Fullspeed_Loader"
+      "path": "OL001_8x_Fullspeed_Loader",
+      "tags": [
+        "Untested",
+        "Fullspeed"
+      ]
     },
     {
       "id": "1388556991462637648",
       "name": "Precision Hybrid Loader",
       "code": "OL002",
       "timestamp": 1751128287837,
-      "path": "OL002_Precision_Hybrid_Loader"
+      "path": "OL002_Precision_Hybrid_Loader",
+      "tags": [
+        "Tested & Functional",
+        "Recommended"
+      ]
     },
     {
       "id": "1389410349618434228",
       "name": "Globally Clocked 3wt 6x Loader",
       "code": "OL003",
       "timestamp": 1751331755696,
-      "path": "OL003_Globally_Clocked_3wt_6x_Loader"
+      "path": "OL003_Globally_Clocked_3wt_6x_Loader",
+      "tags": [
+        "Tested & Functional",
+        "Recommended"
+      ]
     }
   ],
   "category": "Box Loaders & Unloaders"

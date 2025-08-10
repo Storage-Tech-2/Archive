@@ -10,42 +10,74 @@
       "name": "Collectionless Smart Display",
       "code": "BD002",
       "timestamp": 1750683096514,
-      "path": "BD002_Collectionless_Smart_Display"
+      "path": "BD002_Collectionless_Smart_Display",
+      "tags": [
+        "Closed Box Detection",
+        "Auto Replacement",
+        "Tested & Functional"
+      ]
     },
     {
       "id": "1386857979210367036",
       "name": "Simple Locking Box Display",
       "code": "BD003",
       "timestamp": 1750969815969,
-      "path": "BD003_Simple_Locking_Box_Display"
+      "path": "BD003_Simple_Locking_Box_Display",
+      "tags": [
+        "Auto Replacement",
+        "Tested & Functional"
+      ]
     },
     {
       "id": "1386859242874470480",
       "name": "Bufferless Powder Snow Floor Display",
       "code": "BD004",
       "timestamp": 1750723470224,
-      "path": "BD004_Bufferless_Powder_Snow_Floor_Display"
+      "path": "BD004_Bufferless_Powder_Snow_Floor_Display",
+      "tags": [
+        "Recommended",
+        "Auto Replacement",
+        "Reliable Collection",
+        "Bufferless",
+        "Tested & Functional"
+      ]
     },
     {
       "id": "1386945318175899690",
       "name": "Small minimal piston box display",
       "code": "BD005",
       "timestamp": 1750744033654,
-      "path": "BD005_Small_minimal_piston_box_display"
+      "path": "BD005_Small_minimal_piston_box_display",
+      "tags": [
+        "Tested & Functional",
+        "Recommended",
+        "Auto Replacement",
+        "Reliable Collection"
+      ]
     },
     {
       "id": "1387155323881652350",
       "name": "Data Floor Display",
       "code": "BD006",
       "timestamp": 1754180730718,
-      "path": "BD006_Data_Floor_Display"
+      "path": "BD006_Data_Floor_Display",
+      "tags": [
+        "Tested & Functional",
+        "Recommended",
+        "Auto Replacement"
+      ]
     },
     {
       "id": "1387160186870956062",
       "name": "Soul Sand Floor Display",
       "code": "BD007",
       "timestamp": 1750795513273,
-      "path": "BD007_Soul_Sand_Floor_Display"
+      "path": "BD007_Soul_Sand_Floor_Display",
+      "tags": [
+        "Tested & Functional",
+        "Recommended",
+        "Auto Replacement"
+      ]
     }
   ],
   "category": "Box Displays"

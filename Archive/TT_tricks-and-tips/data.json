@@ -10,7 +10,11 @@
       "name": "How to float align items",
       "code": "TT001",
       "timestamp": 1751383278024,
-      "path": "TT001_How_to_float_align_items"
+      "path": "TT001_How_to_float_align_items",
+      "tags": [
+        "Tested & Functional",
+        "Recommended"
+      ]
     }
   ],
   "category": "Other Resources"

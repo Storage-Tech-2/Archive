@@ -10,14 +10,22 @@
       "name": "1-Wide Hopper-speed Dropper Elevators",
       "code": "DT002",
       "timestamp": 1751162353341,
-      "path": "DT002_1-Wide_Hopper-speed_Dropper_Elevators"
+      "path": "DT002_1-Wide_Hopper-speed_Dropper_Elevators",
+      "tags": [
+        "Tested & Functional",
+        "Recommended"
+      ]
     },
     {
       "id": "1388023798950924308",
       "name": "Chart of 1wt auto-droppers",
       "code": "DT003",
       "timestamp": 1751041995761,
-      "path": "DT003_Chart_of_1wt_auto-droppers"
+      "path": "DT003_Chart_of_1wt_auto-droppers",
+      "tags": [
+        "Tested & Functional",
+        "Recommended"
+      ]
     }
   ],
   "category": "Transport"

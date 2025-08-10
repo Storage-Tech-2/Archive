@@ -10,14 +10,21 @@
       "name": "Stack Separation Sorter-Loader v3",
       "code": "SS001",
       "timestamp": 1750790550638,
-      "path": "SS001_Stack_Separation_Sorter-Loader_v3"
+      "path": "SS001_Stack_Separation_Sorter-Loader_v3",
+      "tags": [
+        "Broken"
+      ]
     },
     {
       "id": "1387153647791636642",
       "name": "General Quarry Storage",
       "code": "SS003",
       "timestamp": 1753120955590,
-      "path": "SS003_General_Quarry_Storage"
+      "path": "SS003_General_Quarry_Storage",
+      "tags": [
+        "Tested & Functional",
+        "Recommended"
+      ]
     }
   ],
   "category": "Item Processing"

@@ -10,14 +10,21 @@
       "name": "Compact 2 Item Checker",
       "code": "OBP001",
       "timestamp": 1751997391729,
-      "path": "OBP001_Compact_2_Item_Checker"
+      "path": "OBP001_Compact_2_Item_Checker",
+      "tags": [
+        "Tested & Functional"
+      ]
     },
     {
       "id": "1402533524040450109",
       "name": "18gt 2 item checker",
       "code": "OBP003",
       "timestamp": 1754461030782,
-      "path": "OBP003_18gt_2_item_checker"
+      "path": "OBP003_18gt_2_item_checker",
+      "tags": [
+        "Recommended",
+        "Tested & Functional"
+      ]
     }
   ],
   "category": "Box Sorting"

@@ -10,28 +10,48 @@
       "name": "Hopperspeed Potion Type Filter",
       "code": "US002",
       "timestamp": 1750973599550,
-      "path": "US002_Hopperspeed_Potion_Type_Filter"
+      "path": "US002_Hopperspeed_Potion_Type_Filter",
+      "tags": [
+        "Tested & Functional",
+        "Recommended",
+        "Potions"
+      ]
     },
     {
       "id": "1387513620413288608",
       "name": "Simple isBox/isPotion/isBook/isShearsOrFlint Filters",
       "code": "US003",
       "timestamp": 1750969207691,
-      "path": "US003_Simple_isBoxisPotionisBookisShearsOrFlint_Filters"
+      "path": "US003_Simple_isBoxisPotionisBookisShearsOrFlint_Filters",
+      "tags": [
+        "Recommended",
+        "Shears & Flint",
+        "Books",
+        "isBox",
+        "Tested & Functional"
+      ]
     },
     {
       "id": "1391830251625250867",
       "name": "[1.17+] Bucked Mob Yeeter & Unstackable Axolotl Separator",
       "code": "US004",
       "timestamp": 1751908823726,
-      "path": "US004_1.17_Bucked_Mob_Yeeter__Unstackable_Axolotl_Separator"
+      "path": "US004_1.17_Bucked_Mob_Yeeter__Unstackable_Axolotl_Separator",
+      "tags": [
+        "Tested & Functional"
+      ]
     },
     {
       "id": "1387991465849917562",
       "name": "Smallest 1.21 Unstackable Sorter",
       "code": "US005",
       "timestamp": 1753149812749,
-      "path": "US005_Smallest_1.21_Unstackable_Sorter"
+      "path": "US005_Smallest_1.21_Unstackable_Sorter",
+      "tags": [
+        "Full Sorters",
+        "Tested & Functional",
+        "Recommended"
+      ]
     }
   ],
   "category": "Item Processing"

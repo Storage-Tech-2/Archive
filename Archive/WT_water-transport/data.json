@@ -10,14 +10,23 @@
       "name": "1.19+ 4D Item Aligner",
       "code": "WT001",
       "timestamp": 1750626047771,
-      "path": "WT001_1.19_4D_Item_Aligner"
+      "path": "WT001_1.19_4D_Item_Aligner",
+      "tags": [
+        "Tested & Functional",
+        "Item Aligners",
+        "Recommended"
+      ]
     },
     {
       "id": "1386451979730948216",
       "name": "4d Item Aligner and Batcher for Farms",
       "code": "WT002",
       "timestamp": 1750626520207,
-      "path": "WT002_4d_Item_Aligner_and_Batcher_for_Farms"
+      "path": "WT002_4d_Item_Aligner_and_Batcher_for_Farms",
+      "tags": [
+        "Item Aligners",
+        "Untested"
+      ]
     }
   ],
   "category": "Transport"

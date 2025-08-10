@@ -10,21 +10,33 @@
       "name": "Stack-type Sorter",
       "code": "OIP001",
       "timestamp": 1750565912801,
-      "path": "OIP001_Stack-type_Sorter"
+      "path": "OIP001_Stack-type_Sorter",
+      "tags": [
+        "Recommended",
+        "Tested & Functional"
+      ]
     },
     {
       "id": "1386425910319644864",
       "name": "Hopperspeed Item Entity isStackable",
       "code": "OIP002",
       "timestamp": 1751161603353,
-      "path": "OIP002_Hopperspeed_Item_Entity_isStackable"
+      "path": "OIP002_Hopperspeed_Item_Entity_isStackable",
+      "tags": [
+        "isStackable",
+        "Recommended",
+        "Tested & Functional"
+      ]
     },
     {
       "id": "1386473584297250936",
       "name": "13 item type whitelister for bartering",
       "code": "OIP003",
       "timestamp": 1750998109095,
-      "path": "OIP003_13_item_type_whitelister_for_bartering"
+      "path": "OIP003_13_item_type_whitelister_for_bartering",
+      "tags": [
+        "Untested"
+      ]
     }
   ],
   "category": "Item Processing"

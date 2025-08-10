@@ -10,42 +10,75 @@
       "name": "3wt 8x Mixed Box Loader",
       "code": "ML001",
       "timestamp": 1750576991354,
-      "path": "ML001_3wt_8x_Mixed_Box_Loader"
+      "path": "ML001_3wt_8x_Mixed_Box_Loader",
+      "tags": [
+        "Recommended",
+        "Tested & Functional",
+        "8X Hopperspeed"
+      ]
     },
     {
       "id": "1386422639773352099",
       "name": "3wt Full Clearance Mixed 6x Loader",
       "code": "ML002",
       "timestamp": 1750619626659,
-      "path": "ML002_3wt_Full_Clearance_Mixed_6x_Loader"
+      "path": "ML002_3wt_Full_Clearance_Mixed_6x_Loader",
+      "tags": [
+        "6X Hopperspeed",
+        "Recommended",
+        "Tested & Functional"
+      ]
     },
     {
       "id": "1386836989160194201",
       "name": "1x Full Speed Mixed Box Loader",
       "code": "ML003",
       "timestamp": 1750718201673,
-      "path": "ML003_1x_Full_Speed_Mixed_Box_Loader"
+      "path": "ML003_1x_Full_Speed_Mixed_Box_Loader",
+      "tags": [
+        "Fullspeed",
+        "Tested & Functional",
+        "1X Hopperspeed"
+      ]
     },
     {
       "id": "1386838443102965941",
       "name": "2x Mixed Full Speed Box Loader",
       "code": "ML004",
       "timestamp": 1750718622761,
-      "path": "ML004_2x_Mixed_Full_Speed_Box_Loader"
+      "path": "ML004_2x_Mixed_Full_Speed_Box_Loader",
+      "tags": [
+        "2X Hopperspeed",
+        "Recommended",
+        "Tested & Functional",
+        "Fullspeed"
+      ]
     },
     {
       "id": "1388545201961963610",
       "name": "Globally Clocked 3wt 8x Mixed Box Loader",
       "code": "ML005",
       "timestamp": 1751125560672,
-      "path": "ML005_Globally_Clocked_3wt_8x_Mixed_Box_Loader"
+      "path": "ML005_Globally_Clocked_3wt_8x_Mixed_Box_Loader",
+      "tags": [
+        "Global Clock",
+        "Recommended",
+        "Tested & Functional",
+        "8X Hopperspeed"
+      ]
     },
     {
       "id": "1389197974826913814",
       "name": "Globally clocked 3wt 6x fullspeed mixed loader",
       "code": "ML006",
       "timestamp": 1752597593874,
-      "path": "ML006_Globally_clocked_3wt_6x_fullspeed_mixed_loader"
+      "path": "ML006_Globally_clocked_3wt_6x_fullspeed_mixed_loader",
+      "tags": [
+        "Global Clock",
+        "Full Clearance",
+        "Fullspeed",
+        "6X Hopperspeed"
+      ]
     }
   ],
   "category": "Box Loaders & Unloaders"

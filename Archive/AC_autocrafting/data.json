@@ -10,28 +10,44 @@
       "name": "Shulker Box Crafters",
       "code": "AC001",
       "timestamp": 1751161631055,
-      "path": "AC001_Shulker_Box_Crafters"
+      "path": "AC001_Shulker_Box_Crafters",
+      "tags": [
+        "Recommended",
+        "Tested & Functional",
+        "Box crafters"
+      ]
     },
     {
       "id": "1387317727060033669",
       "name": "Box Crafter Using Mixed Ingredient Boxes",
       "code": "AC002",
       "timestamp": 1751161647069,
-      "path": "AC002_Box_Crafter_Using_Mixed_Ingredient_Boxes"
+      "path": "AC002_Box_Crafter_Using_Mixed_Ingredient_Boxes",
+      "tags": [
+        "Tested & Functional",
+        "Recommended",
+        "Box crafters"
+      ]
     },
     {
       "id": "1391820519988400168",
       "name": "[1.21] Compact SS2 1wABt Crafter",
       "code": "AC003",
       "timestamp": 1751908414463,
-      "path": "AC003_1.21_Compact_SS2_1wABt_Crafter"
+      "path": "AC003_1.21_Compact_SS2_1wABt_Crafter",
+      "tags": [
+        "Tested & Functional"
+      ]
     },
     {
       "id": "1391859709358903296",
       "name": "[1.21+] 18gt Box Color Swapper",
       "code": "AC004",
       "timestamp": 1752174875519,
-      "path": "AC004_1.21_18gt_Box_Color_Swapper"
+      "path": "AC004_1.21_18gt_Box_Color_Swapper",
+      "tags": [
+        "Tested & Functional"
+      ]
     }
   ],
   "category": "Item Processing"

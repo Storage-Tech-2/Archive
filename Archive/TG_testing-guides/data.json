@@ -10,7 +10,10 @@
       "name": "Hermitcraft Item Set",
       "code": "TG001",
       "timestamp": 1751164937546,
-      "path": "TG001_Hermitcraft_Item_Set"
+      "path": "TG001_Hermitcraft_Item_Set",
+      "tags": [
+        "Recommended"
+      ]
     }
   ],
   "category": "Other Resources"

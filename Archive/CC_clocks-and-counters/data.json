@@ -10,21 +10,34 @@
       "name": "1wt Divide-by-N Counter",
       "code": "CC002",
       "timestamp": 1750625540208,
-      "path": "CC002_1wt_Divide-by-N_Counter"
+      "path": "CC002_1wt_Divide-by-N_Counter",
+      "tags": [
+        "Recommended",
+        "Tested & Functional"
+      ]
     },
     {
       "id": "1386451279928360993",
       "name": "Super Long Resettable Pulse Extender",
       "code": "CC003",
       "timestamp": 1750626219501,
-      "path": "CC003_Super_Long_Resettable_Pulse_Extender"
+      "path": "CC003_Super_Long_Resettable_Pulse_Extender",
+      "tags": [
+        "Pulse Extenders",
+        "Untested"
+      ]
     },
     {
       "id": "1386453434559107284",
       "name": "3w Long Duration Pulse Extenders",
       "code": "CC004",
       "timestamp": 1750626744139,
-      "path": "CC004_3w_Long_Duration_Pulse_Extenders"
+      "path": "CC004_3w_Long_Duration_Pulse_Extenders",
+      "tags": [
+        "Recommended",
+        "Pulse Extenders",
+        "Tested & Functional"
+      ]
     }
   ],
   "category": "Wiring & Logic"

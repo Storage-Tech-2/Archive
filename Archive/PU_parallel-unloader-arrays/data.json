@@ -10,14 +10,20 @@
       "name": "Simple parallel unloader",
       "code": "PU001",
       "timestamp": 1750628874967,
-      "path": "PU001_Simple_parallel_unloader"
+      "path": "PU001_Simple_parallel_unloader",
+      "tags": [
+        "Tested & Functional"
+      ]
     },
     {
       "id": "1386940100428173372",
       "name": "Cart Based Parallelizer",
       "code": "PU003",
       "timestamp": 1750742967911,
-      "path": "PU003_Cart_Based_Parallelizer"
+      "path": "PU003_Cart_Based_Parallelizer",
+      "tags": [
+        "Untested"
+      ]
     }
   ],
   "category": "Advanced Tech"

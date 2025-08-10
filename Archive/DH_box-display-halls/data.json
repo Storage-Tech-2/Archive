@@ -10,28 +10,47 @@
       "name": "1.8 Mil Bulk Storage",
       "code": "DH002",
       "timestamp": 1750723730898,
-      "path": "DH002_1.8_Mil_Bulk_Storage"
+      "path": "DH002_1.8_Mil_Bulk_Storage",
+      "tags": [
+        "Recommended",
+        "Tested & Functional",
+        "2 Displays"
+      ]
     },
     {
       "id": "1386928511750770770",
       "name": "Fully Hopperlocked Compact Bulk Storage",
       "code": "DH003",
       "timestamp": 1751043563047,
-      "path": "DH003_Fully_Hopperlocked_Compact_Bulk_Storage"
+      "path": "DH003_Fully_Hopperlocked_Compact_Bulk_Storage",
+      "tags": [
+        "Tested & Functional",
+        "Recommended",
+        "2 Displays"
+      ]
     },
     {
       "id": "1387094139996209163",
       "name": "Pyra Quad Bulk",
       "code": "DH005",
       "timestamp": 1751042228343,
-      "path": "DH005_Pyra_Quad_Bulk"
+      "path": "DH005_Pyra_Quad_Bulk",
+      "tags": [
+        "Tested & Functional",
+        "4 Displays"
+      ]
     },
     {
       "id": "1386956182526230558",
       "name": "Box Sorter Quad Bulk",
       "code": "DH004",
       "timestamp": 1754832256387,
-      "path": "DH004_Box_Sorter_Quad_Bulk"
+      "path": "DH004_Box_Sorter_Quad_Bulk",
+      "tags": [
+        "4 Displays",
+        "Tested & Functional",
+        "Recommended"
+      ]
     }
   ],
   "category": "Storage Halls & UI"

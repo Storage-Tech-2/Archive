@@ -10,7 +10,11 @@
       "name": "Sweet Potatoes MS",
       "code": "LS001",
       "timestamp": 1752821891347,
-      "path": "LS001_Sweet_Potatoes_MS"
+      "path": "LS001_Sweet_Potatoes_MS",
+      "tags": [
+        "Tested & Functional",
+        "Recommended"
+      ]
     }
   ],
   "category": "Full Systems"

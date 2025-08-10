@@ -10,28 +10,44 @@
       "name": "Bottom-Accessible Shulker Loader",
       "code": "AL001",
       "timestamp": 1752087867743,
-      "path": "AL001_Bottom-Accessible_Shulker_Loader"
+      "path": "AL001_Bottom-Accessible_Shulker_Loader",
+      "tags": [
+        "Tileable",
+        "Recommended",
+        "Tested & Functional"
+      ]
     },
     {
       "id": "1387255160815751319",
       "name": "Small 1x Accessible Box Loader (with 2x version)",
       "code": "AL002",
       "timestamp": 1750942147033,
-      "path": "AL002_Small_1x_Accessible_Box_Loader_with_2x_version"
+      "path": "AL002_Small_1x_Accessible_Box_Loader_with_2x_version",
+      "tags": [
+        "Tested & Functional"
+      ]
     },
     {
       "id": "1388040613894684772",
       "name": "5 Thin Composter Accessible Loader",
       "code": "AL003",
       "timestamp": 1751005255449,
-      "path": "AL003_5_Thin_Composter_Accessible_Loader"
+      "path": "AL003_5_Thin_Composter_Accessible_Loader",
+      "tags": [
+        "Tested & Functional",
+        "Recommended",
+        "Tileable"
+      ]
     },
     {
       "id": "1396045650940137532",
       "name": "Simple 1x Accessible Box Loader",
       "code": "AL005",
       "timestamp": 1752989650837,
-      "path": "AL005_Simple_1x_Accessible_Box_Loader"
+      "path": "AL005_Simple_1x_Accessible_Box_Loader",
+      "tags": [
+        "Tested & Functional"
+      ]
     }
   ],
   "category": "Box Loaders & Unloaders"
