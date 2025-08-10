@@ -29,4 +29,4 @@
 
 ## Resources
 - [DH004_camphorwood_quad_bulk_fixed.litematic](attachments/DH004_camphorwood_quad_bulk_fixed.litematic): MC 1.21.4, Size 35x44x65 blocks
-- [DH004_2025-06-29_05-24-04_quad_bulk_showcase.zip](attachments/DH004_2025-06-29_05-24-04_quad_bulk_showcase.zip): MC 1.21.5
+- [DH004_2025-06-29_05-24-04_quad_bulk_showcase.zip](attachments/DH004_2025-06-29_05-24-04_quad_bulk_showcase.zip): application/zip
