@@ -60,26 +60,29 @@
   ],
   "attachments": [
     {
-      "id": "1388595477410484375",
-      "name": "DH004_camphorwood_quad_bulk_fixed.litematic",
-      "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1386956182526230558/1388595477410484375/camphorwood_quad_bulk_fixed.litematic?ex=68618dd0&is=68603c50&hm=be9d3eb3add70b51755b09607d28d6e3732643deef6bb546077164d0cbdc3b64&",
-      "description": "Sent by andrews54757 at 6/28/2025, 3:02:40 PM",
+      "id": "1404092782074663002",
+      "name": "DH004_2025-08-09_05-55-00_quad_bulk_showcase.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1386956182526230558/1404092782074663002/2025-08-09_05-55-00_quad_bulk_showcase.zip?ex=6899eece&is=68989d4e&hm=337de0efe0d742f889d3b0092d9e829a3b64cbd551a32f63ce90460f1c5d4292&",
+      "description": "Sent by camphorwood at 8/10/2025, 9:23:26 AM",
       "canDownload": true,
-      "litematic": {
-        "size": "35x44x65",
-        "version": "1.21.4"
-      },
-      "path": "attachments/DH004_camphorwood_quad_bulk_fixed.litematic"
+      "path": "attachments/DH004_2025-08-09_05-55-00_quad_bulk_showcase.zip",
+      "wdl": {
+        "version": "1.21.1"
+      }
     },
     {
-      "id": "1388745611863527424",
-      "name": "DH004_2025-06-29_05-24-04_quad_bulk_showcase.zip",
-      "contentType": "application/zip",
-      "url": "https://cdn.discordapp.com/attachments/1386956182526230558/1388745611863527424/2025-06-29_05-24-04_quad_bulk_showcase.zip?ex=686219a3&is=6860c823&hm=0ddb262b429983ca1e12fd443f65362898cccbcb3a9c8aeb257ea34e7bccd847&",
-      "description": "Sent by camphorwood at 6/29/2025, 12:59:15 AM",
+      "id": "1404092781777125499",
+      "name": "DH004_camphorwood_quad_bulk_fixed2.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386956182526230558/1404092781777125499/camphorwood_quad_bulk_fixed2.litematic?ex=6899eecd&is=68989d4d&hm=85784a4746d5edaf092f7d3f6cb117b9a88ddd7269ddbb1fc81ab470def8761c&",
+      "description": "Sent by camphorwood at 8/10/2025, 9:23:26 AM",
       "canDownload": true,
-      "path": "attachments/DH004_2025-06-29_05-24-04_quad_bulk_showcase.zip"
+      "path": "attachments/DH004_camphorwood_quad_bulk_fixed2.litematic",
+      "litematic": {
+        "size": "35x44x64",
+        "version": "1.21.1"
+      }
     }
   ],
   "records": {
@@ -96,7 +99,7 @@
     ],
     "notes": "[Showcase video](https://www.youtube.com/watch?v=i24AdqmGXLI) (!important)\n- Top display designed by @Jayroi\n- Bottom display designed by @DatNerd\n- Box sorter based on work by @crain"
   },
-  "timestamp": 1754832215275,
+  "timestamp": 1754832256387,
   "post": {
     "threadId": "1388318048372658316",
     "forumId": "1375565403727724764",
@@ -104,7 +107,7 @@
       "1388318051543548005"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1388318048372658316",
-    "uploadMessageId": "1388745975819927663",
+    "uploadMessageId": "1404092996877811913",
     "attachmentMessageId": "1388196225555103918"
   }
 }
