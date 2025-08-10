@@ -6,7 +6,18 @@
       "code": "FL",
       "category": "Box Loaders & Unloaders",
       "path": "Archive/FL_filter-loaders",
-      "description": "Box loaders with filters on it, excluding crafters"
+      "description": "Box loaders with filters on it, excluding crafters",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended",
+        "Slice Preserving",
+        "1X Hopperspeed",
+        "2X Hopperspeed",
+        "4X Hopperspeed",
+        "8X Hopperspeed"
+      ]
     },
     {
       "id": "1375557143201316934",
@@ -14,7 +25,14 @@
       "code": "AL",
       "category": "Box Loaders & Unloaders",
       "path": "Archive/AL_accessible-loaders",
-      "description": "Box loaders where you can access the box it's loading"
+      "description": "Box loaders where you can access the box it's loading",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended",
+        "Tileable"
+      ]
     },
     {
       "id": "1375557473066418206",
@@ -22,7 +40,21 @@
       "code": "ML",
       "category": "Box Loaders & Unloaders",
       "path": "Archive/ML_mixed-loaders",
-      "description": "Box loaders which load mixed item types"
+      "description": "Box loaders which load mixed item types",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended",
+        "1X Hopperspeed",
+        "2X Hopperspeed",
+        "4X Hopperspeed",
+        "6X Hopperspeed",
+        "8X Hopperspeed",
+        "Full Clearance",
+        "Fullspeed",
+        "Global Clock"
+      ]
     },
     {
       "id": "1375557962675912865",
@@ -30,7 +62,14 @@
       "code": "OL",
       "category": "Box Loaders & Unloaders",
       "path": "Archive/OL_other-loaders",
-      "description": "Other box loaders (EG: CUD loaders or hybrid loaders)"
+      "description": "Other box loaders (EG: CUD loaders or hybrid loaders)",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended",
+        "Fullspeed"
+      ]
     },
     {
       "id": "1375559535976124717",
@@ -38,7 +77,13 @@
       "code": "IBS",
       "category": "Box Sorting",
       "path": "Archive/IBS_first-item-box-sorters",
-      "description": "Sorts boxes by item type of the first item"
+      "description": "Sorts boxes by item type of the first item",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended"
+      ]
     },
     {
       "id": "1375559651579527208",
@@ -46,7 +91,16 @@
       "code": "FBS",
       "category": "Box Sorting",
       "path": "Archive/FBS_fill-level-box-sorters",
-      "description": "Devices that sort boxes by fill level"
+      "description": "Devices that sort boxes by fill level",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended",
+        "Comparer",
+        "isEmpty/isFull",
+        "3 Way Sorter"
+      ]
     },
     {
       "id": "1375560446676963450",
@@ -54,7 +108,18 @@
       "code": "BU",
       "category": "Box Loaders & Unloaders",
       "path": "Archive/BU_box-unloaders",
-      "description": "Box unloaders"
+      "description": "Box unloaders",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended",
+        "1X Hopperspeed",
+        "2X Hopperspeed",
+        "8X Hopperspeed",
+        "Cart Yeet",
+        "Box Yeet"
+      ]
     },
     {
       "id": "1375560792665231450",
@@ -62,7 +127,16 @@
       "code": "TD",
       "category": "Box Displays",
       "path": "Archive/TD_top-displays",
-      "description": "Top box displays"
+      "description": "Top box displays",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended",
+        "Reliable Collection",
+        "Auto Replacement",
+        "Manual Replacement"
+      ]
     },
     {
       "id": "1375561551188328531",
@@ -70,7 +144,17 @@
       "code": "BD",
       "category": "Box Displays",
       "path": "Archive/BD_bottom-displays",
-      "description": "Bottom box displays"
+      "description": "Bottom box displays",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended",
+        "Closed Box Detection",
+        "Reliable Collection",
+        "Auto Replacement",
+        "Bufferless"
+      ]
     },
     {
       "id": "1375561629378416740",
@@ -78,7 +162,15 @@
       "code": "OD",
       "category": "Box Displays",
       "path": "Archive/OD_other-displays",
-      "description": "Other box displays."
+      "description": "Other box displays.",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended",
+        "Reliable Collection",
+        "Auto Replacement"
+      ]
     },
     {
       "id": "1375561810392125510",
@@ -86,7 +178,19 @@
       "code": "CH",
       "category": "Storage Halls & UI",
       "path": "Archive/CH_chest-halls",
-      "description": "Chest halls"
+      "description": "Chest halls",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended",
+        "6 Chests",
+        "8 Chests",
+        "10 Chests",
+        "SS2",
+        "SS3",
+        "Encoded"
+      ]
     },
     {
       "id": "1375562461276672042",
@@ -94,7 +198,14 @@
       "code": "OBP",
       "category": "Box Sorting",
       "path": "Archive/OBP_other-box-processors",
-      "description": "Other box processors"
+      "description": "Other box processors",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended",
+        "isStackable"
+      ]
     },
     {
       "id": "1375563020478058557",
@@ -102,7 +213,13 @@
       "code": "DT",
       "category": "Transport",
       "path": "Archive/DT_dropper-transport",
-      "description": "Dropper lines and auto droppers"
+      "description": "Dropper lines and auto droppers",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended"
+      ]
     },
     {
       "id": "1375563169904459846",
@@ -110,7 +227,14 @@
       "code": "WT",
       "category": "Transport",
       "path": "Archive/WT_water-transport",
-      "description": "Waterstream tricks"
+      "description": "Waterstream tricks",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended",
+        "Item Aligners"
+      ]
     },
     {
       "id": "1375563297230688327",
@@ -118,7 +242,13 @@
       "code": "CT",
       "category": "Transport",
       "path": "Archive/CT_cart-transport",
-      "description": "Minecarts"
+      "description": "Minecarts",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended"
+      ]
     },
     {
       "id": "1375563506765664388",
@@ -126,7 +256,15 @@
       "code": "MH",
       "category": "Storage Halls & UI",
       "path": "Archive/MH_mixed-halls",
-      "description": "Mixed/hybrid halls"
+      "description": "Mixed/hybrid/accessible loader halls",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended",
+        "Encoded",
+        "Accessible Loaders"
+      ]
     },
     {
       "id": "1375563999692849302",
@@ -134,7 +272,17 @@
       "code": "IF",
       "category": "Item Processing",
       "path": "Archive/IF_item-type-filters",
-      "description": "Item type filters which work by the mechanic of like items being combinable"
+      "description": "Item type filters which work by the mechanic of like items being combinable",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended",
+        "1X Hopperspeed",
+        "2X Hopperspeed",
+        "Cart Based",
+        "Guide"
+      ]
     },
     {
       "id": "1375564209882009772",
@@ -142,7 +290,14 @@
       "code": "OIP",
       "category": "Item Processing",
       "path": "Archive/OIP_other-item-processors",
-      "description": "Other item processors"
+      "description": "Other item processors",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended",
+        "isStackable"
+      ]
     },
     {
       "id": "1375564342392786944",
@@ -150,7 +305,23 @@
       "code": "US",
       "category": "Item Processing",
       "path": "Archive/US_unstackable-sorting",
-      "description": "Sort unstackable items by its type, typically by exploiting unique interactions with that item"
+      "description": "Sort unstackable items by its type, typically by exploiting unique interactions with that item",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended",
+        "Potions",
+        "Liquids & Snow",
+        "Carts",
+        "Shears & Flint",
+        "isBox",
+        "Armor",
+        "Boats",
+        "Music Discs",
+        "Books",
+        "Full Sorters"
+      ]
     },
     {
       "id": "1375565403727724764",
@@ -158,7 +329,16 @@
       "code": "DH",
       "category": "Storage Halls & UI",
       "path": "Archive/DH_box-display-halls",
-      "description": "Bulk/display halls"
+      "description": "Bulk/display halls",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended",
+        "2 Displays",
+        "4 Displays",
+        "Encoded"
+      ]
     },
     {
       "id": "1375566804910604349",
@@ -166,7 +346,13 @@
       "code": "MIS",
       "category": "Full Systems",
       "path": "Archive/MIS_mis-storages",
-      "description": "Multi item storages"
+      "description": "Multi item storages",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended"
+      ]
     },
     {
       "id": "1375566849768558723",
@@ -174,7 +360,13 @@
       "code": "MS",
       "category": "Full Systems",
       "path": "Archive/MS_medium-storages",
-      "description": "Medium size storages"
+      "description": "Medium size storages",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended"
+      ]
     },
     {
       "id": "1375566903241740450",
@@ -182,7 +374,13 @@
       "code": "LS",
       "category": "Full Systems",
       "path": "Archive/LS_large-storages",
-      "description": "Large/full size storages"
+      "description": "Large/full size storages",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended"
+      ]
     },
     {
       "id": "1375567732866551918",
@@ -190,7 +388,13 @@
       "code": "MF",
       "category": "Item Processing",
       "path": "Archive/MF_multi-item-filters",
-      "description": "Multi item filters check if an item is part of a set of items in the same slice/device"
+      "description": "Multi item filters check if an item is part of a set of items in the same slice/device",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended"
+      ]
     },
     {
       "id": "1375568762304204912",
@@ -198,7 +402,13 @@
       "code": "SS",
       "category": "Item Processing",
       "path": "Archive/SS_stack-separation",
-      "description": "Stack separation uses item entity separators to sort up to one full stack at a time"
+      "description": "Stack separation uses item entity separators to sort up to one full stack at a time",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended"
+      ]
     },
     {
       "id": "1375569381781930006",
@@ -206,7 +416,13 @@
       "code": "PI",
       "category": "Storage Halls & UI",
       "path": "Archive/PI_player-inputs",
-      "description": "Player input devices"
+      "description": "Player input devices",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended"
+      ]
     },
     {
       "id": "1375569870577467412",
@@ -214,7 +430,13 @@
       "code": "PU",
       "category": "Advanced Tech",
       "path": "Archive/PU_parallel-unloader-arrays",
-      "description": "Parallel unloading arrays"
+      "description": "Parallel unloading arrays",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended"
+      ]
     },
     {
       "id": "1375569954073477120",
@@ -222,7 +444,13 @@
       "code": "VIP",
       "category": "Advanced Tech",
       "path": "Archive/VIP_variable-item-processing",
-      "description": "Variable item sorting"
+      "description": "Variable item sorting",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended"
+      ]
     },
     {
       "id": "1375570066451599401",
@@ -230,7 +458,13 @@
       "code": "VBS",
       "category": "Advanced Tech",
       "path": "Archive/VBS_variable-box-processing",
-      "description": "Variable box sorting"
+      "description": "Variable box sorting",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended"
+      ]
     },
     {
       "id": "1375570570120527942",
@@ -238,7 +472,13 @@
       "code": "CL",
       "category": "Box Loaders & Unloaders",
       "path": "Archive/CL_crafter-loaders",
-      "description": "Box loaders with crafters in it"
+      "description": "Box loaders with crafters in it",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended"
+      ]
     },
     {
       "id": "1375570772348764392",
@@ -246,7 +486,14 @@
       "code": "AC",
       "category": "Item Processing",
       "path": "Archive/AC_autocrafting",
-      "description": "Autocrafting devices, excluding crafter filter loaders"
+      "description": "Autocrafting devices, excluding crafter filter loaders",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended",
+        "Box crafters"
+      ]
     },
     {
       "id": "1375570813591486525",
@@ -254,7 +501,13 @@
       "code": "MC",
       "category": "Peripherals",
       "path": "Archive/MC_mass-crafters",
-      "description": "Mass crafters and crafting stations"
+      "description": "Mass crafters and crafting stations",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended"
+      ]
     },
     {
       "id": "1375570897263657042",
@@ -262,7 +515,13 @@
       "code": "IC",
       "category": "Advanced Tech",
       "path": "Archive/IC_item-call",
-      "description": "Item call systems"
+      "description": "Item call systems",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended"
+      ]
     },
     {
       "id": "1375570984970752080",
@@ -270,7 +529,13 @@
       "code": "FA",
       "category": "Peripherals",
       "path": "Archive/FA_mini-furnace-arrays",
-      "description": "Furnace arrays"
+      "description": "Furnace arrays",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended"
+      ]
     },
     {
       "id": "1375571041174159430",
@@ -278,7 +543,13 @@
       "code": "RS",
       "category": "Peripherals",
       "path": "Archive/RS_restock-stations",
-      "description": "Restock stations:"
+      "description": "Restock stations:",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended"
+      ]
     },
     {
       "id": "1376069973910229052",
@@ -286,7 +557,13 @@
       "code": "OP",
       "category": "Peripherals",
       "path": "Archive/OP_other-peripherals",
-      "description": "Other peripherals"
+      "description": "Other peripherals",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended"
+      ]
     },
     {
       "id": "1383890936488132689",
@@ -294,7 +571,13 @@
       "code": "WBS",
       "category": "Box Sorting",
       "path": "Archive/WBS_whitelister-box-sorters",
-      "description": "Sorts boxes by checking if it contains a specific item type in any slot"
+      "description": "Sorts boxes by checking if it contains a specific item type in any slot",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended"
+      ]
     },
     {
       "id": "1386242904141463603",
@@ -302,7 +585,13 @@
       "code": "FS",
       "category": "Full Systems",
       "path": "Archive/FS_farm-storages",
-      "description": "Farm storages and digsorts"
+      "description": "Farm storages and digsorts",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended"
+      ]
     },
     {
       "id": "1386443869729587291",
@@ -310,7 +599,14 @@
       "code": "CC",
       "category": "Wiring & Logic",
       "path": "Archive/CC_clocks-and-counters",
-      "description": "Clocks and counter devices"
+      "description": "Clocks and counter devices",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended",
+        "Pulse Extenders"
+      ]
     },
     {
       "id": "1387131693411995658",
@@ -318,7 +614,13 @@
       "code": "NT",
       "category": "Transport",
       "path": "Archive/NT_nether-transport",
-      "description": "Transporting items in the nether"
+      "description": "Transporting items in the nether",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended"
+      ]
     },
     {
       "id": "1388599490898038945",
@@ -326,7 +628,13 @@
       "code": "IL",
       "category": "Other Resources",
       "path": "Archive/IL_item-layouts",
-      "description": "Item layouts for storage systems"
+      "description": "Item layouts for storage systems",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended"
+      ]
     },
     {
       "id": "1388599778941861898",
@@ -334,7 +642,13 @@
       "code": "TG",
       "category": "Other Resources",
       "path": "Archive/TG_testing-guides",
-      "description": "Reference material for how to test things thouroughly"
+      "description": "Reference material for how to test things thouroughly",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended"
+      ]
     },
     {
       "id": "1388657467508133928",
@@ -342,7 +656,13 @@
       "code": "TT",
       "category": "Other Resources",
       "path": "Archive/TT_tricks-and-tips",
-      "description": "How to guides for tricks tips and more"
+      "description": "How to guides for tricks tips and more",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended"
+      ]
     },
     {
       "id": "1397058827722948699",
@@ -350,7 +670,13 @@
       "code": "CKL",
       "category": "Peripherals",
       "path": "Archive/CKL_chunk-loaders",
-      "description": "Chunk loaders for storage systems"
+      "description": "Chunk loaders for storage systems",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended"
+      ]
     }
   ]
 }
