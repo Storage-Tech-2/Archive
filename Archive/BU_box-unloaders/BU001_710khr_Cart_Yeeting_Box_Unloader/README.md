@@ -1,7 +1,7 @@
 # 710k/hr Cart Yeeting Box Unloader
 <img alt="image.png" src="images/image.png?raw=1" height="300px">
 
-**Authors:** *Christone, inspectortalon, rapscallion1138, _javierrubik33*
+**Authors:** *Christone, inspectortalon, RaPsCaLLioN1138, _javierrubik33*
 
 **Endorsed by:** *Andrews54757*
 

@@ -4,10 +4,11 @@
   "code": "DT002",
   "authors": [
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "531601171211878431",
       "username": "rapscallion1138",
-      "iconURL": "https://cdn.discordapp.com/avatars/531601171211878431/8db107ef61024878a05baab3a798d7d5.webp"
+      "iconURL": "https://cdn.discordapp.com/avatars/531601171211878431/8db107ef61024878a05baab3a798d7d5.webp",
+      "displayName": "RaPsCaLLioN1138"
     },
     {
       "type": "discord-in-guild",

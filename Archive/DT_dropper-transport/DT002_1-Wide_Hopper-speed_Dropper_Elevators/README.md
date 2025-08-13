@@ -1,7 +1,7 @@
 # 1-Wide Hopper-speed Dropper Elevators
 <img alt="LABLES.png" src="images/LABLES.png?raw=1" height="300px">
 
-**Authors:** *rapscallion1138, Andrews54757, walter7381, Minestop*
+**Authors:** *RaPsCaLLioN1138, Andrews54757, walter7381, Minestop*
 
 **Endorsed by:** *Andrews54757*
 
