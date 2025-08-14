@@ -3,7 +3,7 @@
   "name": "fill-level-box-sorters",
   "code": "FBS",
   "description": "Devices that sort boxes by fill level",
-  "currentCodeId": 7,
+  "currentCodeId": 8,
   "entries": [
     {
       "id": "1386419505961369690",
@@ -62,6 +62,17 @@
       "tags": [
         "Tested & Functional",
         "Recommended",
+        "3 Way Sorter"
+      ]
+    },
+    {
+      "id": "1402520196123721820",
+      "name": "Hopperspeed IsBox + 3 Way Box Fill Level Sorter",
+      "code": "FBS008",
+      "timestamp": 1755155083373,
+      "path": "FBS008_Hopperspeed_IsBox__3_Way_Box_Fill_Level_Sorter",
+      "tags": [
+        "Tested & Functional",
         "3 Way Sorter"
       ]
     }
