@@ -22,8 +22,8 @@ Items are loaded into an accessible shulker box, the subsequent full boxes are t
 Please don't lock the hall while it is in operation. Box display from DatNerd, Overflow water stream by Pyraleft
 
 ## Resources
-- [MH002_accessible_loader_hall.litematic](attachments/MH002_accessible_loader_hall.litematic): MC 1.21.1, Size 6x18x17 blocks
 - [MH002_pyra_waterstream.png](attachments/MH002_pyra_waterstream.png): image/png
+- [MH002_accessible_loader_hall.litematic](attachments/MH002_accessible_loader_hall.litematic): MC 1.21.1, Size 6x19x17 blocks
 
 ## Comments
 
