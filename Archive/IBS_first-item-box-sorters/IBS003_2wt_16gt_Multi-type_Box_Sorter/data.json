@@ -65,13 +65,13 @@
   ],
   "attachments": [
     {
-      "id": "1402502577945444372",
-      "name": "IBS003_1.16_16gt_MBS.litematic",
+      "id": "1405122843167031386",
+      "name": "IBS003_1.16_16gt_MBS_v3.1.litematic",
       "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1402501851211104426/1402502577945444372/1.16_16gt_MBS.litematic?ex=689425cf&is=6892d44f&hm=66a76622c6ccf419ca77ff4e42c9845c0ecdd8744db8574f9a2c07ed19418d5e&",
-      "description": "Sent by 777777777777777777774832 at 8/6/2025, 12:04:31 AM",
+      "url": "https://cdn.discordapp.com/attachments/1402501851211104426/1405122843167031386/1.16_16gt_MBS_v3.1.litematic?ex=68a0511f&is=689eff9f&hm=ad7939b6fe106a94ba2c8087ba5cffa823ad2f08062052d579a6673d1b2365ae&",
+      "description": "Sent by 777777777777777777774832 at 8/13/2025, 5:36:31 AM",
       "canDownload": true,
-      "path": "attachments/IBS003_1.16_16gt_MBS.litematic",
+      "path": "attachments/IBS003_1.16_16gt_MBS_v3.1.litematic",
       "litematic": {
         "size": "9x8x10",
         "version": "1.21"
@@ -90,7 +90,7 @@
       "Cannot accept empty boxes"
     ]
   },
-  "timestamp": 1754454467224,
+  "timestamp": 1755288219634,
   "post": {
     "threadId": "1402508433399480421",
     "forumId": "1375559535976124717",
@@ -98,6 +98,6 @@
       "1402508436482297866"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1402508433399480421",
-    "uploadMessageId": "1402508431440609331"
+    "uploadMessageId": "1406005444220026902"
   }
 }

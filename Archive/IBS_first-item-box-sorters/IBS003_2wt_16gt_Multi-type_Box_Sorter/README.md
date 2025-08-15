@@ -25,4 +25,4 @@ Sorts boxes into multi-item-type categories based on first item type of box at h
 <img src="images/area_render_218_.png?raw=1" height="300px">
 
 ## Resources
-- [IBS003_1.16_16gt_MBS.litematic](attachments/IBS003_1.16_16gt_MBS.litematic): MC 1.21, Size 9x8x10 blocks
+- [IBS003_1.16_16gt_MBS_v3.1.litematic](attachments/IBS003_1.16_16gt_MBS_v3.1.litematic): MC 1.21, Size 9x8x10 blocks
