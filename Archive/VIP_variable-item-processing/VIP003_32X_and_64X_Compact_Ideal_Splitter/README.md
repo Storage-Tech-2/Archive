@@ -27,3 +27,4 @@ Developed on [SoonCMP](https://soontech.org) ("Ideal Splitter" waypoint). [Showc
 - [VIP003_Ideal_Splitter_V3-r8.zip](attachments/VIP003_Ideal_Splitter_V3-r8.zip): MC 1.21.4
 - [VIP003_ideal_v3_64x.litematic](attachments/VIP003_ideal_v3_64x.litematic): MC 1.21.4, Size 43x16x14 blocks
 - [VIP003_ideal_v3_32x.litematic](attachments/VIP003_ideal_v3_32x.litematic): MC 1.21.4, Size 27x16x14 blocks
+- [Storage Tech: High-Speed Ideal Splitter V3](https://www.youtube.com/watch?v=PW318UfnCfU): by [AndrewsTechMC](https://www.youtube.com/@AndrewsTechMC)
