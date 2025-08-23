@@ -55,10 +55,10 @@
     },
     {
       "id": "1408930228805304482",
-      "name": "Reusable isNetherite Unstackable Filter",
+      "name": "Reusable isNetherite Filter",
       "code": "US006",
-      "timestamp": 1755986222606,
-      "path": "US006_Reusable_isNetherite_Unstackable_Filter",
+      "timestamp": 1755986425858,
+      "path": "US006_Reusable_isNetherite_Filter",
       "tags": [
         "Tested & Functional",
         "Netherite",

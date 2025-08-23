@@ -1,6 +1,6 @@
 {
   "id": "1408930228805304482",
-  "name": "Reusable isNetherite Unstackable Filter",
+  "name": "Reusable isNetherite Filter",
   "code": "US006",
   "authors": [
     {
@@ -105,7 +105,7 @@
       "Uses calibrated sculk sensors. Put wool around the device to prevent it from triggering because of other noise sources."
     ]
   },
-  "timestamp": 1755986222606,
+  "timestamp": 1755986425858,
   "post": {
     "threadId": "1408933081846382602",
     "forumId": "1375564342392786944",

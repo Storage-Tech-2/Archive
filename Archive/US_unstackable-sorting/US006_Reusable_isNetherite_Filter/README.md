@@ -1,4 +1,4 @@
-# Reusable isNetherite Unstackable Filter
+# Reusable isNetherite Filter
 <img alt="sdfsfsdgsss.png" src="images/sdfsfsdgsss.png?raw=1" height="300px">
 
 **Authors:** *Block_on_Block, Kasey*
