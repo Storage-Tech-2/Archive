@@ -3,7 +3,7 @@
   "name": "unstackable-sorting",
   "code": "US",
   "description": "Sort unstackable items by its type, typically by exploiting unique interactions with that item",
-  "currentCodeId": 5,
+  "currentCodeId": 6,
   "entries": [
     {
       "id": "1387480002978910330",
@@ -50,6 +50,18 @@
       "tags": [
         "Full Sorters",
         "Tested & Functional",
+        "Recommended"
+      ]
+    },
+    {
+      "id": "1408930228805304482",
+      "name": "Reusable isNetherite Unstackable Filter",
+      "code": "US006",
+      "timestamp": 1755986222606,
+      "path": "US006_Reusable_isNetherite_Unstackable_Filter",
+      "tags": [
+        "Tested & Functional",
+        "Netherite",
         "Recommended"
       ]
     }
