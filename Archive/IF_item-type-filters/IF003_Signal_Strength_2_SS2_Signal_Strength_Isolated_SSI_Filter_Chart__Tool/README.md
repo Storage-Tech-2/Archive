@@ -1,7 +1,7 @@
 # Signal Strength 2 (SS2) Signal Strength Isolated (SSI) Filter Chart & Tool
 <img alt="SS2_FIlter_Chart.png" src="images/SS2_FIlter_Chart.png?raw=1" height="300px">
 
-**Authors:** *dzreamslol, KikuGie*
+**Authors:** *dzreamslol, LlamaBot*
 
 **Endorsed by:** *Andrews54757*
 
