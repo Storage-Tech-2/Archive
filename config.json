@@ -320,7 +320,8 @@
         "Boats",
         "Music Discs",
         "Books",
-        "Full Sorters"
+        "Full Sorters",
+        "Netherite"
       ]
     },
     {
@@ -671,6 +672,20 @@
       "category": "Peripherals",
       "path": "Archive/CKL_chunk-loaders",
       "description": "Chunk loaders for storage systems",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended"
+      ]
+    },
+    {
+      "id": "1410149299169267792",
+      "name": "tomes-and-diagrams",
+      "code": "RD",
+      "category": "Other Resources",
+      "path": "Archive/RD_tomes-and-diagrams",
+      "description": "Miscellaneous notes, guides, and diagrams with questionable utility",
       "availableTags": [
         "Untested",
         "Broken",
