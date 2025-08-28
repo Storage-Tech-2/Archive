@@ -1,5 +1,5 @@
 # Compact Cart Yeeting Box Unloader
-<img alt="image.png" src="images/image.png?raw=1" height="300px">
+<img alt="area_render_158_.png" src="images/area_render_158_.png?raw=1">
 
 **Authors:** *Christone, Carrie, math_dragon*
 
@@ -7,7 +7,7 @@
 
 **Tags:** *Tested & Functional, Cart Yeet, Recommended*
 
-**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1389355709119856772)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1410487539965493320)
 
 Stacks hopper-minecarts below the box to quickly unload it. Provides an alternative to box yeeting that doesn't destroy the box.
 ## Features
