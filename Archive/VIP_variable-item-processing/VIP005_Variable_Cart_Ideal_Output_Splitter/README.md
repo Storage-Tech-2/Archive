@@ -17,8 +17,8 @@ Takes item entities as input, and loads them into single type boxes using variab
 - Limited to 8x hopperspeed per item type.
 - Item entity lag
 
-## Acknowledgements:**
-- [慕斯丶白](https://space.bilibili.com/8134012): Variable cart filter design
+## Acknowledgements:
+- 慕斯丶白: Variable cart filter design
 
 ## Resources
 - [VIP005_var_cart_ideal_output_split.litematic](attachments/VIP005_var_cart_ideal_output_split.litematic): MC 1.21, Size 21x14x33 blocks
@@ -29,4 +29,9 @@ Takes item entities as input, and loads them into single type boxes using variab
 ### Andrews54757 (7/24/2025)
 Item input is on the side. Add loose items into the stream to start the device.
 <img alt="image.png" src="comments_attachments/1397834495616618526-image.png?raw=1" height="150px">
+
+
+### Andrews54757 (8/29/2025)
+Broken according to testing by Lukeem. it can lose carts, loaders might spit items, and also may output mixed boxes.
+<img alt="image.png" src="comments_attachments/1410878526885855313-image.png?raw=1" height="150px">
 
