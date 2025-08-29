@@ -1,7 +1,7 @@
 # Chart of 1wt auto-droppers
 <img alt="autodropper_lable_5.png" src="images/autodropper_lable_5.png?raw=1" height="300px">
 
-**Authors:** *walter7381*
+**Authors:** *Walter*
 
 **Endorsed by:** *Andrews54757*
 

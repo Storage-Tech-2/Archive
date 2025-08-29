@@ -1,7 +1,7 @@
 # Simple parallel unloader
 <img alt="simple_parallel_unloader_v3.png" src="images/simple_parallel_unloader_v3.png?raw=1" height="300px">
 
-**Authors:** *bipim, walter7381*
+**Authors:** *bipim, Walter*
 
 **Endorsed by:** *ValBlaze*
 

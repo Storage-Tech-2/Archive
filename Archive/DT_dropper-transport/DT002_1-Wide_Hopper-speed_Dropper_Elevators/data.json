@@ -18,10 +18,11 @@
       "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
     },
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "297566644295827457",
       "username": "walter7381",
-      "iconURL": "https://cdn.discordapp.com/avatars/297566644295827457/e8c32e9b66251cd84d0ff09adc818410.webp"
+      "iconURL": "https://cdn.discordapp.com/avatars/297566644295827457/e8c32e9b66251cd84d0ff09adc818410.webp",
+      "displayName": "Walter"
     },
     {
       "type": "unknown",

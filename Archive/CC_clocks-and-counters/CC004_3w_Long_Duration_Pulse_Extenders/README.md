@@ -1,7 +1,7 @@
 # 3w Long Duration Pulse Extenders
 <img alt="huge_2023-03-16_132229.png" src="images/huge_2023-03-16_132229.png?raw=1" height="300px">
 
-**Authors:** *walter7381*
+**Authors:** *Walter*
 
 **Endorsed by:** *Andrews54757*
 
