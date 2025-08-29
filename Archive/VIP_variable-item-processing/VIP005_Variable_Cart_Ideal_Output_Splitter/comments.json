@@ -31,7 +31,7 @@
       "displayName": "Andrews54757",
       "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
     },
-    "content": "Broken according to testing by Lukeem. it can lose carts, loaders might spit items, and also may output mixed boxes.",
+    "content": "Broken with random input timings according to testing by Lukeem. it can lose carts, loaders might spit items, and also may output mixed boxes.",
     "attachments": [
       {
         "id": "1410878526885855313",
@@ -43,6 +43,6 @@
         "path": "comments_attachments/1410878526885855313-image.png"
       }
     ],
-    "timestamp": 1756450054388
+    "timestamp": 1756451486637
   }
 ]

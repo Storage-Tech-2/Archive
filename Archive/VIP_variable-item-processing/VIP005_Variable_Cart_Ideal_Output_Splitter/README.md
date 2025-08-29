@@ -32,6 +32,6 @@ Item input is on the side. Add loose items into the stream to start the device.
 
 
 ### Andrews54757 (8/29/2025)
-Broken according to testing by Lukeem. it can lose carts, loaders might spit items, and also may output mixed boxes.
+Broken with random input timings according to testing by Lukeem. it can lose carts, loaders might spit items, and also may output mixed boxes.
 <img alt="image.png" src="comments_attachments/1410878526885855313-image.png?raw=1" height="150px">
 
