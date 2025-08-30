@@ -23,8 +23,8 @@ Stores a partial box until another partial box with the same item type is input,
 ## Notes
 Press the wooden button to start processing input. Flip the lever on the yellow concrete block to pause the system. Can theoretically work in Minecraft 1.16+
 
-## Acknowledgements:**
-- <@1165983253493198972>: Original unencoded temp idea using CUDs
+## Acknowledgements:
+- wreg: Original unencoded temp idea using CUDs
 - 雨天: Original unencoded temp idea using CUDs
 
 ## Other Images

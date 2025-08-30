@@ -20,9 +20,9 @@ Takes in mixed boxes and splits them into boxes containing a single item type. U
 ## Notes
 Press stone button to start splitting after putting in boxes. Empty box input hopper is covered by wool for hopperNoItemCost carpet rule but can be replaced with more chest storage.
 
-## Acknowledgements:**
-- <@624927906908471306>: Based off of Obi's design
-- <@457520959033704450>: For helping testing
+## Acknowledgements:
+- Obi81: Based off of Obi's design
+- giannis__: For helping testing
 
 ## Resources
 - [VIP004_MiniSplittiFFS_1.21.4.litematic](attachments/VIP004_MiniSplittiFFS_1.21.4.litematic): MC 1.21.4, Size 8x16x14 blocks

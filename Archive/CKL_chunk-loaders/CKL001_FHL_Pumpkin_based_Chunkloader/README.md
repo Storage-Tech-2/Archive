@@ -19,8 +19,8 @@ Using pumpkin items shot through nether portals, loads a 3x3 chunk area around t
 ## Notes
 Tested with one month of tickwarp in 1.18.2 with Joa extreme behaviors and one year of tickwarp in 1.21.5 using TIS Carpet command "/carpet netherPortalEntityInteractionCheckUseFullBlockShape true".
 
-## Acknowledgements:**
-- kahyxen (<@690661774567014400>): For original pumpkin chunk loader concept
+## Acknowledgements:
+- kahyxen: For original pumpkin chunk loader concept
 
 ## Resources
 - [CKL001_FHL_Pumpkin_Chunkloader.litematic](attachments/CKL001_FHL_Pumpkin_Chunkloader.litematic): MC 1.18.2, Size 6x7x11 blocks

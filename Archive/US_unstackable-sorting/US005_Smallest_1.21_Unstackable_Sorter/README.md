@@ -22,9 +22,9 @@ The smallest device to sort between two potion types, books, shears, flint and s
 - Music disc sorter has an idle cart, but there is enough space to add mechanism to remove it.
 - Not fish preserving. Use a separate fish emptying device if you plan on putting your pets in here. Or you can use the included fish preserving variant that is 1 block taller and uses 33 hoppers.
 
-## Acknowledgements:**
-- <@719903397171560559>: Main clock rewire
-- <@381396930212921355>: Unstackable sorting concepts
+## Acknowledgements:
+- PyraLeft: Main clock rewire
+- CommandLeo: Unstackable sorting concepts
 
 ## Other Images
 <img src="images/area_render_92_.png?raw=1">

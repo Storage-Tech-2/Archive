@@ -18,12 +18,12 @@ A common question is "how to make concrete storage?" This was put together as a 
 ## Considerations
 - Destroys partial boxes resulting from resetting variable loaders.
 
-## Acknowledgements:**
-- heilzmaker (<@298337622869147648>): Designed global reset var loaders
-- <@921904275418927214>: Original bulk slice design
-- <@458048759247536128>: Original bulk slice design
-- <@656864003242328064>: Designed box sorters
-- <@240860456057700352>: Box sorter keygen and u-turn design
+## Acknowledgements:
+- heilzmaker: Designed global reset var loaders
+- ners: Original bulk slice design
+- 51mayday: Original bulk slice design
+- 金合欢酱(acaciachan): Designed box sorters
+- Philgoodinator: Box sorter keygen and u-turn design
 
 ## Resources
 - [FS001_soronto_concrete_v4.1_fixed.litematic](attachments/FS001_soronto_concrete_v4.1_fixed.litematic): MC 1.21.4, Size 32x44x21 blocks
