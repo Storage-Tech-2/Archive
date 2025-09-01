@@ -1,7 +1,7 @@
 # Hermitcraft Item Set
 <img alt="image.png" src="images/image.png?raw=1">
 
-**Authors:** *LlamaBot*
+**Authors:** *KikuGie*
 
 **Endorsed by:** *Andrews54757*
 

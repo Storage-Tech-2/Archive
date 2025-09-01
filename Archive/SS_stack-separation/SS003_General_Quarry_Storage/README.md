@@ -1,7 +1,7 @@
 # General Quarry Storage
 <img alt="area_render_7_.png" src="images/area_render_7_.png?raw=1" height="300px">
 
-**Authors:** *LlamaBot*
+**Authors:** *KikuGie*
 
 **Endorsed by:** *Andrews54757*
 
