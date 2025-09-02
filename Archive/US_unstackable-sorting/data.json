@@ -3,7 +3,7 @@
   "name": "unstackable-sorting",
   "code": "US",
   "description": "Sort unstackable items by its type, typically by exploiting unique interactions with that item",
-  "currentCodeId": 6,
+  "currentCodeId": 7,
   "entries": [
     {
       "id": "1387480002978910330",
@@ -63,6 +63,16 @@
         "Tested & Functional",
         "Netherite",
         "Recommended"
+      ]
+    },
+    {
+      "id": "1412245946708005004",
+      "name": "Duration-based Music Disc Sorter",
+      "code": "US007",
+      "timestamp": 1756783359684,
+      "path": "US007_Duration-based_Music_Disc_Sorter",
+      "tags": [
+        "Music Discs"
       ]
     }
   ],
