@@ -120,7 +120,7 @@
       "Peripherals (furnace array, brewer, crafting station, shulker crafter, dispenser crafter)"
     ],
     "considerations": [
-      "None listed"
+      "Boxes can despawn if too many boxes are input"
     ],
     "sourced components": [
       "Input: https://discord.com/channels/748542142347083868/1074320036958846986/1075193549101993985",
@@ -136,7 +136,7 @@
       "Dispenser crafter: https://discord.com/channels/856232076252282890/1225739717010657280/1226644451825418362"
     ]
   },
-  "timestamp": 1757794962981,
+  "timestamp": 1757795715120,
   "post": {
     "threadId": "1416519487792091136",
     "forumId": "1375566849768558723",

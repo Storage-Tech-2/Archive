@@ -20,7 +20,7 @@ A medium size storage system built for [luckeY](https://www.youtube.com/@luckeYp
 - 85% hopperlocking
 - Peripherals (furnace array, brewer, crafting station, shulker crafter, dispenser crafter)
 ## Considerations
-- None listed
+- Boxes can despawn if too many boxes are input
 ## Sourced components
 - Input: https://discord.com/channels/748542142347083868/1074320036958846986/1075193549101993985
 - Unloader: https://discord.com/channels/748542142347083868/749136547755851857/1397119350854647809
