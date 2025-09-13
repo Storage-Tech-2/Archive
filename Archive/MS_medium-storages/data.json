@@ -3,7 +3,18 @@
   "name": "medium-storages",
   "code": "MS",
   "description": "Medium size storages",
-  "currentCodeId": 0,
-  "entries": [],
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1416518098042884317",
+      "name": "luckeY Main Storage",
+      "code": "MS001",
+      "timestamp": 1757794962981,
+      "path": "MS001_luckeY_Main_Storage",
+      "tags": [
+        "Untested"
+      ]
+    }
+  ],
   "category": "Full Systems"
 }
