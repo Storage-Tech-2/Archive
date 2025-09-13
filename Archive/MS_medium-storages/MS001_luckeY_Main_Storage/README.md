@@ -1,7 +1,7 @@
 # luckeY Main Storage
 <img alt="imagedsfsfsf.png" src="images/imagedsfsfsf.png?raw=1">
 
-**Authors:** *kendiii2, cansat, SzaboBence*
+**Authors:** *Kendiii, cansat, SzaboBence*
 
 **Endorsed by:** *Andrews54757*
 
@@ -21,6 +21,7 @@ A medium size storage system built for [luckeY](https://www.youtube.com/@luckeYp
 - Peripherals (furnace array, brewer, crafting station, shulker crafter, dispenser crafter)
 ## Considerations
 - Boxes can despawn if too many boxes are input
+- No overflow protection. Items may despawn if too many are input or if chests are full
 ## Sourced components
 - Input: https://discord.com/channels/748542142347083868/1074320036958846986/1075193549101993985
 - Unloader: https://discord.com/channels/748542142347083868/749136547755851857/1397119350854647809
