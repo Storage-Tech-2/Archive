@@ -4,7 +4,7 @@
   "code": "BU007",
   "authors": [
     {
-      "type": "discord-in-guild",
+      "type": "discord-external",
       "id": "1234197202193219644",
       "displayName": "Koalus",
       "username": "koalus69",

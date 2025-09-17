@@ -11,7 +11,7 @@
       "iconURL": "https://cdn.discordapp.com/avatars/444883614761746436/107919ad05417a3cec07f2a057ca964c.webp"
     },
     {
-      "type": "discord-in-guild",
+      "type": "discord-external",
       "id": "1234197202193219644",
       "displayName": "Koalus",
       "username": "koalus69",
