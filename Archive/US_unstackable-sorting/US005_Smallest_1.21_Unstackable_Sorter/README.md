@@ -34,3 +34,10 @@ The smallest device to sort between two potion types, books, shears, flint and s
 ## Resources
 - [US005_smallest_1.21_unstackable_sorter_fish_preserving.litematic](attachments/US005_smallest_1.21_unstackable_sorter_fish_preserving.litematic): MC 1.21.4, Size 12x7x5 blocks
 - [US005_smallest_1.21_unstackable_sorter.litematic](attachments/US005_smallest_1.21_unstackable_sorter.litematic): MC 1.21.4, Size 12x6x5 blocks
+
+## Comments
+
+### Andrews54757 (10/5/2025)
+misc item output may fail ~1/40k items, item ending up at cart output.
+<img alt="image.png" src="comments_attachments/1424520448187830354-image.png?raw=1" height="150px">
+
