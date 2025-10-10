@@ -39,3 +39,11 @@ Broken with random input timings according to testing by Lukeem. it can lose car
 ### wreg (10/10/2025)
 Sorry for the mistake,I will then upload a correct version of this variable loader
 
+
+### wreg (10/10/2025)
+
+
+**Other attachments:**
+- [idealmini.litematic](comments_attachments/1426085625374969906-idealmini.litematic): MC 1.21, Size 21x14x21 blocks
+- [idealv2.litematic](comments_attachments/1426085625655857254-idealv2.litematic): MC 1.21, Size 21x14x33 blocks
+
