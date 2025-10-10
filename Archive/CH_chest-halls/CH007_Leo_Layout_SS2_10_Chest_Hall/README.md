@@ -1,7 +1,7 @@
 # Leo Layout SS2 10 Chest Hall
 <img alt="area_render_79_.png" src="images/area_render_79_.png?raw=1" height="300px">
 
-**Authors:** *金合欢酱(acaciachan)*
+**Authors:** *金合欢酱喵~ (acaciachan)*
 
 **Endorsed by:** *Andrews54757*
 

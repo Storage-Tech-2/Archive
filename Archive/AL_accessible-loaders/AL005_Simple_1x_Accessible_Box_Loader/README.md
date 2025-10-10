@@ -1,7 +1,7 @@
 # Simple 1x Accessible Box Loader
 <img alt="area_render_60_.png" src="images/area_render_60_.png?raw=1">
 
-**Authors:** *金合欢酱(acaciachan)*
+**Authors:** *金合欢酱喵~ (acaciachan)*
 
 **Endorsed by:** *Andrews54757*
 

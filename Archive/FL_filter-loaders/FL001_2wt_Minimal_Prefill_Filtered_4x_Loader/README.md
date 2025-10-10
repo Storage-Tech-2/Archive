@@ -1,7 +1,7 @@
 # 2wt Minimal Prefill Filtered 4x Loader
 <img alt="Minimal_Prefill_4x.png" src="images/Minimal_Prefill_4x.png?raw=1" height="300px">
 
-**Authors:** *金合欢酱(acaciachan), tuzier*
+**Authors:** *金合欢酱喵~ (acaciachan), tuzier*
 
 **Endorsed by:** *Andrews54757*
 

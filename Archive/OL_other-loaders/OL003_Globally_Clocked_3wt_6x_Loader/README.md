@@ -1,7 +1,7 @@
 # Globally Clocked 3wt 6x Loader
 <img alt="Globally_Clocked_6x.png" src="images/Globally_Clocked_6x.png?raw=1" height="300px">
 
-**Authors:** *金合欢酱(acaciachan)*
+**Authors:** *金合欢酱喵~ (acaciachan)*
 
 **Endorsed by:** *Andrews54757*
 

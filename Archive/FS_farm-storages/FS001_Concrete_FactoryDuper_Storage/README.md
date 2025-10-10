@@ -22,7 +22,7 @@ A common question is "how to make concrete storage?" This was put together as a 
 - heilzmaker: Designed global reset var loaders
 - ners: Original bulk slice design
 - 51mayday: Original bulk slice design
-- 金合欢酱(acaciachan): Designed box sorters
+- 金合欢酱喵~ (acaciachan): Designed box sorters
 - Philgoodinator: Box sorter keygen and u-turn design
 
 ## Resources

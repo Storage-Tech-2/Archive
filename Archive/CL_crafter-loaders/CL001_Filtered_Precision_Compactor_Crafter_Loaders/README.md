@@ -1,7 +1,7 @@
 # Filtered Precision Compactor Crafter Loaders
 <img alt="Precision_Compactor_Loader_Examples.png" src="images/Precision_Compactor_Loader_Examples.png?raw=1" height="300px">
 
-**Authors:** *金合欢酱(acaciachan)*
+**Authors:** *金合欢酱喵~ (acaciachan)*
 
 **Endorsed by:** *Andrews54757*
 

@@ -1,7 +1,7 @@
 # One Hopper Box 3 Way Fill Level Sorter
 <img alt="area_render_7s_.png" src="images/area_render_7s_.png?raw=1" height="300px">
 
-**Authors:** *金合欢酱(acaciachan)*
+**Authors:** *金合欢酱喵~ (acaciachan)*
 
 **Endorsed by:** *Andrews54757*
 

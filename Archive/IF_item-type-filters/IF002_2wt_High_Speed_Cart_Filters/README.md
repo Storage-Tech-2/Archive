@@ -1,7 +1,7 @@
 # 2wt High Speed Cart Filters
 <img alt="63.png" src="images/63.png?raw=1" height="300px">
 
-**Authors:** *金合欢酱(acaciachan), kaloncat*
+**Authors:** *金合欢酱喵~ (acaciachan), kaloncat*
 
 **Endorsed by:** *Andrews54757*
 

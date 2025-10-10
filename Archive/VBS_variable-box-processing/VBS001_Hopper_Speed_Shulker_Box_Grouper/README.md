@@ -1,7 +1,7 @@
 # Hopper Speed Shulker Box Grouper
 <img alt="Hopper_Speed_Box_Grouper_4x5x6.png" src="images/Hopper_Speed_Box_Grouper_4x5x6.png?raw=1" height="300px">
 
-**Authors:** *金合欢酱(acaciachan)*
+**Authors:** *金合欢酱喵~ (acaciachan)*
 
 **Endorsed by:** *Andrews54757*
 
