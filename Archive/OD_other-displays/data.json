@@ -3,7 +3,7 @@
   "name": "other-displays",
   "code": "OD",
   "description": "Other box displays.",
-  "currentCodeId": 4,
+  "currentCodeId": 5,
   "entries": [
     {
       "id": "1387132949086076948",
@@ -52,6 +52,17 @@
       "tags": [
         "Tested & Functional",
         "Reliable Collection",
+        "Auto Replacement"
+      ]
+    },
+    {
+      "id": "1426638674891636776",
+      "name": "Block Swapper Display",
+      "code": "OD005",
+      "timestamp": 1760557700679,
+      "path": "OD005_Block_Swapper_Display",
+      "tags": [
+        "Tested & Functional",
         "Auto Replacement"
       ]
     }
