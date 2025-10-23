@@ -4,7 +4,7 @@
   "code": "PI002",
   "authors": [
     {
-      "type": "discord-in-guild",
+      "type": "discord-external",
       "id": "759402531235037204",
       "displayName": "oliver",
       "username": "extasyxtc",
