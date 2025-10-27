@@ -1,7 +1,7 @@
 # Reusable isNetherite Filter
 <img alt="sdfsfsdgsss.png" src="images/sdfsfsdgsss.png?raw=1" height="300px">
 
-**Authors:** *Block, Kasey*
+**Authors:** *Demo, Kasey*
 
 **Endorsed by:** *Andrews54757*
 
