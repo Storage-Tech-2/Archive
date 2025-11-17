@@ -1,0 +1,86 @@
+{
+  "id": "1439818384933130322",
+  "name": "Hyper Threaded Whitelister Temp",
+  "code": "VBS003",
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "384084307712409600",
+      "displayName": "TisUnfortunate",
+      "username": "tisunfortunate",
+      "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/0de5630a1bd3ad4fb3e24f5ba40958e1.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488520579252261",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1439818385465540668",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1439818384933130322/1439818385465540668/image.png?ex=691be6dd&is=691a955d&hm=272542845995507b3f52194a709f66a4b1db2a32761d448f5958941a1a061383&",
+      "description": "Sent by tisunfortunate at 11/16/2025, 10:24:13 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 525,
+      "path": "images/image.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1439818385746821224",
+      "name": "VBS003_Tis.Hyper.Threaded.Whitelister.Tempv1.1.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1439818384933130322/1439818385746821224/Tis.Hyper.Threaded.Whitelister.Tempv1.1.litematic?ex=691be6dd&is=691a955d&hm=f589c26338d7b1f9e6fb124e1e44e6a50aac1dccd08b4fc2fe2ec7ce1441c1b3&",
+      "description": "Sent by tisunfortunate at 11/16/2025, 10:24:13 PM",
+      "canDownload": true,
+      "path": "attachments/VBS003_Tis.Hyper.Threaded.Whitelister.Tempv1.1.litematic",
+      "litematic": {
+        "size": "19x11x8",
+        "version": "1.21"
+      }
+    }
+  ],
+  "records": {
+    "description": "A device that can store up to 400 unique partials, with a compact design and various features for efficient operation.",
+    "features": [
+      "Can store up to 400 unique partials (50 per slice)",
+      "Compact(6x11x19)",
+      "Hyper Threaded Box Retrieval\n*next box begins processing while previous bucket is being returned*",
+      "38 hoppers",
+      "Paired Partials output to water stream",
+      "Accessible Temp Chests",
+      "Random Input Proof",
+      "Handles non-whitelisted inputs",
+      "Whitelisting Cart yeeted after use"
+    ],
+    "considerations": [
+      "the hopper on top of the grouper and the block of water before it must be in the same chunk",
+      "No Empty Box or loose item input protection",
+      "processing time is ~linearly related to # of boxes in bucket. The more items allocated to a slice, the slower it can be."
+    ]
+  },
+  "timestamp": 1763352576553,
+  "post": {
+    "threadId": "1439829809134829840",
+    "forumId": "1375570066451599401",
+    "continuingMessageIds": [
+      "1439829811974377623"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1439829809134829840",
+    "uploadMessageId": "1439829807084081263"
+  }
+}
