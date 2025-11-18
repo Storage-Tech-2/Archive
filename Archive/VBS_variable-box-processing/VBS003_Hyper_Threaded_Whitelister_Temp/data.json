@@ -41,13 +41,13 @@
   ],
   "attachments": [
     {
-      "id": "1439818385746821224",
-      "name": "VBS003_Tis.Hyper.Threaded.Whitelister.Tempv1.1.litematic",
+      "id": "1440452085635092632",
+      "name": "VBS003_Hyper.Threaded.Whitelister.Tempv1.2.litematic",
       "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1439818384933130322/1439818385746821224/Tis.Hyper.Threaded.Whitelister.Tempv1.1.litematic?ex=691be6dd&is=691a955d&hm=f589c26338d7b1f9e6fb124e1e44e6a50aac1dccd08b4fc2fe2ec7ce1441c1b3&",
-      "description": "Sent by tisunfortunate at 11/16/2025, 10:24:13 PM",
+      "url": "https://cdn.discordapp.com/attachments/1439818384933130322/1440452085635092632/Hyper.Threaded.Whitelister.Tempv1.2.litematic?ex=691e350b&is=691ce38b&hm=81ee3b6ab4ddf431c944cd45d05eb75d6bb8ac0dc7e0cd699ab891f49b68ecf2&",
+      "description": "Sent by tisunfortunate at 11/18/2025, 4:22:19 PM",
       "canDownload": true,
-      "path": "attachments/VBS003_Tis.Hyper.Threaded.Whitelister.Tempv1.1.litematic",
+      "path": "attachments/VBS003_Hyper.Threaded.Whitelister.Tempv1.2.litematic",
       "litematic": {
         "size": "19x11x8",
         "version": "1.21"
@@ -70,10 +70,10 @@
     "considerations": [
       "the hopper on top of the grouper and the block of water before it must be in the same chunk",
       "No Empty Box or loose item input protection",
-      "processing time is ~linearly related to # of boxes in bucket. The more items allocated to a slice, the slower it can be."
+      "processing time is ~linearly related to # of boxes in bucket. The more items allocated to a slice, the slower it can be (207gt for no boxes in bucket to ~715gt for 49 boxes in bucket)."
     ]
   },
-  "timestamp": 1763352576553,
+  "timestamp": 1763504959556,
   "post": {
     "threadId": "1439829809134829840",
     "forumId": "1375570066451599401",
@@ -81,6 +81,6 @@
       "1439829811974377623"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1439829809134829840",
-    "uploadMessageId": "1439829807084081263"
+    "uploadMessageId": "1440468947345477696"
   }
 }

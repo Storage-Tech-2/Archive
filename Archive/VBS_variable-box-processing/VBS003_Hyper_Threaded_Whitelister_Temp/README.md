@@ -24,7 +24,7 @@ A device that can store up to 400 unique partials, with a compact design and var
 ## Considerations
 - the hopper on top of the grouper and the block of water before it must be in the same chunk
 - No Empty Box or loose item input protection
-- processing time is ~linearly related to # of boxes in bucket. The more items allocated to a slice, the slower it can be.
+- processing time is ~linearly related to # of boxes in bucket. The more items allocated to a slice, the slower it can be (207gt for no boxes in bucket to ~715gt for 49 boxes in bucket).
 
 ## Resources
-- [VBS003_Tis.Hyper.Threaded.Whitelister.Tempv1.1.litematic](attachments/VBS003_Tis.Hyper.Threaded.Whitelister.Tempv1.1.litematic): MC 1.21, Size 19x11x8 blocks
+- [VBS003_Hyper.Threaded.Whitelister.Tempv1.2.litematic](attachments/VBS003_Hyper.Threaded.Whitelister.Tempv1.2.litematic): MC 1.21, Size 19x11x8 blocks
