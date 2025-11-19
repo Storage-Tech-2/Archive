@@ -78,29 +78,30 @@
       "id": "1387083568605429821",
       "name": "VIP003_ideal3-2.png",
       "contentType": "image/png",
-      "url": "https://cdn.discordapp.com/attachments/1387083566676181035/1387083568605429821/ideal3-2.png?ex=691c88bd&is=691b373d&hm=273ad3abf4747e6a398d705ed21acecf7d94c0423c3ee25ee4ffceb36a11fa10&",
+      "url": "https://cdn.discordapp.com/attachments/1387083566676181035/1387083568605429821/ideal3-2.png?ex=691f2bbd&is=691dda3d&hm=7329e848bbf7e22d2dd0a7d7c0feaab3a13ab405bd233eacc105de9ba32d41a9&",
       "description": "Sent by andrews54757 at 6/24/2025, 10:54:53 AM",
       "canDownload": true,
       "path": "attachments/VIP003_ideal3-2.png"
     },
     {
-      "id": "1440045405558673428",
-      "name": "VIP003_Ideal_Splitter_V3-r9.zip",
-      "contentType": "application/zip",
-      "url": "https://cdn.discordapp.com/attachments/1387083566676181035/1440045405558673428/Ideal_Splitter_V3-r9.zip?ex=691cba4b&is=691b68cb&hm=9e5119493125e3fd3dcd49bafa09f54d3ce008b4ef1b8e9a83d057fa83035371&",
-      "description": "Sent by andrews54757 at 11/17/2025, 1:26:19 PM",
+      "id": "1440841795368910848",
+      "name": "VIP003_ideal_v3_64x.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387083566676181035/1440841795368910848/ideal_v3_64x.litematic?ex=691f9ffd&is=691e4e7d&hm=a664b705a4b8c771d4a5202c181bfc6d3712f2b8dc4f44006caebf4bcdad3878&",
+      "description": "Sent by andrews54757 at 11/19/2025, 6:10:53 PM",
       "canDownload": true,
-      "path": "attachments/VIP003_Ideal_Splitter_V3-r9.zip",
-      "wdl": {
+      "path": "attachments/VIP003_ideal_v3_64x.litematic",
+      "litematic": {
+        "size": "43x16x14",
         "version": "1.21.4"
       }
     },
     {
-      "id": "1440045405890019358",
+      "id": "1440841795746664508",
       "name": "VIP003_ideal_v3_32x.litematic",
       "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1387083566676181035/1440045405890019358/ideal_v3_32x.litematic?ex=691cba4b&is=691b68cb&hm=53a5fa2ed9107e9be18c460b24c714f6b217e2f6a3c8fde01667a0abfb61d201&",
-      "description": "Sent by andrews54757 at 11/17/2025, 1:26:19 PM",
+      "url": "https://cdn.discordapp.com/attachments/1387083566676181035/1440841795746664508/ideal_v3_32x.litematic?ex=691f9ffd&is=691e4e7d&hm=a5ab16e0371c743c29dee39dfbb8df75e53c27f9edb6263f02a94146b9d2cd76&",
+      "description": "Sent by andrews54757 at 11/19/2025, 6:10:53 PM",
       "canDownload": true,
       "path": "attachments/VIP003_ideal_v3_32x.litematic",
       "litematic": {
@@ -109,15 +110,14 @@
       }
     },
     {
-      "id": "1440045406246539495",
-      "name": "VIP003_ideal_v3_64x.litematic",
-      "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1387083566676181035/1440045406246539495/ideal_v3_64x.litematic?ex=691cba4b&is=691b68cb&hm=22c592eb6ce5c79b42103215c9573bd04ec6f7cde84d96ad849af501b494181b&",
-      "description": "Sent by andrews54757 at 11/17/2025, 1:26:19 PM",
+      "id": "1440841796157575188",
+      "name": "VIP003_Ideal_Splitter_V3-r10.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1387083566676181035/1440841796157575188/Ideal_Splitter_V3-r10.zip?ex=691f9ffd&is=691e4e7d&hm=44dfb6ccc3dcd29ff1487cefde251f3df12fa2c2ee12a766648d030851313054&",
+      "description": "Sent by andrews54757 at 11/19/2025, 6:10:53 PM",
       "canDownload": true,
-      "path": "attachments/VIP003_ideal_v3_64x.litematic",
-      "litematic": {
-        "size": "43x16x14",
+      "path": "attachments/VIP003_Ideal_Splitter_V3-r10.zip",
+      "wdl": {
         "version": "1.21.4"
       }
     }
@@ -134,7 +134,7 @@
     ],
     "notes": "Developed on [SoonCMP](https://soontech.org) (\"Ideal Splitter\" waypoint). [Showcase video](https://www.youtube.com/watch?v=PW318UfnCfU)"
   },
-  "timestamp": 1763404009127,
+  "timestamp": 1763593878180,
   "post": {
     "forumId": "1375569954073477120",
     "threadId": "1388318356377043076",
@@ -144,6 +144,6 @@
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1388318356377043076",
     "attachmentMessageId": "1388179342869401601",
-    "uploadMessageId": "1440045558244049042"
+    "uploadMessageId": "1440841929393963028"
   }
 }
