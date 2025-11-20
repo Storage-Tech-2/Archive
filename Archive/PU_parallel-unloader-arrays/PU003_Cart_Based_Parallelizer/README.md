@@ -1,7 +1,7 @@
 # Cart Based Parallelizer
 <img alt="area_render_26_.png" src="images/area_render_26_.png?raw=1" height="300px">
 
-**Authors:** *_javierrubik33, morb1d0, pebeye, wreg*
+**Authors:** *_javierrubik33, Morbido, pebeye, wreg*
 
 **Endorsed by:** *Andrews54757*
 
