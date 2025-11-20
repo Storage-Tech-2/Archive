@@ -1,7 +1,7 @@
 # Small minimal piston box display
 <img alt="2021-12-31_16.png" src="images/2021-12-31_16.png?raw=1" height="300px">
 
-**Authors:** *exponentialpower, monochrome_sauce*
+**Authors:** *deleted_user_bd597d43e5cf, monochrome_sauce*
 
 **Endorsed by:** *Andrews54757*
 
