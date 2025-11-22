@@ -1,7 +1,7 @@
 # Tiny 1x Box Unloader
 <img alt="area_render_3.png" src="images/area_render_3.png?raw=1" height="300px">
 
-**Authors:** *Koalus, 金合欢酱喵~ (acaciachan)*
+**Authors:** *koalus69, 金合欢酱喵~ (acaciachan)*
 
 **Endorsed by:** *Andrews54757*
 

@@ -1,7 +1,7 @@
 # Accessible Loader Hall
 <img alt="image.png" src="images/image.png?raw=1">
 
-**Authors:** *camphorwood, Koalus*
+**Authors:** *camphorwood, koalus69*
 
 **Endorsed by:** *Andrews54757*
 
