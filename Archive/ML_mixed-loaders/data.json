@@ -3,7 +3,7 @@
   "name": "mixed-loaders",
   "code": "ML",
   "description": "Box loaders which load mixed item types",
-  "currentCodeId": 6,
+  "currentCodeId": 7,
   "entries": [
     {
       "id": "1386244541513863249",
@@ -78,6 +78,18 @@
         "Full Clearance",
         "Fullspeed",
         "6X Hopperspeed"
+      ]
+    },
+    {
+      "id": "1441729659422249090",
+      "name": "2w 6x Mixed Shulker Loader",
+      "code": "ML007",
+      "timestamp": 1763831145208,
+      "path": "ML007_2w_6x_Mixed_Shulker_Loader",
+      "tags": [
+        "Tested & Functional",
+        "6X Hopperspeed",
+        "Global Clock"
       ]
     }
   ],
