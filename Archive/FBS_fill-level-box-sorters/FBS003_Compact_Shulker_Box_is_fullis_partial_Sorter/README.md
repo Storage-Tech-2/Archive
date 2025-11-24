@@ -1,7 +1,7 @@
 # Compact Shulker Box (is full?/is partial?) Sorter
 <img alt="area_render_29.png" src="images/area_render_29.png?raw=1" height="300px">
 
-**Authors:** *nvertd, 金合欢酱喵~ (acaciachan)*
+**Authors:** *Nvertd, 金合欢酱喵~ (acaciachan)*
 
 **Endorsed by:** *Andrews54757*
 

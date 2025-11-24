@@ -4,10 +4,11 @@
   "code": "FBS003",
   "authors": [
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "803398149217189950",
       "username": "nvertd",
-      "iconURL": "https://cdn.discordapp.com/avatars/803398149217189950/b5bc2649d3bf10ad4d486ab0e3e2c0ab.webp"
+      "iconURL": "https://cdn.discordapp.com/avatars/803398149217189950/b5bc2649d3bf10ad4d486ab0e3e2c0ab.webp",
+      "displayName": "Nvertd"
     },
     {
       "type": "discord-in-guild",
