@@ -23,3 +23,10 @@ For Minecraft 1.13 compatibility, use droppers instead of composters.
 
 ## Resources
 - [ML001_3wt_8x_Mixed_Loader.litematic](attachments/ML001_3wt_8x_Mixed_Loader.litematic): MC 1.16, Size 3x7x7 blocks
+
+## Comments
+
+### Andrews54757 (12/13/2025)
+Note: there is one item in the box breaking logic, which without it will not work. An item must go in this bottom dropper.
+<img alt="image.png" src="comments_attachments/1449440196935553189-image.png?raw=1" height="150px">
+
