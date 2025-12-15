@@ -3,7 +3,7 @@
   "name": "unstackable-sorting",
   "code": "US",
   "description": "Sort unstackable items by its type, typically by exploiting unique interactions with that item",
-  "currentCodeId": 7,
+  "currentCodeId": 8,
   "entries": [
     {
       "id": "1387480002978910330",
@@ -72,6 +72,18 @@
       "path": "US007_Duration-based_Music_Disc_Sorter",
       "tags": [
         "Music Discs"
+      ]
+    },
+    {
+      "id": "1450264041565065238",
+      "name": "Cactus Unstackable Sorter",
+      "code": "US008",
+      "timestamp": 1765840627197,
+      "path": "US008_Cactus_Unstackable_Sorter",
+      "tags": [
+        "Tested & Functional",
+        "Recommended",
+        "Full Sorters"
       ]
     }
   ],
