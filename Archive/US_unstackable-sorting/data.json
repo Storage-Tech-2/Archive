@@ -42,17 +42,6 @@
       ]
     },
     {
-      "id": "1387991465849917562",
-      "name": "Smallest 1.21 Unstackable Sorter",
-      "code": "US005",
-      "timestamp": 1759702484572,
-      "path": "US005_Smallest_1.21_Unstackable_Sorter",
-      "tags": [
-        "Full Sorters",
-        "Broken"
-      ]
-    },
-    {
       "id": "1408930228805304482",
       "name": "Reusable isNetherite Filter",
       "code": "US006",
