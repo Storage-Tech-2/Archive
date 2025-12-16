@@ -3,7 +3,7 @@
   "name": "farm-storages",
   "code": "FS",
   "description": "Farm storages and digsorts",
-  "currentCodeId": 1,
+  "currentCodeId": 2,
   "entries": [
     {
       "id": "1390475873404194897",
@@ -14,6 +14,16 @@
       "tags": [
         "Tested & Functional",
         "Recommended"
+      ]
+    },
+    {
+      "id": "1442405705519730708",
+      "name": "576k Concrete Storage - 1.21+",
+      "code": "FS002",
+      "timestamp": 1765877519710,
+      "path": "FS002_576k_Concrete_Storage_-_1.21",
+      "tags": [
+        "Tested & Functional"
       ]
     }
   ],
