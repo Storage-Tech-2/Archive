@@ -3,7 +3,7 @@
   "name": "tricks-and-tips",
   "code": "TT",
   "description": "How to guides for tricks tips and more",
-  "currentCodeId": 1,
+  "currentCodeId": 2,
   "entries": [
     {
       "id": "1388663948227903560",
@@ -11,6 +11,17 @@
       "code": "TT001",
       "timestamp": 1751383278024,
       "path": "TT001_How_to_float_align_items",
+      "tags": [
+        "Tested & Functional",
+        "Recommended"
+      ]
+    },
+    {
+      "id": "1450277038215921704",
+      "name": "How to Make Perma-Powered Detector Rails",
+      "code": "TT002",
+      "timestamp": 1765843553630,
+      "path": "TT002_How_to_Make_Perma-Powered_Detector_Rails",
       "tags": [
         "Tested & Functional",
         "Recommended"
