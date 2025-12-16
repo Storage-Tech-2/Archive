@@ -4,6 +4,18 @@
   "code": "WBS",
   "description": "Sorts boxes by checking if it contains a specific item type in any slot",
   "currentCodeId": 1,
-  "entries": [],
+  "entries": [
+    {
+      "id": "1386932150355623997",
+      "name": "Shulker Box Blacklister",
+      "code": "WBS001",
+      "timestamp": 1765861930741,
+      "path": "WBS001_Shulker_Box_Blacklister",
+      "tags": [
+        "Tested & Functional",
+        "Recommended"
+      ]
+    }
+  ],
   "category": "Box Sorting"
 }
