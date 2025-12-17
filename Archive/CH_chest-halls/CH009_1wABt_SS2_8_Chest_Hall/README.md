@@ -17,4 +17,4 @@
 - All filters are accessible
 
 ## Resources
-- [CH009_F3atured_chest_hall.litematic](attachments/CH009_F3atured_chest_hall.litematic): MC 1.21, Size 4x18x27 blocks
+- [CH009_F3atured_CH_ABT_1DC_V1.1.litematic](attachments/CH009_F3atured_CH_ABT_1DC_V1.1.litematic): MC 1.21, Size 4x18x27 blocks
