@@ -15,6 +15,13 @@
       "id": "247092209780916225",
       "username": "justglotz",
       "iconURL": "https://cdn.discordapp.com/avatars/247092209780916225/6180f71564f0bb3fca26a7dd8b712748.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "688456529338433611",
+      "displayName": "Christone",
+      "username": "glidingmonkey",
+      "iconURL": "https://cdn.discordapp.com/avatars/688456529338433611/348a34add443a5a71237111010e484b1.webp"
     }
   ],
   "endorsers": [
@@ -38,50 +45,47 @@
   ],
   "images": [
     {
-      "id": "1386932150934310912",
-      "name": "2021-10-24_16.50.37.png",
+      "id": "1451356649586692229",
+      "name": "8gt_2wt_box_blacklister_render.png",
       "contentType": "image/png",
-      "url": "https://cdn.discordapp.com/attachments/1386932150355623997/1386932150934310912/2021-10-24_16.50.37.png?ex=685b80b8&is=685a2f38&hm=3ef98624e21a2675818cf034f97408d5dbc412154f2450435d2c2898ab9c881c&",
-      "description": "Sent by andrews54757 at 6/24/2025, 12:53:12 AM",
+      "url": "https://cdn.discordapp.com/attachments/1386932150355623997/1451356649586692229/8gt_2wt_box_blacklister_render.png?ex=6945e0b6&is=69448f36&hm=3574a19e23e85f51d0929436434790b2acd006e20e9bf9d74d486ae3314dbbf1&",
+      "description": "Sent by TMC Schematic Renderer at 12/18/2025, 6:33:10 PM",
       "canDownload": true,
-      "width": 800,
-      "height": 593,
-      "path": "images/2021-10-24_16.50.37.png"
+      "path": "images/8gt_2wt_box_blacklister_render.png"
     }
   ],
   "attachments": [
     {
-      "id": "1386932151588618270",
-      "name": "WBS001_glotzscallion_8gt_2wt_blacklister.litematic",
+      "id": "1450558994728091810",
+      "name": "WBS001_8gt_2wt_box_blacklister.litematic",
       "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1386932150355623997/1386932151588618270/glotzscallion_8gt_2wt_blacklister.litematic?ex=685b80b8&is=685a2f38&hm=25ee876c6b0bf87bdff7de84d41d30add1106014e0dd20f166adfb32e79deb2c&",
-      "description": "Sent by andrews54757 at 6/24/2025, 12:53:12 AM",
+      "url": "https://cdn.discordapp.com/attachments/1386932150355623997/1450558994728091810/8gt_2wt_box_blacklister.litematic?ex=69459cd6&is=69444b56&hm=62c290ab1161e1836285b5cdf3078ba7f9ddcf7aded917b9d807f8c73241b581&",
+      "description": "Sent by glidingmonkey at 12/16/2025, 1:43:34 PM",
       "canDownload": true,
+      "path": "attachments/WBS001_8gt_2wt_box_blacklister.litematic",
       "litematic": {
-        "size": "3x6x8",
-        "version": "1.17.1"
-      },
-      "path": "attachments/WBS001_glotzscallion_8gt_2wt_blacklister.litematic"
+        "size": "8x6x2",
+        "version": "1.20.1"
+      }
     }
   ],
   "records": {
     "description": "Each slice uses a static filter to check if the box contains the item set in the filter. If so, then the box will be rejected, otherwise the box moves to the next slice.",
     "features": [
-      "3x6x8 (single slice)",
-      "2-wide tileable (overlapping slices)",
+      "2x6x8 (single slice)",
+      "true 2-wide tileable",
       "Input boxes at hopper speed: 8gt"
     ],
-    "considerations": [],
-    "notes": ""
+    "instructions": "First, set up filters by putting 18 items of the item you want to filter in the hopper below the box dispensing area. The rest of the slots should be filled with one 64-stackable blocker item each. Do this for all of your slices. Then, you can insert boxes to sort into the hopper feeding the dropper/dispenser (read by a comparator) by using another hopper to push items inside of it."
   },
-  "timestamp": 1765861930741,
+  "timestamp": 1766101430626,
   "post": {
-    "threadId": "1450354803593973831",
+    "threadId": "1451359341285212190",
     "forumId": "1383890936488132689",
     "continuingMessageIds": [
-      "1450354806496428102"
+      "1451359345265610893"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1450354803593973831",
-    "uploadMessageId": "1450354801257742406"
+    "threadURL": "https://discord.com/channels/1375556143186837695/1451359341285212190",
+    "uploadMessageId": "1451359338886074368"
   }
 }
