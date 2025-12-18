@@ -3,7 +3,7 @@
   "name": "box-unloaders",
   "code": "BU",
   "description": "Box unloaders",
-  "currentCodeId": 10,
+  "currentCodeId": 11,
   "entries": [
     {
       "id": "1386456499231916093",
@@ -107,6 +107,18 @@
         "Recommended",
         "Tested & Functional",
         "1X Hopperspeed"
+      ]
+    },
+    {
+      "id": "1451103879298285712",
+      "name": "Stream Box Yeeter",
+      "code": "BU011",
+      "timestamp": 1766042043205,
+      "path": "BU011_Stream_Box_Yeeter",
+      "tags": [
+        "Tested & Functional",
+        "Recommended",
+        "Box Yeet"
       ]
     }
   ],
