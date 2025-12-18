@@ -24,10 +24,11 @@
       "displayName": "RaPsCaLLioN1138"
     },
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "551464150925180928",
       "username": "_javierrubik33",
-      "iconURL": "https://cdn.discordapp.com/avatars/551464150925180928/6348ffe8aa6bb90856447c503288827b.webp"
+      "iconURL": "https://cdn.discordapp.com/avatars/551464150925180928/6348ffe8aa6bb90856447c503288827b.webp",
+      "displayName": "javierrubik33"
     }
   ],
   "endorsers": [
