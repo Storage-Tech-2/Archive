@@ -3,7 +3,7 @@
   "name": "first-item-box-sorters",
   "code": "IBS",
   "description": "Sorts boxes by item type of the first item",
-  "currentCodeId": 3,
+  "currentCodeId": 4,
   "entries": [
     {
       "id": "1386466762488549526",
@@ -34,6 +34,17 @@
       "timestamp": 1755288219634,
       "path": "IBS003_2wt_16gt_Multi-type_Box_Sorter",
       "tags": [
+        "Tested & Functional"
+      ]
+    },
+    {
+      "id": "1451114878587895808",
+      "name": "Simple 8gt Box Sorter",
+      "code": "IBS004",
+      "timestamp": 1766043538551,
+      "path": "IBS004_Simple_8gt_Box_Sorter",
+      "tags": [
+        "Recommended",
         "Tested & Functional"
       ]
     }
