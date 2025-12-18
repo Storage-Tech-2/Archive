@@ -4,6 +4,17 @@
   "code": "RD",
   "category": "Other Resources",
   "description": "Miscellaneous notes, guides, and diagrams with questionable utility",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1451060139560931523",
+      "name": "I can't believe this is optimal: why Lithium makes hopperlocking unnecessary",
+      "code": "RD001",
+      "timestamp": 1766030174096,
+      "path": "RD001_I_cant_believe_this_is_optimal_why_Lithium_makes_hopperlocking_unnecessary",
+      "tags": [
+        "Recommended"
+      ]
+    }
+  ]
 }
