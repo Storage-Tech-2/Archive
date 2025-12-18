@@ -3,7 +3,7 @@
   "name": "nether-transport",
   "code": "NT",
   "description": "Transporting items in the nether",
-  "currentCodeId": 1,
+  "currentCodeId": 2,
   "entries": [
     {
       "id": "1387131489782857769",
@@ -14,6 +14,16 @@
       "tags": [
         "Tested & Functional",
         "Recommended"
+      ]
+    },
+    {
+      "id": "1444438068303101956",
+      "name": "Vertical Nether Item Pusher",
+      "code": "NT002",
+      "timestamp": 1766049226661,
+      "path": "NT002_Vertical_Nether_Item_Pusher",
+      "tags": [
+        "Tested & Functional"
       ]
     }
   ],
