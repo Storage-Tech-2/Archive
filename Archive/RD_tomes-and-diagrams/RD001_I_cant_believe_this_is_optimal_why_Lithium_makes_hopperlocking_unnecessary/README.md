@@ -21,6 +21,6 @@ If you want to store a bunch of items, say for bulk farm storage, you can just s
 ## Nuances
 Today, hopperlocking is practiced because people enjoy the challenge of locking every hopper as a vestigial habit from the old days. Remember that the game's point is to have fun, and so if you find locking hoppers to be fun, go for it! But also, you don't have to lock your hoppers if you don't want to, and that will not make your design bad.
 
-There are also some complexities with the way the auto-locking optimization is implemented under the hood for Lithium. For example, a hopper under a hoppercart will never auto-lock. These nuances often present themselves in niche cases and will not be an issue for most storage technologies. Moreover, Lithium gets better as time goes on, so what is an issue today might not be an issue tomorrow!
+There are also some [complexities](https://github.com/CaffeineMC/lithium/blob/develop/common/src/main/java/net/caffeinemc/mods/lithium/mixin/block/hopper/README.md) with the way the auto-locking optimization is implemented under the hood for Lithium. For example, a hopper under a hoppercart will never auto-lock. These nuances often present themselves in niche cases and will not be an issue for most storage technologies. Moreover, Lithium gets better as time goes on, so what is an issue today might not be an issue tomorrow!
 ## Tldr
 If you have Lithium, you don't have to lock your hoppers
