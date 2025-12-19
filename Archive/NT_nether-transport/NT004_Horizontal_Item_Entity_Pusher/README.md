@@ -24,6 +24,7 @@ Tested in 1.21.4
 
 ## Resources
 - [NT004_20BPS_Item_Conveyor.litematic](attachments/NT004_20BPS_Item_Conveyor.litematic): MC 1.21.4, Size 6x4x32 blocks
+- [NT004_2025-12-19_18-25-14.mp4](attachments/NT004_2025-12-19_18-25-14.mp4): video/mp4
 
 ## Comments
 
