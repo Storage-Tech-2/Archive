@@ -3,7 +3,7 @@
   "name": "tricks-and-tips",
   "code": "TT",
   "description": "How to guides for tricks tips and more",
-  "currentCodeId": 2,
+  "currentCodeId": 3,
   "entries": [
     {
       "id": "1388663948227903560",
@@ -25,6 +25,16 @@
       "tags": [
         "Tested & Functional",
         "Recommended"
+      ]
+    },
+    {
+      "id": "1451490180614717563",
+      "name": "Boat Placement for Quick Float Align",
+      "code": "TT003",
+      "timestamp": 1766132729582,
+      "path": "TT003_Boat_Placement_for_Quick_Float_Align",
+      "tags": [
+        "Tested & Functional"
       ]
     }
   ],

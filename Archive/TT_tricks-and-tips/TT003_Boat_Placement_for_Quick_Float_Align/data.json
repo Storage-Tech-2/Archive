@@ -1,0 +1,67 @@
+{
+  "id": "1451490180614717563",
+  "name": "Boat Placement for Quick Float Align",
+  "code": "TT003",
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "512019182636892182",
+      "username": "pwouik",
+      "iconURL": "https://cdn.discordapp.com/avatars/512019182636892182/ffa7fb211fb9572493cfe3205a8c4114.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "803398149217189950",
+      "displayName": "Nvertd",
+      "username": "nvertd",
+      "iconURL": "https://cdn.discordapp.com/avatars/803398149217189950/b5bc2649d3bf10ad4d486ab0e3e2c0ab.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "803398149217189950",
+      "username": "nvertd",
+      "displayName": "Nvertd",
+      "iconURL": "https://cdn.discordapp.com/avatars/803398149217189950/b5bc2649d3bf10ad4d486ab0e3e2c0ab.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1388657843774816394",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1451490180946071675",
+      "name": "Float_Aligner.png",
+      "contentType": "image/jpeg",
+      "url": "https://cdn.discordapp.com/attachments/1451490180614717563/1451490180946071675/Float_Aligner.jpg?ex=69465d12&is=69450b92&hm=77b1691139cbc05dda4e8ebb89a2e9bf514fe2ba37485690ead1d820ba4a21ef&",
+      "description": "Sent by nvertd at 12/19/2025, 3:23:46 AM",
+      "canDownload": true,
+      "width": 618,
+      "height": 800,
+      "path": "images/Float_Aligner.png"
+    }
+  ],
+  "attachments": [],
+  "records": {
+    "description": "A device that allows entities to be floated and aligned by colliding with a boat.",
+    "features": [
+      "Floats entities by using a boat",
+      "Aligns entities by colliding with the boat",
+      "Simpler alternative to other methods"
+    ],
+    "compatibility": "Works in versions 1.16.5 and above, does not work in 1.15 and below",
+    "instructions": "Place a boat in the desired floating position. Place other entities near the boat, and they will be pushed by the boat's collision, aligning them to the boat's position. The boat can be removed after the entities are aligned."
+  },
+  "timestamp": 1766132729582,
+  "post": {
+    "threadId": "1451490614670786581",
+    "forumId": "1388657467508133928",
+    "continuingMessageIds": [],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1451490614670786581",
+    "uploadMessageId": ""
+  }
+}
