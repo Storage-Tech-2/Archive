@@ -58,6 +58,15 @@
         "size": "7x31x5",
         "version": "1.21.4"
       }
+    },
+    {
+      "id": "1451471102126854166",
+      "name": "NT003_2025-12-19_14-54-32.mp4",
+      "contentType": "video/mp4",
+      "url": "https://cdn.discordapp.com/attachments/1451471098742050889/1451471102126854166/2025-12-19_14-54-32.mp4?ex=69464b4d&is=6944f9cd&hm=3e9fc4fff7894c65a695379dce462a84729b98670d2ea89ac76e1a7f3922b619&",
+      "description": "Sent by nvertd at 12/19/2025, 2:07:56 AM",
+      "canDownload": true,
+      "path": "attachments/NT003_2025-12-19_14-54-32.mp4"
     }
   ],
   "records": {
@@ -73,7 +82,7 @@
     "compatibility": "Works in all game versions.",
     "instructions": "See video for boat placement instructions."
   },
-  "timestamp": 1766128820478,
+  "timestamp": 1766128858995,
   "post": {
     "threadId": "1451474224295444643",
     "forumId": "1387131693411995658",
@@ -81,6 +90,6 @@
       "1451474226522357933"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1451474224295444643",
-    "uploadMessageId": "1451473324789076101"
+    "uploadMessageId": "1451474379706859664"
   }
 }
