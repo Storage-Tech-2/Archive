@@ -25,3 +25,12 @@ Tested in 1.21.4
 ## Resources
 - [NT004_20BPS_Item_Conveyor.litematic](attachments/NT004_20BPS_Item_Conveyor.litematic): MC 1.21.4, Size 6x4x32 blocks
 - [NT004_2025-12-19_18-25-14.mp4](attachments/NT004_2025-12-19_18-25-14.mp4): video/mp4
+
+## Comments
+
+### Nvertd (12/19/2025)
+Setup Video: https://cdn.discordapp.com/attachments/1451522896403894424/1451522900459786310/2025-12-19_18-25-14.mp4?ex=69467b8b&is=69452a0b&hm=fe41ebde14de6979913918985fa5157b7bf337fe3cb268063505c5694751f72c&
+
+**Other attachments:**
+- [2025-12-19_18-25-14.mp4](comments_attachments/1451522900459786310-2025-12-19_18-25-14.mp4): discord
+
