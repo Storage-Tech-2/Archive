@@ -77,14 +77,15 @@
     "instructions": "Refer to video for boat placement instructions.",
     "compatibility": "Tested in 1.21.4"
   },
-  "timestamp": 1766163438657,
+  "timestamp": 1766163854704,
   "post": {
-    "threadId": "1451524462733168813",
+    "threadId": "1451621164244926484",
     "forumId": "1387131693411995658",
     "continuingMessageIds": [
-      "1451524465329700948"
+      "1451621168258748427",
+      "1451621168518795285"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1451524462733168813",
+    "threadURL": "https://discord.com/channels/1375556143186837695/1451621164244926484",
     "uploadMessageId": "1451616315948269773"
   }
 }

@@ -7,7 +7,7 @@
 
 **Tags:** *Tested & Functional*
 
-**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1451524462733168813)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1451621164244926484)
 
 20 bps item pusher. Faster, less block types, less total blocks than https://discordapp.com/channels/1375556143186837695/1388318627815493723
 ## Features
