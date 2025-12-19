@@ -1,0 +1,23 @@
+# Vertical Item Entity Elevator
+**Authors:** *Nvertd, pwouik*
+
+**Endorsed by:** *Andrews54757*
+
+**Tags:** *Tested & Functional*
+
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1451473326206881883)
+
+A device that sends items upwards in entity form, float align items with a boat.
+## Features
+- Nether compatible
+- 20 Blocks per Second
+- Minimum cycle time: 9 game ticks (8gt causes torch burnout)
+## Considerations
+- Requires a Boat
+## Compatibility
+Works in all game versions.
+## Instructions
+See video for boat placement instructions.
+
+## Resources
+- [NT003_Item_Elavator_20bps.litematic](attachments/NT003_Item_Elavator_20bps.litematic): MC 1.21.4, Size 7x31x5 blocks
