@@ -23,6 +23,7 @@ See video for boat placement instructions.
 
 ## Resources
 - [NT003_Item_Elavator_20bps.litematic](attachments/NT003_Item_Elavator_20bps.litematic): MC 1.21.4, Size 7x31x5 blocks
+- [NT003_2025-12-19_14-54-32.mp4](attachments/NT003_2025-12-19_14-54-32.mp4): video/mp4
 
 ## Comments
 
