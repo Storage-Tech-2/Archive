@@ -47,16 +47,9 @@
   ],
   "attachments": [],
   "records": {
-    "description": "A device that allows entities to be floated and aligned by colliding with a boat.",
-    "features": [
-      "Floats entities by using a boat",
-      "Aligns entities by colliding with the boat",
-      "Simpler alternative to other methods"
-    ],
-    "compatibility": "Works in versions 1.16.5 and above, does not work in 1.15 and below",
-    "instructions": "Place a boat in the desired floating position. Place other entities near the boat, and they will be pushed by the boat's collision, aligning them to the boat's position. The boat can be removed after the entities are aligned."
+    "description": "Placement of a boat to quickly float align other entities by colliding with the boat.\nThis is a simpler alternative to https://discordapp.com/channels/1375556143186837695/1388665299418480761\n\n### What is \"Float Align\"?\nBrought to you by Pwouik @pwouik\n> The minecart hitbox is 0.98 blocks. When a piston retracts with an entity inside, it push it by 0.020000009536746 block to the opposite direction, if there is no blocks in front. So one side [of the mincart] is slightly on the next block.\n> \n> Easiest way to float a minecart is 0 ticking a piston with the minecart in front.\n> \n> This cause the minecart to be detectable by block, but the entity doesn't collide with the blocks.\n> \n> A few examples of blocks that can detect the minecart:\n> moving blocks can push the minecart, slimeblock can accelerate it \n> hopper can interact with minecarts inventories\n> tripwire detect it when ticked, but the minecart doesn't tick it(you can put an entity colliding with the block where the tripwire is to tick it continuously)"
   },
-  "timestamp": 1766132729582,
+  "timestamp": 1766133054322,
   "post": {
     "threadId": "1451490614670786581",
     "forumId": "1388657467508133928",
