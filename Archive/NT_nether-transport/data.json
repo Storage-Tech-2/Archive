@@ -3,7 +3,7 @@
   "name": "nether-transport",
   "code": "NT",
   "description": "Transporting items in the nether",
-  "currentCodeId": 3,
+  "currentCodeId": 4,
   "entries": [
     {
       "id": "1387131489782857769",
@@ -32,6 +32,16 @@
       "code": "NT003",
       "timestamp": 1766129100049,
       "path": "NT003_Vertical_Item_Entity_Elevator",
+      "tags": [
+        "Tested & Functional"
+      ]
+    },
+    {
+      "id": "1451522896403894424",
+      "name": "Horizontal Item Entity Pusher",
+      "code": "NT004",
+      "timestamp": 1766140799422,
+      "path": "NT004_Horizontal_Item_Entity_Pusher",
       "tags": [
         "Tested & Functional"
       ]
