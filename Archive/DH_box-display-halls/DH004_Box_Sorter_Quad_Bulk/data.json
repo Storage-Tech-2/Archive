@@ -56,27 +56,27 @@
   ],
   "attachments": [
     {
-      "id": "1404092782074663002",
-      "name": "DH004_2025-08-09_05-55-00_quad_bulk_showcase.zip",
+      "id": "1451836922556190832",
+      "name": "DH004_2025-12-20_15-18-35_quad_bulk_showcase.zip",
       "contentType": "application/zip",
-      "url": "https://cdn.discordapp.com/attachments/1386956182526230558/1404092782074663002/2025-08-09_05-55-00_quad_bulk_showcase.zip?ex=6899eece&is=68989d4e&hm=337de0efe0d742f889d3b0092d9e829a3b64cbd551a32f63ce90460f1c5d4292&",
-      "description": "Sent by camphorwood at 8/10/2025, 9:23:26 AM",
+      "url": "https://cdn.discordapp.com/attachments/1386956182526230558/1451836922556190832/2025-12-20_15-18-35_quad_bulk_showcase.zip?ex=6947a000&is=69464e80&hm=2bacbdd95e13634cd11125deffc8f6a7da5264668589833ded4bc7e3b6cb9940&",
+      "description": "Sent by camphorwood at 12/20/2025, 2:21:36 AM",
       "canDownload": true,
-      "path": "attachments/DH004_2025-08-09_05-55-00_quad_bulk_showcase.zip",
+      "path": "attachments/DH004_2025-12-20_15-18-35_quad_bulk_showcase.zip",
       "wdl": {
         "version": "1.21.1"
       }
     },
     {
-      "id": "1404092781777125499",
-      "name": "DH004_camphorwood_quad_bulk_fixed2.litematic",
+      "id": "1451836922824753194",
+      "name": "DH004_quad_bulk_fixed3.litematic",
       "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1386956182526230558/1404092781777125499/camphorwood_quad_bulk_fixed2.litematic?ex=6899eecd&is=68989d4d&hm=85784a4746d5edaf092f7d3f6cb117b9a88ddd7269ddbb1fc81ab470def8761c&",
-      "description": "Sent by camphorwood at 8/10/2025, 9:23:26 AM",
+      "url": "https://cdn.discordapp.com/attachments/1386956182526230558/1451836922824753194/quad_bulk_fixed3.litematic?ex=6947a000&is=69464e80&hm=b93ed0a66c927d0010f461bf7670ac435191a172cf1a49fd84a0db3ab2a5c829&",
+      "description": "Sent by camphorwood at 12/20/2025, 2:21:36 AM",
       "canDownload": true,
-      "path": "attachments/DH004_camphorwood_quad_bulk_fixed2.litematic",
+      "path": "attachments/DH004_quad_bulk_fixed3.litematic",
       "litematic": {
-        "size": "35x44x64",
+        "size": "35x42x64",
         "version": "1.21.1"
       }
     }
@@ -95,7 +95,7 @@
     ],
     "notes": "[Showcase video](https://www.youtube.com/watch?v=i24AdqmGXLI) (!important)\n- Top display designed by @Jayroi\n- Bottom display designed by @DatNerd\n- Box sorter based on work by @crain"
   },
-  "timestamp": 1766215361715,
+  "timestamp": 1766215457420,
   "post": {
     "threadId": "1388318048372658316",
     "forumId": "1375565403727724764",
@@ -103,7 +103,7 @@
       "1388318051543548005"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1388318048372658316",
-    "uploadMessageId": "1404092996877811913",
+    "uploadMessageId": "1451837605921685566",
     "attachmentMessageId": "1388196225555103918"
   }
 }
