@@ -3,7 +3,7 @@
   "name": "clocks-and-counters",
   "code": "CC",
   "description": "Clocks and counter devices",
-  "currentCodeId": 5,
+  "currentCodeId": 6,
   "entries": [
     {
       "id": "1386448150994223134",
@@ -48,6 +48,16 @@
       "tags": [
         "Tested & Functional",
         "Recommended"
+      ]
+    },
+    {
+      "id": "1452358144284950610",
+      "name": "Small 1wt N-pulse Clocks",
+      "code": "CC006",
+      "timestamp": 1766359236112,
+      "path": "CC006_Small_1wt_N-pulse_Clocks",
+      "tags": [
+        "Tested & Functional"
       ]
     }
   ],
