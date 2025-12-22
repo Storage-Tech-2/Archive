@@ -26,10 +26,10 @@ This filtered shulker box array is fully hopperlocked and uses only 4 hoppers in
 - Empty boxes dispensing is triggered when a full box is output with a 1:1 ratio. If you run out of boxes, you will have to manually dump in empty boxes in the box distribution stream to refill the loaders. Global call based distribution coming soon:tm:
 - Inspired by https://discord.com/channels/748542142347083868/749137424684285992/1227104372878741596
 ## Instructions
-- Setup hopper filters
-- Unlock loaders by flicking the hopperlocking lever on red concrete block at the bottom corner of the device
-- Dump item entities into input
-- Relock loaders only after everything has been loaded into boxes. Engaging locking while loader is active may cause box replacement to fail.
+1. Setup hopper filters
+2. Unlock loaders by flicking the hopperlocking lever on red concrete block at the bottom corner of the device
+3. Dump item entities into input
+4. Relock loaders only after everything has been loaded into boxes. Engaging locking while loader is active may cause box replacement to fail.
 
 ## Other Images
 <img src="images/area_render_104_.png?raw=1">
@@ -37,5 +37,5 @@ This filtered shulker box array is fully hopperlocked and uses only 4 hoppers in
 <img src="images/area_render_105_.png?raw=1" height="300px">
 
 ## Resources
-- [FL004_4_Hopper_1x_Array_v2.litematic](attachments/FL004_4_Hopper_1x_Array_v2.litematic): MC 1.20.1, Size 9x9x37 blocks
-- [FL004_4_Hopper_1x_Array_2x2.litematic](attachments/FL004_4_Hopper_1x_Array_2x2.litematic): MC 1.20.1, Size 19x17x37 blocks
+- [FL004_4_Hopper_1x_Array_2x2_v2.1.litematic](attachments/FL004_4_Hopper_1x_Array_2x2_v2.1.litematic): MC 1.20.1, Size 19x17x37 blocks
+- [FL004_4_Hopper_1x_Array_v2.1.litematic](attachments/FL004_4_Hopper_1x_Array_v2.1.litematic): MC 1.20.1, Size 9x9x37 blocks
