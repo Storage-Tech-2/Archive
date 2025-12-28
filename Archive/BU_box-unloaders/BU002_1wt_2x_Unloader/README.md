@@ -13,7 +13,7 @@ Unloads boxes at 2X hopperspeed (18000 items/hr).
 ## Features
 - 2X Hopperspeed
 - Tileable
-- 16gt interval per box for continuous input
+- 16gt interval per [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) for continuous input
 - No toggle states
 ## Considerations
 - Uses a static cart in each [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261)

@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1454796725813379196)
 
-V3 of a device that 0 ticks a composter for box breaking and collection. Better animation speed and compatibility with compostables.
+V3 of a device that 0 ticks a composter for [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) breaking and collection. Better animation speed and compatibility with compostables.
 ## Features
 - Reliable ([0 tick](https://discord.com/channels/1375556143186837695/1454804845960757319/1454804847290220666) composter)
 - Better animation speed

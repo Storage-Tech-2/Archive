@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1402508433399480421)
 
-Sorts boxes into multi-item-type categories based on first item type of box at half-hopperspeed.
+Sorts boxes into multi-item-type categories based on first item type of [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) at half-hopperspeed.
 ## Features
 - Hopperspeed sorting
 - Fully hopperlocked design

@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1410487539965493320)
 
-Stacks hopper-minecarts below the box to quickly unload it. Provides an alternative to box yeeting that doesn'[t](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) destroy the box.
+Stacks hopper-minecarts below the [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) to quickly unload it. Provides an alternative to box yeeting that doesn'[t](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) destroy the box.
 ## Features
 - Unloads boxes very fast (Average: 600k items/hr)
 - Handles empty boxes

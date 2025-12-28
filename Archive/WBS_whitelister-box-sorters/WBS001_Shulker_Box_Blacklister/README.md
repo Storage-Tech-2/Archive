@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1451359341285212190)
 
-Each [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261) uses a static filter to check if the box contains the item set in the filter. If so, then the box will be rejected, otherwise the box moves to the next slice.
+Each [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261) uses a static filter to check if the [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) contains the item set in the filter. If so, then the box will be rejected, otherwise the box moves to the next slice.
 ## Features
 - 2x6x8 (single slice)
 - true 2-wide tileable

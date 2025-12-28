@@ -19,7 +19,7 @@ A simple 5 block wide [accessible loader](https://discord.com/channels/137555614
 - Buffers 16 stacks
 - Togglestates
 ## Notes
-Ensure dust is redirected away from box distribution hoppers
+Ensure dust is redirected away from [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) distribution hoppers
 
 ## Resources
 - [AL003_thin_accessible_loader.litematic](attachments/AL003_thin_accessible_loader.litematic): MC 1.21.4, Size 5x9x1 blocks

@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388316812520722533)
 
-Loads mixed items into boxes at full double hopperspeed. Meant for use in input systems to prevent the case where items can back up into the item/box checker if the input receives a constant stream of items.
+Loads mixed items into boxes at full double hopperspeed. Meant for use in input systems to prevent the case where items can back up into the item/[box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) checker if the input receives a constant stream of items.
 ## Features
 - Loads mixed items into boxes at full double hopperspeed
 - Meant for use in input systems to prevent the case where items can back up into the item/box checker

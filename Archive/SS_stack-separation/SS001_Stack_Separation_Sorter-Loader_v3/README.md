@@ -15,7 +15,7 @@ Uses stack separation to filter entire stack of items at once. Each of the 3wt m
 - 72k/h loaders per [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261)
 - Distributive loading functionality
 - Pause on slice overflow
-- Partial box collection
+- Partial [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) collection
 ## Considerations
 - Doesn'[t](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) include storage and unsorted handling.
 - Loaders can spit items

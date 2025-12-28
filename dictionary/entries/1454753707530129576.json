@@ -9,7 +9,17 @@
   "status": "APPROVED",
   "statusMessageID": "1454753708247089184",
   "updatedAt": 1766910712655,
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "box",
+      "id": "1454806018348290109",
+      "url": "https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708",
+      "matches": [
+        "box"
+      ]
+    }
+  ],
   "referencedBy": [
     "MIS003",
     "AC002"

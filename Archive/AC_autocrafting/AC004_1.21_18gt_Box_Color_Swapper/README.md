@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1392944535386067067)
 
-A box color changer that alters the color of a non-empty box if the first item in the box matches one of the items in a chest.
+A [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) color changer that alters the color of a non-empty box if the first item in the box matches one of the items in a chest.
 ## Features
 - Can be expanded or made smaller
 - Plug & play with no extra infrastructure required

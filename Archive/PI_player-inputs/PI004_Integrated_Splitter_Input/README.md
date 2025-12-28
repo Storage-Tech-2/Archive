@@ -12,7 +12,7 @@
 A device that uses a dueling hopper [splitter](https://discord.com/channels/1375556143186837695/1454754768088989789/1454754769674567868) to produce single-item-type boxes from a chest.
 ## Features
 - Separate unstackable output
-- Single item type box output with fullspeed [loader](https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720)
+- Single item type [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) output with fullspeed [loader](https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720)
 - Bulk box input chest on the right side
 - Noteblock input to start processing items
 - Slim profile, 2 blocks deep behind the input chests

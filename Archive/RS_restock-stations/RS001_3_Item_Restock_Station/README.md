@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1393003004998848643)
 
-A restock station that uses 3 box displays.
+A restock station that uses 3 [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) displays.
 ## Features
 - [Local](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) first box placement for both floor and top displays
 - Global first box placement can be added for middle display

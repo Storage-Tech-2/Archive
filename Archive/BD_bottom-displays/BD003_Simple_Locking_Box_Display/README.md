@@ -13,7 +13,7 @@ An incredibly simple [box display](https://discord.com/channels/1375556143186837
 ## Considerations
 - One Wide AB Tileable (alternate slime and honey)
 - You can’[t](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) easily handle initial [box detection](https://discord.com/channels/1375556143186837695/1454753490936266762/1454753491787452438).
-- It should be possible to time the breaking on another [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261) to cause the box breaking to trigger extra and break a partial full box, but this is so incredibly unlikely.
+- It should be possible to time the breaking on another [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261) to cause the [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) breaking to trigger extra and break a partial full box, but this is so incredibly unlikely.
 
 ## Resources
 - [BD003_b1nary_simple_locking_box_display_improved.litematic](attachments/BD003_b1nary_simple_locking_box_display_improved.litematic): MC 1.17.1, Size 4x5x1 blocks

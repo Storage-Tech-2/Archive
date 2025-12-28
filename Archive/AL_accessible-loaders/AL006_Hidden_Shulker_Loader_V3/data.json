@@ -71,6 +71,15 @@
   "references": [
     {
       "type": "dictionaryTerm",
+      "term": "box",
+      "id": "1454806018348290109",
+      "url": "https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708",
+      "matches": [
+        "box"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
       "term": "0 tick",
       "id": "1454804845960757319",
       "url": "https://discord.com/channels/1375556143186837695/1454804845960757319/1454804847290220666",

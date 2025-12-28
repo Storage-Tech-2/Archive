@@ -11,7 +11,7 @@
 
 Consume boxed ingredient materials (containing wood and shulker shells) to craft into shulker boxes with both ingredients being in the same boxes. Instead of having separate boxes for wood and shulker shells, this system creates and uses mixed shulker boxes containing both in a precise ratio.
 ## Features
-- Higher density, the logs box and shell box takes every 4 boxes can craft 1728 boxes, but these mixed boxes only takes 3 boxes.
+- Higher density, the logs [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) and shell box takes every 4 boxes can craft 1728 boxes, but these mixed boxes only takes 3 boxes.
 - Players only need to carry one type of box, which is extremely convenient for management and transportation
 - No matter what kind of boxed wood, it can be thrown to the "box material [loader](https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720)" and the final output box is the same, and even bamboo blocks can be consumed. The crafter that consumes bamboo blocks is not only slow but also complex and easy to break.
 - The structure of the empty box crafter has been greatly simplified, and the ordinary version is even only 4x4x2 in size

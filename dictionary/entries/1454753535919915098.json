@@ -20,5 +20,8 @@
         "t"
       ]
     }
+  ],
+  "referencedBy": [
+    "VBS002"
   ]
 }

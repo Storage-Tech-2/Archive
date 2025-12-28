@@ -19,5 +19,8 @@
         "Splitter"
       ]
     }
+  ],
+  "referencedBy": [
+    "FBS001"
   ]
 }

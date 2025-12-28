@@ -14,7 +14,7 @@ Wall [box display](https://discord.com/channels/1375556143186837695/145475349763
 - Using [0-tick](https://discord.com/channels/1375556143186837695/1454804845960757319/1454804847290220666) composters, empty boxes are 100% collectable.
 - Tapping the note block completes the first placement.
 ## Notes
-Two versions: the smaller one buffers an empty box and requires 1.19+ for lossless collection, while the larger one has no empty box buffer.
+Two versions: the smaller one buffers an empty [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) and requires 1.19+ for lossless collection, while the larger one has no empty box buffer.
 
 ## Resources
 - [OD004_0t_Composter_Wall_Box_Display.litematic](attachments/OD004_0t_Composter_Wall_Box_Display.litematic): MC 1.21, Size 1x12x16 blocks

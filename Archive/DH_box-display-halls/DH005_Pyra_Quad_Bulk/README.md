@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318028197789766)
 
-Quad bulk hall design has 4 box displays per [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261) and 4 box sorters.
+Quad bulk hall design has 4 [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) displays per [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261) and 4 box sorters.
 ## Features
 - FHL
 - Sticks 2 blocks from both sides

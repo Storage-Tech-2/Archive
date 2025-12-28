@@ -47,5 +47,7 @@
       ]
     }
   ],
-  "referencedBy": []
+  "referencedBy": [
+    "VBS002"
+  ]
 }

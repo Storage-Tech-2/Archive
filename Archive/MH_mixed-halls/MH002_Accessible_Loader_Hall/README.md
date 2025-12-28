@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1398714918714212473)
 
-Items are loaded into an accessible shulker box, the subsequent full boxes are then stored in double chests
+Items are loaded into an accessible shulker [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708), the subsequent full boxes are then stored in double chests
 ## Features
 - SSI filters
 - Low buffer before box replacement

@@ -7,7 +7,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317944609636402)
 
-These filters can accept any unstackable item as input and depending on the inventory block check if they are either a box, a potion, a book, or are shears/flint at hopperspeed.
+These filters can accept any unstackable item as input and depending on the inventory block check if they are either a [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708), a potion, a book, or are shears/flint at hopperspeed.
 ## Features
 - Very simple hopperspeed design
 - Can accept any obtainable unstackable item as input

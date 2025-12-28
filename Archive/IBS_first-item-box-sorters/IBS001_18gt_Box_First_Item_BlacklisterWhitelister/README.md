@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388316853004140554)
 
-Separates boxes based on if the first item of the input box matches an item set.
+Separates boxes based on if the first item of the input [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) matches an item set.
 ## Features
 - Output can be adjusted. For example: moving the gate to a different distance, replacing the gate with a piston setup (the gate cannot be replaced by a trapdoor at the distance shown), or by locking or unlocking a hopper to separate the box.
 - Can be expanded or made smaller, however the 8 [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261) version presented is the only one I tested. If hopper separation is used, additional testing should be minimal.

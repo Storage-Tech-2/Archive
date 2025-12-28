@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1402535963061915761)
 
-A device that checks if a box contains at least 2 items of its leading stackable item type. It unloads the leading item if it is the only item of its type or unstackable.
+A device that checks if a [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) contains at least 2 items of its leading stackable item type. It unloads the leading item if it is the only item of its type or unstackable.
 ## Features
 - Size: 5x5x8
 - Works with random input

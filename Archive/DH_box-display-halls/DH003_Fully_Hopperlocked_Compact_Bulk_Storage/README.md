@@ -17,7 +17,7 @@ Item bulk with [box display](https://discord.com/channels/1375556143186837695/14
 - Compact (17x35x21), sticks out 3 blocks from the first slice and 2 from the last
 - 19 hoppers per half slice
 - If a slice runs out of items it will unlock itself to restock
-- Bufferless, [Global](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) initial box placement box display
+- Bufferless, [Global](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) initial [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) placement box display
 - Collection hoppers unlock only when needed
 - Empty boxes are dropped into a waterstream
 - Reliable collection of overflowing and unsorted boxes into a waterstream

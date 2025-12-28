@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318468331536524)
 
-Small 6gt box replacement crafting station. Displays two boxes for you with ingredients on the left which breaks when emptied, and a box for the results on the right which breaks when full.
+Small 6gt [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) replacement crafting station. Displays two boxes for you with ingredients on the left which breaks when emptied, and a box for the results on the right which breaks when full.
 ## Features
 - Two input boxes are displayed simultaneously
 - Replaces boxes within 6gt for fast manual unloading/loading.
@@ -18,7 +18,7 @@ Small 6gt box replacement crafting station. Displays two boxes for you with ingr
 - collects the box 2gts after box is broken(unloading side)
 - On the loading side, you can right-click the note block to replace it with a new shulker box
 ## Considerations
-- no closed [box detection](https://discord.com/channels/1375556143186837695/1454753490936266762/1454753491787452438)
+- no closed box detection
 - static carts for collection
 ## Notes
 Interface inspired by @m3

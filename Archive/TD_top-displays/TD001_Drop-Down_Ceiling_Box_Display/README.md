@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317123041951817)
 
-Breaks the box with a piston that drops down from the top. Mainly meant for quad bulks.
+Breaks the [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) with a piston that drops down from the top. Mainly meant for quad bulks.
 ## Features
 - Automatic box replacement when emptied
 - Drop-down layout gives more space below for a secondary bottom display

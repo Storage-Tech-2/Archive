@@ -11,7 +11,7 @@
 
 A waterstream device that instantly destroys shulker boxes fed into it by using fire.
 ## Features
-- Instant shulker box unloading for an unlimited amount of boxes simultaneously
+- Instant shulker [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) unloading for an unlimited amount of boxes simultaneously
 ## Considerations
 - Destroys the shulker box
 ## Compatibility

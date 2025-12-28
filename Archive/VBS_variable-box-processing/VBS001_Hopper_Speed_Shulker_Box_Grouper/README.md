@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318379789516932)
 
-Assigns a filter item depending on the leading item type of the first box. Subsequent boxes are checked and separated based on whether they contain the assigned item. Deassigns when out of boxes, or manually.
+Assigns a filter item depending on the leading item type of the first [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708). Subsequent boxes are checked and separated based on whether they contain the assigned item. Deassigns when out of boxes, or manually.
 ## Features
 - Works at 8gt
 - No renamed filter items needed, unstackables work fine

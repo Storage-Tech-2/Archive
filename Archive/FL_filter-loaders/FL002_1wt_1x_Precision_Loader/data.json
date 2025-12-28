@@ -119,6 +119,15 @@
         "Slice",
         "slice"
       ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "box",
+      "id": "1454806018348290109",
+      "url": "https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708",
+      "matches": [
+        "box"
+      ]
     }
   ],
   "author_references": [],

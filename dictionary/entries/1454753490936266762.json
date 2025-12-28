@@ -21,6 +21,15 @@
     },
     {
       "type": "dictionaryTerm",
+      "term": "box",
+      "id": "1454806018348290109",
+      "url": "https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708",
+      "matches": [
+        "Box"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
       "term": "box display",
       "id": "1454753497638506689",
       "url": "https://discord.com/channels/1375556143186837695/1454753497638506689/1454753498494144522",
@@ -31,6 +40,7 @@
   ],
   "referencedBy": [
     "BD003",
-    "MIS005"
+    "MIS005",
+    "MC002"
   ]
 }

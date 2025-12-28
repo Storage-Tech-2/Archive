@@ -28,5 +28,8 @@
         "Pistonless"
       ]
     }
+  ],
+  "referencedBy": [
+    "BU004"
   ]
 }

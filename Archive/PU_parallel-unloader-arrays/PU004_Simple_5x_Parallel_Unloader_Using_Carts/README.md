@@ -13,7 +13,7 @@ A small device that takes in boxes and outputs items for filtered storage system
 ## Features
 - Very small, only 11x11x12
 - 4D aligned item output
-- Separate unstackable and empty box output
+- Separate unstackable and empty [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) output
 ## Considerations
 - Slow and cannot be expanded beyond 5x hopperspeed
 - Does not work with SS3 filters, items are output with a max stack size of 62/14

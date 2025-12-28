@@ -11,7 +11,7 @@
 
 Separates boxes by fill level into empty, partial, and full boxes at hopper speed using only one hopper.
 ## Features
-- Hopperspeed box processing
+- Hopperspeed [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) processing
 - Uses only one hopper
 
 ## Resources

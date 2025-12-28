@@ -23,7 +23,7 @@ A beginner to intermediate cart-based [MIS](https://discord.com/channels/1375556
 - no hopperlocking
 - no [bulk storage](https://discord.com/channels/1375556143186837695/1454753523668484213/1454753524637499577)
 - no [unstackable sorter](https://discord.com/channels/1375556143186837695/1454754837379022858/1454754839224516712)
-- input box breaking not 100% precise
+- input [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) breaking not 100% precise
 - there is one inaccessible chest for buffer per [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261)
 ## Notes
 - need chunk alignment

@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317306450477066)
 
-A floor display that uses soul sand to collect the empty box in a water stream.
+A floor display that uses soul sand to collect the empty [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) in a water stream.
 ## Features
 - [Global](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) first box placement
 - Collectionful

@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388316832016109649)
 
-Loads boxes at 8x hopperspeed without pausing during box replacement. Not tested extensively.
+Loads boxes at 8x hopperspeed without pausing during [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) replacement. Not tested extensively.
 ## Features
 - Fullspeed loading
 - 3 wide

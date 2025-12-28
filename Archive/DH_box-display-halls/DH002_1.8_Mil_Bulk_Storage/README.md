@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317982387601458)
 
-Re-locking is proceeded through updating BUDed pistons with a rail line, which is lag efficient. Nice default extended falling block box displays allows for a good [UI](https://discord.com/channels/1375556143186837695/1454754844316274861/1454754845033627671) with flat floor and shulkers being 3 blocks below the chests.
+Re-locking is proceeded through updating BUDed pistons with a rail line, which is lag efficient. Nice default extended falling block [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) displays allows for a good [UI](https://discord.com/channels/1375556143186837695/1454754844316274861/1454754845033627671) with flat floor and shulkers being 3 blocks below the chests.
 ## Features
 - Fully locked when idle
 - 1.8 million capacity per item
@@ -17,7 +17,7 @@ Re-locking is proceeded through updating BUDed pistons with a rail line, which i
 - Nice UI with default extended display
 ## Notes
 Additional credits:
-- acaciachan - [box sorter](https://discord.com/channels/1375556143186837695/1454753516269736090/1454753518383792221)
+- acaciachan - box sorter
 - Walter - for his reliable water stream
 - bipim, Moony and Gangles - falling block display
 - Philgoodinator - unsorted box recombiner and U-turn

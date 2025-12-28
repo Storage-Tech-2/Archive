@@ -12,7 +12,7 @@
 - Includes an SS3 item filter. 7x7 in size.
 - Togglestate-less
 ## Considerations
-- Can very rarely lose a box (~1 in 100 million boxes) when multiple slices trigger at timely intervals.
+- Can very rarely lose a [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) (~1 in 100 million boxes) when multiple slices trigger at timely intervals.
 ## Notes
 Two schematics are provided; one for 1.11+ that's one block higher and one for 1.13+ with two alternative ways to wire the box breaking. Both share the same features.
 

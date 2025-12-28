@@ -11,7 +11,7 @@
 
 Wall [box display](https://discord.com/channels/1375556143186837695/1454753497638506689/1454753498494144522) for restock stations
 ## Features
-- Snow default extended when no box is displayed
+- Snow default extended when no [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) is displayed
 - [Global](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) first box placement
 - Loses last box due to how it's wired
 - If global first box dispensing triggers while a box is being replaced, there's a chance the box won'[t](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) be collected

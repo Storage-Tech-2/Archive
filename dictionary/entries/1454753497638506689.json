@@ -9,8 +9,26 @@
   "status": "APPROVED",
   "statusMessageID": "1454753498494144522",
   "updatedAt": 1766910662594,
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "box",
+      "id": "1454806018348290109",
+      "url": "https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708",
+      "matches": [
+        "box"
+      ]
+    }
+  ],
   "referencedBy": [
-    "OD004"
+    "BD003",
+    "OD001",
+    "OD003",
+    "OD004",
+    "OD005",
+    "MH002",
+    "DH003",
+    "LS001",
+    "PI003"
   ]
 }

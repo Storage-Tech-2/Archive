@@ -81,7 +81,17 @@
     "attachmentMessageId": "1388178310378422426",
     "uploadMessageId": "1388178304405733528"
   },
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "box",
+      "id": "1454806018348290109",
+      "url": "https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708",
+      "matches": [
+        "box"
+      ]
+    }
+  ],
   "author_references": [],
   "archivedAt": 1751013871094,
   "updatedAt": 1751013871094

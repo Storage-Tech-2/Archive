@@ -11,7 +11,7 @@
 
 **Features**
 - 2wt 
-- [Global](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) box replacement line
+- [Global](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) replacement line
 - Globally clocked
 - Dropper Line and hopper/ice versions. 
 - Handles mixed inputs (not unstackables)

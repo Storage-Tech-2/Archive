@@ -17,7 +17,7 @@ Unloads items from boxes at hopperspeed.
 - [Solid state](https://discord.com/channels/1375556143186837695/1454754761093025874/1454754762837987561) & togglestateless, improving robustness.
 ## Considerations
 - Does not handle empty boxes
-- No initial box placement due to possible issue with random input
+- No initial [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) placement due to possible issue with random input
 
 ## Resources
 - [BU004_box_unloader_slice_preserving_solidstate_Obi.litematic](attachments/BU004_box_unloader_slice_preserving_solidstate_Obi.litematic): MC 1.18.2, Size 6x7x1 blocks
