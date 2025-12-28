@@ -621,12 +621,20 @@
       "updatedAt": 1766922768661
     },
     {
+      "id": "1454804558453932156",
+      "terms": [
+        "Seamless"
+      ],
+      "summary": "No visible redstone components in UI",
+      "updatedAt": 1766923385562
+    },
+    {
       "id": "1454805316029120542",
       "terms": [
         "Redstone Tick"
       ],
       "summary": "Referring to 2 Gameticks, a redstone tick is the time it takes for a repeater to power, an observer to turn on. It is also equivalent to a tenth of a second (assuming no lag)",
-      "updatedAt": 1766923169702
+      "updatedAt": 1766923239521
     }
   ]
 }
