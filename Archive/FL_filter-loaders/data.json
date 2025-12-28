@@ -9,7 +9,6 @@
       "id": "1386091760710848542",
       "name": "2wt Minimal Prefill Filtered 4x Loader",
       "code": "FL001",
-      "timestamp": 1750565056538,
       "path": "FL001_2wt_Minimal_Prefill_Filtered_4x_Loader",
       "tags": [
         "Tested & Functional",
@@ -47,7 +46,6 @@
       "id": "1399902816641749023",
       "name": "Hopperlocked Filtered Box Loader Array",
       "code": "FL004",
-      "timestamp": 1766430867278,
       "path": "FL004_Hopperlocked_Filtered_Box_Loader_Array",
       "tags": [
         "Tested & Functional",

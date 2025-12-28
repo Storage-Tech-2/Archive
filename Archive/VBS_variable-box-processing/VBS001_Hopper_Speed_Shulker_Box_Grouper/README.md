@@ -17,7 +17,7 @@ Assigns a filter item depending on the leading item type of the first box. Subse
 ## Considerations
 - Can't handle empty boxes
 ## Notes
-The schematic contains two versions: One that deassigns automatically and manually. Inspired by https://discord.com/channels/748542142347083868/749136504558714982/1315103045763207248
+The schematic contains two versions: One that deassigns automatically and manually. Inspired by https://discord.com/channels/748542142347083868/749136504558714982/1315103045763207248 ([Join Storage Tech](https://discord.gg/JufJ6uf))
 
 ## Resources
 - [VBS001_Hopper_Speed_Box_Grouper_4x5x6.litematic](attachments/VBS001_Hopper_Speed_Box_Grouper_4x5x6.litematic): MC 1.18.2, Size 12x6x5 blocks

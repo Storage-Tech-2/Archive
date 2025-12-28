@@ -100,5 +100,18 @@
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1389338141583741085",
     "uploadMessageId": "1389338139062960309"
-  }
+  },
+  "references": [
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/1375556143186837695/1389355709119856772/1389355709119856772",
+      "server": "1375556143186837695",
+      "channel": "1389355709119856772",
+      "message": "1389355709119856772",
+      "matches": [
+        "https://discord.com/channels/1375556143186837695/1389355709119856772/1389355709119856772"
+      ]
+    }
+  ],
+  "author_references": []
 }

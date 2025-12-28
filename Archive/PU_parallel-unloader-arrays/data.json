@@ -29,7 +29,6 @@
       "id": "1406046528803573821",
       "name": "Simple 5x Parallel Unloader Using Carts",
       "code": "PU004",
-      "timestamp": 1755318807945,
       "path": "PU004_Simple_5x_Parallel_Unloader_Using_Carts",
       "tags": [
         "Tested & Functional"
@@ -39,7 +38,6 @@
       "id": "1450293920683655338",
       "name": "[1.17+] Set Based Parallel Unloader Array 3.1d",
       "code": "PU005",
-      "timestamp": 1765848224455,
       "path": "PU005_1.17_Set_Based_Parallel_Unloader_Array_3.1d",
       "tags": [
         "Tested & Functional",

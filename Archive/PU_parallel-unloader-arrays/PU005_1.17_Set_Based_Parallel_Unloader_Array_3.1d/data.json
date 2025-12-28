@@ -94,9 +94,59 @@
     "threadId": "1450297315628941466",
     "forumId": "1375569870577467412",
     "continuingMessageIds": [
-      "1450297318577537116"
+      "1450297318577537116",
+      "1454696210626515180",
+      "1454696211326959751"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1450297315628941466",
     "uploadMessageId": "1450297313502167151"
-  }
+  },
+  "references": [
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/963431585816911872/1297648167227101225",
+      "server": "748542142347083868",
+      "channel": "963431585816911872",
+      "message": "1297648167227101225",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/963431585816911872/1297648167227101225"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/749136547755851857/983793044404985896",
+      "server": "748542142347083868",
+      "channel": "749136547755851857",
+      "message": "983793044404985896",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/749136547755851857/983793044404985896"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/748547221338849330/1300397344134529056",
+      "server": "748542142347083868",
+      "channel": "748547221338849330",
+      "message": "1300397344134529056",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/748547221338849330/1300397344134529056"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "archivedPost",
+      "id": "1402533524040450109",
+      "code": "OBP003",
+      "url": "https://discord.com/channels/1375556143186837695/1402535963061915761",
+      "matches": [
+        "https://discord.com/channels/1375556143186837695/1402535963061915761/1402535963061915761"
+      ]
+    }
+  ],
+  "author_references": []
 }

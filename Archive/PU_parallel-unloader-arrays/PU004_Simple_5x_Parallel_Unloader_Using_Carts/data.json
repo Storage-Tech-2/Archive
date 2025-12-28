@@ -84,5 +84,18 @@
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1406048074920493137",
     "uploadMessageId": "1406133739146186755"
-  }
+  },
+  "references": [
+    {
+      "type": "archivedPost",
+      "id": "1386425910319644864",
+      "code": "OIP002",
+      "url": "https://discord.com/channels/1375556143186837695/1388317887462113373",
+      "matches": [
+        "OIP002",
+        "https://discord.com/channels/1375556143186837695/1388317887462113373"
+      ]
+    }
+  ],
+  "author_references": []
 }

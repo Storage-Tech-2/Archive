@@ -21,15 +21,15 @@ Sorts and stores items produced by a quarry
 - With the schematics an example setup is attached, which includes a quarry, nether transportation line and the storage.
 ## Sourced components
 - Chunk loader: https://discord.com/channels/594920796867133446/594968639321538560/917049843711631400 (Pfeffabeissa)
-- Cart-yeeting filter: https://discord.com/channels/748542142347083868/748578407377272843/1025134782524436590 (Hexatron) (modified by me, one posted by hex is directional and can skip items in some conditions)
+- Cart-yeeting filter: https://discord.com/channels/748542142347083868/748578407377272843/1025134782524436590 ([Join Storage Tech](https://discord.gg/JufJ6uf)) (Hexatron) (modified by me, one posted by hex is directional and can skip items in some conditions)
 - Stack separator: <https://youtu.be/ypuFkR_3M7M> (Rapscallion)
-- Stack filter: https://discord.com/channels/748542142347083868/749136547755851857/1092571218982477824 (Rapscallion & Glotz)
-- Stacksep loaders: https://discord.com/channels/748542142347083868/749135718701465641/991104818951241828 + 6x one (Data & Floppy)
-- Deepslate loaders: https://discord.com/channels/748542142347083868/749135718701465641/1065569000899223572 (Philgoodinator)
-- Unsorted loader: https://discord.com/channels/748542142347083868/749135718701465641/1048747806489321594 (Acaciachan)
-- Box sorter: https://discord.com/channels/748542142347083868/749136459021287485/1098895594992455732 (Acaciachan)
-- Bulks: https://discord.com/channels/748542142347083868/749137424684285992/1125175489338802268 4mil, https://discord.com/channels/748542142347083868/749137424684285992/1125174111539298375 1.2mil (me)
-- Crafting station: https://discord.com/channels/748542142347083868/749137321710059542/1112115542518673428 (Sauron)
+- Stack filter: https://discord.com/channels/748542142347083868/749136547755851857/1092571218982477824 ([Join Storage Tech](https://discord.gg/JufJ6uf)) (Rapscallion & Glotz)
+- Stacksep loaders: https://discord.com/channels/748542142347083868/749135718701465641/991104818951241828 ([Join Storage Tech](https://discord.gg/JufJ6uf)) + 6x one (Data & Floppy)
+- Deepslate loaders: https://discord.com/channels/748542142347083868/749135718701465641/1065569000899223572 ([Join Storage Tech](https://discord.gg/JufJ6uf)) (Philgoodinator)
+- Unsorted loader: https://discord.com/channels/748542142347083868/749135718701465641/1048747806489321594 ([Join Storage Tech](https://discord.gg/JufJ6uf)) (Acaciachan)
+- Box sorter: https://discord.com/channels/748542142347083868/749136459021287485/1098895594992455732 ([Join Storage Tech](https://discord.gg/JufJ6uf)) (Acaciachan)
+- Bulks: https://discord.com/channels/748542142347083868/749137424684285992/1125175489338802268 ([Join Storage Tech](https://discord.gg/JufJ6uf)) 4mil, https://discord.com/channels/748542142347083868/749137424684285992/1125174111539298375 ([Join Storage Tech](https://discord.gg/JufJ6uf)) 1.2mil (me)
+- Crafting station: https://discord.com/channels/748542142347083868/749137321710059542/1112115542518673428 ([Join Storage Tech](https://discord.gg/JufJ6uf)) (Sauron)
 
 ## Resources
 - [SS003_GQS-0.8.0-stacksep.litematic](attachments/SS003_GQS-0.8.0-stacksep.litematic): MC 1.20.2, Size 43x18x11 blocks

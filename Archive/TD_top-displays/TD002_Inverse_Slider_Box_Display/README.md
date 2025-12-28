@@ -15,7 +15,7 @@ Designed for quad bulks with more available space under the top display.
 - Locally locked minimum hopper locking
 - Global first box placement
 ## Considerations
-- Requires more space under the display compared to https://discord.com/channels/748542142347083868/749137152192806954/1085199265992802485
+- Requires more space under the display compared to https://discord.com/channels/748542142347083868/749137152192806954/1085199265992802485 ([Join Storage Tech](https://discord.gg/JufJ6uf))
 - Initial placement has many piston actions
 ## Notes
 - Older versions may need more than two slices in order to avoid toggling the sticky during the initial place.

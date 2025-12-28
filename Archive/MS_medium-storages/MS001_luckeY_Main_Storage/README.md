@@ -23,15 +23,15 @@ A medium size storage system built for [luckeY](https://www.youtube.com/@luckeYp
 - Boxes can despawn if too many boxes are input
 - No overflow protection. Items may despawn if too many are input or if chests are full
 ## Sourced components
-- Input: https://discord.com/channels/748542142347083868/1074320036958846986/1075193549101993985
-- Unloader: https://discord.com/channels/748542142347083868/749136547755851857/1397119350854647809
-- Chest halls: https://discord.com/channels/748542142347083868/749137103463514163/1050922094256459807
-- Bulk Hall: https://discord.com/channels/748542142347083868/749137103463514163/1076322959096041472
-- MIS: https://discord.com/channels/748542142347083868/749136637606363167/1086235129053204481
-- Unstackable sorter: https://discord.com/channels/748542142347083868/749136876946063360/1096104601876430880 (book and disc sorter added)
+- Input: https://discord.com/channels/748542142347083868/1074320036958846986/1075193549101993985 ([Join Storage Tech](https://discord.gg/JufJ6uf))
+- Unloader: https://discord.com/channels/748542142347083868/749136547755851857/1397119350854647809 ([Join Storage Tech](https://discord.gg/JufJ6uf))
+- Chest halls: https://discord.com/channels/748542142347083868/749137103463514163/1050922094256459807 ([Join Storage Tech](https://discord.gg/JufJ6uf))
+- Bulk Hall: https://discord.com/channels/748542142347083868/749137103463514163/1076322959096041472 ([Join Storage Tech](https://discord.gg/JufJ6uf))
+- MIS: https://discord.com/channels/748542142347083868/749136637606363167/1086235129053204481 ([Join Storage Tech](https://discord.gg/JufJ6uf))
+- Unstackable sorter: https://discord.com/channels/748542142347083868/749136876946063360/1096104601876430880 ([Join Storage Tech](https://discord.gg/JufJ6uf)) (book and disc sorter added)
 - Furnace array: https://youtu.be/ymCKHW-7HDg
-- Brewer: https://discord.com/channels/748542142347083868/748547221338849330/1150837060429688905
-- Crafting station: https://discord.com/channels/748542142347083868/749137321710059542/1112115542518673428
+- Brewer: https://discord.com/channels/748542142347083868/748547221338849330/1150837060429688905 ([Join Storage Tech](https://discord.gg/JufJ6uf))
+- Crafting station: https://discord.com/channels/748542142347083868/749137321710059542/1112115542518673428 ([Join Storage Tech](https://discord.gg/JufJ6uf))
 - Shulker crafter: https://discord.com/channels/856232076252282890/1304497540481290410/1304497540481290410
 - Dispenser crafter: https://discord.com/channels/856232076252282890/1225739717010657280/1226644451825418362
 

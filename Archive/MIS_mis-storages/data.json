@@ -9,7 +9,6 @@
       "id": "1386227823450132604",
       "name": "Compact Categorizer",
       "code": "MIS001",
-      "timestamp": 1750573808217,
       "path": "MIS001_Compact_Categorizer",
       "tags": [
         "Recommended",
@@ -20,7 +19,6 @@
       "id": "1386555107084210176",
       "name": "Simple Cart-based MIS Storage (Scorpio MIS)",
       "code": "MIS003",
-      "timestamp": 1753625109559,
       "path": "MIS003_Simple_Cart-based_MIS_Storage_Scorpio_MIS",
       "tags": [
         "Tested & Functional"

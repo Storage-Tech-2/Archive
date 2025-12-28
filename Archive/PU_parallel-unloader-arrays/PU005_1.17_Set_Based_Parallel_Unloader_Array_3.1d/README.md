@@ -16,10 +16,10 @@ This machine takes any shulker boxes as an input, and unloads them, several at a
 ## Notes
 - Testing info, FAQ, instructions on how to adjust the system to output for signal strength 3 filters, and more in the [Manual](<https://docs.google.com/document/d/1wURZLtZx3b3m7RmgFqyuDXkxZ8FbK9xeMSmTxDZ_1F8>). Thanks to <@660633169191632908> and <@244529884846751745> for advice on testing.
 ## Sourced components
-- based on 3.1 pre 17 by Glotz: https://discord.com/channels/748542142347083868/963431585816911872/1297648167227101225
-- which is based on 2.5, which had many contributors: https://discord.com/channels/748542142347083868/749136547755851857/983793044404985896
+- based on 3.1 pre 17 by Glotz: https://discord.com/channels/748542142347083868/963431585816911872/1297648167227101225 ([Join Storage Tech](https://discord.gg/JufJ6uf))
+- which is based on 2.5, which had many contributors: https://discord.com/channels/748542142347083868/749136547755851857/983793044404985896 ([Join Storage Tech](https://discord.gg/JufJ6uf))
 - set wiring by <@433358354094489612>, <@183711148288245760>, & Glotz
-- 2 Item Check by <@1068798858676686848> & <@1055842182982021144>: https://discord.com/channels/748542142347083868/748547221338849330/1300397344134529056 https://discord.com/channels/1375556143186837695/1402535963061915761/1402535963061915761
+- 2 Item Check by <@1068798858676686848> & <@1055842182982021144>: https://discord.com/channels/748542142347083868/748547221338849330/1300397344134529056 ([Join Storage Tech](https://discord.gg/JufJ6uf)) [OBP003](https://discord.com/channels/1375556143186837695/1402535963061915761)
 - FIT wiring by <@244529884846751745>, Glotz, boyenn, & <@183711148288245760>
 - pause protection by Glotz
 

@@ -74,10 +74,38 @@
     "threadId": "1388318242690564188",
     "forumId": "1375569381781930006",
     "continuingMessageIds": [
-      "1388318246410784912"
+      "1388318246410784912",
+      "1454696191584632896"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1388318242690564188",
     "uploadMessageId": "1388228735798480976",
     "attachmentMessageId": "1388228742802964560"
-  }
+  },
+  "references": [
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/1121057305698517093/1123390860147560609",
+      "server": "748542142347083868",
+      "channel": "1121057305698517093",
+      "message": "1123390860147560609",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/1121057305698517093/1123390860147560609"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/748578407377272843/1191660970687348756",
+      "server": "748542142347083868",
+      "channel": "748578407377272843",
+      "message": "1191660970687348756",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/748578407377272843/1191660970687348756"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    }
+  ],
+  "author_references": []
 }

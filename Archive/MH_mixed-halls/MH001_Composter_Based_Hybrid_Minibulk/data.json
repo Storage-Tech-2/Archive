@@ -126,10 +126,26 @@
     "forumId": "1375563506765664388",
     "threadId": "1388317585392668763",
     "continuingMessageIds": [
-      "1388317591612686387"
+      "1454696107056824452",
+      "1454696107987959960"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1388317585392668763",
     "attachmentMessageId": "1388178598019469336",
     "uploadMessageId": "1388178589496905812"
-  }
+  },
+  "references": [
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/1203099749746475088/1308614543894642760",
+      "server": "748542142347083868",
+      "channel": "1203099749746475088",
+      "message": "1308614543894642760",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/1203099749746475088/1308614543894642760"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    }
+  ],
+  "author_references": []
 }

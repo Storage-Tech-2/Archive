@@ -93,5 +93,17 @@
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1450282499274965186",
     "uploadMessageId": "1450282497089867929"
-  }
+  },
+  "references": [
+    {
+      "type": "archivedPost",
+      "id": "1440940351895506944",
+      "code": "WT003",
+      "url": "https://discord.com/channels/1375556143186837695/1440940601724899448",
+      "matches": [
+        "WT003"
+      ]
+    }
+  ],
+  "author_references": []
 }

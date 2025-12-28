@@ -25,7 +25,7 @@ Hybrid hall containing a composter based hybrid box loader that allows for acces
 - UI may be a little cramped for some(does not apply to v3.1W)
 - requires a lot of attention to detail for the tiling
 ## Notes
-Original unsorted post: https://discord.com/channels/748542142347083868/1203099749746475088/1308614543894642760
+Original unsorted post: https://discord.com/channels/748542142347083868/1203099749746475088/1308614543894642760 ([Join Storage Tech](https://discord.gg/JufJ6uf))
 
 ## Other Images
 <img src="images/area_render_4_.png?raw=1" height="300px">
