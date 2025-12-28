@@ -15,7 +15,9 @@
         "8X Hopperspeed",
         "4X Hopperspeed",
         "Recommended"
-      ]
+      ],
+      "archivedAt": 1766901938599,
+      "updatedAt": 1766901938599
     },
     {
       "id": "1386840858355040346",
@@ -28,7 +30,9 @@
         "1X Hopperspeed",
         "Slice Preserving",
         "Recommended"
-      ]
+      ],
+      "archivedAt": 1750719849119,
+      "updatedAt": 1750719849119
     },
     {
       "id": "1388000617972236458",
@@ -40,12 +44,16 @@
         "Recommended",
         "1X Hopperspeed",
         "Tested & Functional"
-      ]
+      ],
+      "archivedAt": 1750997281473,
+      "updatedAt": 1750997281473
     },
     {
       "id": "1399902816641749023",
       "name": "Hopperlocked Filtered Box Loader Array",
       "code": "FL004",
+      "archivedAt": 1766901938599,
+      "updatedAt": 1766901938600,
       "path": "FL004_Hopperlocked_Filtered_Box_Loader_Array",
       "tags": [
         "Tested & Functional",
