@@ -145,10 +145,12 @@
       "terms": [
         "Dropper speed",
         "HS",
-        "1x, 2x, 1/2x, ..."
+        "1x",
+        "2x",
+        "1/2x"
       ],
       "summary": "Similar to Hopper speed, but less frequently used. Refers to the speed at which items are processed in a dropper when clocked at the minimum interval (1 item every 4gt(gametick)). Usually written a...",
-      "updatedAt": 1766910678471
+      "updatedAt": 1766954186064
     },
     {
       "id": "1454753569768079468",
