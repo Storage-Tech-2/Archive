@@ -14,7 +14,7 @@ Stacks hopper-minecarts below the [box](https://discord.com/channels/13755561431
 - Unloads boxes very fast (Average: 710k items/hr, Max: 1.2mil items/hr)
 - Handles empty boxes
 - Unloaded boxes are preserved and sent to their own output
-- Size: [8x](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294)11x3
+- Size: 8x11x3
 ## Considerations
 - It's big (smaller version exists for only slightly slower speeds: https://discord.com/channels/1375556143186837695/1389355709119856772/1389355709119856772)
 

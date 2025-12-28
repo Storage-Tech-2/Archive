@@ -13,7 +13,7 @@ Small 6[gt](https://discord.com/channels/1375556143186837695/1454753634435858666
 ## Features
 - Two input boxes are displayed simultaneously
 - Replaces boxes within 6gt for fast manual unloading/loading.
-- Very small footprint ([6x](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294)6x6)
+- Very small footprint (6x6x6)
 - automatically put the first box on the unloading side
 - collects the box 2gts after box is broken(unloading side)
 - On the loading side, you can right-click the note block to replace it with a new shulker box

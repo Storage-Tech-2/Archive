@@ -11,7 +11,7 @@
 
 Displays a [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) thrown by the player into the collection hopper. The old box is collected and put into the chest.
 ## Features
-- Small design, only [6x](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294)5 blocks
+- Small design, only 6x5 blocks
 ## Notes
 Concept by daisy_pig
 

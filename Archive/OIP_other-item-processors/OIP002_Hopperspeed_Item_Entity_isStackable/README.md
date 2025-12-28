@@ -11,7 +11,7 @@
 
 Performs a isStackable check on a entire item entity stack every 8[gt](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539). If each item entity is stacked to 64, it can process up to 576,000 items/hour.
 ## Features
-- [4x](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294)6x5 footprint
+- 4x6x5 footprint
 - Has input protection, so it doesn't break with random inputs
 ## Notes
 Requires 4 hopper minecarts in the dispenser

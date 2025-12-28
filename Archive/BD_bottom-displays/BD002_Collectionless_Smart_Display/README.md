@@ -11,7 +11,7 @@
 
 A small display without empty [box collection](https://discord.com/channels/1375556143186837695/1454805930670559326/1454805932532830268) that breaks the [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) only when empty and closed.
 ## Features
-- Small ([6x](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294)6)
+- Small (6x6)
 - Smart box breaking, only breaks it when empty and closed
 - [Global](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) first box placement
 - Minimum hoppers, fully locked
