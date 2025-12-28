@@ -11,5 +11,22 @@
   "statusMessageID": "1454811560626356487",
   "updatedAt": 1766924588675,
   "references": [],
-  "referencedBy": []
+  "referencedBy": [
+    "FL004",
+    "ML004",
+    "OL003",
+    "IBS004",
+    "BD004",
+    "OD003",
+    "CH001",
+    "CH005",
+    "WT001",
+    "OIP003",
+    "US007",
+    "US008",
+    "MIS003",
+    "VBS001",
+    "FA002",
+    "CC004"
+  ]
 }

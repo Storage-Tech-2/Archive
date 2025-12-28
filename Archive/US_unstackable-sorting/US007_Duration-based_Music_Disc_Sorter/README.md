@@ -11,7 +11,7 @@
 
 A device that uses the duration of a music disc to sort discs with the same signal strength.
 ## Features
-- Includes schematic for a hopperspeed prechecker device which checks if an item is a musc disc and has a signal strength of 9-14 first before sending to length based sorter.
+- Includes [schematic](https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487) for a hopperspeed prechecker device which checks if an item is a musc disc and has a signal strength of 9-14 first before sending to length based sorter.
 - Can discriminate strad, wait, 11, ward, otherside, pigstep, relic, precipice, creator (music [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) version), creator, lava chicken, and tears music discs.
 ## Considerations
 - The Prechecker and the length sorter can be fully hopperlocked with additional wiring, but is not included in the schematic

@@ -39,8 +39,6 @@
     }
   ],
   "referencedBy": [
-    "MIS004",
-    "MIS006",
-    "LS001"
+    "US008"
   ]
 }

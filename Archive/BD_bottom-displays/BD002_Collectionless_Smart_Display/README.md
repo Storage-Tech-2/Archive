@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317191060979833)
 
-A small display without empty [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) collection that breaks the box only when empty and closed.
+A small display without empty [box collection](https://discord.com/channels/1375556143186837695/1454805930670559326/1454805932532830268) that breaks the [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) only when empty and closed.
 ## Features
 - Small (6x6)
 - Smart box breaking, only breaks it when empty and closed

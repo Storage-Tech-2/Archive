@@ -19,5 +19,8 @@
         "binary"
       ]
     }
+  ],
+  "referencedBy": [
+    "CC004"
   ]
 }

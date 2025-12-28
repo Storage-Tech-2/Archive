@@ -27,7 +27,7 @@ The base and accessible version does not have a box [loader](https://discord.com
 ### Build
 - When building the storage, make sure to chunk align so that the storage is within the 3x3 loading range of the chunk loader.
 - Glow lichen can be replaced with sign
-- Make sure to only fill the cart dispenser with 8 hopper minecarts, refer to schematic
+- Make sure to only fill the cart dispenser with 8 hopper minecarts, refer to [schematic](https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487)
 - Make sure to RENAME the blocker items (e.g. the iron nuggets except the actual filter item)
 - It is recommended to temporarily fill all the whitelister chest filter slots with blocker items (renamed iron nuggets). Once you acquire the actual filter items, to replace the placeholders. For a visual guide, refer to the demonstration at [this timestamp](<https://youtu.be/oU5EjKhhbnk?si=XwvpGQnIHJRrBjRf&t=76>)
 

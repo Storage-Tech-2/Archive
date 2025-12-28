@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317540870131842)
 
-A simple setup that reliably aligns the output of a dropper in the 3 dimensions and time, allowing for a predictable position and motion of the items. Schematic includes some example wiring possibilities.
+A simple setup that reliably aligns the output of a dropper in the 3 dimensions and time, allowing for a predictable position and motion of the items. [Schematic](https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487) includes some example wiring possibilities.
 ## Features
 - [Pistonless](https://discord.com/channels/1375556143186837695/1454753777348251728/1454753777763749963)
 - 4gt clockable

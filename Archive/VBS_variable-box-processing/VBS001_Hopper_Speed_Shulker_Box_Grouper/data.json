@@ -103,6 +103,15 @@
       ]
     },
     {
+      "type": "dictionaryTerm",
+      "term": "schematic",
+      "id": "1454811558009110704",
+      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
+      "matches": [
+        "schematic"
+      ]
+    },
+    {
       "type": "discordLink",
       "url": "https://discord.com/channels/748542142347083868/749136504558714982/1315103045763207248",
       "server": "748542142347083868",

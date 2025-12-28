@@ -26,7 +26,7 @@
 - There is no protection against switching between modes when going through the pause sequence and then resuming
 ## Notes
 - The Array only supports fuel that can burn 8 or more items(coal, charcoal, blaze rods)
-- Schematic was taken and the system was tested in 1.19.4
+- [Schematic](https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487) was taken and the system was tested in 1.19.4
 - This is meant to be a remote furnace array so there is no Good [UI](https://discord.com/channels/1375556143186837695/1454754844316274861/1454754845033627671) for it
 - The honey Can be replaced with slime blocks for the rising edges and an ender chest for the Box [loader](https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720)
 - Tested for only 2 million items in each mode

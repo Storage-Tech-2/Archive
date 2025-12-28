@@ -11,7 +11,7 @@
 
 Works by having a memory cell subtracted one signal strength each time a self-resetting pulse extender turns off. This allows it to last a [bit](https://discord.com/channels/1375556143186837695/1454753462171734026/1454753462905737238) longer than a clock based solution. All designs are [pistonless](https://discord.com/channels/1375556143186837695/1454753777348251728/1454753777763749963) as they use the small reset time on the pulse extender to achieve the falling edge that subtracts the memory cell.
 
-Multiple variations are included, the smallest design to the left lasts 40 seconds, the right most design can use any pulse extender, and there is a separate schematic for a 2 wide version.
+Multiple variations are included, the smallest design to the left lasts 40 seconds, the right most design can use any pulse extender, and there is a separate [schematic](https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487) for a 2 wide version.
 ## Features
 - 2 wide tileable
 

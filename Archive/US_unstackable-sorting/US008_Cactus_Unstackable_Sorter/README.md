@@ -17,7 +17,7 @@ Sorts 10 types of unstackable items (music discs, enchanted books, potions, flin
 ## Considerations
 - Many clocks are connected, leading to some unnecessary lag while running.
 ## Notes
-- Schematic has both normal and hopper locked versions as subregions.
+- [Schematic](https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487) has both normal and hopper locked versions as subregions.
 - Winner of the 2025 [Unstackable Sorter](https://discord.com/channels/1375556143186837695/1454754837379022858/1454754839224516712) Contest!
 ## Compatibility
 1.20+

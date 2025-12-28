@@ -114,8 +114,7 @@
       "id": "1454806018348290109",
       "url": "https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708",
       "matches": [
-        "box",
-        "Box"
+        "box"
       ]
     },
     {
@@ -125,6 +124,15 @@
       "url": "https://discord.com/channels/1375556143186837695/1454754824758493380/1454754825345433803",
       "matches": [
         "unloader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "box collection",
+      "id": "1454805930670559326",
+      "url": "https://discord.com/channels/1375556143186837695/1454805930670559326/1454805932532830268",
+      "matches": [
+        "Box collection"
       ]
     },
     {

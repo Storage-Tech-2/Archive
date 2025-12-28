@@ -14,7 +14,7 @@ Simple hopperspeed [box](https://discord.com/channels/1375556143186837695/145480
 - Small design
 - Can handle empty boxes
 ## Considerations
-- Box collection is not 100% reliable if tiled because box item can be collected by adjacent [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261), must be A/B tiled.
+- [Box collection](https://discord.com/channels/1375556143186837695/1454805930670559326/1454805932532830268) is not 100% reliable if tiled because box item can be collected by adjacent [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261), must be A/B tiled.
 ## Notes
 [Showcase Video](https://www.youtube.com/watch?v=Vp17vDuMHAQ)
 

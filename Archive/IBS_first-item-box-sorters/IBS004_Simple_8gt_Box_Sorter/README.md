@@ -15,7 +15,7 @@ A simple [box sorter](https://discord.com/channels/1375556143186837695/145475351
 - Very small slices (6x4)
 - Small head module & end box-item merging
 ## Instructions
-1. Make sure to set filters! In the filter hoppers (filled with cake in the schematic), put the desired filter item in the first slot, and fill the rest of the slots with unstackable blocker items.
+1. Make sure to set filters! In the filter hoppers (filled with cake in the [schematic](https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487)), put the desired filter item in the first slot, and fill the rest of the slots with unstackable blocker items.
 2. Put boxes inside the chest at the top to sort
 3. It is recommended that you use overflow protection for the outputs. Do this by replacing the barrels with droppers in the output, overflow boxes can be collected via waterstream.
 

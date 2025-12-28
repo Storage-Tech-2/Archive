@@ -14,7 +14,7 @@ Loads items at 6x hopper speed into shulker boxes on a [global](https://discord.
 - Loads items at 6x hopper speed
 - Very small (4x6x3 per module)
 - Globally clocked droppers
-- Schematic contains some tiling examples
+- [Schematic](https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487) contains some tiling examples
 ## Considerations
 - No item filter included
 

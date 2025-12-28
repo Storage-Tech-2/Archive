@@ -142,6 +142,15 @@
       "matches": [
         "toggle state"
       ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "box collection",
+      "id": "1454805930670559326",
+      "url": "https://discord.com/channels/1375556143186837695/1454805930670559326/1454805932532830268",
+      "matches": [
+        "box collection"
+      ]
     }
   ],
   "author_references": [],

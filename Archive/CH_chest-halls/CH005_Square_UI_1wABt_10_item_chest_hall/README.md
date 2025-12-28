@@ -20,7 +20,7 @@
 ## Considerations
 - The 3 10gt filters may require input batching
 ## Notes
-Schematic includes subregions for locking switches and chest hall.
+[Schematic](https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487) includes subregions for locking switches and chest hall.
 
 ## Resources
 - [CH005_1wabt_10_Item_Chest_hall_SSI.litematic](attachments/CH005_1wabt_10_Item_Chest_hall_SSI.litematic): MC 1.21, Size 33x19x4 blocks
