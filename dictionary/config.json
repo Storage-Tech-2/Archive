@@ -701,6 +701,14 @@
       ],
       "summary": "Refers to the speed at which items are processed in a hopper (1 item every 8gt, or 2.5 items per second). Usually written as an integer (e.g. \"3x hopper speed\").\n## Common hopperspeeds\n1x: 9000 ite...",
       "updatedAt": 1766954778821
+    },
+    {
+      "id": "1454939844274032771",
+      "terms": [
+        "fullspeed"
+      ],
+      "summary": "Can process items without pausing at any point. Fullspeed box loaders and unloaders have special box breaking mechanisms so that it doesn't pause item flow when the box is being replaced. Fullspeed...",
+      "updatedAt": 1766955100013
     }
   ]
 }
