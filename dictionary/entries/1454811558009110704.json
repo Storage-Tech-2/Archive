@@ -10,7 +10,17 @@
   "status": "APPROVED",
   "statusMessageID": "1454811560626356487",
   "updatedAt": 1766924588675,
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "mods",
+      "id": "1454812343409053849",
+      "url": "https://discord.com/channels/1375556143186837695/1454812343409053849/1454812344642306079",
+      "matches": [
+        "mods"
+      ]
+    }
+  ],
   "referencedBy": [
     "FL004",
     "ML004",
