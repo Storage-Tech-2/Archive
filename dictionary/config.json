@@ -644,6 +644,14 @@
       ],
       "summary": "Referring to 2 Gameticks, a redstone tick is the time it takes for a repeater to power, an observer to turn on. It is also equivalent to a tenth of a second (assuming no lag)",
       "updatedAt": 1766923239521
+    },
+    {
+      "id": "1454806018348290109",
+      "terms": [
+        "Box"
+      ],
+      "summary": "Abbreviation of Shulker Box (Invariant of color)",
+      "updatedAt": 1766923704985
     }
   ]
 }
