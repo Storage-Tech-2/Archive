@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317233842884790)
 
-0-ticks powder snow into the [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) when emptied, allowing for a fully reliable hopperless collection.
+0-[ticks](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) powder snow into the [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) when emptied, allowing for a fully reliable hopperless collection.
 ## Features
 - Clean [UI](https://discord.com/channels/1375556143186837695/1454754844316274861/1454754845033627671); box and chest are only separated by the display block
 - Bufferless; all boxes are accessible to the player

@@ -13,6 +13,16 @@
   "references": [
     {
       "type": "dictionaryTerm",
+      "term": "gameticks",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gameticks",
+        "tick"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
       "term": "mspt",
       "id": "1454753719664119890",
       "url": "https://discord.com/channels/1375556143186837695/1454753719664119890/1454753720259575821",
@@ -27,15 +37,6 @@
       "url": "https://discord.com/channels/1375556143186837695/1454812343409053849/1454812344642306079",
       "matches": [
         "Mods"
-      ]
-    },
-    {
-      "type": "dictionaryTerm",
-      "term": "tick",
-      "id": "1454753634435858666",
-      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
-      "matches": [
-        "tick"
       ]
     }
   ],
