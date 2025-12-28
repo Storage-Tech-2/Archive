@@ -10,7 +10,7 @@
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1451490614670786581)
 
 Placement of a boat to quickly float align other entities by colliding with the boat.
-This is a simpler alternative to [TT001](https://discord.com/channels/1375556143186837695/1388665299418480761)
+This is a simpler alternative to https://discordapp.com/channels/1375556143186837695/1388665299418480761
 
 ### What is "Float Align"?
 Brought to you by Pwouik @pwouik
