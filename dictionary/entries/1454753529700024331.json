@@ -1,0 +1,13 @@
+{
+  "id": "1454753529700024331",
+  "terms": [
+    "Chest Hall"
+  ],
+  "definition": "A hall containing chests for items. It usually come in slices(slice) so that it can be stacked and extended as large as needed. They differ widely in functionality and amount of items available in each slice. Both encoded chest halls and fixed item sorter based chest halls exists. These are usually the main UI elements of a storage system.",
+  "threadURL": "https://discord.com/channels/1375556143186837695/1454753529700024331",
+  "statusURL": "https://discord.com/channels/1375556143186837695/1454753529700024331/1454753530488426527",
+  "status": "APPROVED",
+  "updatedAt": 1766910670377,
+  "references": [],
+  "statusMessageID": "1454753530488426527"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "1454753777348251728",
+  "terms": [
+    "Pistonless"
+  ],
+  "definition": "A contraption that makes no use of pistons. This is to reduce client-side lag(fps) due to tile entities in 1.16+ and general server-side lag, since each piston has to check all the Tile Entities(Tile Entity) in the world each time it tries to extend, and storage systems tend to have a lot of TEs. This effect is partly mitigated in 1.17+ and greatly mitigated by the Lithium mod.",
+  "threadURL": "https://discord.com/channels/1375556143186837695/1454753777348251728",
+  "statusURL": "https://discord.com/channels/1375556143186837695/1454753777348251728/1454753777763749963",
+  "status": "APPROVED",
+  "updatedAt": 1766910729548,
+  "references": [],
+  "statusMessageID": "1454753777763749963"
+}

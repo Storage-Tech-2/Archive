@@ -1,0 +1,14 @@
+{
+  "id": "1454753648574992557",
+  "terms": [
+    "Global",
+    "Local"
+  ],
+  "definition": "Annotates if a signal comes from a global system ( a \"brain\" ), or from within a Slice.\nFor example, one global clock could send signals to 8 slices on an interval, or all 8 slices could have their own clock.",
+  "threadURL": "https://discord.com/channels/1375556143186837695/1454753648574992557",
+  "statusURL": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
+  "status": "APPROVED",
+  "updatedAt": 1766910698728,
+  "references": [],
+  "statusMessageID": "1454753649480958066"
+}

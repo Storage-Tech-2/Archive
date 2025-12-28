@@ -1,0 +1,14 @@
+{
+  "id": "1454753679633547287",
+  "terms": [
+    "Liquid Update Detector",
+    "LUD"
+  ],
+  "definition": "A Liquid Update Detector (LUD) is a device that uses liquids to detect a special set of updates, some of which can be detected with a Block Update Detector, with a Comparator Update Detector or with an observer, but some of which are exclusively detected by LUDs. After detecting the update and triggering, it usually resets the liquid to a state where it can detect an update again.",
+  "threadURL": "https://discord.com/channels/1375556143186837695/1454753679633547287",
+  "statusURL": "https://discord.com/channels/1375556143186837695/1454753679633547287/1454753680837578795",
+  "status": "APPROVED",
+  "updatedAt": 1766910706237,
+  "references": [],
+  "statusMessageID": "1454753680837578795"
+}

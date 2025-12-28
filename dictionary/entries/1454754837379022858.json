@@ -1,0 +1,13 @@
+{
+  "id": "1454754837379022858",
+  "terms": [
+    "Unstackable sorter"
+  ],
+  "definition": "An item sorter that sorts unstackable items into different categories. Regular item sorters can not be used for this use case, because the items don't stack, so unique behaviors of each item type have to be used in order to separate them. Not to be confused with Unstackable filter",
+  "threadURL": "https://discord.com/channels/1375556143186837695/1454754837379022858",
+  "statusURL": "https://discord.com/channels/1375556143186837695/1454754837379022858/1454754839224516712",
+  "status": "APPROVED",
+  "updatedAt": 1766910982288,
+  "references": [],
+  "statusMessageID": "1454754839224516712"
+}

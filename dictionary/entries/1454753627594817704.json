@@ -1,0 +1,14 @@
+{
+  "id": "1454753627594817704",
+  "terms": [
+    "FPS",
+    "Frames Per Second"
+  ],
+  "definition": "A measure of how many frames a client is able to process each second. This is similar to, but independent of TPS, which denotes server-side performance.",
+  "threadURL": "https://discord.com/channels/1375556143186837695/1454753627594817704",
+  "statusURL": "https://discord.com/channels/1375556143186837695/1454753627594817704/1454753628748386448",
+  "status": "APPROVED",
+  "updatedAt": 1766910693779,
+  "references": [],
+  "statusMessageID": "1454753628748386448"
+}

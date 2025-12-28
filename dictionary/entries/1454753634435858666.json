@@ -1,0 +1,16 @@
+{
+  "id": "1454753634435858666",
+  "terms": [
+    "Gametick",
+    "gt",
+    "tick",
+    "t"
+  ],
+  "definition": "Minecraft iteratively runs its processing code in a loop. One cycle of this loop is called a Tick or Gametick (gt). \nGameticks are also used as the default measurement of time while working with redstone. The game attempts to run 20 gameticks a second (20tps), but will fail to do so and slow down the game if the server is lagging (>50mspt). \nOften confused with the less technical term \"redstone tick\". A redstone tick is in practice 2gt, as its origin comes from the default setting of a repeater. \nA default repeater when freshly placed is a 2gt- or one redstone-tick-repeater.",
+  "threadURL": "https://discord.com/channels/1375556143186837695/1454753634435858666",
+  "statusURL": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+  "status": "APPROVED",
+  "updatedAt": 1766910695563,
+  "references": [],
+  "statusMessageID": "1454753635690090539"
+}

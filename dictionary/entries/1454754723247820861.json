@@ -1,0 +1,14 @@
+{
+  "id": "1454754723247820861",
+  "terms": [
+    "Serializer",
+    "Deserializer"
+  ],
+  "definition": "Components used to convert Serial codes into Parallel codes or viceversa. These sometimes also act as Encoders(Encoder) or Decoders(Decoder), in the computational redstone sense. For example serial hex to parallel binary is a deserializer encoder.",
+  "threadURL": "https://discord.com/channels/1375556143186837695/1454754723247820861",
+  "statusURL": "https://discord.com/channels/1375556143186837695/1454754723247820861/1454754724107653162",
+  "status": "APPROVED",
+  "updatedAt": 1766910954994,
+  "references": [],
+  "statusMessageID": "1454754724107653162"
+}

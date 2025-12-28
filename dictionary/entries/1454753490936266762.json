@@ -1,0 +1,13 @@
+{
+  "id": "1454753490936266762",
+  "terms": [
+    "Box Detection"
+  ],
+  "definition": "Usually used as a way to tag Loaders(Loader) and Box Displays(Box Display) that restart themselves when boxes come in and they were previously empty.",
+  "threadURL": "https://discord.com/channels/1375556143186837695/1454753490936266762",
+  "statusURL": "https://discord.com/channels/1375556143186837695/1454753490936266762/1454753491787452438",
+  "status": "APPROVED",
+  "updatedAt": 1766910661225,
+  "references": [],
+  "statusMessageID": "1454753491787452438"
+}
