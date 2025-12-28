@@ -120,6 +120,15 @@
     },
     {
       "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
       "term": "ss",
       "id": "1454754774833696893",
       "url": "https://discord.com/channels/1375556143186837695/1454754774833696893/1454754775542267957",
@@ -129,7 +138,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "2wabt",
+      "term": "2wABt",
       "id": "1454753732293033984",
       "url": "https://discord.com/channels/1375556143186837695/1454753732293033984/1454753733035687988",
       "matches": [
@@ -150,7 +159,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "box",
+      "term": "Box",
       "id": "1454806018348290109",
       "url": "https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708",
       "matches": [

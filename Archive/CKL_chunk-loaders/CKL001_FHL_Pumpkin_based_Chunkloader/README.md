@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1397064372873986058)
 
-Using pumpkin items shot through nether portals, loads a 3x3 chunk area around the device as entity ticking and a 5x5 chunk area as redstone ticking.
+Using pumpkin items shot through nether portals, loads a 3x3 chunk area around the device as entity [tick](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539)ing and a 5x5 chunk area as [redstone tick](https://discord.com/channels/1375556143186837695/1454805316029120542/1454805317320835073)ing.
 ## Features
 - 5x4x7 size using 3x3 portals
 - Fully [hopperlocked](https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422) when idle

@@ -12,7 +12,7 @@
   "references": [
     {
       "type": "dictionaryTerm",
-      "term": "mixed box",
+      "term": "Mixed Box",
       "id": "1454753707530129576",
       "url": "https://discord.com/channels/1375556143186837695/1454753707530129576/1454753708247089184",
       "matches": [
@@ -21,7 +21,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "box",
+      "term": "Box",
       "id": "1454806018348290109",
       "url": "https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708",
       "matches": [
@@ -30,6 +30,7 @@
     }
   ],
   "referencedBy": [
+    "MIS004",
     "PI004",
     "VIP003",
     "VIP004"

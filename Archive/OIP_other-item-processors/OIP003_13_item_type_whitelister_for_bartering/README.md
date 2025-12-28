@@ -14,7 +14,7 @@ High throughput whitelister. Can support 360k/hr for 6 item types (must be diffe
 - Very high throughput filtering selecting multiple item types
 - The [schematic](https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487) contains an item layout for bartering.
 ## Notes
-This specific schem hasn't been tested, but the design itself has been tested for many hours with random input, so if there is a bug there is a working version somewhere. This is intended to be paired with a redcoded array so that the 6 item types don't need filtered loaders.
+This specific schem hasn't been tested, but the design itself has been tested for many hours with random input, so if there is a bug there is a working version somewhere. This is intended to be paired with a redcoded array so that the 6 item types don't need [filtered loader](https://discord.com/channels/1375556143186837695/1454753614642942023/1454753615280345234)s.
 
 ## Resources
 - [OIP003_Bartering_13_Item_Whitelister_v1.0.2.litematic](attachments/OIP003_Bartering_13_Item_Whitelister_v1.0.2.litematic): MC 1.21.1, Size 9x13x17 blocks

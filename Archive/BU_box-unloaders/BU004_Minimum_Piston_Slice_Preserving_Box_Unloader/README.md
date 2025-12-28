@@ -11,7 +11,7 @@
 
 Unloads items from boxes at [hopperspeed](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294).
 ## Features
-- Empty boxes are collected instantly and are unable to land in other slices, avoiding output contamination.
+- Empty boxes are collected instantly and are unable to land in other [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261)s, avoiding output contamination.
 - Boxes are separated reliably and dropped out of the bottom, while unloaded items go in the chest.
 - Very easy to hopper lock
 - [Solid state](https://discord.com/channels/1375556143186837695/1454754761093025874/1454754762837987561) & togglestateless, improving robustness.

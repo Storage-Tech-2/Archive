@@ -15,7 +15,7 @@ Filters items, crafts, and loads the result into boxes. Typically used to compac
 - These crafters only start crafting when they detect a completely full [SS](https://discord.com/channels/1375556143186837695/1454754774833696893/1454754775542267957)9 crafter.
 - The system uses a [global](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) SS11 line to control the crafters.
 - It can empty an overflowing crafter that has stopped by pulsing an SS15 signal.
-- You can point up to 6 slices (2[4x](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294) Hs into a single [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) [loader](https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720))
+- You can point up to 6 [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261)s (24x Hs into a single [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) [loader](https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720))
 ## Considerations
 - Loaders have a very low chance (1 in 50 million) of losing a box.
 

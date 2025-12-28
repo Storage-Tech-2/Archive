@@ -13,7 +13,7 @@
   "references": [
     {
       "type": "dictionaryTerm",
-      "term": "serial codes",
+      "term": "Serial codes",
       "id": "1454754716138475581",
       "url": "https://discord.com/channels/1375556143186837695/1454754716138475581/1454754716981661882",
       "matches": [
@@ -22,7 +22,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "parallel codes",
+      "term": "Parallel codes",
       "id": "1454753751335436422",
       "url": "https://discord.com/channels/1375556143186837695/1454753751335436422/1454753752350457887",
       "matches": [
@@ -31,7 +31,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "encoder",
+      "term": "Encoder",
       "id": "1454753601967624213",
       "url": "https://discord.com/channels/1375556143186837695/1454753601967624213/1454753602802548800",
       "matches": [
@@ -41,7 +41,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "decoder",
+      "term": "Decoder",
       "id": "1454753547974607053",
       "url": "https://discord.com/channels/1375556143186837695/1454753547974607053/1454753549153079441",
       "matches": [
@@ -50,7 +50,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "hex",
+      "term": "Hex",
       "id": "1454753655063580723",
       "url": "https://discord.com/channels/1375556143186837695/1454753655063580723/1454753656326062249",
       "matches": [
@@ -59,12 +59,13 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "binary",
+      "term": "Binary",
       "id": "1454753454865125437",
       "url": "https://discord.com/channels/1375556143186837695/1454753454865125437/1454753455808712925",
       "matches": [
         "binary"
       ]
     }
-  ]
+  ],
+  "referencedBy": []
 }

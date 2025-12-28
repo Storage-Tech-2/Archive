@@ -90,7 +90,7 @@
   "references": [
     {
       "type": "dictionaryTerm",
-      "term": "accessible loader",
+      "term": "Accessible Loader",
       "id": "1454804125559554243",
       "url": "https://discord.com/channels/1375556143186837695/1454804125559554243/1454804126541152338",
       "matches": [
@@ -99,7 +99,25 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "box",
+      "term": "tick",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "tick"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Togglestate",
+      "id": "1454754804252282910",
+      "url": "https://discord.com/channels/1375556143186837695/1454754804252282910/1454754804881428533",
+      "matches": [
+        "Togglestate"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Box",
       "id": "1454806018348290109",
       "url": "https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708",
       "matches": [

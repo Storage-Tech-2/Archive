@@ -113,7 +113,16 @@
   "references": [
     {
       "type": "dictionaryTerm",
-      "term": "loader",
+      "term": "Schematic",
+      "id": "1454811558009110704",
+      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
+      "matches": [
+        "schematic"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
       "id": "1454753686558605373",
       "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
       "matches": [
@@ -144,7 +153,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "hex",
+      "term": "Hex",
       "id": "1454753655063580723",
       "url": "https://discord.com/channels/1375556143186837695/1454753655063580723/1454753656326062249",
       "matches": [
@@ -153,7 +162,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "directional",
+      "term": "Directional",
       "id": "1454753554815389834",
       "url": "https://discord.com/channels/1375556143186837695/1454753554815389834/1454753555566166029",
       "matches": [
@@ -219,7 +228,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "box sorter",
+      "term": "Box Sorter",
       "id": "1454753516269736090",
       "url": "https://discord.com/channels/1375556143186837695/1454753516269736090/1454753518383792221",
       "matches": [

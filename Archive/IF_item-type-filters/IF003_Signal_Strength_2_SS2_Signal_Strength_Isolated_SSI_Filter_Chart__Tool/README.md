@@ -19,7 +19,7 @@ Click on a filter and it will highlight all filters that are compatible with the
 __[GitHub repository](https://github.com/Kikugie/ss2-filters)__
 by @kikugie
 
-Provides the data for the above mentioned website but is presented differently. Has a chart, a spreadsheet and litematics for the filters.
+Provides the data for the above mentioned website but is presented differently. Has a chart, a spreadsheet and [litematic](https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487)s for the filters.
 
 ## Resources
 - [IF003_SS2_FIlter_Chart.png](attachments/IF003_SS2_FIlter_Chart.png): image/png

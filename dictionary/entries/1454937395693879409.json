@@ -37,11 +37,29 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "box",
+      "term": "Box",
       "id": "1454806018348290109",
       "url": "https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708",
       "matches": [
         "box"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Unloader",
+      "id": "1454754824758493380",
+      "url": "https://discord.com/channels/1375556143186837695/1454754824758493380/1454754825345433803",
+      "matches": [
+        "unloader"
       ]
     },
     {
@@ -55,15 +73,59 @@
     }
   ],
   "referencedBy": [
+    "FL001",
+    "FL002",
+    "FL003",
     "FL004",
+    "AL005",
+    "AL006",
+    "ML003",
+    "ML004",
+    "ML005",
+    "ML006",
+    "OL001",
+    "OL003",
     "IBS002",
     "IBS003",
+    "IBS004",
+    "FBS003",
+    "FBS006",
+    "FBS007",
+    "BU002",
+    "BU003",
+    "BU004",
+    "BU005",
+    "BU006",
+    "BU007",
+    "BU001",
+    "BD002",
+    "OD002",
+    "CH006",
     "OBP001",
+    "DT002",
+    "DT003",
+    "IF002",
+    "US002",
+    "US003",
     "US007",
     "MIS001",
+    "MIS003",
     "MIS005",
     "MIS006",
     "LS001",
-    "FA002"
+    "SS001",
+    "SS003",
+    "PU001",
+    "PU003",
+    "PU004",
+    "PU005",
+    "VIP003",
+    "VIP006",
+    "VBS003",
+    "AC002",
+    "MC002",
+    "FA001",
+    "FA002",
+    "WBS001"
   ]
 }

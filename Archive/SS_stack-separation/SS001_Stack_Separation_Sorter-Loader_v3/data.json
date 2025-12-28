@@ -93,7 +93,17 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "slice",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader",
+        "Loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
       "id": "1454754736224997386",
       "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
       "matches": [
@@ -102,20 +112,11 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "box collection",
+      "term": "Box Collection",
       "id": "1454805930670559326",
       "url": "https://discord.com/channels/1375556143186837695/1454805930670559326/1454805932532830268",
       "matches": [
         "box collection"
-      ]
-    },
-    {
-      "type": "dictionaryTerm",
-      "term": "loader",
-      "id": "1454753686558605373",
-      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
-      "matches": [
-        "loader"
       ]
     }
   ],

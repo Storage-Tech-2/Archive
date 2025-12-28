@@ -12,7 +12,7 @@
   "references": [
     {
       "type": "dictionaryTerm",
-      "term": "perfect aligner",
+      "term": "Perfect aligner",
       "id": "1454753764606083180",
       "url": "https://discord.com/channels/1375556143186837695/1454753764606083180/1454753765365256286",
       "matches": [
@@ -21,6 +21,7 @@
     }
   ],
   "referencedBy": [
-    "VBS002"
+    "VBS002",
+    "TT001"
   ]
 }

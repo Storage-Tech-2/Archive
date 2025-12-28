@@ -91,6 +91,24 @@
   "references": [
     {
       "type": "dictionaryTerm",
+      "term": "tick",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "tick"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Redstone Tick",
+      "id": "1454805316029120542",
+      "url": "https://discord.com/channels/1375556143186837695/1454805316029120542/1454805317320835073",
+      "matches": [
+        "redstone tick"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
       "term": "hopperlocked",
       "id": "1454753660625227895",
       "url": "https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422",
@@ -100,7 +118,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "loader",
+      "term": "Loader",
       "id": "1454753686558605373",
       "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
       "matches": [

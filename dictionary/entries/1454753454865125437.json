@@ -13,12 +13,13 @@
   "references": [
     {
       "type": "dictionaryTerm",
-      "term": "bit",
+      "term": "Bit",
       "id": "1454753462171734026",
       "url": "https://discord.com/channels/1375556143186837695/1454753462171734026/1454753462905737238",
       "matches": [
         "Bit"
       ]
     }
-  ]
+  ],
+  "referencedBy": []
 }

@@ -12,7 +12,7 @@
   "references": [
     {
       "type": "dictionaryTerm",
-      "term": "loader",
+      "term": "Loader",
       "id": "1454753686558605373",
       "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
       "matches": [
@@ -21,7 +21,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "precision hopper",
+      "term": "Precision Hopper",
       "id": "1454753784810176552",
       "url": "https://discord.com/channels/1375556143186837695/1454753784810176552/1454753785472749590",
       "matches": [
@@ -30,12 +30,13 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "slice preservation",
+      "term": "Slice Preservation",
       "id": "1454754741694365787",
       "url": "https://discord.com/channels/1375556143186837695/1454754741694365787/1454754742784884902",
       "matches": [
         "Slice Preservation"
       ]
     }
-  ]
+  ],
+  "referencedBy": []
 }

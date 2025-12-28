@@ -12,7 +12,7 @@
   "references": [
     {
       "type": "dictionaryTerm",
-      "term": "gameticks",
+      "term": "Gameticks",
       "id": "1454753634435858666",
       "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
       "matches": [
@@ -20,5 +20,7 @@
       ]
     }
   ],
-  "referencedBy": []
+  "referencedBy": [
+    "CKL001"
+  ]
 }

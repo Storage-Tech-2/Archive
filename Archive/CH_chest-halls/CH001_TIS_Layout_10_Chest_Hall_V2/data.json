@@ -105,7 +105,7 @@
   "references": [
     {
       "type": "dictionaryTerm",
-      "term": "slice",
+      "term": "Slice",
       "id": "1454754736224997386",
       "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
       "matches": [
@@ -114,7 +114,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "global",
+      "term": "Global",
       "id": "1454753648574992557",
       "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
       "matches": [
@@ -132,7 +132,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "schematic",
+      "term": "Schematic",
       "id": "1454811558009110704",
       "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
       "matches": [

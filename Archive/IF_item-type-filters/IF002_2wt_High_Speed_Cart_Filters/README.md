@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317640162021450)
 
-2 wide tilable cart based item type filters which can sort item entities at high speeds, allowing for subsequent loaders to forgo having filters.
+2 wide tilable cart based item type filters which can sort item entities at high speeds, allowing for subsequent [loader](https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720)s to forgo having filters.
 ## Features
 - 63x and 310x [hopperspeed](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294) designs
 - 2 wide tileable layouts

@@ -18,7 +18,7 @@
 - Reliable, hopperless collection of empty boxes into a water stream
 - Relatively small (9x9)
 ## Notes
-May fail to reliably collect a box if adjacent slices activate in quick succession, this is very very rare though. A [schematic](https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487) of a tiled example with global first box dispensing and the water stream set up can be found in the thread.
+May fail to reliably collect a box if adjacent [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261)s activate in quick succession, this is very very rare though. A [schematic](https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487) of a tiled example with global first box dispensing and the water stream set up can be found in the thread.
 
 ## Other Images
 <img src="images/Bufferless_Powdered_Snow_Displays_Tiled_Example.png?raw=1" height="300px">

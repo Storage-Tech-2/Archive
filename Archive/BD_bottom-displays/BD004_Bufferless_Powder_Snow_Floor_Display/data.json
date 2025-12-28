@@ -142,7 +142,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "box",
+      "term": "Box",
       "id": "1454806018348290109",
       "url": "https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708",
       "matches": [
@@ -151,7 +151,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "ui",
+      "term": "UI",
       "id": "1454754844316274861",
       "url": "https://discord.com/channels/1375556143186837695/1454754844316274861/1454754845033627671",
       "matches": [
@@ -160,7 +160,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "global",
+      "term": "Global",
       "id": "1454753648574992557",
       "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
       "matches": [
@@ -170,7 +170,16 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "schematic",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Schematic",
       "id": "1454811558009110704",
       "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
       "matches": [

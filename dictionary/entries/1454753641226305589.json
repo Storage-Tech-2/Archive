@@ -12,7 +12,7 @@
   "references": [
     {
       "type": "dictionaryTerm",
-      "term": "n-wide tileable",
+      "term": "n-Wide tileable",
       "id": "1454753738425368687",
       "url": "https://discord.com/channels/1375556143186837695/1454753738425368687/1454753741785010208",
       "matches": [
@@ -21,7 +21,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "slice",
+      "term": "Slice",
       "id": "1454754736224997386",
       "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
       "matches": [
@@ -31,12 +31,13 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "slice preservation",
+      "term": "Slice Preservation",
       "id": "1454754741694365787",
       "url": "https://discord.com/channels/1375556143186837695/1454754741694365787/1454754742784884902",
       "matches": [
         "Slice Preservation"
       ]
     }
-  ]
+  ],
+  "referencedBy": []
 }

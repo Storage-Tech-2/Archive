@@ -13,20 +13,40 @@
   "references": [
     {
       "type": "dictionaryTerm",
-      "term": "slice",
+      "term": "Slice",
       "id": "1454754736224997386",
       "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
       "matches": [
-        "Slice"
+        "Slice",
+        "slice"
       ]
     }
   ],
   "referencedBy": [
     "FL004",
+    "AL006",
+    "ML005",
+    "ML006",
+    "ML007",
+    "OL003",
     "IBS002",
+    "TD002",
     "TD005",
+    "BD002",
+    "BD004",
+    "BD006",
+    "BD007",
+    "OD001",
+    "OD005",
+    "CH001",
     "MH001",
     "DH003",
-    "DH004"
+    "DH005",
+    "DH004",
+    "MIS004",
+    "VIP004",
+    "CL001",
+    "RS001",
+    "FS001"
   ]
 }

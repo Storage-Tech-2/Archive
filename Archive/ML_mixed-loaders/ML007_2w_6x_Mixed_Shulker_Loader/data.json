@@ -108,7 +108,7 @@
   "references": [
     {
       "type": "dictionaryTerm",
-      "term": "global",
+      "term": "Global",
       "id": "1454753648574992557",
       "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
       "matches": [
@@ -117,7 +117,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "box",
+      "term": "Box",
       "id": "1454806018348290109",
       "url": "https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708",
       "matches": [
@@ -127,7 +127,16 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "box collection",
+      "term": "Schematic",
+      "id": "1454811558009110704",
+      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
+      "matches": [
+        "schematic"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Collection",
       "id": "1454805930670559326",
       "url": "https://discord.com/channels/1375556143186837695/1454805930670559326/1454805932532830268",
       "matches": [

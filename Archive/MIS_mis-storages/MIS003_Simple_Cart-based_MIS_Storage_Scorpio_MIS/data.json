@@ -80,7 +80,7 @@
   "references": [
     {
       "type": "dictionaryTerm",
-      "term": "mis",
+      "term": "MIS",
       "id": "1454753725091676293",
       "url": "https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954",
       "matches": [
@@ -89,11 +89,10 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "4x",
+      "term": "Hopper speed",
       "id": "1454937395693879409",
       "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
       "matches": [
-        "4x",
         "hopper speed"
       ]
     },
@@ -119,7 +118,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "box",
+      "term": "Box",
       "id": "1454806018348290109",
       "url": "https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708",
       "matches": [
@@ -128,7 +127,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "unloader",
+      "term": "Unloader",
       "id": "1454754824758493380",
       "url": "https://discord.com/channels/1375556143186837695/1454754824758493380/1454754825345433803",
       "matches": [
@@ -137,7 +136,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "bulk storage",
+      "term": "Bulk Storage",
       "id": "1454753523668484213",
       "url": "https://discord.com/channels/1375556143186837695/1454753523668484213/1454753524637499577",
       "matches": [
@@ -153,7 +152,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "loader",
+      "term": "Loader",
       "id": "1454753686558605373",
       "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
       "matches": [
@@ -162,7 +161,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "mixed box",
+      "term": "Mixed Box",
       "id": "1454753707530129576",
       "url": "https://discord.com/channels/1375556143186837695/1454753707530129576/1454753708247089184",
       "matches": [
@@ -171,7 +170,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "schematic",
+      "term": "Schematic",
       "id": "1454811558009110704",
       "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
       "matches": [

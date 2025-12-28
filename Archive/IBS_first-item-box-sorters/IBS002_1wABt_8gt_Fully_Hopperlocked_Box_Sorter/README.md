@@ -20,7 +20,7 @@ Sorts boxes by their first item's type at [hopper speed](https://discord.com/cha
 - Multi shulker box sorting support
 - Repeaters in the upper dropper line can be replaced with observers
 ## Notes
-- Both schematics are functionally identical, the 1.16 slices are smaller because of the use of target blocks for the global locking.
+- Both [schematic](https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487)s are functionally identical, the 1.16 slices are smaller because of the use of target blocks for the global locking.
 
 ## Resources
 - [IBS002_Acaciachan_8gt_box_sorter_v5_1_14_fhl.litematic](attachments/IBS002_Acaciachan_8gt_box_sorter_v5_1_14_fhl.litematic): MC 1.14, Size 21x9x10 blocks

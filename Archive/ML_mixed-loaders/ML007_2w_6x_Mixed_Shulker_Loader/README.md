@@ -18,7 +18,7 @@
 
 **Considerations**
 - Uses overflow detection to detect full a shulker
-- Requires at least a box to be prefilled in the dispenser when being built. For further info check the schematics.
+- Requires at least a box to be prefilled in the dispenser when being built. For further info check the [schematic](https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487)s.
 
 
 **Notes**

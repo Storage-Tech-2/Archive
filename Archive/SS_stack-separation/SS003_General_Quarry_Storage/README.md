@@ -11,7 +11,7 @@
 
 Sorts and stores items produced by a quarry
 ## Features
-- Comes in 3 schematics: stack separation sorter, sorter + deepslate loaders, sorter + storage.
+- Comes in 3 [schematic](https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487)s: stack separation sorter, sorter + deepslate [loader](https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720)s, sorter + storage.
 - Sorter and storage are configured for an average mesa quarry in 1.18+ using VDQ v2.
 - Sorter can handle a 500 wide quarry (wider as well, but that hasn't been tested).
 ## Notes
@@ -20,7 +20,7 @@ Sorts and stores items produced by a quarry
 - Storage is configured to handle a 500x1500 area.
 - With the schematics an example setup is attached, which includes a quarry, nether transportation line and the storage.
 ## Sourced components
-- Chunk [loader](https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720): https://discord.com/channels/594920796867133446/594968639321538560/917049843711631400 (Pfeffabeissa)
+- Chunk loader: https://discord.com/channels/594920796867133446/594968639321538560/917049843711631400 (Pfeffabeissa)
 - Cart-yeeting filter: https://discord.com/channels/748542142347083868/748578407377272843/1025134782524436590 ([Join Storage Tech](https://discord.gg/JufJ6uf)) (Hexatron) (modified by me, one posted by [hex](https://discord.com/channels/1375556143186837695/1454753655063580723/1454753656326062249) is [directional](https://discord.com/channels/1375556143186837695/1454753554815389834/1454753555566166029) and can skip items in some conditions)
 - Stack separator: <https://youtu.be/ypuFkR_3M7M> (Rapscallion)
 - Stack filter: https://discord.com/channels/748542142347083868/749136547755851857/1092571218982477824 ([Join Storage Tech](https://discord.gg/JufJ6uf)) (Rapscallion & Glotz)

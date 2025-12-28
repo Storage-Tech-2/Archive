@@ -18,7 +18,7 @@ A small display without empty [box collection](https://discord.com/channels/1375
 ## Considerations
 - When triggering while the display is replacing a box, the global first box placement can cause it to break a newly dispensed full box
 - No empty box collection
-- When emptying adjacent slices in very quick succession, one of them may fail to replace its box
+- When emptying adjacent [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261)s in very quick succession, one of them may fail to replace its box
 - Buffers a box
 
 ## Resources

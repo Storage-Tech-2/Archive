@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317923575337011)
 
-Sorts potions by their potion contents using comparator update detectors. Works by trying to brew a potion with a set ingredient.
+Sorts potions by their potion contents using [comparator update detector](https://discord.com/channels/1375556143186837695/1454753535919915098/1454753536629018626)s. Works by trying to brew a potion with a set ingredient.
 ## Features
 - [Hopperspeed](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294) and 2 wide (not tileable).
 - Consumes 1 blaze powder every 20 sorted potions.

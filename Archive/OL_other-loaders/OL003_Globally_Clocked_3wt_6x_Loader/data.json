@@ -95,7 +95,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "global",
+      "term": "Global",
       "id": "1454753648574992557",
       "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
       "matches": [
@@ -104,7 +104,16 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "schematic",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Schematic",
       "id": "1454811558009110704",
       "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
       "matches": [

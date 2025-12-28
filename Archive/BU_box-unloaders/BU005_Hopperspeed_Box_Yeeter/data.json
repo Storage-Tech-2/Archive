@@ -86,7 +86,7 @@
   "references": [
     {
       "type": "dictionaryTerm",
-      "term": "box",
+      "term": "Box",
       "id": "1454806018348290109",
       "url": "https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708",
       "matches": [
@@ -104,11 +104,20 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "dustless",
+      "term": "Dustless",
       "id": "1454753587979620354",
       "url": "https://discord.com/channels/1375556143186837695/1454753587979620354/1454753589133049889",
       "matches": [
         "Dustless"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Toggle state",
+      "id": "1454754804252282910",
+      "url": "https://discord.com/channels/1375556143186837695/1454754804252282910/1454754804881428533",
+      "matches": [
+        "toggle state"
       ]
     }
   ],

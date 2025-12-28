@@ -19,7 +19,7 @@ A large [bulk storage](https://discord.com/channels/1375556143186837695/14547535
 ## Considerations
 - Box crafting logic can be improved but works perfectly fine
 - Not fully hopper locked but this is a non issue with lithium
-- Uses box displays, this would be a pro or a con depending on user preference
+- Uses [box display](https://discord.com/channels/1375556143186837695/1454753497638506689/1454753498494144522)s, this would be a pro or a con depending on user preference
 ## Notes
 - Tested for 200+ hours without issues.
 - Dupe 1 color at a time and wait for the partial boxes to be ejected from the var [loader](https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720) before starting up the farm again.

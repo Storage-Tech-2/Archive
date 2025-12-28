@@ -96,16 +96,25 @@
   "references": [
     {
       "type": "dictionaryTerm",
-      "term": "box",
-      "id": "1454806018348290109",
-      "url": "https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708",
+      "term": "BUD",
+      "id": "1454753476813787279",
+      "url": "https://discord.com/channels/1375556143186837695/1454753476813787279/1454753477443063869",
       "matches": [
-        "box"
+        "BUD"
       ]
     },
     {
       "type": "dictionaryTerm",
-      "term": "ui",
+      "term": "Box Display",
+      "id": "1454753497638506689",
+      "url": "https://discord.com/channels/1375556143186837695/1454753497638506689/1454753498494144522",
+      "matches": [
+        "box display"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "UI",
       "id": "1454754844316274861",
       "url": "https://discord.com/channels/1375556143186837695/1454754844316274861/1454754845033627671",
       "matches": [
@@ -114,7 +123,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "box sorter",
+      "term": "Box Sorter",
       "id": "1454753516269736090",
       "url": "https://discord.com/channels/1375556143186837695/1454753516269736090/1454753518383792221",
       "matches": [
@@ -123,7 +132,16 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "keygen",
+      "term": "Box",
+      "id": "1454806018348290109",
+      "url": "https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708",
+      "matches": [
+        "box"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Keygen",
       "id": "1454753674298396785",
       "url": "https://discord.com/channels/1375556143186837695/1454753674298396785/1454753674898440377",
       "matches": [

@@ -101,7 +101,16 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "solid state",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Solid state",
       "id": "1454754761093025874",
       "url": "https://discord.com/channels/1375556143186837695/1454754761093025874/1454754762837987561",
       "matches": [
@@ -110,7 +119,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "box",
+      "term": "Box",
       "id": "1454806018348290109",
       "url": "https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708",
       "matches": [

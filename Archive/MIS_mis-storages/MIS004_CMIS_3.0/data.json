@@ -105,7 +105,7 @@
   "references": [
     {
       "type": "dictionaryTerm",
-      "term": "user interface",
+      "term": "User interface",
       "id": "1454754844316274861",
       "url": "https://discord.com/channels/1375556143186837695/1454754844316274861/1454754845033627671",
       "matches": [
@@ -115,7 +115,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "encoded",
+      "term": "Encoded",
       "id": "1454753595424505866",
       "url": "https://discord.com/channels/1375556143186837695/1454753595424505866/1454753596133605426",
       "matches": [
@@ -124,44 +124,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "box",
-      "id": "1454806018348290109",
-      "url": "https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708",
-      "matches": [
-        "Box",
-        "box"
-      ]
-    },
-    {
-      "type": "dictionaryTerm",
-      "term": "local",
-      "id": "1454753648574992557",
-      "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
-      "matches": [
-        "local"
-      ]
-    },
-    {
-      "type": "dictionaryTerm",
-      "term": "mis",
-      "id": "1454753725091676293",
-      "url": "https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954",
-      "matches": [
-        "MIS"
-      ]
-    },
-    {
-      "type": "dictionaryTerm",
-      "term": "bulk storage",
-      "id": "1454753523668484213",
-      "url": "https://discord.com/channels/1375556143186837695/1454753523668484213/1454753524637499577",
-      "matches": [
-        "Bulk Storage"
-      ]
-    },
-    {
-      "type": "dictionaryTerm",
-      "term": "box sorter",
+      "term": "Box Sorter",
       "id": "1454753516269736090",
       "url": "https://discord.com/channels/1375556143186837695/1454753516269736090/1454753518383792221",
       "matches": [
@@ -170,7 +133,61 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "unstackable sorter",
+      "term": "Local",
+      "id": "1454753648574992557",
+      "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
+      "matches": [
+        "local"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "MIS",
+      "id": "1454753725091676293",
+      "url": "https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954",
+      "matches": [
+        "MIS"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Splitter",
+      "id": "1454754768088989789",
+      "url": "https://discord.com/channels/1375556143186837695/1454754768088989789/1454754769674567868",
+      "matches": [
+        "Splitter"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Merger",
+      "id": "1454753701204987938",
+      "url": "https://discord.com/channels/1375556143186837695/1454753701204987938/1454753702773526549",
+      "matches": [
+        "Merger"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Bulk Storage",
+      "id": "1454753523668484213",
+      "url": "https://discord.com/channels/1375556143186837695/1454753523668484213/1454753524637499577",
+      "matches": [
+        "Bulk Storage"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Box",
+      "id": "1454806018348290109",
+      "url": "https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708",
+      "matches": [
+        "box"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Unstackable sorter",
       "id": "1454754837379022858",
       "url": "https://discord.com/channels/1375556143186837695/1454754837379022858/1454754839224516712",
       "matches": [
@@ -179,7 +196,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "loader",
+      "term": "Loader",
       "id": "1454753686558605373",
       "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
       "matches": [

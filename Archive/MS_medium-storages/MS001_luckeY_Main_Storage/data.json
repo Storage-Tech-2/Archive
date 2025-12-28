@@ -153,7 +153,16 @@
   "references": [
     {
       "type": "dictionaryTerm",
-      "term": "mis",
+      "term": "Chest Hall",
+      "id": "1454753529700024331",
+      "url": "https://discord.com/channels/1375556143186837695/1454753529700024331/1454753530488426527",
+      "matches": [
+        "Chest hall"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "MIS",
       "id": "1454753725091676293",
       "url": "https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954",
       "matches": [
@@ -162,7 +171,16 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "unstackable sorter",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Unstackable sorter",
       "id": "1454754837379022858",
       "url": "https://discord.com/channels/1375556143186837695/1454754837379022858/1454754839224516712",
       "matches": [
@@ -172,11 +190,12 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "peripheral",
+      "term": "Peripheral",
       "id": "1454753771035824158",
       "url": "https://discord.com/channels/1375556143186837695/1454753771035824158/1454753771555913873",
       "matches": [
-        "peripheral"
+        "peripheral",
+        "Peripheral"
       ]
     },
     {
@@ -190,7 +209,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "hopperlocking",
+      "term": "Hopperlocking",
       "id": "1454753660625227895",
       "url": "https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422",
       "matches": [
@@ -211,7 +230,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "unloader",
+      "term": "Unloader",
       "id": "1454754824758493380",
       "url": "https://discord.com/channels/1375556143186837695/1454754824758493380/1454754825345433803",
       "matches": [

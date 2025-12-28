@@ -12,17 +12,17 @@
 A fairly large storage system that utilizes a parallel unloading array allowing the system to unload at a max of [8x](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294) hopper speed.
 ## Features
 - ~90% [Hopperlocked](https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422)
-- Has various peripherals: restock stations, furnace array, crafting station, and yeeting station, masscrafter, brewer, and [unstackable sorter](https://discord.com/channels/1375556143186837695/1454754837379022858/1454754839224516712)
+- Has various [peripheral](https://discord.com/channels/1375556143186837695/1454753771035824158/1454753771555913873)s: restock stations, furnace array, crafting station, and yeeting station, masscrafter, brewer, and [unstackable sorter](https://discord.com/channels/1375556143186837695/1454754837379022858/1454754839224516712)
 - Has a concrete duper in the middle of the storage (This was requested, can easily be omitted in the building process)
 - Has a big bulk with capacity for ~1.3m / item.
-- Has 1 DC capacity chest halls with [SS](https://discord.com/channels/1375556143186837695/1454754774833696893/1454754775542267957)2 filters.
+- Has 1 DC capacity [chest hall](https://discord.com/channels/1375556143186837695/1454753529700024331/1454753530488426527)s with [SS](https://discord.com/channels/1375556143186837695/1454754774833696893/1454754775542267957)2 filters.
 - Uses [MIS](https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954) 5.1
 ## Considerations
 - This system requires you to have Carpet's `stackableShulkerBoxes` rule enabled and subsequently Kikugie's StackableShulkerFix.
 ## Notes
 Tested for ~400k items without issues
 ## Sourced components
-- [Chest Hall](https://discord.com/channels/1375556143186837695/1454753529700024331/1454753530488426527): [CH002](https://discord.com/channels/1375556143186837695/1388317417385758770)
+- Chest Hall: [CH002](https://discord.com/channels/1375556143186837695/1388317417385758770)
 - Bulk: [PyraLeft's new bulk](https://discord.com/channels/614934109751345153/731632393315942531/1327412377406148628)
 - Parallel Unloading Array: https://discord.com/channels/748542142347083868/1241919346477891684 ([Join Storage Tech](https://discord.gg/JufJ6uf))
 - 6x Full Clearance [Loader](https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720): [ML002](https://discord.com/channels/1375556143186837695/1388316771832041482)

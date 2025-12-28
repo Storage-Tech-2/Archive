@@ -102,7 +102,7 @@
   "references": [
     {
       "type": "dictionaryTerm",
-      "term": "splitter",
+      "term": "Splitter",
       "id": "1454754768088989789",
       "url": "https://discord.com/channels/1375556143186837695/1454754768088989789/1454754769674567868",
       "matches": [
@@ -111,16 +111,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "2x",
-      "id": "1454753562033651876",
-      "url": "https://discord.com/channels/1375556143186837695/1454753562033651876/1454753563258519584",
-      "matches": [
-        "2x"
-      ]
-    },
-    {
-      "type": "dictionaryTerm",
-      "term": "global",
+      "term": "Global",
       "id": "1454753648574992557",
       "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
       "matches": [
@@ -129,7 +120,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "box",
+      "term": "Box",
       "id": "1454806018348290109",
       "url": "https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708",
       "matches": [

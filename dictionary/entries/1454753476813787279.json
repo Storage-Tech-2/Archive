@@ -13,7 +13,7 @@
   "references": [
     {
       "type": "dictionaryTerm",
-      "term": "quasi connectivity",
+      "term": "Quasi connectivity",
       "id": "1454754708773273641",
       "url": "https://discord.com/channels/1375556143186837695/1454754708773273641/1454754710643933326",
       "matches": [
@@ -23,6 +23,7 @@
     }
   ],
   "referencedBy": [
+    "DH002",
     "CC005"
   ]
 }

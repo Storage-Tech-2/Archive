@@ -12,7 +12,16 @@
   "references": [
     {
       "type": "dictionaryTerm",
-      "term": "parallel codes",
+      "term": "Bit",
+      "id": "1454753462171734026",
+      "url": "https://discord.com/channels/1375556143186837695/1454753462171734026/1454753462905737238",
+      "matches": [
+        "bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Parallel codes",
       "id": "1454753751335436422",
       "url": "https://discord.com/channels/1375556143186837695/1454753751335436422/1454753752350457887",
       "matches": [

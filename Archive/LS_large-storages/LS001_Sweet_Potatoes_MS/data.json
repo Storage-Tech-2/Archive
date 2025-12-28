@@ -151,12 +151,31 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "unstackable sorter",
+      "term": "Peripheral",
+      "id": "1454753771035824158",
+      "url": "https://discord.com/channels/1375556143186837695/1454753771035824158/1454753771555913873",
+      "matches": [
+        "peripheral"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Unstackable sorter",
       "id": "1454754837379022858",
       "url": "https://discord.com/channels/1375556143186837695/1454754837379022858/1454754839224516712",
       "matches": [
         "unstackable sorter",
         "Unstackable Sorter"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Chest Hall",
+      "id": "1454753529700024331",
+      "url": "https://discord.com/channels/1375556143186837695/1454753529700024331/1454753530488426527",
+      "matches": [
+        "chest hall",
+        "Chest Hall"
       ]
     },
     {
@@ -170,20 +189,11 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "mis",
+      "term": "MIS",
       "id": "1454753725091676293",
       "url": "https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954",
       "matches": [
         "MIS"
-      ]
-    },
-    {
-      "type": "dictionaryTerm",
-      "term": "chest hall",
-      "id": "1454753529700024331",
-      "url": "https://discord.com/channels/1375556143186837695/1454753529700024331/1454753530488426527",
-      "matches": [
-        "Chest Hall"
       ]
     },
     {
@@ -218,7 +228,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "loader",
+      "term": "Loader",
       "id": "1454753686558605373",
       "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
       "matches": [
@@ -248,7 +258,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "box",
+      "term": "Box",
       "id": "1454806018348290109",
       "url": "https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708",
       "matches": [
@@ -311,7 +321,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "box display",
+      "term": "Box Display",
       "id": "1454753497638506689",
       "url": "https://discord.com/channels/1375556143186837695/1454753497638506689/1454753498494144522",
       "matches": [

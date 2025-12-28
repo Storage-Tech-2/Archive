@@ -12,7 +12,16 @@
   "references": [
     {
       "type": "dictionaryTerm",
-      "term": "mis",
+      "term": "Chest Hall",
+      "id": "1454753529700024331",
+      "url": "https://discord.com/channels/1375556143186837695/1454753529700024331/1454753530488426527",
+      "matches": [
+        "chest hall"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "MIS",
       "id": "1454753725091676293",
       "url": "https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954",
       "matches": [

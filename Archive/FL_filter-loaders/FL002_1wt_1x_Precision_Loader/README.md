@@ -14,7 +14,7 @@ Filters and loads items into boxes at [hopperspeed](https://discord.com/channels
 - 1-wide tileable
 - Small size (7x9 for the [SS](https://discord.com/channels/1375556143186837695/1454754774833696893/1454754775542267957)3 version)
 - Precision box breaking: reliable slice-preserving box pickup
-- No toggle states
+- No [toggle state](https://discord.com/channels/1375556143186837695/1454754804252282910/1454754804881428533)s
 - No buffered boxes
 - Signal strength 1 and signal strength 2 filter variants available.
 ## Notes
