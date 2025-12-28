@@ -116,15 +116,29 @@
       "Relock loaders only after everything has been loaded into boxes. Engaging locking while loader is active may cause box replacement to fail."
     ]
   },
-  "references": [],
+  "references": [
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/749137424684285992/1227104372878741596",
+      "server": "748542142347083868",
+      "channel": "749137424684285992",
+      "message": "1227104372878741596",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/749137424684285992/1227104372878741596"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    }
+  ],
   "author_references": [],
-  "updatedAt": 1766901958443,
+  "updatedAt": 1766902242098,
   "archivedAt": 1766901938599,
   "post": {
     "threadId": "1399908195421388800",
     "forumId": "1375556999257002185",
     "continuingMessageIds": [
-      "1399908199213039860"
+      "1399908199213039860",
+      "1454718187978621110"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1399908195421388800",
     "uploadMessageId": "1452741096152104974"

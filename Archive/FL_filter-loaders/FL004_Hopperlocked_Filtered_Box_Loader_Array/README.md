@@ -24,7 +24,7 @@ This filtered shulker box array is fully hopperlocked and uses only 4 hoppers in
 ## Notes
 - The base schematic contains a 32x hopperspeed capacity.
 - Empty boxes dispensing is triggered when a full box is output with a 1:1 ratio. If you run out of boxes, you will have to manually dump in empty boxes in the box distribution stream to refill the loaders. Global call based distribution coming soon:tm:
-- Inspired by https://discord.com/channels/748542142347083868/749137424684285992/1227104372878741596
+- Inspired by https://discord.com/channels/748542142347083868/749137424684285992/1227104372878741596 ([Join Storage Tech](https://discord.gg/JufJ6uf))
 ## Instructions
 1. Setup hopper filters
 2. Unlock loaders by flicking the hopperlocking lever on red concrete block at the bottom corner of the device
