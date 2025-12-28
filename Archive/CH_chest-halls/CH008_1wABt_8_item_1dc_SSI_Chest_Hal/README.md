@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1432024834774139080)
 
-SSI SS2 Filters
+SSI [SS](https://discord.com/channels/1375556143186837695/1454754774833696893/1454754775542267957)2 Filters
 ## Features
 - SSI SS2 Filters, all no more than 8 [gt](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539)
 - 28 hoppers | 100% locked, even when filters are overflowing

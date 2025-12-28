@@ -9,7 +9,7 @@
 
 [Togglestate](https://discord.com/channels/1375556143186837695/1454754804252282910/1454754804881428533)-less and simple device that filters and loads items into shulker boxes at hopperspeed.
 ## Features
-- Includes an SS3 item filter. 7x7 in size.
+- Includes an [SS](https://discord.com/channels/1375556143186837695/1454754774833696893/1454754775542267957)3 item filter. 7x7 in size.
 - Togglestate-less
 ## Considerations
 - Can very rarely lose a [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) (~1 in 100 million boxes) when multiple slices trigger at timely intervals.

@@ -16,7 +16,7 @@ A small device that takes in boxes and outputs items for filtered storage system
 - Separate unstackable and empty [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) output
 ## Considerations
 - Slow and cannot be expanded beyond 5x hopperspeed
-- Does not work with SS3 filters, items are output with a max stack size of 62/14
+- Does not work with [SS](https://discord.com/channels/1375556143186837695/1454754774833696893/1454754775542267957)3 filters, items are output with a max stack size of 62/14
 ## Notes
 Built on ST2 CMP (par [unloader](https://discord.com/channels/1375556143186837695/1454754824758493380/1454754825345433803) dev waypoint). Uses a modified version of the [OIP002](https://discord.com/channels/1375556143186837695/1388317887462113373) item entity unstack separator ([OIP002](https://discord.com/channels/1375556143186837695/1388317887462113373))
 ## Explanation

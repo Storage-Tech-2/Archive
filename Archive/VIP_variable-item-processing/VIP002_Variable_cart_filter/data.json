@@ -73,7 +73,17 @@
     "attachmentMessageId": "1388179304625733733",
     "uploadMessageId": "1388179299554820106"
   },
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "gt",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    }
+  ],
   "author_references": [],
   "archivedAt": 1750631500111,
   "updatedAt": 1750631500111

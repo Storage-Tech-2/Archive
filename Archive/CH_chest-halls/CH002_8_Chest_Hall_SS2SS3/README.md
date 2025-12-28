@@ -13,9 +13,9 @@
 ## Features
 - 22 hoppers | 1e-12 s
 - 8 items per slice
-- SS2 filters, SS3 variant by Pyra
+- [SS](https://discord.com/channels/1375556143186837695/1454754774833696893/1454754775542267957)2 filters, SS3 variant by Pyra
 - no prefilling required
-- all filters are 8gt
+- all filters are 8[gt](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539)
 - all display blocks can be solid
 
 ## Other Images

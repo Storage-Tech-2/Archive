@@ -106,6 +106,15 @@
   "references": [
     {
       "type": "dictionaryTerm",
+      "term": "gt",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
       "term": "directional",
       "id": "1454753554815389834",
       "url": "https://discord.com/channels/1375556143186837695/1454753554815389834/1454753555566166029",

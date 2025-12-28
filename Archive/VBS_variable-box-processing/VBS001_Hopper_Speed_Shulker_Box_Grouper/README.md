@@ -11,7 +11,7 @@
 
 Assigns a filter item depending on the leading item type of the first [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708). Subsequent boxes are checked and separated based on whether they contain the assigned item. Deassigns when out of boxes, or manually.
 ## Features
-- Works at 8gt
+- Works at 8[gt](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539)
 - No renamed filter items needed, unstackables work fine
 - Relatively small footprint (5x4x6).
 ## Considerations

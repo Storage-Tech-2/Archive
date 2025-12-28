@@ -13,7 +13,7 @@ Sorts boxes by their first item's type at hopper speed. Works by taking the firs
 ## Features
 - 1wABt slices, ABC tileable locking lines
 - Very small: 6x7 (excluding the hopperlocking and the overflow)
-- Hopper speed: can sort a box every 8gt
+- Hopper speed: can sort a box every 8[gt](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539)
 - Minimum hopper count: full hopper locking with [global](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) lines
 - Overflow protection: the boxes in excess get dropped as item entities
 - No buffered boxes

@@ -14,7 +14,7 @@ Yeets carts without splitting up items inside. This is done by aligning and push
 - 4d aligns the items
 - 100% reliable output
 - perfectly batches the items
-- hopperspeed throughput (8gt per item)
+- hopperspeed throughput (8[gt](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) per item)
 ## Considerations
 - Large size (for a yeeter)
 ## Instructions

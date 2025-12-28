@@ -15,7 +15,7 @@
 - 100% locked, even when filters are overflowing using [global](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) locking lines
 ## Considerations
 - Bottom filter still requires prefilling
-- 2/10 filters are 10gt and may require special item 4D alignment
+- 2/10 filters are 10[gt](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) and may require special item 4D alignment
 ## Notes
 Scaffolding doesn't need to be placed every second ice blocks like in the [schematic](https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487). You can replace the normal water stream blockers/extenders for scaffolding and it should support all floating blocks.
 

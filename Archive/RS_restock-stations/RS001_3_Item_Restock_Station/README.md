@@ -17,7 +17,7 @@ A restock station that uses 3 [box](https://discord.com/channels/137555614318683
 - Collectionless
 ## Considerations
 - Unlocked hoppers
-- For the middle display, if 3 adjacent displayed boxes are emptied within 1gt of each other, one of the slices will fail to replace its box
+- For the middle display, if 3 adjacent displayed boxes are emptied within 1[gt](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) of each other, one of the slices will fail to replace its box
 - Top display use togglestates
 
 ## Acknowledgements:

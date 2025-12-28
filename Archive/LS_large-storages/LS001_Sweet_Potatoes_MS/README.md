@@ -15,7 +15,7 @@ A fairly large storage system that utilizes a parallel unloading array allowing 
 - Has various peripherals: restock stations, furnace array, crafting station, and yeeting station, masscrafter, brewer, and [unstackable sorter](https://discord.com/channels/1375556143186837695/1454754837379022858/1454754839224516712)
 - Has a concrete duper in the middle of the storage (This was requested, can easily be omitted in the building process)
 - Has a big bulk with capacity for ~1.3m / item.
-- Has 1 DC capacity chest halls with SS2 filters.
+- Has 1 DC capacity chest halls with [SS](https://discord.com/channels/1375556143186837695/1454754774833696893/1454754775542267957)2 filters.
 - Uses [MIS](https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954) 5.1
 ## Considerations
 - This system requires you to have Carpet's `stackableShulkerBoxes` rule enabled and subsequently Kikugie's StackableShulkerFix.

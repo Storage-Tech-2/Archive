@@ -12,7 +12,7 @@
 Small device that categorizes boxes by their fill levels at hopperspeed. Can function either as an [isFull](https://discord.com/channels/1375556143186837695/1454753607604768770/1454753609131495434) filter or as an isNotEmpty sorter with modification to the comparator barrel's contents.
 ## Features
 - Small size (3x3x4).
-- Hopperspeed (8gt; 9000 boxes/hr).
+- Hopperspeed (8[gt](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539); 9000 boxes/hr).
 - Works with randomly timed input.
 
 ## Resources

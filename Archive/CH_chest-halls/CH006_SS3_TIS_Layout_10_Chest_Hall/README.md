@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388555404023300128)
 
-10 chests per [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261) hall using the TIS layout, but with SS3 filters
+10 chests per [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261) hall using the TIS layout, but with [SS](https://discord.com/channels/1375556143186837695/1454754774833696893/1454754775542267957)3 filters
 ## Features
 - Slices are identical, locking system is the only change between slices
 - 0 prefilled hopper/dispenser

@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318468331536524)
 
-Small 6gt [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) replacement crafting station. Displays two boxes for you with ingredients on the left which breaks when emptied, and a box for the results on the right which breaks when full.
+Small 6[gt](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) replacement crafting station. Displays two boxes for you with ingredients on the left which breaks when emptied, and a box for the results on the right which breaks when full.
 ## Features
 - Two input boxes are displayed simultaneously
 - Replaces boxes within 6gt for fast manual unloading/loading.

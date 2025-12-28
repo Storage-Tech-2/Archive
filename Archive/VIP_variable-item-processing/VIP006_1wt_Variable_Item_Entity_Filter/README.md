@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1450282499274965186)
 
-A 1 wide tileable variable filter for item entities. Each [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261) of this device is capable of automatically assigning its own filter to separate out item entities of that type every 10gt.
+A 1 wide tileable variable filter for item entities. Each [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261) of this device is capable of automatically assigning its own filter to separate out item entities of that type every 10[gt](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539).
 ## Features
 - One item entity per 10gt throughput (51.2x hopperspeed)
 - Expandable (up to ~200 blocks, 3000 if you swap out middle blue ice with packed ice as in [WT003](https://discord.com/channels/1375556143186837695/1440940601724899448))

@@ -11,9 +11,9 @@
 
 10 chest per [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261) hall using CommandLeo's 10 [chest hall](https://discord.com/channels/1375556143186837695/1454753529700024331/1454753530488426527) layout.
 ## Features
-- SS2 signal strength isolated (SSI) filters
+- [SS](https://discord.com/channels/1375556143186837695/1454754774833696893/1454754775542267957)2 signal strength isolated (SSI) filters
 - Includes two variants: 32 hopper version with push filter, 36 hopper version with dropper elevator
-- 4 is 10gt filters on slice B, other filters 8gt or less
+- 4 is 10[gt](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) filters on slice B, other filters 8gt or less
 - Locking lines can be toggled without affecting other filters
 - CommanLeo's 10 chest hall [UI](https://discord.com/channels/1375556143186837695/1454754844316274861/1454754845033627671) layout
 

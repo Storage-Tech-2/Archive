@@ -13,7 +13,7 @@ A device that drops an item into a lava cauldron, using calibrated sculk sensors
 ## Features
 - Sorts netherrite items at up to hopperspeed
 - Does not consume any items
-- Small size (3x4x4 for the 22gt version)
+- Small size (3x4x4 for the 22[gt](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) version)
 - Random input proof
 ## Considerations
 - Uses calibrated sculk sensors. Put wool around the device to prevent it from triggering because of other noise sources.

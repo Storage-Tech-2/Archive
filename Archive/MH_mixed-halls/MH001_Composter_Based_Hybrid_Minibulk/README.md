@@ -14,7 +14,7 @@ Hybrid hall containing a composter based hybrid [box](https://discord.com/channe
 - Fully hopperlocked
 - 2 x 212.5k items in bulk, and another 4.7k in loose items, per [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261).
 - Composter based hybrid loader with reliable box collection
-- SS2 independent filters
+- [SS](https://discord.com/channels/1375556143186837695/1454754774833696893/1454754775542267957)2 independent filters
 - compact, AB tiled, filters are ABCD tiled, AB tiled for v3.1W
 - low hopper count (28, 14 per half slice)
 - [global](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) box placement
