@@ -13,7 +13,7 @@ A simple and cheap early game storage system using hopper minecart multi-item so
 ## Features
 - Cheap and easy to build, optimized for build simplicity
 - Has every items prefilled in whitelister chests for reference
-- Somewhat decent speed (2.4x hopper speed at max) compared to other early game storage systems like https://discord.com/channels/1161803566265143306/1378802569585098823
+- Somewhat decent speed (2.4x hopper speed at max) compared to other early game storage systems like https://discord.com/channels/1161803566265143306/1378802569585098823 ([Join TMC Catalogue](https://discord.com/invite/tvpccRczWx))
 - Hopper cart sucks 4 shears and 15 items every 50gt (which makes it handle both 16 and 64 stackable items)
 - Has both loose item input and a box unloader for box input
 ## Considerations

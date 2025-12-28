@@ -85,7 +85,9 @@
       "channel": "1378802569585098823",
       "matches": [
         "https://discord.com/channels/1161803566265143306/1378802569585098823"
-      ]
+      ],
+      "serverName": "TMC Catalogue",
+      "serverJoinURL": "https://discord.com/invite/tvpccRczWx"
     }
   ],
   "author_references": [],
@@ -96,7 +98,8 @@
     "forumId": "1375566804910604349",
     "continuingMessageIds": [
       "1390326060729634856",
-      "1390326061295861902"
+      "1390326061295861902",
+      "1454719025652433058"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1390326056405434429",
     "uploadMessageId": "1388179019459199086"

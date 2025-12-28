@@ -73,7 +73,10 @@
       "processing time is ~linearly related to # of boxes in bucket. The more items allocated to a slice, the slower it can be (207gt for no boxes in bucket to ~715gt for 49 boxes in bucket)."
     ]
   },
-  "timestamp": 1763504959556,
+  "references": [],
+  "author_references": [],
+  "updatedAt": 1766904098854,
+  "archivedAt": 1763504959556,
   "post": {
     "threadId": "1439829809134829840",
     "forumId": "1375570066451599401",
