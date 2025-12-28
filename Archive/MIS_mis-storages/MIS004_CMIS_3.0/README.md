@@ -17,7 +17,7 @@ CMIS 3.0 is a complete storage system designed for single player or small server
 - Simple UI
 - Remote Bulk (place those laggy hoppers far away from main base!)
 ## Considerations
-- Bulk items will "buffer" up to a full [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) in the sorting system before sending to storage.
+- Bulk items will "buffer" up to a full box in the sorting system before sending to storage.
 - No first box placement (please see helper doc for recommended usage)
 ## Sourced components
 - Most Variable Components created by JayRoi, but modified by me for this application

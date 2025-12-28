@@ -15,7 +15,7 @@ A large [bulk storage](https://discord.com/channels/1375556143186837695/14547535
 - 1.7m per item
 - Concrete & powder mode, flint & gravel
 - Input protection, handles any items accidentally thrown on the platform while the farm is inactive
-- Partial [Box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) recycling
+- Partial Box recycling
 ## Considerations
 - Box crafting logic can be improved but works perfectly fine
 - Not fully hopper locked but this is a non issue with lithium

@@ -12,7 +12,7 @@
 Designed for quad bulks with more space under the top display.
 ## Features
 - Good [UI](https://discord.com/channels/1375556143186837695/1454754844316274861/1454754845033627671)
-- [Global](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) first [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) placement
+- [Global](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) first box placement
 - Automatic box replacement when emptied
 ## Considerations
 - [Hopperlocking](https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422) is possible with a global dust line

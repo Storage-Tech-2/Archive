@@ -142,23 +142,13 @@
     "threadId": "1388318446168572105",
     "continuingMessageIds": [
       "1388318450014883932",
-      "1388318450736169100",
-      "1454938943823937558"
+      "1388318450736169100"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1388318446168572105",
     "attachmentMessageId": "1388179454467113160",
     "uploadMessageId": "1388179446728495194"
   },
   "references": [
-    {
-      "type": "dictionaryTerm",
-      "term": "Box",
-      "id": "1454806018348290109",
-      "url": "https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708",
-      "matches": [
-        "box"
-      ]
-    },
     {
       "type": "dictionaryTerm",
       "term": "Loader",

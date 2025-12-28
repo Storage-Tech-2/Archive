@@ -20,7 +20,7 @@ Additional credits:
 - acaciachan - [box sorter](https://discord.com/channels/1375556143186837695/1454753516269736090/1454753518383792221)
 - Walter - for his reliable water stream
 - bipim, Moony and Gangles - falling block display
-- Philgoodinator - unsorted [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) recombiner and U-turn
+- Philgoodinator - unsorted box recombiner and U-turn
 - Walter, Pfeffa and Expo - [Keygen](https://discord.com/channels/1375556143186837695/1454753674298396785/1454753674898440377)
 
 ## Other Images

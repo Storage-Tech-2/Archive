@@ -13,7 +13,7 @@ Unloads boxes at [2X](https://discord.com/channels/1375556143186837695/145475356
 ## Features
 - 2X Hopperspeed
 - Tileable
-- 16[gt](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) interval per [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) for continuous input
+- 16[gt](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) interval per box for continuous input
 - No [toggle state](https://discord.com/channels/1375556143186837695/1454754804252282910/1454754804881428533)s
 ## Considerations
 - Uses a static cart in each [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261)

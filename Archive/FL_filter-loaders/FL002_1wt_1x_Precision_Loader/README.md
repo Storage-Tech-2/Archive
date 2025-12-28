@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388316649903624192)
 
-Filters and loads items into boxes at [hopperspeed](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294).  [Slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261) preserving [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) breaking mechanism ensures that no box items land in adjacent slices.
+Filters and loads items into boxes at [hopperspeed](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294).  [Slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261) preserving box breaking mechanism ensures that no box items land in adjacent slices.
 ## Features
 - 1-wide tileable
 - Small size (7x9 for the [SS](https://discord.com/channels/1375556143186837695/1454754774833696893/1454754775542267957)3 version)

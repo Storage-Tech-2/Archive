@@ -12,15 +12,6 @@
   "references": [
     {
       "type": "dictionaryTerm",
-      "term": "Box",
-      "id": "1454806018348290109",
-      "url": "https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708",
-      "matches": [
-        "box"
-      ]
-    },
-    {
-      "type": "dictionaryTerm",
       "term": "Slice",
       "id": "1454754736224997386",
       "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",

@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388316790202957984)
 
-Loads mixed items into boxes at full [hopperspeed](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294). Meant for use in input systems to prevent the case where items can back up into the item/[box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) checker if the input receives a constant stream of items.
+Loads mixed items into boxes at full [hopperspeed](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294). Meant for use in input systems to prevent the case where items can back up into the item/box checker if the input receives a constant stream of items.
 ## Features
 - 5x5x4 size
 - Does not break with random input due to locking the dropper before box replacement

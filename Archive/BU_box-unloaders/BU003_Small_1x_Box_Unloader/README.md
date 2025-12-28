@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317037826281663)
 
-A simple non-tileable [hopperspeed](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294) [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) [unloader](https://discord.com/channels/1375556143186837695/1454754824758493380/1454754825345433803).
+A simple non-tileable [hopperspeed](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294) box [unloader](https://discord.com/channels/1375556143186837695/1454754824758493380/1454754825345433803).
 ## Features
 - 3x4x4 in size
 - First box placement and empty box handling

@@ -9,13 +9,13 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1401249609904554225)
 
-Unlike most others, this 1 wide [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) [unloader](https://discord.com/channels/1375556143186837695/1454754824758493380/1454754825345433803) can handle boxes with any fill level (including empty boxes), and is 100% reliable when tiled.
+Unlike most others, this 1 wide box [unloader](https://discord.com/channels/1375556143186837695/1454754824758493380/1454754825345433803) can handle boxes with any fill level (including empty boxes), and is 100% reliable when tiled.
 ## Features
 - Handles empty and low quantity boxes
 - True 1 wide tileable design
 - Output backlog safe
 - Automatic first box placement
-- 100% reliable precision box collection with in-[slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261) box output
+- 100% reliable precision [box collection](https://discord.com/channels/1375556143186837695/1454805930670559326/1454805932532830268) with in-[slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261) box output
 - No buffered boxes
 ## Considerations
 - Box input dispenser is on the side, item output is placed higher than box output.

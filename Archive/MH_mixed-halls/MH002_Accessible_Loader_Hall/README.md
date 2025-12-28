@@ -9,12 +9,12 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1398714918714212473)
 
-Items are loaded into an accessible shulker [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708), the subsequent full boxes are then stored in double chests
+Items are loaded into an accessible shulker box, the subsequent full boxes are then stored in double chests
 ## Features
 - SSI filters
 - Low buffer before box replacement
 - 200k item capacity per item type
-- Overflow box collection
+- Overflow [box collection](https://discord.com/channels/1375556143186837695/1454805930670559326/1454805932532830268)
 ## Considerations
 - Average of 3.5 unlocked hoppers per [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261)
 - Displays buffers boxes

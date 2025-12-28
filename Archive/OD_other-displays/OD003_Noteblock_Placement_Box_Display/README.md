@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1391808083189170357)
 
-[Box display](https://discord.com/channels/1375556143186837695/1454753497638506689/1454753498494144522) that places the 1st [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) when you click the noteblock, reducing size and manual effort.
+[Box display](https://discord.com/channels/1375556143186837695/1454753497638506689/1454753498494144522) that places the 1st box when you click the noteblock, reducing size and manual effort.
 ## Features
 - Fully hopper locked, minimum hoppers
 - Fast replacement with clean animation

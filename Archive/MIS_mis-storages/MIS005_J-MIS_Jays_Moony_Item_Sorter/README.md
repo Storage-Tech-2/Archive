@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388563583658365163)
 
-A compact [MIS](https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954) system using MIS 5.1 and hybrid [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) [loader](https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720)s, acting as bulk (97k capacity per bulk item, with overflow protection).
+A compact [MIS](https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954) system using MIS 5.1 and hybrid box [loader](https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720)s, acting as bulk (97k capacity per bulk item, with overflow protection).
 ## Features
 - Input full boxes and loose items in the same place
 - 896 Hoppers, 75% [Hopperlocked](https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422)
@@ -19,7 +19,7 @@ A compact [MIS](https://discord.com/channels/1375556143186837695/145475372509167
 - Includes feature to distribute boxes after building.
 - Box loaders are callable, allowing all items to be accessible at any time.
 - Includes an MIS fix mode, which locks hoppers in the mis and manually buffer droppers, (video will include a tutorial).
-- Overflow and empty box detection.
+- Overflow and empty [box detection](https://discord.com/channels/1375556143186837695/1454753490936266762/1454753491787452438).
 - Pause feature, USE WELL BEFORE LOGGING OFF!!!
 ## Considerations
 - No box sorting, all boxes input are unloaded, and if bulk, repacked into boxes.

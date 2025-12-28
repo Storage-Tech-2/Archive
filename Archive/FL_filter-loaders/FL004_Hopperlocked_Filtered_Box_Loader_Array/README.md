@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1399908195421388800)
 
-This filtered shulker [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) array is fully [hopperlocked](https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422) and uses only 4 hoppers in each [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261).
+This filtered shulker box array is fully [hopperlocked](https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422) and uses only 4 hoppers in each [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261).
 ## Features
 - Fully hopperlocked
 - Low hopper count: 4 hoppers/slice

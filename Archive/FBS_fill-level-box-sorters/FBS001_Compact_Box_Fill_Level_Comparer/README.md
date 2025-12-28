@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388316891721764885)
 
-Given two boxes, compares the fill level of the two boxes and outputs the more-full [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) first. Useful for optimizing pairs for a [merger](https://discord.com/channels/1375556143186837695/1454753701204987938/1454753702773526549).
+Given two boxes, compares the fill level of the two boxes and outputs the more-full box first. Useful for optimizing pairs for a [merger](https://discord.com/channels/1375556143186837695/1454753701204987938/1454753702773526549).
 ## Features
 - Only 3 hoppers used
 - 2 blocks high

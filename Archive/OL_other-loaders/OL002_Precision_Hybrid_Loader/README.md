@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388557426013376634)
 
-[Box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) [loader](https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720) that puts loose items into a chest until the chest fills up, then starts filling shulker boxes with the items.
+Box [loader](https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720) that puts loose items into a chest until the chest fills up, then starts filling shulker boxes with the items.
 ## Features
 - Fully Hopper Locked
 - 1 Wide Tileable

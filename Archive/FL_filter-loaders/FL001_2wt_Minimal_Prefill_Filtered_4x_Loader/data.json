@@ -105,8 +105,7 @@
       "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
       "matches": [
         "4x",
-        "hopperspeed",
-        "6x"
+        "hopperspeed"
       ]
     },
     {
@@ -156,15 +155,6 @@
       ],
       "serverName": "Storage Tech",
       "serverJoinURL": "https://discord.gg/JufJ6uf"
-    },
-    {
-      "type": "dictionaryTerm",
-      "term": "Box",
-      "id": "1454806018348290109",
-      "url": "https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708",
-      "matches": [
-        "box"
-      ]
     }
   ],
   "author_references": [],

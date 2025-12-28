@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388316872188891187)
 
-Sorts boxes by their first item's type at [hopper speed](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294). Works by taking the first item out of the [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708), and recombining the box with the item in the assigned [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261).
+Sorts boxes by their first item's type at [hopper speed](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294). Works by taking the first item out of the box, and recombining the box with the item in the assigned [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261).
 ## Features
 - [1wABt](https://discord.com/channels/1375556143186837695/1454753732293033984/1454753733035687988) slices, ABC tileable locking lines
 - Very small: 6x7 (excluding the [hopperlocking](https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422) and the overflow)

@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318446168572105)
 
-Consume [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708)ed ingredient materials (containing wood and shulker shells) to craft into shulker boxes with both ingredients being in the same boxes. Instead of having separate boxes for wood and shulker shells, this system creates and uses mixed shulker boxes containing both in a precise ratio.
+Consume boxed ingredient materials (containing wood and shulker shells) to craft into shulker boxes with both ingredients being in the same boxes. Instead of having separate boxes for wood and shulker shells, this system creates and uses mixed shulker boxes containing both in a precise ratio.
 ## Features
 - Higher density, the logs box and shell box takes every 4 boxes can craft 1728 boxes, but these mixed boxes only takes 3 boxes.
 - Players only need to carry one type of box, which is extremely convenient for management and transportation

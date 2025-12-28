@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318487616684082)
 
-Small 8[gt](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) replacement crafting station. Displays boxes for you with ingredients on the left which breaks when emptied, and a box for the results on the right which breaks when full.
+Small 8[gt](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) box replacement crafting station. Displays boxes for you with ingredients on the left which breaks when emptied, and a box for the results on the right which breaks when full.
 ## Features
 - auto first box dispense
 - automatic handling of empty boxes

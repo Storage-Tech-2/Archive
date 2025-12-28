@@ -15,7 +15,7 @@ Quad bulk hall design has 4 [box display](https://discord.com/channels/137555614
 - Sticks 2 blocks from both sides
 - 4 bulk silos/slice
 - Nice smart dropper turns
-- [Global](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) placement
+- [Global](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) box placement
 - Slice capacity: Top: 1.564 mil Top: 1.594 mil
 - Size for 16 slices: 35x39x20
 ## Considerations

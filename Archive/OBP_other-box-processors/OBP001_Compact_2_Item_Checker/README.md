@@ -11,7 +11,7 @@
 
 Device filters shulker boxes with at least 2 stackable items of the same type. Useful for set-based processing where an extra item is needed to configure an item set.
 ## Features
-- 1 [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) every 36[gt](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) throughput
+- 1 box every 36[gt](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) throughput
 - Small size (4x5x5)
 - Works with random input
 - Can be fully [hopperlocked](https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422)

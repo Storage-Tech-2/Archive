@@ -11,7 +11,7 @@
 
 A small manual top display meant for quad bulks.
 ## Features
-- Noteblock: In-[slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261) first [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) placement and box call/replacement
+- Noteblock: In-[slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261) first box placement and box call/replacement
 - 1 hopper, locked
 ## Considerations
 - Buffers at least 1 box in the hopper

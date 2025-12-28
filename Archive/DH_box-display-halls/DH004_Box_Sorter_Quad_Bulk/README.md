@@ -17,7 +17,7 @@
 - 216 item types (can be reduced)
 - Fully [hopperlocked](https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422)
 ## Considerations
-- Top displays can break if activated rapidly, make sure [global](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) placement is triggered only after sorting is completed.
+- Top displays can break if activated rapidly, make sure [global](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) box placement is triggered only after sorting is completed.
 ## Notes
 [Showcase video](https://www.youtube.com/watch?v=i24AdqmGXLI) (!important)
 - Top display designed by @Jayroi
