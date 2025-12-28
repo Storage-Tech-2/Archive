@@ -669,6 +669,14 @@
       ],
       "summary": "Typically a .litematic file or a .schematic file in older versions or with different mods than litematica. It is a blueprint that tells you how to build redstone builds, tells you what materials yo...",
       "updatedAt": 1766924588675
+    },
+    {
+      "id": "1454812343409053849",
+      "terms": [
+        "Mods"
+      ],
+      "summary": "Mods can be 2 types - client side or server side, client side mods just effect the client side of the game, so mostly the visuals and server side mods effect the code of the game / what the game do...",
+      "updatedAt": 1766925691841
     }
   ]
 }
