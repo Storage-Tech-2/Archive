@@ -9,7 +9,8 @@
       "id": "1393001409166704751",
       "name": "3 Item Restock Station",
       "code": "RS001",
-      "timestamp": 1752253853582,
+      "archivedAt": 1752253853582,
+      "updatedAt": 1752253853582,
       "path": "RS001_3_Item_Restock_Station",
       "tags": [
         "Tested & Functional"

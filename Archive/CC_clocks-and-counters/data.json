@@ -9,7 +9,8 @@
       "id": "1386448150994223134",
       "name": "1wt Divide-by-N Counter",
       "code": "CC002",
-      "timestamp": 1750625540208,
+      "archivedAt": 1750625540208,
+      "updatedAt": 1750625540208,
       "path": "CC002_1wt_Divide-by-N_Counter",
       "tags": [
         "Recommended",
@@ -20,7 +21,8 @@
       "id": "1386451279928360993",
       "name": "Super Long Resettable Pulse Extender",
       "code": "CC003",
-      "timestamp": 1750626219501,
+      "archivedAt": 1750626219501,
+      "updatedAt": 1750626219501,
       "path": "CC003_Super_Long_Resettable_Pulse_Extender",
       "tags": [
         "Pulse Extenders",
@@ -31,7 +33,8 @@
       "id": "1386453434559107284",
       "name": "3w Long Duration Pulse Extenders",
       "code": "CC004",
-      "timestamp": 1750626744139,
+      "archivedAt": 1750626744139,
+      "updatedAt": 1750626744139,
       "path": "CC004_3w_Long_Duration_Pulse_Extenders",
       "tags": [
         "Recommended",
@@ -43,7 +46,8 @@
       "id": "1450288456357118145",
       "name": "Unbreakable custom-duration pulsed clock",
       "code": "CC005",
-      "timestamp": 1765846674852,
+      "archivedAt": 1765846674852,
+      "updatedAt": 1765846674852,
       "path": "CC005_Unbreakable_custom-duration_pulsed_clock",
       "tags": [
         "Tested & Functional",
@@ -54,6 +58,7 @@
       "id": "1452358144284950610",
       "name": "Small 1wt N-pulse Clocks",
       "code": "CC006",
+      "archivedAt": 1766904706506,
       "updatedAt": 1766901766952,
       "path": "CC006_Small_1wt_N-pulse_Clocks",
       "tags": [

@@ -9,7 +9,8 @@
       "id": "1386456499231916093",
       "name": "1wt 2x Unloader",
       "code": "BU002",
-      "timestamp": 1750627612893,
+      "archivedAt": 1750627612893,
+      "updatedAt": 1750627612893,
       "path": "BU002_1wt_2x_Unloader",
       "tags": [
         "2X Hopperspeed",
@@ -20,7 +21,8 @@
       "id": "1386479322843320361",
       "name": "Small 1x Box Unloader",
       "code": "BU003",
-      "timestamp": 1750632898364,
+      "archivedAt": 1750632898364,
+      "updatedAt": 1750632898364,
       "path": "BU003_Small_1x_Box_Unloader",
       "tags": [
         "Recommended",
@@ -32,7 +34,8 @@
       "id": "1386553835446603825",
       "name": "Minimum Piston, Slice Preserving Box Unloader",
       "code": "BU004",
-      "timestamp": 1752040649325,
+      "archivedAt": 1752040649325,
+      "updatedAt": 1752040649325,
       "path": "BU004_Minimum_Piston_Slice_Preserving_Box_Unloader",
       "tags": [
         "Tested & Functional",
@@ -43,7 +46,8 @@
       "id": "1386937530808537098",
       "name": "Hopperspeed Box Yeeter",
       "code": "BU005",
-      "timestamp": 1752087962505,
+      "archivedAt": 1752087962505,
+      "updatedAt": 1752087962505,
       "path": "BU005_Hopperspeed_Box_Yeeter",
       "tags": [
         "Recommended",
@@ -55,7 +59,8 @@
       "id": "1387180395883397291",
       "name": "Simple 1x Shulker Box Unloader",
       "code": "BU006",
-      "timestamp": 1752087920247,
+      "archivedAt": 1752087920247,
+      "updatedAt": 1752087920247,
       "path": "BU006_Simple_1x_Shulker_Box_Unloader",
       "tags": [
         "Tested & Functional",
@@ -66,7 +71,8 @@
       "id": "1388031532282937445",
       "name": "Tiny 1x Box Unloader",
       "code": "BU007",
-      "timestamp": 1751650739913,
+      "archivedAt": 1751650739913,
+      "updatedAt": 1751650739913,
       "path": "BU007_Tiny_1x_Box_Unloader",
       "tags": [
         "1X Hopperspeed",
@@ -78,6 +84,8 @@
       "id": "1386246487452942437",
       "name": "710k/hr Cart Yeeting Box Unloader",
       "code": "BU001",
+      "archivedAt": 1766904276561,
+      "updatedAt": 1751351873280,
       "path": "BU001_710khr_Cart_Yeeting_Box_Unloader",
       "tags": [
         "Tested & Functional",
@@ -88,6 +96,8 @@
       "id": "1389350108801400832",
       "name": "Compact Cart Yeeting Box Unloader",
       "code": "BU008",
+      "archivedAt": 1766904276561,
+      "updatedAt": 1756356834324,
       "path": "BU008_Compact_Cart_Yeeting_Box_Unloader",
       "tags": [
         "Tested & Functional",
@@ -99,7 +109,8 @@
       "id": "1399539219826999418",
       "name": "1wt Full-Featured Box Unloader",
       "code": "BU010",
-      "timestamp": 1754154339472,
+      "archivedAt": 1754154339472,
+      "updatedAt": 1754154339472,
       "path": "BU010_1wt_Full-Featured_Box_Unloader",
       "tags": [
         "Recommended",
@@ -111,7 +122,8 @@
       "id": "1451103879298285712",
       "name": "Stream Box Yeeter",
       "code": "BU011",
-      "timestamp": 1766042043205,
+      "archivedAt": 1766042043205,
+      "updatedAt": 1766042043205,
       "path": "BU011_Stream_Box_Yeeter",
       "tags": [
         "Tested & Functional",

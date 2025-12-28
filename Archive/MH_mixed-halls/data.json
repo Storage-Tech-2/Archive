@@ -9,6 +9,8 @@
       "id": "1386947263732912198",
       "name": "Composter Based Hybrid Minibulk",
       "code": "MH001",
+      "archivedAt": 1766904437646,
+      "updatedAt": 1750744689912,
       "path": "MH001_Composter_Based_Hybrid_Minibulk",
       "tags": [
         "Tested & Functional",
@@ -19,7 +21,8 @@
       "id": "1398695700073811978",
       "name": "Accessible Loader Hall",
       "code": "MH002",
-      "timestamp": 1755201073286,
+      "archivedAt": 1755201073286,
+      "updatedAt": 1755201073286,
       "path": "MH002_Accessible_Loader_Hall",
       "tags": [
         "Accessible Loaders",

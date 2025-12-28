@@ -9,7 +9,8 @@
       "id": "1386191299228467241",
       "name": "Stack-type Sorter",
       "code": "OIP001",
-      "timestamp": 1750565912801,
+      "archivedAt": 1750565912801,
+      "updatedAt": 1750565912801,
       "path": "OIP001_Stack-type_Sorter",
       "tags": [
         "Recommended",
@@ -20,7 +21,8 @@
       "id": "1386425910319644864",
       "name": "Hopperspeed Item Entity isStackable",
       "code": "OIP002",
-      "timestamp": 1751161603353,
+      "archivedAt": 1751161603353,
+      "updatedAt": 1751161603353,
       "path": "OIP002_Hopperspeed_Item_Entity_isStackable",
       "tags": [
         "isStackable",
@@ -32,7 +34,8 @@
       "id": "1386473584297250936",
       "name": "13 item type whitelister for bartering",
       "code": "OIP003",
-      "timestamp": 1750998109095,
+      "archivedAt": 1750998109095,
+      "updatedAt": 1750998109095,
       "path": "OIP003_13_item_type_whitelister_for_bartering",
       "tags": [
         "Untested"

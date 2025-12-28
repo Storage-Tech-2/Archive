@@ -9,7 +9,8 @@
       "id": "1386419505961369690",
       "name": "Compact Box Fill Level Comparer",
       "code": "FBS001",
-      "timestamp": 1750619211970,
+      "archivedAt": 1750619211970,
+      "updatedAt": 1750619211970,
       "path": "FBS001_Compact_Box_Fill_Level_Comparer",
       "tags": [
         "Comparer",
@@ -21,7 +22,8 @@
       "id": "1386898690844786738",
       "name": "Compact Shulker Box (is full?/is partial?) Sorter",
       "code": "FBS003",
-      "timestamp": 1750732870769,
+      "archivedAt": 1750732870769,
+      "updatedAt": 1750732870769,
       "path": "FBS003_Compact_Shulker_Box_is_fullis_partial_Sorter",
       "tags": [
         "Recommended",
@@ -33,6 +35,8 @@
       "id": "1386919025174515793",
       "name": "Hopperspeed 3 Way Box Fill Level Sorter",
       "code": "FBS005",
+      "archivedAt": 1766904248980,
+      "updatedAt": 1750737826127,
       "path": "FBS005_Hopperspeed_3_Way_Box_Fill_Level_Sorter",
       "tags": [
         "Recommended",
@@ -44,7 +48,8 @@
       "id": "1388021020811591771",
       "name": "One Hopper Box isEmpty/isFull",
       "code": "FBS006",
-      "timestamp": 1751000750503,
+      "archivedAt": 1751000750503,
+      "updatedAt": 1751000750503,
       "path": "FBS006_One_Hopper_Box_isEmptyisFull",
       "tags": [
         "isEmpty/isFull",
@@ -56,7 +61,8 @@
       "id": "1388564830234873856",
       "name": "One Hopper Box 3 Way Fill Level Sorter",
       "code": "FBS007",
-      "timestamp": 1751130122623,
+      "archivedAt": 1751130122623,
+      "updatedAt": 1751130122623,
       "path": "FBS007_One_Hopper_Box_3_Way_Fill_Level_Sorter",
       "tags": [
         "Tested & Functional",
@@ -68,7 +74,8 @@
       "id": "1402520196123721820",
       "name": "Hopperspeed IsBox + 3 Way Box Fill Level Sorter",
       "code": "FBS008",
-      "timestamp": 1755155083373,
+      "archivedAt": 1755155083373,
+      "updatedAt": 1755155083373,
       "path": "FBS008_Hopperspeed_IsBox__3_Way_Box_Fill_Level_Sorter",
       "tags": [
         "Tested & Functional",
@@ -79,7 +86,8 @@
       "id": "1402525206710452346",
       "name": "Slimeless Hopperspeed IsBox + 3 Way Box Fill Level Sorter",
       "code": "FBS009",
-      "timestamp": 1755157630174,
+      "archivedAt": 1755157630174,
+      "updatedAt": 1755157630174,
       "path": "FBS009_Slimeless_Hopperspeed_IsBox__3_Way_Box_Fill_Level_Sorter",
       "tags": [
         "Tested & Functional",

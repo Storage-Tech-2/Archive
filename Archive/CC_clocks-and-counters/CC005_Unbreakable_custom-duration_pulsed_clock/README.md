@@ -15,9 +15,9 @@ This demonstration shows how one can make a custom-duration pulsed clock that is
 - Lever turns clock on/off
 - Robust against random lever input. the clocked delay line will never have more than one pulse, and the controls will never fail to start the clock when enabled.
 ## Instructions
-- The trapdoor-pane latch ensures a pulse is sent every time the latch moves to the on position no matter how fast it is triggered.
-- The piston to reset the latch must be powered 2gt before the trapdoor is, so that double pulsing isn't possible and clock always turns off when desired.
-- The powered rail updates the other piston after reset piston is so that it can't be BUD-ed off permanently: the clock will always turn on with the lever on.
+1. The trapdoor-pane latch ensures a pulse is sent every time the latch moves to the on position no matter how fast it is triggered.
+2. The piston to reset the latch must be powered 2gt before the trapdoor is, so that double pulsing isn't possible and clock always turns off when desired.
+3. The powered rail updates the other piston after reset piston is so that it can't be BUD-ed off permanently: the clock will always turn on with the lever on.
 
 ## Resources
 - [CC005_unbreakable_custom_clock_demo.litematic](attachments/CC005_unbreakable_custom_clock_demo.litematic): MC 1.21.4, Size 6x3x9 blocks

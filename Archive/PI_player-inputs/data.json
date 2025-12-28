@@ -9,7 +9,8 @@
       "id": "1386870260661227682",
       "name": "Simple Cart Yeeting Input",
       "code": "PI001",
-      "timestamp": 1750726091289,
+      "archivedAt": 1750726091289,
+      "updatedAt": 1750726091289,
       "path": "PI001_Simple_Cart_Yeeting_Input",
       "tags": [
         "Tested & Functional"
@@ -19,6 +20,8 @@
       "id": "1388227748467572896",
       "name": "Binned Storage Input",
       "code": "PI002",
+      "archivedAt": 1766904575932,
+      "updatedAt": 1751050118719,
       "path": "PI002_Binned_Storage_Input",
       "tags": [
         "Tested & Functional",
@@ -29,7 +32,8 @@
       "id": "1388566576692990162",
       "name": "Corner Player Input",
       "code": "PI003",
-      "timestamp": 1751135491793,
+      "archivedAt": 1751135491793,
+      "updatedAt": 1751135491793,
       "path": "PI003_Corner_Player_Input",
       "tags": [
         "Tested & Functional",
@@ -40,7 +44,8 @@
       "id": "1399585065339453513",
       "name": "Integrated Splitter Input",
       "code": "PI004",
-      "timestamp": 1753757600081,
+      "archivedAt": 1753757600081,
+      "updatedAt": 1753757600081,
       "path": "PI004_Integrated_Splitter_Input",
       "tags": [
         "Tested & Functional",

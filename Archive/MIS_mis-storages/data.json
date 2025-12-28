@@ -9,13 +9,13 @@
       "id": "1386227823450132604",
       "name": "Compact Categorizer",
       "code": "MIS001",
+      "archivedAt": 1766902323684,
+      "updatedAt": 1750573808217,
       "path": "MIS001_Compact_Categorizer",
       "tags": [
         "Recommended",
         "Tested & Functional"
-      ],
-      "archivedAt": 1766902323684,
-      "updatedAt": 1766902323684
+      ]
     },
     {
       "id": "1386555107084210176",
@@ -32,39 +32,36 @@
       "id": "1387111186075488287",
       "name": "CMIS 3.0",
       "code": "MIS004",
-      "timestamp": 1755284286128,
+      "archivedAt": 1755284286128,
+      "updatedAt": 1755284286128,
       "path": "MIS004_CMIS_3.0",
       "tags": [
         "Untested"
-      ],
-      "archivedAt": 1755284286128,
-      "updatedAt": 1755284286128
+      ]
     },
     {
       "id": "1388561670355550298",
       "name": "J-MIS (Jay's Moony Item Sorter)",
       "code": "MIS005",
-      "timestamp": 1751129755827,
+      "archivedAt": 1751129755827,
+      "updatedAt": 1751129755827,
       "path": "MIS005_J-MIS_Jays_Moony_Item_Sorter",
       "tags": [
         "Tested & Functional",
         "Recommended"
-      ],
-      "archivedAt": 1751129755827,
-      "updatedAt": 1751129755827
+      ]
     },
     {
       "id": "1388786404317724712",
       "name": "Xianyu MIS lite v2",
       "code": "MIS006",
-      "timestamp": 1751865463564,
+      "archivedAt": 1751865463564,
+      "updatedAt": 1751865463564,
       "path": "MIS006_Xianyu_MIS_lite_v2",
       "tags": [
         "Tested & Functional",
         "Recommended"
-      ],
-      "archivedAt": 1751865463564,
-      "updatedAt": 1751865463564
+      ]
     }
   ],
   "category": "Full Systems"

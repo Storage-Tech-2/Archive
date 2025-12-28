@@ -9,7 +9,8 @@
       "id": "1387480002978910330",
       "name": "Hopperspeed Potion Type Filter",
       "code": "US002",
-      "timestamp": 1750973599550,
+      "archivedAt": 1750973599550,
+      "updatedAt": 1750973599550,
       "path": "US002_Hopperspeed_Potion_Type_Filter",
       "tags": [
         "Tested & Functional",
@@ -21,7 +22,8 @@
       "id": "1387513620413288608",
       "name": "Simple isBox/isPotion/isBook/isShearsOrFlint Filters",
       "code": "US003",
-      "timestamp": 1750969207691,
+      "archivedAt": 1750969207691,
+      "updatedAt": 1750969207691,
       "path": "US003_Simple_isBoxisPotionisBookisShearsOrFlint_Filters",
       "tags": [
         "Recommended",
@@ -35,7 +37,8 @@
       "id": "1391830251625250867",
       "name": "[1.17+] Bucked Mob Yeeter & Unstackable Axolotl Separator",
       "code": "US004",
-      "timestamp": 1751908823726,
+      "archivedAt": 1751908823726,
+      "updatedAt": 1751908823726,
       "path": "US004_1.17_Bucked_Mob_Yeeter__Unstackable_Axolotl_Separator",
       "tags": [
         "Tested & Functional"
@@ -45,7 +48,8 @@
       "id": "1408930228805304482",
       "name": "Reusable isNetherite Filter",
       "code": "US006",
-      "timestamp": 1755986425858,
+      "archivedAt": 1755986425858,
+      "updatedAt": 1755986425858,
       "path": "US006_Reusable_isNetherite_Filter",
       "tags": [
         "Tested & Functional",
@@ -57,7 +61,8 @@
       "id": "1412245946708005004",
       "name": "Duration-based Music Disc Sorter",
       "code": "US007",
-      "timestamp": 1756783359684,
+      "archivedAt": 1756783359684,
+      "updatedAt": 1756783359684,
       "path": "US007_Duration-based_Music_Disc_Sorter",
       "tags": [
         "Music Discs"
@@ -67,7 +72,8 @@
       "id": "1450264041565065238",
       "name": "Cactus Unstackable Sorter",
       "code": "US008",
-      "timestamp": 1765840627197,
+      "archivedAt": 1765840627197,
+      "updatedAt": 1765840627197,
       "path": "US008_Cactus_Unstackable_Sorter",
       "tags": [
         "Tested & Functional",

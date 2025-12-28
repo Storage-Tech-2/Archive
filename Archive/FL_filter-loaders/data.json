@@ -9,44 +9,42 @@
       "id": "1386091760710848542",
       "name": "2wt Minimal Prefill Filtered 4x Loader",
       "code": "FL001",
+      "archivedAt": 1766901938599,
+      "updatedAt": 1750565056538,
       "path": "FL001_2wt_Minimal_Prefill_Filtered_4x_Loader",
       "tags": [
         "Tested & Functional",
         "8X Hopperspeed",
         "4X Hopperspeed",
         "Recommended"
-      ],
-      "archivedAt": 1766901938599,
-      "updatedAt": 1766901938599
+      ]
     },
     {
       "id": "1386840858355040346",
       "name": "1wt 1x Precision Loader",
       "code": "FL002",
-      "timestamp": 1750719849119,
+      "archivedAt": 1750719849119,
+      "updatedAt": 1750719849119,
       "path": "FL002_1wt_1x_Precision_Loader",
       "tags": [
         "Tested & Functional",
         "1X Hopperspeed",
         "Slice Preserving",
         "Recommended"
-      ],
-      "archivedAt": 1750719849119,
-      "updatedAt": 1750719849119
+      ]
     },
     {
       "id": "1388000617972236458",
       "name": "Simple 1x Filtered Box Loader",
       "code": "FL003",
-      "timestamp": 1750997281473,
+      "archivedAt": 1750997281473,
+      "updatedAt": 1750997281473,
       "path": "FL003_Simple_1x_Filtered_Box_Loader",
       "tags": [
         "Recommended",
         "1X Hopperspeed",
         "Tested & Functional"
-      ],
-      "archivedAt": 1750997281473,
-      "updatedAt": 1750997281473
+      ]
     },
     {
       "id": "1399902816641749023",

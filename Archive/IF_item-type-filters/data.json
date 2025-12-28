@@ -9,7 +9,8 @@
       "id": "1386222661037985933",
       "name": "How to Use 1X Hopper Filters",
       "code": "IF001",
-      "timestamp": 1750571980621,
+      "archivedAt": 1750571980621,
+      "updatedAt": 1750571980621,
       "path": "IF001_How_to_Use_1X_Hopper_Filters",
       "tags": [
         "Guide",
@@ -21,7 +22,8 @@
       "id": "1386428992868978688",
       "name": "2wt High Speed Cart Filters",
       "code": "IF002",
-      "timestamp": 1750621110942,
+      "archivedAt": 1750621110942,
+      "updatedAt": 1750621110942,
       "path": "IF002_2wt_High_Speed_Cart_Filters",
       "tags": [
         "Cart Based",
@@ -33,7 +35,8 @@
       "id": "1386949283181494364",
       "name": "Signal Strength 2 (SS2) Signal Strength Isolated (SSI) Filter Chart & Tool",
       "code": "IF003",
-      "timestamp": 1750745429741,
+      "archivedAt": 1750745429741,
+      "updatedAt": 1750745429741,
       "path": "IF003_Signal_Strength_2_SS2_Signal_Strength_Isolated_SSI_Filter_Chart__Tool",
       "tags": [
         "Guide",

@@ -9,25 +9,24 @@
       "id": "1386933382579093594",
       "name": "Hopper Speed Shulker Box Grouper",
       "code": "VBS001",
+      "archivedAt": 1766904098806,
+      "updatedAt": 1750741216590,
       "path": "VBS001_Hopper_Speed_Shulker_Box_Grouper",
       "tags": [
         "Tested & Functional",
         "Recommended"
-      ],
-      "archivedAt": 1766904098806,
-      "updatedAt": 1766904098806
+      ]
     },
     {
       "id": "1401371516389687346",
       "name": "Unencoded Variable Box Temp",
       "code": "VBS002",
-      "timestamp": 1754184552012,
+      "archivedAt": 1754184552012,
+      "updatedAt": 1754184552012,
       "path": "VBS002_Unencoded_Variable_Box_Temp",
       "tags": [
         "Tested & Functional"
-      ],
-      "archivedAt": 1754184552012,
-      "updatedAt": 1754184552012
+      ]
     },
     {
       "id": "1439818384933130322",

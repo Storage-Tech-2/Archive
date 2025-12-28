@@ -9,7 +9,8 @@
       "id": "1386233426826231918",
       "name": "TIS Layout 10 Chest Hall V2",
       "code": "CH001",
-      "timestamp": 1750576185525,
+      "archivedAt": 1750576185525,
+      "updatedAt": 1750576185525,
       "path": "CH001_TIS_Layout_10_Chest_Hall_V2",
       "tags": [
         "Recommended",
@@ -22,7 +23,8 @@
       "id": "1386700520944832692",
       "name": "8 Chest Hall SS2/SS3",
       "code": "CH002",
-      "timestamp": 1750685720228,
+      "archivedAt": 1750685720228,
+      "updatedAt": 1750685720228,
       "path": "CH002_8_Chest_Hall_SS2SS3",
       "tags": [
         "SS3",
@@ -36,7 +38,8 @@
       "id": "1386923235257356421",
       "name": "1wABt 8 item 2dc SS2 Chest Hall",
       "code": "CH003",
-      "timestamp": 1750738755915,
+      "archivedAt": 1750738755915,
+      "updatedAt": 1750738755915,
       "path": "CH003_1wABt_8_item_2dc_SS2_Chest_Hall",
       "tags": [
         "Recommended",
@@ -49,7 +52,8 @@
       "id": "1386926358281715784",
       "name": "1wABt 10 Chest SS2 Hall",
       "code": "CH004",
-      "timestamp": 1751161587098,
+      "archivedAt": 1751161587098,
+      "updatedAt": 1751161587098,
       "path": "CH004_1wABt_10_Chest_SS2_Hall",
       "tags": [
         "Tested & Functional",
@@ -62,7 +66,8 @@
       "id": "1388550949571793120",
       "name": "Square UI 1wABt 10 item chest hall",
       "code": "CH005",
-      "timestamp": 1751289310557,
+      "archivedAt": 1751289310557,
+      "updatedAt": 1751289310557,
       "path": "CH005_Square_UI_1wABt_10_item_chest_hall",
       "tags": [
         "Tested & Functional",
@@ -74,7 +79,8 @@
       "id": "1388554841034592348",
       "name": "SS3 TIS Layout 10 Chest Hall",
       "code": "CH006",
-      "timestamp": 1751127805783,
+      "archivedAt": 1751127805783,
+      "updatedAt": 1751127805783,
       "path": "CH006_SS3_TIS_Layout_10_Chest_Hall",
       "tags": [
         "Tested & Functional",
@@ -87,7 +93,8 @@
       "id": "1388571718632607795",
       "name": "Leo Layout SS2 10 Chest Hall",
       "code": "CH007",
-      "timestamp": 1751289629002,
+      "archivedAt": 1751289629002,
+      "updatedAt": 1751289629002,
       "path": "CH007_Leo_Layout_SS2_10_Chest_Hall",
       "tags": [
         "Tested & Functional",
@@ -100,7 +107,8 @@
       "id": "1431352584203014316",
       "name": "1wABt 8 item 1dc SSI Chest Hal",
       "code": "CH008",
-      "timestamp": 1761491725510,
+      "archivedAt": 1761491725510,
+      "updatedAt": 1761491725510,
       "path": "CH008_1wABt_8_item_1dc_SSI_Chest_Hal",
       "tags": [
         "8 Chests",
@@ -112,7 +120,8 @@
       "id": "1447301140260851884",
       "name": "1wABt SS2 8 Chest Hall",
       "code": "CH009",
-      "timestamp": 1766001824684,
+      "archivedAt": 1766001824684,
+      "updatedAt": 1766001824684,
       "path": "CH009_1wABt_SS2_8_Chest_Hall",
       "tags": [
         "8 Chests",

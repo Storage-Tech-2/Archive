@@ -9,7 +9,8 @@
       "id": "1386860131861659668",
       "name": "1.8 Mil Bulk Storage",
       "code": "DH002",
-      "timestamp": 1750723730898,
+      "archivedAt": 1750723730898,
+      "updatedAt": 1750723730898,
       "path": "DH002_1.8_Mil_Bulk_Storage",
       "tags": [
         "Recommended",
@@ -21,7 +22,8 @@
       "id": "1386928511750770770",
       "name": "Fully Hopperlocked Compact Bulk Storage",
       "code": "DH003",
-      "timestamp": 1751043563047,
+      "archivedAt": 1751043563047,
+      "updatedAt": 1751043563047,
       "path": "DH003_Fully_Hopperlocked_Compact_Bulk_Storage",
       "tags": [
         "Tested & Functional",
@@ -33,7 +35,8 @@
       "id": "1387094139996209163",
       "name": "Pyra Quad Bulk",
       "code": "DH005",
-      "timestamp": 1751042228343,
+      "archivedAt": 1751042228343,
+      "updatedAt": 1751042228343,
       "path": "DH005_Pyra_Quad_Bulk",
       "tags": [
         "Tested & Functional",
@@ -44,7 +47,8 @@
       "id": "1386956182526230558",
       "name": "Box Sorter Quad Bulk",
       "code": "DH004",
-      "timestamp": 1766215457420,
+      "archivedAt": 1766215457420,
+      "updatedAt": 1766215457420,
       "path": "DH004_Box_Sorter_Quad_Bulk",
       "tags": [
         "Recommended",

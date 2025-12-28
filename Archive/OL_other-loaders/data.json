@@ -9,7 +9,8 @@
       "id": "1386466149700600048",
       "name": "8x Fullspeed Loader",
       "code": "OL001",
-      "timestamp": 1750631487535,
+      "archivedAt": 1750631487535,
+      "updatedAt": 1750631487535,
       "path": "OL001_8x_Fullspeed_Loader",
       "tags": [
         "Untested",
@@ -20,7 +21,8 @@
       "id": "1388556991462637648",
       "name": "Precision Hybrid Loader",
       "code": "OL002",
-      "timestamp": 1751128287837,
+      "archivedAt": 1751128287837,
+      "updatedAt": 1751128287837,
       "path": "OL002_Precision_Hybrid_Loader",
       "tags": [
         "Tested & Functional",
@@ -31,7 +33,8 @@
       "id": "1389410349618434228",
       "name": "Globally Clocked 3wt 6x Loader",
       "code": "OL003",
-      "timestamp": 1751331755696,
+      "archivedAt": 1751331755696,
+      "updatedAt": 1751331755696,
       "path": "OL003_Globally_Clocked_3wt_6x_Loader",
       "tags": [
         "Tested & Functional",

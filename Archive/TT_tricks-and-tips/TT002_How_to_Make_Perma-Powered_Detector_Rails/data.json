@@ -62,9 +62,14 @@
     "threadId": "1450277724685074452",
     "forumId": "1388657467508133928",
     "continuingMessageIds": [
-      "1450277729076383847"
+      "1450277729076383847",
+      "1454728697901879329"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1450277724685074452",
     "uploadMessageId": "1450277722713489448"
-  }
+  },
+  "references": [],
+  "author_references": [],
+  "archivedAt": 1765843553630,
+  "updatedAt": 1765843553630
 }

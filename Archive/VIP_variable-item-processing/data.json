@@ -9,7 +9,8 @@
       "id": "1386431947928244496",
       "name": "Global Reset Var Loaders",
       "code": "VIP001",
-      "timestamp": 1750621999017,
+      "archivedAt": 1750621999017,
+      "updatedAt": 1750621999017,
       "path": "VIP001_Global_Reset_Var_Loaders",
       "tags": [
         "Recommended",
@@ -20,7 +21,8 @@
       "id": "1386467829523550238",
       "name": "Variable cart filter",
       "code": "VIP002",
-      "timestamp": 1750631500111,
+      "archivedAt": 1750631500111,
+      "updatedAt": 1750631500111,
       "path": "VIP002_Variable_cart_filter",
       "tags": [
         "Untested"
@@ -30,7 +32,8 @@
       "id": "1387083566676181035",
       "name": "32X and 64X Compact Ideal Splitter",
       "code": "VIP003",
-      "timestamp": 1766292406993,
+      "archivedAt": 1766292406993,
+      "updatedAt": 1766292406993,
       "path": "VIP003_32X_and_64X_Compact_Ideal_Splitter",
       "tags": [
         "Tested & Functional",
@@ -41,7 +44,8 @@
       "id": "1388707866592149638",
       "name": "Mini Splitti Full Feature Set",
       "code": "VIP004",
-      "timestamp": 1751167744957,
+      "archivedAt": 1751167744957,
+      "updatedAt": 1751167744957,
       "path": "VIP004_Mini_Splitti_Full_Feature_Set",
       "tags": [
         "Tested & Functional",
@@ -52,7 +56,8 @@
       "id": "1397831329004912830",
       "name": "Variable Cart Ideal Output Splitter",
       "code": "VIP005",
-      "timestamp": 1753625937818,
+      "archivedAt": 1753625937818,
+      "updatedAt": 1753625937818,
       "path": "VIP005_Variable_Cart_Ideal_Output_Splitter",
       "tags": [
         "Broken"
@@ -62,6 +67,8 @@
       "id": "1450280312646140135",
       "name": "1wt Variable Item Entity Filter",
       "code": "VIP006",
+      "archivedAt": 1766904612610,
+      "updatedAt": 1765844692171,
       "path": "VIP006_1wt_Variable_Item_Entity_Filter",
       "tags": [
         "Tested & Functional",

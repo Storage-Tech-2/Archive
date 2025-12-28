@@ -10,7 +10,8 @@
       "id": "1397058574407958654",
       "name": "FHL Pumpkin based Chunkloader",
       "code": "CKL001",
-      "timestamp": 1753156502117,
+      "archivedAt": 1753156502117,
+      "updatedAt": 1753156502117,
       "path": "CKL001_FHL_Pumpkin_based_Chunkloader",
       "tags": [
         "Tested & Functional",
