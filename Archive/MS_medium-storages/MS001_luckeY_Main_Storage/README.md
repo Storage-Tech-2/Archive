@@ -32,8 +32,8 @@ A medium size storage system built for [luckeY](https://www.youtube.com/@luckeYp
 - Furnace array: https://youtu.be/ymCKHW-7HDg
 - Brewer: https://discord.com/channels/748542142347083868/748547221338849330/1150837060429688905 ([Join Storage Tech](https://discord.gg/JufJ6uf))
 - Crafting station: https://discord.com/channels/748542142347083868/749137321710059542/1112115542518673428 ([Join Storage Tech](https://discord.gg/JufJ6uf))
-- Shulker crafter: https://discord.com/channels/856232076252282890/1304497540481290410/1304497540481290410
-- Dispenser crafter: https://discord.com/channels/856232076252282890/1225739717010657280/1226644451825418362
+- Shulker crafter: https://discord.com/channels/856232076252282890/1304497540481290410/1304497540481290410 ([Join Autocrafting Archive](https://discord.gg/guZdbQ9KQe))
+- Dispenser crafter: https://discord.com/channels/856232076252282890/1225739717010657280/1226644451825418362 ([Join Autocrafting Archive](https://discord.gg/guZdbQ9KQe))
 
 ## Other Images
 <img src="images/adffsdfsdf.png?raw=1" height="300px">

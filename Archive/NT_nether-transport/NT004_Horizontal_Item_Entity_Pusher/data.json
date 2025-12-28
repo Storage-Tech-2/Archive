@@ -87,5 +87,17 @@
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1451624731391295743",
     "uploadMessageId": "1451623949036290274"
-  }
+  },
+  "references": [
+    {
+      "type": "archivedPost",
+      "id": "1387131489782857769",
+      "code": "NT001",
+      "url": "https://discord.com/channels/1375556143186837695/1388318627815493723",
+      "matches": [
+        "https://discordapp.com/channels/1375556143186837695/1388318627815493723"
+      ]
+    }
+  ],
+  "author_references": []
 }

@@ -255,7 +255,9 @@
       "message": "1304497540481290410",
       "matches": [
         "https://discord.com/channels/856232076252282890/1304497540481290410/1304497540481290410"
-      ]
+      ],
+      "serverName": "Autocrafting Archive",
+      "serverJoinURL": "https://discord.gg/guZdbQ9KQe"
     },
     {
       "type": "discordLink",
@@ -265,7 +267,9 @@
       "message": "1226644451825418362",
       "matches": [
         "https://discord.com/channels/856232076252282890/1225739717010657280/1226644451825418362"
-      ]
+      ],
+      "serverName": "Autocrafting Archive",
+      "serverJoinURL": "https://discord.gg/guZdbQ9KQe"
     }
   ],
   "author_references": []
