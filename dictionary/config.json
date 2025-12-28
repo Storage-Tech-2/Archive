@@ -559,10 +559,11 @@
       "id": "1454754810854244488",
       "terms": [
         "TPS",
+        "tps",
         "Ticks per second"
       ],
       "summary": "A measurement of how many gameticks are happening each second. The game normally operates at 20TPS, but if MSPT exceeds 50ms then the game will start to slow down. Mods such as Carpet Mod are able ...",
-      "updatedAt": 1766910976242
+      "updatedAt": 1766927342729
     },
     {
       "id": "1454754818777153576",
