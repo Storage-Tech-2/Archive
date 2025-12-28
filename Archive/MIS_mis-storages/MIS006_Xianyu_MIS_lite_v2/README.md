@@ -20,7 +20,7 @@ A beginner to intermediate cart-based [MIS](https://discord.com/channels/1375556
 - build simplicity and small amount of prefill
 - safety features such as blocker missing alarm and emergency stop
 ## Considerations
-- no hopperlocking
+- no [hopperlocking](https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422)
 - no [bulk storage](https://discord.com/channels/1375556143186837695/1454753523668484213/1454753524637499577)
 - no [unstackable sorter](https://discord.com/channels/1375556143186837695/1454754837379022858/1454754839224516712)
 - input [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) breaking not 100% precise

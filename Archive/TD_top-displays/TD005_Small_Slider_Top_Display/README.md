@@ -15,7 +15,7 @@ Designed for quad bulks with more space under the top display.
 - [Global](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) first [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) placement
 - Automatic box replacement when emptied
 ## Considerations
-- Hopperlocking is possible with a global dust line
+- [Hopperlocking](https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422) is possible with a global dust line
 - [1wABt](https://discord.com/channels/1375556143186837695/1454753732293033984/1454753733035687988) with alternating rails
 
 ## Resources

@@ -15,7 +15,7 @@
 - Box sorters use a special whitelisting keygen
 - Whitelister uses cart yeeting, hence 1.19+
 - 216 item types (can be reduced)
-- Fully hopperlocked
+- Fully [hopperlocked](https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422)
 ## Considerations
 - Top displays can break if activated rapidly, make sure [global](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) box placement is triggered only after sorting is completed.
 ## Notes

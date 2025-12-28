@@ -13,7 +13,7 @@ Breaks the [box](https://discord.com/channels/1375556143186837695/14548060183482
 ## Features
 - Automatic box replacement when emptied
 - Drop-down layout gives more space below for a secondary bottom display
-- Full hopperlocking is possible
+- Full [hopperlocking](https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422) is possible
 ## Considerations
 - Hopperlocking dust line must be disabled globally within 20 [gt](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) of a box being emptied.  May require gaps to extend redstone line.
 ## Notes

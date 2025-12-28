@@ -11,7 +11,7 @@
 
 Hybrid hall containing a composter based hybrid [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) [loader](https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720) that allows for accessing items being loaded in boxes without a call feature.
 ## Features
-- Fully hopperlocked
+- Fully [hopperlocked](https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422)
 - 2 x 212.5k items in bulk, and another 4.7k in loose items, per [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261).
 - Composter based hybrid loader with reliable box collection
 - [SS](https://discord.com/channels/1375556143186837695/1454754774833696893/1454754775542267957)2 independent filters

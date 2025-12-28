@@ -17,7 +17,7 @@ A medium size storage system built for [luckeY](https://www.youtube.com/@luckeYp
 - Unstackable sorter
 - Allay sorter
 - Parallel item unloading
-- 85% hopperlocking
+- 85% [hopperlocking](https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422)
 - Peripherals (furnace array, brewer, crafting station, shulker crafter, dispenser crafter)
 ## Considerations
 - Boxes can despawn if too many boxes are input

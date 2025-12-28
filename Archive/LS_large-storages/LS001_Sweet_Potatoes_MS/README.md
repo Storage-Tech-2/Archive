@@ -11,7 +11,7 @@
 
 A fairly large storage system that utilizes a parallel unloading array allowing the system to unload at a max of [8x](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294) hopper speed.
 ## Features
-- ~90% Hopperlocked
+- ~90% [Hopperlocked](https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422)
 - Has various peripherals: restock stations, furnace array, crafting station, and yeeting station, masscrafter, brewer, and [unstackable sorter](https://discord.com/channels/1375556143186837695/1454754837379022858/1454754839224516712)
 - Has a concrete duper in the middle of the storage (This was requested, can easily be omitted in the building process)
 - Has a big bulk with capacity for ~1.3m / item.

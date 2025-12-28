@@ -12,7 +12,7 @@
 A compact [MIS](https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954) system using MIS 5.1 and hybrid [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) loaders, acting as bulk (97k capacity per bulk item, with overflow protection).
 ## Features
 - Input full boxes and loose items in the same place
-- 896 Hoppers, 75% Hopperlocked
+- 896 Hoppers, 75% [Hopperlocked](https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422)
 - Compact system (29x29x35), fits under a single chunk [loader](https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720) with no chunk alignment.
 - Included item layout which sorts all items.
 - Runs at [hopper speed](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294), with a gap between item types

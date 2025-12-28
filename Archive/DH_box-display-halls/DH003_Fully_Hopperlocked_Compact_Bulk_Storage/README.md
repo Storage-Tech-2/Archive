@@ -11,7 +11,7 @@
 
 Item bulk with [box display](https://discord.com/channels/1375556143186837695/1454753497638506689/1454753498494144522) capable of storing 1.4 million items per half [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261).
 ## Features
-- 100% hopperlocked
+- 100% [hopperlocked](https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422)
 - 1.4 million items per half slice
 - Togglestateless
 - Compact (17x35x21), sticks out 3 blocks from the first slice and 2 from the last

@@ -19,7 +19,7 @@
 - Noteblock may need 2 clicks to place the 1st box
 - Boxes are buffered in the accessible dropper/hopper
 ## Notes
-[Box collection](https://discord.com/channels/1375556143186837695/1454805930670559326/1454805932532830268) isn't 100% reliable in the [schematic](https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487) but can be made reliable with this layout without hopperlocking the collection hoppers.
+[Box collection](https://discord.com/channels/1375556143186837695/1454805930670559326/1454805932532830268) isn't 100% reliable in the [schematic](https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487) but can be made reliable with this layout without [hopperlocking](https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422) the collection hoppers.
 
 ## Resources
 - [OD003_Noteblock_Box_Display.litematic](attachments/OD003_Noteblock_Box_Display.litematic): MC 1.18.2, Size 7x8x2 blocks

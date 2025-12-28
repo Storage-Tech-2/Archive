@@ -12,7 +12,7 @@
 Allows players to input loose items and bulk boxes for separate processing. Includes manual [mixed loader](https://discord.com/channels/1375556143186837695/1454753713024405588/1454753714144411649) display as another input method.
 ## Features
 - Minimum piston and hopper count
-- Fully hopperlocked
+- Fully [hopperlocked](https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422)
 - Manual [loader](https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720) for loose items, [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) won't break until items are inputted
 - Small, 5x5x7 footprint (excluding signs and floor)
 ## Notes

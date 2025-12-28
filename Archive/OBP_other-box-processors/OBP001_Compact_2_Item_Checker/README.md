@@ -14,7 +14,7 @@ Device filters shulker boxes with at least 2 stackable items of the same type. U
 - 1 [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) every 36[gt](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) throughput
 - Small size ([4x](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294)5x5)
 - Works with random input
-- Can be fully hopperlocked
+- Can be fully [hopperlocked](https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422)
 ## Notes
 isBoxEmpty and isItemUnstackable signal outputs for additional processing (box routing is left to the discretion of the user)
 

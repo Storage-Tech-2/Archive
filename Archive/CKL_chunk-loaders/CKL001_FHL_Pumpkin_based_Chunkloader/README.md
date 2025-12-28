@@ -12,7 +12,7 @@
 Using pumpkin items shot through nether portals, loads a 3x3 chunk area around the device as entity ticking and a 5x5 chunk area as redstone ticking.
 ## Features
 - 5x4x7 size using 3x3 portals
-- Fully hopperlocked when idle
+- Fully [hopperlocked](https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422) when idle
 - Status output: Items returning from the nether side maintain the fader
 ## Considerations
 - The chunk [loader](https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720) will not work in 1.21.5 specifically due to the portal hitbox change.
