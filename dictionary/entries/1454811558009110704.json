@@ -7,9 +7,9 @@
   "definition": "Typically a .litematic file or a .schematic file in older versions or with different mods than litematica. It is a blueprint that tells you how to build redstone builds, tells you what materials you need and verify that you built it correctly - https://modrinth.com/mod/litematica",
   "threadURL": "https://discord.com/channels/1375556143186837695/1454811558009110704",
   "statusURL": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
-  "status": "PENDING",
+  "status": "APPROVED",
   "statusMessageID": "1454811560626356487",
-  "updatedAt": 1766924568640,
+  "updatedAt": 1766924588675,
   "references": [],
   "referencedBy": []
 }

@@ -652,6 +652,15 @@
       ],
       "summary": "Abbreviation of Shulker Box (Invariant of color)",
       "updatedAt": 1766924366997
+    },
+    {
+      "id": "1454811558009110704",
+      "terms": [
+        "Schematic",
+        "Litematic"
+      ],
+      "summary": "Typically a .litematic file or a .schematic file in older versions or with different mods than litematica. It is a blueprint that tells you how to build redstone builds, tells you what materials yo...",
+      "updatedAt": 1766924588675
     }
   ]
 }
