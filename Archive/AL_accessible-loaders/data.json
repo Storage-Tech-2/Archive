@@ -3,7 +3,7 @@
   "name": "accessible-loaders",
   "code": "AL",
   "description": "Box loaders where you can access the box it's loading",
-  "currentCodeId": 5,
+  "currentCodeId": 6,
   "entries": [
     {
       "id": "1386250599326285874",
@@ -52,6 +52,18 @@
       "path": "AL005_Simple_1x_Accessible_Box_Loader",
       "tags": [
         "Tested & Functional"
+      ]
+    },
+    {
+      "id": "1452998276239462410",
+      "name": "Hidden Shulker Loader V3",
+      "code": "AL006",
+      "archivedAt": 1766920966152,
+      "updatedAt": 1766920966152,
+      "path": "AL006_Hidden_Shulker_Loader_V3",
+      "tags": [
+        "Tested & Functional",
+        "Untested"
       ]
     }
   ],
