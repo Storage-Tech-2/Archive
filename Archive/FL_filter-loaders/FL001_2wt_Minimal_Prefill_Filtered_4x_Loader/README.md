@@ -15,7 +15,7 @@ Filters then loads items into boxes at 4x hopperspeed. Only requires prefilling 
 - Relatively small footprint (SS3: 6x9x2; SSI: 7x10x2)
 - Minimal prefilling needed when setting up, only 64+1 of the desired item. Prefill [like so](https://discord.com/channels/748542142347083868/869352287708012634/869591141065039962) ([Join Storage Tech](https://discord.gg/JufJ6uf)).
 ## Considerations
-- An empty box needs to be put into the dispenser when first setting up
+- An empty box needs to [be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680) put into the dispenser when first setting up
 ## Notes
 You can find a different design suited for larger quantities of items in the thread.
 

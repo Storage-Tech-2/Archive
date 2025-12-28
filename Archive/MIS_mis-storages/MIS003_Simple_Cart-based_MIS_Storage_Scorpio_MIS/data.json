@@ -79,6 +79,15 @@
   },
   "references": [
     {
+      "type": "dictionaryTerm",
+      "term": "mis",
+      "id": "1454753725091676293",
+      "url": "https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954",
+      "matches": [
+        "MIS"
+      ]
+    },
+    {
       "type": "discordLink",
       "url": "https://discord.com/channels/1161803566265143306/1378802569585098823",
       "server": "1161803566265143306",
@@ -88,6 +97,60 @@
       ],
       "serverName": "TMC Catalogue",
       "serverJoinURL": "https://discord.com/invite/tvpccRczWx"
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "unloader",
+      "id": "1454754824758493380",
+      "url": "https://discord.com/channels/1375556143186837695/1454754824758493380/1454754825345433803",
+      "matches": [
+        "unloader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "bulk storage",
+      "id": "1454753523668484213",
+      "url": "https://discord.com/channels/1375556143186837695/1454753523668484213/1454753524637499577",
+      "matches": [
+        "bulk storage"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "mixed box",
+      "id": "1454753707530129576",
+      "url": "https://discord.com/channels/1375556143186837695/1454753707530129576/1454753708247089184",
+      "matches": [
+        "mixed box"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "be",
+      "id": "1454754788473307200",
+      "url": "https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680",
+      "matches": [
+        "be"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "t",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "t"
+      ]
     }
   ],
   "author_references": [],

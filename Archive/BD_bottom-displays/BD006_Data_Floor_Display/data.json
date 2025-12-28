@@ -127,7 +127,17 @@
     "attachmentMessageId": "1388178213347528886",
     "uploadMessageId": "1388178203239121006"
   },
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "local",
+      "id": "1454753648574992557",
+      "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
+      "matches": [
+        "Local"
+      ]
+    }
+  ],
   "author_references": [],
   "archivedAt": 1754180730718,
   "updatedAt": 1754180730718

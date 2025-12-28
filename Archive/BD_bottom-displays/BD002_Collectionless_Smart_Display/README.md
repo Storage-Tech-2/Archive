@@ -13,7 +13,7 @@ A small display without empty box collection that breaks the box only when empty
 ## Features
 - Small (6x6)
 - Smart box breaking, only breaks it when empty and closed
-- Global first box placement
+- [Global](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) first box placement
 - Minimum hoppers, fully locked
 ## Considerations
 - When triggering while the display is replacing a box, the global first box placement can cause it to break a newly dispensed full box

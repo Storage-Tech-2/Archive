@@ -8,7 +8,26 @@
   "threadURL": "https://discord.com/channels/1375556143186837695/1454753468966506558",
   "statusURL": "https://discord.com/channels/1375556143186837695/1454753468966506558/1454753470643961980",
   "status": "APPROVED",
+  "statusMessageID": "1454753470643961980",
   "updatedAt": 1766910656234,
-  "references": [],
-  "statusMessageID": "1454753470643961980"
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "tick",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "tick"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "be",
+      "id": "1454754788473307200",
+      "url": "https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680",
+      "matches": [
+        "be"
+      ]
+    }
+  ]
 }

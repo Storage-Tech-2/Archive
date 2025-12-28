@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388316710444208262)
 
-A small box loader in which the box can be opened while being loaded. Adding 2 hoppers can make the box loader 2x speed, but the box will no longer be accessible.
+A small box [loader](https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720) in which the box can [be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680) opened while being loaded. Adding 2 hoppers can make the box loader 2x speed, but the box will no longer be accessible.
 
 Included are also versions that have built in box crafters instead of empty box supply
 ## Features

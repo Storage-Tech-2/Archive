@@ -16,7 +16,7 @@
 - Uses only 4 block types (Including the Ice
 ## Considerations
 - Uses a boat for float aligning item entities.
-- Toggle state
+- [Toggle state](https://discord.com/channels/1375556143186837695/1454754804252282910/1454754804881428533)
 ## Instructions
 Refer to video for boat placement instructions.
 ## Compatibility

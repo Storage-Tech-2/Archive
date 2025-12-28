@@ -94,7 +94,26 @@
     "attachmentMessageId": "1388179678853857491",
     "uploadMessageId": "1388179672063541339"
   },
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "bit",
+      "id": "1454753462171734026",
+      "url": "https://discord.com/channels/1375556143186837695/1454753462171734026/1454753462905737238",
+      "matches": [
+        "bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "pistonless",
+      "id": "1454753777348251728",
+      "url": "https://discord.com/channels/1375556143186837695/1454753777348251728/1454753777763749963",
+      "matches": [
+        "pistonless"
+      ]
+    }
+  ],
   "author_references": [],
   "archivedAt": 1750626744139,
   "updatedAt": 1750626744139

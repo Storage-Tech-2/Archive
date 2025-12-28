@@ -102,7 +102,44 @@
     "threadURL": "https://discord.com/channels/1375556143186837695/1450420192743264420",
     "uploadMessageId": "1450420186472644608"
   },
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "bulk storage",
+      "id": "1454753523668484213",
+      "url": "https://discord.com/channels/1375556143186837695/1454753523668484213/1454753524637499577",
+      "matches": [
+        "bulk storage"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "be",
+      "id": "1454754788473307200",
+      "url": "https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680",
+      "matches": [
+        "be"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "unloader",
+      "id": "1454754824758493380",
+      "url": "https://discord.com/channels/1375556143186837695/1454754824758493380/1454754825345433803",
+      "matches": [
+        "unloader"
+      ]
+    }
+  ],
   "author_references": [],
   "archivedAt": 1765877519710,
   "updatedAt": 1765877519710

@@ -16,9 +16,9 @@ Unloads boxes at 2X hopperspeed (18000 items/hr).
 - 16gt interval per box for continuous input
 - No toggle states
 ## Considerations
-- Uses a static cart in each slice
+- Uses a static cart in each [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261)
 ## Notes
-If you don't continuously lock the hopper(&cart) under the box, when there is no box unloading in this slice, the adjacent slice box may get into it when breaking box.
+If you don'[t](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) continuously lock the hopper(&cart) under the box, when there is no box unloading in this slice, the adjacent slice box may get into it when breaking box.
 
 ## Resources
 - [BU002_2x_unloader.litematic](attachments/BU002_2x_unloader.litematic): MC 1.20.4, Size 1x8x5 blocks

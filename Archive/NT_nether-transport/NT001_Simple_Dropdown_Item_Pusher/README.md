@@ -9,9 +9,9 @@
 
 12gt clockable dropdown item pusher. Useful for pushing items on ice in the nether. All the pistons are sticky. Probably not unload safe. Use string + observers instead of noteblock/observer/repeater trigger to make it automatically fire when item comes.
 ## Features
-- Simple, 12 gt clockable design
+- Simple, 12 [gt](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) clockable design
 ## Considerations
-- Togglestate
+- [Togglestate](https://discord.com/channels/1375556143186837695/1454754804252282910/1454754804881428533)
 
 ## Resources
 - [NT001_dropdown_item_pusher.litematic](attachments/NT001_dropdown_item_pusher.litematic): MC 1.17.1, Size 4x3x1 blocks

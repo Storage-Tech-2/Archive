@@ -87,7 +87,17 @@
     "attachmentMessageId": "1388177497010602035",
     "uploadMessageId": "1388177489800724491"
   },
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    }
+  ],
   "author_references": [],
   "archivedAt": 1751005255449,
   "updatedAt": 1751005255449

@@ -152,6 +152,34 @@
   },
   "references": [
     {
+      "type": "dictionaryTerm",
+      "term": "mis",
+      "id": "1454753725091676293",
+      "url": "https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954",
+      "matches": [
+        "MIS"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "unstackable sorter",
+      "id": "1454754837379022858",
+      "url": "https://discord.com/channels/1375556143186837695/1454754837379022858/1454754839224516712",
+      "matches": [
+        "unstackable sorter",
+        "Unstackable sorter"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "peripheral",
+      "id": "1454753771035824158",
+      "url": "https://discord.com/channels/1375556143186837695/1454753771035824158/1454753771555913873",
+      "matches": [
+        "peripheral"
+      ]
+    },
+    {
       "type": "discordLink",
       "url": "https://discord.com/channels/748542142347083868/1074320036958846986/1075193549101993985",
       "server": "748542142347083868",
@@ -162,6 +190,15 @@
       ],
       "serverName": "Storage Tech",
       "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "unloader",
+      "id": "1454754824758493380",
+      "url": "https://discord.com/channels/1375556143186837695/1454754824758493380/1454754825345433803",
+      "matches": [
+        "Unloader"
+      ]
     },
     {
       "type": "discordLink",
@@ -222,6 +259,15 @@
       ],
       "serverName": "Storage Tech",
       "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "be",
+      "id": "1454754788473307200",
+      "url": "https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680",
+      "matches": [
+        "be"
+      ]
     },
     {
       "type": "discordLink",

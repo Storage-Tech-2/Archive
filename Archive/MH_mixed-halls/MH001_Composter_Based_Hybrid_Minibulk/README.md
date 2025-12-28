@@ -9,20 +9,20 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317585392668763)
 
-Hybrid hall containing a composter based hybrid box loader that allows for accessing items being loaded in boxes without a call feature.
+Hybrid hall containing a composter based hybrid box [loader](https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720) that allows for accessing items being loaded in boxes without a call feature.
 ## Features
 - Fully hopperlocked
-- 2 x 212.5k items in bulk, and another 4.7k in loose items, per slice.
+- 2 x 212.5k items in bulk, and another 4.7k in loose items, per [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261).
 - Composter based hybrid loader with reliable box collection
 - SS2 independent filters
 - compact, AB tiled, filters are ABCD tiled, AB tiled for v3.1W
 - low hopper count (28, 14 per half slice)
-- global box placement
+- [global](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) box placement
 ## Considerations
 - 6 stack buffer(with shulkerboxes in hopper pointing into shulker. included in shematic)
-- hopperlocking must be activated in a specific order(this is already prepared in the prebuilt version)
+- hopperlocking must [be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680) activated in a specific order(this is already prepared in the prebuilt version)
 - a lot of composter prefill(v3.1W does not have as much)
-- UI may be a little cramped for some(does not apply to v3.1W)
+- [UI](https://discord.com/channels/1375556143186837695/1454754844316274861/1454754845033627671) may be a little cramped for some(does not apply to v3.1W)
 - requires a lot of attention to detail for the tiling
 ## Notes
 Original unsorted post: https://discord.com/channels/748542142347083868/1203099749746475088/1308614543894642760 ([Join Storage Tech](https://discord.gg/JufJ6uf))

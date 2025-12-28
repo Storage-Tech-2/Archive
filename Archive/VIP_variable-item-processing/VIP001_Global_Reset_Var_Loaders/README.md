@@ -9,14 +9,14 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318311779139598)
 
-Automatically sets filters based on what items come to each slice first, and loads them into single-type boxes. All filters are simultaneously reset when item stream stops.
+Automatically sets filters based on what items come to each [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261) first, and loads them into single-type boxes. All filters are simultaneously reset when item stream stops.
 ## Features
 - Butterfly tiled (2 wide tileable slices with 2 filters in each)
 - Ejects partial boxes on reset
 - Burns items when boxes are low
-- Fullspeed breaking prevents backups in the loader
+- Fullspeed breaking prevents backups in the [loader](https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720)
 - Failed boxplacements due to unloading are fixed on reset
-- Loaders can also be reset while items come in
+- Loaders can also [be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680) reset while items come in
 ## Notes
 Filters are setup with 0-19-1-1-1 dummy items in the filter hoppers.
 

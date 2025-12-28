@@ -12,27 +12,27 @@
 A fairly large storage system that utilizes a parallel unloading array allowing the system to unload at a max of 8x hopper speed.
 ## Features
 - ~90% Hopperlocked
-- Has various peripherals: restock stations, furnace array, crafting station, and yeeting station, masscrafter, brewer, and unstackable sorter
-- Has a concrete duper in the middle of the storage (This was requested, can easily be omitted in the building process)
+- Has various peripherals: restock stations, furnace array, crafting station, and yeeting station, masscrafter, brewer, and [unstackable sorter](https://discord.com/channels/1375556143186837695/1454754837379022858/1454754839224516712)
+- Has a concrete duper in the middle of the storage (This was requested, can easily [be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680) omitted in the building process)
 - Has a big bulk with capacity for ~1.3m / item.
 - Has 1 DC capacity chest halls with SS2 filters.
-- Uses MIS 5.1
+- Uses [MIS](https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954) 5.1
 ## Considerations
 - This system requires you to have Carpet's `stackableShulkerBoxes` rule enabled and subsequently Kikugie's StackableShulkerFix.
 ## Notes
 Tested for ~400k items without issues
 ## Sourced components
-- Chest Hall: [CH002](https://discord.com/channels/1375556143186837695/1388317417385758770)
+- [Chest Hall](https://discord.com/channels/1375556143186837695/1454753529700024331/1454753530488426527): [CH002](https://discord.com/channels/1375556143186837695/1388317417385758770)
 - Bulk: [PyraLeft's new bulk](https://discord.com/channels/614934109751345153/731632393315942531/1327412377406148628)
 - Parallel Unloading Array: https://discord.com/channels/748542142347083868/1241919346477891684 ([Join Storage Tech](https://discord.gg/JufJ6uf))
-- 6x Full Clearance Loader: [ML002](https://discord.com/channels/1375556143186837695/1388316771832041482)
+- 6x Full Clearance [Loader](https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720): [ML002](https://discord.com/channels/1375556143186837695/1388316771832041482)
 - Chunkloader: https://discord.com/channels/748542142347083868/748547221338849330/1127706483723882537 ([Join Storage Tech](https://discord.gg/JufJ6uf))
 - Stacked Box Storage: https://discord.com/channels/748542142347083868/1182473535566921788/1182476705714147348 ([Join Storage Tech](https://discord.gg/JufJ6uf))
 - Colored Box Crafter: [AC001](https://discord.com/channels/1375556143186837695/1388318423427059806)
 - 1x Loader: [FL002](https://discord.com/channels/1375556143186837695/1388316649903624192)
 - MIS: https://discord.com/channels/748542142347083868/1114672908065837148/1119002430688997386 ([Join Storage Tech](https://discord.gg/JufJ6uf))
 - Unstackable Sorter: https://discord.com/channels/748542142347083868/1286267762360188958/1286268041662824471 ([Join Storage Tech](https://discord.gg/JufJ6uf))
-- Buffer Box Display: https://discord.com/channels/748542142347083868/1120296660543746138/1187751207108882563 ([Join Storage Tech](https://discord.gg/JufJ6uf))
+- Buffer [Box Display](https://discord.com/channels/1375556143186837695/1454753497638506689/1454753498494144522): https://discord.com/channels/748542142347083868/1120296660543746138/1187751207108882563 ([Join Storage Tech](https://discord.gg/JufJ6uf))
 - Brewer: [MineBrew](https://discord.com/channels/614934109751345153/1299123456239206461)
 - Furnace Array: [FA001](https://discord.com/channels/1375556143186837695/1388318507229249557)
 - Crafting Station: https://discord.com/channels/748542142347083868/1112115542518673428/1188490793401458761 ([Join Storage Tech](https://discord.gg/JufJ6uf))

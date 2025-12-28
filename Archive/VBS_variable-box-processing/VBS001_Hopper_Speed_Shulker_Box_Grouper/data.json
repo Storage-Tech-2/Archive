@@ -85,6 +85,15 @@
   },
   "references": [
     {
+      "type": "dictionaryTerm",
+      "term": "t",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "t"
+      ]
+    },
+    {
       "type": "discordLink",
       "url": "https://discord.com/channels/748542142347083868/749136504558714982/1315103045763207248",
       "server": "748542142347083868",

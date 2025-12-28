@@ -9,7 +9,17 @@
   "threadURL": "https://discord.com/channels/1375556143186837695/1454753562033651876",
   "statusURL": "https://discord.com/channels/1375556143186837695/1454753562033651876/1454753563258519584",
   "status": "APPROVED",
+  "statusMessageID": "1454753563258519584",
   "updatedAt": 1766910678471,
-  "references": [],
-  "statusMessageID": "1454753563258519584"
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "gametick",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gametick"
+      ]
+    }
+  ]
 }

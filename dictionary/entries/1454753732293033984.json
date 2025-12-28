@@ -9,7 +9,27 @@
   "threadURL": "https://discord.com/channels/1375556143186837695/1454753732293033984",
   "statusURL": "https://discord.com/channels/1375556143186837695/1454753732293033984/1454753733035687988",
   "status": "APPROVED",
+  "statusMessageID": "1454753733035687988",
   "updatedAt": 1766910718559,
-  "references": [],
-  "statusMessageID": "1454753733035687988"
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "n-wide tileable",
+      "id": "1454753738425368687",
+      "url": "https://discord.com/channels/1375556143186837695/1454753738425368687/1454753741785010208",
+      "matches": [
+        "n-Wide tileable"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "Slice",
+        "slice"
+      ]
+    }
+  ]
 }

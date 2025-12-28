@@ -17,7 +17,7 @@ A device that moves items at a rate of 10 blocks per second, allows for timing r
 - Average motion is 0.499750482
 - Tested for 1600 blocks
 ## Notes
-Item should be aligned against the slime block.
+Item should [be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680) aligned against the slime block.
 
 ## Resources
 - [WT003_10bps_waterstream.litematic](attachments/WT003_10bps_waterstream.litematic): MC 1.21.4, Size 13x3x1 blocks

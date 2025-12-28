@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1391808083189170357)
 
-Box display that places the 1st box when you click the noteblock, reducing size and manual effort.
+[Box display](https://discord.com/channels/1375556143186837695/1454753497638506689/1454753498494144522) that places the 1st box when you click the noteblock, reducing size and manual effort.
 ## Features
 - Fully hopper locked, minimum hoppers
 - Fast replacement with clean animation
@@ -19,7 +19,7 @@ Box display that places the 1st box when you click the noteblock, reducing size 
 - Noteblock may need 2 clicks to place the 1st box
 - Boxes are buffered in the accessible dropper/hopper
 ## Notes
-Box collection isn't 100% reliable in the schematic but can be made reliable with this layout without hopperlocking the collection hoppers.
+Box collection isn'[t](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) 100% reliable in the schematic but can [be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680) made reliable with this layout without hopperlocking the collection hoppers.
 
 ## Resources
 - [OD003_Noteblock_Box_Display.litematic](attachments/OD003_Noteblock_Box_Display.litematic): MC 1.18.2, Size 7x8x2 blocks

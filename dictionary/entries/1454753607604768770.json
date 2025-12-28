@@ -9,7 +9,17 @@
   "threadURL": "https://discord.com/channels/1375556143186837695/1454753607604768770",
   "statusURL": "https://discord.com/channels/1375556143186837695/1454753607604768770/1454753609131495434",
   "status": "APPROVED",
+  "statusMessageID": "1454753609131495434",
   "updatedAt": 1766910689014,
-  "references": [],
-  "statusMessageID": "1454753609131495434"
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "box separator",
+      "id": "1454753502818599097",
+      "url": "https://discord.com/channels/1375556143186837695/1454753502818599097/1454753503775031296",
+      "matches": [
+        "Box Separator"
+      ]
+    }
+  ]
 }

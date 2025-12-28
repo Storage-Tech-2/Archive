@@ -9,10 +9,10 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1392582196652675092)
 
-Single hopper-speed loader with easy access to the box and most of the redstone away from the access side.
+Single hopper-speed [loader](https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720) with easy access to the box and most of the redstone away from the access side.
 ## Features
 - One wide tileable
-- slice preserving
+- [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261) preserving
 - 100% reliable collection
 ## Notes
 Alternate honey and slime to tile.

@@ -82,7 +82,17 @@
     "threadURL": "https://discord.com/channels/1375556143186837695/1388665299418480761",
     "uploadMessageId": "1388665296449179710"
   },
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "aligner",
+      "id": "1454753442471084134",
+      "url": "https://discord.com/channels/1375556143186837695/1454753442471084134/1454753443678916638",
+      "matches": [
+        "aligner"
+      ]
+    }
+  ],
   "author_references": [],
   "archivedAt": 1751383278024,
   "updatedAt": 1751383278024

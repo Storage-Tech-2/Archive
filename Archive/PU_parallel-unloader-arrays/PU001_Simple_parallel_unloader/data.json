@@ -96,7 +96,26 @@
     "attachmentMessageId": "1388179221599223853",
     "uploadMessageId": "1388179211591614506"
   },
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "unloader",
+      "id": "1454754824758493380",
+      "url": "https://discord.com/channels/1375556143186837695/1454754824758493380/1454754825345433803",
+      "matches": [
+        "unloader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "t",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "t"
+      ]
+    }
+  ],
   "author_references": [],
   "archivedAt": 1750628874967,
   "updatedAt": 1750628874967

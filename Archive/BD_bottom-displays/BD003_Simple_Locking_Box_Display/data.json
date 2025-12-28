@@ -78,7 +78,53 @@
     "attachmentMessageId": "1388178117851615334",
     "uploadMessageId": "1388178111866339440"
   },
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "box display",
+      "id": "1454753497638506689",
+      "url": "https://discord.com/channels/1375556143186837695/1454753497638506689/1454753498494144522",
+      "matches": [
+        "box display"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "t",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "t"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "box detection",
+      "id": "1454753490936266762",
+      "url": "https://discord.com/channels/1375556143186837695/1454753490936266762/1454753491787452438",
+      "matches": [
+        "box detection"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "be",
+      "id": "1454754788473307200",
+      "url": "https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680",
+      "matches": [
+        "be"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    }
+  ],
   "author_references": [],
   "archivedAt": 1750969815969,
   "updatedAt": 1750969815969

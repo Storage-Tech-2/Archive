@@ -9,21 +9,21 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1399908195421388800)
 
-This filtered shulker box array is fully hopperlocked and uses only 4 hoppers in each slice.
+This filtered shulker box array is fully hopperlocked and uses only 4 hoppers in each [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261).
 ## Features
 - Fully hopperlocked
 - Low hopper count: 4 hoppers/slice
 - 9x9 Size
 - Signal strength independent filters
 - Water collection
-- Can be stacked vertically (128x hopperspeed 2x2 layout schematic included)
+- Can [be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680) stacked vertically (128x hopperspeed 2x2 layout schematic included)
 ## Considerations
-- While there is a 1x loader every 1 wide slice, you need to AB tile 2 wide slices containing 2 loaders at a time.
+- While there is a 1x [loader](https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720) every 1 wide slice, you need to AB tile 2 wide slices containing 2 loaders at a time.
 - Waterstream box distribution is required
 - Waterstream requires gaps in ice for hopperlocking
 ## Notes
 - The base schematic contains a 32x hopperspeed capacity.
-- Empty boxes dispensing is triggered when a full box is output with a 1:1 ratio. If you run out of boxes, you will have to manually dump in empty boxes in the box distribution stream to refill the loaders. Global call based distribution coming soon:tm:
+- Empty boxes dispensing is triggered when a full box is output with a 1:1 ratio. If you run out of boxes, you will have to manually dump in empty boxes in the box distribution stream to refill the loaders. [Global](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) call based distribution coming soon:tm:
 - Inspired by https://discord.com/channels/748542142347083868/749137424684285992/1227104372878741596 ([Join Storage Tech](https://discord.gg/JufJ6uf))
 ## Instructions
 1. Setup hopper filters

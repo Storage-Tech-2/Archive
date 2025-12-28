@@ -112,6 +112,24 @@
   },
   "references": [
     {
+      "type": "dictionaryTerm",
+      "term": "t",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "t"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
       "type": "discordLink",
       "url": "https://discord.com/channels/594920796867133446/594968639321538560/917049843711631400",
       "server": "594920796867133446",
@@ -132,6 +150,33 @@
       ],
       "serverName": "Storage Tech",
       "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "hex",
+      "id": "1454753655063580723",
+      "url": "https://discord.com/channels/1375556143186837695/1454753655063580723/1454753656326062249",
+      "matches": [
+        "hex"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "directional",
+      "id": "1454753554815389834",
+      "url": "https://discord.com/channels/1375556143186837695/1454753554815389834/1454753555566166029",
+      "matches": [
+        "directional"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "be",
+      "id": "1454754788473307200",
+      "url": "https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680",
+      "matches": [
+        "be"
+      ]
     },
     {
       "type": "discordLink",
@@ -180,6 +225,15 @@
       ],
       "serverName": "Storage Tech",
       "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "box sorter",
+      "id": "1454753516269736090",
+      "url": "https://discord.com/channels/1375556143186837695/1454753516269736090/1454753518383792221",
+      "matches": [
+        "Box sorter"
+      ]
     },
     {
       "type": "discordLink",

@@ -11,7 +11,7 @@
 
 A floor display that uses soul sand to collect the empty box in a water stream.
 ## Features
-- Global first box placement
+- [Global](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) first box placement
 - Collectionful
 - 1 hopper, locked
 - Buffers 1 box in the hopper

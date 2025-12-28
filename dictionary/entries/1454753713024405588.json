@@ -7,7 +7,17 @@
   "threadURL": "https://discord.com/channels/1375556143186837695/1454753713024405588",
   "statusURL": "https://discord.com/channels/1375556143186837695/1454753713024405588/1454753714144411649",
   "status": "APPROVED",
+  "statusMessageID": "1454753714144411649",
   "updatedAt": 1766910714284,
-  "references": [],
-  "statusMessageID": "1454753714144411649"
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "Loader"
+      ]
+    }
+  ]
 }

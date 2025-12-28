@@ -99,7 +99,17 @@
     "attachmentMessageId": "1388179479964160092",
     "uploadMessageId": "1388179472301428839"
   },
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "box detection",
+      "id": "1454753490936266762",
+      "url": "https://discord.com/channels/1375556143186837695/1454753490936266762/1454753491787452438",
+      "matches": [
+        "box detection"
+      ]
+    }
+  ],
   "author_references": [],
   "archivedAt": 1750778953520,
   "updatedAt": 1750778953520

@@ -9,9 +9,9 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388551652319039702)
 
-10 item chest hall with a unique square user interface design.
+10 item [chest hall](https://discord.com/channels/1375556143186837695/1454753529700024331/1454753530488426527) with a unique square [user interface](https://discord.com/channels/1375556143186837695/1454754844316274861/1454754845033627671) design.
 ## Features
-- 43 hopppers per slice and full hopperlocking even when filters are overflowing.
+- 43 hopppers per [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261) and full hopperlocking even when filters are overflowing.
 - 3 10gt filters per side, the rest is 8gt or less.
 - SS2 signal strength isolated (SSI) filters.
 - No prefilling.

@@ -7,7 +7,44 @@
   "threadURL": "https://discord.com/channels/1375556143186837695/1454754780273574001",
   "statusURL": "https://discord.com/channels/1375556143186837695/1454754780273574001/1454754781196451978",
   "status": "APPROVED",
+  "statusMessageID": "1454754781196451978",
   "updatedAt": 1766910968600,
-  "references": [],
-  "statusMessageID": "1454754781196451978"
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "be",
+      "id": "1454754788473307200",
+      "url": "https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680",
+      "matches": [
+        "be"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "merger",
+      "id": "1454753701204987938",
+      "url": "https://discord.com/channels/1375556143186837695/1454753701204987938/1454753702773526549",
+      "matches": [
+        "Merger"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "bulk storage",
+      "id": "1454753523668484213",
+      "url": "https://discord.com/channels/1375556143186837695/1454753523668484213/1454753524637499577",
+      "matches": [
+        "Bulk Storage"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "chest hall",
+      "id": "1454753529700024331",
+      "url": "https://discord.com/channels/1375556143186837695/1454753529700024331/1454753530488426527",
+      "matches": [
+        "Chest Hall"
+      ]
+    }
+  ]
 }

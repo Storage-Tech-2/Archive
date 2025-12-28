@@ -11,9 +11,9 @@
 
 A box color changer that alters the color of a non-empty box if the first item in the box matches one of the items in a chest.
 ## Features
-- Can be expanded or made smaller
+- Can [be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680) expanded or made smaller
 - Plug & play with no extra infrastructure required
-- Can change the color of a box with 50-53 items per slice chest
+- Can change the color of a box with 50-53 items per [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261) chest
 - 1 dye is used per matched box
 - In 1.21.2+, boxes of the same color will not be affected
 - In 1.21 & 1.21.1, redundant crafting process will not fail, adding safety features

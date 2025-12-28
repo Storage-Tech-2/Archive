@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1451060467060707470)
 
-You’ve probably noticed that many storage devices use a feature called **hopper locking**. Hopper locking powers inactive hoppers with redstone to prevent them from doing anything, reducing lag. Because a locked hopper can’t move items, it can skip several expensive checks each tick and generate far less lag. As a result, many older storage-tech builds include wiring to lock hoppers as an optimization.
+You’ve probably noticed that many storage devices use a feature called **hopper locking**. Hopper locking powers inactive hoppers with redstone to prevent them from doing anything, reducing lag. Because a locked hopper can’[t](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) move items, it can skip several expensive checks each tick and generate far less lag. As a result, many older storage-tech builds include wiring to lock hoppers as an optimization.
 ## Lithium makes hopper locking optional
 [Lithium](https://github.com/CaffeineMC/lithium) is a mod used on most technical Minecraft servers. Its internals are complex, but the goal is simple: improve performance while preserving vanilla behavior.
 
@@ -17,7 +17,7 @@ When much of today’s storage tech was developed, Lithium didn’t include many
 
 Currently in 2025, that's changed. Lithium now includes an optimization that automatically manages inactive hoppers so they produce essentially no lag, effectively "locking" them without any extra wiring. **If you have Lithium, manual hopper locking won't improve performance.**
 
-So for bulk storage (for example, farm outputs), you can often just stack chests and hoppers and call it done (like in the thumbnail). It'll be as efficient as older, more complex locked bulk systems.
+So for [bulk storage](https://discord.com/channels/1375556143186837695/1454753523668484213/1454753524637499577) (for example, farm outputs), you can often just stack chests and hoppers and call it done (like in the thumbnail). It'll [be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680) as efficient as older, more complex locked bulk systems.
 ## Nuances
 People still hopper-lock because it's a fun challenge and a lingering habit from older designs. If you enjoy it, go for it, but you don't *need* to lock hoppers for your design to be "good."
 

@@ -7,7 +7,17 @@
   "threadURL": "https://discord.com/channels/1375556143186837695/1454754768088989789",
   "statusURL": "https://discord.com/channels/1375556143186837695/1454754768088989789/1454754769674567868",
   "status": "APPROVED",
+  "statusMessageID": "1454754769674567868",
   "updatedAt": 1766910965815,
-  "references": [],
-  "statusMessageID": "1454754769674567868"
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "mixed box",
+      "id": "1454753707530129576",
+      "url": "https://discord.com/channels/1375556143186837695/1454753707530129576/1454753708247089184",
+      "matches": [
+        "Mixed Box"
+      ]
+    }
+  ]
 }

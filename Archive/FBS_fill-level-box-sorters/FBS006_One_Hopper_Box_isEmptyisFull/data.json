@@ -83,7 +83,17 @@
     "attachmentMessageId": "1388177810987810856",
     "uploadMessageId": "1388177804318867549"
   },
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "isfull",
+      "id": "1454753607604768770",
+      "url": "https://discord.com/channels/1375556143186837695/1454753607604768770/1454753609131495434",
+      "matches": [
+        "isFull"
+      ]
+    }
+  ],
   "author_references": [],
   "archivedAt": 1751000750503,
   "updatedAt": 1751000750503

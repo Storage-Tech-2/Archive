@@ -13,7 +13,7 @@ Sorts boxes into multi-item-type categories based on first item type of box at h
 ## Features
 - Hopperspeed sorting
 - Fully hopperlocked design
-- Only one sorting item needs to be placed in a category 's filter chest. Up to 54 types per category/slice.
+- Only one sorting item needs to [be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680) placed in a category 's filter chest. Up to 54 types per category/[slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261).
 - Each slice is 7x9x2, can be tiled for more categories
 ## Considerations
 - Cannot accept empty boxes

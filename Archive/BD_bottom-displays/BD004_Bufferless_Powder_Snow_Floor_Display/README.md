@@ -11,14 +11,14 @@
 
 0-ticks powder snow into the box when emptied, allowing for a fully reliable hopperless collection.
 ## Features
-- Clean UI; box and chest are only separated by the display block
+- Clean [UI](https://discord.com/channels/1375556143186837695/1454754844316274861/1454754845033627671); box and chest are only separated by the display block
 - Bufferless; all boxes are accessible to the player
 - Comparator readout from the chest
-- Global first box placement
+- [Global](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) first box placement
 - Reliable, hopperless collection of empty boxes into a water stream
 - Relatively small (9x9)
 ## Notes
-May fail to reliably collect a box if adjacent slices activate in quick succession, this is very very rare though. A schematic of a tiled example with global first box dispensing and the water stream set up can be found in the thread.
+May fail to reliably collect a box if adjacent slices activate in quick succession, this is very very rare though. A schematic of a tiled example with global first box dispensing and the water stream set up can [be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680) found in the thread.
 
 ## Other Images
 <img src="images/Bufferless_Powdered_Snow_Displays_Tiled_Example.png?raw=1" height="300px">

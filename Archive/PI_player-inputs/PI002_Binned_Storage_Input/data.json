@@ -83,6 +83,33 @@
   },
   "references": [
     {
+      "type": "dictionaryTerm",
+      "term": "mixed loader",
+      "id": "1454753713024405588",
+      "url": "https://discord.com/channels/1375556143186837695/1454753713024405588/1454753714144411649",
+      "matches": [
+        "mixed loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "t",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "t"
+      ]
+    },
+    {
       "type": "discordLink",
       "url": "https://discord.com/channels/748542142347083868/1121057305698517093/1123390860147560609",
       "server": "748542142347083868",

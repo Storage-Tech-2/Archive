@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1416519487792091136)
 
-A medium size storage system built for [luckeY](https://www.youtube.com/@luckeYpublic)'s hardcore world, designed for a casual singleplayer setup, featuring two 10-Chest halls, each 32 long with a capacity of 640 items, an accessible bulk hall, 40 long with a capacity of 80 items, 12 MIS slices, an unstackable sorter, an Allay sorter, parallel item unloading, approximately 85% hopper locking, and peripheral stations such as a furnace array, brewer, crafting station, shulker crafter, and dispenser crafter.
+A medium size storage system built for [luckeY](https://www.youtube.com/@luckeYpublic)'s hardcore world, designed for a casual singleplayer setup, featuring two 10-Chest halls, each 32 long with a capacity of 640 items, an accessible bulk hall, 40 long with a capacity of 80 items, 12 [MIS](https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954) slices, an [unstackable sorter](https://discord.com/channels/1375556143186837695/1454754837379022858/1454754839224516712), an Allay sorter, parallel item unloading, approximately 85% hopper locking, and [peripheral](https://discord.com/channels/1375556143186837695/1454753771035824158/1454753771555913873) stations such as a furnace array, brewer, crafting station, shulker crafter, and dispenser crafter.
 ## Features
 - 2x 10-Chest halls, each 32 long - 640 items
 - Accessible bulk hall, 40 long - 80 items
@@ -24,12 +24,12 @@ A medium size storage system built for [luckeY](https://www.youtube.com/@luckeYp
 - No overflow protection. Items may despawn if too many are input or if chests are full
 ## Sourced components
 - Input: https://discord.com/channels/748542142347083868/1074320036958846986/1075193549101993985 ([Join Storage Tech](https://discord.gg/JufJ6uf))
-- Unloader: https://discord.com/channels/748542142347083868/749136547755851857/1397119350854647809 ([Join Storage Tech](https://discord.gg/JufJ6uf))
+- [Unloader](https://discord.com/channels/1375556143186837695/1454754824758493380/1454754825345433803): https://discord.com/channels/748542142347083868/749136547755851857/1397119350854647809 ([Join Storage Tech](https://discord.gg/JufJ6uf))
 - Chest halls: https://discord.com/channels/748542142347083868/749137103463514163/1050922094256459807 ([Join Storage Tech](https://discord.gg/JufJ6uf))
 - Bulk Hall: https://discord.com/channels/748542142347083868/749137103463514163/1076322959096041472 ([Join Storage Tech](https://discord.gg/JufJ6uf))
 - MIS: https://discord.com/channels/748542142347083868/749136637606363167/1086235129053204481 ([Join Storage Tech](https://discord.gg/JufJ6uf))
 - Unstackable sorter: https://discord.com/channels/748542142347083868/749136876946063360/1096104601876430880 ([Join Storage Tech](https://discord.gg/JufJ6uf)) (book and disc sorter added)
-- Furnace array: https://youtu.be/ymCKHW-7HDg
+- Furnace array: https://youtu.[be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680)/ymCKHW-7HDg
 - Brewer: https://discord.com/channels/748542142347083868/748547221338849330/1150837060429688905 ([Join Storage Tech](https://discord.gg/JufJ6uf))
 - Crafting station: https://discord.com/channels/748542142347083868/749137321710059542/1112115542518673428 ([Join Storage Tech](https://discord.gg/JufJ6uf))
 - Shulker crafter: https://discord.com/channels/856232076252282890/1304497540481290410/1304497540481290410 ([Join Autocrafting Archive](https://discord.gg/guZdbQ9KQe))

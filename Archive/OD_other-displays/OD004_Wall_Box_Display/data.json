@@ -88,7 +88,26 @@
     "threadURL": "https://discord.com/channels/1375556143186837695/1402510871988670574",
     "uploadMessageId": "1402510868889210952"
   },
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "box display",
+      "id": "1454753497638506689",
+      "url": "https://discord.com/channels/1375556143186837695/1454753497638506689/1454753498494144522",
+      "matches": [
+        "box display"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "tick",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "tick"
+      ]
+    }
+  ],
   "author_references": [],
   "archivedAt": 1754455048350,
   "updatedAt": 1754455048350

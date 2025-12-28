@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388316730681458819)
 
-A simple 5 block wide accessible loader with a zero ticked composter that buffers 16 stacks.
+A simple 5 block wide accessible [loader](https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720) with a zero ticked composter that buffers 16 stacks.
 ## Features
 - 5 blocks wide
 - composter device

@@ -9,12 +9,12 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317459878252595)
 
-10 chests per slice chest hall design with SS2 filters.
+10 chests per [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261) [chest hall](https://discord.com/channels/1375556143186837695/1454753529700024331/1454753530488426527) design with SS2 filters.
 ## Features
 - 32 hoppers | 100% locked
 - 10 items/slice.
 - SS2 filters. 6/10 of them are 8gt or less; 4/10 of them are 10gt.
-- All the display blocks can be solid.
+- All the display blocks can [be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680) solid.
 - No prefilling needed.
 - No dropper elevators.
 - Every filter hopper is accessible thanks to the scaffolding (optional).

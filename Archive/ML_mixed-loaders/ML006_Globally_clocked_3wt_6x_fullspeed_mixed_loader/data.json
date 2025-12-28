@@ -95,7 +95,26 @@
     "threadURL": "https://discord.com/channels/1375556143186837695/1394718456934563972",
     "uploadMessageId": "1394718454862577816"
   },
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "global",
+      "id": "1454753648574992557",
+      "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
+      "matches": [
+        "global"
+      ]
+    }
+  ],
   "author_references": [],
   "archivedAt": 1752597593874,
   "updatedAt": 1752597593874

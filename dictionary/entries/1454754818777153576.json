@@ -7,7 +7,37 @@
   "threadURL": "https://discord.com/channels/1375556143186837695/1454754818777153576",
   "statusURL": "https://discord.com/channels/1375556143186837695/1454754818777153576/1454754819062632553",
   "status": "APPROVED",
+  "statusMessageID": "1454754819062632553",
   "updatedAt": 1766910977503,
-  "references": [],
-  "statusMessageID": "1454754819062632553"
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "binary",
+      "id": "1454753454865125437",
+      "url": "https://discord.com/channels/1375556143186837695/1454753454865125437/1454753455808712925",
+      "matches": [
+        "Binary",
+        "binary"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "hexadecimal",
+      "id": "1454753655063580723",
+      "url": "https://discord.com/channels/1375556143186837695/1454753655063580723/1454753656326062249",
+      "matches": [
+        "Hexadecimal",
+        "hex"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "block event delay",
+      "id": "1454753468966506558",
+      "url": "https://discord.com/channels/1375556143186837695/1454753468966506558/1454753470643961980",
+      "matches": [
+        "block event delay"
+      ]
+    }
+  ]
 }

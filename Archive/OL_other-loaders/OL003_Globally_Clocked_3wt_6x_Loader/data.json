@@ -81,7 +81,17 @@
     "threadURL": "https://discord.com/channels/1375556143186837695/1389410831594291300",
     "uploadMessageId": "1389410830013042770"
   },
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "global",
+      "id": "1454753648574992557",
+      "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
+      "matches": [
+        "global"
+      ]
+    }
+  ],
   "author_references": [],
   "archivedAt": 1751331755696,
   "updatedAt": 1751331755696

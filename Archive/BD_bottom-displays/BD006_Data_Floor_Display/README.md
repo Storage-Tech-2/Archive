@@ -11,7 +11,7 @@
 
 A tiny floor display which is great for quad bulks.
 ## Features
-- Local first box placement
+- [Local](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) first box placement
 - Default extended
 - Collectionless
 - 1 hopper, locked when a box is displayed

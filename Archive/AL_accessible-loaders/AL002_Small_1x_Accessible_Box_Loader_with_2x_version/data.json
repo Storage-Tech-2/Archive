@@ -149,7 +149,26 @@
     "attachmentMessageId": "1388177471639261205",
     "uploadMessageId": "1388177464257155273"
   },
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "be",
+      "id": "1454754788473307200",
+      "url": "https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680",
+      "matches": [
+        "be"
+      ]
+    }
+  ],
   "author_references": [],
   "archivedAt": 1750942147033,
   "updatedAt": 1750942147033

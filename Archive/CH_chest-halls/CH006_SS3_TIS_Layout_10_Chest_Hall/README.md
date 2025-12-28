@@ -9,12 +9,12 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388555404023300128)
 
-10 chests per slice hall using the TIS layout, but with SS3 filters
+10 chests per [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261) hall using the TIS layout, but with SS3 filters
 ## Features
 - Slices are identical, locking system is the only change between slices
 - 0 prefilled hopper/dispenser
 - Runs at hopperspeed
-- Fully hopper-locked (36 hoppers/Slice)
+- Fully [hopper-locked](https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422) (36 hoppers/Slice)
 ## Considerations
 - TIS layout requires 2 transparent block displays per slice
 - Brief clicking noise in the bottom droppers after they are done elevating items

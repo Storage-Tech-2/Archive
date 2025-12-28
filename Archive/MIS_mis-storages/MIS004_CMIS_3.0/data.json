@@ -95,13 +95,88 @@
     "forumId": "1375566804910604349",
     "threadId": "1388318106086015129",
     "continuingMessageIds": [
-      "1388318111874420772"
+      "1388318111874420772",
+      "1454755957157658789"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1388318106086015129",
     "attachmentMessageId": "1388179058046795778",
     "uploadMessageId": "1388179048999686214"
   },
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "user interface",
+      "id": "1454754844316274861",
+      "url": "https://discord.com/channels/1375556143186837695/1454754844316274861/1454754845033627671",
+      "matches": [
+        "user interface",
+        "UI"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "encoded",
+      "id": "1454753595424505866",
+      "url": "https://discord.com/channels/1375556143186837695/1454753595424505866/1454753596133605426",
+      "matches": [
+        "Encoded"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "local",
+      "id": "1454753648574992557",
+      "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
+      "matches": [
+        "local"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "mis",
+      "id": "1454753725091676293",
+      "url": "https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954",
+      "matches": [
+        "MIS"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "bulk storage",
+      "id": "1454753523668484213",
+      "url": "https://discord.com/channels/1375556143186837695/1454753523668484213/1454753524637499577",
+      "matches": [
+        "Bulk Storage"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "box sorter",
+      "id": "1454753516269736090",
+      "url": "https://discord.com/channels/1375556143186837695/1454753516269736090/1454753518383792221",
+      "matches": [
+        "Box Sorter"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "unstackable sorter",
+      "id": "1454754837379022858",
+      "url": "https://discord.com/channels/1375556143186837695/1454754837379022858/1454754839224516712",
+      "matches": [
+        "Unstackable Sorter"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "Loader"
+      ]
+    }
+  ],
   "author_references": [],
   "archivedAt": 1755284286128,
   "updatedAt": 1755284286128

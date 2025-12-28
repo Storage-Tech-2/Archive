@@ -11,14 +11,14 @@
 
 **Features**
 - 2wt 
-- Global box replacement line
+- [Global](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) box replacement line
 - Globally clocked
 - Dropper Line and hopper/ice versions. 
 - Handles mixed inputs (not unstackables)
 
 **Considerations**
 - Uses overflow detection to detect full a shulker
-- Requires at least a box to be prefilled in the dispenser when being built. For further info check the schematics.
+- Requires at least a box to [be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680) prefilled in the dispenser when being built. For further info check the schematics.
 
 
 **Notes**

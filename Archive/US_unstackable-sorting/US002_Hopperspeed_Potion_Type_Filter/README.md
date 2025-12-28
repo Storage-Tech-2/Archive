@@ -13,7 +13,7 @@ Sorts potions by their potion contents using comparator update detectors. Works 
 ## Features
 - Hopperspeed and 2 wide (not tileable).
 - Consumes 1 blaze powder every 20 sorted potions.
-- Includes V2 which is smaller but is globally clocked (pulse 2 tick repeater)
+- Includes V2 which is smaller but is globally clocked (pulse 2 [tick](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) repeater)
 ## Considerations
 - Not tileable
 - Cannot differentiate between all potion types

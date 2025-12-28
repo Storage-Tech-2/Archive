@@ -15,7 +15,7 @@ Using pumpkin items shot through nether portals, loads a 3x3 chunk area around t
 - Fully hopperlocked when idle
 - Status output: Items returning from the nether side maintain the fader
 ## Considerations
-- The chunk loader will not work in 1.21.5 specifically due to the portal hitbox change.
+- The chunk [loader](https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720) will not work in 1.21.5 specifically due to the portal hitbox change.
 ## Notes
 Tested with one month of tickwarp in 1.18.2 with Joa extreme behaviors and one year of tickwarp in 1.21.5 using TIS Carpet command "/carpet netherPortalEntityInteractionCheckUseFullBlockShape true".
 

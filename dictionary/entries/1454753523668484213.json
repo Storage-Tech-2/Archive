@@ -7,7 +7,35 @@
   "threadURL": "https://discord.com/channels/1375556143186837695/1454753523668484213",
   "statusURL": "https://discord.com/channels/1375556143186837695/1454753523668484213/1454753524637499577",
   "status": "APPROVED",
+  "statusMessageID": "1454753524637499577",
   "updatedAt": 1766910668807,
-  "references": [],
-  "statusMessageID": "1454753524637499577"
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "hopper-locked",
+      "id": "1454753660625227895",
+      "url": "https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422",
+      "matches": [
+        "Hopper-locked"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "item call",
+      "id": "1454753667562475656",
+      "url": "https://discord.com/channels/1375556143186837695/1454753667562475656/1454753669236002850",
+      "matches": [
+        "Item Call"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "encoded",
+      "id": "1454753595424505866",
+      "url": "https://discord.com/channels/1375556143186837695/1454753595424505866/1454753596133605426",
+      "matches": [
+        "Encoded"
+      ]
+    }
+  ]
 }

@@ -7,7 +7,35 @@
   "threadURL": "https://discord.com/channels/1375556143186837695/1454754850322649100",
   "statusURL": "https://discord.com/channels/1375556143186837695/1454754850322649100/1454754852465807504",
   "status": "APPROVED",
+  "statusMessageID": "1454754852465807504",
   "updatedAt": 1766910985330,
-  "references": [],
-  "statusMessageID": "1454754852465807504"
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "be",
+      "id": "1454754788473307200",
+      "url": "https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680",
+      "matches": [
+        "be"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "fixed sorter",
+      "id": "1454753621576126610",
+      "url": "https://discord.com/channels/1375556143186837695/1454753621576126610/1454753622528098306",
+      "matches": [
+        "Fixed Sorter"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "global",
+      "id": "1454753648574992557",
+      "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
+      "matches": [
+        "global"
+      ]
+    }
+  ]
 }

@@ -88,7 +88,18 @@
     "attachmentMessageId": "1388178092157046916",
     "uploadMessageId": "1388178084779524298"
   },
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "global",
+      "id": "1454753648574992557",
+      "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
+      "matches": [
+        "Global",
+        "global"
+      ]
+    }
+  ],
   "author_references": [],
   "archivedAt": 1750683096514,
   "updatedAt": 1750683096514

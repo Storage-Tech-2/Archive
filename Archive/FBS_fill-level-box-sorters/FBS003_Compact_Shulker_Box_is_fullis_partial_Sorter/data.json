@@ -91,7 +91,17 @@
     "attachmentMessageId": "1388177732633886753",
     "uploadMessageId": "1388177726396960830"
   },
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "isfull",
+      "id": "1454753607604768770",
+      "url": "https://discord.com/channels/1375556143186837695/1454753607604768770/1454753609131495434",
+      "matches": [
+        "isFull"
+      ]
+    }
+  ],
   "author_references": [],
   "archivedAt": 1750732870769,
   "updatedAt": 1750732870769

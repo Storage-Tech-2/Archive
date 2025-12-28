@@ -86,7 +86,17 @@
     "threadURL": "https://discord.com/channels/1375556143186837695/1388626280060158094",
     "uploadMessageId": "1388711145040248863"
   },
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "mixed box",
+      "id": "1454753707530129576",
+      "url": "https://discord.com/channels/1375556143186837695/1454753707530129576/1454753708247089184",
+      "matches": [
+        "mixed box"
+      ]
+    }
+  ],
   "author_references": [],
   "archivedAt": 1751164937546,
   "updatedAt": 1751164937546

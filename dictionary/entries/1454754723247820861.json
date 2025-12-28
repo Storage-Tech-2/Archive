@@ -8,7 +8,63 @@
   "threadURL": "https://discord.com/channels/1375556143186837695/1454754723247820861",
   "statusURL": "https://discord.com/channels/1375556143186837695/1454754723247820861/1454754724107653162",
   "status": "APPROVED",
+  "statusMessageID": "1454754724107653162",
   "updatedAt": 1766910954994,
-  "references": [],
-  "statusMessageID": "1454754724107653162"
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "serial codes",
+      "id": "1454754716138475581",
+      "url": "https://discord.com/channels/1375556143186837695/1454754716138475581/1454754716981661882",
+      "matches": [
+        "Serial codes"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "parallel codes",
+      "id": "1454753751335436422",
+      "url": "https://discord.com/channels/1375556143186837695/1454753751335436422/1454753752350457887",
+      "matches": [
+        "Parallel codes"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "encoder",
+      "id": "1454753601967624213",
+      "url": "https://discord.com/channels/1375556143186837695/1454753601967624213/1454753602802548800",
+      "matches": [
+        "Encoder",
+        "encoder"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "decoder",
+      "id": "1454753547974607053",
+      "url": "https://discord.com/channels/1375556143186837695/1454753547974607053/1454753549153079441",
+      "matches": [
+        "Decoder"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "hex",
+      "id": "1454753655063580723",
+      "url": "https://discord.com/channels/1375556143186837695/1454753655063580723/1454753656326062249",
+      "matches": [
+        "hex"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "binary",
+      "id": "1454753454865125437",
+      "url": "https://discord.com/channels/1375556143186837695/1454753454865125437/1454753455808712925",
+      "matches": [
+        "binary"
+      ]
+    }
+  ]
 }

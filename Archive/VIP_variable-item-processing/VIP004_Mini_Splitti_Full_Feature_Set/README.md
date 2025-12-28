@@ -9,16 +9,16 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388722921622736916)
 
-Takes in mixed boxes and splits them into boxes containing a single item type. Uses dueling hoppers splitter technique.
+Takes in mixed boxes and splits them into boxes containing a single item type. Uses dueling hoppers [splitter](https://discord.com/channels/1375556143186837695/1454754768088989789/1454754769674567868) technique.
 ## Features
 - 90% hopper locked (a total of 5 unlocked hoppers out of 50 total)
 - Small size! 12x6x16 (LWH)
 - Emptied Boxes and Unstackables are output in separate streams from Partials output.
-- Pauseable with global clock
+- Pauseable with [global](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) clock
 ## Considerations
-- Does not handle Empty box inputs (Please don't send empty boxes to splitters in the first place!)
+- Does not handle Empty box inputs (Please don'[t](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) send empty boxes to splitters in the first place!)
 ## Notes
-Press stone button to start splitting after putting in boxes. Empty box input hopper is covered by wool for hopperNoItemCost carpet rule but can be replaced with more chest storage.
+Press stone button to start splitting after putting in boxes. Empty box input hopper is covered by wool for hopperNoItemCost carpet rule but can [be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680) replaced with more chest storage.
 
 ## Acknowledgements:
 - Obi81: Based off of Obi's design

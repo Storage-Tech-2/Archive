@@ -16,10 +16,10 @@ Items are loaded into an accessible shulker box, the subsequent full boxes are t
 - 200k item capacity per item type
 - Overflow box collection
 ## Considerations
-- Average of 3.5 unlocked hoppers per slice
+- Average of 3.5 unlocked hoppers per [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261)
 - Displays buffers boxes
 ## Notes
-Please don't lock the hall while it is in operation. Box display from DatNerd, Overflow water stream by Pyraleft
+Please don'[t](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) lock the hall while it is in operation. [Box display](https://discord.com/channels/1375556143186837695/1454753497638506689/1454753498494144522) from DatNerd, Overflow water stream by Pyraleft
 
 ## Resources
 - [MH002_pyra_waterstream.png](attachments/MH002_pyra_waterstream.png): image/png

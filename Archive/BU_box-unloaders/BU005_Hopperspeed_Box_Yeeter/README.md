@@ -11,7 +11,7 @@
 
 Destroys shulker box item entities with lava to unload its contents at hopperspeed.
 ## Features
-- Dustless
+- [Dustless](https://discord.com/channels/1375556143186837695/1454753587979620354/1454753589133049889)
 - No piston toggle states
 - 2 wide tileable
 ## Considerations

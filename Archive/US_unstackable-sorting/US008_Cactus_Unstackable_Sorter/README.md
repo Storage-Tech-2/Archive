@@ -18,11 +18,11 @@ Sorts 10 types of unstackable items (music discs, enchanted books, potions, flin
 - Many clocks are connected, leading to some unnecessary lag while running.
 ## Notes
 - Schematic has both normal and hopper locked versions as subregions.
-- Winner of the 2025 Unstackable Sorter Contest!
+- Winner of the 2025 [Unstackable Sorter](https://discord.com/channels/1375556143186837695/1454754837379022858/1454754839224516712) Contest!
 ## Compatibility
 1.20+
 ## Instructions
-1. If you are dropping item entities in the input directly, make sure that item entities cannot land in the input hopper, or items may self-insert at the wrong timings. This can be done by placing a slab over the input hopper to cover the opening.
+1. If you are dropping item entities in the input directly, make sure that item entities cannot land in the input hopper, or items may self-insert at the wrong timings. This can [be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680) done by placing a slab over the input hopper to cover the opening.
 
 ## Other Images
 <img src="images/area_render_12_.png?raw=1" height="300px">

@@ -84,7 +84,17 @@
     "attachmentMessageId": "1388177707602542730",
     "uploadMessageId": "1388177700623224872"
   },
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "merger",
+      "id": "1454753701204987938",
+      "url": "https://discord.com/channels/1375556143186837695/1454753701204987938/1454753702773526549",
+      "matches": [
+        "merger"
+      ]
+    }
+  ],
   "author_references": [],
   "archivedAt": 1750619211970,
   "updatedAt": 1750619211970

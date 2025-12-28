@@ -7,7 +7,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388316667855241277)
 
-Togglestate-less and simple device that filters and loads items into shulker boxes at hopperspeed.
+[Togglestate](https://discord.com/channels/1375556143186837695/1454754804252282910/1454754804881428533)-less and simple device that filters and loads items into shulker boxes at hopperspeed.
 ## Features
 - Includes an SS3 item filter. 7x7 in size.
 - Togglestate-less

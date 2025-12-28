@@ -12,7 +12,7 @@ These filters can accept any unstackable item as input and depending on the inve
 - Very simple hopperspeed design
 - Can accept any obtainable unstackable item as input
 ## Notes
-The isShearsOrFlint filter uses a dispenser. Be careful not to input stackable TNT by accident.
+The isShearsOrFlint filter uses a dispenser. [Be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680) careful not to input stackable TNT by accident.
 
 ## Resources
 - [US003_Simple_Unstackable_Filters.litematic](attachments/US003_Simple_Unstackable_Filters.litematic): MC 1.21.4, Size 17x4x5 blocks

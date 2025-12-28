@@ -7,7 +7,17 @@
   "threadURL": "https://discord.com/channels/1375556143186837695/1454753484703273044",
   "statusURL": "https://discord.com/channels/1375556143186837695/1454753484703273044/1454753486272069807",
   "status": "APPROVED",
+  "statusMessageID": "1454753486272069807",
   "updatedAt": 1766910659708,
-  "references": [],
-  "statusMessageID": "1454753486272069807"
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "merger",
+      "id": "1454753701204987938",
+      "url": "https://discord.com/channels/1375556143186837695/1454753701204987938/1454753702773526549",
+      "matches": [
+        "Merger"
+      ]
+    }
+  ]
 }

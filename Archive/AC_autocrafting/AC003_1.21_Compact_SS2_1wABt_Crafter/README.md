@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1391829514333720638)
 
-Crafts filtered items. Works with 2-9 slot crafts. Can be adapted to be 1 slot. 1 slot and hopper locked variations are in the thread.
+Crafts filtered items. Works with 2-9 slot crafts. Can [be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680) adapted to be 1 slot. 1 slot and hopper locked variations are in the thread.
 ## Features
 - Compact
 - SS2

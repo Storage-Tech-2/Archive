@@ -8,7 +8,17 @@
   "threadURL": "https://discord.com/channels/1375556143186837695/1454754796937674891",
   "statusURL": "https://discord.com/channels/1375556143186837695/1454754796937674891/1454754797709164586",
   "status": "APPROVED",
+  "statusMessageID": "1454754797709164586",
   "updatedAt": 1766910972655,
-  "references": [],
-  "statusMessageID": "1454754797709164586"
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "dropperline",
+      "id": "1454753569768079468",
+      "url": "https://discord.com/channels/1375556143186837695/1454753569768079468/1454753576474644492",
+      "matches": [
+        "Dropperline"
+      ]
+    }
+  ]
 }

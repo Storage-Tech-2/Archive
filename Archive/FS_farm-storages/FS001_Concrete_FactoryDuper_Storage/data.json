@@ -132,7 +132,17 @@
     "threadURL": "https://discord.com/channels/1375556143186837695/1390478055163822130",
     "uploadMessageId": "1390547728412442806"
   },
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "global",
+      "id": "1454753648574992557",
+      "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
+      "matches": [
+        "global"
+      ]
+    }
+  ],
   "author_references": [],
   "archivedAt": 1751602813294,
   "updatedAt": 1751602813294

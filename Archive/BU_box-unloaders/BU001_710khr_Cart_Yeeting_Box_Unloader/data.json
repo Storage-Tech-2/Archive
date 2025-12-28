@@ -103,6 +103,15 @@
   },
   "references": [
     {
+      "type": "dictionaryTerm",
+      "term": "t",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "t"
+      ]
+    },
+    {
       "type": "discordLink",
       "url": "https://discord.com/channels/1375556143186837695/1389355709119856772/1389355709119856772",
       "server": "1375556143186837695",

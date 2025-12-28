@@ -14,7 +14,7 @@ Unloads items from boxes at hopperspeed.
 - Empty boxes are collected instantly and are unable to land in other slices, avoiding output contamination.
 - Boxes are separated reliably and dropped out of the bottom, while unloaded items go in the chest.
 - Very easy to hopper lock
-- Solid state & togglestateless, improving robustness.
+- [Solid state](https://discord.com/channels/1375556143186837695/1454754761093025874/1454754762837987561) & togglestateless, improving robustness.
 ## Considerations
 - Does not handle empty boxes
 - No initial box placement due to possible issue with random input

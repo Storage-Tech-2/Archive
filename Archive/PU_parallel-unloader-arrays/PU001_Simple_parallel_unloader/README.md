@@ -9,11 +9,11 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318262839742555)
 
-Simple parallel unloader
+Simple parallel [unloader](https://discord.com/channels/1375556143186837695/1454754824758493380/1454754825345433803)
 ## Features
 - Unloads items at around 3-4x hopper speed (based on samples from real world item sets)
 - Separates empty boxes and unstackables into their own output
-- Simple logic reduces points of failure. Doesn't require filter items or sophisticated box processing.
+- Simple logic reduces points of failure. Doesn'[t](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) require filter items or sophisticated box processing.
 - Batches 16 stackables to either 5 or 10
 
 ## Resources

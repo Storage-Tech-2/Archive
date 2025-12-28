@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388545987701641337)
 
-This mixed 8x loader uses an external global clock signal to activate its droppers. This has the benefit of being smaller and less laggier than local clock systems.
+This mixed 8x [loader](https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720) uses an external [global](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) clock signal to activate its droppers. This has the benefit of being smaller and less laggier than local clock systems.
 ## Features
 - Smaller size
 - No item spitting with random input

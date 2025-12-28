@@ -15,7 +15,7 @@ Assigns a filter item depending on the leading item type of the first box. Subse
 - No renamed filter items needed, unstackables work fine
 - Relatively small footprint (5x4x6).
 ## Considerations
-- Can't handle empty boxes
+- Can'[t](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) handle empty boxes
 ## Notes
 The schematic contains two versions: One that deassigns automatically and manually. Inspired by https://discord.com/channels/748542142347083868/749136504558714982/1315103045763207248 ([Join Storage Tech](https://discord.gg/JufJ6uf))
 
