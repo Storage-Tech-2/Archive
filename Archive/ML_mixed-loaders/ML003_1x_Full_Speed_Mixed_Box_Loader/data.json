@@ -126,6 +126,15 @@
       "matches": [
         "gt"
       ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "1x",
+      "id": "1454753562033651876",
+      "url": "https://discord.com/channels/1375556143186837695/1454753562033651876/1454753563258519584",
+      "matches": [
+        "1x"
+      ]
     }
   ],
   "author_references": [],

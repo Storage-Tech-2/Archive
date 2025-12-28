@@ -80,7 +80,18 @@
     "uploadMessageId": "1388195190900134069",
     "attachmentMessageId": "1388195496765554843"
   },
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "2x",
+      "id": "1454753562033651876",
+      "url": "https://discord.com/channels/1375556143186837695/1454753562033651876/1454753563258519584",
+      "matches": [
+        "2x",
+        "1x"
+      ]
+    }
+  ],
   "author_references": [],
   "archivedAt": 1751041995761,
   "updatedAt": 1751041995761

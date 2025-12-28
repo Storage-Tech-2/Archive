@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317019501363371)
 
-Unloads boxes at 2X hopperspeed (18000 items/hr).
+Unloads boxes at [2X](https://discord.com/channels/1375556143186837695/1454753562033651876/1454753563258519584) hopperspeed (18000 items/hr).
 ## Features
 - 2X Hopperspeed
 - Tileable

@@ -11,7 +11,7 @@
 
 144 Furnace array that provides and input and output of shulker boxes in a relatively small form factor. It Provides two modes, Full send mode which is useful for a lot of boxes with the same item type that needs to be smelted. The second mode is a [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) preservation mode that maintains the content of the shulker box if you are doing boxes with separate item types(this one is roughly ~25% slower assuming full boxes)
 ## Features
-- 10x12x46
+- 10x1[2x](https://discord.com/channels/1375556143186837695/1454753562033651876/1454753563258519584)46
 - Fully hopperlocked (458 total hoppers)
 - optional box content preservation
 - max Speed of just below 6x Hopper speed

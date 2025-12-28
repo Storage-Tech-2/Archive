@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388316626327175210)
 
-Filters then loads items into boxes at 4x hopperspeed. Only requires prefilling a single hopper under each filter with a stack of the sorted item. Uses 2x filters that sync with hopper cooldown better than most high speed loaders. Two versions using different filters are provided: [SS](https://discord.com/channels/1375556143186837695/1454754774833696893/1454754775542267957)3 (2wABt) and SSI.
+Filters then loads items into boxes at 4x hopperspeed. Only requires prefilling a single hopper under each filter with a stack of the sorted item. Uses [2x](https://discord.com/channels/1375556143186837695/1454753562033651876/1454753563258519584) filters that sync with hopper cooldown better than most high speed loaders. Two versions using different filters are provided: [SS](https://discord.com/channels/1375556143186837695/1454754774833696893/1454754775542267957)3 ([2wABt](https://discord.com/channels/1375556143186837695/1454753732293033984/1454753733035687988)) and SSI.
 ## Features
 - No item spitting with random input
 - Relatively small footprint (SS3: 6x9x2; SSI: 7x10x2)

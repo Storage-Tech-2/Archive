@@ -16,7 +16,7 @@ Designed for quad bulks with more space under the top display.
 - Automatic box replacement when emptied
 ## Considerations
 - Hopperlocking is possible with a global dust line
-- 1wABt with alternating rails
+- [1wABt](https://discord.com/channels/1375556143186837695/1454753732293033984/1454753733035687988) with alternating rails
 
 ## Resources
 - [TD005_Small_Slider_Top_Display.litematic](attachments/TD005_Small_Slider_Top_Display.litematic): MC 1.21.4, Size 7x8x2 blocks

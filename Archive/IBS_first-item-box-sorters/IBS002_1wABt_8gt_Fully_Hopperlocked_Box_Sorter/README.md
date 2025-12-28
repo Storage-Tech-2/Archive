@@ -11,7 +11,7 @@
 
 Sorts boxes by their first item's type at hopper speed. Works by taking the first item out of the [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708), and recombining the box with the item in the assigned [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261).
 ## Features
-- 1wABt slices, ABC tileable locking lines
+- [1wABt](https://discord.com/channels/1375556143186837695/1454753732293033984/1454753733035687988) slices, ABC tileable locking lines
 - Very small: 6x7 (excluding the hopperlocking and the overflow)
 - Hopper speed: can sort a box every 8[gt](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539)
 - Minimum hopper count: full hopper locking with [global](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) lines

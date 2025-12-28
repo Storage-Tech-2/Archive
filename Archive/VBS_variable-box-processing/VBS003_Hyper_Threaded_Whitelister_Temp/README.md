@@ -12,7 +12,7 @@
 A device that can store up to 400 unique partials, with a compact design and various features for efficient operation.
 ## Features
 - Can store up to 400 unique partials (50 per [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261))
-- Compact(6x11x19)
+- Compact(6x1[1x](https://discord.com/channels/1375556143186837695/1454753562033651876/1454753563258519584)19)
 - Hyper Threaded [Box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) Retrieval
 *next box begins processing while previous bucket is being returned*
 - 38 hoppers

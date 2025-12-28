@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317521471475722)
 
-A collection of various circuits that automatically drop all received items as entities. The blue designs on the left are 2x hopper speed and the ones on the right are 1x.
+A collection of various circuits that automatically drop all received items as entities. The blue designs on the left are [2x](https://discord.com/channels/1375556143186837695/1454753562033651876/1454753563258519584) hopper speed and the ones on the right are 1x.
 ## Features
 - All designs except C3 and D3 are unbreakable with random input
 ## Considerations
