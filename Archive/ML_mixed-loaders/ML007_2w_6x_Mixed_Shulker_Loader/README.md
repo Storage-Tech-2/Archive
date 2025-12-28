@@ -10,7 +10,7 @@
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1441837073085501574)
 
 **Features**
-- 2wt 
+- [2wt](https://discord.com/channels/1375556143186837695/1454753738425368687/1454753741785010208) 
 - [Global](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) replacement line
 - Globally clocked
 - Dropper Line and hopper/ice versions. 

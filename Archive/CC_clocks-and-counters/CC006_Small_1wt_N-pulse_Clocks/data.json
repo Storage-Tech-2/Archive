@@ -98,7 +98,17 @@
       "You need to wait until the hopper is empty before re-activating the clock"
     ]
   },
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "1wt",
+      "id": "1454753738425368687",
+      "url": "https://discord.com/channels/1375556143186837695/1454753738425368687/1454753741785010208",
+      "matches": [
+        "1wt"
+      ]
+    }
+  ],
   "author_references": [],
   "updatedAt": 1766901766952,
   "archivedAt": 1766904706506,

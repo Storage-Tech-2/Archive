@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1452440653253574676)
 
-Some 1wt clocks that can be configured to output different numbers of pulses. These can for example be used as 27 pulse clocks.
+Some [1wt](https://discord.com/channels/1375556143186837695/1454753738425368687/1454753741785010208) clocks that can be configured to output different numbers of pulses. These can for example be used as 27 pulse clocks.
 ## Variants
 - Top activated (both even- and odd-n outputs)
 - Top activated with comparator output for reset (only odd-n output)
