@@ -677,6 +677,14 @@
       ],
       "summary": "Mods can be 2 types - client side or server side, client side mods just effect the client side of the game, so mostly the visuals and server side mods effect the code of the game / what the game do...",
       "updatedAt": 1766925691841
+    },
+    {
+      "id": "1454814029259215002",
+      "terms": [
+        "MS"
+      ],
+      "summary": "Abbreviation for main storage, typically having a bulk, chest halls and a MIS to sort items",
+      "updatedAt": 1766952219104
     }
   ]
 }
