@@ -6,8 +6,9 @@
   "definition": "Typically referring to piston movements or redstone dust, when it turns on and off in the same gametick, this makes redstone dust not power, and sticky pistons to spit out their blocks",
   "threadURL": "https://discord.com/channels/1375556143186837695/1454804845960757319",
   "statusURL": "https://discord.com/channels/1375556143186837695/1454804845960757319/1454804847290220666",
-  "status": "PENDING",
-  "updatedAt": 1766922904337,
+  "status": "APPROVED",
+  "statusMessageID": "1454804847290220666",
+  "updatedAt": 1766923435213,
   "references": [
     {
       "type": "dictionaryTerm",
@@ -19,6 +20,5 @@
       ]
     }
   ],
-  "referencedBy": [],
-  "statusMessageID": "1454804847290220666"
+  "referencedBy": []
 }

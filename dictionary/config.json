@@ -629,6 +629,14 @@
       "updatedAt": 1766923385562
     },
     {
+      "id": "1454804845960757319",
+      "terms": [
+        "0 tick"
+      ],
+      "summary": "Typically referring to piston movements or redstone dust, when it turns on and off in the same gametick, this makes redstone dust not power, and sticky pistons to spit out their blocks",
+      "updatedAt": 1766923435213
+    },
+    {
       "id": "1454805316029120542",
       "terms": [
         "Redstone Tick"
