@@ -1,15 +1,37 @@
 {
   "id": "1454753660625227895",
   "terms": [
-    "Hopper-locked"
+    "Hopperlocking",
+    "hopperlocked",
+    "hopper-locked"
   ],
-  "definition": "Used to tag contraptions that lock their hoppers when the hoppers are not needed. This is because hoppers are otherwise very laggy.",
+  "definition": "Hopper-locking powers inactive hoppers with redstone to prevent them from doing anything, reducing lag. Because a locked hopper can’t move items, it can skip several expensive checks each [tick](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) and generate far less lag. As a result, many older storage-tech builds include wiring to lock hoppers as an optimization.\n\n## Lithium makes hopper locking optional\n[Lithium](https://github.com/CaffeineMC/lithium) is a mod used on most technical Minecraft servers. Lithium includes an optimization that automatically manages inactive hoppers so they produce essentially no lag, effectively \"locking\" them without any extra wiring. **If you have Lithium, manual hopper locking won't improve performance.** (See RD001)",
   "threadURL": "https://discord.com/channels/1375556143186837695/1454753660625227895",
   "statusURL": "https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422",
   "status": "APPROVED",
   "statusMessageID": "1454753661765947422",
-  "updatedAt": 1766910701722,
-  "references": [],
+  "updatedAt": 1766955641699,
+  "references": [
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "server": "1375556143186837695",
+      "channel": "1454753634435858666",
+      "message": "1454753635690090539",
+      "matches": [
+        "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539"
+      ]
+    },
+    {
+      "type": "archivedPost",
+      "id": "1451060139560931523",
+      "code": "RD001",
+      "url": "https://discord.com/channels/1375556143186837695/1451060467060707470",
+      "matches": [
+        "RD001"
+      ]
+    }
+  ],
   "referencedBy": [
     "CH006"
   ]

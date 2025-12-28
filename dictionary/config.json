@@ -267,10 +267,12 @@
     {
       "id": "1454753660625227895",
       "terms": [
-        "Hopper-locked"
+        "Hopperlocking",
+        "hopperlocked",
+        "hopper-locked"
       ],
-      "summary": "Used to tag contraptions that lock their hoppers when the hoppers are not needed. This is because hoppers are otherwise very laggy.",
-      "updatedAt": 1766910701722
+      "summary": "Hopper-locking powers inactive hoppers with redstone to prevent them from doing anything, reducing lag. Because a locked hopper can’t move items, it can skip several expensive checks each [tick](ht...",
+      "updatedAt": 1766955641699
     },
     {
       "id": "1454753667562475656",
@@ -700,7 +702,7 @@
         "8x"
       ],
       "summary": "Refers to the speed at which items are processed in a hopper (1 item every 8gt, or 2.5 items per second). Usually written as an integer (e.g. \"3x hopper speed\").\n## Common hopperspeeds\n1x: 9000 ite...",
-      "updatedAt": 1766954778821
+      "updatedAt": 1766955411453
     },
     {
       "id": "1454939844274032771",
