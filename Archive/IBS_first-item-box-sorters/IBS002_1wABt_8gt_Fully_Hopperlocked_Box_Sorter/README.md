@@ -18,7 +18,7 @@ Sorts boxes by their first item's type at hopper speed. Works by taking the firs
 - Overflow protection: the boxes in excess get dropped as item entities
 - No buffered boxes
 - Multi shulker box sorting support
-- Repeaters in the upper dropper line can [be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680) replaced with observers
+- Repeaters in the upper dropper line can be replaced with observers
 ## Notes
 - Both schematics are functionally identical, the 1.16 slices are smaller because of the use of target blocks for the global locking.
 

@@ -8,7 +8,11 @@
   "threadURL": "https://discord.com/channels/1375556143186837695/1454754804252282910",
   "statusURL": "https://discord.com/channels/1375556143186837695/1454754804252282910/1454754804881428533",
   "status": "APPROVED",
+  "statusMessageID": "1454754804881428533",
   "updatedAt": 1766910974365,
   "references": [],
-  "statusMessageID": "1454754804881428533"
+  "referencedBy": [
+    "OD005",
+    "FA002"
+  ]
 }

@@ -15,7 +15,7 @@ Breaks the box with a piston that drops down from the top. Mainly meant for quad
 - Drop-down layout gives more space below for a secondary bottom display
 - Full hopperlocking is possible
 ## Considerations
-- Hopperlocking dust line must [be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680) disabled globally within 20 [gt](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) of a box being emptied.  May require gaps to extend redstone line.
+- Hopperlocking dust line must be disabled globally within 20 [gt](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) of a box being emptied.  May require gaps to extend redstone line.
 ## Notes
 Make sure dust line is redirected as shown in the picture to not power the piston. For 1.11+ compatibility replace the glass with slabs/solid blocks and noteblocks with trapdoors/rails.
 

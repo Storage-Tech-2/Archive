@@ -7,7 +7,15 @@
   "threadURL": "https://discord.com/channels/1375556143186837695/1454754824758493380",
   "statusURL": "https://discord.com/channels/1375556143186837695/1454754824758493380/1454754825345433803",
   "status": "APPROVED",
+  "statusMessageID": "1454754825345433803",
   "updatedAt": 1766910979034,
   "references": [],
-  "statusMessageID": "1454754825345433803"
+  "referencedBy": [
+    "BU006",
+    "MIS003",
+    "MS001",
+    "PU004",
+    "AC001",
+    "FS002"
+  ]
 }

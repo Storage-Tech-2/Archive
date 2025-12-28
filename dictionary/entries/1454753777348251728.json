@@ -12,15 +12,6 @@
   "references": [
     {
       "type": "dictionaryTerm",
-      "term": "fps",
-      "id": "1454753627594817704",
-      "url": "https://discord.com/channels/1375556143186837695/1454753627594817704/1454753628748386448",
-      "matches": [
-        "fps"
-      ]
-    },
-    {
-      "type": "dictionaryTerm",
       "term": "tile entity",
       "id": "1454754788473307200",
       "url": "https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680",
@@ -28,5 +19,8 @@
         "Tile Entity"
       ]
     }
+  ],
+  "referencedBy": [
+    "WT001"
   ]
 }

@@ -20,7 +20,7 @@ Hybrid hall containing a composter based hybrid box [loader](https://discord.com
 - [global](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) box placement
 ## Considerations
 - 6 stack buffer(with shulkerboxes in hopper pointing into shulker. included in shematic)
-- hopperlocking must [be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680) activated in a specific order(this is already prepared in the prebuilt version)
+- hopperlocking must be activated in a specific order(this is already prepared in the prebuilt version)
 - a lot of composter prefill(v3.1W does not have as much)
 - [UI](https://discord.com/channels/1375556143186837695/1454754844316274861/1454754845033627671) may be a little cramped for some(does not apply to v3.1W)
 - requires a lot of attention to detail for the tiling

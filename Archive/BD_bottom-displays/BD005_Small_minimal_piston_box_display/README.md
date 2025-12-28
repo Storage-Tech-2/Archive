@@ -15,7 +15,7 @@ Simple bottom [box display](https://discord.com/channels/1375556143186837695/145
 - Uses the minimal number of pistons for this layout
 - Smallest display with this layout that I know of
 - Fully independent slices
-- Adjacent slices can [be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680) triggered at weird intervals and will not break
+- Adjacent slices can be triggered at weird intervals and will not break
 - No breakable togglestates
 
 ## Resources

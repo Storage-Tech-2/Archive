@@ -15,7 +15,7 @@ This system aims to accelerate the sorting speed of your main storage by unloadi
 - Small footprint (12x12x12 blocks)
 - 3 separate outputs for stackables, unstackables and boxes
 - Can handle any input (but stacked unstackables)
-- Bufferless (any single item will [be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680) instantly dropped into the output, same for unmapped items)
+- Bufferless (any single item will be instantly dropped into the output, same for unmapped items)
 - 4d aligned output
 - ~88% hopper locked (30/33 hoppers)
 ## Considerations

@@ -17,7 +17,7 @@ A compact [MIS](https://discord.com/channels/1375556143186837695/145475372509167
 - Included item layout which sorts all items.
 - Runs at hopper speed, with a gap between item types
 - Includes feature to distribute boxes after building.
-- Box loaders are callable, allowing all items to [be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680) accessible at any time.
+- Box loaders are callable, allowing all items to be accessible at any time.
 - Includes an MIS fix mode, which locks hoppers in the mis and manually buffer droppers, (video will include a tutorial).
 - Overflow and empty [box detection](https://discord.com/channels/1375556143186837695/1454753490936266762/1454753491787452438).
 - Pause feature, USE WELL BEFORE LOGGING OFF!!!

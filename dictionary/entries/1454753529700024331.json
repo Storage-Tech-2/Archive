@@ -21,15 +21,6 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "be",
-      "id": "1454754788473307200",
-      "url": "https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680",
-      "matches": [
-        "be"
-      ]
-    },
-    {
-      "type": "dictionaryTerm",
       "term": "encoded",
       "id": "1454753595424505866",
       "url": "https://discord.com/channels/1375556143186837695/1454753595424505866/1454753596133605426",
@@ -46,5 +37,12 @@
         "UI"
       ]
     }
+  ],
+  "referencedBy": [
+    "CH002",
+    "CH003",
+    "CH004",
+    "CH007",
+    "LS001"
   ]
 }

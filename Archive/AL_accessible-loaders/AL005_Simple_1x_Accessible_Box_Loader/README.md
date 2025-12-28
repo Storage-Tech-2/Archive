@@ -11,7 +11,7 @@
 
 Very simple and cheap 1x accessible [loader](https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720)
 ## Features
-- Can [be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680) modified to 2x box loader
+- Can be modified to 2x box loader
 - No longer accessible when modified
 ## Notes
 - The downwards pushing and 2x box loader variants are no longer accessible

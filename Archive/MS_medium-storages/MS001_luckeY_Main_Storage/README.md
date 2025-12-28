@@ -29,7 +29,7 @@ A medium size storage system built for [luckeY](https://www.youtube.com/@luckeYp
 - Bulk Hall: https://discord.com/channels/748542142347083868/749137103463514163/1076322959096041472 ([Join Storage Tech](https://discord.gg/JufJ6uf))
 - MIS: https://discord.com/channels/748542142347083868/749136637606363167/1086235129053204481 ([Join Storage Tech](https://discord.gg/JufJ6uf))
 - Unstackable sorter: https://discord.com/channels/748542142347083868/749136876946063360/1096104601876430880 ([Join Storage Tech](https://discord.gg/JufJ6uf)) (book and disc sorter added)
-- Furnace array: https://youtu.[be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680)/ymCKHW-7HDg
+- Furnace array: https://youtu.be/ymCKHW-7HDg
 - Brewer: https://discord.com/channels/748542142347083868/748547221338849330/1150837060429688905 ([Join Storage Tech](https://discord.gg/JufJ6uf))
 - Crafting station: https://discord.com/channels/748542142347083868/749137321710059542/1112115542518673428 ([Join Storage Tech](https://discord.gg/JufJ6uf))
 - Shulker crafter: https://discord.com/channels/856232076252282890/1304497540481290410/1304497540481290410 ([Join Autocrafting Archive](https://discord.gg/guZdbQ9KQe))

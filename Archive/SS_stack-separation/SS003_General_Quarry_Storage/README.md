@@ -22,7 +22,7 @@ Sorts and stores items produced by a quarry
 ## Sourced components
 - Chunk [loader](https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720): https://discord.com/channels/594920796867133446/594968639321538560/917049843711631400 (Pfeffabeissa)
 - Cart-yeeting filter: https://discord.com/channels/748542142347083868/748578407377272843/1025134782524436590 ([Join Storage Tech](https://discord.gg/JufJ6uf)) (Hexatron) (modified by me, one posted by [hex](https://discord.com/channels/1375556143186837695/1454753655063580723/1454753656326062249) is [directional](https://discord.com/channels/1375556143186837695/1454753554815389834/1454753555566166029) and can skip items in some conditions)
-- Stack separator: <https://youtu.[be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680)/ypuFkR_3M7M> (Rapscallion)
+- Stack separator: <https://youtu.be/ypuFkR_3M7M> (Rapscallion)
 - Stack filter: https://discord.com/channels/748542142347083868/749136547755851857/1092571218982477824 ([Join Storage Tech](https://discord.gg/JufJ6uf)) (Rapscallion & Glotz)
 - Stacksep loaders: https://discord.com/channels/748542142347083868/749135718701465641/991104818951241828 ([Join Storage Tech](https://discord.gg/JufJ6uf)) + 6x one (Data & Floppy)
 - Deepslate loaders: https://discord.com/channels/748542142347083868/749135718701465641/1065569000899223572 ([Join Storage Tech](https://discord.gg/JufJ6uf)) (Philgoodinator)

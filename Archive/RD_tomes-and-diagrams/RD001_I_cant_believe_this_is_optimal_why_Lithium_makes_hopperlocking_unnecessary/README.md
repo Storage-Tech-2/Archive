@@ -17,7 +17,7 @@ When much of today’s storage tech was developed, Lithium didn’t include many
 
 Currently in 2025, that's changed. Lithium now includes an optimization that automatically manages inactive hoppers so they produce essentially no lag, effectively "locking" them without any extra wiring. **If you have Lithium, manual hopper locking won't improve performance.**
 
-So for [bulk storage](https://discord.com/channels/1375556143186837695/1454753523668484213/1454753524637499577) (for example, farm outputs), you can often just stack chests and hoppers and call it done (like in the thumbnail). It'll [be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680) as efficient as older, more complex locked bulk systems.
+So for [bulk storage](https://discord.com/channels/1375556143186837695/1454753523668484213/1454753524637499577) (for example, farm outputs), you can often just stack chests and hoppers and call it done (like in the thumbnail). It'll be as efficient as older, more complex locked bulk systems.
 ## Nuances
 People still hopper-lock because it's a fun challenge and a lingering habit from older designs. If you enjoy it, go for it, but you don't *need* to lock hoppers for your design to be "good."
 

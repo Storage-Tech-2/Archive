@@ -16,7 +16,7 @@ An input interface built into a corner. Uses hoppercarts to unload chests rapidl
 - Chest inputs are not unloaded until noteblock is pressed.
 - Pause line stops unloading of chests and locks [box display](https://discord.com/channels/1375556143186837695/1454753497638506689/1454753498494144522)
 ## Considerations
-- If box display is filled while pause line is activated, box must [be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680) opened/closed again to replace it when pause is lifted.
+- If box display is filled while pause line is activated, box must be opened/closed again to replace it when pause is lifted.
 
 ## Resources
 - [PI003_cornyeet_fixed.litematic](attachments/PI003_cornyeet_fixed.litematic): MC 1.21, Size 8x8x8 blocks

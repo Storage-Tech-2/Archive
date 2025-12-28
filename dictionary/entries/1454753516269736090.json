@@ -19,5 +19,10 @@
         "Slice"
       ]
     }
+  ],
+  "referencedBy": [
+    "IBS004",
+    "DH004",
+    "SS003"
   ]
 }

@@ -12,15 +12,6 @@
   "references": [
     {
       "type": "dictionaryTerm",
-      "term": "be",
-      "id": "1454754788473307200",
-      "url": "https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680",
-      "matches": [
-        "be"
-      ]
-    },
-    {
-      "type": "dictionaryTerm",
       "term": "bulk storage",
       "id": "1454753523668484213",
       "url": "https://discord.com/channels/1375556143186837695/1454753523668484213/1454753524637499577",
@@ -28,5 +19,6 @@
         "Bulk Storage"
       ]
     }
-  ]
+  ],
+  "referencedBy": []
 }

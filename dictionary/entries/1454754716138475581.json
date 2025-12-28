@@ -12,15 +12,6 @@
   "references": [
     {
       "type": "dictionaryTerm",
-      "term": "be",
-      "id": "1454754788473307200",
-      "url": "https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680",
-      "matches": [
-        "be"
-      ]
-    },
-    {
-      "type": "dictionaryTerm",
       "term": "parallel codes",
       "id": "1454753751335436422",
       "url": "https://discord.com/channels/1375556143186837695/1454753751335436422/1454753752350457887",
@@ -28,5 +19,6 @@
         "Parallel codes"
       ]
     }
-  ]
+  ],
+  "referencedBy": []
 }

@@ -7,7 +7,29 @@
   "threadURL": "https://discord.com/channels/1375556143186837695/1454754736224997386",
   "statusURL": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
   "status": "APPROVED",
+  "statusMessageID": "1454754736858206261",
   "updatedAt": 1766910957889,
   "references": [],
-  "statusMessageID": "1454754736858206261"
+  "referencedBy": [
+    "FL004",
+    "IBS001",
+    "IBS002",
+    "IBS003",
+    "BU006",
+    "BD003",
+    "CH001",
+    "CH002",
+    "CH003",
+    "CH004",
+    "CH007",
+    "MH001",
+    "IF002",
+    "DH004",
+    "MIS001",
+    "MIS005",
+    "VIP001",
+    "VBS003",
+    "AC004",
+    "WBS001"
+  ]
 }

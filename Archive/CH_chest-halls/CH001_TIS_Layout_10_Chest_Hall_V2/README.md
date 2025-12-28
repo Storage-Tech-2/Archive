@@ -17,7 +17,7 @@
 - Bottom filter still requires prefilling
 - 2/10 filters are 10gt and may require special item 4D alignment
 ## Notes
-Scaffolding doesn'[t](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) need to [be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680) placed every second ice blocks like in the schematic. You can replace the normal water stream blockers/extenders for scaffolding and it should support all floating blocks.
+Scaffolding doesn'[t](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) need to be placed every second ice blocks like in the schematic. You can replace the normal water stream blockers/extenders for scaffolding and it should support all floating blocks.
 
 ## Resources
 - [CH001_PyraLeft_TIS_3w.litematic](attachments/CH001_PyraLeft_TIS_3w.litematic): MC 1.18.2, Size 33x21x4 blocks

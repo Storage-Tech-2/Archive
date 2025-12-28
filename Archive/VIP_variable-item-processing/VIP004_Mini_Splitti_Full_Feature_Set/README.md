@@ -18,7 +18,7 @@ Takes in mixed boxes and splits them into boxes containing a single item type. U
 ## Considerations
 - Does not handle Empty box inputs (Please don'[t](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) send empty boxes to splitters in the first place!)
 ## Notes
-Press stone button to start splitting after putting in boxes. Empty box input hopper is covered by wool for hopperNoItemCost carpet rule but can [be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680) replaced with more chest storage.
+Press stone button to start splitting after putting in boxes. Empty box input hopper is covered by wool for hopperNoItemCost carpet rule but can be replaced with more chest storage.
 
 ## Acknowledgements:
 - Obi81: Based off of Obi's design

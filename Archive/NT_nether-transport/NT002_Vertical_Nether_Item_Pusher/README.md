@@ -13,7 +13,7 @@ Bottom to top transport for items in nether
 ## Features
 - Spam proof
 ## Notes
-Can [be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680) connected to a farm at 20gt+ interval
+Can be connected to a farm at 20gt+ interval
 ## Instructions
 Put item entities on the slime block at the very bottom, then activate the slime/piston pusher.
 

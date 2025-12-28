@@ -76,17 +76,7 @@
     "threadURL": "https://discord.com/channels/1375556143186837695/1440940601724899448",
     "uploadMessageId": "1440940599501918208"
   },
-  "references": [
-    {
-      "type": "dictionaryTerm",
-      "term": "be",
-      "id": "1454754788473307200",
-      "url": "https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680",
-      "matches": [
-        "be"
-      ]
-    }
-  ],
+  "references": [],
   "author_references": [],
   "archivedAt": 1763617410152,
   "updatedAt": 1763617410152

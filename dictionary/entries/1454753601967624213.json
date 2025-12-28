@@ -12,15 +12,6 @@
   "references": [
     {
       "type": "dictionaryTerm",
-      "term": "be",
-      "id": "1454754788473307200",
-      "url": "https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680",
-      "matches": [
-        "be"
-      ]
-    },
-    {
-      "type": "dictionaryTerm",
       "term": "bin",
       "id": "1454753454865125437",
       "url": "https://discord.com/channels/1375556143186837695/1454753454865125437/1454753455808712925",
@@ -55,5 +46,6 @@
         "Transcoder"
       ]
     }
-  ]
+  ],
+  "referencedBy": []
 }

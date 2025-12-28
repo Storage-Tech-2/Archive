@@ -14,7 +14,7 @@
 - 30 hoppers |  100% locked, even when filters are overflowing
 - 8 items/[slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261), with 2 double chests of capacity per item
 - SS2 filters. All no more than 8 [gt](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539)
-- All the display blocks can [be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680) solid
+- All the display blocks can be solid
 - Every filter hopper is accessible
 
 ## Resources

@@ -17,7 +17,7 @@ A large [bulk storage](https://discord.com/channels/1375556143186837695/14547535
 - Input protection, handles any items accidentally thrown on the platform while the farm is inactive
 - Partial Box recycling
 ## Considerations
-- Box crafting logic can [be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680) improved but works perfectly fine
+- Box crafting logic can be improved but works perfectly fine
 - Not fully hopper locked but this is a non issue with lithium
 - Uses box displays, this would be a pro or a con depending on user preference
 ## Notes

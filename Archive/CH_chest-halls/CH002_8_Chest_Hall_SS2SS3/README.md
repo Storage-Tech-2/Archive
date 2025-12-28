@@ -16,7 +16,7 @@
 - SS2 filters, SS3 variant by Pyra
 - no prefilling required
 - all filters are 8gt
-- all display blocks can [be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680) solid
+- all display blocks can be solid
 
 ## Other Images
 <img src="images/PyraLeft_SS3_Hall.png?raw=1" height="300px">

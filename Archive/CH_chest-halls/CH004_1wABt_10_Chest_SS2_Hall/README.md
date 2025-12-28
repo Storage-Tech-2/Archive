@@ -14,7 +14,7 @@
 - 32 hoppers | 100% locked
 - 10 items/slice.
 - SS2 filters. 6/10 of them are 8gt or less; 4/10 of them are 10gt.
-- All the display blocks can [be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680) solid.
+- All the display blocks can be solid.
 - No prefilling needed.
 - No dropper elevators.
 - Every filter hopper is accessible thanks to the scaffolding (optional).

@@ -16,7 +16,7 @@ Box [loader](https://discord.com/channels/1375556143186837695/145475368655860537
 - No Full Boxes Buffered
 - Precision Box Breaking
 ## Considerations
-- Dispensers need 1 shulker box to [be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680) manually prefilled
+- Dispensers need 1 shulker box to be manually prefilled
 ## Notes
 2 versions, smaller one will have 2 unlocked hoppers every 16 slices due to how one of the locking lines is and lacks overflow protection, the larger one fixes both of these issues
 

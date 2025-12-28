@@ -14,7 +14,7 @@ SSI SS2 Filters
 - SSI SS2 Filters, all no more than 8 [gt](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539)
 - 28 hoppers | 100% locked, even when filters are overflowing
 - Good [UI](https://discord.com/channels/1375556143186837695/1454754844316274861/1454754845033627671)
-- All the display blocks can [be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680) solid
+- All the display blocks can be solid
 - Every filter hopper is accessible
 
 ## Resources

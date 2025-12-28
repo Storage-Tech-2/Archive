@@ -14,7 +14,7 @@
 - SS2 signal strength isolated (SSI) filters
 - Includes two variants: 32 hopper version with push filter, 36 hopper version with dropper elevator
 - 4 is 10gt filters on slice B, other filters 8gt or less
-- Locking lines can [be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680) toggled without affecting other filters
+- Locking lines can be toggled without affecting other filters
 - CommanLeo's 10 chest hall [UI](https://discord.com/channels/1375556143186837695/1454754844316274861/1454754845033627671) layout
 
 ## Other Images

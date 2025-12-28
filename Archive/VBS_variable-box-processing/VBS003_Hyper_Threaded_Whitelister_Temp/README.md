@@ -22,7 +22,7 @@ A device that can store up to 400 unique partials, with a compact design and var
 - Handles non-whitelisted inputs
 - Whitelisting Cart yeeted after use
 ## Considerations
-- the hopper on top of the grouper and the block of water before it must [be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680) in the same chunk
+- the hopper on top of the grouper and the block of water before it must be in the same chunk
 - No Empty Box or loose item input protection
 - processing time is ~linearly related to # of boxes in bucket. The more items allocated to a slice, the slower it can be (207gt for no boxes in bucket to ~715gt for 49 boxes in bucket).
 

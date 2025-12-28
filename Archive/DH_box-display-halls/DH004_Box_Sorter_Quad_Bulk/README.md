@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318048372658316)
 
-4 box displays per [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261) design with Quad bulk, Box sorters use a special whitelisting [keygen](https://discord.com/channels/1375556143186837695/1454753674298396785/1454753674898440377), Whitelister uses cart yeeting, hence 1.19+, 216 item types (can [be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680) reduced), FHL
+4 box displays per [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261) design with Quad bulk, Box sorters use a special whitelisting [keygen](https://discord.com/channels/1375556143186837695/1454753674298396785/1454753674898440377), Whitelister uses cart yeeting, hence 1.19+, 216 item types (can be reduced), FHL
 ## Features
 - Quad bulk
 - Box sorters use a special whitelisting keygen

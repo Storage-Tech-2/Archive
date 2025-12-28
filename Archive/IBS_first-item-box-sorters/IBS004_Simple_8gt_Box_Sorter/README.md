@@ -17,7 +17,7 @@ A simple [box sorter](https://discord.com/channels/1375556143186837695/145475351
 ## Instructions
 1. Make sure to set filters! In the filter hoppers (filled with cake in the schematic), put the desired filter item in the first slot, and fill the rest of the slots with unstackable blocker items.
 2. Put boxes inside the chest at the top to sort
-3. It is recommended that you use overflow protection for the outputs. Do this by replacing the barrels with droppers in the output, overflow boxes can [be](https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680) collected via waterstream.
+3. It is recommended that you use overflow protection for the outputs. Do this by replacing the barrels with droppers in the output, overflow boxes can be collected via waterstream.
 
 ## Other Images
 <img src="images/area_render_21_.png?raw=1" height="300px">
