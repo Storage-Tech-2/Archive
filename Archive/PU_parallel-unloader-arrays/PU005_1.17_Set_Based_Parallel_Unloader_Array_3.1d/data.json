@@ -103,6 +103,32 @@
   },
   "references": [
     {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "660633169191632908",
+        "displayName": "Passionate Storage Techer 69",
+        "username": "etikle",
+        "iconURL": "https://cdn.discordapp.com/avatars/660633169191632908/552443236bae5d574b5b1aec2694b58f.webp"
+      },
+      "matches": [
+        "<@660633169191632908>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "244529884846751745",
+        "displayName": "Raffq",
+        "username": "raffq",
+        "iconURL": "https://cdn.discordapp.com/avatars/244529884846751745/25d3bc667842f56584713459d3f4713b.webp"
+      },
+      "matches": [
+        "<@244529884846751745>"
+      ]
+    },
+    {
       "type": "discordLink",
       "url": "https://discord.com/channels/748542142347083868/963431585816911872/1297648167227101225",
       "server": "748542142347083868",
@@ -125,6 +151,58 @@
       ],
       "serverName": "Storage Tech",
       "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "433358354094489612",
+        "displayName": "Kayzm",
+        "username": "kayzm",
+        "iconURL": "https://cdn.discordapp.com/avatars/433358354094489612/0f167406c62ebef7f4e43d1b07471598.webp"
+      },
+      "matches": [
+        "<@433358354094489612>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "183711148288245760",
+        "displayName": "DrakePHOSE",
+        "username": "drakephose",
+        "iconURL": "https://cdn.discordapp.com/avatars/183711148288245760/bfaafaea0f922180417020864ce32970.webp"
+      },
+      "matches": [
+        "<@183711148288245760>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "1068798858676686848",
+        "displayName": "77777777777777777777",
+        "username": "777777777777777777774832",
+        "iconURL": "https://cdn.discordapp.com/avatars/1068798858676686848/9c8fd7932d9c0072be4f3d559abe76b8.webp"
+      },
+      "matches": [
+        "<@1068798858676686848>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "1055842182982021144",
+        "displayName": "insto",
+        "username": "ionstrin",
+        "iconURL": "https://cdn.discordapp.com/avatars/1055842182982021144/9d55faf9fe9c535c67f31c8b069454db.webp"
+      },
+      "matches": [
+        "<@1055842182982021144>"
+      ]
     },
     {
       "type": "discordLink",

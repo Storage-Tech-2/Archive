@@ -117,6 +117,13 @@
       ]
     },
     {
+      "type": "channelMention",
+      "channelID": "1382996113191206932",
+      "matches": [
+        "<#1382996113191206932>"
+      ]
+    },
+    {
       "type": "dictionaryTerm",
       "term": "loader",
       "id": "1454753686558605373",
