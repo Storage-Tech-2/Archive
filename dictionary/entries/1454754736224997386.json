@@ -11,9 +11,18 @@
   "updatedAt": 1766910957889,
   "references": [],
   "referencedBy": [
+    "FL002",
     "FL004",
     "IBS002",
+    "IBS003",
     "BU002",
+    "BU006",
+    "CH006",
+    "IF002",
+    "MIS001",
+    "MIS005",
+    "MIS006",
+    "SS001",
     "VIP006",
     "VBS003",
     "WBS001"

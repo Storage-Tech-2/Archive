@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1389410831594291300)
 
-Loads items at 6x hopper speed into shulker boxes on a [global](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) clock. This has the advantage of being more lag friendly and smaller than similar locally clocked loaders.
+Loads items at [6x](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294) hopper speed into shulker boxes on a [global](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) clock. This has the advantage of being more lag friendly and smaller than similar locally clocked loaders.
 ## Features
 - Loads items at 6x hopper speed
 - Very small (4x6x3 per module)

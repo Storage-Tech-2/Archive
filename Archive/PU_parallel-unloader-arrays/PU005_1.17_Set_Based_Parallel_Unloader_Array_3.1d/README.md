@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1450297315628941466)
 
-This machine takes any shulker boxes as an input, and unloads them, several at a time, so that stackable items are never unloaded faster than 9000 items per hour, which is the maximum a 1 times hopper speed filter can handle. By unloading several different item types at the same time, when attached to a filter based storage this machine can help sort items at extremely high speed; up to 144000 items per hour, or 16 times hopper speed.
+This machine takes any shulker boxes as an input, and unloads them, several at a time, so that stackable items are never unloaded faster than 9000 items per hour, which is the maximum a 1 times [hopper speed](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294) filter can handle. By unloading several different item types at the same time, when attached to a filter based storage this machine can help sort items at extremely high speed; up to 144000 items per hour, or 16 times hopper speed.
 ## Features
 - Up to 16x hopperspeed parallelization
 - Uses an item type set to ensure only hopperspeed output per type at a time

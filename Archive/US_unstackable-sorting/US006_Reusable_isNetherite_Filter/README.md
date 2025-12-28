@@ -11,7 +11,7 @@
 
 A device that drops an item into a lava cauldron, using calibrated sculk sensors to detect damage and separate netherite (non-flammable) items from other (burnable) items. Does not consume any items making this device infinitely reusable.
 ## Features
-- Sorts netherrite items at up to hopperspeed
+- Sorts netherrite items at up to [hopperspeed](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294)
 - Does not consume any items
 - Small size (3x4x4 for the 22[gt](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) version)
 - Random input proof

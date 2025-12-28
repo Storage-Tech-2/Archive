@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1451116522746548225)
 
-A simple [box sorter](https://discord.com/channels/1375556143186837695/1454753516269736090/1454753518383792221) which can sort boxes by their first item type at hopperspeed
+A simple [box sorter](https://discord.com/channels/1375556143186837695/1454753516269736090/1454753518383792221) which can sort boxes by their first item type at [hopperspeed](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294)
 ## Features
 - Hopperspeed per [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) throughput
 - Very small slices (6x4)

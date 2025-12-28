@@ -13,7 +13,7 @@ Each [slice](https://discord.com/channels/1375556143186837695/145475473622499738
 ## Features
 - [2x](https://discord.com/channels/1375556143186837695/1454753562033651876/1454753563258519584)6x8 (single slice)
 - true 2-wide tileable
-- Input boxes at hopper speed: 8[gt](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539)
+- Input boxes at [hopper speed](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294): 8[gt](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539)
 ## Instructions
 First, set up filters by putting 18 items of the item you want to filter in the hopper below the box dispensing area. The rest of the slots should be filled with one 64-stackable blocker item each. Do this for all of your slices. Then, you can insert boxes to sort into the hopper feeding the dropper/dispenser (read by a comparator) by using another hopper to push items inside of it.
 

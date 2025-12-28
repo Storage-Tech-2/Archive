@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318153205088398)
 
-Uses stack separation to filter entire stack of items at once. Each of the 3wt modules loads sorted items into shulker boxes at 8x hopperspeed.
+Uses stack separation to filter entire stack of items at once. Each of the 3wt modules loads sorted items into shulker boxes at [8x](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294) hopperspeed.
 ## Features
 - 8830 stacks/h core (up to 565k items/hr)
 - 72k/h loaders per [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261)

@@ -30,6 +30,7 @@
     }
   ],
   "referencedBy": [
+    "IBS004",
     "SS003"
   ]
 }

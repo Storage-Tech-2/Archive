@@ -11,7 +11,10 @@
   "updatedAt": 1766910979034,
   "references": [],
   "referencedBy": [
-    "MS001",
+    "BU003",
+    "BU006",
+    "MIS003",
+    "PU001",
     "PU004",
     "VIP003"
   ]

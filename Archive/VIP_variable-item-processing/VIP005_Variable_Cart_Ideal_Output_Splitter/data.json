@@ -90,7 +90,18 @@
     "threadURL": "https://discord.com/channels/1375556143186837695/1397833391767818270",
     "uploadMessageId": "1399033328509779989"
   },
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "8x",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "8x",
+        "hopperspeed"
+      ]
+    }
+  ],
   "author_references": [],
   "archivedAt": 1753625937818,
   "updatedAt": 1753625937818

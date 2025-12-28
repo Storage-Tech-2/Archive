@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1389244896870797333)
 
-A fairly large storage system that utilizes a parallel unloading array allowing the system to unload at a max of 8x hopper speed.
+A fairly large storage system that utilizes a parallel unloading array allowing the system to unload at a max of [8x](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294) hopper speed.
 ## Features
 - ~90% Hopperlocked
 - Has various peripherals: restock stations, furnace array, crafting station, and yeeting station, masscrafter, brewer, and [unstackable sorter](https://discord.com/channels/1375556143186837695/1454754837379022858/1454754839224516712)
@@ -29,7 +29,7 @@ Tested for ~400k items without issues
 - Chunkloader: https://discord.com/channels/748542142347083868/748547221338849330/1127706483723882537 ([Join Storage Tech](https://discord.gg/JufJ6uf))
 - Stacked [Box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) Storage: https://discord.com/channels/748542142347083868/1182473535566921788/1182476705714147348 ([Join Storage Tech](https://discord.gg/JufJ6uf))
 - Colored Box Crafter: [AC001](https://discord.com/channels/1375556143186837695/1388318423427059806)
-- [1x](https://discord.com/channels/1375556143186837695/1454753562033651876/1454753563258519584) Loader: [FL002](https://discord.com/channels/1375556143186837695/1388316649903624192)
+- 1x Loader: [FL002](https://discord.com/channels/1375556143186837695/1388316649903624192)
 - MIS: https://discord.com/channels/748542142347083868/1114672908065837148/1119002430688997386 ([Join Storage Tech](https://discord.gg/JufJ6uf))
 - Unstackable Sorter: https://discord.com/channels/748542142347083868/1286267762360188958/1286268041662824471 ([Join Storage Tech](https://discord.gg/JufJ6uf))
 - Buffer Box Display: https://discord.com/channels/748542142347083868/1120296660543746138/1187751207108882563 ([Join Storage Tech](https://discord.gg/JufJ6uf))

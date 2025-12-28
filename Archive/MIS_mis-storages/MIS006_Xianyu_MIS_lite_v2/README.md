@@ -11,7 +11,7 @@
 
 A beginner to intermediate cart-based [MIS](https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954) storage. Fast speed, minimum prefill, minimum lag, and beginner-friendly.
 ## Features
-- max speed 9.7x [HS](https://discord.com/channels/1375556143186837695/1454753562033651876/1454753563258519584), operating at 6.5x HS on average
+- max speed 9.7x HS, operating at 6.5x HS on average
 - smart input with lock feature and isBox check
 - different input for boxes and loose items
 - 46 slices in total, easy to expand

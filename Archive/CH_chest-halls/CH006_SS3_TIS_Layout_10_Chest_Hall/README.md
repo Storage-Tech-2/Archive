@@ -13,7 +13,7 @@
 ## Features
 - Slices are identical, locking system is the only change between slices
 - 0 prefilled hopper/dispenser
-- Runs at hopperspeed
+- Runs at [hopperspeed](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294)
 - Fully [hopper-locked](https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422) (36 hoppers/Slice)
 ## Considerations
 - TIS layout requires 2 transparent block displays per slice

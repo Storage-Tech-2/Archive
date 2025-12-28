@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318356377043076)
 
-Split mixed boxes into single type boxes. Produces minimum partial boxes. Up to 64x hopperspeed. 3[2x](https://discord.com/channels/1375556143186837695/1454753562033651876/1454753563258519584) variant included in WDL.
+Split mixed boxes into single type boxes. Produces minimum partial boxes. Up to 6[4x](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294) hopperspeed. 3[2x](https://discord.com/channels/1375556143186837695/1454753562033651876/1454753563258519584) variant included in WDL.
 ## Features
 - No idle hoppercarts and locked [loader](https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720) hoppers
 - Cart based [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) [unloader](https://discord.com/channels/1375556143186837695/1454754824758493380/1454754825345433803) and item refresher

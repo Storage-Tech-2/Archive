@@ -95,7 +95,17 @@
     "threadURL": "https://discord.com/channels/1375556143186837695/1405447030385410058",
     "uploadMessageId": "1405447028590379090"
   },
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperspeed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "Hopperspeed"
+      ]
+    }
+  ],
   "author_references": [],
   "archivedAt": 1755155083373,
   "updatedAt": 1755155083373

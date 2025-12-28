@@ -87,7 +87,18 @@
     "attachmentMessageId": "1388177521211736099",
     "uploadMessageId": "1388177514286944327"
   },
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "8x",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "8x",
+        "hopper speed"
+      ]
+    }
+  ],
   "author_references": [],
   "archivedAt": 1750576991354,
   "updatedAt": 1750576991354

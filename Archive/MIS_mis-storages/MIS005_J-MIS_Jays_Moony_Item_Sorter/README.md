@@ -15,7 +15,7 @@ A compact [MIS](https://discord.com/channels/1375556143186837695/145475372509167
 - 896 Hoppers, 75% Hopperlocked
 - Compact system (29x29x35), fits under a single chunk [loader](https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720) with no chunk alignment.
 - Included item layout which sorts all items.
-- Runs at hopper speed, with a gap between item types
+- Runs at [hopper speed](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294), with a gap between item types
 - Includes feature to distribute boxes after building.
 - Box loaders are callable, allowing all items to be accessible at any time.
 - Includes an MIS fix mode, which locks hoppers in the mis and manually buffer droppers, (video will include a tutorial).

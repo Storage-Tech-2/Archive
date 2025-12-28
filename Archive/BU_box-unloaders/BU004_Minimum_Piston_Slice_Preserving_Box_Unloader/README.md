@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317057002504253)
 
-Unloads items from boxes at hopperspeed.
+Unloads items from boxes at [hopperspeed](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294).
 ## Features
 - Empty boxes are collected instantly and are unable to land in other slices, avoiding output contamination.
 - Boxes are separated reliably and dropped out of the bottom, while unloaded items go in the chest.

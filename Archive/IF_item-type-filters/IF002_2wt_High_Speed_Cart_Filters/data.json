@@ -140,6 +140,15 @@
   "references": [
     {
       "type": "dictionaryTerm",
+      "term": "hopperspeed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopperspeed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
       "term": "slice",
       "id": "1454754736224997386",
       "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",

@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318507229249557)
 
-Simple double-hopperspeed 50 furnace array for storage halls.
+Simple double-[hopperspeed](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294) 50 furnace array for storage halls.
 ## Features
 - -Simpler and cheap, no entities. (distributes by creating breaks in the instant dropper line every 200gts)
 - -On/Off switch and distribution is spam resistant (not spam proof)

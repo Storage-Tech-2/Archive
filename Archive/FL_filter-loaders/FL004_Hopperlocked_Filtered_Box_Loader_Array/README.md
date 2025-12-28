@@ -16,7 +16,7 @@ This filtered shulker [box](https://discord.com/channels/1375556143186837695/145
 - 9x9 Size
 - Signal strength independent filters
 - Water collection
-- Can be stacked vertically (128x hopperspeed [2x](https://discord.com/channels/1375556143186837695/1454753562033651876/1454753563258519584)2 layout [schematic](https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487) included)
+- Can be stacked vertically (12[8x](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294) hopperspeed [2x](https://discord.com/channels/1375556143186837695/1454753562033651876/1454753563258519584)2 layout [schematic](https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487) included)
 ## Considerations
 - While there is a 1x [loader](https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720) every 1 wide slice, you need to AB tile 2 wide slices containing 2 loaders at a time.
 - Waterstream box distribution is required

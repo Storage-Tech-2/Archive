@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1406048074920493137)
 
-A small device that takes in boxes and outputs items for filtered storage systems, ensuring no more than [1x](https://discord.com/channels/1375556143186837695/1454753562033651876/1454753563258519584) hopperspeed per item type and capable of outputting up to 5 different item types simultaneously for up to 5x hopperspeed.
+A small device that takes in boxes and outputs items for filtered storage systems, ensuring no more than [1x](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294) hopperspeed per item type and capable of outputting up to 5 different item types simultaneously for up to 5x hopperspeed.
 ## Features
 - Very small, only 11x11x12
 - 4D aligned item output

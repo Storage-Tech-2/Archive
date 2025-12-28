@@ -130,6 +130,18 @@
   "references": [
     {
       "type": "dictionaryTerm",
+      "term": "8x",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "8x",
+        "hopper speed",
+        "6x",
+        "1x"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
       "term": "unstackable sorter",
       "id": "1454754837379022858",
       "url": "https://discord.com/channels/1375556143186837695/1454754837379022858/1454754839224516712",
@@ -253,15 +265,6 @@
       "url": "https://discord.com/channels/1375556143186837695/1388318423427059806",
       "matches": [
         "https://discord.com/channels/1375556143186837695/1388318423427059806"
-      ]
-    },
-    {
-      "type": "dictionaryTerm",
-      "term": "1x",
-      "id": "1454753562033651876",
-      "url": "https://discord.com/channels/1375556143186837695/1454753562033651876/1454753563258519584",
-      "matches": [
-        "1x"
       ]
     },
     {

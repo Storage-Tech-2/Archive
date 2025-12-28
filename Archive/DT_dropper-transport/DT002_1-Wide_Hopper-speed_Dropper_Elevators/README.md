@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317501406056528)
 
-Collection of various different dropper item elevators. All these designs transfer items at hopper speed (8[gt](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539)), are lossless and non-[directional](https://discord.com/channels/1375556143186837695/1454753554815389834/1454753555566166029), exept for D1/2.
+Collection of various different dropper item elevators. All these designs transfer items at [hopper speed](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294) (8[gt](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539)), are lossless and non-[directional](https://discord.com/channels/1375556143186837695/1454753554815389834/1454753555566166029), exept for D1/2.
 ## Notes
 A3 by @rapscallion1138
 B2 by Minestop

@@ -11,7 +11,7 @@
 
 A device that separates loose items and boxes, and sorts the boxes into 3 groups: empty, partially filled, and full boxes. Useful for processing items from inputs to storage systems.
 ## Features
-- Hopperspeed
+- [Hopperspeed](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294)
 - Small footprint (5x4x3)
 - Uses only 3 hoppers
 - Bufferless

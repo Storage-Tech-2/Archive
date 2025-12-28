@@ -16,7 +16,7 @@ V3 of a device that 0 [ticks](https://discord.com/channels/1375556143186837695/1
 - Works with compostables
 ## Considerations
 - [Global](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) Clock
-- [1x](https://discord.com/channels/1375556143186837695/1454753562033651876/1454753563258519584) speed input , 2x speed input if you put a redstone block next to comparator (buffers 9 stacks)
+- [1x](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294) speed input , [2x](https://discord.com/channels/1375556143186837695/1454753562033651876/1454753563258519584) speed input if you put a redstone block next to comparator (buffers 9 stacks)
 ## Compatibility
 Not specified
 

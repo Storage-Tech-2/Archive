@@ -11,7 +11,7 @@
 
 A simple storage system intended as a main [MIS](https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954) (multi-item sorter) for the typical survival Minecraft player.
 ## Features
-- Sorts at ~½-⅔ hopperspeed (~4500-6000/h).
+- Sorts at ~½-⅔ [hopperspeed](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294) (~4500-6000/h).
 - Includes hopperlocked and chunk loading variants.
 - Lower relative build complexity and cost.
 - Highly resilient to game updates (only the input system might need updates in extreme cases).

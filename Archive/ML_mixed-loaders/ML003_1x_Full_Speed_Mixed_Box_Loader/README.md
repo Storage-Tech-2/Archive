@@ -9,11 +9,11 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388316790202957984)
 
-Loads mixed items into boxes at full hopperspeed. Meant for use in input systems to prevent the case where items can back up into the item/[box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) checker if the input receives a constant stream of items.
+Loads mixed items into boxes at full [hopperspeed](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294). Meant for use in input systems to prevent the case where items can back up into the item/[box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) checker if the input receives a constant stream of items.
 ## Features
 - 5x5x4 size
 - Does not break with random input due to locking the dropper before box replacement
-- Clocks droppers at 8[gt](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) during normal operation and 4gt to clear backup to maintain full [1x](https://discord.com/channels/1375556143186837695/1454753562033651876/1454753563258519584) hopper speed
+- Clocks droppers at 8[gt](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) during normal operation and 4gt to clear backup to maintain full 1x hopper speed
 - Automatically breaks box after a period of no input
 
 ## Resources

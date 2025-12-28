@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1394718456934563972)
 
-This [loader](https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720) design features mixed item loading at full 6x hopperspeed (54k items/h)
+This [loader](https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720) design features mixed item loading at full [6x](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294) hopperspeed (54k items/h)
 ## Features
 - 3-wide tileable
 - Size: 6x6x3

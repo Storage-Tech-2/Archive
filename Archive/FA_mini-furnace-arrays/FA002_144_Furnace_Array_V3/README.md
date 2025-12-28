@@ -14,7 +14,7 @@
 - 10x1[2x](https://discord.com/channels/1375556143186837695/1454753562033651876/1454753563258519584)46
 - Fully hopperlocked (458 total hoppers)
 - optional box content preservation
-- max Speed of just below 6x Hopper speed
+- max Speed of just below [6x](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294) Hopper speed
 - [Togglestate](https://discord.com/channels/1375556143186837695/1454754804252282910/1454754804881428533)-less
 - Protection against running out of fuel(Reads extra boxes)
 ## Considerations

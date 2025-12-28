@@ -7,7 +7,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388316667855241277)
 
-[Togglestate](https://discord.com/channels/1375556143186837695/1454754804252282910/1454754804881428533)-less and simple device that filters and loads items into shulker boxes at hopperspeed.
+[Togglestate](https://discord.com/channels/1375556143186837695/1454754804252282910/1454754804881428533)-less and simple device that filters and loads items into shulker boxes at [hopperspeed](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294).
 ## Features
 - Includes an [SS](https://discord.com/channels/1375556143186837695/1454754774833696893/1454754775542267957)3 item filter. 7x7 in size.
 - Togglestate-less
