@@ -11,7 +11,7 @@
 
 Loads boxes at [8x](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294) hopperspeed without pausing during [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) replacement. Not tested extensively.
 ## Features
-- Fullspeed loading
+- [Fullspeed](https://discord.com/channels/1375556143186837695/1454939844274032771/1454939852222238955) loading
 - 3 wide
 
 ## Resources

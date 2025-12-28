@@ -11,18 +11,7 @@
   "updatedAt": 1766910707746,
   "references": [],
   "referencedBy": [
-    "FL004",
-    "AL005",
-    "ML005",
-    "ML006",
-    "MIS003",
-    "MIS005",
-    "LS001",
-    "SS001",
-    "SS003",
-    "VIP003",
-    "CL001",
-    "AC002",
-    "FA002"
+    "PI004",
+    "VIP001"
   ]
 }

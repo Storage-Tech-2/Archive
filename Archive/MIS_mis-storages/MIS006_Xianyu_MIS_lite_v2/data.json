@@ -133,6 +133,15 @@
     },
     {
       "type": "dictionaryTerm",
+      "term": "hs",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "HS"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
       "term": "bulk storage",
       "id": "1454753523668484213",
       "url": "https://discord.com/channels/1375556143186837695/1454753523668484213/1454753524637499577",
