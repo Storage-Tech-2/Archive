@@ -12,7 +12,17 @@
   "status": "APPROVED",
   "statusMessageID": "1454753635690090539",
   "updatedAt": 1766910695563,
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "redstone tick",
+      "id": "1454805316029120542",
+      "url": "https://discord.com/channels/1375556143186837695/1454805316029120542/1454805317320835073",
+      "matches": [
+        "redstone tick"
+      ]
+    }
+  ],
   "referencedBy": [
     "TD001",
     "BD003",

@@ -9,16 +9,6 @@
   "status": "APPROVED",
   "statusMessageID": "1454805317320835073",
   "updatedAt": 1766923169702,
-  "references": [
-    {
-      "type": "dictionaryTerm",
-      "term": "tick",
-      "id": "1454753634435858666",
-      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
-      "matches": [
-        "tick"
-      ]
-    }
-  ],
+  "references": [],
   "referencedBy": []
 }
