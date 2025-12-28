@@ -229,11 +229,12 @@
       "id": "1454753634435858666",
       "terms": [
         "Gametick",
+        "Gameticks",
         "gt",
         "tick"
       ],
       "summary": "Minecraft iteratively runs its processing code in a loop. One cycle of this loop is called a Tick or Gametick (gt). \nGameticks are also used as the default measurement of time while working with re...",
-      "updatedAt": 1766927049511
+      "updatedAt": 1766927218691
     },
     {
       "id": "1454753641226305589",
