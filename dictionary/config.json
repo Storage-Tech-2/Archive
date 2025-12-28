@@ -49,7 +49,7 @@
         "BUD"
       ],
       "summary": "A Block Update detector is a device that has something happen when it receives an update. Example: A piston that is Quasi-powered (Quasi connectivity) but not yet updated is called \"BUDded\", and wi...",
-      "updatedAt": 1766910657600
+      "updatedAt": 1766924351250
     },
     {
       "id": "1454753484703273044",
@@ -593,7 +593,7 @@
         "Unstackable sorter"
       ],
       "summary": "An item sorter that sorts unstackable items into different categories. Regular item sorters can not be used for this use case, because the items don't stack, so unique behaviors of each item type h...",
-      "updatedAt": 1766910982288
+      "updatedAt": 1766924462411
     },
     {
       "id": "1454754844316274861",
@@ -651,7 +651,7 @@
         "Box"
       ],
       "summary": "Abbreviation of Shulker Box (Invariant of color)",
-      "updatedAt": 1766923704985
+      "updatedAt": 1766924366997
     }
   ]
 }
