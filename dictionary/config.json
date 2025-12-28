@@ -373,11 +373,12 @@
       "id": "1454753738425368687",
       "terms": [
         "n-Wide tileable",
-        "1wt, 2wt, ...",
+        "1wt",
+        "2wt",
         "nwt"
       ],
       "summary": "Annotates the width of a slice, and whether or not you can build them right next to each other. There are systems that are 1 wide, but you can't put 2 next to each other due to Crosstalk, so they d...",
-      "updatedAt": 1766910720663
+      "updatedAt": 1766959409712
     },
     {
       "id": "1454753746264395930",
