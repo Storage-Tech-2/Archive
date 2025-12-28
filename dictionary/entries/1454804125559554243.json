@@ -6,8 +6,9 @@
   "definition": "A box loader that can be accessed whilst loading",
   "threadURL": "https://discord.com/channels/1375556143186837695/1454804125559554243",
   "statusURL": "https://discord.com/channels/1375556143186837695/1454804125559554243/1454804126541152338",
-  "status": "PENDING",
-  "updatedAt": 1766922732548,
+  "status": "APPROVED",
+  "statusMessageID": "1454804126541152338",
+  "updatedAt": 1766922768661,
   "references": [
     {
       "type": "dictionaryTerm",
@@ -19,6 +20,5 @@
       ]
     }
   ],
-  "referencedBy": [],
-  "statusMessageID": "1454804126541152338"
+  "referencedBy": []
 }
