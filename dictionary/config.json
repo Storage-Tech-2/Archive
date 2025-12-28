@@ -340,12 +340,11 @@
     {
       "id": "1454753719664119890",
       "terms": [
-        "MSPT",
-        "Milliseconds Per Tick",
-        "ms"
+        "mspt",
+        "Milliseconds Per Tick"
       ],
       "summary": "A measurement of how many milliseconds it takes to process each gametick. If a server exceeds 50MSPT in total, then the game will slow down, as there is no longer enough time to process all 20 tick...",
-      "updatedAt": 1766910715581
+      "updatedAt": 1766927388375
     },
     {
       "id": "1454753725091676293",
