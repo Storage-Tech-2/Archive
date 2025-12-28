@@ -7,6 +7,7 @@
   "threadURL": "https://discord.com/channels/1375556143186837695/1454815650580009062",
   "statusURL": "https://discord.com/channels/1375556143186837695/1454815650580009062/1454815652077371413",
   "status": "PENDING",
+  "statusMessageID": "1454815652077371413",
   "updatedAt": 1766925480418,
   "references": [
     {
@@ -17,17 +18,7 @@
       "matches": [
         "Box"
       ]
-    },
-    {
-      "type": "dictionaryTerm",
-      "term": "t",
-      "id": "1454753634435858666",
-      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
-      "matches": [
-        "t"
-      ]
     }
   ],
-  "referencedBy": [],
-  "statusMessageID": "1454815652077371413"
+  "referencedBy": []
 }

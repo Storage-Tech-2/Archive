@@ -12,7 +12,7 @@
 An incredibly simple [box display](https://discord.com/channels/1375556143186837695/1454753497638506689/1454753498494144522) that is quick to build and is the only 4 wide box display to my knowledge.
 ## Considerations
 - One Wide AB Tileable (alternate slime and honey)
-- You can’[t](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) easily handle initial [box detection](https://discord.com/channels/1375556143186837695/1454753490936266762/1454753491787452438).
+- You can’t easily handle initial [box detection](https://discord.com/channels/1375556143186837695/1454753490936266762/1454753491787452438).
 - It should be possible to time the breaking on another [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261) to cause the [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) breaking to trigger extra and break a partial full box, but this is so incredibly unlikely.
 
 ## Resources

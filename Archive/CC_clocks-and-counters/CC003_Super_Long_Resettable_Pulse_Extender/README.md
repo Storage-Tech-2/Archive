@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318581678407772)
 
-Programmable length from 90s to about 15 hours. Doesn'[t](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) use hoppers and mostly [dustless](https://discord.com/channels/1375556143186837695/1454753587979620354/1454753589133049889) except one dot. Kinda big (3x6x6).
+Programmable length from 90s to about 15 hours. Doesn't use hoppers and mostly [dustless](https://discord.com/channels/1375556143186837695/1454753587979620354/1454753589133049889) except one dot. Kinda big (3x6x6).
 ## Features
 - Programmable length from 90s to about 15 hours
 - Doesn't use hoppers and mostly dustless except one dot

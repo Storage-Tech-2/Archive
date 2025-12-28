@@ -11,12 +11,9 @@
   "updatedAt": 1766910957889,
   "references": [],
   "referencedBy": [
-    "FL004",
-    "BU006",
-    "BU010",
+    "BU002",
+    "BD003",
     "CH001",
-    "CH005",
-    "MH001",
     "MH002",
     "SS001"
   ]

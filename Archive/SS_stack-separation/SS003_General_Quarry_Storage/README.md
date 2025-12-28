@@ -13,7 +13,7 @@ Sorts and stores items produced by a quarry
 ## Features
 - Comes in 3 schematics: stack separation sorter, sorter + deepslate loaders, sorter + storage.
 - Sorter and storage are configured for an average mesa quarry in 1.18+ using VDQ v2.
-- Sorter can handle a 500 wide quarry (wider as well, but that hasn'[t](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) been tested).
+- Sorter can handle a 500 wide quarry (wider as well, but that hasn't been tested).
 ## Notes
 - World download also includes instructions for running quarry with the sorter, please read those.
 - Note that it doesn't collect all produced deepslate, only up to 8mil.

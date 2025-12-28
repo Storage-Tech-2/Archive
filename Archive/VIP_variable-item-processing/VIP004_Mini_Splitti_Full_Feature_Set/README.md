@@ -16,7 +16,7 @@ Takes in mixed boxes and splits them into boxes containing a single item type. U
 - Emptied Boxes and Unstackables are output in separate streams from Partials output.
 - Pauseable with [global](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) clock
 ## Considerations
-- Does not handle Empty [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) inputs (Please don'[t](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) send empty boxes to splitters in the first place!)
+- Does not handle Empty [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) inputs (Please don't send empty boxes to splitters in the first place!)
 ## Notes
 Press stone button to start splitting after putting in boxes. Empty box input hopper is covered by wool for hopperNoItemCost carpet rule but can be replaced with more chest storage.
 

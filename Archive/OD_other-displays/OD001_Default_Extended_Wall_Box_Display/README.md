@@ -14,7 +14,7 @@ Wall [box display](https://discord.com/channels/1375556143186837695/145475349763
 - Snow default extended when no [box](https://discord.com/channels/1375556143186837695/1454806018348290109/1454806020177133708) is displayed
 - [Global](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) first box placement
 - Loses last box due to how it's wired
-- If global first box dispensing triggers while a box is being replaced, there's a chance the box won'[t](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) be collected
+- If global first box dispensing triggers while a box is being replaced, there's a chance the box won't be collected
 
 ## Resources
 - [OD001_walldisplay_defaultextended.litematic](attachments/OD001_walldisplay_defaultextended.litematic): MC 1.20.2, Size 1x8x8 blocks

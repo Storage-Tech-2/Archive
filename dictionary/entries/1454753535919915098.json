@@ -10,17 +10,7 @@
   "status": "APPROVED",
   "statusMessageID": "1454753536629018626",
   "updatedAt": 1766910671805,
-  "references": [
-    {
-      "type": "dictionaryTerm",
-      "term": "t",
-      "id": "1454753634435858666",
-      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
-      "matches": [
-        "t"
-      ]
-    }
-  ],
+  "references": [],
   "referencedBy": [
     "VBS002"
   ]

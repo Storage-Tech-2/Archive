@@ -18,12 +18,12 @@ Brought to you by Pwouik @pwouik
 > 
 > Easiest way to float a minecart is 0 ticking a piston with the minecart in front.
 > 
-> This cause the minecart to be detectable by block, but the entity doesn'[t](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) collide with the blocks.
+> This cause the minecart to be detectable by block, but the entity doesn't collide with the blocks.
 > 
 > A few examples of blocks that can detect the minecart:
 > moving blocks can push the minecart, slimeblock can accelerate it 
 > hopper can interact with minecarts inventories
-> tripwire detect it when ticked, but the minecart doesn't tick it(you can put an entity colliding with the block where the tripwire is to tick it continuously)
+> tripwire detect it when ticked, but the minecart doesn't [tick](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) it(you can put an entity colliding with the block where the tripwire is to tick it continuously)
 
 ## Resources
 - [TT003_Float_Aligner.jpg](attachments/TT003_Float_Aligner.jpg): image/jpeg

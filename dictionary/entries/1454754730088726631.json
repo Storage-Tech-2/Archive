@@ -7,7 +7,10 @@
   "threadURL": "https://discord.com/channels/1375556143186837695/1454754730088726631",
   "statusURL": "https://discord.com/channels/1375556143186837695/1454754730088726631/1454754731049095302",
   "status": "APPROVED",
+  "statusMessageID": "1454754731049095302",
   "updatedAt": 1766910956533,
   "references": [],
-  "statusMessageID": "1454754731049095302"
+  "referencedBy": [
+    "DT002"
+  ]
 }

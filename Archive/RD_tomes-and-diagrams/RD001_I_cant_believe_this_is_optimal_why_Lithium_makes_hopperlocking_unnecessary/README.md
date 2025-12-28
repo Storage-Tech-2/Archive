@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1451060467060707470)
 
-You’ve probably noticed that many storage devices use a feature called **hopper locking**. Hopper locking powers inactive hoppers with redstone to prevent them from doing anything, reducing lag. Because a locked hopper can’[t](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) move items, it can skip several expensive checks each tick and generate far less lag. As a result, many older storage-tech builds include wiring to lock hoppers as an optimization.
+You’ve probably noticed that many storage devices use a feature called **hopper locking**. Hopper locking powers inactive hoppers with redstone to prevent them from doing anything, reducing lag. Because a locked hopper can’t move items, it can skip several expensive checks each [tick](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) and generate far less lag. As a result, many older storage-tech builds include wiring to lock hoppers as an optimization.
 ## Lithium makes hopper locking optional
 [Lithium](https://github.com/CaffeineMC/lithium) is a mod used on most technical Minecraft servers. Its internals are complex, but the goal is simple: improve performance while preserving vanilla behavior.
 

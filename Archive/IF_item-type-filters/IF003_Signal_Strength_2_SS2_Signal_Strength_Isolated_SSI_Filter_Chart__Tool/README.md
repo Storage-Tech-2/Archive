@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317664770003015)
 
-**S**ignal **S**trength **2** filters turn on when the singal strength reaches level 2. **S**ignal **S**trengh **I**solated filters allow for only a single filter item in the first slot, as well as bigger batches of items to be picked up at once. However, they require AB tiling so the signal strength from the dust can'[t](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) overflow to adjacent filters. Most of the presented filters work in versions 1.5+, some alternative variants are 1.16+ because of target blocks.
+**S**ignal **S**trength **2** filters turn on when the singal strength reaches level 2. **S**ignal **S**trengh **I**solated filters allow for only a single filter item in the first slot, as well as bigger batches of items to be picked up at once. However, they require AB tiling so the signal strength from the dust can't overflow to adjacent filters. Most of the presented filters work in versions 1.5+, some alternative variants are 1.16+ because of target blocks.
 
 __[Interactive website](https://scockram.github.io/ssindependantfilters/)__
 by @dzreamslol
