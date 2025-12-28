@@ -686,6 +686,19 @@
       ],
       "summary": "Abbreviation for main storage, typically having a bulk, chest halls and a MIS to sort items",
       "updatedAt": 1766953964279
+    },
+    {
+      "id": "1454937395693879409",
+      "terms": [
+        "Hopper speed",
+        "hopperspeed",
+        "1x",
+        "4x",
+        "6x",
+        "8x"
+      ],
+      "summary": "Refers to the speed at which items are processed in a hopper (1 item every 8gt, or 2.5 items per second). Usually written as an integer (e.g. \"3x hopper speed\").\n## Common hopperspeeds\n1x: 9000 ite...",
+      "updatedAt": 1766954678415
     }
   ]
 }
