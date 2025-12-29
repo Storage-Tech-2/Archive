@@ -29,6 +29,9 @@ A simple storage system intended as a main [MIS](https://discord.com/channels/13
 For further questions, see [Compact Categorizer Help Thread](https://discord.com/channels/748542142347083868/1291785785707856026) ([Join Storage Tech](https://discord.gg/JufJ6uf)) on the Storage Tech Discord. [Showcase Video on Youtube](https://youtu.be/DnrAoKd8ZOc)
 
 ## Resources
-- [MIS001_Compact_Categorizer.litematic](attachments/MIS001_Compact_Categorizer.litematic): MC 1.20.1, Size 27x18x17 blocks
-- [MIS001_Compact_Categorizer_World.zip](attachments/MIS001_Compact_Categorizer_World.zip): MC 1.21
+- [MIS001_Compact_Categorizer_Doublechest_Hopperlocked.litematic](attachments/MIS001_Compact_Categorizer_Doublechest_Hopperlocked.litematic): MC 1.21.1, Size 27x18x19 blocks
+- [MIS001_Compact_Categorizer_Doublechest_Barebones.litematic](attachments/MIS001_Compact_Categorizer_Doublechest_Barebones.litematic): MC 1.21.1, Size 27x18x19 blocks
+- [MIS001_Compact_Categorizer_Barrel_Hopperlocked.litematic](attachments/MIS001_Compact_Categorizer_Barrel_Hopperlocked.litematic): MC 1.21.1, Size 27x18x18 blocks
+- [MIS001_Compact_Categorizer_Barrel_Barebones.litematic](attachments/MIS001_Compact_Categorizer_Barrel_Barebones.litematic): MC 1.21.1, Size 27x18x19 blocks
+- [MIS001_Compact_Categorizer_World.zip](attachments/MIS001_Compact_Categorizer_World.zip): MC 1.21.1
 - [Compact Categorizer Showcase\!\!](https://youtu.be/DnrAoKd8ZOc): by [Inspector Talon](https://www.youtube.com/@inspectortalon)

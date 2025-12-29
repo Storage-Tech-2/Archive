@@ -50,28 +50,67 @@
   ],
   "attachments": [
     {
-      "id": "1386227882715516948",
-      "name": "MIS001_Compact_Categorizer.litematic",
+      "id": "1455278279387779175",
+      "name": "MIS001_Compact_Categorizer_Doublechest_Hopperlocked.litematic",
       "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1386227823450132604/1386227882715516948/Compact_Categorizer.litematic?ex=6858f0d2&is=68579f52&hm=3ea361c2e6c570eddb63300e1943b10f08775323d0a4e62fbb4d2bc57c9c1dbe&",
-      "description": "Sent by andrews54757 at 6/22/2025, 2:14:42 AM",
+      "url": "https://cdn.discordapp.com/attachments/1386227823450132604/1455278279387779175/Compact_Categorizer_Doublechest_Hopperlocked.litematic?ex=69542503&is=6952d383&hm=6aeb9b7f227358a20bca979cec57cd1f0d104153993bb3287b3bc070ec815e2f&",
+      "description": "Sent by andrews54757 at 12/29/2025, 2:16:19 PM",
       "canDownload": true,
+      "path": "attachments/MIS001_Compact_Categorizer_Doublechest_Hopperlocked.litematic",
       "litematic": {
-        "size": "27x18x17",
-        "version": "1.20.1"
-      },
-      "path": "attachments/MIS001_Compact_Categorizer.litematic"
+        "size": "27x18x19",
+        "version": "1.21.1"
+      }
     },
     {
-      "id": "1386227883042799807",
+      "id": "1455278279778107402",
+      "name": "MIS001_Compact_Categorizer_Doublechest_Barebones.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386227823450132604/1455278279778107402/Compact_Categorizer_Doublechest_Barebones.litematic?ex=69542503&is=6952d383&hm=20f7f8ebc7fde1251fdbc7f2b79684b4fd20cb75789b7a8b0999ae0dbf040bd9&",
+      "description": "Sent by andrews54757 at 12/29/2025, 2:16:19 PM",
+      "canDownload": true,
+      "path": "attachments/MIS001_Compact_Categorizer_Doublechest_Barebones.litematic",
+      "litematic": {
+        "size": "27x18x19",
+        "version": "1.21.1"
+      }
+    },
+    {
+      "id": "1455278280029503519",
+      "name": "MIS001_Compact_Categorizer_Barrel_Hopperlocked.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386227823450132604/1455278280029503519/Compact_Categorizer_Barrel_Hopperlocked.litematic?ex=69542503&is=6952d383&hm=85dc8a2819a1b13d3b4873ba41ee90682695f7426452d947f6e3f9f180cc14e7&",
+      "description": "Sent by andrews54757 at 12/29/2025, 2:16:19 PM",
+      "canDownload": true,
+      "path": "attachments/MIS001_Compact_Categorizer_Barrel_Hopperlocked.litematic",
+      "litematic": {
+        "size": "27x18x18",
+        "version": "1.21.1"
+      }
+    },
+    {
+      "id": "1455278280428228762",
+      "name": "MIS001_Compact_Categorizer_Barrel_Barebones.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386227823450132604/1455278280428228762/Compact_Categorizer_Barrel_Barebones.litematic?ex=69542503&is=6952d383&hm=778a7e76d6a19e5f229c583983e45a18a75c2bef63005ee6342f5c0abff150bc&",
+      "description": "Sent by andrews54757 at 12/29/2025, 2:16:19 PM",
+      "canDownload": true,
+      "path": "attachments/MIS001_Compact_Categorizer_Barrel_Barebones.litematic",
+      "litematic": {
+        "size": "27x18x19",
+        "version": "1.21.1"
+      }
+    },
+    {
+      "id": "1455278280654716990",
       "name": "MIS001_Compact_Categorizer_World.zip",
       "contentType": "application/zip",
-      "url": "https://cdn.discordapp.com/attachments/1386227823450132604/1386227883042799807/Compact_Categorizer_World.zip?ex=6858f0d2&is=68579f52&hm=35db32a373ffd15eab2d1c71300f081b470332a8029e24470c1e51e69c3e8408&",
-      "description": "Sent by andrews54757 at 6/22/2025, 2:14:42 AM",
+      "url": "https://cdn.discordapp.com/attachments/1386227823450132604/1455278280654716990/Compact_Categorizer_World.zip?ex=69542503&is=6952d383&hm=4958d63b2edfafae0b6e91a327b4a592982f7a41c20fe1b26ab8b0e52d504f0d&",
+      "description": "Sent by andrews54757 at 12/29/2025, 2:16:19 PM",
       "canDownload": true,
       "path": "attachments/MIS001_Compact_Categorizer_World.zip",
       "wdl": {
-        "version": "1.21"
+        "version": "1.21.1"
       }
     },
     {
@@ -81,7 +120,6 @@
       "url": "https://youtu.be/DnrAoKd8ZOc",
       "description": "[YouTube] Sent by andrews54757 at 6/22/2025, 2:14:27 AM",
       "canDownload": false,
-      "path": "attachments/MIS001_YouTube_Video_DnrAoKd8ZOc.url",
       "youtube": {
         "title": "Compact Categorizer Showcase!!",
         "author_name": "Inspector Talon",
@@ -91,7 +129,8 @@
         "thumbnail_height": 360,
         "width": 200,
         "height": 113
-      }
+      },
+      "path": "attachments/MIS001_YouTube_Video_DnrAoKd8ZOc.url"
     }
   ],
   "records": {
@@ -114,19 +153,6 @@
       "No unstackable handling"
     ],
     "notes": "For further questions, see [Compact Categorizer Help Thread](https://discord.com/channels/748542142347083868/1291785785707856026) on the Storage Tech Discord. [Showcase Video on Youtube](https://youtu.be/DnrAoKd8ZOc)"
-  },
-  "timestamp": 1750573808217,
-  "post": {
-    "forumId": "1375566804910604349",
-    "threadId": "1388318067247026286",
-    "continuingMessageIds": [
-      "1388318069801095258",
-      "1454696129844215900",
-      "1454696130557513728"
-    ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388318067247026286",
-    "attachmentMessageId": "1388178998915498175",
-    "uploadMessageId": "1388178992858923071"
   },
   "references": [
     {
@@ -178,6 +204,19 @@
     }
   ],
   "author_references": [],
+  "updatedAt": 1767036521263,
   "archivedAt": 1766902323684,
-  "updatedAt": 1750573808217
+  "post": {
+    "forumId": "1375566804910604349",
+    "threadId": "1388318067247026286",
+    "continuingMessageIds": [
+      "1388318069801095258",
+      "1454696129844215900",
+      "1454696130557513728",
+      "1455281400059002951"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388318067247026286",
+    "attachmentMessageId": "1388178998915498175",
+    "uploadMessageId": "1455281396246384720"
+  }
 }
