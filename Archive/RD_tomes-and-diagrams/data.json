@@ -4,7 +4,7 @@
   "code": "RD",
   "category": "Other Resources",
   "description": "Miscellaneous notes, guides, and diagrams with questionable utility",
-  "currentCodeId": 1,
+  "currentCodeId": 2,
   "entries": [
     {
       "id": "1451060139560931523",
@@ -15,6 +15,18 @@
       "path": "RD001_I_cant_believe_this_is_optimal_why_Lithium_makes_hopperlocking_unnecessary",
       "tags": [
         "Recommended"
+      ]
+    },
+    {
+      "id": "1455030177531691050",
+      "name": "How Item Entity Clipping Works",
+      "code": "RD002",
+      "archivedAt": 1766976757521,
+      "updatedAt": 1766976757521,
+      "path": "RD002_How_Item_Entity_Clipping_Works",
+      "tags": [
+        "Recommended",
+        "Tested & Functional"
       ]
     }
   ]
