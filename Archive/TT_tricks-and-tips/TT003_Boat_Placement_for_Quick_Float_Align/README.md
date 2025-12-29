@@ -10,7 +10,7 @@
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1451490614670786581)
 
 Placement of a boat to quickly float align other entities by colliding with the boat.
-This is a simpler alternative to [TT001](https://discord.com/channels/1375556143186837695/1388665299418480761)
+This is a simpler alternative to [TT001](../../../Archive/TT_tricks-and-tips/TT001_How_to_float_align_items)
 
 ### What is "Float Align"?
 Brought to you by Pwouik @pwouik
@@ -23,7 +23,7 @@ Brought to you by Pwouik @pwouik
 > A few examples of blocks that can detect the minecart:
 > moving blocks can push the minecart, slimeblock can accelerate it 
 > hopper can interact with minecarts inventories
-> tripwire detect it when ticked, but the minecart doesn't [tick](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) it(you can put an entity colliding with the block where the tripwire is to tick it continuously)
+> tripwire detect it when ticked, but the minecart doesn't tick it(you can put an entity colliding with the block where the tripwire is to tick it continuously)
 
 ## Resources
 - [TT003_Float_Aligner.jpg](attachments/TT003_Float_Aligner.jpg): image/jpeg

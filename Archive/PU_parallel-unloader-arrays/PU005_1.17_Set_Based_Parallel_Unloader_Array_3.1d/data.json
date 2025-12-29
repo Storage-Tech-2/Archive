@@ -95,8 +95,7 @@
     "forumId": "1375569870577467412",
     "continuingMessageIds": [
       "1450297318577537116",
-      "1454696210626515180",
-      "1454696211326959751"
+      "1454696210626515180"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1450297315628941466",
     "uploadMessageId": "1450297313502167151"
@@ -231,6 +230,7 @@
       "id": "1402533524040450109",
       "code": "OBP003",
       "url": "https://discord.com/channels/1375556143186837695/1402535963061915761",
+      "path": "Archive/OBP_other-box-processors/OBP003_18gt_2_item_checker",
       "matches": [
         "https://discord.com/channels/1375556143186837695/1402535963061915761/1402535963061915761"
       ]
