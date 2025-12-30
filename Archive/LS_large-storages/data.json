@@ -3,7 +3,7 @@
   "name": "large-storages",
   "code": "LS",
   "description": "Large/full size storages",
-  "currentCodeId": 1,
+  "currentCodeId": 2,
   "entries": [
     {
       "id": "1389156295520682004",
@@ -15,6 +15,17 @@
       "tags": [
         "Tested & Functional",
         "Recommended"
+      ]
+    },
+    {
+      "id": "1416554411878121532",
+      "name": "4three’s Main Storage System",
+      "code": "LS002",
+      "archivedAt": 1767113106466,
+      "updatedAt": 1767113106466,
+      "path": "LS002_4threes_Main_Storage_System",
+      "tags": [
+        "Untested"
       ]
     }
   ],
