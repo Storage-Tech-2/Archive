@@ -3,7 +3,7 @@
   "name": "other-item-processors",
   "code": "OIP",
   "description": "Other item processors",
-  "currentCodeId": 3,
+  "currentCodeId": 4,
   "entries": [
     {
       "id": "1386191299228467241",
@@ -40,6 +40,19 @@
       "path": "OIP003_13_item_type_whitelister_for_bartering",
       "tags": [
         "Untested"
+      ]
+    },
+    {
+      "id": "1455648563806863542",
+      "name": "Simple Unstackable Filter",
+      "code": "OIP004",
+      "archivedAt": 1767124136708,
+      "updatedAt": 1767124136708,
+      "path": "OIP004_Simple_Unstackable_Filter",
+      "tags": [
+        "Tested & Functional",
+        "Recommended",
+        "isStackable"
       ]
     }
   ],
