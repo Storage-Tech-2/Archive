@@ -24,13 +24,13 @@ A simple and cheap early game storage system using hopper minecart multi-item so
 ## Notes
 The base and accessible version does not have a box loader for overflow items, if the unsorted chests are full then the overflow items will despawn. You can add the mixed box loader attached in the decorated version in that case.
 ## Instructions
+
 ### Build
 - When building the storage, make sure to chunk align so that the storage is within the 3x3 loading range of the chunk loader.
 - Glow lichen can be replaced with sign
 - Make sure to only fill the cart dispenser with 8 hopper minecarts, refer to schematic
 - Make sure to RENAME the blocker items (e.g. the iron nuggets except the actual filter item)
 - It is recommended to temporarily fill all the whitelister chest filter slots with blocker items (renamed iron nuggets). Once you acquire the actual filter items, to replace the placeholders. For a visual guide, refer to the demonstration at [this timestamp](<https://youtu.be/oU5EjKhhbnk?si=XwvpGQnIHJRrBjRf&t=76>)
-
 ### How to use
 1. Input loose items into the shulker box
 2. Input shulker boxes (empty or not) into the double chest
