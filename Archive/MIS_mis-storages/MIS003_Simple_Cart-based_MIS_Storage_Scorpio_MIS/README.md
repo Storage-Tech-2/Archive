@@ -20,7 +20,7 @@ A simple and cheap early game storage system using hopper minecart multi-item so
 - Not hopper locked
 - No unstackable sorting
 - No bulk storage
-- Slower than designs like [Unknown Channel](# "ID: 1382996113191206932")
+- Slower than designs like https://discord.com/channels/1161803566265143306/1382996113191206932 (in [TMC Catalogue](https://discord.com/invite/tvpccRczWx))
 ## Notes
 The base and accessible version does not have a box loader for overflow items, if the unsorted chests are full then the overflow items will despawn. You can add the mixed box loader attached in the decorated version in that case.
 ## Instructions

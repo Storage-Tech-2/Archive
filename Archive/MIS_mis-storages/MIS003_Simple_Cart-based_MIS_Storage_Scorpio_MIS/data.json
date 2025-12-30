@@ -72,7 +72,7 @@
       "Not hopper locked",
       "No unstackable sorting",
       "No bulk storage",
-      "Slower than designs like <#1382996113191206932>"
+      "Slower than designs like https://discord.com/channels/1161803566265143306/1382996113191206932"
     ],
     "notes": "The base and accessible version does not have a box loader for overflow items, if the unsorted chests are full then the overflow items will despawn. You can add the mixed box loader attached in the decorated version in that case.",
     "instructions": [
@@ -145,11 +145,15 @@
       ]
     },
     {
-      "type": "channelMention",
-      "channelID": "1382996113191206932",
+      "type": "discordLink",
+      "url": "https://discord.com/channels/1161803566265143306/1382996113191206932",
+      "server": "1161803566265143306",
+      "channel": "1382996113191206932",
       "matches": [
-        "<#1382996113191206932>"
-      ]
+        "https://discord.com/channels/1161803566265143306/1382996113191206932"
+      ],
+      "serverName": "TMC Catalogue",
+      "serverJoinURL": "https://discord.com/invite/tvpccRczWx"
     },
     {
       "type": "dictionaryTerm",
@@ -180,7 +184,7 @@
     }
   ],
   "author_references": [],
-  "updatedAt": 1767121717865,
+  "updatedAt": 1767121835374,
   "archivedAt": 1766902323684,
   "post": {
     "threadId": "1390326056405434429",
