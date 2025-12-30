@@ -3,7 +3,7 @@
   "name": "water-transport",
   "code": "WT",
   "description": "Waterstream tricks",
-  "currentCodeId": 3,
+  "currentCodeId": 4,
   "entries": [
     {
       "id": "1386450584235671562",
@@ -39,6 +39,18 @@
       "path": "WT003_10BPS_Waterstream",
       "tags": [
         "Tested & Functional"
+      ]
+    },
+    {
+      "id": "1455460194627620895",
+      "name": "One Tall Output Collection Stream",
+      "code": "WT004",
+      "archivedAt": 1767079431397,
+      "updatedAt": 1767079431397,
+      "path": "WT004_One_Tall_Output_Collection_Stream",
+      "tags": [
+        "Tested & Functional",
+        "Recommended"
       ]
     }
   ],
