@@ -3,7 +3,7 @@
   "name": "mixed-loaders",
   "code": "ML",
   "description": "Box loaders which load mixed item types",
-  "currentCodeId": 7,
+  "currentCodeId": 8,
   "entries": [
     {
       "id": "1386244541513863249",
@@ -97,6 +97,17 @@
         "Tested & Functional",
         "6X Hopperspeed",
         "Global Clock"
+      ]
+    },
+    {
+      "id": "1455432628743307377",
+      "name": "10x Shulker Box Loader",
+      "code": "ML008",
+      "archivedAt": 1767072929646,
+      "updatedAt": 1767072929646,
+      "path": "ML008_10x_Shulker_Box_Loader",
+      "tags": [
+        "Untested"
       ]
     }
   ],
