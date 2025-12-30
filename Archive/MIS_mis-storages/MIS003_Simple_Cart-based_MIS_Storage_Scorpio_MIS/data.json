@@ -75,17 +75,16 @@
       "Slower than designs like <#1382996113191206932>"
     ],
     "notes": "The base and accessible version does not have a box loader for overflow items, if the unsorted chests are full then the overflow items will despawn. You can add the mixed box loader attached in the decorated version in that case.",
-    "instructions:build": "- When building the storage, make sure to chunk align so that the storage is within the 3x3 loading range of the chunk loader.\n- Glow lichen can be replaced with sign\n- Make sure to only fill the cart dispenser with 8 hopper minecarts, refer to schematic\n- Make sure to RENAME the blocker items (e.g. the iron nuggets except the actual filter item)\n- It is recommended to temporarily fill all the whitelister chest filter slots with blocker items (renamed iron nuggets). Once you acquire the actual filter items, to replace the placeholders. For a visual guide, refer to the demonstration at [this timestamp](<https://youtu.be/oU5EjKhhbnk?si=XwvpGQnIHJRrBjRf&t=76>)",
-    "instructions:how-to-use": "1. Input loose items into the shulker box\n2. Input shulker boxes (empty or not) into the double chest"
+    "instructions": [
+      "Input loose items into the shulker box",
+      "Input shulker boxes (empty or not) into the double chest"
+    ],
+    "instructions:build": "- When building the storage, make sure to chunk align so that the storage is within the 3x3 loading range of the chunk loader.\n- Glow lichen can be replaced with sign\n- Make sure to only fill the cart dispenser with 8 hopper minecarts, refer to schematic\n- Make sure to RENAME the blocker items (e.g. the iron nuggets except the actual filter item)\n- It is recommended to temporarily fill all the whitelister chest filter slots with blocker items (renamed iron nuggets). Once you acquire the actual filter items, to replace the placeholders. For a visual guide, refer to the demonstration at [this timestamp](<https://youtu.be/oU5EjKhhbnk?si=XwvpGQnIHJRrBjRf&t=76>)"
   },
   "styles": {
     "instructions:build": {
       "depth": 3,
       "headerText": "Build"
-    },
-    "instructions:how-to-use": {
-      "depth": 3,
-      "headerText": "How to use"
     }
   },
   "references": [
@@ -181,7 +180,7 @@
     }
   ],
   "author_references": [],
-  "updatedAt": 1767118329406,
+  "updatedAt": 1767121346195,
   "archivedAt": 1766902323684,
   "post": {
     "threadId": "1390326056405434429",
