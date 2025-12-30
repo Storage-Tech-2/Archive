@@ -271,8 +271,8 @@
         "hopperlocked",
         "hopper-locked"
       ],
-      "summary": "Hopper-locking powers inactive hoppers with redstone to prevent them from doing anything, reducing lag. Because a locked hopper can’t move items, it can skip several expensive checks each [tick](ht...",
-      "updatedAt": 1766955641699
+      "summary": "Hopper-locking powers inactive hoppers with redstone to prevent them from doing anything, reducing lag. Because a locked hopper can’t move items, it can skip several expensive checks each tick and ...",
+      "updatedAt": 1766981115148
     },
     {
       "id": "1454753667562475656",
@@ -704,6 +704,14 @@
       ],
       "summary": "Can process items without pausing at any point. Fullspeed box loaders and unloaders have special box breaking mechanisms so that it doesn't pause item flow when the box is being replaced. Fullspeed...",
       "updatedAt": 1766955100013
+    },
+    {
+      "id": "1455675378931728598",
+      "terms": [
+        "cart yeet"
+      ],
+      "summary": "A cart yeeter is a device which breaks a cart with an inventory, emptying its contents in item entity form. The cart item is also collected separately for recycling. Cart yeeting was introduced in ...",
+      "updatedAt": 1767130468511
     }
   ]
 }
