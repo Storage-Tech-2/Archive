@@ -89,7 +89,17 @@
     ]
   },
   "styles": {},
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "cart yeet",
+      "id": "1455675378931728598",
+      "url": "https://discord.com/channels/1375556143186837695/1455675378931728598/1455675380160659517",
+      "matches": [
+        "cart yeet"
+      ]
+    }
+  ],
   "author_references": [],
   "updatedAt": 1767126080875,
   "archivedAt": 1767126080875,
