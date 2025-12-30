@@ -712,6 +712,14 @@
       ],
       "summary": "A cart yeeter is a device which breaks a cart with an inventory, emptying its contents in item entity form. The cart item is also collected separately for recycling. Cart yeeting was introduced in ...",
       "updatedAt": 1767130468511
+    },
+    {
+      "id": "1455677927902413046",
+      "terms": [
+        "box yeet"
+      ],
+      "summary": "A box yeeter is a device which destroys the shulker box item entity, releasing its contents as item entities. This mechanic was introduced in 1.17. Each item stack contained within the box are drop...",
+      "updatedAt": 1767131066516
     }
   ]
 }

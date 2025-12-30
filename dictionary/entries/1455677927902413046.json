@@ -1,0 +1,24 @@
+{
+  "id": "1455677927902413046",
+  "terms": [
+    "box yeet"
+  ],
+  "definition": "A box yeeter is a device which destroys the shulker box item entity, releasing its contents as item entities. This mechanic was introduced in 1.17. Each item stack contained within the box are dropped as a single entity, no fragmentation occurs as with cart yeeting. The entities are created in the same order as contained in the box.",
+  "threadURL": "https://discord.com/channels/1375556143186837695/1455677927902413046",
+  "statusURL": "https://discord.com/channels/1375556143186837695/1455677927902413046/1455677929198456985",
+  "status": "APPROVED",
+  "statusMessageID": "1455677929198456985",
+  "updatedAt": 1767131066516,
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "cart yeet",
+      "id": "1455675378931728598",
+      "url": "https://discord.com/channels/1375556143186837695/1455675378931728598/1455675380160659517",
+      "matches": [
+        "cart yeet"
+      ]
+    }
+  ],
+  "referencedBy": []
+}
