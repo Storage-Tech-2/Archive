@@ -338,6 +338,15 @@
       "serverJoinURL": "https://discord.gg/JufJ6uf"
     },
     {
+      "type": "dictionaryTerm",
+      "term": "box yeet",
+      "id": "1455677927902413046",
+      "url": "https://discord.com/channels/1375556143186837695/1455677927902413046/1455677929198456985",
+      "matches": [
+        "Box Yeet"
+      ]
+    },
+    {
       "type": "discordLink",
       "url": "https://discord.com/channels/748542142347083868/749137321710059542/1062856400092549251",
       "server": "748542142347083868",
