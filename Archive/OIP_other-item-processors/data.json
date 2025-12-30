@@ -13,6 +13,7 @@
       "updatedAt": 1750565912801,
       "path": "OIP001_Stack-type_Sorter",
       "tags": [
+        "isStackable",
         "Recommended",
         "Tested & Functional"
       ]
