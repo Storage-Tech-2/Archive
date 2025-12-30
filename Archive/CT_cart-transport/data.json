@@ -3,7 +3,7 @@
   "name": "cart-transport",
   "code": "CT",
   "description": "Minecarts",
-  "currentCodeId": 1,
+  "currentCodeId": 2,
   "entries": [
     {
       "id": "1450267939461922957",
@@ -16,6 +16,19 @@
         "Tested & Functional",
         "Recommended",
         "Cart Yeeting"
+      ]
+    },
+    {
+      "id": "1455656190955753595",
+      "name": "Skull/Amethyst Cart Yeeter",
+      "code": "CT002",
+      "archivedAt": 1767126080875,
+      "updatedAt": 1767126080875,
+      "path": "CT002_SkullAmethyst_Cart_Yeeter",
+      "tags": [
+        "Cart Yeeting",
+        "Tested & Functional",
+        "Recommended"
       ]
     }
   ],
