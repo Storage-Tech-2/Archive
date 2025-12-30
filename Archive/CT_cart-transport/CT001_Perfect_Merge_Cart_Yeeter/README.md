@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1450269963242705040)
 
-Yeets carts without splitting up items inside. This is done by aligning and pushing the items from the cart precisely so that every item entity merges perfectly.
+Yeets carts (see cart yeet) without splitting up items inside. This is done by aligning and pushing the items from the cart precisely so that every item entity merges perfectly.
 ## Features
 - 4d aligns the items
 - 100% reliable output
@@ -18,7 +18,7 @@ Yeets carts without splitting up items inside. This is done by aligning and push
 ## Considerations
 - Large size (for a yeeter)
 ## Instructions
-Input hoppercarts/chestcarts to the powered rail inserting perpendicular to the detector rail.
+1. Input hoppercarts/chestcarts to the powered rail, inserting perpendicular to the detector rail.
 
 ## Acknowledgements:
 - ners: came up with the detector rail layout

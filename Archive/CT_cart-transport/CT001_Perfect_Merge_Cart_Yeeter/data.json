@@ -72,7 +72,7 @@
     }
   ],
   "records": {
-    "description": "Yeets carts without splitting up items inside. This is done by aligning and pushing the items from the cart precisely so that every item entity merges perfectly.",
+    "description": "Yeets carts (see cart yeet) without splitting up items inside. This is done by aligning and pushing the items from the cart precisely so that every item entity merges perfectly.",
     "features": [
       "4d aligns the items",
       "100% reliable output",
@@ -82,19 +82,21 @@
     "considerations": [
       "Large size (for a yeeter)"
     ],
-    "instructions": "Input hoppercarts/chestcarts to the powered rail inserting perpendicular to the detector rail."
+    "instructions": [
+      "Input hoppercarts/chestcarts to the powered rail, inserting perpendicular to the detector rail."
+    ]
   },
-  "timestamp": 1765841703283,
-  "post": {
-    "threadId": "1450269963242705040",
-    "forumId": "1375563297230688327",
-    "continuingMessageIds": [
-      "1450269966590017688"
-    ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1450269963242705040",
-    "uploadMessageId": "1450269961162588381"
-  },
+  "styles": {},
   "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "cart yeet",
+      "id": "1455675378931728598",
+      "url": "https://discord.com/channels/1375556143186837695/1455675378931728598/1455675380160659517",
+      "matches": [
+        "cart yeet"
+      ]
+    },
     {
       "type": "dictionaryTerm",
       "term": "hopperspeed",
@@ -115,6 +117,15 @@
     }
   ],
   "author_references": [],
+  "updatedAt": 1767130598546,
   "archivedAt": 1765841703283,
-  "updatedAt": 1765841703283
+  "post": {
+    "threadId": "1450269963242705040",
+    "forumId": "1375563297230688327",
+    "continuingMessageIds": [
+      "1450269966590017688"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1450269963242705040",
+    "uploadMessageId": "1450269961162588381"
+  }
 }

@@ -43,6 +43,7 @@
     }
   ],
   "referencedBy": [
-    "VBS003"
+    "VBS003",
+    "CT001"
   ]
 }

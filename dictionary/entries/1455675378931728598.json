@@ -24,6 +24,7 @@
   "referencedBy": [
     "DH004",
     "PU003",
-    "VBS003"
+    "VBS003",
+    "CT001"
   ]
 }
