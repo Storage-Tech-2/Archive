@@ -11,14 +11,14 @@
 
 Designed for quad bulks with more available space under the top display.
 ## Features
-- Nice top [UI](https://discord.com/channels/1375556143186837695/1454754844316274861/1454754845033627671)
+- Nice top UI
 - Locally locked minimum hopper locking
-- [Global](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) first box placement
+- Global first box placement
 ## Considerations
-- Requires more space under the display compared to https://discord.com/channels/748542142347083868/749137152192806954/1085199265992802485 ([Join Storage Tech](https://discord.gg/JufJ6uf))
+- Requires more space under the display compared to https://discord.com/channels/748542142347083868/749137152192806954/1085199265992802485 (in [Storage Tech](https://discord.gg/JufJ6uf))
 - Initial placement has many piston actions
 ## Notes
-- Older versions may need more than two [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261)s in order to avoid toggling the sticky during the initial place.
+- Older versions may need more than two slices in order to avoid toggling the sticky during the initial place.
 
 ## Resources
 - [TD002_improved_inverse_slider_display.litematic](attachments/TD002_improved_inverse_slider_display.litematic): MC 1.21.4, Size 1x8x9 blocks

@@ -11,13 +11,13 @@
 
 Assigns a filter item depending on the leading item type of the first box. Subsequent boxes are checked and separated based on whether they contain the assigned item. Deassigns when out of boxes, or manually.
 ## Features
-- Works at 8[gt](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539)
+- Works at 8gt
 - No renamed filter items needed, unstackables work fine
 - Relatively small footprint (5x4x6).
 ## Considerations
 - Can't handle empty boxes
 ## Notes
-The [schematic](https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487) contains two versions: One that deassigns automatically and manually. Inspired by https://discord.com/channels/748542142347083868/749136504558714982/1315103045763207248 ([Join Storage Tech](https://discord.gg/JufJ6uf))
+The schematic contains two versions: One that deassigns automatically and manually. Inspired by https://discord.com/channels/748542142347083868/749136504558714982/1315103045763207248 (in [Storage Tech](https://discord.gg/JufJ6uf))
 
 ## Resources
 - [VBS001_Hopper_Speed_Box_Grouper_4x5x6.litematic](attachments/VBS001_Hopper_Speed_Box_Grouper_4x5x6.litematic): MC 1.18.2, Size 12x6x5 blocks

@@ -11,7 +11,7 @@
 
 A device that separates loose items and boxes, and sorts the boxes into 3 groups: empty, partially filled, and full boxes. Useful for processing items from inputs to storage systems. This design does not use slime blocks.
 ## Features
-- [Hopperspeed](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294)
+- Hopperspeed
 - Small design (2x6x6) with no slime blocks
 - Ejects the items and boxes out of their respective dropper without buffer
 - Works with random inputs

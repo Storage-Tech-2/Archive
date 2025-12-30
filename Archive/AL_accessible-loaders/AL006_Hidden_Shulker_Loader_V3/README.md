@@ -9,14 +9,14 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1454796725813379196)
 
-V3 of a device that 0 [ticks](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) a composter for box breaking and collection. Better animation speed and compatibility with compostables.
+V3 of a device that 0 ticks a composter for box breaking and collection. Better animation speed and compatibility with compostables.
 ## Features
-- Reliable ([0 tick](https://discord.com/channels/1375556143186837695/1454804845960757319/1454804847290220666) composter)
+- Reliable (0 tick composter)
 - Better animation speed
 - Works with compostables
 ## Considerations
-- [Global](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) Clock
-- [1x](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294) speed input , [2x](https://discord.com/channels/1375556143186837695/1454753562033651876/1454753563258519584) speed input if you put a redstone block next to comparator (buffers 9 stacks)
+- Global Clock
+- 1x speed input , 2x speed input if you put a redstone block next to comparator (buffers 9 stacks)
 ## Compatibility
 Not specified
 

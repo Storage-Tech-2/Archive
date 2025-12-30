@@ -13,7 +13,7 @@ A device that sends items upwards in entity form, float align items with a boat.
 ## Features
 - Nether compatible
 - 20 Blocks per Second
-- Minimum cycle time: 9 game [ticks](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) (8gt causes torch burnout)
+- Minimum cycle time: 9 game ticks (8gt causes torch burnout)
 ## Considerations
 - Requires a Boat
 ## Compatibility

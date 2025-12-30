@@ -9,15 +9,15 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318356377043076)
 
-Split mixed boxes into single type boxes. Produces minimum partial boxes. Up to 64x [hopperspeed](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294). 32x variant included in WDL.
+Split mixed boxes into single type boxes. Produces minimum partial boxes. Up to 64x hopperspeed. 32x variant included in WDL.
 ## Features
-- No idle hoppercarts and locked [loader](https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720) hoppers
-- Cart based box [unloader](https://discord.com/channels/1375556143186837695/1454754824758493380/1454754825345433803) and item refresher
+- No idle hoppercarts and locked loader hoppers
+- Cart based box unloader and item refresher
 - Compact form factor. 43x16x14 for 64x version, 27x16x14 for 32x version.
 ## Considerations
 - Lag from entities scale quadratically with the amount of items input in a single batch, we recommend limiting batch sizes to a double chest of shulker boxes.
 ## Notes
-Developed on [SoonCMP](https://soontech.org) ("Ideal [Splitter](https://discord.com/channels/1375556143186837695/1454754768088989789/1454754769674567868)" waypoint). [Showcase video](https://www.youtube.com/watch?v=PW318UfnCfU)
+Developed on [SoonCMP](https://soontech.org) ("Ideal Splitter" waypoint). [Showcase video](https://www.youtube.com/watch?v=PW318UfnCfU)
 
 ## Other Images
 <img src="images/ideal3-2.png?raw=1" height="300px">

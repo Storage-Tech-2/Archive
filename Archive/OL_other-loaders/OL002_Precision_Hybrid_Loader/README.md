@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388557426013376634)
 
-Box [loader](https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720) that puts loose items into a chest until the chest fills up, then starts filling shulker boxes with the items.
+Box loader that puts loose items into a chest until the chest fills up, then starts filling shulker boxes with the items.
 ## Features
 - Fully Hopper Locked
 - 1 Wide Tileable
@@ -18,7 +18,7 @@ Box [loader](https://discord.com/channels/1375556143186837695/145475368655860537
 ## Considerations
 - Dispensers need 1 shulker box to be manually prefilled
 ## Notes
-2 versions, smaller one will have 2 unlocked hoppers every 16 [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261)s due to how one of the locking lines is and lacks overflow protection, the larger one fixes both of these issues
+2 versions, smaller one will have 2 unlocked hoppers every 16 slices due to how one of the locking lines is and lacks overflow protection, the larger one fixes both of these issues
 
 ## Other Images
 <img src="images/area_render_5_.png?raw=1" height="300px">

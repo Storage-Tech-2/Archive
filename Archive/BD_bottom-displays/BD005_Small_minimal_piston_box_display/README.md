@@ -9,14 +9,14 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317258144546846)
 
-Simple bottom [box display](https://discord.com/channels/1375556143186837695/1454753497638506689/1454753498494144522) with minimal pistons and reliable wiring.
+Simple bottom box display with minimal pistons and reliable wiring.
 ## Features
-- Fully [hopper-locked](https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422)
+- Fully hopper-locked
 - Uses the minimal number of pistons for this layout
 - Smallest display with this layout that I know of
-- Fully independent [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261)s
+- Fully independent slices
 - Adjacent slices can be triggered at weird intervals and will not break
-- No breakable [togglestate](https://discord.com/channels/1375556143186837695/1454754804252282910/1454754804881428533)s
+- No breakable togglestates
 
 ## Resources
 - [BD005_ken_small_minimal_piston_box_display_1171.litematic](attachments/BD005_ken_small_minimal_piston_box_display_1171.litematic): MC 1.17.1, Size 5x7x1 blocks

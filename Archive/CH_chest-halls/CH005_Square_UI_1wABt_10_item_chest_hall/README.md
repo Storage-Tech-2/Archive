@@ -9,18 +9,18 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388551652319039702)
 
-10 item [chest hall](https://discord.com/channels/1375556143186837695/1454753529700024331/1454753530488426527) with a unique square [user interface](https://discord.com/channels/1375556143186837695/1454754844316274861/1454754845033627671) design.
+10 item chest hall with a unique square user interface design.
 ## Features
-- 43 hopppers per [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261) and full [hopperlocking](https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422) even when filters are overflowing.
-- 3 10[gt](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) filters per side, the rest is 8gt or less.
-- [SS](https://discord.com/channels/1375556143186837695/1454754774833696893/1454754775542267957)2 signal strength isolated (SSI) filters.
+- 43 hopppers per slice and full hopperlocking even when filters are overflowing.
+- 3 10gt filters per side, the rest is 8gt or less.
+- SS2 signal strength isolated (SSI) filters.
 - No prefilling.
 - All filters are accessible with the scaffolding.
 - At least a barrel of extra capacity for every chest.
 ## Considerations
 - The 3 10gt filters may require input batching
 ## Notes
-[Schematic](https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487) includes subregions for locking switches and chest hall.
+Schematic includes subregions for locking switches and chest hall.
 
 ## Resources
 - [CH005_1wabt_10_Item_Chest_hall_SSI.litematic](attachments/CH005_1wabt_10_Item_Chest_hall_SSI.litematic): MC 1.21, Size 33x19x4 blocks

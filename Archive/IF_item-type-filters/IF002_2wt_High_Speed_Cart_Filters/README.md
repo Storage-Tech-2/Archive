@@ -9,12 +9,12 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317640162021450)
 
-2 wide tilable cart based item type filters which can sort item entities at high speeds, allowing for subsequent [loader](https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720)s to forgo having filters.
+2 wide tilable cart based item type filters which can sort item entities at high speeds, allowing for subsequent loaders to forgo having filters.
 ## Features
-- 63x and 310x [hopperspeed](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294) designs
+- 63x and 310x hopperspeed designs
 - 2 wide tileable layouts
 ## Notes
-Replace pink_glass in water stream with slime_block to make the item move slower if needed. At least 4 carts in each [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261) must be launched every time it turn on. Wait for 5x8[gt](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) after turning off before turning it on again.  "another" is another layout.
+Replace pink_glass in water stream with slime_block to make the item move slower if needed. At least 4 carts in each slice must be launched every time it turn on. Wait for 5x8gt after turning off before turning it on again.  "another" is another layout.
 
 ## Other Images
 <img src="images/63a.png?raw=1" height="300px">

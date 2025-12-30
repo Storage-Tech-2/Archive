@@ -9,9 +9,9 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1402510871988670574)
 
-Wall [box display](https://discord.com/channels/1375556143186837695/1454753497638506689/1454753498494144522) for restock stations.
+Wall box display for restock stations.
 ## Features
-- Using [0-tick](https://discord.com/channels/1375556143186837695/1454804845960757319/1454804847290220666) composters, empty boxes are 100% collectable.
+- Using 0-tick composters, empty boxes are 100% collectable.
 - Tapping the note block completes the first placement.
 ## Notes
 Two versions: the smaller one buffers an empty box and requires 1.19+ for lossless collection, while the larger one has no empty box buffer.

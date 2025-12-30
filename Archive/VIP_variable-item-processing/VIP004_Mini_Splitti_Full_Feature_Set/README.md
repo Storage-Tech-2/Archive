@@ -9,12 +9,12 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388722921622736916)
 
-Takes in mixed boxes and splits them into boxes containing a single item type. Uses dueling hoppers [splitter](https://discord.com/channels/1375556143186837695/1454754768088989789/1454754769674567868) technique.
+Takes in mixed boxes and splits them into boxes containing a single item type. Uses dueling hoppers splitter technique.
 ## Features
 - 90% hopper locked (a total of 5 unlocked hoppers out of 50 total)
 - Small size! 12x6x16 (LWH)
 - Emptied Boxes and Unstackables are output in separate streams from Partials output.
-- Pauseable with [global](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) clock
+- Pauseable with global clock
 ## Considerations
 - Does not handle Empty box inputs (Please don't send empty boxes to splitters in the first place!)
 ## Notes

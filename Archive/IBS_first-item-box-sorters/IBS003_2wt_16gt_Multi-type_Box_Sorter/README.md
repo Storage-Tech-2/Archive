@@ -9,11 +9,11 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1402508433399480421)
 
-Sorts boxes into multi-item-type categories based on first item type of box at half-[hopperspeed](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294).
+Sorts boxes into multi-item-type categories based on first item type of box at half-hopperspeed.
 ## Features
 - Hopperspeed sorting
-- Fully [hopperlocked](https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422) design
-- Only one sorting item needs to be placed in a category 's filter chest. Up to 54 types per category/[slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261).
+- Fully hopperlocked design
+- Only one sorting item needs to be placed in a category 's filter chest. Up to 54 types per category/slice.
 - Each slice is 7x9x2, can be tiled for more categories
 ## Considerations
 - Cannot accept empty boxes

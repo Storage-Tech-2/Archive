@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317982387601458)
 
-Re-locking is proceeded through updating [BUD](https://discord.com/channels/1375556143186837695/1454753476813787279/1454753477443063869)ed pistons with a rail line, which is lag efficient. Nice default extended falling block [box display](https://discord.com/channels/1375556143186837695/1454753497638506689/1454753498494144522)s allows for a good [UI](https://discord.com/channels/1375556143186837695/1454754844316274861/1454754845033627671) with flat floor and shulkers being 3 blocks below the chests.
+Re-locking is proceeded through updating BUDed pistons with a rail line, which is lag efficient. Nice default extended falling block box displays allows for a good UI with flat floor and shulkers being 3 blocks below the chests.
 ## Features
 - Fully locked when idle
 - 1.8 million capacity per item
@@ -17,11 +17,11 @@ Re-locking is proceeded through updating [BUD](https://discord.com/channels/1375
 - Nice UI with default extended display
 ## Notes
 Additional credits:
-- acaciachan - [box sorter](https://discord.com/channels/1375556143186837695/1454753516269736090/1454753518383792221)
+- acaciachan - box sorter
 - Walter - for his reliable water stream
 - bipim, Moony and Gangles - falling block display
 - Philgoodinator - unsorted box recombiner and U-turn
-- Walter, Pfeffa and Expo - [Keygen](https://discord.com/channels/1375556143186837695/1454753674298396785/1454753674898440377)
+- Walter, Pfeffa and Expo - Keygen
 
 ## Other Images
 <img src="images/Pyra_Bulk.png?raw=1" height="300px">

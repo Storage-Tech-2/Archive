@@ -11,7 +11,7 @@
 
 A fairly simple, experimental version of the variable item sorter using minecarts.
 ## Features
-- 75[gt](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) cycle,
+- 75gt cycle,
 
 ## Resources
 - [VIP002_12gt_Cart_Replacement_Cycvar_Filter_v104.litematic](attachments/VIP002_12gt_Cart_Replacement_Cycvar_Filter_v104.litematic): MC 1.21, Size 3x8x7 blocks

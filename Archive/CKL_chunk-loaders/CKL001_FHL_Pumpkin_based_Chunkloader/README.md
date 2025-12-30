@@ -9,13 +9,13 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1397064372873986058)
 
-Using pumpkin items shot through nether portals, loads a 3x3 chunk area around the device as entity [tick](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539)ing and a 5x5 chunk area as [redstone tick](https://discord.com/channels/1375556143186837695/1454805316029120542/1454805317320835073)ing.
+Using pumpkin items shot through nether portals, loads a 3x3 chunk area around the device as entity ticking and a 5x5 chunk area as redstone ticking.
 ## Features
 - 5x4x7 size using 3x3 portals
-- Fully [hopperlocked](https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422) when idle
+- Fully hopperlocked when idle
 - Status output: Items returning from the nether side maintain the fader
 ## Considerations
-- The chunk [loader](https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720) will not work in 1.21.5 specifically due to the portal hitbox change.
+- The chunk loader will not work in 1.21.5 specifically due to the portal hitbox change.
 ## Notes
 Tested with one month of tickwarp in 1.18.2 with Joa extreme behaviors and one year of tickwarp in 1.21.5 using TIS Carpet command "/carpet netherPortalEntityInteractionCheckUseFullBlockShape true".
 

@@ -9,13 +9,13 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318153205088398)
 
-Uses stack separation to filter entire stack of items at once. Each of the 3wt modules loads sorted items into shulker boxes at [8x](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294) hopperspeed.
+Uses stack separation to filter entire stack of items at once. Each of the 3wt modules loads sorted items into shulker boxes at 8x hopperspeed.
 ## Features
 - 8830 stacks/h core (up to 565k items/hr)
-- 72k/h [loader](https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720)s per [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261)
+- 72k/h loaders per slice
 - Distributive loading functionality
 - Pause on slice overflow
-- Partial [box collection](https://discord.com/channels/1375556143186837695/1454805930670559326/1454805932532830268)
+- Partial box collection
 ## Considerations
 - Doesn't include storage and unsorted handling.
 - Loaders can spit items

@@ -13,7 +13,7 @@ Displays chest cart for player to put items in. On clicking the noteblock yeets 
 ## Features
 - Small (5x5x3)
 - Instant activation when pressing noteblock
-- Spam-proof (19[gt](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) reset)
+- Spam-proof (19gt reset)
 
 ## Resources
 - [PI001_Simple_Cart_Yeeting_Input.litematic](attachments/PI001_Simple_Cart_Yeeting_Input.litematic): MC 1.18.2, Size 5x5x3 blocks

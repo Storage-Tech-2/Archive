@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388316970126151831)
 
-Categorizes boxes by their fill levels at [hopperspeed](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294) using just one hopper. Can function either as an [isFull](https://discord.com/channels/1375556143186837695/1454753607604768770/1454753609131495434) filter or as an isFull filter by thresholding the comparator.
+Categorizes boxes by their fill levels at hopperspeed using just one hopper. Can function either as an isFull filter or as an isFull filter by thresholding the comparator.
 ## Features
 - Uses just one hopper
 - Hopperspeed

@@ -9,11 +9,11 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388316812520722533)
 
-Loads mixed items into boxes at full double [hopperspeed](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294). Meant for use in input systems to prevent the case where items can back up into the item/box checker if the input receives a constant stream of items.
+Loads mixed items into boxes at full double hopperspeed. Meant for use in input systems to prevent the case where items can back up into the item/box checker if the input receives a constant stream of items.
 ## Features
 - Loads mixed items into boxes at full double hopperspeed
 - Meant for use in input systems to prevent the case where items can back up into the item/box checker
-- Hopper for item and shulker box input not included in the [schematic](https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487)
+- Hopper for item and shulker box input not included in the schematic
 - Schematic includes a globally and locally clocked version
 ## Notes
 Hopper for item and shulker box input not included in the schematic. Replace glass with slabs for 1.13 compatibility.

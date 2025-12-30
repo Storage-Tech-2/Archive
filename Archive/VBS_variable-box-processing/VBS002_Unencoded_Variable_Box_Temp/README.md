@@ -9,13 +9,13 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1401376236223074426)
 
-Stores a partial box until another partial box with the same item type is input, after which both are output for merging. Despite being an unencoded system, this device is capable of quick access using a [CUD](https://discord.com/channels/1375556143186837695/1454753535919915098/1454753536629018626) based integrated variable "[encoder](https://discord.com/channels/1375556143186837695/1454753601967624213/1454753602802548800)."
+Stores a partial box until another partial box with the same item type is input, after which both are output for merging. Despite being an unencoded system, this device is capable of quick access using a CUD based integrated variable "encoder."
 ## Features
-- Up to 312 item types, 26 types in 12 [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261)s.
-- Uses CUDs and a built in variable encoder-like device to quickly identify slices storing a specific type. Takes only 70[gt](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) to insert a box if no match is found.
+- Up to 312 item types, 26 types in 12 slices.
+- Uses CUDs and a built in variable encoder-like device to quickly identify slices storing a specific type. Takes only 70gt to insert a box if no match is found.
 - Even distribution of boxes across slices during initial filling. Afterwards, boxes are put in from furthest to closest slice to the input.
 - Automatic ejection of overflow when there is no more capacity.
-- Built-in item [aligner](https://discord.com/channels/1375556143186837695/1454753442471084134/1454753443678916638) for direct input into [merger](https://discord.com/channels/1375556143186837695/1454753701204987938/1454753702773526549)s
+- Built-in item aligner for direct input into mergers
 - Pauseable
 ## Considerations
 - If a matching item type box is stored, the boxes in a matched slice are cycled through a variable box filter which can take up to 8*26 = 208 gt extra.

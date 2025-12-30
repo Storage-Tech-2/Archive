@@ -12,7 +12,7 @@
 Separates boxes based on if the first item of the input box matches an item set.
 ## Features
 - Output can be adjusted. For example: moving the gate to a different distance, replacing the gate with a piston setup (the gate cannot be replaced by a trapdoor at the distance shown), or by locking or unlocking a hopper to separate the box.
-- Can be expanded or made smaller, however the 8 [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261) version presented is the only one I tested. If hopper separation is used, additional testing should be minimal.
+- Can be expanded or made smaller, however the 8 slice version presented is the only one I tested. If hopper separation is used, additional testing should be minimal.
 - 50-53 items per slice can be sorted, depending on how many 16 stackables there are in the chest.
 ## Considerations
 - If an item or empty box is input, the output will spit out a hopper minecart. If enough hopper carts are spit out, it will break.

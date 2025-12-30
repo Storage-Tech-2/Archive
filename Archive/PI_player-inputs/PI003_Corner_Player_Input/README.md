@@ -11,10 +11,10 @@
 
 An input interface built into a corner. Uses hoppercarts to unload chests rapidly.
 ## Features
-- Included manual [loader](https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720) display box for loose items, which replaces box if the box has items and is closed.
+- Included manual loader display box for loose items, which replaces box if the box has items and is closed.
 - Chest contents are unloaded as item entities rapidly using hoppercarts.
 - Chest inputs are not unloaded until noteblock is pressed.
-- Pause line stops unloading of chests and locks [box display](https://discord.com/channels/1375556143186837695/1454753497638506689/1454753498494144522)
+- Pause line stops unloading of chests and locks box display
 ## Considerations
 - If box display is filled while pause line is activated, box must be opened/closed again to replace it when pause is lifted.
 

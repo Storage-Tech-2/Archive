@@ -7,7 +7,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317615625212018)
 
-The top-most hopper will only suck items that have a certain item type at [hopperspeed](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294) (1 item/8[gt](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539) or 2.5 items/sec). Two variants are common: Signal Strength 2 ([SS](https://discord.com/channels/1375556143186837695/1454754774833696893/1454754775542267957)2) and Signal Strength 3 (SS3) filters.
+The top-most hopper will only suck items that have a certain item type at hopperspeed (1 item/8gt or 2.5 items/sec). Two variants are common: Signal Strength 2 (SS2) and Signal Strength 3 (SS3) filters.
 ## Features
 - Basic designs with inventory setup guide
 ## Considerations

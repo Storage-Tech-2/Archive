@@ -12,7 +12,7 @@
 A common question is "how to make concrete storage?" This was put together as a basic concrete storage, configured for a 192k duper. It has ~1.2mil capacity for 34 item types + some overflow.
 ## Features
 - Configured for a 192k duper
-- Uses [global](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) reset var [loader](https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720)s
+- Uses global reset var loaders
 - 1.2mil capacity for 34 item types
 - Some overflow storage
 ## Considerations

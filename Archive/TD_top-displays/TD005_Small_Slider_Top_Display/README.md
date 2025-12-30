@@ -11,12 +11,12 @@
 
 Designed for quad bulks with more space under the top display.
 ## Features
-- Good [UI](https://discord.com/channels/1375556143186837695/1454754844316274861/1454754845033627671)
-- [Global](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) first box placement
+- Good UI
+- Global first box placement
 - Automatic box replacement when emptied
 ## Considerations
-- [Hopperlocking](https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422) is possible with a global dust line
-- [1wABt](https://discord.com/channels/1375556143186837695/1454753732293033984/1454753733035687988) with alternating rails
+- Hopperlocking is possible with a global dust line
+- 1wABt with alternating rails
 
 ## Resources
 - [TD005_Small_Slider_Top_Display.litematic](attachments/TD005_Small_Slider_Top_Display.litematic): MC 1.21.4, Size 7x8x2 blocks

@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388316730681458819)
 
-A simple 5 block wide [accessible loader](https://discord.com/channels/1375556143186837695/1454804125559554243/1454804126541152338) with a zero [tick](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539)ed composter that buffers 16 stacks.
+A simple 5 block wide accessible loader with a zero ticked composter that buffers 16 stacks.
 ## Features
 - 5 blocks wide
 - composter device
@@ -17,7 +17,7 @@ A simple 5 block wide [accessible loader](https://discord.com/channels/137555614
 ## Considerations
 - 9 blocks tall
 - Buffers 16 stacks
-- [Togglestate](https://discord.com/channels/1375556143186837695/1454754804252282910/1454754804881428533)s
+- Togglestates
 ## Notes
 Ensure dust is redirected away from box distribution hoppers
 

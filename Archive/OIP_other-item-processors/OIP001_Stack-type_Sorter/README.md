@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317684948533249)
 
-Sorts items based on their stack type at [hopperspeed](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294). Has three outputs for unstackable, 16-stackable, and 64 stackable items.
+Sorts items based on their stack type at hopperspeed. Has three outputs for unstackable, 16-stackable, and 64 stackable items.
 ## Features
 - Small size: 5x4x2
 - No pistons

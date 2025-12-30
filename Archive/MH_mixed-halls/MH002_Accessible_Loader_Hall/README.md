@@ -14,12 +14,12 @@ Items are loaded into an accessible shulker box, the subsequent full boxes are t
 - SSI filters
 - Low buffer before box replacement
 - 200k item capacity per item type
-- Overflow [box collection](https://discord.com/channels/1375556143186837695/1454805930670559326/1454805932532830268)
+- Overflow box collection
 ## Considerations
-- Average of 3.5 unlocked hoppers per [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261)
+- Average of 3.5 unlocked hoppers per slice
 - Displays buffers boxes
 ## Notes
-Please don't lock the hall while it is in operation. [Box display](https://discord.com/channels/1375556143186837695/1454753497638506689/1454753498494144522) from DatNerd, Overflow water stream by Pyraleft
+Please don't lock the hall while it is in operation. Box display from DatNerd, Overflow water stream by Pyraleft
 
 ## Resources
 - [MH002_pyra_waterstream.png](attachments/MH002_pyra_waterstream.png): image/png

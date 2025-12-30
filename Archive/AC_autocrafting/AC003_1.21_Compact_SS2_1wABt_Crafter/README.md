@@ -12,7 +12,7 @@
 Crafts filtered items. Works with 2-9 slot crafts. Can be adapted to be 1 slot. 1 slot and hopper locked variations are in the thread.
 ## Features
 - Compact
-- [SS](https://discord.com/channels/1375556143186837695/1454754774833696893/1454754775542267957)2
+- SS2
 ## Considerations
 - Expensive
 - AB tileable

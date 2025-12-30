@@ -9,11 +9,11 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1448024716605522093)
 
-8 item type filtered [chest hall](https://discord.com/channels/1375556143186837695/1454753529700024331/1454753530488426527) with one doublechest per type.
+8 item type filtered chest hall with one doublechest per type.
 ## Features
-- 26 hoppers per [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261)
+- 26 hoppers per slice
 - FHL even when overflowing
-- Palla-like [UI](https://discord.com/channels/1375556143186837695/1454754844316274861/1454754845033627671)
+- Palla-like UI
 - All filters are accessible
 
 ## Resources

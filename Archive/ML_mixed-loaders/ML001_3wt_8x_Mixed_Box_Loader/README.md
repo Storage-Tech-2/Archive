@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388316751061581936)
 
-Loads single or mixed item types into shulker boxes at [8x](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294) hopper speed (approximately 72k/hr).
+Loads single or mixed item types into shulker boxes at 8x hopper speed (approximately 72k/hr).
 ## Features
 - Small (7x7x3)
 - No item spitting with random input

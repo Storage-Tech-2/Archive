@@ -9,16 +9,16 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317191060979833)
 
-A small display without empty [box collection](https://discord.com/channels/1375556143186837695/1454805930670559326/1454805932532830268) that breaks the box only when empty and closed.
+A small display without empty box collection that breaks the box only when empty and closed.
 ## Features
 - Small (6x6)
 - Smart box breaking, only breaks it when empty and closed
-- [Global](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) first box placement
+- Global first box placement
 - Minimum hoppers, fully locked
 ## Considerations
 - When triggering while the display is replacing a box, the global first box placement can cause it to break a newly dispensed full box
 - No empty box collection
-- When emptying adjacent [slice](https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261)s in very quick succession, one of them may fail to replace its box
+- When emptying adjacent slices in very quick succession, one of them may fail to replace its box
 - Buffers a box
 
 ## Resources

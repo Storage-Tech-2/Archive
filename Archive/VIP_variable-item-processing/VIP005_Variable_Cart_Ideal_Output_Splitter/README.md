@@ -14,7 +14,7 @@ Takes item entities as input, and loads them into single type boxes using variab
 - Ideal output with minimal partial boxes
 - High throughput with high variance input
 ## Considerations
-- Limited to [8x](https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294) hopperspeed per item type.
+- Limited to 8x hopperspeed per item type.
 - Item entity lag
 
 ## Acknowledgements:

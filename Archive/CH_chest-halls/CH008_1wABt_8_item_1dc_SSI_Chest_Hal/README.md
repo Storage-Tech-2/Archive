@@ -9,11 +9,11 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1432024834774139080)
 
-SSI [SS](https://discord.com/channels/1375556143186837695/1454754774833696893/1454754775542267957)2 Filters
+SSI SS2 Filters
 ## Features
-- SSI SS2 Filters, all no more than 8 [gt](https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539)
+- SSI SS2 Filters, all no more than 8 gt
 - 28 hoppers | 100% locked, even when filters are overflowing
-- Good [UI](https://discord.com/channels/1375556143186837695/1454754844316274861/1454754845033627671)
+- Good UI
 - All the display blocks can be solid
 - Every filter hopper is accessible
 

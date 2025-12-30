@@ -10,22 +10,22 @@
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1441837073085501574)
 
 **Features**
-- [2wt](https://discord.com/channels/1375556143186837695/1454753738425368687/1454753741785010208) 
-- [Global](https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066) box replacement line
+- 2wt 
+- Global box replacement line
 - Globally clocked
 - Dropper Line and hopper/ice versions. 
 - Handles mixed inputs (not unstackables)
 
 **Considerations**
 - Uses overflow detection to detect full a shulker
-- Requires at least a box to be prefilled in the dispenser when being built. For further info check the [schematic](https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487)s.
+- Requires at least a box to be prefilled in the dispenser when being built. For further info check the schematics.
 
 
 **Notes**
 - Tested for over 250k Boxes
 
 Two schems are provided with their respective tiled examples:
-1. Dropper [Box Collection](https://discord.com/channels/1375556143186837695/1454805930670559326/1454805932532830268)/Distribution & Rails
+1. Dropper Box Collection/Distribution & Rails
 2. Hopper Box Distribution & Water Stream Collection (uses door instead of doors, Noisy)
 -# Feel free to mix the two designs as you please.
 
