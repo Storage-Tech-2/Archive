@@ -30,7 +30,7 @@ An advanced Minecraft storage system created by 4three, with components sourced 
 - Box Crafter: https://discord.com/channels/748542142347083868/749137424684285992/1253924202541744150 (in [Storage Tech](https://discord.gg/JufJ6uf))
 - Bulk Box Loaders: https://discord.com/channels/748542142347083868/1216808001193644113/1216808227316957406 (in [Storage Tech](https://discord.gg/JufJ6uf))
 - Input System: https://discord.com/channels/748542142347083868/749137287513768027/1022569953121030264 (in [Storage Tech](https://discord.gg/JufJ6uf)) (Heavily modified to fit better)
-- CUD Loader: https://discord.com/channels/748542142347083868/748542142850400289/1311541932098326558 (in [Storage Tech](https://discord.gg/JufJ6uf)) (by Kizu)
+- CUD Loader: [OL004](../../../Archive/OL_other-loaders/OL004_1x_CUD-based_loader) (by Kizu)
 - Box fill level sorter: https://discord.com/channels/748542142347083868/1275462763791126558/1404131486063394926 (in [Storage Tech](https://discord.gg/JufJ6uf))
 - Parallel Unloading Array: https://discord.com/channels/748542142347083868/749136547755851857/1397119350854647809 (in [Storage Tech](https://discord.gg/JufJ6uf))
 - MIS: https://discord.com/channels/748542142347083868/749136637606363167/1388976409535316038 (in [Storage Tech](https://discord.gg/JufJ6uf)) 
