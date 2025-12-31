@@ -4,14 +4,15 @@
     "A/B Tiling",
     "AB tileable",
     "1wABt",
-    "2wABt"
+    "2wABt",
+    "nwABt"
   ],
   "definition": "An extension of n-Wide tileable, but where a solution has been provided by the author on how to put 2 Slices(Slice) of the same system next to each other, by moving/editing some components within the system. The capital letters ( AB, or ABC, or ABCD, ... ) annotate how the slices are tiled, and how many versions of the slice exist to achieve a result.",
   "threadURL": "https://discord.com/channels/1375556143186837695/1454753732293033984",
   "statusURL": "https://discord.com/channels/1375556143186837695/1454753732293033984/1454753733035687988",
   "status": "APPROVED",
   "statusMessageID": "1454753733035687988",
-  "updatedAt": 1767165885627,
+  "updatedAt": 1767165926320,
   "references": [
     {
       "type": "dictionaryTerm",
