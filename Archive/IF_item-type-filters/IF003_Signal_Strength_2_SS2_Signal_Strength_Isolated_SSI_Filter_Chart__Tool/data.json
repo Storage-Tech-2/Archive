@@ -4,10 +4,11 @@
   "code": "IF003",
   "authors": [
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "243788118162014208",
       "username": "dzreamslol",
-      "iconURL": "https://cdn.discordapp.com/avatars/243788118162014208/21d91549a0cdca6d684492d2ea6d2079.webp"
+      "iconURL": "https://cdn.discordapp.com/avatars/243788118162014208/21d91549a0cdca6d684492d2ea6d2079.webp",
+      "displayName": "dzreams"
     },
     {
       "type": "discord-in-guild",
