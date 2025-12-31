@@ -3,7 +3,7 @@
 
 **Authors:** *bipim, Walter*
 
-**Endorsed by:** *ValBlaze*
+**Endorsed by:** *Val Blaze*
 
 **Tags:** *Tested & Functional*
 

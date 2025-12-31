@@ -3,7 +3,7 @@
 
 **Authors:** *womp*
 
-**Endorsed by:** *ValBlaze*
+**Endorsed by:** *Val Blaze*
 
 **Tags:** *Tested & Functional, Recommended*
 
