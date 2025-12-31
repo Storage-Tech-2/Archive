@@ -143,6 +143,16 @@
     },
     {
       "type": "dictionaryTerm",
+      "term": "Signal Strength Isolated",
+      "id": "1455820021581217843",
+      "url": "https://discord.com/channels/1375556143186837695/1455820021581217843/1455820022256500874",
+      "matches": [
+        "signal strength isolated",
+        "SSI"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
       "term": "Schematic",
       "id": "1454811558009110704",
       "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",

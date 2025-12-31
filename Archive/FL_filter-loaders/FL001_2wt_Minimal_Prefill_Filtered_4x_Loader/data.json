@@ -145,6 +145,15 @@
       ]
     },
     {
+      "type": "dictionaryTerm",
+      "term": "SSI",
+      "id": "1455820021581217843",
+      "url": "https://discord.com/channels/1375556143186837695/1455820021581217843/1455820022256500874",
+      "matches": [
+        "SSI"
+      ]
+    },
+    {
       "type": "discordLink",
       "url": "https://discord.com/channels/748542142347083868/869352287708012634/869591141065039962",
       "server": "748542142347083868",
