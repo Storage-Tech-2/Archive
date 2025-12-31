@@ -3,7 +3,7 @@
   "name": "other-loaders",
   "code": "OL",
   "description": "Other box loaders (EG: CUD loaders or hybrid loaders)",
-  "currentCodeId": 3,
+  "currentCodeId": 4,
   "entries": [
     {
       "id": "1386466149700600048",
@@ -36,6 +36,18 @@
       "archivedAt": 1751331755696,
       "updatedAt": 1751331755696,
       "path": "OL003_Globally_Clocked_3wt_6x_Loader",
+      "tags": [
+        "Tested & Functional",
+        "Recommended"
+      ]
+    },
+    {
+      "id": "1455729497373413416",
+      "name": "1x CUD-based loader",
+      "code": "OL004",
+      "archivedAt": 1767143426990,
+      "updatedAt": 1767143426990,
+      "path": "OL004_1x_CUD-based_loader",
       "tags": [
         "Tested & Functional",
         "Recommended"
