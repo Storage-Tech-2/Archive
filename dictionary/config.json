@@ -718,8 +718,18 @@
       "terms": [
         "box yeet"
       ],
-      "summary": "A box yeeter is a device which destroys the shulker box item entity, releasing its contents as item entities. This mechanic was introduced in 1.17. Each item stack contained within the box are drop...",
-      "updatedAt": 1767131066516
+      "summary": "A box yeeter is a device which destroys the shulker box item entity, releasing its contents as item entities. The box item is permanently destroyed in the process. This mechanic was introduced in 1...",
+      "updatedAt": 1767131136943
+    },
+    {
+      "id": "1455820021581217843",
+      "terms": [
+        "Signal Strength Isolated",
+        "Signal Strength Independent",
+        "SSI"
+      ],
+      "summary": "Signal strength isolated, signal strength independent, or SSI all refer to item filter designs which cannot crosstalk with each other regardless of signal strength output. This is done by A/B tilin...",
+      "updatedAt": 1767164945766
     }
   ]
 }
