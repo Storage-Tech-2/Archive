@@ -63,7 +63,7 @@
       "Preserves and outputs cart items into a separate output"
     ],
     "considerations": [
-      "Can't be clocked very fast,  24gt minimum clock cycle recommended"
+      "Can't be clocked very fast,  32gt minimum clock cycle recommended"
     ],
     "notes": "Tested for 500k item entities using <@458048759247536128> , <@921904275418927214> , and Crec0's alignment logging scarpet script"
   },
@@ -135,7 +135,7 @@
     }
   ],
   "author_references": [],
-  "updatedAt": 1767298406729,
+  "updatedAt": 1767299628774,
   "archivedAt": 1767298406729,
   "post": {
     "threadId": "1456379833478021344",

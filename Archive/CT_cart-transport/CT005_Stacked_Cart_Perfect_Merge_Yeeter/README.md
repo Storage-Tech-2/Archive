@@ -14,7 +14,7 @@ This cart yeeter yeets stacked carts and perfectly aligns the item output such t
 - Items output are perfectly merged; not broken up into smaller stacks.
 - Preserves and outputs cart items into a separate output
 ## Considerations
-- Can't be clocked very fast,  24gt minimum clock cycle recommended
+- Can't be clocked very fast,  32gt minimum clock cycle recommended
 ## Notes
 Tested for 500k item entities using 51mayday , ners , and Crec0's alignment logging scarpet script
 
