@@ -731,6 +731,15 @@
       ],
       "summary": "Signal strength isolated, signal strength independent, or SSI all refer to item filter designs which cannot crosstalk with each other regardless of signal strength output. This is done by A/B tilin...",
       "updatedAt": 1767164945766
+    },
+    {
+      "id": "1456380865180340354",
+      "terms": [
+        "Stacked cart",
+        "cart stack"
+      ],
+      "summary": "Cart stacking refers to putting multiple cart entities in the same location. This can be done by dropping carts onto a rail from above, the carts will snap onto the rail regardless of how many cart...",
+      "updatedAt": 1767298661024
     }
   ]
 }
