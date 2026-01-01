@@ -84,6 +84,16 @@
       "matches": [
         "cart yeet"
       ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Stacked cart",
+      "id": "1456380865180340354",
+      "url": "https://discord.com/channels/1375556143186837695/1456380865180340354/1456380866623311915",
+      "matches": [
+        "stacked cart",
+        "Stacked cart"
+      ]
     }
   ],
   "author_references": [],
