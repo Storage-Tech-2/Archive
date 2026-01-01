@@ -3,7 +3,7 @@
   "name": "cart-transport",
   "code": "CT",
   "description": "Minecarts",
-  "currentCodeId": 4,
+  "currentCodeId": 5,
   "entries": [
     {
       "id": "1450267939461922957",
@@ -51,6 +51,19 @@
       "archivedAt": 1767128835814,
       "updatedAt": 1767128835814,
       "path": "CT004_Chain_Cart_Yeeter",
+      "tags": [
+        "Tested & Functional",
+        "Recommended",
+        "Cart Yeeting"
+      ]
+    },
+    {
+      "id": "1456378525970993232",
+      "name": "Stacked Cart Perfect Merge Yeeter",
+      "code": "CT005",
+      "archivedAt": 1767298406729,
+      "updatedAt": 1767298406729,
+      "path": "CT005_Stacked_Cart_Perfect_Merge_Yeeter",
       "tags": [
         "Tested & Functional",
         "Recommended",

@@ -1,0 +1,139 @@
+{
+  "id": "1456378525970993232",
+  "name": "Stacked Cart Perfect Merge Yeeter",
+  "code": "CT005",
+  "authors": [],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488491810394301",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789116905685055",
+      "name": "Recommended"
+    },
+    {
+      "id": "1450268858790187239",
+      "name": "Cart Yeeting"
+    }
+  ],
+  "images": [
+    {
+      "id": "1456378526445076544",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1456378525970993232/1456378526445076544/image.png?ex=695825b2&is=6956d432&hm=6fcfa0b99ac9efc5e57b1ee6e979b25c7926ee59395feb35c838049691c5858f&",
+      "description": "Sent by andrews54757 at 1/1/2026, 3:08:18 PM",
+      "canDownload": true,
+      "width": 533,
+      "height": 611,
+      "path": "images/image.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1456378526872899834",
+      "name": "CT005_stacked_cart_merge_yeeter.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1456378525970993232/1456378526872899834/stacked_cart_merge_yeeter.litematic?ex=695825b3&is=6956d433&hm=a49bdce386fdb3e0e1d57f4c004ab49f5e96e169bb595ad27704542aa013b7e0&",
+      "description": "Sent by andrews54757 at 1/1/2026, 3:08:18 PM",
+      "canDownload": true,
+      "path": "attachments/CT005_stacked_cart_merge_yeeter.litematic",
+      "litematic": {
+        "size": "4x6x6",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "This cart yeeter yeets stacked carts and perfectly aligns the item output such that they merge into full stacks perfectly. Works similar to CT001 but is compatible with stacked carts.",
+    "features": [
+      "Stacked cart compatible",
+      "Outputs cart's contents in item entity form, aligned in all axis + time.",
+      "Items output are perfectly merged; not broken up into smaller stacks.",
+      "Preserves and outputs cart items into a separate output"
+    ],
+    "considerations": [
+      "Can't be clocked very fast,  24gt minimum clock cycle recommended"
+    ],
+    "notes": "Tested for 500k item entities using <@458048759247536128> , <@921904275418927214> , and Crec0's alignment logging scarpet script"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "cart yeet",
+      "id": "1455675378931728598",
+      "url": "https://discord.com/channels/1375556143186837695/1455675378931728598/1455675380160659517",
+      "matches": [
+        "cart yeet"
+      ]
+    },
+    {
+      "type": "archivedPost",
+      "id": "1450267939461922957",
+      "code": "CT001",
+      "url": "https://discord.com/channels/1375556143186837695/1450269963242705040",
+      "path": "Archive/CT_cart-transport/CT001_Perfect_Merge_Cart_Yeeter",
+      "matches": [
+        "CT001"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "gt",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "458048759247536128",
+        "displayName": "51mayday",
+        "username": "51mayday",
+        "iconURL": "https://cdn.discordapp.com/avatars/458048759247536128/546bf5b9538dc86c57fb0cbefb98b9af.webp"
+      },
+      "matches": [
+        "<@458048759247536128>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "921904275418927214",
+        "displayName": "ners",
+        "username": "ners__",
+        "iconURL": "https://cdn.discordapp.com/avatars/921904275418927214/c8f1ab847f47b25e0dcfc72ab8d8d5c1.webp"
+      },
+      "matches": [
+        "<@921904275418927214>"
+      ]
+    }
+  ],
+  "author_references": [],
+  "updatedAt": 1767298406729,
+  "archivedAt": 1767298406729,
+  "post": {
+    "threadId": "1456379833478021344",
+    "forumId": "1375563297230688327",
+    "continuingMessageIds": [
+      "1456379837953347635"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1456379833478021344",
+    "uploadMessageId": "1456379830336622674"
+  }
+}
