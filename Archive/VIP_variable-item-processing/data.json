@@ -57,10 +57,10 @@
       "name": "Variable Cart Ideal Output Splitter",
       "code": "VIP005",
       "archivedAt": 1753625937818,
-      "updatedAt": 1753625937818,
+      "updatedAt": 1767373014238,
       "path": "VIP005_Variable_Cart_Ideal_Output_Splitter",
       "tags": [
-        "Broken"
+        "Untested"
       ]
     },
     {
