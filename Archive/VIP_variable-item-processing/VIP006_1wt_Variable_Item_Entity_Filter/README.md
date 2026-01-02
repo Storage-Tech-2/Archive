@@ -1,7 +1,7 @@
 # 1wt Variable Item Entity Filter
 <img alt="area_render_28_.png" src="images/area_render_28_.png?raw=1" height="300px">
 
-**Authors:** *white_0910, Gufen*
+**Authors:** *白Unique_Clock, Gufen*
 
 **Endorsed by:** *Andrews54757*
 

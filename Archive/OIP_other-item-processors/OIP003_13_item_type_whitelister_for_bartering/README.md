@@ -1,7 +1,7 @@
 # 13 item type whitelister for bartering
 <img alt="area_render.png" src="images/area_render.png?raw=1" height="300px">
 
-**Authors:** *Carrie*
+**Authors:** *Caribous*
 
 **Endorsed by:** *Andrews54757*
 

@@ -1,7 +1,7 @@
 # Perfect Merge Cart Yeeter
 <img alt="imagasde.png" src="images/imagasde.png?raw=1" height="300px">
 
-**Authors:** *Carrie*
+**Authors:** *Caribous*
 
 **Endorsed by:** *Andrews54757*
 

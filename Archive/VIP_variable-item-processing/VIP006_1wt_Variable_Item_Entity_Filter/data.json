@@ -4,10 +4,11 @@
   "code": "VIP006",
   "authors": [
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "1076361384981430354",
       "username": "white_0910",
-      "iconURL": "https://cdn.discordapp.com/avatars/1076361384981430354/a274a60a31a9fb58987e9fb06b7c8e98.webp"
+      "iconURL": "https://cdn.discordapp.com/avatars/1076361384981430354/a274a60a31a9fb58987e9fb06b7c8e98.webp",
+      "displayName": "白Unique_Clock"
     },
     {
       "type": "discord-in-guild",

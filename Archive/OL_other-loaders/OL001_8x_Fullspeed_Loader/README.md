@@ -1,7 +1,7 @@
 # 8x Fullspeed Loader
 <img alt="area_render_177_.png" src="images/area_render_177_.png?raw=1" height="300px">
 
-**Authors:** *Carrie*
+**Authors:** *Caribous*
 
 **Endorsed by:** *Andrews54757*
 

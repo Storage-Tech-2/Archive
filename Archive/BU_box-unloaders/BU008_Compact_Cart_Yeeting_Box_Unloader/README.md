@@ -1,7 +1,7 @@
 # Compact Cart Yeeting Box Unloader
 <img alt="area_render_158_.png" src="images/area_render_158_.png?raw=1">
 
-**Authors:** *Christone, Carrie, math_dragon*
+**Authors:** *Christone, Caribous, math_dragon*
 
 **Endorsed by:** *Christone*
 

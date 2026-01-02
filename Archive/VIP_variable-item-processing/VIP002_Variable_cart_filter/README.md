@@ -1,7 +1,7 @@
 # Variable cart filter
 <img alt="area_render_101_.png" src="images/area_render_101_.png?raw=1" height="300px">
 
-**Authors:** *Carrie*
+**Authors:** *Caribous*
 
 **Endorsed by:** *Andrews54757*
 
