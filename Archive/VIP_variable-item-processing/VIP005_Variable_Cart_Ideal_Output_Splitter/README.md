@@ -28,11 +28,3 @@ Takes item entities as input, and loads them into single type boxes using variab
 Item input is on the side. Add loose items into the stream to start the device.
 <img alt="image.png" src="comments_attachments/1397834495616618526-image.png?raw=1" height="150px">
 
-
-### wreg (10/10/2025)
-
-
-**Other attachments:**
-- [idealmini.litematic](comments_attachments/1426085625374969906-idealmini.litematic): MC 1.21, Size 21x14x21 blocks
-- [idealv2.litematic](comments_attachments/1426085625655857254-idealv2.litematic): MC 1.21, Size 21x14x33 blocks
-
