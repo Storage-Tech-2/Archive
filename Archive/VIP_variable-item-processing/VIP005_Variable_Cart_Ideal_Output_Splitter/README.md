@@ -30,10 +30,6 @@ Item input is on the side. Add loose items into the stream to start the device.
 
 
 ### wreg (10/10/2025)
-Sorry for the mistake,I will then upload a correct version of this variable loader
-
-
-### wreg (10/10/2025)
 
 
 **Other attachments:**

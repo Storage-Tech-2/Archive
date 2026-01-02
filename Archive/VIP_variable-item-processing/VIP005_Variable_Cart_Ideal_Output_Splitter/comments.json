@@ -23,19 +23,6 @@
     "timestamp": 1753340114831
   },
   {
-    "id": "1426085021902704706",
-    "sender": {
-      "type": "discord-in-guild",
-      "id": "1165983253493198972",
-      "username": "wreg_",
-      "displayName": "wreg",
-      "iconURL": "https://cdn.discordapp.com/avatars/1165983253493198972/4eae41af71aa41964fa5815ef233af80.webp"
-    },
-    "content": "Sorry for the mistake,I will then upload a correct version of this variable loader",
-    "attachments": [],
-    "timestamp": 1760075564703
-  },
-  {
     "id": "1426085625949323374",
     "sender": {
       "type": "discord-in-guild",
