@@ -3,7 +3,7 @@
   "name": "top-displays",
   "code": "TD",
   "description": "Top box displays",
-  "currentCodeId": 5,
+  "currentCodeId": 6,
   "entries": [
     {
       "id": "1386199263746461867",
@@ -53,6 +53,18 @@
         "Recommended",
         "Auto Replacement",
         "Tested & Functional"
+      ]
+    },
+    {
+      "id": "1456438812652736584",
+      "name": "Gigachad Top Displays",
+      "code": "TD006",
+      "archivedAt": 1767312698546,
+      "updatedAt": 1767312698546,
+      "path": "TD006_Gigachad_Top_Displays",
+      "tags": [
+        "Tested & Functional",
+        "Auto Replacement"
       ]
     }
   ],
