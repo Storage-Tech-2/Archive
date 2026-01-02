@@ -80,6 +80,7 @@
       "Automatic box replacement"
     ],
     "considerations": [
+      "Dispenser needs to buffer 1 box",
       "A box may fail to replace if adjacent slice empties in 2 or 3 gt interval"
     ],
     "notes": "Testing: All 4 directions, boxes emptied at 1/2/3/4 gt apart"
@@ -124,7 +125,7 @@
     }
   ],
   "author_references": [],
-  "updatedAt": 1767312698546,
+  "updatedAt": 1767360790502,
   "archivedAt": 1767312698546,
   "post": {
     "threadId": "1456439784145813667",

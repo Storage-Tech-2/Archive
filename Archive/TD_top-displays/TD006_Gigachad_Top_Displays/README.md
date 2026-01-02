@@ -15,6 +15,7 @@ Small top displays that sit directly in the ceiling, allowing for a perfect UI i
 - Global first box placement
 - Automatic box replacement
 ## Considerations
+- Dispenser needs to buffer 1 box
 - A box may fail to replace if adjacent slice empties in 2 or 3 gt interval
 ## Notes
 Testing: All 4 directions, boxes emptied at 1/2/3/4 gt apart
