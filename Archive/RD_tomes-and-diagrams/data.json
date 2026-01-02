@@ -4,7 +4,7 @@
   "code": "RD",
   "category": "Other Resources",
   "description": "Miscellaneous notes, guides, and diagrams with questionable utility",
-  "currentCodeId": 2,
+  "currentCodeId": 3,
   "entries": [
     {
       "id": "1451060139560931523",
@@ -27,6 +27,17 @@
       "tags": [
         "Recommended",
         "Tested & Functional"
+      ]
+    },
+    {
+      "id": "1456723394752942214",
+      "name": "Whats all the ages 'bout",
+      "code": "RD003",
+      "archivedAt": 1767380472391,
+      "updatedAt": 1767380472391,
+      "path": "RD003_Whats_all_the_ages_bout",
+      "tags": [
+        "Recommended"
       ]
     }
   ]
