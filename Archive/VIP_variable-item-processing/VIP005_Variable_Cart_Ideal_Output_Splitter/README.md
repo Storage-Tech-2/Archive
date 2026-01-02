@@ -29,11 +29,6 @@ Item input is on the side. Add loose items into the stream to start the device.
 <img alt="image.png" src="comments_attachments/1397834495616618526-image.png?raw=1" height="150px">
 
 
-### Andrews54757 (8/29/2025)
-Broken with random input timings according to testing by Lukeem. it can lose carts, loaders might spit items, and also may output mixed boxes.
-<img alt="image.png" src="comments_attachments/1410878526885855313-image.png?raw=1" height="150px">
-
-
 ### wreg (10/10/2025)
 Sorry for the mistake,I will then upload a correct version of this variable loader
 

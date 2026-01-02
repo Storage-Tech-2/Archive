@@ -23,29 +23,6 @@
     "timestamp": 1753340114831
   },
   {
-    "id": "1410878527087317113",
-    "sender": {
-      "type": "discord-in-guild",
-      "id": "239078039831445504",
-      "username": "andrews54757",
-      "displayName": "Andrews54757",
-      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
-    },
-    "content": "Broken with random input timings according to testing by Lukeem. it can lose carts, loaders might spit items, and also may output mixed boxes.",
-    "attachments": [
-      {
-        "id": "1410878526885855313",
-        "name": "image.png",
-        "contentType": "image/png",
-        "url": "https://cdn.discordapp.com/attachments/1397833391767818270/1410878526885855313/image.png?ex=68b29e85&is=68b14d05&hm=665bbad5d7054a609623c17eedbe3b3e3ca2f7b6475ce54b8464928bde13becc&",
-        "description": "Sent by andrews54757 at 8/29/2025, 2:47:33 AM",
-        "canDownload": true,
-        "path": "comments_attachments/1410878526885855313-image.png"
-      }
-    ],
-    "timestamp": 1756451486637
-  },
-  {
     "id": "1426085021902704706",
     "sender": {
       "type": "discord-in-guild",
