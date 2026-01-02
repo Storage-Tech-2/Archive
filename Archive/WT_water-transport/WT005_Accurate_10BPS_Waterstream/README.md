@@ -1,7 +1,7 @@
 # Accurate 10BPS Waterstream
 <img alt="image.png" src="images/image.png?raw=1">
 
-**Authors:** *willymc_cn*
+**Authors:** *willymc*
 
 **Endorsed by:** *Andrews54757*
 

@@ -4,10 +4,11 @@
   "code": "WT005",
   "authors": [
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "1073133812415991818",
       "username": "willymc_cn",
-      "iconURL": "https://cdn.discordapp.com/embed/avatars/0.png"
+      "iconURL": "https://cdn.discordapp.com/embed/avatars/0.png",
+      "displayName": "willymc"
     }
   ],
   "endorsers": [
