@@ -64,12 +64,13 @@
     }
   ],
   "records": {
-    "description": "Item entities colliding inside a block will glitch out of the block. This behavior appears random but is controllable, as described by an accompanying diagram."
+    "description": "Item entities colliding inside a block will glitch out of the block. This behavior appears random but is controllable, as described by an accompanying diagram.",
+    "notes": "See [`Entity.moveTowardsClosestSpace()`](https://mcsrc.dev/#1/1.21.11_unobfuscated/net/minecraft/world/entity/Entity#L2839-2868)"
   },
   "styles": {},
   "references": [],
   "author_references": [],
-  "updatedAt": 1766976757521,
+  "updatedAt": 1767423921395,
   "archivedAt": 1766976757521,
   "post": {
     "threadId": "1455030735089041534",
