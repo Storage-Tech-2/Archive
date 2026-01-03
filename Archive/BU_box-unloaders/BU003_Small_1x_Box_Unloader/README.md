@@ -1,7 +1,7 @@
 # Small 1x Box Unloader
 <img alt="Small_Box_Unloader_Hopper_Collection.png" src="images/Small_Box_Unloader_Hopper_Collection.png?raw=1" height="300px">
 
-**Authors:** *Kartoffel, sergyd*
+**Authors:** *misterkartoffel, sergyd*
 
 **Endorsed by:** *Andrews54757*
 

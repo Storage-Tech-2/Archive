@@ -22,7 +22,7 @@ A restock station that uses 3 box displays.
 
 ## Acknowledgements:
 - datnerd: Floor display design
-- Kartoffel: Top display design
+- misterkartoffel: Top display design
 
 ## Resources
 - [RS001_Xia_-_3_Item_Restock_Station.litematic](attachments/RS001_Xia_-_3_Item_Restock_Station.litematic): MC 1.21.4, Size 1x12x10 blocks
