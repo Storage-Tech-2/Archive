@@ -755,7 +755,15 @@
         "Update order"
       ],
       "summary": "Update order is the order in which Minecraft will process actions. Because Minecraft is a software program, actions that appear to occur simultaneously must occur sequentially one after another in ...",
-      "updatedAt": 1767425337403
+      "updatedAt": 1767425543873
+    },
+    {
+      "id": "1456914381366493408",
+      "terms": [
+        "Modulo 4"
+      ],
+      "summary": "Refers to the mechanic where an item entity will begin movement only in certain ticks. The modulo 4 operation (remainder after dividing by 4) is used to determine what specific tick it will begin t...",
+      "updatedAt": 1767425860019
     }
   ]
 }
