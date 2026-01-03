@@ -15,6 +15,7 @@
   "references": [],
   "referencedBy": [
     "FA002",
-    "CC004"
+    "CC004",
+    "LC001"
   ]
 }
