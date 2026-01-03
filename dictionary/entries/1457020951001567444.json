@@ -5,22 +5,12 @@
     "Falling Edge Detector",
     "Dual Edge Detector"
   ],
-  "definition": "Rising edge: When the change from unpowered to powered outputs a short pulse\nFalling edge: When the change from powered to unpowered outputs a short pulse\nDual edge: When both changes of state output a short pulse\n\nCorresponding charts for basic 1wt rising/falling edge detectors:",
+  "definition": "Rising edge: When the change from unpowered to powered outputs a short pulse\nFalling edge: When the change from powered to unpowered outputs a short pulse\nDual edge: When both changes of state output a short pulse",
   "threadURL": "https://discord.com/channels/1375556143186837695/1457020951001567444",
   "statusURL": "https://discord.com/channels/1375556143186837695/1457020951001567444/1457020954642485484",
   "status": "PENDING",
-  "updatedAt": 1767451265556,
-  "references": [
-    {
-      "type": "dictionaryTerm",
-      "term": "1wt",
-      "id": "1454753738425368687",
-      "url": "https://discord.com/channels/1375556143186837695/1454753738425368687/1454753741785010208",
-      "matches": [
-        "1wt"
-      ]
-    }
-  ],
-  "referencedBy": [],
-  "statusMessageID": "1457020954642485484"
+  "statusMessageID": "1457020954642485484",
+  "updatedAt": 1767456071691,
+  "references": [],
+  "referencedBy": []
 }
