@@ -236,7 +236,7 @@
         "ticks"
       ],
       "summary": "Minecraft iteratively runs its processing code in a loop. One cycle of this loop is called a Tick or Gametick (gt). \nGameticks are also used as the default measurement of time while working with re...",
-      "updatedAt": 1766927242701
+      "updatedAt": 1767427377297
     },
     {
       "id": "1454753641226305589",
@@ -764,6 +764,14 @@
       ],
       "summary": "Refers to the mechanic where an item entity will begin movement only in certain ticks. The modulo 4 operation (remainder after dividing by 4) is used to determine what specific tick it will begin t...",
       "updatedAt": 1767425860019
+    },
+    {
+      "id": "1456924697706107016",
+      "terms": [
+        "Hopper hashing"
+      ],
+      "summary": "Hopper hashing occurs when a device depends on a specific ticking order of hoppers for operation. This is a problem because hoppers are block entities, which are ticked in a location dependent but ...",
+      "updatedAt": 1767428321129
     }
   ]
 }
