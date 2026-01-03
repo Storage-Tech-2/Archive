@@ -613,10 +613,10 @@
     {
       "id": "1454754850322649100",
       "terms": [
-        "Variable sorter"
+        "Variable sort"
       ],
       "summary": "An item filter that does not always filter for the same item, but instead can be remapped,  meaning getting the item type reassigned (in contrast with Fixed Sorter). There are many different types ...",
-      "updatedAt": 1766910985330
+      "updatedAt": 1767458635813
     },
     {
       "id": "1454804125559554243",
