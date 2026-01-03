@@ -1,7 +1,7 @@
 # 3wt Full Clearance Mixed 6x Loader
 <img alt="6x_mixed.png" src="images/6x_mixed.png?raw=1" height="300px">
 
-**Authors:** *金合欢酱喵~ (acaciachan), commandleo*
+**Authors:** *金合欢酱喵~ (acaciachan), CommandLeo*
 
 **Endorsed by:** *Andrews54757*
 

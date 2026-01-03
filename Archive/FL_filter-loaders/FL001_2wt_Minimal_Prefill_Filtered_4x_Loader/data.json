@@ -4,7 +4,7 @@
   "code": "FL001",
   "authors": [
     {
-      "type": "discord-deleted",
+      "type": "discord-in-guild",
       "id": "656864003242328064",
       "name": "acaciachan",
       "displayName": "金合欢酱喵~ (acaciachan)",
@@ -12,7 +12,7 @@
       "username": "acaciachan"
     },
     {
-      "type": "discord-deleted",
+      "type": "discord-external",
       "id": "1253968886240383080",
       "username": "tuzier",
       "iconURL": "https://cdn.discordapp.com/avatars/1253968886240383080/b20bd38452c858f195210ec8e77b1093.webp"
@@ -20,7 +20,7 @@
   ],
   "endorsers": [
     {
-      "type": "discord-deleted",
+      "type": "discord-in-guild",
       "id": "239078039831445504",
       "username": "andrews54757",
       "displayName": "Andrews54757",
