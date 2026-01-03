@@ -740,6 +740,14 @@
       ],
       "summary": "Cart stacking refers to putting multiple cart entities in the same location. This can be done by dropping carts onto a rail from above, the carts will snap onto the rail regardless of how many cart...",
       "updatedAt": 1767298661024
+    },
+    {
+      "id": "1456908472384884879",
+      "terms": [
+        "item entity"
+      ],
+      "summary": "Item entities are items in entity form. Each item entity can have a full stack of items, up to 64 items for 64-stackables.\n\n## Item entity tick\nEvery game tick, item entities will do the following ...",
+      "updatedAt": 1767424465096
     }
   ]
 }
