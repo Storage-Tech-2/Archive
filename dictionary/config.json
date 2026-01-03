@@ -771,7 +771,7 @@
         "Hopper hashing"
       ],
       "summary": "Hopper hashing occurs when a device depends on a specific ticking order of hoppers for operation. This is a problem because hoppers are block entities, which are ticked in a location dependent but ...",
-      "updatedAt": 1767428321129
+      "updatedAt": 1767429008831
     }
   ]
 }
