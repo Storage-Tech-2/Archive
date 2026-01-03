@@ -788,10 +788,10 @@
       "id": "1457055322647695542",
       "terms": [
         "Chunk loader",
-        "chunk loading"
+        "chunk load"
       ],
       "summary": "A chunk loader is a simple device which keeps certain chunks loaded in the game. This allows for devices in the chunk to continue operating even when the player is far away. All redstone machines r...",
-      "updatedAt": 1767459463510
+      "updatedAt": 1767459563307
     }
   ]
 }
