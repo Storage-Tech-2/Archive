@@ -89,6 +89,15 @@
   "references": [
     {
       "type": "dictionaryTerm",
+      "term": "item entity",
+      "id": "1456908472384884879",
+      "url": "https://discord.com/channels/1375556143186837695/1456908472384884879/1456908473844502594",
+      "matches": [
+        "item entity"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
       "term": "gt",
       "id": "1454753634435858666",
       "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",

@@ -100,6 +100,15 @@
     },
     {
       "type": "dictionaryTerm",
+      "term": "item entity",
+      "id": "1456908472384884879",
+      "url": "https://discord.com/channels/1375556143186837695/1456908472384884879/1456908473844502594",
+      "matches": [
+        "item entity"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
       "term": "gt",
       "id": "1454753634435858666",
       "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
@@ -112,9 +121,9 @@
       "user": {
         "type": "discord-in-guild",
         "id": "458048759247536128",
-        "displayName": "51mayday",
         "username": "51mayday",
-        "iconURL": "https://cdn.discordapp.com/avatars/458048759247536128/546bf5b9538dc86c57fb0cbefb98b9af.webp"
+        "iconURL": "https://cdn.discordapp.com/avatars/458048759247536128/546bf5b9538dc86c57fb0cbefb98b9af.webp",
+        "displayName": "51mayday"
       },
       "matches": [
         "<@458048759247536128>"
@@ -125,9 +134,9 @@
       "user": {
         "type": "discord-in-guild",
         "id": "921904275418927214",
-        "displayName": "ners",
         "username": "ners__",
-        "iconURL": "https://cdn.discordapp.com/avatars/921904275418927214/c8f1ab847f47b25e0dcfc72ab8d8d5c1.webp"
+        "iconURL": "https://cdn.discordapp.com/avatars/921904275418927214/c8f1ab847f47b25e0dcfc72ab8d8d5c1.webp",
+        "displayName": "ners"
       },
       "matches": [
         "<@921904275418927214>"

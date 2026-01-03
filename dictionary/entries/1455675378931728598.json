@@ -11,6 +11,15 @@
   "updatedAt": 1767420622747,
   "references": [
     {
+      "type": "dictionaryTerm",
+      "term": "item entity",
+      "id": "1456908472384884879",
+      "url": "https://discord.com/channels/1375556143186837695/1456908472384884879/1456908473844502594",
+      "matches": [
+        "item entity"
+      ]
+    },
+    {
       "type": "archivedPost",
       "id": "1450267939461922957",
       "code": "CT001",
@@ -22,9 +31,8 @@
     }
   ],
   "referencedBy": [
-    "CT002",
+    "CT001",
     "CT003",
-    "CT004",
     "CT005"
   ]
 }

@@ -9,7 +9,17 @@
   "status": "APPROVED",
   "statusMessageID": "1454753555566166029",
   "updatedAt": 1766910676508,
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Update order",
+      "id": "1456912184172085260",
+      "url": "https://discord.com/channels/1375556143186837695/1456912184172085260/1456912184922607793",
+      "matches": [
+        "update order"
+      ]
+    }
+  ],
   "referencedBy": [
     "DT002",
     "SS003"
