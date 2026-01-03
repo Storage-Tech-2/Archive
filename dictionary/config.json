@@ -772,6 +772,17 @@
       ],
       "summary": "Hopper hashing occurs when a device depends on a specific ticking order of hoppers for operation. This is a problem because hoppers are block entities, which are ticked in a location dependent but ...",
       "updatedAt": 1767455890885
+    },
+    {
+      "id": "1457020951001567444",
+      "terms": [
+        "Rising Edge",
+        "Falling Edge",
+        "Dual Edge",
+        "Monostable"
+      ],
+      "summary": "A rising/falling/dual edge detector or monostable is a device which outputs a short pulse when:\n- Rising edge: Change from unpowered to powered outputs a short pulse\n- Falling edge: Change from pow...",
+      "updatedAt": 1767456174933
     }
   ]
 }
