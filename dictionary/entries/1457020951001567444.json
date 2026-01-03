@@ -13,5 +13,8 @@
   "statusMessageID": "1457020954642485484",
   "updatedAt": 1767456174933,
   "references": [],
-  "referencedBy": []
+  "referencedBy": [
+    "FA002",
+    "CC004"
+  ]
 }
