@@ -748,6 +748,14 @@
       ],
       "summary": "Item entities are items in entity form. Each item entity can have a full stack of items, up to 64 items for 64-stackables.\n\n## Item entity tick\nEvery game tick, item entities will do the following ...",
       "updatedAt": 1767424465096
+    },
+    {
+      "id": "1456912184172085260",
+      "terms": [
+        "Update order"
+      ],
+      "summary": "Update order is the order in which Minecraft will process actions. Because Minecraft is a software program, actions that appear to occur simultaneously must occur sequentially one after another in ...",
+      "updatedAt": 1767425337403
     }
   ]
 }
