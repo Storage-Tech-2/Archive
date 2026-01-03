@@ -114,7 +114,7 @@
         "CUD"
       ],
       "summary": "A Comparator Update Detector is based on the behavior inherent to comparators where they don't notice inventory changes when reading it through a solid block (including an inventory being moved awa...",
-      "updatedAt": 1766910671805
+      "updatedAt": 1767422673498
     },
     {
       "id": "1454753542177816576",
@@ -548,8 +548,8 @@
         "Tile Tick Priority",
         "ttp"
       ],
-      "summary": "Usually used when referring to pointing Comparators in Dropperlines(Dropperline) into repeaters/comparators increase the priority of the comparator and allow it to actually notice that an item is c...",
-      "updatedAt": 1766910972655
+      "summary": "Refers to the phenomenon where short pulsing a comparator for 2gt only causes it to activate if it is pointing into another comparator or repeater block.\n\n## Details\nThe block ticking list is a [pr...",
+      "updatedAt": 1767423562882
     },
     {
       "id": "1454754804252282910",
@@ -712,7 +712,7 @@
         "cart yeet"
       ],
       "summary": "A cart yeeter is a device which breaks a cart with an inventory, emptying its contents in item entity form. The cart item is also collected separately for recycling. Cart yeeting was introduced in ...",
-      "updatedAt": 1767130468511
+      "updatedAt": 1767420622747
     },
     {
       "id": "1455677927902413046",
@@ -720,7 +720,7 @@
         "box yeet"
       ],
       "summary": "A box yeeter is a device which destroys the shulker box item entity, releasing its contents as item entities. The box item is permanently destroyed in the process. This mechanic was introduced in 1...",
-      "updatedAt": 1767131136943
+      "updatedAt": 1767421404795
     },
     {
       "id": "1455820021581217843",
