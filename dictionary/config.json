@@ -181,7 +181,7 @@
         "Encoded"
       ],
       "summary": "A system is said to be encoded when a signal in the form of a code is used to decide the fate of items or boxes. In broader terms, it refers to systems that use codes to transfer instructions. Code...",
-      "updatedAt": 1766910686004
+      "updatedAt": 1767458737358
     },
     {
       "id": "1454753601967624213",
@@ -783,6 +783,15 @@
       ],
       "summary": "A rising/falling/dual edge detector or monostable is a device which outputs a short pulse when:\n- Rising edge: Change from unpowered to powered outputs a short pulse\n- Falling edge: Change from pow...",
       "updatedAt": 1767456174933
+    },
+    {
+      "id": "1457055322647695542",
+      "terms": [
+        "Chunk loader",
+        "chunk loading"
+      ],
+      "summary": "A chunk loader is a simple device which keeps certain chunks loaded in the game. This allows for devices in the chunk to continue operating even when the player is far away. All redstone machines r...",
+      "updatedAt": 1767459463510
     }
   ]
 }
