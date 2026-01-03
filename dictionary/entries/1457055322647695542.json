@@ -13,15 +13,6 @@
   "references": [
     {
       "type": "dictionaryTerm",
-      "term": "Loader",
-      "id": "1454753686558605373",
-      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
-      "matches": [
-        "loader"
-      ]
-    },
-    {
-      "type": "dictionaryTerm",
       "term": "tick",
       "id": "1454753634435858666",
       "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
@@ -30,5 +21,14 @@
       ]
     }
   ],
-  "referencedBy": []
+  "referencedBy": [
+    "MIS001",
+    "MIS003",
+    "MIS004",
+    "MIS005",
+    "LS002",
+    "SS003",
+    "FA002",
+    "CKL001"
+  ]
 }

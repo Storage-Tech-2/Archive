@@ -102,9 +102,9 @@
       "user": {
         "type": "discord-in-guild",
         "id": "413427604058800129",
-        "displayName": "4three",
         "username": "4threee",
-        "iconURL": "https://cdn.discordapp.com/avatars/413427604058800129/7f705f98f8de1a4b08f6bee75b639876.webp"
+        "iconURL": "https://cdn.discordapp.com/avatars/413427604058800129/7f705f98f8de1a4b08f6bee75b639876.webp",
+        "displayName": "4three"
       },
       "matches": [
         "<@413427604058800129>"
@@ -145,6 +145,15 @@
       "url": "https://discord.com/channels/1375556143186837695/1454753771035824158/1454753771555913873",
       "matches": [
         "peripheral"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "chunk loading",
+      "id": "1457055322647695542",
+      "url": "https://discord.com/channels/1375556143186837695/1457055322647695542/1457055324426080287",
+      "matches": [
+        "chunk loading"
       ]
     },
     {
