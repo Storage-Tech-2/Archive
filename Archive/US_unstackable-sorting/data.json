@@ -3,7 +3,7 @@
   "name": "unstackable-sorting",
   "code": "US",
   "description": "Sort unstackable items by its type, typically by exploiting unique interactions with that item",
-  "currentCodeId": 8,
+  "currentCodeId": 9,
   "entries": [
     {
       "id": "1387480002978910330",
@@ -79,6 +79,17 @@
         "Tested & Functional",
         "Recommended",
         "Full Sorters"
+      ]
+    },
+    {
+      "id": "1457519139940991117",
+      "name": "Music Disc Sorter",
+      "code": "US009",
+      "archivedAt": 1767570427441,
+      "updatedAt": 1767570427441,
+      "path": "US009_Music_Disc_Sorter",
+      "tags": [
+        "Music Discs"
       ]
     }
   ],
