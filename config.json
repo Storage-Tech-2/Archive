@@ -470,48 +470,6 @@
       ]
     },
     {
-      "id": "1375570813591486525",
-      "name": "mass-crafters",
-      "code": "MC",
-      "category": "Misc Devices",
-      "path": "Archive/MC_mass-crafters",
-      "description": "Mass crafters and crafting stations",
-      "availableTags": [
-        "Untested",
-        "Broken",
-        "Tested & Functional",
-        "Recommended"
-      ]
-    },
-    {
-      "id": "1375570984970752080",
-      "name": "mini-furnace-arrays",
-      "code": "FA",
-      "category": "Misc Devices",
-      "path": "Archive/FA_mini-furnace-arrays",
-      "description": "Furnace arrays",
-      "availableTags": [
-        "Untested",
-        "Broken",
-        "Tested & Functional",
-        "Recommended"
-      ]
-    },
-    {
-      "id": "1375571041174159430",
-      "name": "restock-stations",
-      "code": "RS",
-      "category": "Misc Devices",
-      "path": "Archive/RS_restock-stations",
-      "description": "Restock stations:",
-      "availableTags": [
-        "Untested",
-        "Broken",
-        "Tested & Functional",
-        "Recommended"
-      ]
-    },
-    {
       "id": "1383890936488132689",
       "name": "whitelister-box-sorters",
       "code": "WBS",
@@ -663,7 +621,10 @@
         "Untested",
         "Broken",
         "Tested & Functional",
-        "Recommended"
+        "Recommended",
+        "Furnace Array",
+        "Restock Stations",
+        "Masscrafters"
       ]
     }
   ],
