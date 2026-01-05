@@ -268,24 +268,6 @@
       ]
     },
     {
-      "id": "1375563999692849302",
-      "name": "item-type-filters",
-      "code": "IF",
-      "category": "Item Processing",
-      "path": "Archive/IF_item-type-filters",
-      "description": "Item type filters which work by the mechanic of like items being combinable",
-      "availableTags": [
-        "Untested",
-        "Broken",
-        "Tested & Functional",
-        "Recommended",
-        "1X Hopperspeed",
-        "2X Hopperspeed",
-        "Cart Based",
-        "Guide"
-      ]
-    },
-    {
       "id": "1375564209882009772",
       "name": "other-item-processors",
       "code": "OIP",
@@ -377,20 +359,6 @@
       "category": "Item Processing",
       "path": "Archive/MF_multi-item-filters",
       "description": "Multi item filters check if an item is part of a set of items in the same slice/device",
-      "availableTags": [
-        "Untested",
-        "Broken",
-        "Tested & Functional",
-        "Recommended"
-      ]
-    },
-    {
-      "id": "1375568762304204912",
-      "name": "stack-separation",
-      "code": "SS",
-      "category": "Item Processing",
-      "path": "Archive/SS_stack-separation",
-      "description": "Stack separation uses item entity separators to sort up to one full stack at a time",
       "availableTags": [
         "Untested",
         "Broken",
