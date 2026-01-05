@@ -1,7 +1,7 @@
 {
   "id": "1386222661037985933",
   "name": "How to Use 1X Hopper Filters",
-  "code": "IF001",
+  "code": "TT005",
   "authors": [],
   "endorsers": [
     {
@@ -14,16 +14,8 @@
   ],
   "tags": [
     {
-      "id": "1386223620438753320",
-      "name": "Guide"
-    },
-    {
-      "id": "1386223435390124113",
-      "name": "1X Hopperspeed"
-    },
-    {
-      "id": "1385789122165084275",
-      "name": "Recommended"
+      "name": "Recommended",
+      "id": "1388657843774816395"
     }
   ],
   "images": [
@@ -42,7 +34,7 @@
   "attachments": [
     {
       "id": "1386222661553623070",
-      "name": "IF001_basic_fixed_filters.litematic",
+      "name": "TT005_basic_fixed_filters.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386222661037985933/1386222661553623070/basic_fixed_filters.litematic?ex=6858ebf5&is=68579a75&hm=9a24119d9407405e86457378b6a55b6dcb9f22cad18379abf1216ed52ca01cf2&",
       "description": "Sent by andrews54757 at 6/22/2025, 1:53:57 AM",
@@ -51,7 +43,7 @@
         "size": "1x4x12",
         "version": "1.21.4"
       },
-      "path": "attachments/IF001_basic_fixed_filters.litematic"
+      "path": "attachments/TT005_basic_fixed_filters.litematic"
     }
   ],
   "records": {
@@ -63,17 +55,6 @@
       "SS2 filter is not 1 wide tileable, you must A/B tile"
     ],
     "notes": ""
-  },
-  "timestamp": 1750571980621,
-  "post": {
-    "forumId": "1375563999692849302",
-    "threadId": "1388317615625212018",
-    "continuingMessageIds": [
-      "1388317619345686558"
-    ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388317615625212018",
-    "attachmentMessageId": "1388178629716086914",
-    "uploadMessageId": "1388178622837293110"
   },
   "references": [
     {
@@ -105,6 +86,15 @@
     }
   ],
   "author_references": [],
+  "updatedAt": 1767576689265,
   "archivedAt": 1750571980621,
-  "updatedAt": 1750571980621
+  "post": {
+    "threadId": "1457547036294385892",
+    "forumId": "1388657467508133928",
+    "continuingMessageIds": [
+      "1457547042036650056"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1457547036294385892",
+    "uploadMessageId": "1457547033886851093"
+  }
 }

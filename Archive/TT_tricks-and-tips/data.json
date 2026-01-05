@@ -3,7 +3,7 @@
   "name": "tricks-and-tips",
   "code": "TT",
   "description": "How to guides for tricks tips and more",
-  "currentCodeId": 4,
+  "currentCodeId": 5,
   "entries": [
     {
       "id": "1388663948227903560",
@@ -47,6 +47,17 @@
       "archivedAt": 1750745429741,
       "updatedAt": 1767576648459,
       "path": "TT004_Signal_Strength_2_SS2_Signal_Strength_Isolated_SSI_Filter_Chart__Tool",
+      "tags": [
+        "Recommended"
+      ]
+    },
+    {
+      "id": "1386222661037985933",
+      "name": "How to Use 1X Hopper Filters",
+      "code": "TT005",
+      "archivedAt": 1750571980621,
+      "updatedAt": 1767576689265,
+      "path": "TT005_How_to_Use_1X_Hopper_Filters",
       "tags": [
         "Recommended"
       ]
