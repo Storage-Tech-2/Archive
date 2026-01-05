@@ -17,7 +17,8 @@
         "2X Hopperspeed",
         "4X Hopperspeed",
         "8X Hopperspeed"
-      ]
+      ],
+      "position": 0
     },
     {
       "id": "1375559535976124717",
@@ -31,7 +32,8 @@
         "Broken",
         "Tested & Functional",
         "Recommended"
-      ]
+      ],
+      "position": 0
     },
     {
       "id": "1375560792665231450",
@@ -48,7 +50,8 @@
         "Reliable Collection",
         "Auto Replacement",
         "Manual Replacement"
-      ]
+      ],
+      "position": 0
     },
     {
       "id": "1375561810392125510",
@@ -68,7 +71,8 @@
         "SS2",
         "SS3",
         "Encoded"
-      ]
+      ],
+      "position": 0
     },
     {
       "id": "1375563169904459846",
@@ -83,7 +87,8 @@
         "Tested & Functional",
         "Recommended",
         "Item Aligners"
-      ]
+      ],
+      "position": 0
     },
     {
       "id": "1375567732866551918",
@@ -97,7 +102,8 @@
         "Broken",
         "Tested & Functional",
         "Recommended"
-      ]
+      ],
+      "position": 0
     },
     {
       "id": "1375569954073477120",
@@ -111,7 +117,8 @@
         "Broken",
         "Tested & Functional",
         "Recommended"
-      ]
+      ],
+      "position": 0
     },
     {
       "id": "1386242904141463603",
@@ -125,7 +132,8 @@
         "Broken",
         "Tested & Functional",
         "Recommended"
-      ]
+      ],
+      "position": 0
     },
     {
       "id": "1386443869729587291",
@@ -140,7 +148,8 @@
         "Tested & Functional",
         "Recommended",
         "Pulse Extenders"
-      ]
+      ],
+      "position": 0
     },
     {
       "id": "1388599490898038945",
@@ -154,7 +163,8 @@
         "Broken",
         "Tested & Functional",
         "Recommended"
-      ]
+      ],
+      "position": 0
     },
     {
       "id": "1397058827722948699",
@@ -168,7 +178,8 @@
         "Broken",
         "Tested & Functional",
         "Recommended"
-      ]
+      ],
+      "position": 0
     },
     {
       "id": "1375557473066418206",
@@ -190,7 +201,8 @@
         "Full Clearance",
         "Fullspeed",
         "Global Clock"
-      ]
+      ],
+      "position": 1
     },
     {
       "id": "1375559651579527208",
@@ -207,7 +219,8 @@
         "Comparer",
         "isEmpty/isFull",
         "3 Way Sorter"
-      ]
+      ],
+      "position": 1
     },
     {
       "id": "1375561551188328531",
@@ -225,7 +238,8 @@
         "Reliable Collection",
         "Auto Replacement",
         "Bufferless"
-      ]
+      ],
+      "position": 1
     },
     {
       "id": "1375563020478058557",
@@ -239,7 +253,8 @@
         "Broken",
         "Tested & Functional",
         "Recommended"
-      ]
+      ],
+      "position": 1
     },
     {
       "id": "1375565403727724764",
@@ -256,7 +271,8 @@
         "2 Displays",
         "4 Displays",
         "Encoded"
-      ]
+      ],
+      "position": 1
     },
     {
       "id": "1375566804910604349",
@@ -270,7 +286,8 @@
         "Broken",
         "Tested & Functional",
         "Recommended"
-      ]
+      ],
+      "position": 1
     },
     {
       "id": "1375570066451599401",
@@ -284,7 +301,8 @@
         "Broken",
         "Tested & Functional",
         "Recommended"
-      ]
+      ],
+      "position": 1
     },
     {
       "id": "1388599778941861898",
@@ -298,7 +316,8 @@
         "Broken",
         "Tested & Functional",
         "Recommended"
-      ]
+      ],
+      "position": 1
     },
     {
       "id": "1457041921531842581",
@@ -312,7 +331,8 @@
         "Broken",
         "Tested & Functional",
         "Recommended"
-      ]
+      ],
+      "position": 1
     },
     {
       "id": "1457538260892127293",
@@ -329,7 +349,8 @@
         "Furnace Array",
         "Restock Stations",
         "Masscrafters"
-      ]
+      ],
+      "position": 1
     },
     {
       "id": "1457547442017800284",
@@ -345,7 +366,8 @@
         "Recommended",
         "Stack Separation",
         "Cart Based"
-      ]
+      ],
+      "position": 1
     },
     {
       "id": "1375557143201316934",
@@ -360,7 +382,8 @@
         "Tested & Functional",
         "Recommended",
         "Tileable"
-      ]
+      ],
+      "position": 2
     },
     {
       "id": "1375561629378416740",
@@ -376,7 +399,8 @@
         "Recommended",
         "Reliable Collection",
         "Auto Replacement"
-      ]
+      ],
+      "position": 2
     },
     {
       "id": "1375563506765664388",
@@ -392,7 +416,8 @@
         "Recommended",
         "Encoded",
         "Accessible Loaders"
-      ]
+      ],
+      "position": 2
     },
     {
       "id": "1375564342392786944",
@@ -417,7 +442,8 @@
         "Books",
         "Full Sorters",
         "Netherite"
-      ]
+      ],
+      "position": 2
     },
     {
       "id": "1375566903241740450",
@@ -431,7 +457,8 @@
         "Broken",
         "Tested & Functional",
         "Recommended"
-      ]
+      ],
+      "position": 2
     },
     {
       "id": "1375569870577467412",
@@ -445,7 +472,8 @@
         "Broken",
         "Tested & Functional",
         "Recommended"
-      ]
+      ],
+      "position": 2
     },
     {
       "id": "1383890936488132689",
@@ -459,7 +487,8 @@
         "Broken",
         "Tested & Functional",
         "Recommended"
-      ]
+      ],
+      "position": 2
     },
     {
       "id": "1387131693411995658",
@@ -473,7 +502,8 @@
         "Broken",
         "Tested & Functional",
         "Recommended"
-      ]
+      ],
+      "position": 2
     },
     {
       "id": "1388657467508133928",
@@ -487,7 +517,8 @@
         "Broken",
         "Tested & Functional",
         "Recommended"
-      ]
+      ],
+      "position": 2
     },
     {
       "id": "1375557962675912865",
@@ -502,7 +533,8 @@
         "Tested & Functional",
         "Recommended",
         "Fullspeed"
-      ]
+      ],
+      "position": 3
     },
     {
       "id": "1375562461276672042",
@@ -517,7 +549,8 @@
         "Tested & Functional",
         "Recommended",
         "isStackable"
-      ]
+      ],
+      "position": 3
     },
     {
       "id": "1375563297230688327",
@@ -532,7 +565,8 @@
         "Tested & Functional",
         "Recommended",
         "Cart Yeeting"
-      ]
+      ],
+      "position": 3
     },
     {
       "id": "1375564209882009772",
@@ -547,7 +581,8 @@
         "Tested & Functional",
         "Recommended",
         "isStackable"
-      ]
+      ],
+      "position": 3
     },
     {
       "id": "1375569381781930006",
@@ -561,7 +596,8 @@
         "Broken",
         "Tested & Functional",
         "Recommended"
-      ]
+      ],
+      "position": 3
     },
     {
       "id": "1410149299169267792",
@@ -575,7 +611,8 @@
         "Broken",
         "Tested & Functional",
         "Recommended"
-      ]
+      ],
+      "position": 3
     },
     {
       "id": "1375560446676963450",
@@ -594,7 +631,8 @@
         "8X Hopperspeed",
         "Cart Yeet",
         "Box Yeet"
-      ]
+      ],
+      "position": 4
     },
     {
       "id": "1375570772348764392",
@@ -609,7 +647,8 @@
         "Tested & Functional",
         "Recommended",
         "Box crafters"
-      ]
+      ],
+      "position": 4
     }
   ],
   "postSchema": {
