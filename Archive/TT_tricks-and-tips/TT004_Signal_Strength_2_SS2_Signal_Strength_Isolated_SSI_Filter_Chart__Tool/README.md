@@ -5,9 +5,9 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Guide, Recommended*
+**Tags:** *Recommended*
 
-**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317664770003015)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1457546869562675263)
 
 **S**ignal **S**trength **2** filters turn on when the singal strength reaches level 2. **S**ignal **S**trengh **I**solated filters allow for only a single filter item in the first slot, as well as bigger batches of items to be picked up at once. However, they require AB tiling so the signal strength from the dust can't overflow to adjacent filters. Most of the presented filters work in versions 1.5+, some alternative variants are 1.16+ because of target blocks.
 
@@ -22,4 +22,4 @@ by @kikugie
 Provides the data for the above mentioned website but is presented differently. Has a chart, a spreadsheet and litematics for the filters.
 
 ## Resources
-- [IF003_SS2_FIlter_Chart.png](attachments/IF003_SS2_FIlter_Chart.png): image/png
+- [TT004_SS2_FIlter_Chart.png](attachments/TT004_SS2_FIlter_Chart.png): image/png

@@ -1,7 +1,7 @@
 {
   "id": "1386949283181494364",
   "name": "Signal Strength 2 (SS2) Signal Strength Isolated (SSI) Filter Chart & Tool",
-  "code": "IF003",
+  "code": "TT004",
   "authors": [
     {
       "type": "discord-in-guild",
@@ -29,12 +29,8 @@
   ],
   "tags": [
     {
-      "id": "1386223620438753320",
-      "name": "Guide"
-    },
-    {
-      "id": "1385789122165084275",
-      "name": "Recommended"
+      "name": "Recommended",
+      "id": "1388657843774816395"
     }
   ],
   "images": [
@@ -53,12 +49,12 @@
   "attachments": [
     {
       "id": "1386949284833918987",
-      "name": "IF003_SS2_FIlter_Chart.png",
+      "name": "TT004_SS2_FIlter_Chart.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386949283181494364/1386949284833918987/SS2_FIlter_Chart.png?ex=685b90ad&is=685a3f2d&hm=782d6c0feafc61b8ac388f406c1d2b085613a2d284386e5f8e7ea86446518169&",
       "description": "Sent by andrews54757 at 6/24/2025, 2:01:17 AM",
       "canDownload": true,
-      "path": "attachments/IF003_SS2_FIlter_Chart.png"
+      "path": "attachments/TT004_SS2_FIlter_Chart.png"
     }
   ],
   "records": {
@@ -66,18 +62,6 @@
     "features": [],
     "considerations": [],
     "notes": ""
-  },
-  "timestamp": 1750745429741,
-  "post": {
-    "forumId": "1375563999692849302",
-    "threadId": "1388317664770003015",
-    "continuingMessageIds": [
-      "1388317668192419872",
-      "1454727489514504330"
-    ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388317664770003015",
-    "attachmentMessageId": "1388178702512295969",
-    "uploadMessageId": "1388178690470318101"
   },
   "references": [
     {
@@ -100,6 +84,16 @@
     }
   ],
   "author_references": [],
+  "updatedAt": 1767576648459,
   "archivedAt": 1750745429741,
-  "updatedAt": 1750745429741
+  "post": {
+    "threadId": "1457546869562675263",
+    "forumId": "1388657467508133928",
+    "continuingMessageIds": [
+      "1457546873874284555",
+      "1457546875044626604"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1457546869562675263",
+    "uploadMessageId": "1457546865062051860"
+  }
 }

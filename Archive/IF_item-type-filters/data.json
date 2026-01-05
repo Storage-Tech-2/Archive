@@ -30,18 +30,6 @@
         "Tested & Functional",
         "Recommended"
       ]
-    },
-    {
-      "id": "1386949283181494364",
-      "name": "Signal Strength 2 (SS2) Signal Strength Isolated (SSI) Filter Chart & Tool",
-      "code": "IF003",
-      "archivedAt": 1750745429741,
-      "updatedAt": 1750745429741,
-      "path": "IF003_Signal_Strength_2_SS2_Signal_Strength_Isolated_SSI_Filter_Chart__Tool",
-      "tags": [
-        "Guide",
-        "Recommended"
-      ]
     }
   ],
   "category": "Item Processing"

@@ -3,7 +3,7 @@
   "name": "tricks-and-tips",
   "code": "TT",
   "description": "How to guides for tricks tips and more",
-  "currentCodeId": 3,
+  "currentCodeId": 4,
   "entries": [
     {
       "id": "1388663948227903560",
@@ -37,6 +37,17 @@
       "path": "TT003_Boat_Placement_for_Quick_Float_Align",
       "tags": [
         "Tested & Functional",
+        "Recommended"
+      ]
+    },
+    {
+      "id": "1386949283181494364",
+      "name": "Signal Strength 2 (SS2) Signal Strength Isolated (SSI) Filter Chart & Tool",
+      "code": "TT004",
+      "archivedAt": 1750745429741,
+      "updatedAt": 1767576648459,
+      "path": "TT004_Signal_Strength_2_SS2_Signal_Strength_Isolated_SSI_Filter_Chart__Tool",
+      "tags": [
         "Recommended"
       ]
     }
