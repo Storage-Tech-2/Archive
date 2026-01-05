@@ -1,7 +1,7 @@
 {
   "id": "1386920320081985736",
   "name": "Entityless 50 Furnace Array",
-  "code": "FA001",
+  "code": "SP005",
   "authors": [
     {
       "type": "discord-in-guild",
@@ -22,12 +22,12 @@
   ],
   "tags": [
     {
-      "id": "1385789169200140351",
-      "name": "Recommended"
+      "name": "Recommended",
+      "id": "1457538569756475393"
     },
     {
-      "id": "1385488532671430775",
-      "name": "Tested & Functional"
+      "name": "Tested & Functional",
+      "id": "1457538569756475392"
     }
   ],
   "images": [
@@ -46,7 +46,7 @@
   "attachments": [
     {
       "id": "1386920320899747870",
-      "name": "FA001_Entityless_50_furnace_array_revisited.litematic",
+      "name": "SP005_Entityless_50_furnace_array_revisited.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386920320081985736/1386920320899747870/Entityless_50_furnace_array_revisited.litematic?ex=685b75b4&is=685a2434&hm=88c03c985b7a84ed33b0ade317afb91adf599d06a716bafaf05d6625b17c64fa&",
       "description": "Sent by andrews54757 at 6/24/2025, 12:06:12 AM",
@@ -55,7 +55,7 @@
         "size": "30x9x4",
         "version": "1.21"
       },
-      "path": "attachments/FA001_Entityless_50_furnace_array_revisited.litematic"
+      "path": "attachments/SP005_Entityless_50_furnace_array_revisited.litematic"
     }
   ],
   "records": {
@@ -71,17 +71,6 @@
       "Manual on/off"
     ],
     "notes": ""
-  },
-  "timestamp": 1750738111030,
-  "post": {
-    "forumId": "1375570984970752080",
-    "threadId": "1388318507229249557",
-    "continuingMessageIds": [
-      "1388318509624332370"
-    ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388318507229249557",
-    "attachmentMessageId": "1388179534259687617",
-    "uploadMessageId": "1388179523807219864"
   },
   "references": [
     {
@@ -104,6 +93,15 @@
     }
   ],
   "author_references": [],
+  "updatedAt": 1767575627751,
   "archivedAt": 1750738111030,
-  "updatedAt": 1750738111030
+  "post": {
+    "threadId": "1457542579385139310",
+    "forumId": "1457538260892127293",
+    "continuingMessageIds": [
+      "1457542583290171502"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1457542579385139310",
+    "uploadMessageId": "1457542574607700161"
+  }
 }

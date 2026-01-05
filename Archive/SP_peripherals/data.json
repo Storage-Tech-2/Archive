@@ -4,7 +4,7 @@
   "code": "SP",
   "category": "Misc Devices",
   "description": "Peripherals for storage systems. EG: Furnace arrays, brewers, mass-crafters, etc...",
-  "currentCodeId": 4,
+  "currentCodeId": 5,
   "entries": [
     {
       "id": "1393001409166704751",
@@ -49,6 +49,18 @@
       "updatedAt": 1767575587670,
       "path": "SP004_144_Furnace_Array_V3",
       "tags": [
+        "Tested & Functional"
+      ]
+    },
+    {
+      "id": "1386920320081985736",
+      "name": "Entityless 50 Furnace Array",
+      "code": "SP005",
+      "archivedAt": 1750738111030,
+      "updatedAt": 1767575627751,
+      "path": "SP005_Entityless_50_Furnace_Array",
+      "tags": [
+        "Recommended",
         "Tested & Functional"
       ]
     }

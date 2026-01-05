@@ -7,7 +7,7 @@
 
 **Tags:** *Recommended, Tested & Functional*
 
-**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318507229249557)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1457542579385139310)
 
 Simple double-hopperspeed 50 furnace array for storage halls.
 ## Features
@@ -20,4 +20,4 @@ Simple double-hopperspeed 50 furnace array for storage halls.
 - Manual on/off
 
 ## Resources
-- [FA001_Entityless_50_furnace_array_revisited.litematic](attachments/FA001_Entityless_50_furnace_array_revisited.litematic): MC 1.21, Size 30x9x4 blocks
+- [SP005_Entityless_50_furnace_array_revisited.litematic](attachments/SP005_Entityless_50_furnace_array_revisited.litematic): MC 1.21, Size 30x9x4 blocks

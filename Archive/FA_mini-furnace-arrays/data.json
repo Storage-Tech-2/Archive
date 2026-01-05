@@ -4,19 +4,6 @@
   "code": "FA",
   "description": "Furnace arrays",
   "currentCodeId": 2,
-  "entries": [
-    {
-      "id": "1386920320081985736",
-      "name": "Entityless 50 Furnace Array",
-      "code": "FA001",
-      "archivedAt": 1750738111030,
-      "updatedAt": 1750738111030,
-      "path": "FA001_Entityless_50_Furnace_Array",
-      "tags": [
-        "Recommended",
-        "Tested & Functional"
-      ]
-    }
-  ],
+  "entries": [],
   "category": "Misc Devices"
 }
