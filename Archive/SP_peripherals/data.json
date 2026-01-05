@@ -4,7 +4,7 @@
   "code": "SP",
   "category": "Misc Devices",
   "description": "Peripherals for storage systems. EG: Furnace arrays, brewers, mass-crafters, etc...",
-  "currentCodeId": 3,
+  "currentCodeId": 4,
   "entries": [
     {
       "id": "1393001409166704751",
@@ -39,6 +39,17 @@
       "tags": [
         "Tested & Functional",
         "Recommended"
+      ]
+    },
+    {
+      "id": "1386952483917795468",
+      "name": "144 Furnace Array V3",
+      "code": "SP004",
+      "archivedAt": 1751229406214,
+      "updatedAt": 1767575587670,
+      "path": "SP004_144_Furnace_Array_V3",
+      "tags": [
+        "Tested & Functional"
       ]
     }
   ]

@@ -7,7 +7,7 @@
 
 **Tags:** *Tested & Functional*
 
-**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318526149886072)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1457542432005554269)
 
 144 Furnace array that provides and input and output of shulker boxes in a relatively small form factor. It Provides two modes, Full send mode which is useful for a lot of boxes with the same item type that needs to be smelted. The second mode is a box preservation mode that maintains the content of the shulker box if you are doing boxes with separate item types(this one is roughly ~25% slower assuming full boxes)
 ## Features
@@ -33,4 +33,4 @@
 this Post is long af lmao
 
 ## Resources
-- [FA002_144_Furnace_Array_V3.3_By_Kayzm.litematic](attachments/FA002_144_Furnace_Array_V3.3_By_Kayzm.litematic): MC 1.19.4, Size 10x13x46 blocks
+- [SP004_144_Furnace_Array_V3.3_By_Kayzm.litematic](attachments/SP004_144_Furnace_Array_V3.3_By_Kayzm.litematic): MC 1.19.4, Size 10x13x46 blocks

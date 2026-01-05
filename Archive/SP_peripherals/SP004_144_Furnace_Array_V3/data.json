@@ -1,7 +1,7 @@
 {
   "id": "1386952483917795468",
   "name": "144 Furnace Array V3",
-  "code": "FA002",
+  "code": "SP004",
   "authors": [
     {
       "type": "discord-in-guild",
@@ -22,8 +22,8 @@
   ],
   "tags": [
     {
-      "id": "1385488532671430775",
-      "name": "Tested & Functional"
+      "name": "Tested & Functional",
+      "id": "1457538569756475392"
     }
   ],
   "images": [
@@ -42,7 +42,7 @@
   "attachments": [
     {
       "id": "1388981482374299790",
-      "name": "FA002_144_Furnace_Array_V3.3_By_Kayzm.litematic",
+      "name": "SP004_144_Furnace_Array_V3.3_By_Kayzm.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386952483917795468/1388981482374299790/144_Furnace_Array_V3.3_By_Kayzm.litematic?ex=6862f54f&is=6861a3cf&hm=245dcd3b9f4adfb462b07dd96ed0c4f07a870db4d579d79427ea6e41b2a57763&",
       "description": "Sent by andrews54757 at 6/29/2025, 4:36:31 PM",
@@ -51,7 +51,7 @@
         "size": "10x13x46",
         "version": "1.19.4"
       },
-      "path": "attachments/FA002_144_Furnace_Array_V3.3_By_Kayzm.litematic"
+      "path": "attachments/SP004_144_Furnace_Array_V3.3_By_Kayzm.litematic"
     }
   ],
   "records": {
@@ -73,18 +73,6 @@
       "There is no protection against switching between modes when going through the pause sequence and then resuming"
     ],
     "notes": "- The Array only supports fuel that can burn 8 or more items(coal, charcoal, blaze rods)\n- Schematic was taken and the system was tested in 1.19.4\n- This is meant to be a remote furnace array so there is no Good UI for it\n- The honey Can be replaced with slime blocks for the rising edges and an ender chest for the Box loader\n- Tested for only 2 million items in each mode\nthis Post is long af lmao"
-  },
-  "timestamp": 1751229406214,
-  "post": {
-    "forumId": "1375570984970752080",
-    "threadId": "1388318526149886072",
-    "continuingMessageIds": [
-      "1388318528947355770",
-      "1454756354089685076"
-    ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388318526149886072",
-    "attachmentMessageId": "1388179561140981840",
-    "uploadMessageId": "1388981546945609830"
   },
   "references": [
     {
@@ -162,6 +150,16 @@
     }
   ],
   "author_references": [],
+  "updatedAt": 1767575587670,
   "archivedAt": 1751229406214,
-  "updatedAt": 1751229406214
+  "post": {
+    "threadId": "1457542432005554269",
+    "forumId": "1457538260892127293",
+    "continuingMessageIds": [
+      "1457542436132884572",
+      "1457542436791255185"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1457542432005554269",
+    "uploadMessageId": "1457542429627519130"
+  }
 }

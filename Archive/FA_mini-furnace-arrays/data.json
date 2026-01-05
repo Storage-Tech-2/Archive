@@ -16,17 +16,6 @@
         "Recommended",
         "Tested & Functional"
       ]
-    },
-    {
-      "id": "1386952483917795468",
-      "name": "144 Furnace Array V3",
-      "code": "FA002",
-      "archivedAt": 1751229406214,
-      "updatedAt": 1751229406214,
-      "path": "FA002_144_Furnace_Array_V3",
-      "tags": [
-        "Tested & Functional"
-      ]
     }
   ],
   "category": "Misc Devices"
