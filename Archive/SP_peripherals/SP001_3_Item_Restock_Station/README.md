@@ -7,7 +7,7 @@
 
 **Tags:** *Tested & Functional*
 
-**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1393003004998848643)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1457541626766430260)
 
 A restock station that uses 3 box displays.
 ## Features
@@ -25,4 +25,4 @@ A restock station that uses 3 box displays.
 - misterkartoffel: Top display design
 
 ## Resources
-- [RS001_Xia_-_3_Item_Restock_Station.litematic](attachments/RS001_Xia_-_3_Item_Restock_Station.litematic): MC 1.21.4, Size 1x12x10 blocks
+- [SP001_Xia_-_3_Item_Restock_Station.litematic](attachments/SP001_Xia_-_3_Item_Restock_Station.litematic): MC 1.21.4, Size 1x12x10 blocks

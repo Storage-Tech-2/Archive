@@ -4,6 +4,18 @@
   "code": "SP",
   "category": "Misc Devices",
   "description": "Peripherals for storage systems. EG: Furnace arrays, brewers, mass-crafters, etc...",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1393001409166704751",
+      "name": "3 Item Restock Station",
+      "code": "SP001",
+      "archivedAt": 1752253853582,
+      "updatedAt": 1767575397001,
+      "path": "SP001_3_Item_Restock_Station",
+      "tags": [
+        "Tested & Functional"
+      ]
+    }
+  ]
 }

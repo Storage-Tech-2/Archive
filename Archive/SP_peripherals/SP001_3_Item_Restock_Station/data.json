@@ -1,7 +1,7 @@
 {
   "id": "1393001409166704751",
   "name": "3 Item Restock Station",
-  "code": "RS001",
+  "code": "SP001",
   "authors": [
     {
       "type": "discord-in-guild",
@@ -24,8 +24,7 @@
       "username": "misterkartoffel",
       "reason": "Top display design",
       "dontDisplay": true,
-      "iconURL": "https://cdn.discordapp.com/avatars/166080074536189952/a050c435fbdfa5436bdfb33906a6d2d3.webp",
-      "displayName": "Kartoffel"
+      "iconURL": "https://cdn.discordapp.com/avatars/166080074536189952/a050c435fbdfa5436bdfb33906a6d2d3.webp"
     }
   ],
   "endorsers": [
@@ -39,8 +38,8 @@
   ],
   "tags": [
     {
-      "id": "1385488534668050543",
-      "name": "Tested & Functional"
+      "name": "Tested & Functional",
+      "id": "1457538569756475392"
     }
   ],
   "images": [
@@ -59,12 +58,12 @@
   "attachments": [
     {
       "id": "1393001410404290690",
-      "name": "RS001_Xia_-_3_Item_Restock_Station.litematic",
+      "name": "SP001_Xia_-_3_Item_Restock_Station.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1393001409166704751/1393001410404290690/Xia_-_3_Item_Restock_Station.litematic?ex=68719528&is=687043a8&hm=86f53f0111162b2baecabaabf13abb14222a22c33bfa55a258405c849c2a8f94&",
       "description": "Sent by ragdollwilly at 7/10/2025, 6:50:16 PM",
       "canDownload": true,
-      "path": "attachments/RS001_Xia_-_3_Item_Restock_Station.litematic",
+      "path": "attachments/SP001_Xia_-_3_Item_Restock_Station.litematic",
       "litematic": {
         "size": "1x12x10",
         "version": "1.21.4"
@@ -84,16 +83,6 @@
       "For the middle display, if 3 adjacent displayed boxes are emptied within 1gt of each other, one of the slices will fail to replace its box",
       "Top display use togglestates"
     ]
-  },
-  "timestamp": 1752253853582,
-  "post": {
-    "threadId": "1393003004998848643",
-    "forumId": "1375571041174159430",
-    "continuingMessageIds": [
-      "1393003008354160822"
-    ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1393003004998848643",
-    "uploadMessageId": "1393003003652604045"
   },
   "references": [
     {
@@ -144,6 +133,15 @@
     }
   ],
   "author_references": [],
+  "updatedAt": 1767575397001,
   "archivedAt": 1752253853582,
-  "updatedAt": 1752253853582
+  "post": {
+    "threadId": "1457541626766430260",
+    "forumId": "1457538260892127293",
+    "continuingMessageIds": [
+      "1457541630121873450"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1457541626766430260",
+    "uploadMessageId": "1457541624706891889"
+  }
 }
