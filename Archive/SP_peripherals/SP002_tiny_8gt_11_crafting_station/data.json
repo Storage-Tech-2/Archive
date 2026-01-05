@@ -1,7 +1,7 @@
 {
   "id": "1387091494158209074",
   "name": "tiny 8gt 1+1 crafting station",
-  "code": "MC003",
+  "code": "SP002",
   "authors": [
     {
       "type": "discord-external",
@@ -21,12 +21,12 @@
   ],
   "tags": [
     {
-      "id": "1385488528401760306",
-      "name": "Tested & Functional"
+      "name": "Tested & Functional",
+      "id": "1457538569756475392"
     },
     {
-      "id": "1385789164213243926",
-      "name": "Recommended"
+      "name": "Recommended",
+      "id": "1457538569756475393"
     }
   ],
   "images": [
@@ -45,7 +45,7 @@
   "attachments": [
     {
       "id": "1387091495151992963",
-      "name": "MC003_tiny_8gt_11_crafting_staition_made_by_wawuli_r11.litematic",
+      "name": "SP002_tiny_8gt_11_crafting_staition_made_by_wawuli_r1.1.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1387091494158209074/1387091495151992963/tiny_8gt_11_crafting_staition_made_by_wawuli_r1.1.litematic?ex=685c151f&is=685ac39f&hm=f6038a43191114c56805b0b1894bedd9770cafac02e6338f42b551de4c4c79d4&",
       "description": "Sent by andrews54757 at 6/24/2025, 11:26:23 AM",
@@ -54,7 +54,7 @@
         "size": "4x5x5",
         "version": "1.18.2"
       },
-      "path": "attachments/MC003_tiny_8gt_11_crafting_staition_made_by_wawuli_r11.litematic"
+      "path": "attachments/SP002_tiny_8gt_11_crafting_staition_made_by_wawuli_r1.1.litematic"
     }
   ],
   "records": {
@@ -66,17 +66,6 @@
     ],
     "considerations": [],
     "notes": ""
-  },
-  "timestamp": 1750778885787,
-  "post": {
-    "forumId": "1375570813591486525",
-    "threadId": "1388318487616684082",
-    "continuingMessageIds": [
-      "1388318491353944196"
-    ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388318487616684082",
-    "attachmentMessageId": "1388179506035949639",
-    "uploadMessageId": "1388179499320999959"
   },
   "references": [
     {
@@ -90,6 +79,15 @@
     }
   ],
   "author_references": [],
+  "updatedAt": 1767575527031,
   "archivedAt": 1750778885787,
-  "updatedAt": 1750778885787
+  "post": {
+    "threadId": "1457542153285796002",
+    "forumId": "1457538260892127293",
+    "continuingMessageIds": [
+      "1457542156540711060"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1457542153285796002",
+    "uploadMessageId": "1457542149414326325"
+  }
 }

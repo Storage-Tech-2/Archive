@@ -4,7 +4,7 @@
   "code": "SP",
   "category": "Misc Devices",
   "description": "Peripherals for storage systems. EG: Furnace arrays, brewers, mass-crafters, etc...",
-  "currentCodeId": 1,
+  "currentCodeId": 2,
   "entries": [
     {
       "id": "1393001409166704751",
@@ -15,6 +15,18 @@
       "path": "SP001_3_Item_Restock_Station",
       "tags": [
         "Tested & Functional"
+      ]
+    },
+    {
+      "id": "1387091494158209074",
+      "name": "tiny 8gt 1+1 crafting station",
+      "code": "SP002",
+      "archivedAt": 1750778885787,
+      "updatedAt": 1767575527031,
+      "path": "SP002_tiny_8gt_11_crafting_station",
+      "tags": [
+        "Tested & Functional",
+        "Recommended"
       ]
     }
   ]

@@ -54,6 +54,7 @@
   "referencedBy": [
     "MIS003",
     "CKL001",
-    "SP001"
+    "SP001",
+    "SP002"
   ]
 }
