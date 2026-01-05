@@ -7,7 +7,7 @@
 
 **Tags:** *Untested*
 
-**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1416519487792091136)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1457537218586480640)
 
 A medium size storage system built for [luckeY](https://www.youtube.com/@luckeYpublic)'s hardcore world, designed for a casual singleplayer setup, featuring two 10-Chest halls, each 32 long with a capacity of 640 items, an accessible bulk hall, 40 long with a capacity of 80 items, 12 MIS slices, an unstackable sorter, an Allay sorter, parallel item unloading, approximately 85% hopper locking, and peripheral stations such as a furnace array, brewer, crafting station, shulker crafter, and dispenser crafter.
 ## Features
@@ -45,4 +45,5 @@ A medium size storage system built for [luckeY](https://www.youtube.com/@luckeYp
 <img src="images/rgegegeg.png?raw=1" height="300px">
 
 ## Resources
-- [MS001_luckeY_Main_Storage.zip](attachments/MS001_luckeY_Main_Storage.zip): MC 1.21.6
+- [LS003_luckeY_Main_Storage.zip](attachments/LS003_luckeY_Main_Storage.zip): MC 1.21.6
+- [LS003_luckeY_Main_Storage_v2.litematic](attachments/LS003_luckeY_Main_Storage_v2.litematic): MC 1.21.10, Size 101x46x129 blocks
