@@ -4,19 +4,6 @@
   "code": "MC",
   "description": "Mass crafters and crafting stations",
   "currentCodeId": 3,
-  "entries": [
-    {
-      "id": "1387089550656143462",
-      "name": "Small 6gt 2+1 crafting station",
-      "code": "MC002",
-      "archivedAt": 1750778953520,
-      "updatedAt": 1750778953520,
-      "path": "MC002_Small_6gt_21_crafting_station",
-      "tags": [
-        "Tested & Functional",
-        "Recommended"
-      ]
-    }
-  ],
+  "entries": [],
   "category": "Misc Devices"
 }

@@ -7,7 +7,7 @@
 
 **Tags:** *Tested & Functional, Recommended*
 
-**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318468331536524)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1457542243354284302)
 
 Small 6gt box replacement crafting station. Displays two boxes for you with ingredients on the left which breaks when emptied, and a box for the results on the right which breaks when full.
 ## Features
@@ -24,4 +24,4 @@ Small 6gt box replacement crafting station. Displays two boxes for you with ingr
 Interface inspired by @m3
 
 ## Resources
-- [MC002_116_tiny_6gt_21_crafting_staition_6x6x6216b_by_wawuliFlowerstarry_skyZai_yu_you.litematic](attachments/MC002_116_tiny_6gt_21_crafting_staition_6x6x6216b_by_wawuliFlowerstarry_skyZai_yu_you.litematic): MC 1.18.2, Size 6x6x10 blocks
+- [SP003_1.16_tiny_6gt_21_crafting_staition_6x6x6216b_by_wawuliFlowerstarry_skyZai_yu_you.litematic](attachments/SP003_1.16_tiny_6gt_21_crafting_staition_6x6x6216b_by_wawuliFlowerstarry_skyZai_yu_you.litematic): MC 1.18.2, Size 6x6x10 blocks

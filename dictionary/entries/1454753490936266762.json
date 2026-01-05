@@ -32,6 +32,7 @@
   "referencedBy": [
     "BD003",
     "MIS005",
-    "MC002"
+    "MC002",
+    "SP003"
   ]
 }
