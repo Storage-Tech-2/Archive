@@ -35,12 +35,16 @@
   ],
   "tags": [
     {
-      "name": "Tested & Functional",
-      "id": "1457538569756475392"
+      "id": "1457538569756475392",
+      "name": "Tested & Functional"
     },
     {
-      "name": "Recommended",
-      "id": "1457538569756475393"
+      "id": "1457538569756475393",
+      "name": "Recommended"
+    },
+    {
+      "id": "1457543124883734830",
+      "name": "Masscrafters"
     }
   ],
   "images": [
