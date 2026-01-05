@@ -13,7 +13,9 @@
       "archivedAt": 1750790550638,
       "updatedAt": 1767577007436,
       "path": "HS001_Stack_Separation_Sorter-Loader_v3",
-      "tags": []
+      "tags": [
+        "Broken"
+      ]
     }
   ]
 }
