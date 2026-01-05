@@ -357,20 +357,6 @@
       ]
     },
     {
-      "id": "1375566849768558723",
-      "name": "medium-storages",
-      "code": "MS",
-      "category": "Full Systems",
-      "path": "Archive/MS_medium-storages",
-      "description": "Medium size storages",
-      "availableTags": [
-        "Untested",
-        "Broken",
-        "Tested & Functional",
-        "Recommended"
-      ]
-    },
-    {
       "id": "1375566903241740450",
       "name": "large-storages",
       "code": "LS",
@@ -469,20 +455,6 @@
       ]
     },
     {
-      "id": "1375570570120527942",
-      "name": "crafter-loaders",
-      "code": "CL",
-      "category": "Box Loaders & Unloaders",
-      "path": "Archive/CL_crafter-loaders",
-      "description": "Box loaders with crafters in it",
-      "availableTags": [
-        "Untested",
-        "Broken",
-        "Tested & Functional",
-        "Recommended"
-      ]
-    },
-    {
       "id": "1375570772348764392",
       "name": "autocrafting",
       "code": "AC",
@@ -501,23 +473,9 @@
       "id": "1375570813591486525",
       "name": "mass-crafters",
       "code": "MC",
-      "category": "Peripherals",
+      "category": "Misc Devices",
       "path": "Archive/MC_mass-crafters",
       "description": "Mass crafters and crafting stations",
-      "availableTags": [
-        "Untested",
-        "Broken",
-        "Tested & Functional",
-        "Recommended"
-      ]
-    },
-    {
-      "id": "1375570897263657042",
-      "name": "item-call",
-      "code": "IC",
-      "category": "Advanced Tech",
-      "path": "Archive/IC_item-call",
-      "description": "Item call systems",
       "availableTags": [
         "Untested",
         "Broken",
@@ -529,7 +487,7 @@
       "id": "1375570984970752080",
       "name": "mini-furnace-arrays",
       "code": "FA",
-      "category": "Peripherals",
+      "category": "Misc Devices",
       "path": "Archive/FA_mini-furnace-arrays",
       "description": "Furnace arrays",
       "availableTags": [
@@ -543,23 +501,9 @@
       "id": "1375571041174159430",
       "name": "restock-stations",
       "code": "RS",
-      "category": "Peripherals",
+      "category": "Misc Devices",
       "path": "Archive/RS_restock-stations",
       "description": "Restock stations:",
-      "availableTags": [
-        "Untested",
-        "Broken",
-        "Tested & Functional",
-        "Recommended"
-      ]
-    },
-    {
-      "id": "1376069973910229052",
-      "name": "other-peripherals",
-      "code": "OP",
-      "category": "Peripherals",
-      "path": "Archive/OP_other-peripherals",
-      "description": "Other peripherals",
       "availableTags": [
         "Untested",
         "Broken",
@@ -670,7 +614,7 @@
       "id": "1397058827722948699",
       "name": "chunk-loaders",
       "code": "CKL",
-      "category": "Peripherals",
+      "category": "Misc Devices",
       "path": "Archive/CKL_chunk-loaders",
       "description": "Chunk loaders for storage systems",
       "availableTags": [
@@ -701,6 +645,20 @@
       "category": "Wiring & Logic",
       "path": "Archive/LC_logic-components",
       "description": "Components for use in logic circuits.",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended"
+      ]
+    },
+    {
+      "id": "1457538260892127293",
+      "name": "peripherals",
+      "code": "SP",
+      "category": "Misc Devices",
+      "path": "Archive/SP_peripherals",
+      "description": "Peripherals for storage systems. EG: Furnace arrays, brewers, mass-crafters, etc...",
       "availableTags": [
         "Untested",
         "Broken",
