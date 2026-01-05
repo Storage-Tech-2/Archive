@@ -34,7 +34,7 @@ Tested for ~400k items without issues
 - Unstackable Sorter: https://discord.com/channels/748542142347083868/1286267762360188958/1286268041662824471 (in [Storage Tech](https://discord.gg/JufJ6uf))
 - Buffer Box Display: https://discord.com/channels/748542142347083868/1120296660543746138/1187751207108882563 (in [Storage Tech](https://discord.gg/JufJ6uf))
 - Brewer: [MineBrew](https://discord.com/channels/614934109751345153/1299123456239206461)
-- Furnace Array: [FA001](../../../Archive/SP_peripherals/SP005_Entityless_50_Furnace_Array)
+- Furnace Array: [SP005](../../../Archive/SP_peripherals/SP005_Entityless_50_Furnace_Array)
 - Crafting Station: https://discord.com/channels/748542142347083868/1112115542518673428/1188490793401458761 (in [Storage Tech](https://discord.gg/JufJ6uf))
 - Yeeting Station: https://discord.com/channels/748542142347083868/1062856400092549251/1188498493535432794 (in [Storage Tech](https://discord.gg/JufJ6uf))
 - Masscrafter: https://discord.com/channels/861217564130279425/1127745870763409419
