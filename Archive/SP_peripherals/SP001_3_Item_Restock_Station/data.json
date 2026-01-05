@@ -38,8 +38,12 @@
   ],
   "tags": [
     {
-      "name": "Tested & Functional",
-      "id": "1457538569756475392"
+      "id": "1457538569756475392",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1457543013025710093",
+      "name": "Restock Stations"
     }
   ],
   "images": [
