@@ -638,7 +638,9 @@
         "Untested",
         "Broken",
         "Tested & Functional",
-        "Recommended"
+        "Recommended",
+        "Stack Separation",
+        "Cart Based"
       ]
     }
   ],
