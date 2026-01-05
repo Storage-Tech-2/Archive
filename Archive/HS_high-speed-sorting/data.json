@@ -4,6 +4,16 @@
   "code": "HS",
   "category": "Item Processing",
   "description": "Sorting technologies which can filters items at high speed. Stack seperation, cart based filtering, etc...",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1386475805760163943",
+      "name": "Stack Separation Sorter-Loader v3",
+      "code": "HS001",
+      "archivedAt": 1750790550638,
+      "updatedAt": 1767577007436,
+      "path": "HS001_Stack_Separation_Sorter-Loader_v3",
+      "tags": []
+    }
+  ]
 }

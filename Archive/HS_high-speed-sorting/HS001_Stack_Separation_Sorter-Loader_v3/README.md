@@ -5,9 +5,9 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Broken*
+**Tags:** **
 
-**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318153205088398)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1457548382624153735)
 
 Uses stack separation to filter entire stack of items at once. Each of the 3wt modules loads sorted items into shulker boxes at 8x hopperspeed.
 ## Features
@@ -23,4 +23,4 @@ Uses stack separation to filter entire stack of items at once. Each of the 3wt m
 If you want to use multiple slices to load same item type, use 'multi-slice-loading-slice', with last in line being normal 'base' slice. Additional credits: RaPsCaLLioN1138 for stacksep core, camphorwood for 3wt 8x loader.
 
 ## Resources
-- [SS001_Stack_Separation_Sorter-Loader_v31.litematic](attachments/SS001_Stack_Separation_Sorter-Loader_v31.litematic): MC 1.17, Size 43x29x32 blocks
+- [HS001_Stack_Separation_Sorter-Loader_v3.1.litematic](attachments/HS001_Stack_Separation_Sorter-Loader_v3.1.litematic): MC 1.17, Size 43x29x32 blocks

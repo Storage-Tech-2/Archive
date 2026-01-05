@@ -6,17 +6,6 @@
   "currentCodeId": 3,
   "entries": [
     {
-      "id": "1386475805760163943",
-      "name": "Stack Separation Sorter-Loader v3",
-      "code": "SS001",
-      "archivedAt": 1750790550638,
-      "updatedAt": 1750790550638,
-      "path": "SS001_Stack_Separation_Sorter-Loader_v3",
-      "tags": [
-        "Broken"
-      ]
-    },
-    {
       "id": "1387153647791636642",
       "name": "General Quarry Storage",
       "code": "SS003",
