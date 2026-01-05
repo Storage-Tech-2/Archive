@@ -1,15 +1,14 @@
 {
   "id": "1386428992868978688",
   "name": "2wt High Speed Cart Filters",
-  "code": "IF002",
+  "code": "HS002",
   "authors": [
     {
       "type": "discord-in-guild",
       "id": "656864003242328064",
-      "name": "acaciachan",
       "displayName": "金合欢酱喵~ (acaciachan)",
-      "iconURL": "https://cdn.discordapp.com/avatars/656864003242328064/65e1c203d9ea0af6509f0754122b45a2.webp",
-      "username": "acaciachan"
+      "username": "acaciachan",
+      "iconURL": "https://cdn.discordapp.com/avatars/656864003242328064/65e1c203d9ea0af6509f0754122b45a2.webp"
     },
     {
       "type": "discord-external",
@@ -29,16 +28,16 @@
   ],
   "tags": [
     {
-      "id": "1386429185966473307",
-      "name": "Cart Based"
+      "name": "Cart Based",
+      "id": "1457548158954508392"
     },
     {
-      "id": "1385488495812018243",
-      "name": "Tested & Functional"
+      "name": "Tested & Functional",
+      "id": "1457548618276929638"
     },
     {
-      "id": "1385789122165084275",
-      "name": "Recommended"
+      "name": "Recommended",
+      "id": "1457548618276929639"
     }
   ],
   "images": [
@@ -79,7 +78,7 @@
   "attachments": [
     {
       "id": "1386428995033108643",
-      "name": "IF002_63x_cart_filter_2wt.litematic",
+      "name": "HS002_63x_cart_filter_2wt.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386428992868978688/1386428995033108643/63x_cart_filter_2wt.litematic?ex=6859ac1f&is=68585a9f&hm=0eb7b970f404565711cbc1b574ab6b6adb935934945efca73ad4fcca83fdae84&",
       "description": "Sent by andrews54757 at 6/22/2025, 3:33:50 PM",
@@ -88,11 +87,11 @@
         "size": "13x6x10",
         "version": "1.20.1"
       },
-      "path": "attachments/IF002_63x_cart_filter_2wt.litematic"
+      "path": "attachments/HS002_63x_cart_filter_2wt.litematic"
     },
     {
       "id": "1386428995415048303",
-      "name": "IF002_63x_cart_filter_another_2wt.litematic",
+      "name": "HS002_63x_cart_filter_another_2wt.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386428992868978688/1386428995415048303/63x_cart_filter_another_2wt.litematic?ex=6859ac1f&is=68585a9f&hm=7e4188d13d8f769386e9748f47919e4eb097a0fd3eec80b5b5a2ef5dc5358816&",
       "description": "Sent by andrews54757 at 6/22/2025, 3:33:50 PM",
@@ -101,11 +100,11 @@
         "size": "13x6x12",
         "version": "1.20.1"
       },
-      "path": "attachments/IF002_63x_cart_filter_another_2wt.litematic"
+      "path": "attachments/HS002_63x_cart_filter_another_2wt.litematic"
     },
     {
       "id": "1386428996069363803",
-      "name": "IF002_310x_cart_filter_3wt.litematic",
+      "name": "HS002_310x_cart_filter_3wt.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386428992868978688/1386428996069363803/310x_cart_filter_3wt.litematic?ex=6859ac1f&is=68585a9f&hm=06dec2036d15088d27651e0241aed50d464b65479098c8e7752f4cc78aec64b2&",
       "description": "Sent by andrews54757 at 6/22/2025, 3:33:50 PM",
@@ -114,7 +113,7 @@
         "size": "16x10x12",
         "version": "1.20.1"
       },
-      "path": "attachments/IF002_310x_cart_filter_3wt.litematic"
+      "path": "attachments/HS002_310x_cart_filter_3wt.litematic"
     }
   ],
   "records": {
@@ -125,17 +124,6 @@
     ],
     "considerations": [],
     "notes": "Replace pink_glass in water stream with slime_block to make the item move slower if needed. At least 4 carts in each slice must be launched every time it turn on. Wait for 5x8gt after turning off before turning it on again.  \"another\" is another layout."
-  },
-  "timestamp": 1750621110942,
-  "post": {
-    "forumId": "1375563999692849302",
-    "threadId": "1388317640162021450",
-    "continuingMessageIds": [
-      "1388317644813500608"
-    ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388317640162021450",
-    "attachmentMessageId": "1388178668995481631",
-    "uploadMessageId": "1388178651555561572"
   },
   "references": [
     {
@@ -176,6 +164,15 @@
     }
   ],
   "author_references": [],
+  "updatedAt": 1767577196199,
   "archivedAt": 1750621110942,
-  "updatedAt": 1750621110942
+  "post": {
+    "threadId": "1457549165612630191",
+    "forumId": "1457547442017800284",
+    "continuingMessageIds": [
+      "1457549172910588112"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1457549165612630191",
+    "uploadMessageId": "1457549160118223075"
+  }
 }

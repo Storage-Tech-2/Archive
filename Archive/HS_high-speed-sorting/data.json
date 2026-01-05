@@ -4,7 +4,7 @@
   "code": "HS",
   "category": "Item Processing",
   "description": "Sorting technologies which can filters items at high speed. Stack seperation, cart based filtering, etc...",
-  "currentCodeId": 1,
+  "currentCodeId": 2,
   "entries": [
     {
       "id": "1386475805760163943",
@@ -15,6 +15,19 @@
       "path": "HS001_Stack_Separation_Sorter-Loader_v3",
       "tags": [
         "Broken"
+      ]
+    },
+    {
+      "id": "1386428992868978688",
+      "name": "2wt High Speed Cart Filters",
+      "code": "HS002",
+      "archivedAt": 1750621110942,
+      "updatedAt": 1767577196199,
+      "path": "HS002_2wt_High_Speed_Cart_Filters",
+      "tags": [
+        "Cart Based",
+        "Tested & Functional",
+        "Recommended"
       ]
     }
   ]

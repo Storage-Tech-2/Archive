@@ -4,20 +4,6 @@
   "code": "IF",
   "description": "Item type filters which work by the mechanic of like items being combinable",
   "currentCodeId": 3,
-  "entries": [
-    {
-      "id": "1386428992868978688",
-      "name": "2wt High Speed Cart Filters",
-      "code": "IF002",
-      "archivedAt": 1750621110942,
-      "updatedAt": 1750621110942,
-      "path": "IF002_2wt_High_Speed_Cart_Filters",
-      "tags": [
-        "Cart Based",
-        "Tested & Functional",
-        "Recommended"
-      ]
-    }
-  ],
+  "entries": [],
   "category": "Item Processing"
 }
