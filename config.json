@@ -626,6 +626,20 @@
         "Restock Stations",
         "Masscrafters"
       ]
+    },
+    {
+      "id": "1457547442017800284",
+      "name": "high-speed-sorting",
+      "code": "HS",
+      "category": "Item Processing",
+      "path": "Archive/HS_high-speed-sorting",
+      "description": "Sorting technologies which can filters items at high speed. Stack seperation, cart based filtering, etc...",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended"
+      ]
     }
   ],
   "postSchema": {
