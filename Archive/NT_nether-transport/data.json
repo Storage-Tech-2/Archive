@@ -3,7 +3,7 @@
   "name": "nether-transport",
   "code": "NT",
   "description": "Transporting items in the nether",
-  "currentCodeId": 4,
+  "currentCodeId": 5,
   "entries": [
     {
       "id": "1387131489782857769",
@@ -48,6 +48,18 @@
       "path": "NT004_Horizontal_Item_Entity_Pusher",
       "tags": [
         "Tested & Functional"
+      ]
+    },
+    {
+      "id": "1458233078748151942",
+      "name": "Nether compatible 8 lane redcoded item distributor",
+      "code": "NT005",
+      "archivedAt": 1767740316651,
+      "updatedAt": 1767740316651,
+      "path": "NT005_Nether_compatible_8_lane_redcoded_item_distributor",
+      "tags": [
+        "Tested & Functional",
+        "Recommended"
       ]
     }
   ],
