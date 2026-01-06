@@ -21,7 +21,6 @@
     }
   ],
   "referencedBy": [
-    "VBS002",
-    "TT001"
+    "LS002"
   ]
 }
