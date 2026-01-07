@@ -1,7 +1,7 @@
 # Bufferless Powder Snow Floor Display
 <img alt="Bufferless_Powdered_Snow_Display.png" src="images/Bufferless_Powdered_Snow_Display.png?raw=1" height="300px">
 
-**Authors:** *sushisavorer, hampter42_, Philgoodinator*
+**Authors:** *etotheipi<3, hampter42_, Philgoodinator*
 
 **Endorsed by:** *Andrews54757*
 

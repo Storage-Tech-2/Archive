@@ -1,7 +1,7 @@
 # 1wABt 8 item 2dc SS2 Chest Hall
 <img alt="8item_2dc_ch.png" src="images/8item_2dc_ch.png?raw=1" height="300px">
 
-**Authors:** *sushisavorer*
+**Authors:** *etotheipi<3*
 
 **Endorsed by:** *Andrews54757*
 

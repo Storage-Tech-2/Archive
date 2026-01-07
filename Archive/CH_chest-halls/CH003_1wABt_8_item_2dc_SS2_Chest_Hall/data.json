@@ -4,10 +4,11 @@
   "code": "CH003",
   "authors": [
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "841607406559559691",
       "username": "sushisavorer",
-      "iconURL": "https://cdn.discordapp.com/avatars/841607406559559691/a2db1a8c2421bc0428bdf51f42311849.webp"
+      "iconURL": "https://cdn.discordapp.com/avatars/841607406559559691/a2db1a8c2421bc0428bdf51f42311849.webp",
+      "displayName": "etotheipi<3"
     }
   ],
   "endorsers": [
