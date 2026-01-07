@@ -1,7 +1,7 @@
 # 1x Full Speed Mixed Box Loader
 <img alt="1x_Full_Speed_Mixed_Box_Loader.png" src="images/1x_Full_Speed_Mixed_Box_Loader.png?raw=1" height="300px">
 
-**Authors:** *krebs_cycle*
+**Authors:** *Krebs*
 
 **Endorsed by:** *Andrews54757*
 

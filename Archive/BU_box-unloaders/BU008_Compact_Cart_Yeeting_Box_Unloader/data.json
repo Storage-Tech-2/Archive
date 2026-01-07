@@ -18,10 +18,11 @@
       "iconURL": "https://cdn.discordapp.com/avatars/925291210325753907/de12cd404b481db55bdb7d31181d4bab.webp"
     },
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "173621852290285568",
       "username": "math_dragon",
-      "iconURL": "https://cdn.discordapp.com/avatars/173621852290285568/9199769ffaa86def287450d9b5b6261d.webp"
+      "iconURL": "https://cdn.discordapp.com/avatars/173621852290285568/9199769ffaa86def287450d9b5b6261d.webp",
+      "displayName": "Math Dragon"
     }
   ],
   "endorsers": [

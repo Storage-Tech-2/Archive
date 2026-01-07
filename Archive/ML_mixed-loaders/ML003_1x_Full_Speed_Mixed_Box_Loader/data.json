@@ -4,10 +4,11 @@
   "code": "ML003",
   "authors": [
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "146727066728005632",
       "username": "krebs_cycle",
-      "iconURL": "https://cdn.discordapp.com/avatars/146727066728005632/617eb798a1a23253399a8c739bbd601f.webp"
+      "iconURL": "https://cdn.discordapp.com/avatars/146727066728005632/617eb798a1a23253399a8c739bbd601f.webp",
+      "displayName": "Krebs"
     }
   ],
   "endorsers": [

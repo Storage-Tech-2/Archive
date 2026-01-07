@@ -10,10 +10,11 @@
       "iconURL": "https://cdn.discordapp.com/avatars/319513337941721089/edec0da88a70e9697b6b43b4a2d740e3.webp"
     },
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "242784689910317066",
       "username": "metamilo",
-      "iconURL": "https://cdn.discordapp.com/avatars/242784689910317066/14489c2530c8184f96b0197518255c73.webp"
+      "iconURL": "https://cdn.discordapp.com/avatars/242784689910317066/14489c2530c8184f96b0197518255c73.webp",
+      "displayName": "metamilo"
     }
   ],
   "endorsers": [
