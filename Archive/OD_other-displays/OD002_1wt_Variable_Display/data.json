@@ -84,5 +84,11 @@
   "references": [],
   "author_references": [],
   "archivedAt": 1751013871094,
-  "updatedAt": 1751013871094
+  "updatedAt": 1751013871094,
+  "reservedCodes": [
+    "OD002"
+  ],
+  "pastPostThreadIds": [
+    "1388317374729551995"
+  ]
 }

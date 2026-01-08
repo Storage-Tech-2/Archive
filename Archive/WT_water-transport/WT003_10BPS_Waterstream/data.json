@@ -79,5 +79,11 @@
   "references": [],
   "author_references": [],
   "archivedAt": 1763617410152,
-  "updatedAt": 1763617410152
+  "updatedAt": 1763617410152,
+  "reservedCodes": [
+    "WT003"
+  ],
+  "pastPostThreadIds": [
+    "1440940601724899448"
+  ]
 }

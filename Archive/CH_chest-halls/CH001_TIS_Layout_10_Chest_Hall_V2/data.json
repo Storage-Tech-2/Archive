@@ -142,5 +142,11 @@
   ],
   "author_references": [],
   "archivedAt": 1750576185525,
-  "updatedAt": 1750576185525
+  "updatedAt": 1750576185525,
+  "reservedCodes": [
+    "CH001"
+  ],
+  "pastPostThreadIds": [
+    "1388317398049882207"
+  ]
 }

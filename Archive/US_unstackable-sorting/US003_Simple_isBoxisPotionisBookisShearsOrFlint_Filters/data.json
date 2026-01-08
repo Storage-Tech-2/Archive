@@ -95,5 +95,11 @@
   ],
   "author_references": [],
   "archivedAt": 1750969207691,
-  "updatedAt": 1750969207691
+  "updatedAt": 1750969207691,
+  "reservedCodes": [
+    "US003"
+  ],
+  "pastPostThreadIds": [
+    "1388317944609636402"
+  ]
 }

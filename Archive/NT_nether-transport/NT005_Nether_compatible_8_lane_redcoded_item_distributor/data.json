@@ -122,5 +122,11 @@
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1458233340476788880",
     "uploadMessageId": "1458233334466351230"
-  }
+  },
+  "reservedCodes": [
+    "NT005"
+  ],
+  "pastPostThreadIds": [
+    "1458233340476788880"
+  ]
 }

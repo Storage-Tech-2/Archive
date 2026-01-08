@@ -85,5 +85,11 @@
   ],
   "author_references": [],
   "archivedAt": 1766049226661,
-  "updatedAt": 1766049226661
+  "updatedAt": 1766049226661,
+  "reservedCodes": [
+    "NT002"
+  ],
+  "pastPostThreadIds": [
+    "1451140379662614591"
+  ]
 }

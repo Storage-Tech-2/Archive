@@ -82,5 +82,11 @@
     "continuingMessageIds": [],
     "threadURL": "https://discord.com/channels/1375556143186837695/1457048444723134627",
     "uploadMessageId": ""
-  }
+  },
+  "reservedCodes": [
+    "LC002"
+  ],
+  "pastPostThreadIds": [
+    "1457048444723134627"
+  ]
 }

@@ -186,5 +186,11 @@
     "threadURL": "https://discord.com/channels/1375556143186837695/1388318356377043076",
     "attachmentMessageId": "1388179342869401601",
     "uploadMessageId": "1457958254717178091"
-  }
+  },
+  "reservedCodes": [
+    "VIP003"
+  ],
+  "pastPostThreadIds": [
+    "1388318356377043076"
+  ]
 }

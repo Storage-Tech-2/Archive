@@ -118,5 +118,11 @@
   ],
   "author_references": [],
   "archivedAt": 1750969815969,
-  "updatedAt": 1750969815969
+  "updatedAt": 1750969815969,
+  "reservedCodes": [
+    "BD003"
+  ],
+  "pastPostThreadIds": [
+    "1388317211923582976"
+  ]
 }

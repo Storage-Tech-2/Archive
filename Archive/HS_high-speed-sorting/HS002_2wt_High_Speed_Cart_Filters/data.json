@@ -174,5 +174,11 @@
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1457549165612630191",
     "uploadMessageId": "1457549160118223075"
-  }
+  },
+  "reservedCodes": [
+    "HS002"
+  ],
+  "pastPostThreadIds": [
+    "1457549165612630191"
+  ]
 }
