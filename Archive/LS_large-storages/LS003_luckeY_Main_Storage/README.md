@@ -46,4 +46,3 @@ A medium size storage system built for [luckeY](https://www.youtube.com/@luckeYp
 
 ## Resources
 - [LS003_luckeY_Main_Storage.zip](attachments/LS003_luckeY_Main_Storage.zip): MC 1.21.6
-- [LS003_luckeY_Main_Storage_v2.litematic](attachments/LS003_luckeY_Main_Storage_v2.litematic): MC 1.21.10, Size 101x46x129 blocks

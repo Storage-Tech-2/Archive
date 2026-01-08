@@ -99,25 +99,12 @@
       "id": "1416518338896724139",
       "name": "LS003_luckeY_Main_Storage.zip",
       "contentType": "application/zip",
-      "url": "https://cdn.discordapp.com/attachments/1416518098042884317/1416518338896724139/luckeY_Main_Storage.zip?ex=695c1c81&is=695acb01&hm=cc422dac1cc6be9c543f31d30a311124ca722eda861b750b9fcc53560ee6531f&",
+      "url": "https://cdn.discordapp.com/attachments/1416518098042884317/1416518338896724139/luckeY_Main_Storage.zip?ex=6960b9c1&is=695f6841&hm=7347bda46ffc656bb5cc340ff6136e7d57033d72418366b540502581385b3b59&",
       "description": "Sent by andrews54757 at 9/13/2025, 4:18:09 PM",
       "canDownload": true,
       "path": "attachments/LS003_luckeY_Main_Storage.zip",
       "wdl": {
         "version": "1.21.6"
-      }
-    },
-    {
-      "id": "1433925274441093271",
-      "name": "LS003_luckeY_Main_Storage_v2.litematic",
-      "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1416518098042884317/1433925274441093271/luckeY_Main_Storage_v2.litematic?ex=695c27fa&is=695ad67a&hm=34f22f80b2d4cd139450da9bf0fcd73c93c9f08d4129d7e23f5cb1060421f241&",
-      "description": "Sent by kendiii2 at 10/31/2025, 5:07:06 PM",
-      "canDownload": true,
-      "path": "attachments/LS003_luckeY_Main_Storage_v2.litematic",
-      "litematic": {
-        "size": "101x46x129",
-        "version": "1.21.10"
       }
     }
   ],
@@ -348,7 +335,7 @@
     }
   ],
   "author_references": [],
-  "updatedAt": 1767574485694,
+  "updatedAt": 1767886886341,
   "archivedAt": 1766904541053,
   "post": {
     "threadId": "1457537218586480640",
@@ -359,6 +346,6 @@
       "1457537225217540267"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1457537218586480640",
-    "uploadMessageId": "1457537208209903842"
+    "uploadMessageId": ""
   }
 }
