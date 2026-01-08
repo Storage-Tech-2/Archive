@@ -1,7 +1,7 @@
 # Composter Based Hybrid Minibulk
 <img alt="area_render_3_.png" src="images/area_render_3_.png?raw=1" height="300px">
 
-**Authors:** *restartlife, puns_and_ships, Soronto, PyraLeft*
+**Authors:** *Restart Life, puns_and_ships, Soronto, PyraLeft*
 
 **Endorsed by:** *Andrews54757*
 
