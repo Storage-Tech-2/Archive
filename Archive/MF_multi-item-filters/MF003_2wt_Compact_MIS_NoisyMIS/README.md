@@ -5,7 +5,7 @@
 
 **Endorsed by:** *TisUnfortunate*
 
-**Tags:** *Untested, Recommended*
+**Tags:** *Recommended*
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1459227338263761172)
 
@@ -19,6 +19,8 @@ Multi item sorter made smaller by ignoring the silent requirement. Created by Ra
 - Can be fully hopperlocked
 ## Notes
 Dispenser with powdered snow bucket can be replaced with a water bucket and waterloggable block. [Video on the design](<https://youtu.be/LDBwWtsDjxY?si=9cSSiQ_-JHF2IqPZ>) with a block by block tutorial
+## Compatibility
+1.17+
 
 ## Resources
 - [MF003_NoisyMIS.litematic](attachments/MF003_NoisyMIS.litematic): MC 1.20.1, Size 7x7x5 blocks

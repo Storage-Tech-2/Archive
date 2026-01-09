@@ -41,10 +41,6 @@
   ],
   "tags": [
     {
-      "id": "1385488510051684528",
-      "name": "Untested"
-    },
-    {
       "id": "1385789141131984962",
       "name": "Recommended"
     }
@@ -87,7 +83,8 @@
       "2x6x6 size",
       "Can be fully hopperlocked"
     ],
-    "notes": "Dispenser with powdered snow bucket can be replaced with a water bucket and waterloggable block. [Video on the design](<https://youtu.be/LDBwWtsDjxY?si=9cSSiQ_-JHF2IqPZ>) with a block by block tutorial"
+    "notes": "Dispenser with powdered snow bucket can be replaced with a water bucket and waterloggable block. [Video on the design](<https://youtu.be/LDBwWtsDjxY?si=9cSSiQ_-JHF2IqPZ>) with a block by block tutorial",
+    "compatibility": "1.17+"
   },
   "styles": {},
   "references": [
@@ -185,7 +182,7 @@
     }
   ],
   "author_references": [],
-  "updatedAt": 1767977300988,
+  "updatedAt": 1767977452605,
   "archivedAt": 1767977300988,
   "post": {
     "threadId": "1459227338263761172",
