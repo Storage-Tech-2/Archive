@@ -3,7 +3,20 @@
   "name": "multi-item-filters",
   "code": "MF",
   "description": "Multi item filters check if an item is part of a set of items in the same slice/device",
-  "currentCodeId": 2,
-  "entries": [],
+  "currentCodeId": 3,
+  "entries": [
+    {
+      "id": "1459226891973165106",
+      "name": "2wt Compact MIS \"NoisyMIS\"",
+      "code": "MF003",
+      "archivedAt": 1767977300988,
+      "updatedAt": 1767977300988,
+      "path": "MF003_2wt_Compact_MIS_NoisyMIS",
+      "tags": [
+        "Untested",
+        "Recommended"
+      ]
+    }
+  ],
   "category": "Item Processing"
 }
