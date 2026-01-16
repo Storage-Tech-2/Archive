@@ -1,0 +1,91 @@
+{
+  "id": "1455030177531691050",
+  "name": "How Item Entity Clipping Works",
+  "code": "RD002",
+  "reservedCodes": [
+    "RD002"
+  ],
+  "pastPostThreadIds": [
+    "1455030735089041534"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "displayName": "Andrews54757",
+      "username": "andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "921904275418927214",
+      "username": "ners__",
+      "reason": "Did original code-digging research",
+      "dontDisplay": true,
+      "displayName": "ners",
+      "iconURL": "https://cdn.discordapp.com/avatars/921904275418927214/c8f1ab847f47b25e0dcfc72ab8d8d5c1.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1410149844563005509",
+      "name": "Recommended"
+    },
+    {
+      "id": "1410149844563005508",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1455030177938800886",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1455030177531691050/1455030177938800886/image.png?ex=69533df3&is=6951ec73&hm=b5e0b3767bfff1820f6e8559fbdf9cb6d4d56bfeb2096bf8a58a4a7a910c9d36&",
+      "description": "Sent by andrews54757 at 12/28/2025, 9:50:27 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 795,
+      "path": "images/image.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1455030177938800886",
+      "name": "RD002_image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1455030177531691050/1455030177938800886/image.png?ex=69533df3&is=6951ec73&hm=b5e0b3767bfff1820f6e8559fbdf9cb6d4d56bfeb2096bf8a58a4a7a910c9d36&",
+      "description": "Sent by andrews54757 at 12/28/2025, 9:50:27 PM",
+      "canDownload": true,
+      "path": "attachments/RD002_image.png"
+    }
+  ],
+  "records": {
+    "description": "Item entities colliding inside a block will glitch out of the block. This behavior appears random but is controllable, as described by an accompanying diagram.",
+    "notes": "See [`Entity.moveTowardsClosestSpace()`](https://mcsrc.dev/#1/1.21.11_unobfuscated/net/minecraft/world/entity/Entity#L2839-2868)"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1455030735089041534",
+    "forumId": "1410149299169267792",
+    "continuingMessageIds": [
+      "1455030744635150378",
+      "1455030745407164669"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1455030735089041534",
+    "uploadMessageId": "1455030726612221973"
+  },
+  "archivedAt": 1766976757521,
+  "updatedAt": 1767423921395
+}

@@ -1,0 +1,224 @@
+{
+  "id": "1386947263732912198",
+  "name": "Composter Based Hybrid Minibulk",
+  "code": "MH001",
+  "reservedCodes": [
+    "MH001"
+  ],
+  "pastPostThreadIds": [
+    "1388317585392668763"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "425689002884988967",
+      "username": "restartlife",
+      "iconURL": "https://cdn.discordapp.com/avatars/425689002884988967/765b2aa27af1ac219fd155385d326153.webp",
+      "displayName": "Restart Life"
+    },
+    {
+      "type": "discord-external",
+      "id": "586553304960729089",
+      "username": "puns_and_ships",
+      "iconURL": "https://cdn.discordapp.com/avatars/586553304960729089/db27ca01d3243d76595b1c75ad746141.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "281888926787174412",
+      "displayName": "Soronto",
+      "username": "soronto",
+      "iconURL": "https://cdn.discordapp.com/avatars/281888926787174412/bff4cb4392fd9671ccb55ca2d590a5f3.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "719903397171560559",
+      "username": "pyraleftt",
+      "iconURL": "https://cdn.discordapp.com/avatars/719903397171560559/7ba08c1c9ee4d550dae6dd373cf9fabe.webp",
+      "displayName": "PyraLeft"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488493937168391",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789119803691079",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386947264790003853",
+      "name": "area_render_3_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386947263732912198/1386947264790003853/area_render_3_.png?ex=685b8ecc&is=685a3d4c&hm=a50ad7b498f5d0d2df32019aad02f2871fa676fc42034f4917b714450f61ee03&",
+      "description": "Sent by andrews54757 at 6/24/2025, 1:53:15 AM",
+      "canDownload": true,
+      "width": 800,
+      "height": 729,
+      "path": "images/area_render_3_.png"
+    },
+    {
+      "id": "1386947265759019109",
+      "name": "area_render_4_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386947263732912198/1386947265759019109/area_render_4_.png?ex=685b8ecc&is=685a3d4c&hm=3ce0893eecefa3f7eb5b2809a4aad2d7f6117c8c0d0c44ca765986ead1a1b01c&",
+      "description": "Sent by andrews54757 at 6/24/2025, 1:53:15 AM",
+      "canDownload": true,
+      "width": 638,
+      "height": 750,
+      "path": "images/area_render_4_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386947266052358184",
+      "name": "MH001_v31W_Restart_Lifes_Composter_Hybrid_Mini_Bulk.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386947263732912198/1386947266052358184/v3.1W_Restart_Lifes_Composter_Hybrid_Mini_Bulk.litematic?ex=685b8ecc&is=685a3d4c&hm=1fb2a7e032f3e8482815dd1e83032571de0ee275ec80f5062656cf9e1084d262&",
+      "description": "Sent by andrews54757 at 6/24/2025, 1:53:15 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "17x20x37",
+        "version": "1.21"
+      },
+      "path": "attachments/MH001_v31W_Restart_Lifes_Composter_Hybrid_Mini_Bulk.litematic"
+    },
+    {
+      "id": "1386947266455142410",
+      "name": "MH001_v31_Restart_Lifes_Composter_Hybrid_Mini_Bulk.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386947263732912198/1386947266455142410/v3.1_Restart_Lifes_Composter_Hybrid_Mini_Bulk.litematic?ex=685b8ecc&is=685a3d4c&hm=d87e055296ce186a59a3be9b0c0c6b722037a82960825089f82a70a2af6c2c45&",
+      "description": "Sent by andrews54757 at 6/24/2025, 1:53:15 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "15x21x37",
+        "version": "1.21"
+      },
+      "path": "attachments/MH001_v31_Restart_Lifes_Composter_Hybrid_Mini_Bulk.litematic"
+    }
+  ],
+  "records": {
+    "description": "Hybrid hall containing a composter based hybrid box loader that allows for accessing items being loaded in boxes without a call feature.",
+    "features": [
+      "Fully hopperlocked",
+      "2 x 212.5k items in bulk, and another 4.7k in loose items, per slice.",
+      "Composter based hybrid loader with reliable box collection",
+      "SS2 independent filters",
+      "compact, AB tiled, filters are ABCD tiled, AB tiled for v3.1W",
+      "low hopper count (28, 14 per half slice)",
+      "global box placement"
+    ],
+    "considerations": [
+      "6 stack buffer(with shulkerboxes in hopper pointing into shulker. included in shematic)",
+      "hopperlocking must be activated in a specific order(this is already prepared in the prebuilt version)",
+      "a lot of composter prefill(v3.1W does not have as much)",
+      "UI may be a little cramped for some(does not apply to v3.1W)",
+      "requires a lot of attention to detail for the tiling"
+    ],
+    "notes": "Original unsorted post: https://discord.com/channels/748542142347083868/1203099749746475088/1308614543894642760"
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperlocked",
+      "id": "1454753660625227895",
+      "url": "https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422",
+      "matches": [
+        "hopperlocked",
+        "hopperlocking"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Collection",
+      "id": "1454805930670559326",
+      "url": "https://discord.com/channels/1375556143186837695/1454805930670559326/1454805932532830268",
+      "matches": [
+        "box collection"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "ss",
+      "id": "1454754774833696893",
+      "url": "https://discord.com/channels/1375556143186837695/1454754774833696893/1454754775542267957",
+      "matches": [
+        "SS"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Global",
+      "id": "1454753648574992557",
+      "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
+      "matches": [
+        "global"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "UI",
+      "id": "1454754844316274861",
+      "url": "https://discord.com/channels/1375556143186837695/1454754844316274861/1454754845033627671",
+      "matches": [
+        "UI"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/1203099749746475088/1308614543894642760",
+      "server": "748542142347083868",
+      "channel": "1203099749746475088",
+      "message": "1308614543894642760",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/1203099749746475088/1308614543894642760"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "forumId": "1375563506765664388",
+    "threadId": "1388317585392668763",
+    "continuingMessageIds": [
+      "1455358664377368711",
+      "1455358665056981147",
+      "1455358665501446401"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388317585392668763",
+    "attachmentMessageId": "1388178598019469336",
+    "uploadMessageId": "1388178589496905812"
+  },
+  "archivedAt": 1766904437646,
+  "updatedAt": 1750744689912
+}

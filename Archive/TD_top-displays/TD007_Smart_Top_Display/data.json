@@ -1,0 +1,118 @@
+{
+  "id": "1461051525093920981",
+  "name": "Smart Top Display",
+  "code": "TD007",
+  "reservedCodes": [
+    "TD007"
+  ],
+  "pastPostThreadIds": [
+    "1461051936362074290"
+  ],
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "528559320086872064",
+      "username": "hampter42_",
+      "iconURL": "https://cdn.discordapp.com/avatars/528559320086872064/83e4a5181f4b2cbfe68b3fdc14b6aeef.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488476258041933",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1461051679477858507",
+      "name": "Closed Box Detection"
+    }
+  ],
+  "images": [
+    {
+      "id": "1461051525622137057",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1461051525093920981/1461051525622137057/image.png?ex=696925c4&is=6967d444&hm=bb3226b74d8d9bacfe1ffafa6a1fa1b351318c47837439ce37ea77fa627b1f65&",
+      "description": "Sent by andrews54757 at 1/14/2026, 12:37:08 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 596,
+      "path": "images/image.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1461051525869732011",
+      "name": "TD007_hampter_top_smart_display.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1461051525093920981/1461051525869732011/hampter_top_smart_display.litematic?ex=696925c4&is=6967d444&hm=ddd0335d729eaf360338581b1f568eb88cb343c357aee0063ee7dc66bb146984&",
+      "description": "Sent by andrews54757 at 1/14/2026, 12:37:08 PM",
+      "canDownload": true,
+      "path": "attachments/TD007_hampter_top_smart_display.litematic",
+      "litematic": {
+        "size": "1x5x7",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "This top smart box display design will replace the box only when it is closed and empty for a better user experience.",
+    "features": [
+      "Smart box breaking: replaces box only when closed and empty",
+      "Global first box placement (repeater line above dispensers)"
+    ],
+    "considerations": [
+      "No/unreliable box collection"
+    ]
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Smart box display",
+      "id": "1454754754071892049",
+      "url": "https://discord.com/channels/1375556143186837695/1454754754071892049/1454754754998698048",
+      "matches": [
+        "smart box display"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Global",
+      "id": "1454753648574992557",
+      "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
+      "matches": [
+        "Global"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Collection",
+      "id": "1454805930670559326",
+      "url": "https://discord.com/channels/1375556143186837695/1454805930670559326/1454805932532830268",
+      "matches": [
+        "box collection"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1461051936362074290",
+    "forumId": "1375560792665231450",
+    "continuingMessageIds": [
+      "1461051940006789251"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1461051936362074290",
+    "uploadMessageId": "1461051933425926295"
+  },
+  "archivedAt": 1768412324088,
+  "updatedAt": 1768492953447
+}

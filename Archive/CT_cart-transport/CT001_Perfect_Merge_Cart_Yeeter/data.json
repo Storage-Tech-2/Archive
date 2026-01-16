@@ -1,0 +1,155 @@
+{
+  "id": "1450267939461922957",
+  "name": "Perfect Merge Cart Yeeter",
+  "code": "CT001",
+  "reservedCodes": [
+    "CT001"
+  ],
+  "pastPostThreadIds": [
+    "1450269963242705040"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "925291210325753907",
+      "displayName": "Caribous",
+      "username": "sandcaribou",
+      "iconURL": "https://cdn.discordapp.com/avatars/925291210325753907/de12cd404b481db55bdb7d31181d4bab.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "921904275418927214",
+      "username": "ners__",
+      "reason": "came up with the detector rail layout",
+      "dontDisplay": true,
+      "displayName": "ners",
+      "iconURL": "https://cdn.discordapp.com/avatars/921904275418927214/c8f1ab847f47b25e0dcfc72ab8d8d5c1.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488491810394301",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789116905685055",
+      "name": "Recommended"
+    },
+    {
+      "id": "1450268858790187239",
+      "name": "Cart Yeeting"
+    }
+  ],
+  "images": [
+    {
+      "id": "1450267940636332274",
+      "name": "imagasde.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1450267939461922957/1450267940636332274/imagasde.png?ex=6941eac5&is=69409945&hm=e4729f312de59d191c9e5e36d1a54e3b0b673a1a95ba4abfb1b810ada8555a15&",
+      "description": "Sent by andrews54757 at 12/15/2025, 6:27:01 PM",
+      "canDownload": true,
+      "width": 622,
+      "height": 800,
+      "path": "images/imagasde.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1450267941055496223",
+      "name": "CT001_8gt_Detection_Perfect_Merge_Yeeter_v1.0.5.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1450267939461922957/1450267941055496223/8gt_Detection_Perfect_Merge_Yeeter_v1.0.5.litematic?ex=6941eac5&is=69409945&hm=8c99515b02df30dd2b4d0b5638a22ebb0750b37429831681f651027d522a205a&",
+      "description": "Sent by andrews54757 at 12/15/2025, 6:27:01 PM",
+      "canDownload": true,
+      "path": "attachments/CT001_8gt_Detection_Perfect_Merge_Yeeter_v1.0.5.litematic",
+      "litematic": {
+        "size": "6x7x5",
+        "version": "1.21"
+      }
+    }
+  ],
+  "records": {
+    "description": "Yeets carts (see cart yeet) without splitting up items inside. This is done by aligning and pushing the items from the cart precisely so that every item entity merges perfectly.",
+    "features": [
+      "4d aligns the items",
+      "100% reliable output",
+      "perfectly batches the items",
+      "hopperspeed throughput (8gt per item)"
+    ],
+    "considerations": [
+      "Large size (for a yeeter)"
+    ],
+    "instructions": [
+      "Input hoppercarts/chestcarts to the powered rail, inserting perpendicular to the detector rail."
+    ]
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "cart yeet",
+      "id": "1455675378931728598",
+      "url": "https://discord.com/channels/1375556143186837695/1455675378931728598/1455675380160659517",
+      "matches": [
+        "cart yeet"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "item entity",
+      "id": "1456908472384884879",
+      "url": "https://discord.com/channels/1375556143186837695/1456908472384884879/1456908473844502594",
+      "matches": [
+        "item entity"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "4D align",
+      "id": "1454753764606083180",
+      "url": "https://discord.com/channels/1375556143186837695/1454753764606083180/1454753765365256286",
+      "matches": [
+        "4d align"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperspeed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopperspeed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "gt",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1450269963242705040",
+    "forumId": "1375563297230688327",
+    "continuingMessageIds": [
+      "1450269966590017688"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1450269963242705040",
+    "uploadMessageId": "1450269961162588381"
+  },
+  "archivedAt": 1765841703283,
+  "updatedAt": 1767130598546
+}

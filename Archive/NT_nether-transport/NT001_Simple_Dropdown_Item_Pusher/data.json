@@ -1,0 +1,102 @@
+{
+  "id": "1387131489782857769",
+  "name": "Simple Dropdown Item Pusher",
+  "code": "NT001",
+  "reservedCodes": [
+    "NT001"
+  ],
+  "pastPostThreadIds": [
+    "1388318627815493723"
+  ],
+  "authors": [],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1387131981464211602",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1387131981464211603",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1387131490097172610",
+      "name": "dropdown_item_pusher.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387131489782857769/1387131490097172610/dropdown_item_pusher.png?ex=685c3a5e&is=685ae8de&hm=f684353e9169d55b4ac6d0dc06b499b999d6ec0fb4acdaaf0bd674f9f963bc2e&",
+      "description": "Sent by andrews54757 at 6/24/2025, 2:05:18 PM",
+      "canDownload": true,
+      "width": 646,
+      "height": 324,
+      "path": "images/dropdown_item_pusher.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1387131490394964139",
+      "name": "NT001_dropdown_item_pusher.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387131489782857769/1387131490394964139/dropdown_item_pusher.litematic?ex=685c3a5e&is=685ae8de&hm=28ddd67a2222443353ea4858ff7b9b24d1d13f4c592ae22b2be615cd32fb2c38&",
+      "description": "Sent by andrews54757 at 6/24/2025, 2:05:18 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "4x3x1",
+        "version": "1.17.1"
+      },
+      "path": "attachments/NT001_dropdown_item_pusher.litematic"
+    }
+  ],
+  "records": {
+    "description": "12gt clockable dropdown item pusher. Useful for pushing items on ice in the nether. All the pistons are sticky. Probably not unload safe. Use string + observers instead of noteblock/observer/repeater trigger to make it automatically fire when item comes.",
+    "features": [
+      "Simple, 12 gt clockable design"
+    ],
+    "considerations": [
+      "Togglestate"
+    ],
+    "notes": ""
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "gt",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Togglestate",
+      "id": "1454754804252282910",
+      "url": "https://discord.com/channels/1375556143186837695/1454754804252282910/1454754804881428533",
+      "matches": [
+        "Togglestate"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "forumId": "1387131693411995658",
+    "threadId": "1388318627815493723",
+    "continuingMessageIds": [
+      "1388318630248448194"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388318627815493723",
+    "attachmentMessageId": "1388179710801875145",
+    "uploadMessageId": "1388179699565465784"
+  },
+  "archivedAt": 1750788510279,
+  "updatedAt": 1750788510279
+}

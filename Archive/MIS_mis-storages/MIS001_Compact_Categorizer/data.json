@@ -1,0 +1,238 @@
+{
+  "id": "1386227823450132604",
+  "name": "Compact Categorizer",
+  "code": "MIS001",
+  "reservedCodes": [
+    "MIS001"
+  ],
+  "pastPostThreadIds": [
+    "1388318067247026286"
+  ],
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "319513337941721089",
+      "username": "inspectortalon",
+      "iconURL": "https://cdn.discordapp.com/avatars/319513337941721089/edec0da88a70e9697b6b43b4a2d740e3.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "242784689910317066",
+      "username": "metamilo",
+      "iconURL": "https://cdn.discordapp.com/avatars/242784689910317066/14489c2530c8184f96b0197518255c73.webp",
+      "displayName": "metamilo"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385789132869079192",
+      "name": "Recommended"
+    },
+    {
+      "id": "1385488504204562639",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386227882388488322",
+      "name": "compact.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386227823450132604/1386227882388488322/compact.png?ex=6858f0d2&is=68579f52&hm=d645e353461046fdc45372e59ffdfcaef3c837a47a0681b476a0e1b618bb2509&",
+      "description": "Sent by andrews54757 at 6/22/2025, 2:14:42 AM",
+      "canDownload": true,
+      "width": 506,
+      "height": 417,
+      "path": "images/compact.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1455278279387779175",
+      "name": "MIS001_Compact_Categorizer_Doublechest_Hopperlocked.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386227823450132604/1455278279387779175/Compact_Categorizer_Doublechest_Hopperlocked.litematic?ex=69542503&is=6952d383&hm=6aeb9b7f227358a20bca979cec57cd1f0d104153993bb3287b3bc070ec815e2f&",
+      "description": "Sent by andrews54757 at 12/29/2025, 2:16:19 PM",
+      "canDownload": true,
+      "path": "attachments/MIS001_Compact_Categorizer_Doublechest_Hopperlocked.litematic",
+      "litematic": {
+        "size": "27x18x19",
+        "version": "1.21.1"
+      }
+    },
+    {
+      "id": "1455278279778107402",
+      "name": "MIS001_Compact_Categorizer_Doublechest_Barebones.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386227823450132604/1455278279778107402/Compact_Categorizer_Doublechest_Barebones.litematic?ex=69542503&is=6952d383&hm=20f7f8ebc7fde1251fdbc7f2b79684b4fd20cb75789b7a8b0999ae0dbf040bd9&",
+      "description": "Sent by andrews54757 at 12/29/2025, 2:16:19 PM",
+      "canDownload": true,
+      "path": "attachments/MIS001_Compact_Categorizer_Doublechest_Barebones.litematic",
+      "litematic": {
+        "size": "27x18x19",
+        "version": "1.21.1"
+      }
+    },
+    {
+      "id": "1455278280029503519",
+      "name": "MIS001_Compact_Categorizer_Barrel_Hopperlocked.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386227823450132604/1455278280029503519/Compact_Categorizer_Barrel_Hopperlocked.litematic?ex=69542503&is=6952d383&hm=85dc8a2819a1b13d3b4873ba41ee90682695f7426452d947f6e3f9f180cc14e7&",
+      "description": "Sent by andrews54757 at 12/29/2025, 2:16:19 PM",
+      "canDownload": true,
+      "path": "attachments/MIS001_Compact_Categorizer_Barrel_Hopperlocked.litematic",
+      "litematic": {
+        "size": "27x18x18",
+        "version": "1.21.1"
+      }
+    },
+    {
+      "id": "1455278280428228762",
+      "name": "MIS001_Compact_Categorizer_Barrel_Barebones.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386227823450132604/1455278280428228762/Compact_Categorizer_Barrel_Barebones.litematic?ex=69542503&is=6952d383&hm=778a7e76d6a19e5f229c583983e45a18a75c2bef63005ee6342f5c0abff150bc&",
+      "description": "Sent by andrews54757 at 12/29/2025, 2:16:19 PM",
+      "canDownload": true,
+      "path": "attachments/MIS001_Compact_Categorizer_Barrel_Barebones.litematic",
+      "litematic": {
+        "size": "27x18x19",
+        "version": "1.21.1"
+      }
+    },
+    {
+      "id": "1455278280654716990",
+      "name": "MIS001_Compact_Categorizer_World.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1386227823450132604/1455278280654716990/Compact_Categorizer_World.zip?ex=69542503&is=6952d383&hm=4958d63b2edfafae0b6e91a327b4a592982f7a41c20fe1b26ab8b0e52d504f0d&",
+      "description": "Sent by andrews54757 at 12/29/2025, 2:16:19 PM",
+      "canDownload": true,
+      "path": "attachments/MIS001_Compact_Categorizer_World.zip",
+      "wdl": {
+        "version": "1.21.1"
+      }
+    },
+    {
+      "id": "DnrAoKd8ZOc",
+      "name": "MIS001_YouTube_Video_DnrAoKd8ZOc.url",
+      "contentType": "youtube",
+      "url": "https://youtu.be/DnrAoKd8ZOc",
+      "description": "[YouTube] Sent by andrews54757 at 6/22/2025, 2:14:27 AM",
+      "canDownload": false,
+      "youtube": {
+        "title": "Compact Categorizer Showcase!!",
+        "author_name": "Inspector Talon",
+        "author_url": "https://www.youtube.com/@inspectortalon",
+        "thumbnail_url": "https://i.ytimg.com/vi/DnrAoKd8ZOc/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      },
+      "path": "attachments/MIS001_YouTube_Video_DnrAoKd8ZOc.url"
+    }
+  ],
+  "records": {
+    "description": "A simple storage system intended as a main MIS (multi-item sorter) for the typical survival Minecraft player.",
+    "features": [
+      "Sorts at ~½-⅔ hopperspeed (~4500-6000/h).",
+      "Includes hopperlocked and chunk loading variants.",
+      "Lower relative build complexity and cost.",
+      "Highly resilient to game updates (only the input system might need updates in extreme cases).",
+      "Capable of handling all stackable items.",
+      "Efficiently processes full item stacks.",
+      "Built-in overflow protection and processing.",
+      "Resistant to unloading breakages.",
+      "Sturdy against misuse or malfunction.",
+      "Extremely lag efficient."
+    ],
+    "considerations": [
+      "Lacks parallelization, which affects speed.",
+      "Limited sortable item types per slice.",
+      "No unstackable handling"
+    ],
+    "notes": "For further questions, see [Compact Categorizer Help Thread](https://discord.com/channels/748542142347083868/1291785785707856026) on the Storage Tech Discord. [Showcase Video on Youtube](https://youtu.be/DnrAoKd8ZOc)"
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "MIS",
+      "id": "1454753725091676293",
+      "url": "https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954",
+      "matches": [
+        "MIS"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperspeed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopperspeed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperlocked",
+      "id": "1454753660625227895",
+      "url": "https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422",
+      "matches": [
+        "hopperlocked"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "chunk load",
+      "id": "1457055322647695542",
+      "url": "https://discord.com/channels/1375556143186837695/1457055322647695542/1457055324426080287",
+      "matches": [
+        "chunk load"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/1291785785707856026",
+      "server": "748542142347083868",
+      "channel": "1291785785707856026",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/1291785785707856026"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "forumId": "1375566804910604349",
+    "threadId": "1388318067247026286",
+    "continuingMessageIds": [
+      "1388318069801095258",
+      "1454696129844215900",
+      "1454696130557513728",
+      "1455358997027881103"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388318067247026286",
+    "attachmentMessageId": "1388178998915498175",
+    "uploadMessageId": "1455281396246384720"
+  },
+  "archivedAt": 1766902323684,
+  "updatedAt": 1767036521263
+}

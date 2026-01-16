@@ -1,0 +1,119 @@
+{
+  "id": "1451471098742050889",
+  "name": "Vertical Item Entity Elevator",
+  "code": "NT003",
+  "reservedCodes": [
+    "NT003"
+  ],
+  "pastPostThreadIds": [
+    "1451474224295444643"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "803398149217189950",
+      "displayName": "Nvertd",
+      "username": "nvertd",
+      "iconURL": "https://cdn.discordapp.com/avatars/803398149217189950/b5bc2649d3bf10ad4d486ab0e3e2c0ab.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "512019182636892182",
+      "username": "pwouik",
+      "iconURL": "https://cdn.discordapp.com/avatars/512019182636892182/ffa7fb211fb9572493cfe3205a8c4114.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1387131981464211602",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1387131981464211603",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1451471100822290533",
+      "name": "area_render_2_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1451471098742050889/1451471100822290533/area_render_2_.png?ex=69464b4d&is=6944f9cd&hm=8c817a4e12d9c2703f6ce64c0a1c777af815356db03ff8bc47cb856f694f990f&",
+      "description": "Sent by nvertd at 12/19/2025, 2:07:56 AM",
+      "canDownload": true,
+      "width": 234,
+      "height": 800,
+      "path": "images/area_render_2_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1451472263378501807",
+      "name": "NT003_Item_Elavator_20bps.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1451471098742050889/1451472263378501807/Item_Elavator_20bps.litematic?ex=69464c62&is=6944fae2&hm=aa6a7cf76a0490d9ae7a7566f79a40862af46c4ae0728f0c9bbd8cad8ccd7bf7&",
+      "description": "Sent by nvertd at 12/19/2025, 2:12:34 AM",
+      "canDownload": true,
+      "path": "attachments/NT003_Item_Elavator_20bps.litematic",
+      "litematic": {
+        "size": "7x31x5",
+        "version": "1.21.4"
+      }
+    },
+    {
+      "id": "1451471102126854166",
+      "name": "NT003_2025-12-19_14-54-32.mp4",
+      "contentType": "video/mp4",
+      "url": "https://cdn.discordapp.com/attachments/1451471098742050889/1451471102126854166/2025-12-19_14-54-32.mp4?ex=69464b4d&is=6944f9cd&hm=3e9fc4fff7894c65a695379dce462a84729b98670d2ea89ac76e1a7f3922b619&",
+      "description": "Sent by nvertd at 12/19/2025, 2:07:56 AM",
+      "canDownload": true,
+      "path": "attachments/NT003_2025-12-19_14-54-32.mp4"
+    }
+  ],
+  "records": {
+    "description": "A device that sends items upwards in entity form, float align items with a boat.",
+    "features": [
+      "Nether compatible",
+      "20 Blocks per Second",
+      "Minimum cycle time: 9 game ticks (8gt causes torch burnout)"
+    ],
+    "considerations": [
+      "Requires a Boat"
+    ],
+    "compatibility": "Works in all game versions.",
+    "instructions": "See video for boat placement instructions."
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "ticks",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "ticks"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1451474224295444643",
+    "forumId": "1387131693411995658",
+    "continuingMessageIds": [
+      "1451650949335744766",
+      "1451650950262423718"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1451474224295444643",
+    "uploadMessageId": "1451650942650028255"
+  },
+  "archivedAt": 1766170954801,
+  "updatedAt": 1766170954801
+}

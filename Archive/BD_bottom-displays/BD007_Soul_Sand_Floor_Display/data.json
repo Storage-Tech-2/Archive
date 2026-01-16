@@ -1,0 +1,117 @@
+{
+  "id": "1387160186870956062",
+  "name": "Soul Sand Floor Display",
+  "code": "BD007",
+  "reservedCodes": [
+    "BD007"
+  ],
+  "pastPostThreadIds": [
+    "1388317306450477066"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "889866137184137238",
+      "displayName": "bipim",
+      "username": "bipim",
+      "iconURL": "https://cdn.discordapp.com/avatars/889866137184137238/7e7a059e3e137003a2abe1a91499f786.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488478745137341",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789101374046273",
+      "name": "Recommended"
+    },
+    {
+      "id": "1386201743825567905",
+      "name": "Auto Replacement"
+    }
+  ],
+  "images": [
+    {
+      "id": "1387160880474620086",
+      "name": "Bipim_-_Soul_Sand_Floor_Display.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387160186870956062/1387160880474620086/Bipim_-_Soul_Sand_Floor_Display.png?ex=685c55be&is=685b043e&hm=3ad46b998f63e7e5f5cbcd92a953934b90f3ffc5e0e6577ce81e998d64dd9b70&",
+      "description": "Sent by ragdollwilly at 6/24/2025, 4:02:06 PM",
+      "canDownload": true,
+      "width": 709,
+      "height": 800,
+      "path": "images/Bipim_-_Soul_Sand_Floor_Display.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1387161006505197678",
+      "name": "BD007_Bipim_-_Soul_Sand_Floor_Display.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387160186870956062/1387161006505197678/Bipim_-_Soul_Sand_Floor_Display.litematic?ex=685c55dc&is=685b045c&hm=3e55014977c0b32ac691b2c48b6fa62e7cadb89d89aab59f6f1de0b214cb2a64&",
+      "description": "Sent by ragdollwilly at 6/24/2025, 4:02:36 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "1x8x7",
+        "version": "1.21.4"
+      },
+      "path": "attachments/BD007_Bipim_-_Soul_Sand_Floor_Display.litematic"
+    }
+  ],
+  "records": {
+    "description": "A floor display that uses soul sand to collect the empty box in a water stream.",
+    "features": [
+      "Global first box placement",
+      "Collectionful",
+      "1 hopper, locked",
+      "Buffers 1 box in the hopper"
+    ],
+    "considerations": [
+      "Unreliable box collection"
+    ],
+    "notes": "This design is unreliable pre-1.17, also the empty box collection will fail around 1 in every 1,000 times."
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Global",
+      "id": "1454753648574992557",
+      "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
+      "matches": [
+        "Global"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Collection",
+      "id": "1454805930670559326",
+      "url": "https://discord.com/channels/1375556143186837695/1454805930670559326/1454805932532830268",
+      "matches": [
+        "box collection"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "forumId": "1375561551188328531",
+    "threadId": "1388317306450477066",
+    "continuingMessageIds": [
+      "1388317309134966876"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388317306450477066",
+    "attachmentMessageId": "1388178239196893264",
+    "uploadMessageId": "1388178230594375761"
+  },
+  "archivedAt": 1750795513273,
+  "updatedAt": 1750795513273
+}

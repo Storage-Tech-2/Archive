@@ -1,0 +1,134 @@
+{
+  "id": "1396151574577021061",
+  "name": "Small Slider Top Display",
+  "code": "TD005",
+  "reservedCodes": [
+    "TD005"
+  ],
+  "pastPostThreadIds": [
+    "1396186993523953744"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "460316892976906261",
+      "displayName": "Ragdoll Willy",
+      "username": "ragdollwilly",
+      "iconURL": "https://cdn.discordapp.com/avatars/460316892976906261/a0332117bf4e609a1ead4417ae4357b4.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385789099033497712",
+      "name": "Recommended"
+    },
+    {
+      "id": "1386201662418321499",
+      "name": "Auto Replacement"
+    },
+    {
+      "id": "1385488476258041933",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1396151575185068116",
+      "name": "Small_Slider_Top_Display.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1396151574577021061/1396151575185068116/Small_Slider_Top_Display.png?ex=687d0afa&is=687bb97a&hm=42dc7776bfa922fd32d4fed41aeceb6df1ad6f5048c3f7c41e88261347c62566&",
+      "description": "Sent by ragdollwilly at 7/19/2025, 11:27:54 AM",
+      "canDownload": true,
+      "width": 695,
+      "height": 800,
+      "path": "images/Small_Slider_Top_Display.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1396151575465951323",
+      "name": "TD005_Small_Slider_Top_Display.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1396151574577021061/1396151575465951323/Small_Slider_Top_Display.litematic?ex=687d0afa&is=687bb97a&hm=0ced55192731999fd95caa47d8226fb34677e669cabbbdf3aae7434033a4fff2&",
+      "description": "Sent by ragdollwilly at 7/19/2025, 11:27:54 AM",
+      "canDownload": true,
+      "path": "attachments/TD005_Small_Slider_Top_Display.litematic",
+      "litematic": {
+        "size": "7x8x2",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Designed for quad bulks with more space under the top display.",
+    "features": [
+      "Good UI",
+      "Global first box placement",
+      "Automatic box replacement when emptied"
+    ],
+    "considerations": [
+      "Hopperlocking is possible with a global dust line",
+      "1wABt with alternating rails"
+    ]
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "UI",
+      "id": "1454754844316274861",
+      "url": "https://discord.com/channels/1375556143186837695/1454754844316274861/1454754845033627671",
+      "matches": [
+        "UI"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Global",
+      "id": "1454753648574992557",
+      "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
+      "matches": [
+        "Global",
+        "global"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopperlocking",
+      "id": "1454753660625227895",
+      "url": "https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422",
+      "matches": [
+        "Hopperlocking"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "1wABt",
+      "id": "1454753732293033984",
+      "url": "https://discord.com/channels/1375556143186837695/1454753732293033984/1454753733035687988",
+      "matches": [
+        "1wABt"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1396186993523953744",
+    "forumId": "1375560792665231450",
+    "continuingMessageIds": [
+      "1396186996430344334"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1396186993523953744",
+    "uploadMessageId": "1396186992164864134"
+  },
+  "archivedAt": 1752947318573,
+  "updatedAt": 1752947318573
+}

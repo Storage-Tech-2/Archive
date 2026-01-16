@@ -1,0 +1,112 @@
+{
+  "id": "1455460194627620895",
+  "name": "One Tall Output Collection Stream",
+  "code": "WT004",
+  "reservedCodes": [
+    "WT004"
+  ],
+  "pastPostThreadIds": [
+    "1455461373415915728"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "719903397171560559",
+      "username": "pyraleftt",
+      "displayName": "PyraLeft",
+      "iconURL": "https://cdn.discordapp.com/avatars/719903397171560559/7ba08c1c9ee4d550dae6dd373cf9fabe.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488489272840272",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789114598559916",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1455460195302899826",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1455460194627620895/1455460195302899826/image.png?ex=6954ce6f&is=69537cef&hm=e5ddc97c42db6f980311dcfc69f75811875f141d4cd201d5d2eba81c3abc5162&",
+      "description": "Sent by andrews54757 at 12/30/2025, 2:19:11 AM",
+      "canDownload": true,
+      "width": 800,
+      "height": 388,
+      "path": "images/image.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1455460195546300498",
+      "name": "WT004_one_tall_output_collection_stream.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1455460194627620895/1455460195546300498/one_tall_output_collection_stream.litematic?ex=6954ce6f&is=69537cef&hm=9adbb406e99abd5d08e7ff1a9e79f1d31cf38602dd095561c5b2186ce3e9fe40&",
+      "description": "Sent by andrews54757 at 12/30/2025, 2:19:11 AM",
+      "canDownload": true,
+      "path": "attachments/WT004_one_tall_output_collection_stream.litematic",
+      "litematic": {
+        "size": "3x3x17",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A reliable 1 block tall output collector water stream that can have items dropped into it from the side. It will always route the items to the end of the stream, without items getting stuck on the gap where the ladder is.",
+    "features": [
+      "Reliable 1 block tall output collector water stream",
+      "Items can be dropped into it from the side",
+      "Always routes items to the end of the stream",
+      "Prevents items from getting stuck on the gap where the ladder is"
+    ],
+    "notes": "This works because the items glitch in the ladder hitbox when dropper into it, imparting a sideways momentum. See RD002 for a detailed explanation of how item \"glitching\" can be controlled.",
+    "compatibility": "1.19+ only. Before 1.19 items output from dropper could have backwards momentum.",
+    "instructions": [
+      "Input must be dropped into the stream using droppers from one side only, cannot be dropped from the top or bottom.",
+      "Make sure all sides of the stream are covered, especially where the ladder is"
+    ]
+  },
+  "styles": {
+    "instructions": {
+      "isOrdered": false
+    }
+  },
+  "references": [
+    {
+      "type": "archivedPost",
+      "id": "1455030177531691050",
+      "code": "RD002",
+      "name": "How Item Entity Clipping Works",
+      "url": "https://discord.com/channels/1375556143186837695/1455030735089041534",
+      "path": "Archive/RD_tomes-and-diagrams/RD002_How_Item_Entity_Clipping_Works",
+      "matches": [
+        "RD002"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1455461373415915728",
+    "forumId": "1375563169904459846",
+    "continuingMessageIds": [
+      "1455461377341653033"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1455461373415915728",
+    "uploadMessageId": "1455461370626572343"
+  },
+  "archivedAt": 1767079431397,
+  "updatedAt": 1767079431397
+}

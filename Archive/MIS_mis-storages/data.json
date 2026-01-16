@@ -1,0 +1,40 @@
+{
+  "id": "1375566804910604349",
+  "name": "mis-storages",
+  "code": "MIS",
+  "category": "Full Systems",
+  "description": "Multi item storages which use multi item sorting technology to store multiple item types in each chest",
+  "currentCodeId": 7,
+  "entries": [
+    {
+      "id": "1386227823450132604",
+      "code": "MIS001",
+      "path": "MIS001_Compact_Categorizer"
+    },
+    {
+      "id": "1386555107084210176",
+      "code": "MIS003",
+      "path": "MIS003_Simple_Cart-based_MIS_Storage_Scorpio_MIS"
+    },
+    {
+      "id": "1387111186075488287",
+      "code": "MIS004",
+      "path": "MIS004_CMIS_3.0"
+    },
+    {
+      "id": "1388561670355550298",
+      "code": "MIS005",
+      "path": "MIS005_J-MIS_Jays_Moony_Item_Sorter"
+    },
+    {
+      "id": "1388786404317724712",
+      "code": "MIS006",
+      "path": "MIS006_Xianyu_MIS_lite_v2"
+    },
+    {
+      "id": "1461810367851397358",
+      "code": "MIS007",
+      "path": "MIS007_Borb-MIS"
+    }
+  ]
+}

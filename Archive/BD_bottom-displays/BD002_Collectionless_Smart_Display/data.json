@@ -1,0 +1,138 @@
+{
+  "id": "1386689670829834353",
+  "name": "Collectionless Smart Display",
+  "code": "BD002",
+  "reservedCodes": [
+    "BD002"
+  ],
+  "pastPostThreadIds": [
+    "1388317191060979833"
+  ],
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "365909768306688000",
+      "username": "catniped",
+      "iconURL": "https://cdn.discordapp.com/avatars/365909768306688000/6dcbb2898d9df9391fa59e7aa62bdcaa.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1386124728799858688",
+      "name": "Closed Box Detection"
+    },
+    {
+      "id": "1386201743825567905",
+      "name": "Auto Replacement"
+    },
+    {
+      "id": "1385488478745137341",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386689672482128024",
+      "name": "collectionless_smart_display.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386689670829834353/1386689672482128024/collectionless_smart_display.png?ex=685a9ee5&is=68594d65&hm=56dba27374afd9f1450940875885e70cd72499a9d545fce9dc69205470b43c51&",
+      "description": "Sent by andrews54757 at 6/23/2025, 8:49:40 AM",
+      "canDownload": true,
+      "width": 669,
+      "height": 800,
+      "path": "images/collectionless_smart_display.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386689672800899143",
+      "name": "BD002_collectionless_smart_display.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386689670829834353/1386689672800899143/collectionless_smart_display.litematic?ex=685a9ee5&is=68594d65&hm=df2e4894a23b476d63434f6712b2b1165d9477a10f0201facf03555b2ee19e67&",
+      "description": "Sent by andrews54757 at 6/23/2025, 8:49:40 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "6x6x2",
+        "version": "1.14.4"
+      },
+      "path": "attachments/BD002_collectionless_smart_display.litematic"
+    }
+  ],
+  "records": {
+    "description": "A small smart display without empty box collection that breaks the box only when empty and closed.",
+    "features": [
+      "Small (6x6)",
+      "Smart box breaking, only breaks it when empty and closed",
+      "Global first box placement",
+      "Minimum hoppers, fully locked"
+    ],
+    "considerations": [
+      "When triggering while the display is replacing a box, the global first box placement can cause it to break a newly dispensed full box",
+      "No empty box collection",
+      "When emptying adjacent slices in very quick succession, one of them may fail to replace its box",
+      "Buffers a box"
+    ]
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "smart display",
+      "id": "1454754754071892049",
+      "url": "https://discord.com/channels/1375556143186837695/1454754754071892049/1454754754998698048",
+      "matches": [
+        "smart display"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Collection",
+      "id": "1454805930670559326",
+      "url": "https://discord.com/channels/1375556143186837695/1454805930670559326/1454805932532830268",
+      "matches": [
+        "box collection"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Global",
+      "id": "1454753648574992557",
+      "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
+      "matches": [
+        "Global",
+        "global"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "forumId": "1375561551188328531",
+    "threadId": "1388317191060979833",
+    "continuingMessageIds": [
+      "1388317195167203469"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388317191060979833",
+    "attachmentMessageId": "1388178092157046916",
+    "uploadMessageId": "1388178084779524298"
+  },
+  "archivedAt": 1750683096514,
+  "updatedAt": 1768409791266
+}

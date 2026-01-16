@@ -1,0 +1,148 @@
+{
+  "id": "1461810367851397358",
+  "name": "Borb-MIS",
+  "code": "MIS007",
+  "reservedCodes": [
+    "MIS007"
+  ],
+  "pastPostThreadIds": [
+    "1461811417341624371"
+  ],
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "267661106078679043",
+      "username": "borbarad13",
+      "iconURL": "https://cdn.discordapp.com/avatars/267661106078679043/ed0cc32154935ceec929e3c75b569102.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488504204562639",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789132869079192",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1461810368702709870",
+      "name": "508210971-e577d7af-4f02-4934-8dfc-e0bb319a8a74.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1461810367851397358/1461810368702709870/508210971-e577d7af-4f02-4934-8dfc-e0bb319a8a74.png?ex=696be87f&is=696a96ff&hm=6b4a8772e087a89ed65291962eeb08d01cd4a84879e4fc55781895cd5f50a046&",
+      "description": "Sent by andrews54757 at 1/16/2026, 2:52:30 PM",
+      "canDownload": true,
+      "width": 769,
+      "height": 800,
+      "path": "images/508210971-e577d7af-4f02-4934-8dfc-e0bb319a8a74.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1461810369130401906",
+      "name": "MIS007_B-MIS_-_Multi_item_sorter_by_B13_v9.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1461810367851397358/1461810369130401906/B-MIS_-_Multi_item_sorter_by_B13_v9.zip?ex=696be87f&is=696a96ff&hm=b0968ad9af6871e5eb33df86250f5f7bc6a7e2fc91745ad7bc293f08d926dce4&",
+      "description": "Sent by andrews54757 at 1/16/2026, 2:52:30 PM",
+      "canDownload": true,
+      "path": "attachments/MIS007_B-MIS_-_Multi_item_sorter_by_B13_v9.zip",
+      "wdl": {
+        "version": "1.20.1"
+      }
+    },
+    {
+      "id": "1461810369407483955",
+      "name": "MIS007_multi_item_sorter_b_mis_42_categories_one_chunk_by_borbarad13_2023_v9.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1461810367851397358/1461810369407483955/multi_item_sorter_b_mis_42_categories_one_chunk_by_borbarad13_2023_v9.litematic?ex=696be87f&is=696a96ff&hm=e278332fd385ea0f945abb4ac9fafa29c2f072e37fb355621fe2832f36ba82e0&",
+      "description": "Sent by andrews54757 at 1/16/2026, 2:52:30 PM",
+      "canDownload": true,
+      "path": "attachments/MIS007_multi_item_sorter_b_mis_42_categories_one_chunk_by_borbarad13_2023_v9.litematic",
+      "litematic": {
+        "size": "16x18x13",
+        "version": "1.20.1"
+      }
+    }
+  ],
+  "records": {
+    "description": "A resilient multi item sorter with a compact frontend (\"Borb-MIS\").",
+    "features": [
+      "Sorts 64 & 16 stackables",
+      "Flexible assignment: multiple item types per chest (no slot reservation)",
+      "42 categories in 16-wide chunk (2000+ item types)",
+      "Highly unload resistant (tested 17000 gradual, 7000 instant, 1000 delayed reloads)",
+      "Early survival buildable (first week)",
+      "Reduced block palette (<27 types)",
+      "Standalone or integrable",
+      "Fault-tolerant to over/under/double assignments",
+      "Minimal lag: +2 mspt on i7-6700 integrated server",
+      "Rotatable. Orientation tested (90/180/270° rotations, no errors)"
+    ],
+    "considerations": [
+      "Speed depends on input (~3K/hour)",
+      "No shulker unloader, sorts only stackable items"
+    ],
+    "notes": "Credits: Fast detector rail by 2no2name (via Ilmango). All tests passed without errors.",
+    "compatibility": "Designed & tested in 1.20. Likely works in 1.16+",
+    "instructions": [
+      "Must be chunk aligned",
+      "Use Litematica recommended",
+      "Elevate floor before system by 1 block for chest access",
+      "Before category config changes: turn off system, await shutdown via maintenance hatch"
+    ]
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Multi Item Sorter",
+      "id": "1454753725091676293",
+      "url": "https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954",
+      "matches": [
+        "multi item sorter",
+        "MIS"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "mspt",
+      "id": "1454753719664119890",
+      "url": "https://discord.com/channels/1375556143186837695/1454753719664119890/1454753720259575821",
+      "matches": [
+        "mspt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Unloader",
+      "id": "1454754824758493380",
+      "url": "https://discord.com/channels/1375556143186837695/1454754824758493380/1454754825345433803",
+      "matches": [
+        "unloader"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1461811417341624371",
+    "forumId": "1375566804910604349",
+    "continuingMessageIds": [
+      "1461811420889878549"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1461811417341624371",
+    "uploadMessageId": "1461811412350271676"
+  },
+  "archivedAt": 1768593396492,
+  "updatedAt": 1768593396492
+}

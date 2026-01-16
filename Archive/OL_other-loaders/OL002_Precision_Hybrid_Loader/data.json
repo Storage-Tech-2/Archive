@@ -1,0 +1,135 @@
+{
+  "id": "1388556991462637648",
+  "name": "Precision Hybrid Loader",
+  "code": "OL002",
+  "reservedCodes": [
+    "OL002"
+  ],
+  "pastPostThreadIds": [
+    "1388557426013376634"
+  ],
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "935788604796583937",
+      "username": "xiao_chen11",
+      "iconURL": "https://cdn.discordapp.com/embed/avatars/1.png"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488468729266284",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789089017499700",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1388556993832423604",
+      "name": "area_render_4_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1388556991462637648/1388556993832423604/area_render_4_.png?ex=686169f9&is=68601879&hm=2d4ca975cf3dd579ed1939645f274d574341d0dcd1c9ee7decbffbf252a68af4&",
+      "description": "Sent by andrews54757 at 6/28/2025, 12:29:44 PM",
+      "canDownload": true,
+      "width": 413,
+      "height": 800,
+      "path": "images/area_render_4_.png"
+    },
+    {
+      "id": "1388557000270544936",
+      "name": "area_render_5_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1388556991462637648/1388557000270544936/area_render_5_.png?ex=686169fb&is=6860187b&hm=3e2a67791916b7ab3386302a110e3858e3e5cb49815c54952646f85208af67a5&",
+      "description": "Sent by andrews54757 at 6/28/2025, 12:29:44 PM",
+      "canDownload": true,
+      "width": 457,
+      "height": 800,
+      "path": "images/area_render_5_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1388557000660484136",
+      "name": "OL002_Sorting_precision_hybrid_box_loader.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1388556991462637648/1388557000660484136/Sorting_precision_hybrid_box_loader.litematic?ex=686169fb&is=6860187b&hm=997700bb01fb65b6bdbb5d040791ff4e539393f05eb22a11d30ee62477fed29d&",
+      "description": "Sent by andrews54757 at 6/28/2025, 12:29:44 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "8x14x4",
+        "version": "1.20.1"
+      },
+      "path": "attachments/OL002_Sorting_precision_hybrid_box_loader.litematic"
+    },
+    {
+      "id": "1388557001038237839",
+      "name": "OL002_Sorting_precision_hybrid_box_loader_1.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1388556991462637648/1388557001038237839/Sorting_precision_hybrid_box_loader_1.litematic?ex=686169fb&is=6860187b&hm=6999e3e35515ce83bc353338b5e252b73ca25084a406681685edfc557a2954a8&",
+      "description": "Sent by andrews54757 at 6/28/2025, 12:29:44 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "8x16x4",
+        "version": "1.20.1"
+      },
+      "path": "attachments/OL002_Sorting_precision_hybrid_box_loader_1.litematic"
+    }
+  ],
+  "records": {
+    "description": "Box loader that puts loose items into a chest until the chest fills up, then starts filling shulker boxes with the items.",
+    "features": [
+      "Fully Hopper Locked",
+      "1 Wide Tileable",
+      "No Full Boxes Buffered",
+      "Precision Box Breaking"
+    ],
+    "considerations": [
+      "Dispensers need 1 shulker box to be manually prefilled"
+    ],
+    "notes": "2 versions, smaller one will have 2 unlocked hoppers every 16 slices due to how one of the locking lines is and lacks overflow protection, the larger one fixes both of these issues"
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1388557426013376634",
+    "forumId": "1375557962675912865",
+    "continuingMessageIds": [
+      "1388557430480310313"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388557426013376634",
+    "uploadMessageId": "1388557424109293588"
+  },
+  "archivedAt": 1751128287837,
+  "updatedAt": 1751128287837
+}

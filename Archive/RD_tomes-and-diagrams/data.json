@@ -1,0 +1,25 @@
+{
+  "id": "1410149299169267792",
+  "name": "tomes-and-diagrams",
+  "code": "RD",
+  "category": "Other Resources",
+  "description": "Miscellaneous notes, guides, and diagrams with questionable utility",
+  "currentCodeId": 3,
+  "entries": [
+    {
+      "id": "1451060139560931523",
+      "code": "RD001",
+      "path": "RD001_I_cant_believe_this_is_optimal_why_Lithium_makes_hopperlocking_unnecessary"
+    },
+    {
+      "id": "1455030177531691050",
+      "code": "RD002",
+      "path": "RD002_How_Item_Entity_Clipping_Works"
+    },
+    {
+      "id": "1456723394752942214",
+      "code": "RD003",
+      "path": "RD003_Item_entity_order_and_age_mechanics"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "id": "1386528814389137518",
+  "name": "Shulker Box Crafters",
+  "code": "AC001",
+  "reservedCodes": [
+    "AC001"
+  ],
+  "pastPostThreadIds": [
+    "1388318423427059806"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "656864003242328064",
+      "displayName": "金合欢酱喵~ (acaciachan)",
+      "username": "acaciachan",
+      "iconURL": "https://cdn.discordapp.com/avatars/656864003242328064/65e1c203d9ea0af6509f0754122b45a2.webp"
+    },
+    {
+      "type": "unknown",
+      "username": "Mangelious"
+    },
+    {
+      "type": "unknown",
+      "username": "萌萌的小公举"
+    },
+    {
+      "type": "unknown",
+      "username": "viommm"
+    },
+    {
+      "type": "discord-external",
+      "id": "780631519249170477",
+      "username": "ethanmik",
+      "iconURL": "https://cdn.discordapp.com/avatars/780631519249170477/f3196978299827389302fa86f34172a8.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385789161650257952",
+      "name": "Recommended"
+    },
+    {
+      "id": "1385488525809418299",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1387461008922116206",
+      "name": "Box crafters"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386528814754037953",
+      "name": "area_render.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386528814389137518/1386528814754037953/area_render.png?ex=685a0915&is=6858b795&hm=6e2ccc352364081c3adeff8cdde736fb8c6884574cc91b26d3278585efd0087a&",
+      "description": "Sent by andrews54757 at 6/22/2025, 10:10:29 PM",
+      "canDownload": true,
+      "width": 604,
+      "height": 800,
+      "path": "images/area_render.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386528815169146930",
+      "name": "AC001_box_crafter_by_Mangelious_0awa_viommm_acaciachan.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386528814389137518/1386528815169146930/box_crafter_by_Mangelious_0awa_viommm_acaciachan.litematic?ex=685a0915&is=6858b795&hm=1462945b3250c470a2dd74623c027f7f9a943907e12a6f23a4562b869f2f8416&",
+      "description": "Sent by andrews54757 at 6/22/2025, 10:10:29 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "3x6x5",
+        "version": "1.20.4"
+      },
+      "path": "attachments/AC001_box_crafter_by_Mangelious_0awa_viommm_acaciachan.litematic"
+    },
+    {
+      "id": "1386529889443778720",
+      "name": "AC001_Colored_Box_Crafter.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386528814389137518/1386529889443778720/Colored_Box_Crafter.litematic?ex=685a0a16&is=6858b896&hm=0689ebfe1947501eab82bf9948de850caa84b6f29819e3ea1a667e0456f31e40&",
+      "description": "Sent by andrews54757 at 6/22/2025, 10:14:46 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "3x6x5",
+        "version": "1.21"
+      },
+      "path": "attachments/AC001_Colored_Box_Crafter.litematic"
+    },
+    {
+      "id": "1386529889817202798",
+      "name": "AC001_Colored_Box_Crafter_raw_dye_input.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386528814389137518/1386529889817202798/Colored_Box_Crafter_raw_dye_input.litematic?ex=685a0a16&is=6858b896&hm=d5fa20d63eec686229eaf614dfa9f0fc4680399a32789cc02db8be3e313aa67c&",
+      "description": "Sent by andrews54757 at 6/22/2025, 10:14:46 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "3x6x5",
+        "version": "1.21"
+      },
+      "path": "attachments/AC001_Colored_Box_Crafter_raw_dye_input.litematic"
+    }
+  ],
+  "records": {
+    "description": "Crafts empty boxes from wood logs and shulker shells at 16gt speed.",
+    "features": [
+      "Built-in box unloader: Input boxes of logs and shells.",
+      "Colored box variants included made by EthanMik. [Setup Video](https://youtu.be/llxf7ab16gw)"
+    ],
+    "considerations": [],
+    "notes": "Recommended startup process:\n1. After build complete, remove the two hoppers under the box, then place the material box.\n2. Take 8 logs from the box and make them into 4 chests, put into the 'final crafter(box crafter)'.\n3. Place hopper under the box, then put item into the detected hopper and take out, then ready.\n\nThe consumption of the two raw materials is 1:1. The observer under the comparator is to increase the crafting cycle from 15t to 16t. DO NOT power the noteblock to shutdown, please lock or cut the output hopper to shutdown."
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "gt",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Unloader",
+      "id": "1454754824758493380",
+      "url": "https://discord.com/channels/1375556143186837695/1454754824758493380/1454754825345433803",
+      "matches": [
+        "unloader"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "forumId": "1375570772348764392",
+    "threadId": "1388318423427059806",
+    "continuingMessageIds": [
+      "1388318426329514064"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388318423427059806",
+    "attachmentMessageId": "1388179428416159804",
+    "uploadMessageId": "1388179419465515108"
+  },
+  "archivedAt": 1751161631055,
+  "updatedAt": 1751161631055
+}

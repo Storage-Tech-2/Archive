@@ -1,0 +1,144 @@
+{
+  "id": "1386945318175899690",
+  "name": "Small minimal piston box display",
+  "code": "BD005",
+  "reservedCodes": [
+    "BD005"
+  ],
+  "pastPostThreadIds": [
+    "1388317258144546846"
+  ],
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "691013721136431209",
+      "username": "deleted_user_bd597d43e5cf",
+      "iconURL": "https://cdn.discordapp.com/embed/avatars/3.png"
+    },
+    {
+      "type": "discord-external",
+      "id": "246692679507771393",
+      "username": "monochrome_sauce",
+      "iconURL": "https://cdn.discordapp.com/avatars/246692679507771393/88bf03799c9c93456f83b0965b332378.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488478745137341",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789101374046273",
+      "name": "Recommended"
+    },
+    {
+      "id": "1386201743825567905",
+      "name": "Auto Replacement"
+    },
+    {
+      "id": "1386125210507542578",
+      "name": "Reliable Collection"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386945318645534781",
+      "name": "2021-12-31_16.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386945318175899690/1386945318645534781/2021-12-31_16.png?ex=685b8cfc&is=685a3b7c&hm=945fe700ef45ff2cf7b766b4d5b2d6bf8698cdda82f5d8ff8f5fc822c0ec9250&",
+      "description": "Sent by andrews54757 at 6/24/2025, 1:45:32 AM",
+      "canDownload": true,
+      "width": 697,
+      "height": 800,
+      "path": "images/2021-12-31_16.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386945318913839124",
+      "name": "BD005_ken_small_minimal_piston_box_display_1171.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386945318175899690/1386945318913839124/ken_small_minimal_piston_box_display_1.17.1.litematic?ex=685b8cfc&is=685a3b7c&hm=da2670162d6b51a8563dd84684d4019b6684efa716b332693a7895d36474ff1d&",
+      "description": "Sent by andrews54757 at 6/24/2025, 1:45:32 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "5x7x1",
+        "version": "1.17.1"
+      },
+      "path": "attachments/BD005_ken_small_minimal_piston_box_display_1171.litematic"
+    }
+  ],
+  "records": {
+    "description": "Simple bottom box display with minimal pistons and reliable wiring.",
+    "features": [
+      "Fully hopper-locked",
+      "Uses the minimal number of pistons for this layout",
+      "Smallest display with this layout that I know of",
+      "Fully independent slices",
+      "Adjacent slices can be triggered at weird intervals and will not break",
+      "No breakable togglestates"
+    ],
+    "considerations": [],
+    "notes": ""
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Display",
+      "id": "1454753497638506689",
+      "url": "https://discord.com/channels/1375556143186837695/1454753497638506689/1454753498494144522",
+      "matches": [
+        "box display"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "hopper-locked",
+      "id": "1454753660625227895",
+      "url": "https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422",
+      "matches": [
+        "hopper-locked"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Togglestate",
+      "id": "1454754804252282910",
+      "url": "https://discord.com/channels/1375556143186837695/1454754804252282910/1454754804881428533",
+      "matches": [
+        "togglestate"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "forumId": "1375561551188328531",
+    "threadId": "1388317258144546846",
+    "continuingMessageIds": [
+      "1388317261621756033"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388317258144546846",
+    "attachmentMessageId": "1388178183777550428",
+    "uploadMessageId": "1388178173996568586"
+  },
+  "archivedAt": 1750744033654,
+  "updatedAt": 1750744033654
+}

@@ -1,0 +1,108 @@
+{
+  "id": "1386195800874549389",
+  "name": "Compact 2 Item Checker",
+  "code": "OBP001",
+  "reservedCodes": [
+    "OBP001"
+  ],
+  "pastPostThreadIds": [
+    "1388317479805259918"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "name": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp",
+      "username": "andrews54757"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488485732843597",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386195801382064289",
+      "name": "area_render_415_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386195800874549389/1386195801382064289/area_render_415_.png?ex=6858d2f1&is=68578171&hm=7c30e70ee2bb48e53f33cd17deee56d424a0069da6ee671c35aa067e37d27698&",
+      "description": "Sent by andrews54757 at 6/22/2025, 12:07:13 AM",
+      "canDownload": true,
+      "width": 714,
+      "height": 800,
+      "path": "images/area_render_415_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386195802002554910",
+      "name": "OBP001_ge2item_box_filter.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386195800874549389/1386195802002554910/ge2item_box_filter.litematic?ex=6858d2f1&is=68578171&hm=10a65cfae58969a9669e4d8aefeec3b601d44d015f1661db56fda228f46cecb4&",
+      "description": "Sent by andrews54757 at 6/22/2025, 12:07:13 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "4x5x5",
+        "version": "1.16.5"
+      },
+      "path": "attachments/OBP001_ge2item_box_filter.litematic"
+    }
+  ],
+  "records": {
+    "description": "Device filters shulker boxes with at least 2 stackable items of the same type. Useful for set-based processing where an extra item is needed to configure an item set.",
+    "features": [
+      "1 box every 36gt throughput",
+      "Small size (4x5x5)",
+      "Works with random input",
+      "Can be fully hopperlocked"
+    ],
+    "considerations": [],
+    "notes": "isBoxEmpty and isItemUnstackable signal outputs for additional processing (box routing is left to the discretion of the user)"
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "gt",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperlocked",
+      "id": "1454753660625227895",
+      "url": "https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422",
+      "matches": [
+        "hopperlocked"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "forumId": "1375562461276672042",
+    "threadId": "1388317479805259918",
+    "continuingMessageIds": [
+      "1388317483273949205"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388317479805259918",
+    "attachmentMessageId": "1388178457565069425",
+    "uploadMessageId": "1388178447817244776"
+  },
+  "archivedAt": 1751997391729,
+  "updatedAt": 1751997391729
+}

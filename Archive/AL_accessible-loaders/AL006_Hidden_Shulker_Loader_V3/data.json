@@ -1,0 +1,127 @@
+{
+  "id": "1452998276239462410",
+  "name": "Hidden Shulker Loader V3",
+  "code": "AL006",
+  "reservedCodes": [
+    "AL006"
+  ],
+  "pastPostThreadIds": [
+    "1454796725813379196"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1202027269338697788",
+      "displayName": "0wUCat",
+      "username": "0wucat_73519",
+      "iconURL": "https://cdn.discordapp.com/embed/avatars/1.png"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488464648208442",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1452998276876865537",
+      "name": "area_render_35_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1452998276239462410/1452998276876865537/area_render_35_.png?ex=694bd998&is=694a8818&hm=58b36254e80074fb6fb39f6d507078459450cf059efb59b4fe52ac341ac1327d&",
+      "description": "Sent by 0wucat_73519 at 12/23/2025, 7:16:24 AM",
+      "canDownload": true,
+      "width": 494,
+      "height": 567,
+      "path": "images/area_render_35_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1452998276378005514",
+      "name": "AL006_Hidden_Loader_V3.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1452998276239462410/1452998276378005514/Hidden_Loader_V3.litematic?ex=694bd998&is=694a8818&hm=30a54b51f50be3627ced730ee30e21eb5803cb57b9cbe008e178fff143436fac&",
+      "description": "Sent by 0wucat_73519 at 12/23/2025, 7:16:24 AM",
+      "canDownload": true,
+      "path": "attachments/AL006_Hidden_Loader_V3.litematic",
+      "litematic": {
+        "size": "7x10x7",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "V3 of a device that 0 ticks a composter for box breaking and collection. Better animation speed and compatibility with compostables.",
+    "features": [
+      "Reliable (0 tick composter)",
+      "Better animation speed",
+      "Works with compostables"
+    ],
+    "considerations": [
+      "Global Clock",
+      "1x speed input , 2x speed input if you put a redstone block next to comparator (buffers 9 stacks)"
+    ],
+    "compatibility": "Not specified"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "0 tick",
+      "id": "1454804845960757319",
+      "url": "https://discord.com/channels/1375556143186837695/1454804845960757319/1454804847290220666",
+      "matches": [
+        "0 tick"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Global",
+      "id": "1454753648574992557",
+      "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
+      "matches": [
+        "Global"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "1x",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "1x"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "2x",
+      "id": "1454753562033651876",
+      "url": "https://discord.com/channels/1375556143186837695/1454753562033651876/1454753563258519584",
+      "matches": [
+        "2x"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1454796725813379196",
+    "forumId": "1375557143201316934",
+    "continuingMessageIds": [
+      "1454796730762661898"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1454796725813379196",
+    "uploadMessageId": "1454796723439272069"
+  },
+  "archivedAt": 1766920966152,
+  "updatedAt": 1766920966152
+}

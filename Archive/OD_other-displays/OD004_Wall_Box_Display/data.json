@@ -1,0 +1,119 @@
+{
+  "id": "1402509058203848854",
+  "name": "Wall Box Display",
+  "code": "OD004",
+  "reservedCodes": [
+    "OD004"
+  ],
+  "pastPostThreadIds": [
+    "1402510871988670574"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1068798858676686848",
+      "displayName": "77777777777777777777",
+      "username": "777777777777777777774832",
+      "iconURL": "https://cdn.discordapp.com/avatars/1068798858676686848/9c8fd7932d9c0072be4f3d559abe76b8.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "1207492489880277073",
+      "displayName": "vincent",
+      "username": "tacren_66869",
+      "iconURL": "https://cdn.discordapp.com/embed/avatars/5.png"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488480968118300",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1386201827846127667",
+      "name": "Reliable Collection"
+    },
+    {
+      "id": "1386201854257532949",
+      "name": "Auto Replacement"
+    }
+  ],
+  "images": [
+    {
+      "id": "1402509059105493023",
+      "name": "area_render_187_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1402509058203848854/1402509059105493023/area_render_187_.png?ex=68942bd9&is=6892da59&hm=21c937a5083a4980fb5a9db45e1c06adcdc24953757d4b83f4a32455d9532194&",
+      "description": "Sent by 777777777777777777774832 at 8/6/2025, 12:30:16 AM",
+      "canDownload": true,
+      "width": 800,
+      "height": 562,
+      "path": "images/area_render_187_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1402509921152405689",
+      "name": "OD004_0t_Composter_Wall_Box_Display.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1402509058203848854/1402509921152405689/0t_Composter_Wall_Box_Display.litematic?ex=68942ca6&is=6892db26&hm=293db2008a96336d4e04f5e28f1cb9004b590d49aa8388be5ea7d5f389994c12&",
+      "description": "Sent by 777777777777777777774832 at 8/6/2025, 12:33:42 AM",
+      "canDownload": true,
+      "path": "attachments/OD004_0t_Composter_Wall_Box_Display.litematic",
+      "litematic": {
+        "size": "1x12x16",
+        "version": "1.21"
+      }
+    }
+  ],
+  "records": {
+    "description": "Wall box display for restock stations.",
+    "features": [
+      "Using 0-tick composters, empty boxes are 100% collectable.",
+      "Tapping the note block completes the first placement."
+    ],
+    "considerations": [],
+    "notes": "Two versions: the smaller one buffers an empty box and requires 1.19+ for lossless collection, while the larger one has no empty box buffer."
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Display",
+      "id": "1454753497638506689",
+      "url": "https://discord.com/channels/1375556143186837695/1454753497638506689/1454753498494144522",
+      "matches": [
+        "box display"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "0-tick",
+      "id": "1454804845960757319",
+      "url": "https://discord.com/channels/1375556143186837695/1454804845960757319/1454804847290220666",
+      "matches": [
+        "0-tick"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1402510871988670574",
+    "forumId": "1375561629378416740",
+    "continuingMessageIds": [
+      "1402510874408648894"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1402510871988670574",
+    "uploadMessageId": "1402510868889210952"
+  },
+  "archivedAt": 1754455048350,
+  "updatedAt": 1754455048350
+}

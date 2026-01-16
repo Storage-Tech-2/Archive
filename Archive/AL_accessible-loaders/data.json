@@ -1,0 +1,35 @@
+{
+  "id": "1375557143201316934",
+  "name": "accessible-loaders",
+  "code": "AL",
+  "category": "Box Loaders & Unloaders",
+  "description": "Box loaders where you can access the box it's loading",
+  "currentCodeId": 6,
+  "entries": [
+    {
+      "id": "1386250599326285874",
+      "code": "AL001",
+      "path": "AL001_Bottom-Accessible_Shulker_Loader"
+    },
+    {
+      "id": "1387255160815751319",
+      "code": "AL002",
+      "path": "AL002_Small_1x_Accessible_Box_Loader_with_2x_version"
+    },
+    {
+      "id": "1388040613894684772",
+      "code": "AL003",
+      "path": "AL003_5_Thin_Composter_Accessible_Loader"
+    },
+    {
+      "id": "1396045650940137532",
+      "code": "AL005",
+      "path": "AL005_Simple_1x_Accessible_Box_Loader"
+    },
+    {
+      "id": "1452998276239462410",
+      "code": "AL006",
+      "path": "AL006_Hidden_Shulker_Loader_V3"
+    }
+  ]
+}

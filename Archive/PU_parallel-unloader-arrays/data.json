@@ -1,0 +1,30 @@
+{
+  "id": "1375569870577467412",
+  "name": "parallel-unloader-arrays",
+  "code": "PU",
+  "category": "Advanced Tech",
+  "description": "Parallel unloading arrays",
+  "currentCodeId": 5,
+  "entries": [
+    {
+      "id": "1386458979843969024",
+      "code": "PU001",
+      "path": "PU001_Simple_parallel_unloader"
+    },
+    {
+      "id": "1386940100428173372",
+      "code": "PU003",
+      "path": "PU003_Cart_Based_Parallelizer"
+    },
+    {
+      "id": "1406046528803573821",
+      "code": "PU004",
+      "path": "PU004_Simple_5x_Parallel_Unloader_Using_Carts"
+    },
+    {
+      "id": "1450293920683655338",
+      "code": "PU005",
+      "path": "PU005_1.17_Set_Based_Parallel_Unloader_Array_3.1d"
+    }
+  ]
+}

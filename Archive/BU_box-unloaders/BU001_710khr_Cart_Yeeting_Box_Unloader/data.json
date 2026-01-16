@@ -1,0 +1,133 @@
+{
+  "id": "1386246487452942437",
+  "name": "710k/hr Cart Yeeting Box Unloader",
+  "code": "BU001",
+  "reservedCodes": [
+    "BU001"
+  ],
+  "pastPostThreadIds": [
+    "1389338141583741085"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "688456529338433611",
+      "displayName": "Christone",
+      "username": "glidingmonkey",
+      "iconURL": "https://cdn.discordapp.com/avatars/688456529338433611/348a34add443a5a71237111010e484b1.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "319513337941721089",
+      "username": "inspectortalon",
+      "iconURL": "https://cdn.discordapp.com/avatars/319513337941721089/edec0da88a70e9697b6b43b4a2d740e3.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "531601171211878431",
+      "username": "rapscallion1138",
+      "iconURL": "https://cdn.discordapp.com/avatars/531601171211878431/8db107ef61024878a05baab3a798d7d5.webp",
+      "displayName": "RaPsCaLLioN1138"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "551464150925180928",
+      "username": "_javierrubik33",
+      "iconURL": "https://cdn.discordapp.com/avatars/551464150925180928/6348ffe8aa6bb90856447c503288827b.webp",
+      "displayName": "javierrubik33"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488474148438035",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1386248660974567445",
+      "name": "Cart Yeet"
+    }
+  ],
+  "images": [
+    {
+      "id": "1389317802913169418",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386246487452942437/1389317802913169418/image.png?ex=68642e88&is=6862dd08&hm=6037e3c6d1eb2406fc89d8f0db6eaada2eb3a583f24e864141127508c1ac9cad&",
+      "description": "Sent by glidingmonkey at 6/30/2025, 2:52:56 PM",
+      "canDownload": true,
+      "width": 600,
+      "height": 800,
+      "path": "images/image.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1389338042975653889",
+      "name": "BU001_Stacked_Cart_Box_Unloader_Updated.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386246487452942437/1389338042975653889/Stacked_Cart_Box_Unloader_Updated.litematic?ex=68644162&is=6862efe2&hm=638ddb61d630672ea1ef464ecda95e5d595a8494b94a1685ecc5a479d4b0cd9f&",
+      "description": "Sent by andrews54757 at 6/30/2025, 4:13:22 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "3x10x8",
+        "version": "1.19"
+      },
+      "path": "attachments/BU001_Stacked_Cart_Box_Unloader_Updated.litematic"
+    }
+  ],
+  "records": {
+    "description": "Stacks hopper-minecarts below the box to quickly unload it. Provides an alternative to box yeeting that doesn't destroy the box.",
+    "features": [
+      "Unloads boxes very fast (Average: 710k items/hr, Max: 1.2mil items/hr)",
+      "Handles empty boxes",
+      "Unloaded boxes are preserved and sent to their own output",
+      "Size: 8x11x3"
+    ],
+    "considerations": [
+      "It's big (smaller version exists for only slightly slower speeds: https://discord.com/channels/1375556143186837695/1389355709119856772/1389355709119856772)"
+    ],
+    "notes": ""
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "box yeet",
+      "id": "1455677927902413046",
+      "url": "https://discord.com/channels/1375556143186837695/1455677927902413046/1455677929198456985",
+      "matches": [
+        "box yeet"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/1375556143186837695/1389355709119856772/1389355709119856772",
+      "server": "1375556143186837695",
+      "channel": "1389355709119856772",
+      "message": "1389355709119856772",
+      "matches": [
+        "https://discord.com/channels/1375556143186837695/1389355709119856772/1389355709119856772"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1389338141583741085",
+    "forumId": "1375560446676963450",
+    "continuingMessageIds": [
+      "1389338144926601366"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1389338141583741085",
+    "uploadMessageId": "1389338139062960309"
+  },
+  "archivedAt": 1766904276561,
+  "updatedAt": 1751351873280
+}

@@ -1,0 +1,215 @@
+{
+  "id": "1386555107084210176",
+  "name": "Simple Cart-based MIS Storage (Scorpio MIS)",
+  "code": "MIS003",
+  "reservedCodes": [
+    "MIS003"
+  ],
+  "pastPostThreadIds": [
+    "1390326056405434429"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "displayName": "Scorpio",
+      "username": "scorpio03",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488504204562639",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1379027871531532389",
+      "name": "area_render_26_.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1315522702492172300/1379027871531532389/area_render_26_.png",
+      "description": "[DiscordCDN] Sent by scorpio03 at 7/2/2025, 11:44:00 PM",
+      "canDownload": true,
+      "path": "images/area_render_26_.png"
+    },
+    {
+      "id": "1390325206727262248",
+      "name": "area_render_8_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386555107084210176/1390325206727262248/area_render_8_.png?ex=6867d8c0&is=68668740&hm=e21649e63aebd7949859820f9ff0cdef18784ade713ac790bb3fc1e60fd0345e&",
+      "description": "Sent by scorpio03 at 7/3/2025, 9:36:00 AM",
+      "canDownload": true,
+      "width": 752,
+      "height": 800,
+      "path": "images/area_render_8_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "5ajiire4a6cs5",
+      "name": "MIS003_ScorpioMIS.url",
+      "contentType": "mediafire",
+      "url": "https://www.mediafire.com/folder/5ajiire4a6cs5/Scorpio+MIS",
+      "description": "[MediaFire] Sent by scorpio03 at 6/23/2025, 12:01:12 AM",
+      "canDownload": false,
+      "path": "attachments/MIS003_ScorpioMIS.url"
+    }
+  ],
+  "records": {
+    "description": "A simple and cheap early game storage system using hopper minecart multi-item sorter (MIS). This design has minimal waterlogged blocks and cursed rail placements",
+    "features": [
+      "Cheap and easy to build, optimized for build simplicity",
+      "Has every items prefilled in whitelister chests for reference",
+      "Somewhat decent speed (2.4x hopper speed at max) compared to other early game storage systems like https://discord.com/channels/1161803566265143306/1378802569585098823",
+      "Hopper cart sucks 4 shears and 15 items every 50gt (which makes it handle both 16 and 64 stackable items)",
+      "Has both loose item input and a box unloader for box input"
+    ],
+    "considerations": [
+      "Not hopper locked",
+      "No unstackable sorting",
+      "No bulk storage",
+      "Slower than designs like https://discord.com/channels/1161803566265143306/1382996113191206932"
+    ],
+    "notes": "The base and accessible version does not have a box loader for overflow items, if the unsorted chests are full then the overflow items will despawn. You can add the mixed box loader attached in the decorated version in that case.",
+    "instructions": [
+      "Input loose items into the shulker box",
+      "Input shulker boxes (empty or not) into the double chest"
+    ],
+    "instructions:build": "- When building the storage, make sure to chunk align so that the storage is within the 3x3 loading range of the chunk loader.\n- Glow lichen can be replaced with sign\n- Make sure to only fill the cart dispenser with 8 hopper minecarts, refer to schematic\n- Make sure to RENAME the blocker items (e.g. the iron nuggets except the actual filter item)\n- It is recommended to temporarily fill all the whitelister chest filter slots with blocker items (renamed iron nuggets). Once you acquire the actual filter items, to replace the placeholders. For a visual guide, refer to the demonstration at [this timestamp](<https://youtu.be/oU5EjKhhbnk?si=XwvpGQnIHJRrBjRf&t=76>)"
+  },
+  "styles": {
+    "instructions:build": {
+      "depth": 3,
+      "headerText": "Build"
+    }
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "MIS",
+      "id": "1454753725091676293",
+      "url": "https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954",
+      "matches": [
+        "MIS"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopper speed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopper speed"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/1161803566265143306/1378802569585098823",
+      "server": "1161803566265143306",
+      "channel": "1378802569585098823",
+      "matches": [
+        "https://discord.com/channels/1161803566265143306/1378802569585098823"
+      ],
+      "serverName": "TMC Catalogue",
+      "serverJoinURL": "https://discord.com/invite/tvpccRczWx"
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "gt",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Unloader",
+      "id": "1454754824758493380",
+      "url": "https://discord.com/channels/1375556143186837695/1454754824758493380/1454754825345433803",
+      "matches": [
+        "unloader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Bulk Storage",
+      "id": "1454753523668484213",
+      "url": "https://discord.com/channels/1375556143186837695/1454753523668484213/1454753524637499577",
+      "matches": [
+        "bulk storage"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/1161803566265143306/1382996113191206932",
+      "server": "1161803566265143306",
+      "channel": "1382996113191206932",
+      "matches": [
+        "https://discord.com/channels/1161803566265143306/1382996113191206932"
+      ],
+      "serverName": "TMC Catalogue",
+      "serverJoinURL": "https://discord.com/invite/tvpccRczWx"
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Mixed Box",
+      "id": "1454753707530129576",
+      "url": "https://discord.com/channels/1375556143186837695/1454753707530129576/1454753708247089184",
+      "matches": [
+        "mixed box"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Chunk loader",
+      "id": "1457055322647695542",
+      "url": "https://discord.com/channels/1375556143186837695/1457055322647695542/1457055324426080287",
+      "matches": [
+        "chunk loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Schematic",
+      "id": "1454811558009110704",
+      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
+      "matches": [
+        "schematic"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1390326056405434429",
+    "forumId": "1375566804910604349",
+    "continuingMessageIds": [
+      "1390326060729634856",
+      "1390326061295861902",
+      "1455359040182816982"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1390326056405434429",
+    "uploadMessageId": "1388179019459199086"
+  },
+  "archivedAt": 1766902323684,
+  "updatedAt": 1767121835374
+}

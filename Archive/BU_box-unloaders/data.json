@@ -1,0 +1,60 @@
+{
+  "id": "1375560446676963450",
+  "name": "box-unloaders",
+  "code": "BU",
+  "category": "Box Loaders & Unloaders",
+  "description": "Box unloaders",
+  "currentCodeId": 11,
+  "entries": [
+    {
+      "id": "1386456499231916093",
+      "code": "BU002",
+      "path": "BU002_1wt_2x_Unloader"
+    },
+    {
+      "id": "1386479322843320361",
+      "code": "BU003",
+      "path": "BU003_Small_1x_Box_Unloader"
+    },
+    {
+      "id": "1386553835446603825",
+      "code": "BU004",
+      "path": "BU004_Minimum_Piston_Slice_Preserving_Box_Unloader"
+    },
+    {
+      "id": "1386937530808537098",
+      "code": "BU005",
+      "path": "BU005_Hopperspeed_Box_Yeeter"
+    },
+    {
+      "id": "1387180395883397291",
+      "code": "BU006",
+      "path": "BU006_Simple_1x_Shulker_Box_Unloader"
+    },
+    {
+      "id": "1388031532282937445",
+      "code": "BU007",
+      "path": "BU007_Tiny_1x_Box_Unloader"
+    },
+    {
+      "id": "1386246487452942437",
+      "code": "BU001",
+      "path": "BU001_710khr_Cart_Yeeting_Box_Unloader"
+    },
+    {
+      "id": "1389350108801400832",
+      "code": "BU008",
+      "path": "BU008_Compact_Cart_Yeeting_Box_Unloader"
+    },
+    {
+      "id": "1399539219826999418",
+      "code": "BU010",
+      "path": "BU010_1wt_Full-Featured_Box_Unloader"
+    },
+    {
+      "id": "1451103879298285712",
+      "code": "BU011",
+      "path": "BU011_Stream_Box_Yeeter"
+    }
+  ]
+}

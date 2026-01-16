@@ -1,0 +1,133 @@
+{
+  "id": "1431352584203014316",
+  "name": "1wABt 8 item 1dc SSI Chest Hal",
+  "code": "CH008",
+  "reservedCodes": [
+    "CH008"
+  ],
+  "pastPostThreadIds": [
+    "1432024834774139080"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "378510281250439168",
+      "displayName": "Jezlarm",
+      "username": "jezlarm",
+      "iconURL": "https://cdn.discordapp.com/avatars/378510281250439168/83fd82308531c18c3ea7f429a2f6a865.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1386099807206244543",
+      "name": "8 Chests"
+    },
+    {
+      "id": "1386699846542692493",
+      "name": "SS2"
+    },
+    {
+      "id": "1385488483170386069",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1432020726830862408",
+      "name": "3wABt_8_item_chest_hall.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1431352584203014316/1432020726830862408/3wABt_8_item_chest_hall.png?ex=68ff88ba&is=68fe373a&hm=374939a39be3fbb047c384fd8da12a08c4bec3f5c689cad7897f108422c0a99e&",
+      "description": "Sent by jezlarm at 10/26/2025, 10:59:07 AM",
+      "canDownload": true,
+      "width": 800,
+      "height": 520,
+      "path": "images/3wABt_8_item_chest_hall.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1431352585154990324",
+      "name": "CH008_8_Items_Chest_Hall_by_Jezlarm.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1431352584203014316/1431352585154990324/8_Items_Chest_Hall_by_Jezlarm.litematic?ex=68fd1a79&is=68fbc8f9&hm=89cbf77090413ee203123bf25dd627ef179afd80229c1cb76dc019e0b56d3a2f&",
+      "description": "Sent by jezlarm at 10/24/2025, 2:44:09 PM",
+      "canDownload": true,
+      "path": "attachments/CH008_8_Items_Chest_Hall_by_Jezlarm.litematic",
+      "litematic": {
+        "size": "5x19x29",
+        "version": "1.17.1"
+      }
+    }
+  ],
+  "records": {
+    "description": "SSI SS2 Filters",
+    "features": [
+      "SSI SS2 Filters, all no more than 8 gt",
+      "28 hoppers | 100% locked, even when filters are overflowing",
+      "Good UI",
+      "All the display blocks can be solid",
+      "Every filter hopper is accessible"
+    ],
+    "considerations": [],
+    "notes": ""
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "SSI",
+      "id": "1455820021581217843",
+      "url": "https://discord.com/channels/1375556143186837695/1455820021581217843/1455820022256500874",
+      "matches": [
+        "SSI"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "ss",
+      "id": "1454754774833696893",
+      "url": "https://discord.com/channels/1375556143186837695/1454754774833696893/1454754775542267957",
+      "matches": [
+        "SS"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "gt",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "UI",
+      "id": "1454754844316274861",
+      "url": "https://discord.com/channels/1375556143186837695/1454754844316274861/1454754845033627671",
+      "matches": [
+        "UI"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1432024834774139080",
+    "forumId": "1375561810392125510",
+    "continuingMessageIds": [
+      "1432024837311697113"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1432024834774139080",
+    "uploadMessageId": "1432024832157028484"
+  },
+  "archivedAt": 1761491725510,
+  "updatedAt": 1761491725510
+}

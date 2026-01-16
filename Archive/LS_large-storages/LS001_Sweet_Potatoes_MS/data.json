@@ -1,0 +1,412 @@
+{
+  "id": "1389156295520682004",
+  "name": "Sweet Potatoes MS",
+  "code": "LS001",
+  "reservedCodes": [
+    "LS001"
+  ],
+  "pastPostThreadIds": [
+    "1389244896870797333"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "568329498072842240",
+      "displayName": "womp",
+      "username": "compactsmg",
+      "iconURL": "https://cdn.discordapp.com/embed/avatars/0.png"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "831969094797361193",
+      "username": "valblaze",
+      "displayName": "ValBlaze",
+      "iconURL": "https://cdn.discordapp.com/avatars/831969094797361193/a25d7d10ee9e988720bc3eefe02eeaf7.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488508155723782",
+      "name": "Broken"
+    }
+  ],
+  "images": [
+    {
+      "id": "1389156296967852053",
+      "name": "area_render_3_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1389156295520682004/1389156296967852053/area_render_3_.png?ex=6863981e&is=6862469e&hm=1e9f13949a39ffc06711bb4eda06add9d144789aa62e10d0f58079bdcfbadcd7&",
+      "description": "Sent by compactsmg at 6/30/2025, 4:11:10 AM",
+      "canDownload": true,
+      "width": 784,
+      "height": 800,
+      "path": "images/area_render_3_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "vrackqnk2jjkt",
+      "name": "LS001_Sweet_Potatoes.url",
+      "contentType": "mediafire",
+      "url": "https://www.mediafire.com/folder/vrackqnk2jjkt/Sweet_Potatoes",
+      "description": "[MediaFire] Sent by compactsmg at 7/16/2025, 11:39:44 PM",
+      "canDownload": false,
+      "path": "attachments/LS001_Sweet_Potatoes.url"
+    },
+    {
+      "id": "1389156354161381507",
+      "name": "LS001_Sweet_Potatoes_Nether_Side.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1389156295520682004/1389156354161381507/Sweet_Potatoes_Nether_Side.litematic?ex=687aaa6c&is=687958ec&hm=a5b788f68cfd529ea69eb40e04e881db33447f694cde5277bcc8c062a820f758&",
+      "description": "Sent by compactsmg at 6/30/2025, 4:11:24 AM",
+      "canDownload": true,
+      "path": "attachments/LS001_Sweet_Potatoes_Nether_Side.litematic",
+      "litematic": {
+        "size": "18x6x14",
+        "version": "1.21.1"
+      }
+    },
+    {
+      "id": "1395660548544397402",
+      "name": "LS001_Sweet_Potatoes.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1389156295520682004/1395660548544397402/Sweet_Potatoes.litematic?ex=687b41ac&is=6879f02c&hm=86f62adb3f1b2f510c20086b0e413d547630423429f030aaf90310b9871a6dae&",
+      "description": "Sent by compactsmg at 7/18/2025, 2:56:44 AM",
+      "canDownload": true,
+      "path": "attachments/LS001_Sweet_Potatoes.litematic",
+      "litematic": {
+        "size": "144x85x128",
+        "version": "1.21.5"
+      }
+    }
+  ],
+  "records": {
+    "description": "A fairly large storage system that utilizes a parallel unloading array allowing the system to unload at a max of 8x hopper speed.",
+    "features": [
+      "~90% Hopperlocked",
+      "Has various peripherals: restock stations, furnace array, crafting station, and yeeting station, masscrafter, brewer, and unstackable sorter",
+      "Has a concrete duper in the middle of the storage (This was requested, can easily be omitted in the building process)",
+      "Has a big bulk with capacity for ~1.3m / item.",
+      "Has 1 DC capacity chest halls with SS2 filters.",
+      "Uses MIS 5.1"
+    ],
+    "considerations": [
+      "This system requires you to have Carpet's `stackableShulkerBoxes` rule enabled and subsequently Kikugie's StackableShulkerFix."
+    ],
+    "notes": "Tested for ~400k items without issues",
+    "sourced components": [
+      "Chest Hall: https://discord.com/channels/1375556143186837695/1388317417385758770",
+      "Bulk: [PyraLeft's new bulk](https://discord.com/channels/614934109751345153/731632393315942531/1327412377406148628)",
+      "Parallel Unloading Array: https://discord.com/channels/748542142347083868/1241919346477891684",
+      "6x Full Clearance Loader: https://discord.com/channels/1375556143186837695/1388316771832041482",
+      "Chunkloader: https://discord.com/channels/748542142347083868/748547221338849330/1127706483723882537",
+      "Stacked Box Storage: https://discord.com/channels/748542142347083868/1182473535566921788/1182476705714147348",
+      "Colored Box Crafter: https://discord.com/channels/1375556143186837695/1388318423427059806",
+      "1x Loader: https://discord.com/channels/1375556143186837695/1388316649903624192",
+      "MIS: https://discord.com/channels/748542142347083868/1114672908065837148/1119002430688997386",
+      "Unstackable Sorter: https://discord.com/channels/748542142347083868/1286267762360188958/1286268041662824471",
+      "Buffer Box Display: https://discord.com/channels/748542142347083868/1120296660543746138/1187751207108882563",
+      "Brewer: [MineBrew](https://discord.com/channels/614934109751345153/1299123456239206461)",
+      "Furnace Array: https://discord.com/channels/1375556143186837695/1388318507229249557",
+      "Crafting Station: https://discord.com/channels/748542142347083868/1112115542518673428/1188490793401458761",
+      "Yeeting Station: https://discord.com/channels/748542142347083868/1062856400092549251/1188498493535432794",
+      "Masscrafter: https://discord.com/channels/861217564130279425/1127745870763409419",
+      "Restock Station: https://discord.com/channels/1375556143186837695/1388317359298580490",
+      "Item Layout: Modified from YAMS"
+    ]
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "8x",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "8x",
+        "hopper speed",
+        "6x",
+        "1x"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperlocked",
+      "id": "1454753660625227895",
+      "url": "https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422",
+      "matches": [
+        "Hopperlocked"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Peripheral",
+      "id": "1454753771035824158",
+      "url": "https://discord.com/channels/1375556143186837695/1454753771035824158/1454753771555913873",
+      "matches": [
+        "peripheral"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Unstackable sorter",
+      "id": "1454754837379022858",
+      "url": "https://discord.com/channels/1375556143186837695/1454754837379022858/1454754839224516712",
+      "matches": [
+        "unstackable sorter",
+        "Unstackable Sorter"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Chest Hall",
+      "id": "1454753529700024331",
+      "url": "https://discord.com/channels/1375556143186837695/1454753529700024331/1454753530488426527",
+      "matches": [
+        "chest hall",
+        "Chest Hall"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "ss",
+      "id": "1454754774833696893",
+      "url": "https://discord.com/channels/1375556143186837695/1454754774833696893/1454754775542267957",
+      "matches": [
+        "SS"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "MIS",
+      "id": "1454753725091676293",
+      "url": "https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954",
+      "matches": [
+        "MIS"
+      ]
+    },
+    {
+      "type": "archivedPost",
+      "id": "1386700520944832692",
+      "code": "CH002",
+      "name": "8 Chest Hall SS2/SS3",
+      "url": "https://discord.com/channels/1375556143186837695/1388317417385758770",
+      "path": "Archive/CH_chest-halls/CH002_8_Chest_Hall_SS2SS3",
+      "matches": [
+        "https://discord.com/channels/1375556143186837695/1388317417385758770"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/614934109751345153/731632393315942531/1327412377406148628",
+      "server": "614934109751345153",
+      "channel": "731632393315942531",
+      "message": "1327412377406148628",
+      "matches": [
+        "https://discord.com/channels/614934109751345153/731632393315942531/1327412377406148628"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/1241919346477891684",
+      "server": "748542142347083868",
+      "channel": "1241919346477891684",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/1241919346477891684"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "Loader"
+      ]
+    },
+    {
+      "type": "archivedPost",
+      "id": "1386422639773352099",
+      "code": "ML002",
+      "name": "3wt Full Clearance Mixed 6x Loader",
+      "url": "https://discord.com/channels/1375556143186837695/1388316771832041482",
+      "path": "Archive/ML_mixed-loaders/ML002_3wt_Full_Clearance_Mixed_6x_Loader",
+      "matches": [
+        "https://discord.com/channels/1375556143186837695/1388316771832041482"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/748547221338849330/1127706483723882537",
+      "server": "748542142347083868",
+      "channel": "748547221338849330",
+      "message": "1127706483723882537",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/748547221338849330/1127706483723882537"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/1182473535566921788/1182476705714147348",
+      "server": "748542142347083868",
+      "channel": "1182473535566921788",
+      "message": "1182476705714147348",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/1182473535566921788/1182476705714147348"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "archivedPost",
+      "id": "1386528814389137518",
+      "code": "AC001",
+      "name": "Shulker Box Crafters",
+      "url": "https://discord.com/channels/1375556143186837695/1388318423427059806",
+      "path": "Archive/AC_autocrafting/AC001_Shulker_Box_Crafters",
+      "matches": [
+        "https://discord.com/channels/1375556143186837695/1388318423427059806"
+      ]
+    },
+    {
+      "type": "archivedPost",
+      "id": "1386840858355040346",
+      "code": "FL002",
+      "name": "1wt 1x Precision Loader",
+      "url": "https://discord.com/channels/1375556143186837695/1388316649903624192",
+      "path": "Archive/FL_filter-loaders/FL002_1wt_1x_Precision_Loader",
+      "matches": [
+        "https://discord.com/channels/1375556143186837695/1388316649903624192"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/1114672908065837148/1119002430688997386",
+      "server": "748542142347083868",
+      "channel": "1114672908065837148",
+      "message": "1119002430688997386",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/1114672908065837148/1119002430688997386"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/1286267762360188958/1286268041662824471",
+      "server": "748542142347083868",
+      "channel": "1286267762360188958",
+      "message": "1286268041662824471",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/1286267762360188958/1286268041662824471"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Display",
+      "id": "1454753497638506689",
+      "url": "https://discord.com/channels/1375556143186837695/1454753497638506689/1454753498494144522",
+      "matches": [
+        "Box Display"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/1120296660543746138/1187751207108882563",
+      "server": "748542142347083868",
+      "channel": "1120296660543746138",
+      "message": "1187751207108882563",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/1120296660543746138/1187751207108882563"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/614934109751345153/1299123456239206461",
+      "server": "614934109751345153",
+      "channel": "1299123456239206461",
+      "matches": [
+        "https://discord.com/channels/614934109751345153/1299123456239206461"
+      ]
+    },
+    {
+      "type": "archivedPost",
+      "id": "1386920320081985736",
+      "code": "SP005",
+      "name": "Entityless 50 Furnace Array",
+      "url": "https://discord.com/channels/1375556143186837695/1457542579385139310",
+      "path": "Archive/SP_peripherals/SP005_Entityless_50_Furnace_Array",
+      "matches": [
+        "https://discord.com/channels/1375556143186837695/1388318507229249557"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/1112115542518673428/1188490793401458761",
+      "server": "748542142347083868",
+      "channel": "1112115542518673428",
+      "message": "1188490793401458761",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/1112115542518673428/1188490793401458761"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/1062856400092549251/1188498493535432794",
+      "server": "748542142347083868",
+      "channel": "1062856400092549251",
+      "message": "1188498493535432794",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/1062856400092549251/1188498493535432794"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/861217564130279425/1127745870763409419",
+      "server": "861217564130279425",
+      "channel": "1127745870763409419",
+      "matches": [
+        "https://discord.com/channels/861217564130279425/1127745870763409419"
+      ]
+    },
+    {
+      "type": "archivedPost",
+      "id": "1387132949086076948",
+      "code": "OD001",
+      "name": "Default Extended Wall Box Display",
+      "url": "https://discord.com/channels/1375556143186837695/1388317359298580490",
+      "path": "Archive/OD_other-displays/OD001_Default_Extended_Wall_Box_Display",
+      "matches": [
+        "https://discord.com/channels/1375556143186837695/1388317359298580490"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1389244896870797333",
+    "forumId": "1375566903241740450",
+    "continuingMessageIds": [
+      "1389244900314185878",
+      "1389602561635385526",
+      "1454696164703338547",
+      "1459840539355779238"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1389244896870797333",
+    "uploadMessageId": "1395660913415163925"
+  },
+  "archivedAt": 1766904550994,
+  "updatedAt": 1768581462682
+}

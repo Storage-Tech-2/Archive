@@ -1,0 +1,120 @@
+{
+  "id": "1386838443102965941",
+  "name": "2x Mixed Full Speed Box Loader",
+  "code": "ML004",
+  "reservedCodes": [
+    "ML004"
+  ],
+  "pastPostThreadIds": [
+    "1388316812520722533"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "444883614761746436",
+      "displayName": "camphorwood",
+      "username": "camphorwood",
+      "iconURL": "https://cdn.discordapp.com/avatars/444883614761746436/b846c71873bcae574d1550d0d2c78d42.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1386244783525204080",
+      "name": "2X Hopperspeed"
+    },
+    {
+      "id": "1385789085947527315",
+      "name": "Recommended"
+    },
+    {
+      "id": "1385488466447695900",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1386839243879616523",
+      "name": "Fullspeed"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386838659893825546",
+      "name": "2x_Mixed_Full_Speed_Box_Loader.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386838443102965941/1386838659893825546/2x_Mixed_Full_Speed_Box_Loader.png?ex=685b29a6&is=6859d826&hm=7b624332edf8127298ebc91fde68e29f23361c67bc3933f4303b46d987a24f83&",
+      "description": "Sent by andrews54757 at 6/23/2025, 6:41:42 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 689,
+      "path": "images/2x_Mixed_Full_Speed_Box_Loader.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386838660212719720",
+      "name": "ML004_2x_Mixed_Full_Speed_Box_Loader.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386838443102965941/1386838660212719720/2x_Mixed_Full_Speed_Box_Loader.litematic?ex=685b29a6&is=6859d826&hm=c71060e116c3cdd2d7cdf6321cf3f8261712e55a57c4aa993fb4263b8d47049a&",
+      "description": "Sent by andrews54757 at 6/23/2025, 6:41:42 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "4x4x7",
+        "version": "1.14"
+      },
+      "path": "attachments/ML004_2x_Mixed_Full_Speed_Box_Loader.litematic"
+    }
+  ],
+  "records": {
+    "description": "Loads mixed items into boxes at full double hopperspeed. Meant for use in input systems to prevent the case where items can back up into the item/box checker if the input receives a constant stream of items.",
+    "features": [
+      "Loads mixed items into boxes at full double hopperspeed",
+      "Meant for use in input systems to prevent the case where items can back up into the item/box checker",
+      "Hopper for item and shulker box input not included in the schematic",
+      "Schematic includes a globally and locally clocked version"
+    ],
+    "considerations": [],
+    "notes": "Hopper for item and shulker box input not included in the schematic. Replace glass with slabs for 1.13 compatibility."
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperspeed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopperspeed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Schematic",
+      "id": "1454811558009110704",
+      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
+      "matches": [
+        "schematic",
+        "Schematic"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "forumId": "1375557473066418206",
+    "threadId": "1388316812520722533",
+    "continuingMessageIds": [
+      "1388316815955984415"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388316812520722533",
+    "attachmentMessageId": "1388177605433491636",
+    "uploadMessageId": "1388177598466756682"
+  },
+  "archivedAt": 1750718622761,
+  "updatedAt": 1750718622761
+}

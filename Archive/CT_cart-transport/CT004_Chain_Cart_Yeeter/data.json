@@ -1,0 +1,106 @@
+{
+  "id": "1455668167278989384",
+  "name": "Chain Cart Yeeter",
+  "code": "CT004",
+  "reservedCodes": [
+    "CT004"
+  ],
+  "pastPostThreadIds": [
+    "1455668591310405712"
+  ],
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "319513337941721089",
+      "username": "inspectortalon",
+      "iconURL": "https://cdn.discordapp.com/avatars/319513337941721089/edec0da88a70e9697b6b43b4a2d740e3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488491810394301",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1450268858790187239",
+      "name": "Cart Yeeting"
+    },
+    {
+      "id": "1385789116905685055",
+      "name": "Recommended"
+    },
+    {
+      "id": "1461411775953113271",
+      "name": "Experimental Updates"
+    }
+  ],
+  "images": [
+    {
+      "id": "1455668167597883538",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1455668167278989384/1455668167597883538/image.png?ex=69559020&is=69543ea0&hm=ee3fa0f439c43ad068522186501fa88706e3c306b28eba4984860678dd426bd9&",
+      "description": "Sent by andrews54757 at 12/30/2025, 4:05:36 PM",
+      "canDownload": true,
+      "width": 417,
+      "height": 517,
+      "path": "images/image.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1455668167954141215",
+      "name": "CT004_chain_cart_yeeter.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1455668167278989384/1455668167954141215/chain_cart_yeeter.litematic?ex=69559020&is=69543ea0&hm=6726fc9828f86729c27cb477291763c96d7d65354f0151cd2279744bb7eefb26&",
+      "description": "Sent by andrews54757 at 12/30/2025, 4:05:36 PM",
+      "canDownload": true,
+      "path": "attachments/CT004_chain_cart_yeeter.litematic",
+      "litematic": {
+        "size": "1x5x3",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "This cart yeeter uses a chain to align the cart. This design is compatible with the experimental cart changes.",
+    "features": [
+      "Uses a chain to align the cart",
+      "Carpet enables compatibility with experimental cart changes"
+    ],
+    "compatibility": "Compatible with experimental cart changes"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "cart yeet",
+      "id": "1455675378931728598",
+      "url": "https://discord.com/channels/1375556143186837695/1455675378931728598/1455675380160659517",
+      "matches": [
+        "cart yeet"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1455668591310405712",
+    "forumId": "1375563297230688327",
+    "continuingMessageIds": [
+      "1455668594254811170"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1455668591310405712",
+    "uploadMessageId": "1455668588739297555"
+  },
+  "archivedAt": 1767128835814,
+  "updatedAt": 1767128835814
+}

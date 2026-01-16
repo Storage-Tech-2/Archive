@@ -1,0 +1,175 @@
+{
+  "id": "1406046528803573821",
+  "name": "Simple 5x Parallel Unloader Using Carts",
+  "code": "PU004",
+  "reservedCodes": [
+    "PU004"
+  ],
+  "pastPostThreadIds": [
+    "1406048074920493137"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "660633169191632908",
+      "displayName": "Passionate Storage Techer 69",
+      "username": "etikle",
+      "iconURL": "https://cdn.discordapp.com/avatars/660633169191632908/552443236bae5d574b5b1aec2694b58f.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "displayName": "Andrews54757",
+      "username": "andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488516309450759",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1406046531408105530",
+      "name": "area_render_110_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1406046528803573821/1406046531408105530/area_render_110_.png?ex=68a10a60&is=689fb8e0&hm=93cc8d62fb30f2c5338f432eb21a5ccc729c4a0064b434082e49930cf712fd10&",
+      "description": "Sent by andrews54757 at 8/15/2025, 6:46:55 PM",
+      "canDownload": true,
+      "width": 754,
+      "height": 787,
+      "path": "images/area_render_110_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1406133700877488128",
+      "name": "PU004_simple_5x_parallel_unloader.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1406046528803573821/1406133700877488128/simple_5x_parallel_unloader.litematic?ex=68a15b8e&is=68a00a0e&hm=fbdeb0045c6b58e6b28c466afb69c8ec602b01b2ff5e1cf0111966dc1ae2daf1&",
+      "description": "Sent by andrews54757 at 8/16/2025, 12:33:19 AM",
+      "canDownload": true,
+      "path": "attachments/PU004_simple_5x_parallel_unloader.litematic",
+      "litematic": {
+        "size": "11x11x12",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A small device that takes in boxes and outputs items for filtered storage systems, ensuring no more than 1x hopperspeed per item type and capable of outputting up to 5 different item types simultaneously for up to 5x hopperspeed.",
+    "features": [
+      "Very small, only 11x11x12",
+      "4D aligned item output",
+      "Separate unstackable and empty box output"
+    ],
+    "considerations": [
+      "Slow and cannot be expanded beyond 5x hopperspeed",
+      "Does not work with SS3 filters, items are output with a max stack size of 62/14"
+    ],
+    "notes": "Built on ST2 CMP (par unloader dev waypoint). Uses a modified version of the OIP002 item entity unstack separator (https://discord.com/channels/1375556143186837695/1388317887462113373)",
+    "explanation": "This device uses hoppercarts to ensure only a full stack of a single item type is output at a time. A single hoppercart is driven beneath 5 boxes, allowing it to pick up the first item type of those boxes. Then any remaining empty slots are filled with dummy items. The cart is driven under the boxes over and over again, for 512 gt to allow all slots to be filled completely if possible. The cart is then yeeted and the output is brought to an unstackable filter which removes unstackable items and separates 2 items from the stack to be sent separately 16gt later (so item stacks have max size of 62/14 and can be filtered)."
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "1x",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "1x",
+        "hopperspeed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "4D align",
+      "id": "1454753764606083180",
+      "url": "https://discord.com/channels/1375556143186837695/1454753764606083180/1454753765365256286",
+      "matches": [
+        "4D align"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "ss",
+      "id": "1454754774833696893",
+      "url": "https://discord.com/channels/1375556143186837695/1454754774833696893/1454754775542267957",
+      "matches": [
+        "SS"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Unloader",
+      "id": "1454754824758493380",
+      "url": "https://discord.com/channels/1375556143186837695/1454754824758493380/1454754825345433803",
+      "matches": [
+        "unloader"
+      ]
+    },
+    {
+      "type": "archivedPost",
+      "id": "1386425910319644864",
+      "code": "OIP002",
+      "name": "Hopperspeed Item Entity isStackable",
+      "url": "https://discord.com/channels/1375556143186837695/1388317887462113373",
+      "path": "Archive/OIP_other-item-processors/OIP002_Hopperspeed_Item_Entity_isStackable",
+      "matches": [
+        "OIP002",
+        "https://discord.com/channels/1375556143186837695/1388317887462113373"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "item entity",
+      "id": "1456908472384884879",
+      "url": "https://discord.com/channels/1375556143186837695/1456908472384884879/1456908473844502594",
+      "matches": [
+        "item entity"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "gt",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Unstackable filter",
+      "id": "1454754830101774427",
+      "url": "https://discord.com/channels/1375556143186837695/1454754830101774427/1454754831284568139",
+      "matches": [
+        "unstackable filter"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1406048074920493137",
+    "forumId": "1375569870577467412",
+    "continuingMessageIds": [
+      "1406048079253209169",
+      "1454756180206424126"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1406048074920493137",
+    "uploadMessageId": "1406133739146186755"
+  },
+  "archivedAt": 1766904590802,
+  "updatedAt": 1755318807945
+}

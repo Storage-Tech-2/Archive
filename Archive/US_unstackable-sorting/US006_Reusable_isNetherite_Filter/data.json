@@ -1,0 +1,146 @@
+{
+  "id": "1408930228805304482",
+  "name": "Reusable isNetherite Filter",
+  "code": "US006",
+  "reservedCodes": [
+    "US006"
+  ],
+  "pastPostThreadIds": [
+    "1408933081846382602"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "995317207993159740",
+      "displayName": "Block",
+      "username": "block_on_block",
+      "iconURL": "https://cdn.discordapp.com/avatars/995317207993159740/0edb8c6c7f566d1f1c6add767e810954.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "837034403964125184",
+      "displayName": "Kasey",
+      "username": "kj_diamondminer",
+      "iconURL": "https://cdn.discordapp.com/avatars/837034403964125184/76f713e776c957946066709c675b6b23.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488499884425243",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1408931552196558948",
+      "name": "Netherite"
+    },
+    {
+      "id": "1385789127018156145",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1408930231477211197",
+      "name": "sdfsfsdgsss.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1408930228805304482/1408930231477211197/sdfsfsdgsss.png?ex=68ab8807&is=68aa3687&hm=82a424319d722fc4affc2894122f19abe31e435c8de2484959e99dedc92f5b16&",
+      "description": "Sent by andrews54757 at 8/23/2025, 5:45:43 PM",
+      "canDownload": true,
+      "width": 332,
+      "height": 350,
+      "path": "images/sdfsfsdgsss.png"
+    },
+    {
+      "id": "1408930232030990356",
+      "name": "fgfdhjdthd.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1408930228805304482/1408930232030990356/fgfdhjdthd.png?ex=68ab8807&is=68aa3687&hm=14aa6341534e156967ca57748059e96cc8a5ad9bea79945e9229e84ddbbda96b&",
+      "description": "Sent by andrews54757 at 8/23/2025, 5:45:43 PM",
+      "canDownload": true,
+      "width": 756,
+      "height": 800,
+      "path": "images/fgfdhjdthd.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1408930230965374996",
+      "name": "US006_22gt_netherite_sorter_random_proof.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1408930228805304482/1408930230965374996/22gt_netherite_sorter_random_proof.litematic?ex=68ab8807&is=68aa3687&hm=24835d1b0dd9609cecd406571e444ea96159b11ea46145fbdf4cbdc6bde11203&",
+      "description": "Sent by andrews54757 at 8/23/2025, 5:45:43 PM",
+      "canDownload": true,
+      "path": "attachments/US006_22gt_netherite_sorter_random_proof.litematic",
+      "litematic": {
+        "size": "3x4x4",
+        "version": "1.21.4"
+      }
+    },
+    {
+      "id": "1408930230248411226",
+      "name": "US006_goofy_ahh_8gt_netherite_sorter.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1408930228805304482/1408930230248411226/goofy_ahh_8gt_netherite_sorter.litematic?ex=68ab8807&is=68aa3687&hm=232525860cbc961fe77dc09b24ffd70bed1b9b9594da874af4d8457a555f04b4&",
+      "description": "Sent by andrews54757 at 8/23/2025, 5:45:43 PM",
+      "canDownload": true,
+      "path": "attachments/US006_goofy_ahh_8gt_netherite_sorter.litematic",
+      "litematic": {
+        "size": "6x7x6",
+        "version": "1.21"
+      }
+    }
+  ],
+  "records": {
+    "description": "A device that drops an item into a lava cauldron, using calibrated sculk sensors to detect damage and separate netherite (non-flammable) items from other (burnable) items. Does not consume any items making this device infinitely reusable.",
+    "features": [
+      "Sorts netherrite items at up to hopperspeed",
+      "Does not consume any items",
+      "Small size (3x4x4 for the 22gt version)",
+      "Random input proof"
+    ],
+    "considerations": [
+      "Uses calibrated sculk sensors. Put wool around the device to prevent it from triggering because of other noise sources."
+    ]
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperspeed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopperspeed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "gt",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1408933081846382602",
+    "forumId": "1375564342392786944",
+    "continuingMessageIds": [
+      "1408933085109686403"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1408933081846382602",
+    "uploadMessageId": "1408933079548170280"
+  },
+  "archivedAt": 1755986425858,
+  "updatedAt": 1755986425858
+}

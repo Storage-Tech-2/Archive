@@ -1,0 +1,126 @@
+{
+  "id": "1386933382579093594",
+  "name": "Hopper Speed Shulker Box Grouper",
+  "code": "VBS001",
+  "reservedCodes": [
+    "VBS001"
+  ],
+  "pastPostThreadIds": [
+    "1388318379789516932"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "656864003242328064",
+      "name": "acaciachan",
+      "displayName": "金合欢酱喵~ (acaciachan)",
+      "iconURL": "https://cdn.discordapp.com/avatars/656864003242328064/65e1c203d9ea0af6509f0754122b45a2.webp",
+      "username": "acaciachan"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488520579252261",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789156000792788",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386933383770149025",
+      "name": "Hopper_Speed_Box_Grouper_4x5x6.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386933382579093594/1386933383770149025/Hopper_Speed_Box_Grouper_4x5x6.png?ex=685b81de&is=685a305e&hm=e42df0fc1ff77af9419221169516a9843dc2bbe8fce7782c3470bd520ac1336b&",
+      "description": "Sent by andrews54757 at 6/24/2025, 12:58:06 AM",
+      "canDownload": true,
+      "width": 699,
+      "height": 800,
+      "path": "images/Hopper_Speed_Box_Grouper_4x5x6.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386933384370192394",
+      "name": "VBS001_Hopper_Speed_Box_Grouper_4x5x6.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386933382579093594/1386933384370192394/Hopper_Speed_Box_Grouper_4x5x6.litematic?ex=685b81de&is=685a305e&hm=61bd87bd8e8b72162e8591f0fd0db25a12a08604c092336166196608aa02d9c1&",
+      "description": "Sent by andrews54757 at 6/24/2025, 12:58:06 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "12x6x5",
+        "version": "1.18.2"
+      },
+      "path": "attachments/VBS001_Hopper_Speed_Box_Grouper_4x5x6.litematic"
+    }
+  ],
+  "records": {
+    "description": "Assigns a filter item depending on the leading item type of the first box. Subsequent boxes are checked and separated based on whether they contain the assigned item. Deassigns when out of boxes, or manually.",
+    "features": [
+      "Works at 8gt",
+      "No renamed filter items needed, unstackables work fine",
+      "Relatively small footprint (5x4x6)."
+    ],
+    "considerations": [
+      "Can't handle empty boxes"
+    ],
+    "notes": "The schematic contains two versions: One that deassigns automatically and manually. Inspired by https://discord.com/channels/748542142347083868/749136504558714982/1315103045763207248"
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "gt",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Schematic",
+      "id": "1454811558009110704",
+      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
+      "matches": [
+        "schematic"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/749136504558714982/1315103045763207248",
+      "server": "748542142347083868",
+      "channel": "749136504558714982",
+      "message": "1315103045763207248",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/749136504558714982/1315103045763207248"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "forumId": "1375570066451599401",
+    "threadId": "1388318379789516932",
+    "continuingMessageIds": [
+      "1388318383581429812",
+      "1455359476684296314"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388318379789516932",
+    "attachmentMessageId": "1388179367406075914",
+    "uploadMessageId": "1388179360766230581"
+  },
+  "archivedAt": 1766904098806,
+  "updatedAt": 1750741216590
+}

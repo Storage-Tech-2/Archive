@@ -1,0 +1,55 @@
+{
+  "id": "1375561810392125510",
+  "name": "chest-halls",
+  "code": "CH",
+  "category": "Storage Halls & UI",
+  "description": "Chest halls",
+  "currentCodeId": 9,
+  "entries": [
+    {
+      "id": "1386233426826231918",
+      "code": "CH001",
+      "path": "CH001_TIS_Layout_10_Chest_Hall_V2"
+    },
+    {
+      "id": "1386700520944832692",
+      "code": "CH002",
+      "path": "CH002_8_Chest_Hall_SS2SS3"
+    },
+    {
+      "id": "1386923235257356421",
+      "code": "CH003",
+      "path": "CH003_1wABt_8_item_2dc_SS2_Chest_Hall"
+    },
+    {
+      "id": "1386926358281715784",
+      "code": "CH004",
+      "path": "CH004_1wABt_10_Chest_SS2_Hall"
+    },
+    {
+      "id": "1388550949571793120",
+      "code": "CH005",
+      "path": "CH005_Square_UI_1wABt_10_item_chest_hall"
+    },
+    {
+      "id": "1388554841034592348",
+      "code": "CH006",
+      "path": "CH006_SS3_TIS_Layout_10_Chest_Hall"
+    },
+    {
+      "id": "1388571718632607795",
+      "code": "CH007",
+      "path": "CH007_Leo_Layout_SS2_10_Chest_Hall"
+    },
+    {
+      "id": "1431352584203014316",
+      "code": "CH008",
+      "path": "CH008_1wABt_8_item_1dc_SSI_Chest_Hal"
+    },
+    {
+      "id": "1447301140260851884",
+      "code": "CH009",
+      "path": "CH009_1wABt_SS2_8_Chest_Hall"
+    }
+  ]
+}

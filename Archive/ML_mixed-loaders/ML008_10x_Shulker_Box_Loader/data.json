@@ -1,0 +1,134 @@
+{
+  "id": "1455432628743307377",
+  "name": "10x Shulker Box Loader",
+  "code": "ML008",
+  "reservedCodes": [
+    "ML008"
+  ],
+  "pastPostThreadIds": [
+    "1455434111719309572"
+  ],
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "340408727675076608",
+      "username": "pearlasium",
+      "iconURL": "https://cdn.discordapp.com/avatars/340408727675076608/d22f734680c3ed31c54ff9325d328e2f.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488466447695898",
+      "name": "Untested"
+    }
+  ],
+  "images": [
+    {
+      "id": "1455432631415079065",
+      "name": "area_render_12.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1455432628743307377/1455432631415079065/area_render_12.png?ex=6954b4c3&is=69536343&hm=93e88de7bcc0f2b501d474658b5249af102518363713727fdf737ad0c7189c3f&",
+      "description": "Sent by andrews54757 at 12/30/2025, 12:29:39 AM",
+      "canDownload": true,
+      "width": 611,
+      "height": 800,
+      "path": "images/area_render_12.png"
+    },
+    {
+      "id": "1455432631926919199",
+      "name": "area_render_14.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1455432628743307377/1455432631926919199/area_render_14.png?ex=6954b4c4&is=69536344&hm=525ed0d019de92f957f0e4f58f1e93487ae85ad5042e3767e18c6dadc1cbe969&",
+      "description": "Sent by andrews54757 at 12/30/2025, 12:29:39 AM",
+      "canDownload": true,
+      "width": 746,
+      "height": 800,
+      "path": "images/area_render_14.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1455432630697726003",
+      "name": "ML008_10x_Shulker_Loader_-_Pre-tnt.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1455432628743307377/1455432630697726003/10x_Shulker_Loader_-_Pre-tnt.litematic?ex=6954b4c3&is=69536343&hm=c588295c7b25a0e38e1c2a3e790ba582b3d568bf825c5118f667958ce6cacc2b&",
+      "description": "Sent by andrews54757 at 12/30/2025, 12:29:39 AM",
+      "canDownload": true,
+      "path": "attachments/ML008_10x_Shulker_Loader_-_Pre-tnt.litematic",
+      "litematic": {
+        "size": "9x14x9",
+        "version": "1.18.2"
+      }
+    },
+    {
+      "id": "1455432629720715406",
+      "name": "ML008_10x_Shulker_Loader_-_Request_tnt.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1455432628743307377/1455432629720715406/10x_Shulker_Loader_-_Request_tnt.litematic?ex=6954b4c3&is=69536343&hm=4eab4ca7df8735bbf4501268c18568a78c4f7260384240afe2fe6efc76b9b197&",
+      "description": "Sent by andrews54757 at 12/30/2025, 12:29:39 AM",
+      "canDownload": true,
+      "path": "attachments/ML008_10x_Shulker_Loader_-_Request_tnt.litematic",
+      "litematic": {
+        "size": "10x13x15",
+        "version": "1.18.2"
+      }
+    }
+  ],
+  "records": {
+    "description": "A proof of concept (read: not recommended for real systems) high-speed shulker box loader that operates at 10x hopper speed by breaking the box using duped TNT.",
+    "features": [
+      "Loads boxes at 10x hopper speed",
+      "Utilizes explosions traveling through corner gaps between diagonal blocks for obsidian shielding",
+      "TNT raised on water-logged fence/wall to avoid hitting the top dropper",
+      "Shulker box protects the bottom dropper from blast damage",
+      "Two versions: one activates TNT only when the box is filled (slower box swapping), the main one pre-emptively launches TNT and blocks sight to the box until needed"
+    ],
+    "considerations": [
+      "Uses TNT to break the boxes",
+      "Effective loading speed is 9.8x due to waiting for backlog detection and TNT breaking"
+    ],
+    "notes": "Reddit post: https://www.reddit.com/r/redstone/comments/t4090t/10x_hopper_speed_shulker_box_loader/"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopper speed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopper speed"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1455434111719309572",
+    "forumId": "1375557473066418206",
+    "continuingMessageIds": [
+      "1455434116664131636"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1455434111719309572",
+    "uploadMessageId": "1455434106610520117"
+  },
+  "archivedAt": 1767072929646,
+  "updatedAt": 1767072929646
+}

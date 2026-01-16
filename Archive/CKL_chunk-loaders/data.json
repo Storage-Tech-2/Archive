@@ -1,0 +1,15 @@
+{
+  "id": "1397058827722948699",
+  "name": "chunk-loaders",
+  "code": "CKL",
+  "category": "Misc Devices",
+  "description": "Chunk loaders for storage systems",
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1397058574407958654",
+      "code": "CKL001",
+      "path": "CKL001_FHL_Pumpkin_based_Chunkloader"
+    }
+  ]
+}

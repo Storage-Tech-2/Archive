@@ -1,0 +1,35 @@
+{
+  "id": "1375556999257002185",
+  "name": "filter-loaders",
+  "code": "FL",
+  "category": "Box Loaders & Unloaders",
+  "description": "Box loaders with filters on it, excluding crafters",
+  "currentCodeId": 5,
+  "entries": [
+    {
+      "id": "1386091760710848542",
+      "code": "FL001",
+      "path": "FL001_2wt_Minimal_Prefill_Filtered_4x_Loader"
+    },
+    {
+      "id": "1386840858355040346",
+      "code": "FL002",
+      "path": "FL002_1wt_1x_Precision_Loader"
+    },
+    {
+      "id": "1388000617972236458",
+      "code": "FL003",
+      "path": "FL003_Simple_1x_Filtered_Box_Loader"
+    },
+    {
+      "id": "1399902816641749023",
+      "code": "FL004",
+      "path": "FL004_Hopperlocked_Filtered_Box_Loader_Array"
+    },
+    {
+      "id": "1461038048426070016",
+      "code": "FL005",
+      "path": "FL005_3wABt_Minimal_Prefill_Filtered_6x_Loader"
+    }
+  ]
+}

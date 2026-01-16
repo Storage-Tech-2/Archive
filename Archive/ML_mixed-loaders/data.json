@@ -1,0 +1,50 @@
+{
+  "id": "1375557473066418206",
+  "name": "mixed-loaders",
+  "code": "ML",
+  "category": "Box Loaders & Unloaders",
+  "description": "Box loaders which load mixed item types",
+  "currentCodeId": 8,
+  "entries": [
+    {
+      "id": "1386244541513863249",
+      "code": "ML001",
+      "path": "ML001_3wt_8x_Mixed_Box_Loader"
+    },
+    {
+      "id": "1386422639773352099",
+      "code": "ML002",
+      "path": "ML002_3wt_Full_Clearance_Mixed_6x_Loader"
+    },
+    {
+      "id": "1386836989160194201",
+      "code": "ML003",
+      "path": "ML003_1x_Full_Speed_Mixed_Box_Loader"
+    },
+    {
+      "id": "1386838443102965941",
+      "code": "ML004",
+      "path": "ML004_2x_Mixed_Full_Speed_Box_Loader"
+    },
+    {
+      "id": "1388545201961963610",
+      "code": "ML005",
+      "path": "ML005_Globally_Clocked_3wt_8x_Mixed_Box_Loader"
+    },
+    {
+      "id": "1389197974826913814",
+      "code": "ML006",
+      "path": "ML006_Globally_clocked_3wt_6x_fullspeed_mixed_loader"
+    },
+    {
+      "id": "1441729659422249090",
+      "code": "ML007",
+      "path": "ML007_2w_6x_Mixed_Shulker_Loader"
+    },
+    {
+      "id": "1455432628743307377",
+      "code": "ML008",
+      "path": "ML008_10x_Shulker_Box_Loader"
+    }
+  ]
+}
