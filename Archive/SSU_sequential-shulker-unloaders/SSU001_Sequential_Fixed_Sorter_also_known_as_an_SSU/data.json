@@ -1,0 +1,242 @@
+{
+  "id": "1460784810481025034",
+  "name": "Sequential Fixed Sorter (also known as an SSU)",
+  "code": "SSU001",
+  "reservedCodes": [
+    "SSU001"
+  ],
+  "pastPostThreadIds": [
+    "1460788647799427207"
+  ],
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "298337622869147648",
+      "username": "heilzmaker",
+      "iconURL": "https://cdn.discordapp.com/avatars/298337622869147648/f2a8c199149ab9a18107788db21e53dd.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "576689459794542595",
+      "username": "pfeffabeissa",
+      "iconURL": "https://cdn.discordapp.com/avatars/576689459794542595/08a35eebcd9fcdc941ceb8a0dd785a79.webp"
+    },
+    {
+      "type": "unknown",
+      "username": "SamosTheSage",
+      "dontDisplay": true,
+      "reason": "Original concept of the device",
+      "url": "https://www.youtube.com/watch?v=IKxF6X1mDFY"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1460787895345348746",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1460787895345348747",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1460784810892197971",
+      "name": "area_render_171_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1460784810481025034/1460784810892197971/area_render_171_.png?ex=69682d5e&is=6966dbde&hm=c972653f1ca4daadb8145da8bab71bb99f174d0ea3744f5854ba30258421b893&",
+      "description": "Sent by andrews54757 at 1/13/2026, 6:57:18 PM",
+      "canDownload": true,
+      "width": 360,
+      "height": 543,
+      "path": "images/area_render_171_.png"
+    },
+    {
+      "id": "1460784811256844545",
+      "name": "area_render_172_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1460784810481025034/1460784811256844545/area_render_172_.png?ex=69682d5f&is=6966dbdf&hm=22782d7c6019ac7bce46c4b3cbdfc144bd9234284fda4c58fb33e75978d168a4&",
+      "description": "Sent by andrews54757 at 1/13/2026, 6:57:18 PM",
+      "canDownload": true,
+      "width": 694,
+      "height": 662,
+      "path": "images/area_render_172_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "Nf6mO0PAHOc",
+      "name": "SSU001_YouTube_Video_Nf6mO0PAHOc.url",
+      "contentType": "youtube",
+      "url": "https://www.youtube.com/watch?v=Nf6mO0PAHOc",
+      "description": "[YouTube] Sent by andrews54757 at 1/13/2026, 8:07:52 PM",
+      "canDownload": false,
+      "youtube": {
+        "title": "My set sequential shulker unloader || HEIlZMaker SFS",
+        "author_name": "Heilzmaker",
+        "author_url": "https://www.youtube.com/@Heilzmaker",
+        "thumbnail_url": "https://i.ytimg.com/vi/Nf6mO0PAHOc/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      },
+      "path": "attachments/SSU001_YouTube_Video_Nf6mO0PAHOc.url"
+    },
+    {
+      "id": "1460784811571544145",
+      "name": "SSU001_Heilz_SFS_1.13.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1460784810481025034/1460784811571544145/Heilz_SFS_1.13.litematic?ex=6968d61f&is=6967849f&hm=debc64291ae0af460e51cc2f6e70e855affc57a1db45dc310a556978e26901a8&",
+      "description": "Sent by andrews54757 at 1/13/2026, 6:57:18 PM",
+      "canDownload": true,
+      "path": "attachments/SSU001_Heilz_SFS_1.13.litematic",
+      "litematic": {
+        "size": "6x9x2",
+        "version": "1.18.2"
+      }
+    },
+    {
+      "id": "1460784811953356833",
+      "name": "SSU001_Heilz_SFS_1.11.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1460784810481025034/1460784811953356833/Heilz_SFS_1.11.litematic?ex=6968d61f&is=6967849f&hm=7a022a1de03da3987162dee6864da74c679e90eb5a50c397faf3ed8e9a0cdf32&",
+      "description": "Sent by andrews54757 at 1/13/2026, 6:57:18 PM",
+      "canDownload": true,
+      "path": "attachments/SSU001_Heilz_SFS_1.11.litematic",
+      "litematic": {
+        "size": "6x9x2",
+        "version": "1.18.2"
+      }
+    },
+    {
+      "id": "1461074645842264210",
+      "name": "SSU001_Heilz_SFS_precision_loading_1.21.4.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1460784810481025034/1461074645842264210/Heilz_SFS_precision_loading_1.21.4.litematic?ex=69693b4d&is=6967e9cd&hm=bf91778c7d3ca6b8e15e3c1ae5509cb39ca7d03e8e2ad200b4c2f4f5b3d7e3b0&",
+      "description": "Sent by andrews54757 at 1/14/2026, 2:09:00 PM",
+      "canDownload": true,
+      "path": "attachments/SSU001_Heilz_SFS_precision_loading_1.21.4.litematic",
+      "litematic": {
+        "size": "6x9x2",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "This device, commonly known as a Sequential Shulker Unloader, will unload items of a certain type out of mixed boxes directly, load the item into single-type shulker boxes, and then output the remaining mixed box to the next slice for further processing. This design is tileable so that you can extract multiple item types from boxes sequentially.",
+    "features": [
+      "Hopperspeed unloading of specified item type out of mixed boxes",
+      "Built in box loader, outputs single type shulker boxes",
+      "2wt small design"
+    ],
+    "considerations": [
+      "Box loader is not perfectly reliable, can lose one box out of ~50 million. Precision loading variant available with reliable collection, but more difficult to build and setup."
+    ],
+    "instructions": [
+      "Tile the slice as many times as the number of item types you want to extract",
+      "Setup item filters in each slice",
+      "Input mixed shulker boxes into a hopper feeding the unloader box dispenser",
+      "Make sure that empty boxes are supplied continuously to the box loader"
+    ],
+    "compatibility": "1.13+ and 1.11+ compatible schematics available."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Sequential shulker unloader",
+      "id": "1460454576493957333",
+      "url": "https://discord.com/channels/1375556143186837695/1460454576493957333/1460454577995251899",
+      "matches": [
+        "Sequential Shulker Unloader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Mixed Box",
+      "id": "1454753707530129576",
+      "url": "https://discord.com/channels/1375556143186837695/1454753707530129576/1454753708247089184",
+      "matches": [
+        "mixed box"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperspeed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "Hopperspeed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "2wt",
+      "id": "1454753738425368687",
+      "url": "https://discord.com/channels/1375556143186837695/1454753738425368687/1454753741785010208",
+      "matches": [
+        "2wt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Unloader",
+      "id": "1454754824758493380",
+      "url": "https://discord.com/channels/1375556143186837695/1454754824758493380/1454754825345433803",
+      "matches": [
+        "unloader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Schematic",
+      "id": "1454811558009110704",
+      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
+      "matches": [
+        "schematic"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1460788647799427207",
+    "forumId": "1460787565207490805",
+    "continuingMessageIds": [
+      "1460788652417220669",
+      "1460788653000491019",
+      "1460802660709044433"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1460788647799427207",
+    "uploadMessageId": "1461074821449257131"
+  },
+  "archivedAt": 1768349544010,
+  "updatedAt": 1768417782039
+}

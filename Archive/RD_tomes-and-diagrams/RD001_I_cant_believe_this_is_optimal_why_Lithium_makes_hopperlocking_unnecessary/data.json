@@ -1,0 +1,96 @@
+{
+  "id": "1451060139560931523",
+  "name": "I can't believe this is optimal: why Lithium makes hopperlocking unnecessary",
+  "code": "RD001",
+  "reservedCodes": [
+    "RD001"
+  ],
+  "pastPostThreadIds": [
+    "1451060467060707470"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "displayName": "Andrews54757",
+      "username": "andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1410149844563005509",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1451060139837886595",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1451060139560931523/1451060139837886595/image.png?ex=6944cc90&is=69437b10&hm=d6c2e749edc13af509e140e34388f4b723b3705d441c874bd745f4262432843f&",
+      "description": "Sent by andrews54757 at 12/17/2025, 10:54:56 PM",
+      "canDownload": true,
+      "width": 402,
+      "height": 569,
+      "path": "images/image.png"
+    }
+  ],
+  "attachments": [],
+  "records": {
+    "description": "You’ve probably noticed that many storage devices use a feature called **hopper locking**. Hopper locking powers inactive hoppers with redstone to prevent them from doing anything, reducing lag. Because a locked hopper can’t move items, it can skip several expensive checks each tick and generate far less lag. As a result, many older storage-tech builds include wiring to lock hoppers as an optimization.",
+    "lithium makes hopper locking optional": "[Lithium](https://github.com/CaffeineMC/lithium) is a mod used on most technical Minecraft servers. Its internals are complex, but the goal is simple: improve performance while preserving vanilla behavior.\n\nWhen much of today’s storage tech was developed, Lithium didn’t include many storage-specific optimizations, so locking hoppers was still a key micro-optimization.\n\nCurrently in 2025, that's changed. Lithium now includes an optimization that automatically manages inactive hoppers so they produce essentially no lag, effectively \"locking\" them without any extra wiring. **If you have Lithium, manual hopper locking won't improve performance.**\n\nSo for bulk storage (for example, farm outputs), you can often just stack chests and hoppers and call it done (like in the thumbnail). It'll be as efficient as older, more complex locked bulk systems.",
+    "nuances": "People still hopper-lock because it's a fun challenge and a lingering habit from older designs. If you enjoy it, go for it, but you don't *need* to lock hoppers for your design to be \"good.\"\n\nThere are also some [implementation details](https://github.com/CaffeineMC/lithium/blob/develop/common/src/main/java/net/caffeinemc/mods/lithium/mixin/block/hopper/README.md) in Lithium's auto-locking. For example, a hopper under a hopper cart won't auto-lock. These edge cases are usually niche and won't matter for most storage builds. And because Lithium improves over time, an issue today may be fixed tomorrow.",
+    "tl;dr": "If you have Lithium, you don’t have to lock your hoppers."
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "tick",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "tick"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Bulk Storage",
+      "id": "1454753523668484213",
+      "url": "https://discord.com/channels/1375556143186837695/1454753523668484213/1454753524637499577",
+      "matches": [
+        "bulk storage"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Mods",
+      "id": "1454812343409053849",
+      "url": "https://discord.com/channels/1375556143186837695/1454812343409053849/1454812344642306079",
+      "matches": [
+        "mods"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1451060467060707470",
+    "forumId": "1410149299169267792",
+    "continuingMessageIds": [
+      "1451060471879962715"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1451060467060707470",
+    "uploadMessageId": ""
+  },
+  "archivedAt": 1766036962921,
+  "updatedAt": 1766036962921
+}

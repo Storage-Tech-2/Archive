@@ -1,0 +1,96 @@
+{
+  "id": "1459913994532945963",
+  "name": "Simple Entityless 16 Furnace Array",
+  "code": "SP006",
+  "reservedCodes": [
+    "SP006"
+  ],
+  "pastPostThreadIds": [
+    "1460061153983201343"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "459948835205283861",
+      "username": "robot_005",
+      "displayName": "Robot",
+      "iconURL": "https://cdn.discordapp.com/avatars/459948835205283861/14b1e0b6548c782797d9cac050f54de1.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "660633169191632908",
+      "username": "etikle",
+      "displayName": "Passionate Storage Techer 69",
+      "iconURL": "https://cdn.discordapp.com/avatars/660633169191632908/552443236bae5d574b5b1aec2694b58f.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1457542787384741920",
+      "name": "Furnace Array"
+    },
+    {
+      "id": "1457538569756475392",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1459913995137056961",
+      "name": "Simple_Entityless_16_Furnace_Array_by_Robot.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1459913994532945963/1459913995137056961/Simple_Entityless_16_Furnace_Array_by_Robot.png?ex=6965025c&is=6963b0dc&hm=6e7d0f7c6b5fc5248a7908ee98404d6c7f0711b6b0bb27f48f26a145577eaa7f&",
+      "description": "Sent by ragdollwilly at 1/11/2026, 9:17:00 AM",
+      "canDownload": true,
+      "width": 800,
+      "height": 288,
+      "path": "images/Simple_Entityless_16_Furnace_Array_by_Robot.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1459913995669606636",
+      "name": "SP006_Simple_Entityless_16_Furnace_Array_by_Robot.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1459913994532945963/1459913995669606636/Simple_Entityless_16_Furnace_Array_by_Robot.litematic?ex=6965025c&is=6963b0dc&hm=9f784cfe69ab8f0d4e8407633408f8c713bd56f233be5ff360eb8870080bf9ff&",
+      "description": "Sent by ragdollwilly at 1/11/2026, 9:17:00 AM",
+      "canDownload": true,
+      "path": "attachments/SP006_Simple_Entityless_16_Furnace_Array_by_Robot.litematic",
+      "litematic": {
+        "size": "2x8x23",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A simple and small furnace array that doesn't use entities.",
+    "features": [
+      "Entityless",
+      "Precision",
+      "Compact"
+    ],
+    "compatibility": "All versions past 1.11",
+    "video-instruction": "https://www.youtube.com/watch?v=7nzmPAGhyqI"
+  },
+  "styles": {
+    "video-instruction": {
+      "depth": 2,
+      "headerText": "Video Instruction"
+    }
+  },
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1460061153983201343",
+    "forumId": "1457538260892127293",
+    "continuingMessageIds": [
+      "1460061157909069895"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1460061153983201343",
+    "uploadMessageId": "1460061149889429638"
+  },
+  "archivedAt": 1768176104163,
+  "updatedAt": 1768181910067
+}

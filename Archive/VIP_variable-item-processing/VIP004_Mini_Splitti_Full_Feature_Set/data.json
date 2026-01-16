@@ -1,0 +1,130 @@
+{
+  "id": "1388707866592149638",
+  "name": "Mini Splitti Full Feature Set",
+  "code": "VIP004",
+  "reservedCodes": [
+    "VIP004"
+  ],
+  "pastPostThreadIds": [
+    "1388722921622736916"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "142441395095863296",
+      "displayName": "Civic Dude",
+      "username": "civicdude",
+      "iconURL": "https://cdn.discordapp.com/avatars/142441395095863296/dcf48bee377748f5809116893cac5bae.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "624927906908471306",
+      "username": "obi81",
+      "reason": "Based off of Obi's design",
+      "dontDisplay": true,
+      "displayName": "Obi81",
+      "iconURL": "https://cdn.discordapp.com/avatars/624927906908471306/5ca94a8774d0abe79d280eb3ec2978b0.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "457520959033704450",
+      "username": "giannis__",
+      "reason": "For helping testing",
+      "dontDisplay": true,
+      "displayName": "giannis__",
+      "iconURL": "https://cdn.discordapp.com/avatars/457520959033704450/29b37257e39f226f85fe06499d1037ce.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488518499012625",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789152770920521",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1388719538689806457",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1388707866592149638/1388719538689806457/image.png?ex=6862015b&is=6860afdb&hm=33d6a3c192f67cf15f994cb4a214ceb71845262cfc150800c9d4c6176eb5c5bf&",
+      "description": "Sent by andrews54757 at 6/28/2025, 11:15:39 PM",
+      "canDownload": true,
+      "width": 517,
+      "height": 800,
+      "path": "images/image.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1388720604651323513",
+      "name": "VIP004_MiniSplittiFFS_1.21.4.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1388707866592149638/1388720604651323513/MiniSplittiFFS_1.21.4.litematic?ex=68620259&is=6860b0d9&hm=36f1512c6dd62cd1a86a79d230a79287b11d55bf36d7fcb320b5d85a751eb907&",
+      "description": "Sent by andrews54757 at 6/28/2025, 11:19:53 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "8x16x14",
+        "version": "1.21.4"
+      },
+      "path": "attachments/VIP004_MiniSplittiFFS_1.21.4.litematic"
+    }
+  ],
+  "records": {
+    "description": "Takes in mixed boxes and splits them into boxes containing a single item type. Uses dueling hoppers splitter technique.",
+    "features": [
+      "90% hopper locked (a total of 5 unlocked hoppers out of 50 total)",
+      "Small size! 12x6x16 (LWH)",
+      "Emptied Boxes and Unstackables are output in separate streams from Partials output.",
+      "Pauseable with global clock"
+    ],
+    "considerations": [
+      "Does not handle Empty box inputs (Please don't send empty boxes to splitters in the first place!)"
+    ],
+    "notes": "Press stone button to start splitting after putting in boxes. Empty box input hopper is covered by wool for hopperNoItemCost carpet rule but can be replaced with more chest storage."
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "splitter",
+      "id": "1454754768088989789",
+      "url": "https://discord.com/channels/1375556143186837695/1454754768088989789/1454754769674567868",
+      "matches": [
+        "splitter"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Global",
+      "id": "1454753648574992557",
+      "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
+      "matches": [
+        "global"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1388722921622736916",
+    "forumId": "1375569954073477120",
+    "continuingMessageIds": [
+      "1388722924193841234"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388722921622736916",
+    "uploadMessageId": "1388722919311544451"
+  },
+  "archivedAt": 1751167744957,
+  "updatedAt": 1751167744957
+}

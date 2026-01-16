@@ -1,0 +1,80 @@
+{
+  "id": "1450277038215921704",
+  "name": "How to Make Perma-Powered Detector Rails",
+  "code": "TT002",
+  "reservedCodes": [
+    "TT002"
+  ],
+  "pastPostThreadIds": [
+    "1450277724685074452"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "displayName": "Andrews54757",
+      "username": "andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "name": "Tested & Functional",
+      "id": "1388657843774816394"
+    },
+    {
+      "name": "Recommended",
+      "id": "1388657843774816395"
+    }
+  ],
+  "images": [
+    {
+      "id": "1450277038752534558",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1450277038215921704/1450277038752534558/image.png?ex=6941f33e&is=6940a1be&hm=5aa34685425d68e3f4f0ec05a03b6d627cedd9d4be81a780d1328c6bca15ad44&",
+      "description": "Sent by andrews54757 at 12/15/2025, 7:03:10 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 630,
+      "path": "images/image.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1450277038752534558",
+      "name": "TT002_image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1450277038215921704/1450277038752534558/image.png?ex=6941f33e&is=6940a1be&hm=5aa34685425d68e3f4f0ec05a03b6d627cedd9d4be81a780d1328c6bca15ad44&",
+      "description": "Sent by andrews54757 at 12/15/2025, 7:03:10 PM",
+      "canDownload": true,
+      "path": "attachments/TT002_image.png"
+    }
+  ],
+  "records": {
+    "description": "Unlike normal detector rails, perma-powered detector rails do not update themselves when a cart goes over it. This allows you to precisely time comparator readouts from detector rails on demand for high-speed applications. This guide teaches you how to make such detector rails for your own projects."
+  },
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1450277724685074452",
+    "forumId": "1388657467508133928",
+    "continuingMessageIds": [
+      "1450277729076383847",
+      "1454728697901879329"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1450277724685074452",
+    "uploadMessageId": "1450277722713489448"
+  },
+  "archivedAt": 1765843553630,
+  "updatedAt": 1765843553630
+}

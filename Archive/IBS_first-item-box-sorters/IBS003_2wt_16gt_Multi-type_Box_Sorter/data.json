@@ -1,0 +1,141 @@
+{
+  "id": "1402501851211104426",
+  "name": "2wt 16gt Multi-type Box Sorter",
+  "code": "IBS003",
+  "reservedCodes": [
+    "IBS003"
+  ],
+  "pastPostThreadIds": [
+    "1402508433399480421"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1207492489880277073",
+      "displayName": "vincent",
+      "username": "tacren_66869",
+      "iconURL": "https://cdn.discordapp.com/embed/avatars/5.png"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "1068798858676686848",
+      "displayName": "77777777777777777777",
+      "username": "777777777777777777774832",
+      "iconURL": "https://cdn.discordapp.com/avatars/1068798858676686848/9c8fd7932d9c0072be4f3d559abe76b8.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "335426949885329411",
+      "username": "sergyd",
+      "reason": "Original design for reference",
+      "dontDisplay": true,
+      "iconURL": "https://cdn.discordapp.com/avatars/335426949885329411/01e8993d50c9d864361df9def1960a5a.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488470557986893",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1402501852322467910",
+      "name": "area_render_199_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1402501851211104426/1402501852322467910/area_render_199_.png?ex=68942522&is=6892d3a2&hm=a1962e56523fc15724380eb1d16b6876878b3a919b06ba31a29e4982fdca9491&",
+      "description": "Sent by 777777777777777777774832 at 8/6/2025, 12:01:38 AM",
+      "canDownload": true,
+      "path": "images/area_render_199_.png"
+    },
+    {
+      "id": "1402503028551979189",
+      "name": "area_render_218_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1402501851211104426/1402503028551979189/area_render_218_.png?ex=6894263b&is=6892d4bb&hm=a0401a538bfe4c6f5a4abe333234f62f4cc2293b6a535bc6893a5b857c12cdef&",
+      "description": "Sent by 777777777777777777774832 at 8/6/2025, 12:06:19 AM",
+      "canDownload": true,
+      "width": 800,
+      "height": 669,
+      "path": "images/area_render_218_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1405122843167031386",
+      "name": "IBS003_1.16_16gt_MBS_v3.1.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1402501851211104426/1405122843167031386/1.16_16gt_MBS_v3.1.litematic?ex=68a0511f&is=689eff9f&hm=ad7939b6fe106a94ba2c8087ba5cffa823ad2f08062052d579a6673d1b2365ae&",
+      "description": "Sent by 777777777777777777774832 at 8/13/2025, 5:36:31 AM",
+      "canDownload": true,
+      "path": "attachments/IBS003_1.16_16gt_MBS_v3.1.litematic",
+      "litematic": {
+        "size": "9x8x10",
+        "version": "1.21"
+      }
+    }
+  ],
+  "records": {
+    "description": "Sorts boxes into multi-item-type categories based on first item type of box at half-hopperspeed.",
+    "features": [
+      "Hopperspeed sorting",
+      "Fully hopperlocked design",
+      "Only one sorting item needs to be placed in a category 's filter chest. Up to 54 types per category/slice.",
+      "Each slice is 7x9x2, can be tiled for more categories"
+    ],
+    "considerations": [
+      "Cannot accept empty boxes"
+    ]
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperspeed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopperspeed",
+        "Hopperspeed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperlocked",
+      "id": "1454753660625227895",
+      "url": "https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422",
+      "matches": [
+        "hopperlocked"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1402508433399480421",
+    "forumId": "1375559535976124717",
+    "continuingMessageIds": [
+      "1402508436482297866"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1402508433399480421",
+    "uploadMessageId": "1406005444220026902"
+  },
+  "archivedAt": 1755288219634,
+  "updatedAt": 1755288219634
+}

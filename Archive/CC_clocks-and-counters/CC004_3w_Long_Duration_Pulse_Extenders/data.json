@@ -1,0 +1,143 @@
+{
+  "id": "1386453434559107284",
+  "name": "3w Long Duration Pulse Extenders",
+  "code": "CC004",
+  "reservedCodes": [
+    "CC004"
+  ],
+  "pastPostThreadIds": [
+    "1388318602532225044"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "297566644295827457",
+      "username": "walter7381",
+      "iconURL": "https://cdn.discordapp.com/avatars/297566644295827457/e8c32e9b66251cd84d0ff09adc818410.webp",
+      "displayName": "Walter"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1386444420911595688",
+      "name": "Recommended"
+    },
+    {
+      "id": "1386454138069717032",
+      "name": "Pulse Extenders"
+    },
+    {
+      "id": "1386444420911595687",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386453434953240596",
+      "name": "huge_2023-03-16_132229.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386453434559107284/1386453434953240596/huge_2023-03-16_13.22.29.png?ex=6859c2e1&is=68587161&hm=ece78fe2fa689603b51afbbf0fa9f3a894142bc40bcfd31668050fc1c066d3c3&",
+      "description": "Sent by andrews54757 at 6/22/2025, 5:10:57 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 545,
+      "path": "images/huge_2023-03-16_132229.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386453435485913128",
+      "name": "CC004_3w_LongPulseExtenders.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386453434559107284/1386453435485913128/3w_LongPulseExtenders.litematic?ex=6859c2e2&is=68587162&hm=b2142da6c0fe49ce101c96ef035bd5f04a08de1bdd4718d1610d0db5d0e842eb&",
+      "description": "Sent by andrews54757 at 6/22/2025, 5:10:57 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "13x4x10",
+        "version": "1.18.2"
+      },
+      "path": "attachments/CC004_3w_LongPulseExtenders.litematic"
+    },
+    {
+      "id": "1386453435846754394",
+      "name": "CC004_2w_LongPulseExtender_40sec.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386453434559107284/1386453435846754394/2w_LongPulseExtender_40sec.litematic?ex=6859c2e2&is=68587162&hm=0d510829262d63c342b0529df4fe6bbe4ad81da858c1e2dfcdb37c1ce255a087&",
+      "description": "Sent by andrews54757 at 6/22/2025, 5:10:57 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "7x4x2",
+        "version": "1.18.2"
+      },
+      "path": "attachments/CC004_2w_LongPulseExtender_40sec.litematic"
+    }
+  ],
+  "records": {
+    "description": "Works by having a memory cell subtracted one signal strength each time a self-resetting pulse extender turns off. This allows it to last a bit longer than a clock based solution. All designs are pistonless as they use the small reset time on the pulse extender to achieve the falling edge that subtracts the memory cell.\n\nMultiple variations are included, the smallest design to the left lasts 40 seconds, the right most design can use any pulse extender, and there is a separate schematic for a 2 wide version.",
+    "features": [
+      "2 wide tileable"
+    ],
+    "considerations": [],
+    "notes": ""
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Bit",
+      "id": "1454753462171734026",
+      "url": "https://discord.com/channels/1375556143186837695/1454753462171734026/1454753462905737238",
+      "matches": [
+        "bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Pistonless",
+      "id": "1454753777348251728",
+      "url": "https://discord.com/channels/1375556143186837695/1454753777348251728/1454753777763749963",
+      "matches": [
+        "pistonless"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Falling Edge",
+      "id": "1457020951001567444",
+      "url": "https://discord.com/channels/1375556143186837695/1457020951001567444/1457020954642485484",
+      "matches": [
+        "falling edge"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Schematic",
+      "id": "1454811558009110704",
+      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
+      "matches": [
+        "schematic"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "forumId": "1386443869729587291",
+    "threadId": "1388318602532225044",
+    "continuingMessageIds": [
+      "1388318605120245831"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388318602532225044",
+    "attachmentMessageId": "1388179678853857491",
+    "uploadMessageId": "1388179672063541339"
+  },
+  "archivedAt": 1750626744139,
+  "updatedAt": 1750626744139
+}

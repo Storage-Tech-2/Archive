@@ -1,0 +1,95 @@
+{
+  "id": "1402533524040450109",
+  "name": "18gt 2 item checker",
+  "code": "OBP003",
+  "reservedCodes": [
+    "OBP003"
+  ],
+  "pastPostThreadIds": [
+    "1402535963061915761"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1068798858676686848",
+      "displayName": "77777777777777777777",
+      "username": "777777777777777777774832",
+      "iconURL": "https://cdn.discordapp.com/avatars/1068798858676686848/9c8fd7932d9c0072be4f3d559abe76b8.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "1055842182982021144",
+      "displayName": "insto",
+      "username": "ionstrin",
+      "iconURL": "https://cdn.discordapp.com/avatars/1055842182982021144/9d55faf9fe9c535c67f31c8b069454db.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385789109510996059",
+      "name": "Recommended"
+    },
+    {
+      "id": "1385488485732843597",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1402533828207312979",
+      "name": "area_render_19_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1402533524040450109/1402533828207312979/area_render_19_.png?ex=689442ea&is=6892f16a&hm=2d70c006d73b4707c6463304e5459e65f3e7004b54b738393080e7800128daff&",
+      "description": "Sent by ionstrin at 8/6/2025, 2:08:42 AM",
+      "canDownload": true,
+      "width": 458,
+      "height": 666,
+      "path": "images/area_render_19_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1402533828479684709",
+      "name": "OBP003_18gt_2itemChecker_p5.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1402533524040450109/1402533828479684709/18gt_2itemChecker_p5.litematic?ex=689442ea&is=6892f16a&hm=dccbe6cdb3ac69daff66fdc2254bc53da17db6d2fc162d700225082784c0fd1e&",
+      "description": "Sent by ionstrin at 8/6/2025, 2:08:42 AM",
+      "canDownload": true,
+      "path": "attachments/OBP003_18gt_2itemChecker_p5.litematic",
+      "litematic": {
+        "size": "5x8x5",
+        "version": "1.20.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A device that checks if a box contains at least 2 items of its leading stackable item type. It unloads the leading item if it is the only item of its type or unstackable.",
+    "features": [
+      "Size: 5x5x8",
+      "Works with random input",
+      "Separates empty boxes. Buffers 1 empty box at the output"
+    ]
+  },
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1402535963061915761",
+    "forumId": "1375562461276672042",
+    "continuingMessageIds": [
+      "1402535965431697521"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1402535963061915761",
+    "uploadMessageId": "1402535961115496599"
+  },
+  "archivedAt": 1754461030782,
+  "updatedAt": 1754461030782
+}

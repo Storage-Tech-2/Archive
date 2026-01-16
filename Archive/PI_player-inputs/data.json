@@ -1,0 +1,30 @@
+{
+  "id": "1375569381781930006",
+  "name": "player-inputs",
+  "code": "PI",
+  "category": "Storage Halls & UI",
+  "description": "Player input devices",
+  "currentCodeId": 4,
+  "entries": [
+    {
+      "id": "1386870260661227682",
+      "code": "PI001",
+      "path": "PI001_Simple_Cart_Yeeting_Input"
+    },
+    {
+      "id": "1388227748467572896",
+      "code": "PI002",
+      "path": "PI002_Binned_Storage_Input"
+    },
+    {
+      "id": "1388566576692990162",
+      "code": "PI003",
+      "path": "PI003_Corner_Player_Input"
+    },
+    {
+      "id": "1399585065339453513",
+      "code": "PI004",
+      "path": "PI004_Integrated_Splitter_Input"
+    }
+  ]
+}

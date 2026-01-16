@@ -1,0 +1,125 @@
+{
+  "id": "1399585065339453513",
+  "name": "Integrated Splitter Input",
+  "code": "PI004",
+  "reservedCodes": [
+    "PI004"
+  ],
+  "pastPostThreadIds": [
+    "1399585560720314490"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "144825283357310976",
+      "displayName": "XP_Bot",
+      "username": "xp_bot",
+      "iconURL": "https://cdn.discordapp.com/avatars/144825283357310976/94cfa8a6c7a3baf502dea5b9cb4edf05.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "displayName": "Andrews54757",
+      "username": "andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488514329870484",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789146638975161",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1399585066375581788",
+      "name": "spimage.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1399585065339453513/1399585066375581788/spimage.png?ex=688988aa&is=6888372a&hm=d6726f82032b315c5be4508dbd2c0ca04fd25a01db0c727e7025d93f23859b8c&",
+      "description": "Sent by andrews54757 at 7/28/2025, 10:51:22 PM",
+      "canDownload": true,
+      "width": 688,
+      "height": 800,
+      "path": "images/spimage.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1399585065800831036",
+      "name": "PI004_Integrated_Splitter_Input.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1399585065339453513/1399585065800831036/Integrated_Splitter_Input.litematic?ex=688988aa&is=6888372a&hm=4d9d58492e1a0ecf9802c1e7695f99c2b98c3e60acc56516f60c1baa83c8ec08&",
+      "description": "Sent by andrews54757 at 7/28/2025, 10:51:22 PM",
+      "canDownload": true,
+      "path": "attachments/PI004_Integrated_Splitter_Input.litematic",
+      "litematic": {
+        "size": "7x8x6",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A device that uses a dueling hopper splitter to produce single-item-type boxes from a chest.",
+    "features": [
+      "Separate unstackable output",
+      "Single item type box output with fullspeed loader",
+      "Bulk box input chest on the right side",
+      "Noteblock input to start processing items",
+      "Slim profile, 2 blocks deep behind the input chests"
+    ]
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "splitter",
+      "id": "1454754768088989789",
+      "url": "https://discord.com/channels/1375556143186837695/1454754768088989789/1454754769674567868",
+      "matches": [
+        "splitter"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "fullspeed",
+      "id": "1454939844274032771",
+      "url": "https://discord.com/channels/1375556143186837695/1454939844274032771/1454939852222238955",
+      "matches": [
+        "fullspeed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1399585560720314490",
+    "forumId": "1375569381781930006",
+    "continuingMessageIds": [
+      "1399585564365426738"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1399585560720314490",
+    "uploadMessageId": "1399585558921085002"
+  },
+  "archivedAt": 1753757600081,
+  "updatedAt": 1753757600081
+}

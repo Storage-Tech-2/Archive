@@ -1,0 +1,137 @@
+{
+  "id": "1397058574407958654",
+  "name": "FHL Pumpkin based Chunkloader",
+  "code": "CKL001",
+  "reservedCodes": [
+    "CKL001"
+  ],
+  "pastPostThreadIds": [
+    "1397064372873986058"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "240860456057700352",
+      "displayName": "Philgoodinator",
+      "username": "philgoodinator",
+      "iconURL": "https://cdn.discordapp.com/avatars/240860456057700352/a9f4d6256aa4effec933334c93da54c0.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "690661774567014400",
+      "username": "kahyxen",
+      "reason": "For original pumpkin chunk loader concept",
+      "dontDisplay": true,
+      "iconURL": "https://cdn.discordapp.com/avatars/690661774567014400/58a61529a325d2c1163b21a1c6be4504.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1397060397579632758",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1397060397579632759",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1397058575339225098",
+      "name": "Philgoodinator_-_FHL_Pumpkin_Based_Chunkloader.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1397058574407958654/1397058575339225098/Philgoodinator_-_FHL_Pumpkin_Based_Chunkloader.png?ex=688057b0&is=687f0630&hm=715e2b2bf3ba785907e8c85d9ec3d3407738fa3e86c384de233d6c61b4d8a2b2&",
+      "description": "Sent by ragdollwilly at 7/21/2025, 11:32:00 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 593,
+      "path": "images/Philgoodinator_-_FHL_Pumpkin_Based_Chunkloader.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1397058574613614772",
+      "name": "CKL001_FHL_Pumpkin_Chunkloader.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1397058574407958654/1397058574613614772/FHL_Pumpkin_Chunkloader.litematic?ex=688057b0&is=687f0630&hm=535cefb5aac34aa8a2d2198abceee02e9603c752105511df9245cb332494734d&",
+      "description": "Sent by ragdollwilly at 7/21/2025, 11:32:00 PM",
+      "canDownload": true,
+      "path": "attachments/CKL001_FHL_Pumpkin_Chunkloader.litematic",
+      "litematic": {
+        "size": "6x7x11",
+        "version": "1.18.2"
+      }
+    }
+  ],
+  "records": {
+    "description": "Using pumpkin items shot through nether portals, loads a 3x3 chunk area around the device as entity ticking and a 5x5 chunk area as redstone ticking.",
+    "features": [
+      "5x4x7 size using 3x3 portals",
+      "Fully hopperlocked when idle",
+      "Status output: Items returning from the nether side maintain the fader"
+    ],
+    "considerations": [
+      "The chunk loader will not work in 1.21.5 specifically due to the portal hitbox change."
+    ],
+    "notes": "Tested with one month of tickwarp in 1.18.2 with Joa extreme behaviors and one year of tickwarp in 1.21.5 using TIS Carpet command \"/carpet netherPortalEntityInteractionCheckUseFullBlockShape true\"."
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "tick",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "tick"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Redstone Tick",
+      "id": "1454805316029120542",
+      "url": "https://discord.com/channels/1375556143186837695/1454805316029120542/1454805317320835073",
+      "matches": [
+        "redstone tick"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperlocked",
+      "id": "1454753660625227895",
+      "url": "https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422",
+      "matches": [
+        "hopperlocked"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Chunk loader",
+      "id": "1457055322647695542",
+      "url": "https://discord.com/channels/1375556143186837695/1457055322647695542/1457055324426080287",
+      "matches": [
+        "chunk loader"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1397064372873986058",
+    "forumId": "1397058827722948699",
+    "continuingMessageIds": [
+      "1397064379060457512"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1397064372873986058",
+    "uploadMessageId": "1397064371414372373"
+  },
+  "archivedAt": 1753156502117,
+  "updatedAt": 1753156502117
+}

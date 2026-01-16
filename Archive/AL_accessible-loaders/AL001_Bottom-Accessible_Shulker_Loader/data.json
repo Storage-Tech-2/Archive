@@ -1,0 +1,110 @@
+{
+  "id": "1386250599326285874",
+  "name": "Bottom-Accessible Shulker Loader",
+  "code": "AL001",
+  "reservedCodes": [
+    "AL001"
+  ],
+  "pastPostThreadIds": [
+    "1392582196652675092"
+  ],
+  "authors": [
+    {
+      "type": "unknown",
+      "username": "vktec"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1386251077854298192",
+      "name": "Tileable"
+    },
+    {
+      "id": "1385789083279822881",
+      "name": "Recommended"
+    },
+    {
+      "id": "1385488464648208442",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1392582139433844736",
+      "name": "AL001_accessible_shulker_loader_render.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386250599326285874/1392582139433844736/AL001_accessible_shulker_loader_render.png?ex=68700eae&is=686ebd2e&hm=8aa09314c0d4cb4e35d4209e81a12840dfa0c951cf568949dcbc86bd82bf47a5&",
+      "description": "Sent by TMC Schematic Renderer at 7/9/2025, 3:04:15 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 696,
+      "path": "images/AL001_accessible_shulker_loader_render.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386250599699316736",
+      "name": "AL001_accessible_shulker_loader.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386250599326285874/1386250599699316736/accessible_shulker_loader.litematic?ex=685905fa&is=6857b47a&hm=ef2f141cbb45f17b1c0e4ee8570717756f3711b624a9ac37039236baea7b8a3f&",
+      "description": "Sent by andrews54757 at 6/22/2025, 3:44:58 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "1x6x7",
+        "version": "1.16.5"
+      },
+      "path": "attachments/AL001_accessible_shulker_loader.litematic"
+    }
+  ],
+  "records": {
+    "description": "Single hopper-speed loader with easy access to the box and most of the redstone away from the access side.",
+    "features": [
+      "One wide tileable",
+      "slice preserving",
+      "100% reliable collection"
+    ],
+    "considerations": [],
+    "notes": "Alternate honey and slime to tile."
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1392582196652675092",
+    "forumId": "1375557143201316934",
+    "continuingMessageIds": [
+      "1392582199366123747"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1392582196652675092",
+    "uploadMessageId": "1388177439364088061"
+  },
+  "archivedAt": 1752087867743,
+  "updatedAt": 1752087867743
+}

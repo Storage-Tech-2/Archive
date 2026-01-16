@@ -1,0 +1,182 @@
+{
+  "id": "1386956182526230558",
+  "name": "Box Sorter Quad Bulk",
+  "code": "DH004",
+  "reservedCodes": [
+    "DH004"
+  ],
+  "pastPostThreadIds": [
+    "1388318048372658316"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "444883614761746436",
+      "displayName": "camphorwood",
+      "username": "camphorwood",
+      "iconURL": "https://cdn.discordapp.com/avatars/444883614761746436/b846c71873bcae574d1550d0d2c78d42.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385789129794519081",
+      "name": "Recommended"
+    },
+    {
+      "id": "1386533562282672198",
+      "name": "4 Displays"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386956182933209139",
+      "name": "area_render_10_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386956182526230558/1386956182933209139/area_render_10_.png?ex=685b971a&is=685a459a&hm=8fc416a0fd9e99176be85bb216f136d9ba3af38d7d16c869df190cb308e7492e&",
+      "description": "Sent by andrews54757 at 6/24/2025, 2:28:42 AM",
+      "canDownload": true,
+      "width": 608,
+      "height": 800,
+      "path": "images/area_render_10_.png"
+    },
+    {
+      "id": "1386956183432335472",
+      "name": "area_render_9_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386956182526230558/1386956183432335472/area_render_9_.png?ex=685b971a&is=685a459a&hm=f15db680521f58da34cd59780657cf0285e8e3eb8638d92cdf541f4a0e73d954&",
+      "description": "Sent by andrews54757 at 6/24/2025, 2:28:42 AM",
+      "canDownload": true,
+      "width": 633,
+      "height": 800,
+      "path": "images/area_render_9_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1451836922556190832",
+      "name": "DH004_2025-12-20_15-18-35_quad_bulk_showcase.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1386956182526230558/1451836922556190832/2025-12-20_15-18-35_quad_bulk_showcase.zip?ex=6947a000&is=69464e80&hm=2bacbdd95e13634cd11125deffc8f6a7da5264668589833ded4bc7e3b6cb9940&",
+      "description": "Sent by camphorwood at 12/20/2025, 2:21:36 AM",
+      "canDownload": true,
+      "path": "attachments/DH004_2025-12-20_15-18-35_quad_bulk_showcase.zip",
+      "wdl": {
+        "version": "1.21.1"
+      }
+    },
+    {
+      "id": "1451836922824753194",
+      "name": "DH004_quad_bulk_fixed3.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386956182526230558/1451836922824753194/quad_bulk_fixed3.litematic?ex=6947a000&is=69464e80&hm=b93ed0a66c927d0010f461bf7670ac435191a172cf1a49fd84a0db3ab2a5c829&",
+      "description": "Sent by camphorwood at 12/20/2025, 2:21:36 AM",
+      "canDownload": true,
+      "path": "attachments/DH004_quad_bulk_fixed3.litematic",
+      "litematic": {
+        "size": "35x42x64",
+        "version": "1.21.1"
+      }
+    }
+  ],
+  "records": {
+    "description": "4 box displays per slice design with Quad bulk, Box sorters use a special whitelisting keygen, Whitelister uses cart yeeting, hence 1.19+, 216 item types (can be reduced), FHL",
+    "features": [
+      "Quad bulk",
+      "Box sorters use a special whitelisting keygen",
+      "Whitelister uses cart yeeting, hence 1.19+",
+      "216 item types (can be reduced)",
+      "Fully hopperlocked"
+    ],
+    "considerations": [
+      "Top displays can break if activated rapidly, make sure global box placement is triggered only after sorting is completed."
+    ],
+    "notes": "[Showcase video](https://www.youtube.com/watch?v=i24AdqmGXLI) (!important)\n- Top display designed by @Jayroi\n- Bottom display designed by @DatNerd\n- Box sorter based on work by @crain"
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Display",
+      "id": "1454753497638506689",
+      "url": "https://discord.com/channels/1375556143186837695/1454753497638506689/1454753498494144522",
+      "matches": [
+        "box display"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Sorter",
+      "id": "1454753516269736090",
+      "url": "https://discord.com/channels/1375556143186837695/1454753516269736090/1454753518383792221",
+      "matches": [
+        "Box sorter"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Keygen",
+      "id": "1454753674298396785",
+      "url": "https://discord.com/channels/1375556143186837695/1454753674298396785/1454753674898440377",
+      "matches": [
+        "keygen"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "cart yeet",
+      "id": "1455675378931728598",
+      "url": "https://discord.com/channels/1375556143186837695/1455675378931728598/1455675380160659517",
+      "matches": [
+        "cart yeet"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperlocked",
+      "id": "1454753660625227895",
+      "url": "https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422",
+      "matches": [
+        "hopperlocked"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Global",
+      "id": "1454753648574992557",
+      "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
+      "matches": [
+        "global"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1388318048372658316",
+    "forumId": "1375565403727724764",
+    "continuingMessageIds": [
+      "1388318051543548005"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388318048372658316",
+    "uploadMessageId": "1451837605921685566",
+    "attachmentMessageId": "1388196225555103918"
+  },
+  "archivedAt": 1766215457420,
+  "updatedAt": 1766215457420
+}

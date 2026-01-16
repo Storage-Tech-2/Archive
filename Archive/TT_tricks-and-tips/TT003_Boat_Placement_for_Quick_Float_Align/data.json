@@ -1,0 +1,116 @@
+{
+  "id": "1451490180614717563",
+  "name": "Boat Placement for Quick Float Align",
+  "code": "TT003",
+  "reservedCodes": [
+    "TT003"
+  ],
+  "pastPostThreadIds": [
+    "1451490614670786581"
+  ],
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "512019182636892182",
+      "username": "pwouik",
+      "iconURL": "https://cdn.discordapp.com/avatars/512019182636892182/ffa7fb211fb9572493cfe3205a8c4114.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "803398149217189950",
+      "displayName": "Nvertd",
+      "username": "nvertd",
+      "iconURL": "https://cdn.discordapp.com/avatars/803398149217189950/b5bc2649d3bf10ad4d486ab0e3e2c0ab.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "803398149217189950",
+      "username": "nvertd",
+      "displayName": "Nvertd",
+      "iconURL": "https://cdn.discordapp.com/avatars/803398149217189950/b5bc2649d3bf10ad4d486ab0e3e2c0ab.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1388657843774816394",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1388657843774816395",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1451490180946071675",
+      "name": "Float_Aligner.png",
+      "contentType": "image/jpeg",
+      "url": "https://cdn.discordapp.com/attachments/1451490180614717563/1451490180946071675/Float_Aligner.jpg?ex=69465d12&is=69450b92&hm=77b1691139cbc05dda4e8ebb89a2e9bf514fe2ba37485690ead1d820ba4a21ef&",
+      "description": "Sent by nvertd at 12/19/2025, 3:23:46 AM",
+      "canDownload": true,
+      "width": 618,
+      "height": 800,
+      "path": "images/Float_Aligner.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1451490180946071675",
+      "name": "TT003_Float_Aligner.jpg",
+      "contentType": "image/jpeg",
+      "url": "https://cdn.discordapp.com/attachments/1451490180614717563/1451490180946071675/Float_Aligner.jpg?ex=69465d12&is=69450b92&hm=77b1691139cbc05dda4e8ebb89a2e9bf514fe2ba37485690ead1d820ba4a21ef&",
+      "description": "Sent by nvertd at 12/19/2025, 3:23:46 AM",
+      "canDownload": true,
+      "path": "attachments/TT003_Float_Aligner.jpg"
+    }
+  ],
+  "records": {
+    "description": "Placement of a boat to quickly float align other entities by colliding with the boat.\nThis is a simpler alternative to https://discordapp.com/channels/1375556143186837695/1388665299418480761\n\n### What is \"Float Align\"?\nBrought to you by Pwouik @pwouik\n> The minecart hitbox is 0.98 blocks. When a piston retracts with an entity inside, it push it by 0.020000009536746 block to the opposite direction, if there is no blocks in front. So one side [of the mincart] is slightly on the next block.\n> \n> Easiest way to float a minecart is 0 ticking a piston with the minecart in front.\n> \n> This cause the minecart to be detectable by block, but the entity doesn't collide with the blocks.\n> \n> A few examples of blocks that can detect the minecart:\n> moving blocks can push the minecart, slimeblock can accelerate it \n> hopper can interact with minecarts inventories\n> tripwire detect it when ticked, but the minecart doesn't tick it(you can put an entity colliding with the block where the tripwire is to tick it continuously)"
+  },
+  "references": [
+    {
+      "type": "archivedPost",
+      "id": "1388663948227903560",
+      "code": "TT001",
+      "name": "How to float align items",
+      "url": "https://discord.com/channels/1375556143186837695/1388665299418480761",
+      "path": "Archive/TT_tricks-and-tips/TT001_How_to_float_align_items",
+      "matches": [
+        "https://discordapp.com/channels/1375556143186837695/1388665299418480761"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "0 tick",
+      "id": "1454804845960757319",
+      "url": "https://discord.com/channels/1375556143186837695/1454804845960757319/1454804847290220666",
+      "matches": [
+        "0 tick"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "tick",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "tick"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1451490614670786581",
+    "forumId": "1388657467508133928",
+    "continuingMessageIds": [
+      "1451651644285780189",
+      "1451651645023850740"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1451490614670786581",
+    "uploadMessageId": "1451651640619831388"
+  },
+  "archivedAt": 1766904744325,
+  "updatedAt": 1766901636500
+}

@@ -1,0 +1,157 @@
+{
+  "id": "1393001409166704751",
+  "name": "3 Item Restock Station",
+  "code": "SP001",
+  "reservedCodes": [
+    "SP001"
+  ],
+  "pastPostThreadIds": [
+    "1457541626766430260"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1167143504573644901",
+      "displayName": "Xia",
+      "username": "putangina_ka_",
+      "iconURL": "https://cdn.discordapp.com/avatars/1167143504573644901/67f85a384cadc1f1b6941c61f45d5f39.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "114896993654013958",
+      "username": "datnerd",
+      "reason": "Floor display design",
+      "dontDisplay": true,
+      "iconURL": "https://cdn.discordapp.com/avatars/114896993654013958/d4cec89664bba88100de2df0c32c44eb.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "166080074536189952",
+      "username": "misterkartoffel",
+      "reason": "Top display design",
+      "dontDisplay": true,
+      "iconURL": "https://cdn.discordapp.com/avatars/166080074536189952/a050c435fbdfa5436bdfb33906a6d2d3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1457538569756475392",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1457543013025710093",
+      "name": "Restock Stations"
+    }
+  ],
+  "images": [
+    {
+      "id": "1393001410089713885",
+      "name": "Xia_-_3_item_Restock_Station.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1393001409166704751/1393001410089713885/Xia_-_3_item_Restock_Station.png?ex=68719528&is=687043a8&hm=b7274815539d17c9276f56199fcf73c31b21e7868a6f74c2b819bcc794c23724&",
+      "description": "Sent by ragdollwilly at 7/10/2025, 6:50:16 PM",
+      "canDownload": true,
+      "width": 679,
+      "height": 800,
+      "path": "images/Xia_-_3_item_Restock_Station.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1393001410404290690",
+      "name": "SP001_Xia_-_3_Item_Restock_Station.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1393001409166704751/1393001410404290690/Xia_-_3_Item_Restock_Station.litematic?ex=68719528&is=687043a8&hm=86f53f0111162b2baecabaabf13abb14222a22c33bfa55a258405c849c2a8f94&",
+      "description": "Sent by ragdollwilly at 7/10/2025, 6:50:16 PM",
+      "canDownload": true,
+      "path": "attachments/SP001_Xia_-_3_Item_Restock_Station.litematic",
+      "litematic": {
+        "size": "1x12x10",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A restock station that uses 3 box displays.",
+    "features": [
+      "Local first box placement for both floor and top displays",
+      "Global first box placement can be added for middle display",
+      "Default extended for both floor and top displays",
+      "Collectionless"
+    ],
+    "considerations": [
+      "Unlocked hoppers",
+      "For the middle display, if 3 adjacent displayed boxes are emptied within 1gt of each other, one of the slices will fail to replace its box",
+      "Top display use togglestates"
+    ]
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Display",
+      "id": "1454753497638506689",
+      "url": "https://discord.com/channels/1375556143186837695/1454753497638506689/1454753498494144522",
+      "matches": [
+        "box display"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Local",
+      "id": "1454753648574992557",
+      "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
+      "matches": [
+        "Local",
+        "Global"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "gt",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Togglestate",
+      "id": "1454754804252282910",
+      "url": "https://discord.com/channels/1375556143186837695/1454754804252282910/1454754804881428533",
+      "matches": [
+        "togglestate"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1457541626766430260",
+    "forumId": "1457538260892127293",
+    "continuingMessageIds": [
+      "1457541630121873450"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1457541626766430260",
+    "uploadMessageId": "1457541624706891889"
+  },
+  "archivedAt": 1752253853582,
+  "updatedAt": 1767575397001
+}

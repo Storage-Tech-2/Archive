@@ -1,0 +1,104 @@
+{
+  "id": "1387513620413288608",
+  "name": "Simple isBox/isPotion/isBook/isShearsOrFlint Filters",
+  "code": "US003",
+  "reservedCodes": [
+    "US003"
+  ],
+  "pastPostThreadIds": [
+    "1388317944609636402"
+  ],
+  "authors": [],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385789127018156145",
+      "name": "Recommended"
+    },
+    {
+      "id": "1387480428759482418",
+      "name": "Shears & Flint"
+    },
+    {
+      "id": "1387482490637127730",
+      "name": "Books"
+    },
+    {
+      "id": "1387480555469148250",
+      "name": "isBox"
+    },
+    {
+      "id": "1385488499884425243",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1387513621109674176",
+      "name": "unstackabledrawio.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387513620413288608/1387513621109674176/unstackable.drawio.png?ex=685d9e42&is=685c4cc2&hm=f6fd21d81e0ed2ac3cf6105bc7848b7086b9c940c5d6c0d6ca0e7f39256af6e3&",
+      "description": "Sent by andrews54757 at 6/25/2025, 3:23:45 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 743,
+      "path": "images/unstackabledrawio.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1387513621344419951",
+      "name": "US003_Simple_Unstackable_Filters.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387513620413288608/1387513621344419951/Simple_Unstackable_Filters.litematic?ex=685d9e42&is=685c4cc2&hm=e421c512b69bd5869fbce41f5e31a6d0023a5986dbd2b44efbccf99e9afa917b&",
+      "description": "Sent by andrews54757 at 6/25/2025, 3:23:45 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "17x4x5",
+        "version": "1.21.4"
+      },
+      "path": "attachments/US003_Simple_Unstackable_Filters.litematic"
+    }
+  ],
+  "records": {
+    "description": "These filters can accept any unstackable item as input and depending on the inventory block check if they are either a box, a potion, a book, or are shears/flint at hopperspeed.",
+    "features": [
+      "Very simple hopperspeed design",
+      "Can accept any obtainable unstackable item as input"
+    ],
+    "considerations": [],
+    "notes": "The isShearsOrFlint filter uses a dispenser. Be careful not to input stackable TNT by accident."
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperspeed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopperspeed"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "forumId": "1375564342392786944",
+    "threadId": "1388317944609636402",
+    "continuingMessageIds": [
+      "1388317947373551737"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388317944609636402",
+    "attachmentMessageId": "1388178842606375035",
+    "uploadMessageId": "1388178836465778739"
+  },
+  "archivedAt": 1750969207691,
+  "updatedAt": 1750969207691
+}

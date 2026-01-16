@@ -1,0 +1,128 @@
+{
+  "id": "1386466762488549526",
+  "name": "18gt Box First Item Blacklister/Whitelister",
+  "code": "IBS001",
+  "reservedCodes": [
+    "IBS001"
+  ],
+  "pastPostThreadIds": [
+    "1388316853004140554"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "183711148288245760",
+      "username": "drakephose",
+      "iconURL": "https://cdn.discordapp.com/avatars/183711148288245760/bfaafaea0f922180417020864ce32970.webp",
+      "displayName": "DrakePHOSE"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385789091676946514",
+      "name": "Recommended"
+    },
+    {
+      "id": "1385488470557986893",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386466763138400296",
+      "name": "b.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386466762488549526/1386466763138400296/b.png?ex=6859cf4b&is=68587dcb&hm=0dd4c6abf3b7c964d027f2fb06bc6264ac6d6e5cd5ea2783e2b4c93b3c1d7a9b&",
+      "description": "Sent by andrews54757 at 6/22/2025, 6:03:55 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 505,
+      "path": "images/b.png"
+    },
+    {
+      "id": "1386466763884990566",
+      "name": "w.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386466762488549526/1386466763884990566/w.png?ex=6859cf4b&is=68587dcb&hm=7340b582cd53839d09db42e49822bf03b6742cfb2cb5ea3b21173b9aa1fd8ec6&",
+      "description": "Sent by andrews54757 at 6/22/2025, 6:03:55 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 512,
+      "path": "images/w.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386466764258545785",
+      "name": "IBS001_DrakePHOSE_18gt_Box_Blacklister.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386466762488549526/1386466764258545785/DrakePHOSE_18gt_Box_Blacklister.litematic?ex=6859cf4b&is=68587dcb&hm=bfdf0c7d1d45efe8d6311bb1b42ef209a2dd215e610d65d307738487d4d5ee97&",
+      "description": "Sent by andrews54757 at 6/22/2025, 6:03:55 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "17x10x6",
+        "version": "1.21.1"
+      },
+      "path": "attachments/IBS001_DrakePHOSE_18gt_Box_Blacklister.litematic"
+    },
+    {
+      "id": "1386466765210386491",
+      "name": "IBS001_DrakePHOSE_18gt_Box_Whitelister.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386466762488549526/1386466765210386491/DrakePHOSE_18gt_Box_Whitelister.litematic?ex=6859cf4c&is=68587dcc&hm=3ff5b8401feaf290f768a606a8bb54027543a9dc390019c286d672529ac926ca&",
+      "description": "Sent by andrews54757 at 6/22/2025, 6:03:55 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "17x10x6",
+        "version": "1.21.1"
+      },
+      "path": "attachments/IBS001_DrakePHOSE_18gt_Box_Whitelister.litematic"
+    }
+  ],
+  "records": {
+    "description": "Separates boxes based on if the first item of the input box matches an item set.",
+    "features": [
+      "Output can be adjusted. For example: moving the gate to a different distance, replacing the gate with a piston setup (the gate cannot be replaced by a trapdoor at the distance shown), or by locking or unlocking a hopper to separate the box.",
+      "Can be expanded or made smaller, however the 8 slice version presented is the only one I tested. If hopper separation is used, additional testing should be minimal.",
+      "50-53 items per slice can be sorted, depending on how many 16 stackables there are in the chest."
+    ],
+    "considerations": [
+      "If an item or empty box is input, the output will spit out a hopper minecart. If enough hopper carts are spit out, it will break."
+    ],
+    "notes": "- The chest should be configured to have 55 dummy 64 stackables and 3 unstackables. To add an item to the black/whitelist, remove 1 stackable item, or 4 if the item being added is a 16 stackable, then add ***only*** 1 of the listed item into the chest.\n- Add an item ***only*** to 1 chest.\n- The signal strength of the comparators reading from the chests should be 2 then change to 1 when one item is removed from the chest.\n- Don't place a hopper on the rejected box output on the level right below the fence gate, the item can randomly hit the edge of the block and end up in the whitelisted output. Place it 1 block further below."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "forumId": "1375559535976124717",
+    "threadId": "1388316853004140554",
+    "continuingMessageIds": [
+      "1388316855805939813"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388316853004140554",
+    "attachmentMessageId": "1388177655756750918",
+    "uploadMessageId": "1388177648114729102"
+  },
+  "archivedAt": 1750630085984,
+  "updatedAt": 1768332893862
+}

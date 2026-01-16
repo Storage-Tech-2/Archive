@@ -1,0 +1,53 @@
+{
+  "id": "1454811558009110704",
+  "terms": [
+    "Schematic",
+    "Litematic"
+  ],
+  "definition": "Typically a .litematic file or a .schematic file in older versions or with different mods than litematica. It is a blueprint that tells you how to build redstone builds, tells you what materials you need and verify that you built it correctly - https://modrinth.com/mod/litematica",
+  "threadURL": "https://discord.com/channels/1375556143186837695/1454811558009110704",
+  "statusURL": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
+  "status": "APPROVED",
+  "statusMessageID": "1454811560626356487",
+  "updatedAt": 1766924588675,
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Mods",
+      "id": "1454812343409053849",
+      "url": "https://discord.com/channels/1375556143186837695/1454812343409053849/1454812344642306079",
+      "matches": [
+        "mods"
+      ]
+    }
+  ],
+  "referencedBy": [
+    "MIS003",
+    "LS004",
+    "CH001",
+    "CH005",
+    "FL003",
+    "FL004",
+    "ML004",
+    "ML007",
+    "OL003",
+    "BU003",
+    "IBS002",
+    "IBS004",
+    "BD004",
+    "OD003",
+    "HS003",
+    "US007",
+    "US008",
+    "OIP003",
+    "WT001",
+    "SP004",
+    "CC004",
+    "VBS001",
+    "TT004",
+    "SSU001",
+    "FL005",
+    "CT005",
+    "MF004"
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "1455656190955753595",
+  "name": "Skull/Amethyst Cart Yeeter",
+  "code": "CT002",
+  "reservedCodes": [
+    "CT002"
+  ],
+  "pastPostThreadIds": [
+    "1455657038184185918"
+  ],
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "319513337941721089",
+      "username": "inspectortalon",
+      "iconURL": "https://cdn.discordapp.com/avatars/319513337941721089/edec0da88a70e9697b6b43b4a2d740e3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1450268858790187239",
+      "name": "Cart Yeeting"
+    },
+    {
+      "id": "1385488491810394301",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789116905685055",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1455656192230691048",
+      "name": "area_render_146_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1455656190955753595/1455656192230691048/area_render_146_.png?ex=695584f9&is=69543379&hm=78738aafc89769caaa8c9d407d3830433b300a9f1964213e81b5ad4b60a9f9db&",
+      "description": "Sent by andrews54757 at 12/30/2025, 3:18:00 PM",
+      "canDownload": true,
+      "width": 632,
+      "height": 675,
+      "path": "images/area_render_146_.png"
+    },
+    {
+      "id": "1455656192771887114",
+      "name": "area_render_145_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1455656190955753595/1455656192771887114/area_render_145_.png?ex=695584f9&is=69543379&hm=9ffd61f4fb79f40f67829a7d66a92319914920a9932ed6c88da1f91e03e4750e&",
+      "description": "Sent by andrews54757 at 12/30/2025, 3:18:00 PM",
+      "canDownload": true,
+      "width": 632,
+      "height": 675,
+      "path": "images/area_render_145_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1455656191450415205",
+      "name": "CT002_skull_amethyst_cart_yeeter.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1455656190955753595/1455656191450415205/skull_amethyst_cart_yeeter.litematic?ex=695584f8&is=69543378&hm=a68fc1f008d076af305cd712bfa6cf595476caa3b2f2ee2610d36ea260f88e23&",
+      "description": "Sent by andrews54757 at 12/30/2025, 3:18:00 PM",
+      "canDownload": true,
+      "path": "attachments/CT002_skull_amethyst_cart_yeeter.litematic",
+      "litematic": {
+        "size": "1x4x3",
+        "version": "1.21.4"
+      }
+    },
+    {
+      "id": "1455656956458176659",
+      "name": "CT002_image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1455656190955753595/1455656956458176659/image.png?ex=695585af&is=6954342f&hm=f7d0d25ddad3f7b5ef81bd9295755587a9a88efda23bc34dfee319da0673a744&",
+      "description": "Piston bolt layout",
+      "canDownload": true,
+      "path": "attachments/CT002_image.png"
+    }
+  ],
+  "records": {
+    "description": "This cart yeeter uses a skull or amethyst cluster block to align the cart.",
+    "features": [
+      "Small footprint (2x4)",
+      "Ideal for connecting with piston bolts"
+    ]
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "cart yeet",
+      "id": "1455675378931728598",
+      "url": "https://discord.com/channels/1375556143186837695/1455675378931728598/1455675380160659517",
+      "matches": [
+        "cart yeet"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1455657038184185918",
+    "forumId": "1375563297230688327",
+    "continuingMessageIds": [
+      "1455657042013585421",
+      "1455657042747330674"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1455657038184185918",
+    "uploadMessageId": "1455657033939423349"
+  },
+  "archivedAt": 1767126080875,
+  "updatedAt": 1767126080875
+}

@@ -1,0 +1,156 @@
+{
+  "id": "1387180395883397291",
+  "name": "Simple 1x Shulker Box Unloader",
+  "code": "BU006",
+  "reservedCodes": [
+    "BU006"
+  ],
+  "pastPostThreadIds": [
+    "1392582417025597580"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "244529884846751745",
+      "displayName": "Raffq",
+      "username": "raffq",
+      "iconURL": "https://cdn.discordapp.com/avatars/244529884846751745/25d3bc667842f56584713459d3f4713b.webp"
+    },
+    {
+      "type": "unknown",
+      "username": "SamosTheSage"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488474148438035",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1386248557111017532",
+      "name": "1X Hopperspeed"
+    }
+  ],
+  "images": [
+    {
+      "id": "1392582350583496876",
+      "name": "BU006_toggle_less_unloader_render.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387180395883397291/1392582350583496876/BU006_toggle_less_unloader_render.png?ex=68700ee1&is=686ebd61&hm=a30432f4c4461fa9a4b6deebced80410c44f1d8cbf2b3cd4f1ea1ae2a1438dea&",
+      "description": "Sent by TMC Schematic Renderer at 7/9/2025, 3:05:05 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 681,
+      "path": "images/BU006_toggle_less_unloader_render.png"
+    },
+    {
+      "id": "1392582338839314574",
+      "name": "BU006_perfect_shulker_unloader_render.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387180395883397291/1392582338839314574/BU006_perfect_shulker_unloader_render.png?ex=68700ede&is=686ebd5e&hm=4c08efcdc1e16af01f087b2639073d33e5e2601c8651480195b7f55f2f9f9050&",
+      "description": "Sent by TMC Schematic Renderer at 7/9/2025, 3:05:02 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 549,
+      "path": "images/BU006_perfect_shulker_unloader_render.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1387180396579520624",
+      "name": "BU006_perfect_shulker_unloader.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387180395883397291/1387180396579520624/perfect_shulker_unloader.litematic?ex=6868ee2b&is=68679cab&hm=70174f254b1eefdb98e7052a16af52fc6e6fdf3cf1c2096e0a8511282db77573&",
+      "description": "Sent by andrews54757 at 6/24/2025, 5:19:38 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "6x4x1",
+        "version": "1.16.2"
+      },
+      "path": "attachments/BU006_perfect_shulker_unloader.litematic"
+    },
+    {
+      "id": "1390784091909259475",
+      "name": "BU006_toggle_less_unloader.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387180395883397291/1390784091909259475/toggle_less_unloader.litematic?ex=6869841f&is=6868329f&hm=63a7d95f1669d23fae86b3303bcc1620379a4ecc79e1a0891c09f168fa4c8d77&",
+      "description": "Sent by andrews54757 at 7/4/2025, 3:59:27 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "1x5x6",
+        "version": "1.21.4"
+      },
+      "path": "attachments/BU006_toggle_less_unloader.litematic"
+    }
+  ],
+  "records": {
+    "description": "Simple hopperspeed box unloader. Toggle-less variant included.",
+    "features": [
+      "Small design",
+      "Can handle empty boxes"
+    ],
+    "considerations": [
+      "Box collection is not 100% reliable if tiled because box item can be collected by adjacent slice, must be A/B tiled."
+    ],
+    "notes": "[Showcase Video](https://www.youtube.com/watch?v=Vp17vDuMHAQ)"
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperspeed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopperspeed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Unloader",
+      "id": "1454754824758493380",
+      "url": "https://discord.com/channels/1375556143186837695/1454754824758493380/1454754825345433803",
+      "matches": [
+        "unloader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Collection",
+      "id": "1454805930670559326",
+      "url": "https://discord.com/channels/1375556143186837695/1454805930670559326/1454805932532830268",
+      "matches": [
+        "Box collection"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1392582417025597580",
+    "forumId": "1375560446676963450",
+    "continuingMessageIds": [
+      "1392582420632699112"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1392582417025597580",
+    "uploadMessageId": "1390784322830602366"
+  },
+  "archivedAt": 1752087920247,
+  "updatedAt": 1752087920247
+}

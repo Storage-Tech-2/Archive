@@ -1,0 +1,154 @@
+{
+  "id": "1426638674891636776",
+  "name": "Block Swapper Display",
+  "code": "OD005",
+  "reservedCodes": [
+    "OD005"
+  ],
+  "pastPostThreadIds": [
+    "1428107250462887981"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "960892961623785482",
+      "displayName": "X8Ghost",
+      "username": "x8ghost",
+      "iconURL": "https://cdn.discordapp.com/avatars/960892961623785482/a446f7ac0cc7c95ce7aee7210449cc4a.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "460316892976906261",
+      "displayName": "Ragdoll Willy",
+      "username": "ragdollwilly",
+      "iconURL": "https://cdn.discordapp.com/avatars/460316892976906261/a0332117bf4e609a1ead4417ae4357b4.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "444883614761746436",
+      "displayName": "camphorwood",
+      "username": "camphorwood",
+      "iconURL": "https://cdn.discordapp.com/avatars/444883614761746436/b846c71873bcae574d1550d0d2c78d42.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488480968118300",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1386201854257532949",
+      "name": "Auto Replacement"
+    }
+  ],
+  "images": [
+    {
+      "id": "1426638676066304111",
+      "name": "Shuffler_Display_-_Autumn_Version.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1426638674891636776/1426638676066304111/Shuffler_Display_-_Autumn_Version.png?ex=68ebf44e&is=68eaa2ce&hm=dfd73181c1eccbd8ee57d7a496ddd130b969149dca3307683859368484daf731&",
+      "description": "Sent by ragdollwilly at 10/11/2025, 2:32:45 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 769,
+      "path": "images/Shuffler_Display_-_Autumn_Version.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1426638675474649168",
+      "name": "OD005_Shuffler_Display_-_Autumn_Version.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1426638674891636776/1426638675474649168/Shuffler_Display_-_Autumn_Version.litematic?ex=68ebf44d&is=68eaa2cd&hm=30a1689bf02d02503c9b7a08f6978f8e29c297adb9a58e66ace50759b8adc0e3&",
+      "description": "Sent by ragdollwilly at 10/11/2025, 2:32:45 PM",
+      "canDownload": true,
+      "path": "attachments/OD005_Shuffler_Display_-_Autumn_Version.litematic",
+      "litematic": {
+        "size": "7x7x1",
+        "version": "1.20.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Box display for restock halls with a unique animation/UI. When there is no box, a moveable block is placed where the box is supposed to be. This block is swapped with the bottom stair when a box is present, and can be used as a block display if the item is a solid moveable block.",
+    "features": [
+      "Default Extended",
+      "Local First Box Placement",
+      "Collectionless",
+      "Chest Readout",
+      "Perfect UI, Unique Animation"
+    ],
+    "considerations": [
+      "Has a toggle state",
+      "No box collection"
+    ]
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Display",
+      "id": "1454753497638506689",
+      "url": "https://discord.com/channels/1375556143186837695/1454753497638506689/1454753498494144522",
+      "matches": [
+        "Box display"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "UI",
+      "id": "1454754844316274861",
+      "url": "https://discord.com/channels/1375556143186837695/1454754844316274861/1454754845033627671",
+      "matches": [
+        "UI"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Local",
+      "id": "1454753648574992557",
+      "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
+      "matches": [
+        "Local"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Toggle state",
+      "id": "1454754804252282910",
+      "url": "https://discord.com/channels/1375556143186837695/1454754804252282910/1454754804881428533",
+      "matches": [
+        "toggle state"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Collection",
+      "id": "1454805930670559326",
+      "url": "https://discord.com/channels/1375556143186837695/1454805930670559326/1454805932532830268",
+      "matches": [
+        "box collection"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1428107250462887981",
+    "forumId": "1375561629378416740",
+    "continuingMessageIds": [
+      "1428107257618501693"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1428107250462887981",
+    "uploadMessageId": "1428107248336371874"
+  },
+  "archivedAt": 1760557700679,
+  "updatedAt": 1760557700679
+}

@@ -1,0 +1,110 @@
+{
+  "id": "1386244541513863249",
+  "name": "3wt 8x Mixed Box Loader",
+  "code": "ML001",
+  "reservedCodes": [
+    "ML001"
+  ],
+  "pastPostThreadIds": [
+    "1388316751061581936"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "444883614761746436",
+      "username": "camphorwood",
+      "iconURL": "https://cdn.discordapp.com/avatars/444883614761746436/b846c71873bcae574d1550d0d2c78d42.webp",
+      "displayName": "camphorwood"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385789085947527315",
+      "name": "Recommended"
+    },
+    {
+      "id": "1385488466447695900",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1386244848272801895",
+      "name": "8X Hopperspeed"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386244542956830750",
+      "name": "3wt_8x_Mixed_Loader.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386244541513863249/1386244542956830750/3wt_8x_Mixed_Loader.png?ex=68590056&is=6857aed6&hm=80ffea0224c68c6c86e089f5d8cbf2cc6c2cdd3d9a051466d0e7cc1e29d9bb39&",
+      "description": "Sent by andrews54757 at 6/22/2025, 3:20:53 AM",
+      "canDownload": true,
+      "width": 798,
+      "height": 800,
+      "path": "images/3wt_8x_Mixed_Loader.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386244541702475818",
+      "name": "ML001_3wt_8x_Mixed_Loader.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386244541513863249/1386244541702475818/3wt_8x_Mixed_Loader.litematic?ex=68590055&is=6857aed5&hm=4f3904b8a6af2b9d3617254c4fcc4234b346a529be33240eb77c141a325111cf&",
+      "description": "Sent by andrews54757 at 6/22/2025, 3:20:53 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "3x7x7",
+        "version": "1.16"
+      },
+      "path": "attachments/ML001_3wt_8x_Mixed_Loader.litematic"
+    }
+  ],
+  "records": {
+    "description": "Loads single or mixed item types into shulker boxes at 8x hopper speed (approximately 72k/hr). ",
+    "features": [
+      "Small (7x7x3)",
+      "No item spitting with random input",
+      "Locally clocked",
+      "Ejects boxes as items without buffer"
+    ],
+    "considerations": [
+      "Only 2/3 blocks in the item stream are ice making it not that Nether friendly",
+      "Can buffer items inside the droppers"
+    ],
+    "notes": "For Minecraft 1.13 compatibility, use droppers instead of composters."
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "8x",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "8x",
+        "hopper speed"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "forumId": "1375557473066418206",
+    "threadId": "1388316751061581936",
+    "continuingMessageIds": [
+      "1388316754878398637"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388316751061581936",
+    "attachmentMessageId": "1388177521211736099",
+    "uploadMessageId": "1388177514286944327"
+  },
+  "archivedAt": 1750576991354,
+  "updatedAt": 1750576991354
+}

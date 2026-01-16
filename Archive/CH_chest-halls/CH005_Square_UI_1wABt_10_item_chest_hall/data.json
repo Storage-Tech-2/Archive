@@ -1,0 +1,172 @@
+{
+  "id": "1388550949571793120",
+  "name": "Square UI 1wABt 10 item chest hall",
+  "code": "CH005",
+  "reservedCodes": [
+    "CH005"
+  ],
+  "pastPostThreadIds": [
+    "1388551652319039702"
+  ],
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "1305612001405440044",
+      "username": "fjall0473",
+      "iconURL": "https://cdn.discordapp.com/embed/avatars/3.png"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488483170386069",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1386099837115826406",
+      "name": "10 Chests"
+    },
+    {
+      "id": "1386699846542692493",
+      "name": "SS2"
+    }
+  ],
+  "images": [
+    {
+      "id": "1388550950012190720",
+      "name": "area_render_62_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1388550949571793120/1388550950012190720/area_render_62_.png?ex=68616458&is=686012d8&hm=9a6fa5bb15791aeaa53ec471d3d1726430b483c012698e8a0a2421e184507ee6&",
+      "description": "Sent by andrews54757 at 6/28/2025, 12:05:44 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 537,
+      "path": "images/area_render_62_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1388550950326636604",
+      "name": "CH005_1wabt_10_Item_Chest_hall_SSI.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1388550949571793120/1388550950326636604/1wabt_10_Item_Chest_hall_SSI.litematic?ex=68616458&is=686012d8&hm=0bd3c4a8e6ebbd5fa689714bdb26619ce23a2d73d142b0810cf2e89d98287e77&",
+      "description": "Sent by andrews54757 at 6/28/2025, 12:05:44 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "33x19x4",
+        "version": "1.21"
+      },
+      "path": "attachments/CH005_1wabt_10_Item_Chest_hall_SSI.litematic"
+    }
+  ],
+  "records": {
+    "description": "10 item chest hall with a unique square user interface design.",
+    "features": [
+      "43 hopppers per slice and full hopperlocking even when filters are overflowing.",
+      "3 10gt filters per side, the rest is 8gt or less.",
+      "SS2 signal strength isolated (SSI) filters.",
+      "No prefilling.",
+      "All filters are accessible with the scaffolding.",
+      "At least a barrel of extra capacity for every chest."
+    ],
+    "considerations": [
+      "The 3 10gt filters may require input batching"
+    ],
+    "notes": "Schematic includes subregions for locking switches and chest hall."
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Chest Hall",
+      "id": "1454753529700024331",
+      "url": "https://discord.com/channels/1375556143186837695/1454753529700024331/1454753530488426527",
+      "matches": [
+        "chest hall"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "User interface",
+      "id": "1454754844316274861",
+      "url": "https://discord.com/channels/1375556143186837695/1454754844316274861/1454754845033627671",
+      "matches": [
+        "user interface"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopperlocking",
+      "id": "1454753660625227895",
+      "url": "https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422",
+      "matches": [
+        "hopperlocking"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "gt",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "ss",
+      "id": "1454754774833696893",
+      "url": "https://discord.com/channels/1375556143186837695/1454754774833696893/1454754775542267957",
+      "matches": [
+        "SS"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Signal Strength Isolated",
+      "id": "1455820021581217843",
+      "url": "https://discord.com/channels/1375556143186837695/1455820021581217843/1455820022256500874",
+      "matches": [
+        "signal strength isolated",
+        "SSI"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Schematic",
+      "id": "1454811558009110704",
+      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
+      "matches": [
+        "Schematic"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1388551652319039702",
+    "forumId": "1375561810392125510",
+    "continuingMessageIds": [
+      "1388551655536066740"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388551652319039702",
+    "uploadMessageId": "1388551651069132881"
+  },
+  "archivedAt": 1751289310557,
+  "updatedAt": 1751289310557
+}

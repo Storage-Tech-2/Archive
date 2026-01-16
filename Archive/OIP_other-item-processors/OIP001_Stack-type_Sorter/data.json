@@ -1,0 +1,105 @@
+{
+  "id": "1386191299228467241",
+  "name": "Stack-type Sorter",
+  "code": "OIP001",
+  "reservedCodes": [
+    "OIP001"
+  ],
+  "pastPostThreadIds": [
+    "1388317684948533249"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp",
+      "username": "andrews54757"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1386556230293651537",
+      "name": "isStackable"
+    },
+    {
+      "id": "1385789124472082444",
+      "name": "Recommended"
+    },
+    {
+      "id": "1385488498122948798",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386191299836772433",
+      "name": "area_render_3_copy.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386191299228467241/1386191299836772433/area_render_3_copy.png?ex=6858cec0&is=68577d40&hm=6f19479202abd5c44fdbd8c9f3c549aefa15f44514f54f8483fe6a80edf0a9d1&",
+      "description": "Sent by andrews54757 at 6/21/2025, 11:49:19 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 693,
+      "path": "images/area_render_3_copy.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386191299505557585",
+      "name": "OIP001_stack_type_sorter.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386191299228467241/1386191299505557585/stack_type_sorter.litematic?ex=6858cebf&is=68577d3f&hm=1df087ce900a0230ae519185af7b81370b7f27fce023607e6ff216289fb585bc&",
+      "description": "Sent by andrews54757 at 6/21/2025, 11:49:19 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "5x4x2",
+        "version": "1.17.1"
+      },
+      "path": "attachments/OIP001_stack_type_sorter.litematic"
+    }
+  ],
+  "records": {
+    "description": "Sorts items based on their stack type at hopperspeed. Has three outputs for unstackable, 16-stackable, and 64 stackable items.",
+    "features": [
+      "Small size: 5x4x2",
+      "No pistons",
+      "6 hoppers total"
+    ],
+    "considerations": [],
+    "notes": "First dropper should have 38 items in its last slot."
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperspeed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopperspeed"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "forumId": "1375564209882009772",
+    "threadId": "1388317684948533249",
+    "continuingMessageIds": [
+      "1388317687536681053"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388317684948533249",
+    "attachmentMessageId": "1388178727925448834",
+    "uploadMessageId": "1388178721357430885"
+  },
+  "archivedAt": 1750565912801,
+  "updatedAt": 1750565912801
+}

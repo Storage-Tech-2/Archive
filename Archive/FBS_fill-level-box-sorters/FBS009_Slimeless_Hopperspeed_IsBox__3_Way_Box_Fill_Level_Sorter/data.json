@@ -1,0 +1,99 @@
+{
+  "id": "1402525206710452346",
+  "name": "Slimeless Hopperspeed IsBox + 3 Way Box Fill Level Sorter",
+  "code": "FBS009",
+  "reservedCodes": [
+    "FBS009"
+  ],
+  "pastPostThreadIds": [
+    "1405457712044838932"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1068798858676686848",
+      "displayName": "77777777777777777777",
+      "username": "777777777777777777774832",
+      "iconURL": "https://cdn.discordapp.com/avatars/1068798858676686848/9c8fd7932d9c0072be4f3d559abe76b8.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488472189571100",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1386918793535684660",
+      "name": "3 Way Sorter"
+    }
+  ],
+  "images": [
+    {
+      "id": "1402525207520088114",
+      "name": "area_render_226_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1402525206710452346/1402525207520088114/area_render_226_.png?ex=68943ae3&is=6892e963&hm=f2566150d744e1be8903bd92a045dff15f6fc5676534100cfc17c1bcb793f4f2&",
+      "description": "Sent by 777777777777777777774832 at 8/6/2025, 1:34:26 AM",
+      "canDownload": true,
+      "width": 776,
+      "height": 800,
+      "path": "images/area_render_226_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1402525462655402054",
+      "name": "FBS009_Hopperspeed_IsBox__3_Way_Box_Fill_Level_Sorter2.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1402525206710452346/1402525462655402054/Hopperspeed_IsBox__3_Way_Box_Fill_Level_Sorter2.litematic?ex=68943b1f&is=6892e99f&hm=81168dd3d58aba372fca72eed6ff1e79e7e815bdf7a90c9bc709c1c303b048e4&",
+      "description": "Sent by 777777777777777777774832 at 8/6/2025, 1:35:27 AM",
+      "canDownload": true,
+      "path": "attachments/FBS009_Hopperspeed_IsBox__3_Way_Box_Fill_Level_Sorter2.litematic",
+      "litematic": {
+        "size": "6x6x2",
+        "version": "1.20.1"
+      }
+    }
+  ],
+  "records": {
+    "description": "A device that separates loose items and boxes, and sorts the boxes into 3 groups: empty, partially filled, and full boxes. Useful for processing items from inputs to storage systems. This design does not use slime blocks.",
+    "features": [
+      "Hopperspeed",
+      "Small design (2x6x6) with no slime blocks",
+      "Ejects the items and boxes out of their respective dropper without buffer",
+      "Works with random inputs"
+    ]
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperspeed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "Hopperspeed"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1405457712044838932",
+    "forumId": "1375559651579527208",
+    "continuingMessageIds": [
+      "1405457714980847646"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1405457712044838932",
+    "uploadMessageId": "1405457710618640436"
+  },
+  "archivedAt": 1755157630174,
+  "updatedAt": 1755157630174
+}

@@ -1,0 +1,40 @@
+{
+  "id": "1375569954073477120",
+  "name": "variable-item-processing",
+  "code": "VIP",
+  "category": "Advanced Tech",
+  "description": "Variable item sorting",
+  "currentCodeId": 6,
+  "entries": [
+    {
+      "id": "1386431947928244496",
+      "code": "VIP001",
+      "path": "VIP001_Global_Reset_Var_Loaders"
+    },
+    {
+      "id": "1386467829523550238",
+      "code": "VIP002",
+      "path": "VIP002_Variable_cart_filter"
+    },
+    {
+      "id": "1387083566676181035",
+      "code": "VIP003",
+      "path": "VIP003_32X_and_64X_Compact_Ideal_Splitter"
+    },
+    {
+      "id": "1388707866592149638",
+      "code": "VIP004",
+      "path": "VIP004_Mini_Splitti_Full_Feature_Set"
+    },
+    {
+      "id": "1397831329004912830",
+      "code": "VIP005",
+      "path": "VIP005_Variable_Cart_Ideal_Output_Splitter"
+    },
+    {
+      "id": "1450280312646140135",
+      "code": "VIP006",
+      "path": "VIP006_1wt_Variable_Item_Entity_Filter"
+    }
+  ]
+}

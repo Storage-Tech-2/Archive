@@ -1,0 +1,106 @@
+{
+  "id": "1386419505961369690",
+  "name": "Compact Box Fill Level Comparer",
+  "code": "FBS001",
+  "reservedCodes": [
+    "FBS001"
+  ],
+  "pastPostThreadIds": [
+    "1388316891721764885"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "444883614761746436",
+      "username": "camphorwood",
+      "iconURL": "https://cdn.discordapp.com/avatars/444883614761746436/b846c71873bcae574d1550d0d2c78d42.webp",
+      "displayName": "camphorwood"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1386421274523209809",
+      "name": "Comparer"
+    },
+    {
+      "id": "1385789094197461155",
+      "name": "Recommended"
+    },
+    {
+      "id": "1385488472189571100",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386419507064737883",
+      "name": "asdasdmage.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386419505961369690/1386419507064737883/asdasdmage.png?ex=6859a348&is=685851c8&hm=7f0954f0943dca0fdad3f5dd45492ab6217a12ef18b6bead662b523a3b11c526&",
+      "description": "Sent by andrews54757 at 6/22/2025, 2:56:08 PM",
+      "canDownload": true,
+      "width": 636,
+      "height": 477,
+      "path": "images/asdasdmage.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386419507546951690",
+      "name": "FBS001_comparerer.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386419505961369690/1386419507546951690/comparerer.litematic?ex=6859a349&is=685851c9&hm=12f635ca8fc8c369b5c23cc88bce215148ce5518f5c8edadfdeb7fba36674fe8&",
+      "description": "Sent by andrews54757 at 6/22/2025, 2:56:08 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "5x2x5",
+        "version": "1.20.2"
+      },
+      "path": "attachments/FBS001_comparerer.litematic"
+    }
+  ],
+  "records": {
+    "description": "Given two boxes, compares the fill level of the two boxes and outputs the more-full box first. Useful for optimizing pairs for a merger.",
+    "features": [
+      "Only 3 hoppers used",
+      "2 blocks high"
+    ],
+    "considerations": [
+      "External clock signal required"
+    ],
+    "notes": "The noteblock is the clock input. Send pulse there after putting two boxes into the input."
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Merger",
+      "id": "1454753701204987938",
+      "url": "https://discord.com/channels/1375556143186837695/1454753701204987938/1454753702773526549",
+      "matches": [
+        "merger"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "forumId": "1375559651579527208",
+    "threadId": "1388316891721764885",
+    "continuingMessageIds": [
+      "1388316895991697502"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388316891721764885",
+    "attachmentMessageId": "1388177707602542730",
+    "uploadMessageId": "1388177700623224872"
+  },
+  "archivedAt": 1750619211970,
+  "updatedAt": 1750619211970
+}

@@ -1,0 +1,188 @@
+{
+  "id": "1387317727060033669",
+  "name": "Box Crafter Using Mixed Ingredient Boxes",
+  "code": "AC002",
+  "reservedCodes": [
+    "AC002"
+  ],
+  "pastPostThreadIds": [
+    "1388318446168572105"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "656864003242328064",
+      "displayName": "金合欢酱喵~ (acaciachan)",
+      "username": "acaciachan",
+      "iconURL": "https://cdn.discordapp.com/avatars/656864003242328064/65e1c203d9ea0af6509f0754122b45a2.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "549734176455262209",
+      "displayName": "Jaexyn",
+      "username": "jaexyn",
+      "iconURL": "https://cdn.discordapp.com/avatars/549734176455262209/847696f5e3e004a2f753d0e5b48b5f9c.webp"
+    },
+    {
+      "type": "unknown",
+      "username": "兔子(tuzier)"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488525809418299",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789161650257952",
+      "name": "Recommended"
+    },
+    {
+      "id": "1387461008922116206",
+      "name": "Box crafters"
+    }
+  ],
+  "images": [
+    {
+      "id": "1387827420198998076",
+      "name": "box_crafter_pre-made_material.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387317727060033669/1387827420198998076/box_crafter_pre-made_material.png?ex=685ec281&is=685d7101&hm=32ab9b76b2e6f5699cefd97117d7a5d26489114d593e97b3c2763b49dc7f9ad4&",
+      "description": "Sent by acaciachan at 6/26/2025, 12:10:41 PM",
+      "canDownload": true,
+      "width": 609,
+      "height": 800,
+      "path": "images/box_crafter_pre-made_material.png"
+    },
+    {
+      "id": "1387827420656304290",
+      "name": "box_material_loader_x3.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387317727060033669/1387827420656304290/box_material_loader_x3.png?ex=685ec281&is=685d7101&hm=69143577f952e46f01fba83ff0a87f8fcce623aab9a17b0b246ff955ec528636&",
+      "description": "Sent by acaciachan at 6/26/2025, 12:10:41 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 733,
+      "path": "images/box_material_loader_x3.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1387827434044395632",
+      "name": "AC002_box_crafter_pre-made_material.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387317727060033669/1387827434044395632/box_crafter_pre-made_material.litematic?ex=685f6b44&is=685e19c4&hm=5069845f6253512e2a52fff2f2594997902da5bb3317f84c2db6c65c8320e551&",
+      "description": "Sent by acaciachan at 6/26/2025, 12:10:45 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "2x4x4",
+        "version": "1.20.4"
+      },
+      "path": "attachments/AC002_box_crafter_pre-made_material.litematic"
+    },
+    {
+      "id": "1387827434342187169",
+      "name": "AC002_box_material_loader_bamboo.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387317727060033669/1387827434342187169/box_material_loader_bamboo.litematic?ex=685f6b44&is=685e19c4&hm=3c9a1630f5ec426b30acd3cd3ee4c0c71054d4d3385d87cebab6ba7f941d8bbd&",
+      "description": "Sent by acaciachan at 6/26/2025, 12:10:45 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "6x9x6",
+        "version": "1.20.4"
+      },
+      "path": "attachments/AC002_box_material_loader_bamboo.litematic"
+    },
+    {
+      "id": "1387827434623078430",
+      "name": "AC002_box_material_loader_logs.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387317727060033669/1387827434623078430/box_material_loader_logs.litematic?ex=685f6b45&is=685e19c5&hm=52003f7d20af362ac4ad8a58ffcb6f553da0133c6d708aab8a05d3afb504ceb3&",
+      "description": "Sent by acaciachan at 6/26/2025, 12:10:45 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "5x9x6",
+        "version": "1.20.4"
+      },
+      "path": "attachments/AC002_box_material_loader_logs.litematic"
+    },
+    {
+      "id": "1387893902790365254",
+      "name": "AC002_box_material_loader_logs_slow.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387317727060033669/1387893902790365254/box_material_loader_logs_slow.litematic?ex=685f006c&is=685daeec&hm=16420f1d41c51783a85d6c9cf8391a5c3e04a4da72a6b85836a6d944b0c3f96d&",
+      "description": "Sent by acaciachan at 6/26/2025, 4:34:52 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "3x7x5",
+        "version": "1.20.4"
+      },
+      "path": "attachments/AC002_box_material_loader_logs_slow.litematic"
+    }
+  ],
+  "records": {
+    "description": "Consume boxed ingredient materials (containing wood and shulker shells) to craft into shulker boxes with both ingredients being in the same boxes. Instead of having separate boxes for wood and shulker shells, this system creates and uses mixed shulker boxes containing both in a precise ratio.",
+    "features": [
+      "Higher density, the logs box and shell box takes every 4 boxes can craft 1728 boxes, but these mixed boxes only takes 3 boxes.",
+      "Players only need to carry one type of box, which is extremely convenient for management and transportation",
+      "No matter what kind of boxed wood, it can be thrown to the \"box material loader\" and the final output box is the same, and even bamboo blocks can be consumed. The crafter that consumes bamboo blocks is not only slow but also complex and easy to break.",
+      "The structure of the empty box crafter has been greatly simplified, and the ordinary version is even only 4x4x2 in size"
+    ],
+    "considerations": [
+      "You need to make a \"box material loader\" in a place such as main storage to make the mixed boxes"
+    ],
+    "notes": "Designs for both mixed box loader and box crafter are included in the WDL. Also included is a slower 1.5x speed version but entityless and without togglestates."
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Mixed Box",
+      "id": "1454753707530129576",
+      "url": "https://discord.com/channels/1375556143186837695/1454753707530129576/1454753708247089184",
+      "matches": [
+        "mixed box"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Togglestate",
+      "id": "1454754804252282910",
+      "url": "https://discord.com/channels/1375556143186837695/1454754804252282910/1454754804881428533",
+      "matches": [
+        "togglestate"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "forumId": "1375570772348764392",
+    "threadId": "1388318446168572105",
+    "continuingMessageIds": [
+      "1388318450014883932",
+      "1388318450736169100"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388318446168572105",
+    "attachmentMessageId": "1388179454467113160",
+    "uploadMessageId": "1388179446728495194"
+  },
+  "archivedAt": 1751161647069,
+  "updatedAt": 1751161647069
+}

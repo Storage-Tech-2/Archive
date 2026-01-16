@@ -1,0 +1,35 @@
+{
+  "id": "1375561629378416740",
+  "name": "other-displays",
+  "code": "OD",
+  "category": "Box Displays",
+  "description": "Other box displays.",
+  "currentCodeId": 5,
+  "entries": [
+    {
+      "id": "1387132949086076948",
+      "code": "OD001",
+      "path": "OD001_Default_Extended_Wall_Box_Display"
+    },
+    {
+      "id": "1387997827422097460",
+      "code": "OD002",
+      "path": "OD002_1wt_Variable_Display"
+    },
+    {
+      "id": "1387253213308129421",
+      "code": "OD003",
+      "path": "OD003_Noteblock_Placement_Box_Display"
+    },
+    {
+      "id": "1402509058203848854",
+      "code": "OD004",
+      "path": "OD004_Wall_Box_Display"
+    },
+    {
+      "id": "1426638674891636776",
+      "code": "OD005",
+      "path": "OD005_Block_Swapper_Display"
+    }
+  ]
+}

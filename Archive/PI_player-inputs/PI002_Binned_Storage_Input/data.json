@@ -1,0 +1,144 @@
+{
+  "id": "1388227748467572896",
+  "name": "Binned Storage Input",
+  "code": "PI002",
+  "reservedCodes": [
+    "PI002"
+  ],
+  "pastPostThreadIds": [
+    "1388318242690564188"
+  ],
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "759402531235037204",
+      "username": "extasyxtc",
+      "iconURL": "https://cdn.discordapp.com/avatars/759402531235037204/1aef71f2a7c434e7cdd5c3f440813ce3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488514329870484",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789146638975161",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1388227751051399188",
+      "name": "area_render_21_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1388227748467572896/1388227751051399188/area_render_21_.png?ex=68603757&is=685ee5d7&hm=7ce710b624615474aebac24334153a4a993b0e19699bf79072b0d3297a774301&",
+      "description": "Sent by andrews54757 at 6/27/2025, 2:41:27 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 554,
+      "path": "images/area_render_21_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1388227751630344316",
+      "name": "PI002_Ultimate_Storage_Input_v5.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1388227748467572896/1388227751630344316/Ultimate_Storage_Input_v5.litematic?ex=68603758&is=685ee5d8&hm=2dc51d474b8c75f65e2e2de772b4fef73a00f4474b070f0128a4c05c65830614&",
+      "description": "Sent by andrews54757 at 6/27/2025, 2:41:27 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "6x5x7",
+        "version": "1.20.1"
+      },
+      "path": "attachments/PI002_Ultimate_Storage_Input_v5.litematic"
+    }
+  ],
+  "records": {
+    "description": "Allows players to input loose items and bulk boxes for separate processing. Includes manual mixed loader display as another input method.",
+    "features": [
+      "Minimum piston and hopper count",
+      "Fully hopperlocked",
+      "Manual loader for loose items, box won't break until items are inputted",
+      "Small, 5x5x7 footprint (excluding signs and floor)"
+    ],
+    "considerations": [],
+    "notes": "Requires an external input handler, take for example https://discord.com/channels/748542142347083868/1121057305698517093/1123390860147560609 or https://discord.com/channels/748542142347083868/748578407377272843/1191660970687348756"
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Mixed loader",
+      "id": "1454753713024405588",
+      "url": "https://discord.com/channels/1375556143186837695/1454753713024405588/1454753714144411649",
+      "matches": [
+        "mixed loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperlocked",
+      "id": "1454753660625227895",
+      "url": "https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422",
+      "matches": [
+        "hopperlocked"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/1121057305698517093/1123390860147560609",
+      "server": "748542142347083868",
+      "channel": "1121057305698517093",
+      "message": "1123390860147560609",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/1121057305698517093/1123390860147560609"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/748578407377272843/1191660970687348756",
+      "server": "748542142347083868",
+      "channel": "748578407377272843",
+      "message": "1191660970687348756",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/748578407377272843/1191660970687348756"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1388318242690564188",
+    "forumId": "1375569381781930006",
+    "continuingMessageIds": [
+      "1388318246410784912",
+      "1455359223285289183"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388318242690564188",
+    "uploadMessageId": "1388228735798480976",
+    "attachmentMessageId": "1388228742802964560"
+  },
+  "archivedAt": 1766904575932,
+  "updatedAt": 1751050118719
+}

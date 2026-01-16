@@ -1,0 +1,163 @@
+{
+  "id": "1390475873404194897",
+  "name": "Concrete Factory/Duper Storage",
+  "code": "FS001",
+  "reservedCodes": [
+    "FS001"
+  ],
+  "pastPostThreadIds": [
+    "1390478055163822130"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "281888926787174412",
+      "displayName": "Soronto",
+      "username": "soronto",
+      "iconURL": "https://cdn.discordapp.com/avatars/281888926787174412/bff4cb4392fd9671ccb55ca2d590a5f3.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "496255535549775872",
+      "displayName": "Kizu",
+      "username": "kizuyuuu",
+      "iconURL": "https://cdn.discordapp.com/avatars/496255535549775872/b1fcfb5dffaaf1d828955b06b9c00c2d.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "298337622869147648",
+      "username": "heilzmaker",
+      "reason": "Designed global reset var loaders",
+      "dontDisplay": true,
+      "iconURL": "https://cdn.discordapp.com/avatars/298337622869147648/f2a8c199149ab9a18107788db21e53dd.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "921904275418927214",
+      "username": "ners__",
+      "reason": "Original bulk slice design",
+      "dontDisplay": true,
+      "displayName": "ners",
+      "iconURL": "https://cdn.discordapp.com/avatars/921904275418927214/c8f1ab847f47b25e0dcfc72ab8d8d5c1.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "458048759247536128",
+      "username": "51mayday",
+      "reason": "Original bulk slice design",
+      "dontDisplay": true,
+      "displayName": "51mayday",
+      "iconURL": "https://cdn.discordapp.com/avatars/458048759247536128/546bf5b9538dc86c57fb0cbefb98b9af.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "656864003242328064",
+      "username": "acaciachan",
+      "reason": "Designed box sorters",
+      "dontDisplay": true,
+      "displayName": "金合欢酱喵~ (acaciachan)",
+      "iconURL": "https://cdn.discordapp.com/avatars/656864003242328064/65e1c203d9ea0af6509f0754122b45a2.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "240860456057700352",
+      "username": "philgoodinator",
+      "reason": "Box sorter keygen and u-turn design",
+      "dontDisplay": true,
+      "displayName": "Philgoodinator",
+      "iconURL": "https://cdn.discordapp.com/avatars/240860456057700352/a9f4d6256aa4effec933334c93da54c0.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1386243209390325848",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1386243209390325849",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1390475875077591110",
+      "name": "area_render_13_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1390475873404194897/1390475875077591110/area_render_13_.png?ex=68686512&is=68671392&hm=287b03b085f624ab641867ab39dae209df561c0708b6c2c0ba9c32bccddcf9cf&",
+      "description": "Sent by andrews54757 at 7/3/2025, 7:34:42 PM",
+      "canDownload": true,
+      "width": 458,
+      "height": 800,
+      "path": "images/area_render_13_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1390547383879864453",
+      "name": "FS001_soronto_concrete_v4.1_fixed.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1390475873404194897/1390547383879864453/soronto_concrete_v4.1_fixed.litematic?ex=6868a7ab&is=6867562b&hm=3d5e882ad611fb3f7b2e013d05f247312394dd8c91c417f9fd63f8a375193709&",
+      "description": "Sent by andrews54757 at 7/4/2025, 12:18:51 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "32x44x21",
+        "version": "1.21.4"
+      },
+      "path": "attachments/FS001_soronto_concrete_v4.1_fixed.litematic"
+    }
+  ],
+  "records": {
+    "description": "A common question is \"how to make concrete storage?\" This was put together as a basic concrete storage, configured for a 192k duper. It has ~1.2mil capacity for 34 item types + some overflow.",
+    "features": [
+      "Configured for a 192k duper",
+      "Uses global reset var loaders",
+      "1.2mil capacity for 34 item types",
+      "Some overflow storage"
+    ],
+    "considerations": [
+      "Destroys partial boxes resulting from resetting variable loaders."
+    ],
+    "notes": ""
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Global",
+      "id": "1454753648574992557",
+      "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
+      "matches": [
+        "global"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1390478055163822130",
+    "forumId": "1386242904141463603",
+    "continuingMessageIds": [
+      "1390478057881600040"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1390478055163822130",
+    "uploadMessageId": "1390547728412442806"
+  },
+  "archivedAt": 1751602813294,
+  "updatedAt": 1751602813294
+}

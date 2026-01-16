@@ -1,0 +1,249 @@
+{
+  "id": "1450293920683655338",
+  "name": "[1.17+] Set Based Parallel Unloader Array 3.1d",
+  "code": "PU005",
+  "reservedCodes": [
+    "PU005"
+  ],
+  "pastPostThreadIds": [
+    "1450297315628941466"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "183711148288245760",
+      "displayName": "DrakePHOSE",
+      "username": "drakephose",
+      "iconURL": "https://cdn.discordapp.com/avatars/183711148288245760/bfaafaea0f922180417020864ce32970.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488516309450759",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789149834907711",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1450293921581371555",
+      "name": "area_render.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1450293920683655338/1450293921581371555/area_render.png?ex=694202f8&is=6940b178&hm=c6cdb9a4237e7f7ecf8b566af420398570ada6af38ab63fbff3798b504331a87&",
+      "description": "Sent by drakephose at 12/15/2025, 8:10:15 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 579,
+      "path": "images/area_render.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1450293922286010508",
+      "name": "PU005_Set_Based_Unloading_Array_3.1.1d_SS2i.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1450293920683655338/1450293922286010508/Set_Based_Unloading_Array_3.1.1d_SS2i.litematic?ex=694202f8&is=6940b178&hm=a0d242b670d2dc047b2fe8a21459b7428cb0d4a69a1d3a314a2183a5ba7cb28d&",
+      "description": "Sent by drakephose at 12/15/2025, 8:10:15 PM",
+      "canDownload": true,
+      "path": "attachments/PU005_Set_Based_Unloading_Array_3.1.1d_SS2i.litematic",
+      "litematic": {
+        "size": "16x19x30",
+        "version": "1.21.1"
+      }
+    },
+    {
+      "id": "1450293922638200915",
+      "name": "PU005_Set_Based_Unloading_Array_3.1.1d_SS3.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1450293920683655338/1450293922638200915/Set_Based_Unloading_Array_3.1.1d_SS3.litematic?ex=694202f8&is=6940b178&hm=5e07c65b2f31fb7d6c4d260360ea085e605aee7f58e67482c38b73d8f40502e8&",
+      "description": "Sent by drakephose at 12/15/2025, 8:10:15 PM",
+      "canDownload": true,
+      "path": "attachments/PU005_Set_Based_Unloading_Array_3.1.1d_SS3.litematic",
+      "litematic": {
+        "size": "16x19x30",
+        "version": "1.21.1"
+      }
+    }
+  ],
+  "records": {
+    "description": "This machine takes any shulker boxes as an input, and unloads them, several at a time, so that stackable items are never unloaded faster than 9000 items per hour, which is the maximum a 1 times hopper speed filter can handle. By unloading several different item types at the same time, when attached to a filter based storage this machine can help sort items at extremely high speed; up to 144000 items per hour, or 16 times hopper speed.",
+    "features": [
+      "Up to 16x hopperspeed parallelization",
+      "Uses an item type set to ensure only hopperspeed output per type at a time"
+    ],
+    "notes": [
+      "Testing info, FAQ, instructions on how to adjust the system to output for signal strength 3 filters, and more in the [Manual](<https://docs.google.com/document/d/1wURZLtZx3b3m7RmgFqyuDXkxZ8FbK9xeMSmTxDZ_1F8>). Thanks to <@660633169191632908> and <@244529884846751745> for advice on testing."
+    ],
+    "sourced components": [
+      "based on 3.1 pre 17 by Glotz: https://discord.com/channels/748542142347083868/963431585816911872/1297648167227101225",
+      "which is based on 2.5, which had many contributors: https://discord.com/channels/748542142347083868/749136547755851857/983793044404985896",
+      "set wiring by <@433358354094489612>, <@183711148288245760>, & Glotz",
+      "2 Item Check by <@1068798858676686848> & <@1055842182982021144>: https://discord.com/channels/748542142347083868/748547221338849330/1300397344134529056 https://discord.com/channels/1375556143186837695/1402535963061915761/1402535963061915761",
+      "FIT wiring by <@244529884846751745>, Glotz, boyenn, & <@183711148288245760>",
+      "pause protection by Glotz"
+    ]
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopper speed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopper speed",
+        "hopperspeed"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "660633169191632908",
+        "username": "etikle",
+        "iconURL": "https://cdn.discordapp.com/avatars/660633169191632908/552443236bae5d574b5b1aec2694b58f.webp",
+        "displayName": "Passionate Storage Techer 69"
+      },
+      "matches": [
+        "<@660633169191632908>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "244529884846751745",
+        "username": "raffq",
+        "iconURL": "https://cdn.discordapp.com/avatars/244529884846751745/25d3bc667842f56584713459d3f4713b.webp",
+        "displayName": "Raffq"
+      },
+      "matches": [
+        "<@244529884846751745>"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/963431585816911872/1297648167227101225",
+      "server": "748542142347083868",
+      "channel": "963431585816911872",
+      "message": "1297648167227101225",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/963431585816911872/1297648167227101225"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/749136547755851857/983793044404985896",
+      "server": "748542142347083868",
+      "channel": "749136547755851857",
+      "message": "983793044404985896",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/749136547755851857/983793044404985896"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "433358354094489612",
+        "username": "kayzm",
+        "iconURL": "https://cdn.discordapp.com/avatars/433358354094489612/0f167406c62ebef7f4e43d1b07471598.webp",
+        "displayName": "Kayzm"
+      },
+      "matches": [
+        "<@433358354094489612>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "183711148288245760",
+        "username": "drakephose",
+        "iconURL": "https://cdn.discordapp.com/avatars/183711148288245760/bfaafaea0f922180417020864ce32970.webp",
+        "displayName": "DrakePHOSE"
+      },
+      "matches": [
+        "<@183711148288245760>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "1068798858676686848",
+        "username": "777777777777777777774832",
+        "iconURL": "https://cdn.discordapp.com/avatars/1068798858676686848/9c8fd7932d9c0072be4f3d559abe76b8.webp",
+        "displayName": "77777777777777777777"
+      },
+      "matches": [
+        "<@1068798858676686848>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "1055842182982021144",
+        "username": "ionstrin",
+        "iconURL": "https://cdn.discordapp.com/avatars/1055842182982021144/9d55faf9fe9c535c67f31c8b069454db.webp",
+        "displayName": "insto"
+      },
+      "matches": [
+        "<@1055842182982021144>"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/748547221338849330/1300397344134529056",
+      "server": "748542142347083868",
+      "channel": "748547221338849330",
+      "message": "1300397344134529056",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/748547221338849330/1300397344134529056"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "archivedPost",
+      "id": "1402533524040450109",
+      "code": "OBP003",
+      "name": "18gt 2 item checker",
+      "url": "https://discord.com/channels/1375556143186837695/1402535963061915761",
+      "path": "Archive/OBP_other-box-processors/OBP003_18gt_2_item_checker",
+      "matches": [
+        "https://discord.com/channels/1375556143186837695/1402535963061915761/1402535963061915761"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1450297315628941466",
+    "forumId": "1375569870577467412",
+    "continuingMessageIds": [
+      "1450297318577537116",
+      "1454696210626515180",
+      "1455359329283739831"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1450297315628941466",
+    "uploadMessageId": "1450297313502167151"
+  },
+  "archivedAt": 1766904590802,
+  "updatedAt": 1765848224455
+}

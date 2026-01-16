@@ -1,0 +1,132 @@
+{
+  "id": "1386898690844786738",
+  "name": "Compact Shulker Box (is full?/is partial?) Sorter",
+  "code": "FBS003",
+  "reservedCodes": [
+    "FBS003"
+  ],
+  "pastPostThreadIds": [
+    "1388316911879848067"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "803398149217189950",
+      "username": "nvertd",
+      "iconURL": "https://cdn.discordapp.com/avatars/803398149217189950/b5bc2649d3bf10ad4d486ab0e3e2c0ab.webp",
+      "displayName": "Nvertd"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "656864003242328064",
+      "name": "acaciachan",
+      "displayName": "金合欢酱喵~ (acaciachan)",
+      "iconURL": "https://cdn.discordapp.com/avatars/656864003242328064/65e1c203d9ea0af6509f0754122b45a2.webp",
+      "username": "acaciachan"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385789094197461155",
+      "name": "Recommended"
+    },
+    {
+      "id": "1385488472189571100",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1386421810626695278",
+      "name": "isEmpty/isFull"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386898691721265354",
+      "name": "area_render_29.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386898690844786738/1386898691721265354/area_render_29.png?ex=685b618f&is=685a100f&hm=2035236dd41b321a70997d984f739506f727afd9453ad0c9b2246c1d8c2c40cc&",
+      "description": "Sent by andrews54757 at 6/23/2025, 10:40:15 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 774,
+      "path": "images/area_render_29.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386898691948019752",
+      "name": "FBS003_nvertd_isfull_v2.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386898690844786738/1386898691948019752/nvertd_isfull_v2.litematic?ex=685b618f&is=685a100f&hm=63013220947de523ab87c1e8dda20d0970e4faa8c0f645439385b51bccc358a1&",
+      "description": "Sent by andrews54757 at 6/23/2025, 10:40:15 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "4x3x5",
+        "version": "1.17.1"
+      },
+      "path": "attachments/FBS003_nvertd_isfull_v2.litematic"
+    }
+  ],
+  "records": {
+    "description": "Small device that categorizes boxes by their fill levels at hopperspeed. Can function either as an isFull filter or as an isNotEmpty sorter with modification to the comparator barrel's contents.",
+    "features": [
+      "Small size (3x3x4).",
+      "Hopperspeed (8gt; 9000 boxes/hr).",
+      "Works with randomly timed input."
+    ],
+    "considerations": [],
+    "notes": ""
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperspeed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopperspeed",
+        "Hopperspeed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "IsFull",
+      "id": "1454753607604768770",
+      "url": "https://discord.com/channels/1375556143186837695/1454753607604768770/1454753609131495434",
+      "matches": [
+        "isFull"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "gt",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "forumId": "1375559651579527208",
+    "threadId": "1388316911879848067",
+    "continuingMessageIds": [
+      "1388316914001907733"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388316911879848067",
+    "attachmentMessageId": "1388177732633886753",
+    "uploadMessageId": "1388177726396960830"
+  },
+  "archivedAt": 1750732870769,
+  "updatedAt": 1750732870769
+}

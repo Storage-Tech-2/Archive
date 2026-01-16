@@ -1,0 +1,121 @@
+{
+  "id": "1447301140260851884",
+  "name": "1wABt SS2 8 Chest Hall",
+  "code": "CH009",
+  "reservedCodes": [
+    "CH009"
+  ],
+  "pastPostThreadIds": [
+    "1448024716605522093"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "738661402452951044",
+      "displayName": "F3atured",
+      "username": "f3atured",
+      "iconURL": "https://cdn.discordapp.com/avatars/738661402452951044/68275bea25833b0b99c37ee613f3a973.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1386099807206244543",
+      "name": "8 Chests"
+    },
+    {
+      "id": "1386699846542692493",
+      "name": "SS2"
+    },
+    {
+      "id": "1385488483170386069",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1447301140801912957",
+      "name": "2025-12-07_20.57.46.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1447301140260851884/1447301140801912957/2025-12-07_20.57.46.png?ex=69371fb9&is=6935ce39&hm=100b646eff51525118306e272155062bb443bd7c277414da3c9d9aa479c84d82&",
+      "description": "Sent by f3atured at 12/7/2025, 1:58:01 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 450,
+      "path": "images/2025-12-07_20.57.46.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1450913315214594069",
+      "name": "CH009_F3atured_CH_ABT_1DC_V1.1.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1447301140260851884/1450913315214594069/F3atured_CH_ABT_1DC_V1.1.litematic?ex=694443d3&is=6942f253&hm=20926f569eb64090e4fb44039b45ce904e6984b0e409193268e024f93f0c8f1b&",
+      "description": "Sent by f3atured at 12/17/2025, 1:11:31 PM",
+      "canDownload": true,
+      "path": "attachments/CH009_F3atured_CH_ABT_1DC_V1.1.litematic",
+      "litematic": {
+        "size": "4x18x27",
+        "version": "1.21"
+      }
+    }
+  ],
+  "records": {
+    "description": "8 item type filtered chest hall with one doublechest per type.",
+    "features": [
+      "26 hoppers per slice",
+      "FHL even when overflowing",
+      "Palla-like UI",
+      "All filters are accessible"
+    ]
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Chest Hall",
+      "id": "1454753529700024331",
+      "url": "https://discord.com/channels/1375556143186837695/1454753529700024331/1454753530488426527",
+      "matches": [
+        "chest hall"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "UI",
+      "id": "1454754844316274861",
+      "url": "https://discord.com/channels/1375556143186837695/1454754844316274861/1454754845033627671",
+      "matches": [
+        "UI"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1448024716605522093",
+    "forumId": "1375561810392125510",
+    "continuingMessageIds": [
+      "1448024720040787968"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1448024716605522093",
+    "uploadMessageId": "1450941560903696566"
+  },
+  "archivedAt": 1766001824684,
+  "updatedAt": 1766001824684
+}

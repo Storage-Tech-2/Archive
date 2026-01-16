@@ -1,0 +1,35 @@
+{
+  "id": "1388657467508133928",
+  "name": "tricks-and-tips",
+  "code": "TT",
+  "category": "Other Resources",
+  "description": "How to guides for tricks tips and more",
+  "currentCodeId": 5,
+  "entries": [
+    {
+      "id": "1388663948227903560",
+      "code": "TT001",
+      "path": "TT001_How_to_float_align_items"
+    },
+    {
+      "id": "1450277038215921704",
+      "code": "TT002",
+      "path": "TT002_How_to_Make_Perma-Powered_Detector_Rails"
+    },
+    {
+      "id": "1451490180614717563",
+      "code": "TT003",
+      "path": "TT003_Boat_Placement_for_Quick_Float_Align"
+    },
+    {
+      "id": "1386949283181494364",
+      "code": "TT004",
+      "path": "TT004_Signal_Strength_2_SS2_Signal_Strength_Isolated_SSI_Filter_Chart__Tool"
+    },
+    {
+      "id": "1386222661037985933",
+      "code": "TT005",
+      "path": "TT005_How_to_Use_1X_Hopper_Filters"
+    }
+  ]
+}

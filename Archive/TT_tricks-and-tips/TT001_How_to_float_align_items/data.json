@@ -1,0 +1,104 @@
+{
+  "id": "1388663948227903560",
+  "name": "How to float align items",
+  "code": "TT001",
+  "reservedCodes": [
+    "TT001"
+  ],
+  "pastPostThreadIds": [
+    "1388665299418480761"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "displayName": "Andrews54757",
+      "username": "andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "731149784093556786",
+      "username": "terravoxel",
+      "iconURL": "https://cdn.discordapp.com/avatars/731149784093556786/e196de5615ecc98da31f77d8b354e682.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1388657843774816394",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1388663948915773532",
+      "name": "howtofloat.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1388663948227903560/1388663948915773532/howtofloat.png?ex=6861cd95&is=68607c15&hm=7543fb045a7366f5c1f86923769228467914042e4bec3c114b46637113a9f159&",
+      "description": "Sent by andrews54757 at 6/28/2025, 7:34:45 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 669,
+      "path": "images/howtofloat.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1388663948915773532",
+      "name": "TT001_howtofloat.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1388663948227903560/1388663948915773532/howtofloat.png?ex=6861cd95&is=68607c15&hm=7543fb045a7366f5c1f86923769228467914042e4bec3c114b46637113a9f159&",
+      "description": "Sent by andrews54757 at 6/28/2025, 7:34:45 PM",
+      "canDownload": true,
+      "path": "attachments/TT001_howtofloat.png"
+    },
+    {
+      "id": "1388664608218284132",
+      "name": "TT001_howtofloat.drawio",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1388663948227903560/1388664608218284132/howtofloat.drawio?ex=6861ce32&is=68607cb2&hm=d888c537e09686ac6453246a1f6fb16b1a8b2981bfb8787818fbfd5c046a9080&",
+      "description": "Sent by andrews54757 at 6/28/2025, 7:37:22 PM",
+      "canDownload": true,
+      "path": "attachments/TT001_howtofloat.drawio"
+    }
+  ],
+  "records": {
+    "description": "This guide shows you how you can build a float item aligner. Float alignment allows you to push an item with a piston or pick it up with a hopper despite not colliding with the block.",
+    "features": [],
+    "considerations": [],
+    "notes": ""
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Aligner",
+      "id": "1454753442471084134",
+      "url": "https://discord.com/channels/1375556143186837695/1454753442471084134/1454753443678916638",
+      "matches": [
+        "aligner"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1388665299418480761",
+    "forumId": "1388657467508133928",
+    "continuingMessageIds": [
+      "1388665303491149954",
+      "1454728681766256695"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388665299418480761",
+    "uploadMessageId": "1388665296449179710"
+  },
+  "archivedAt": 1751383278024,
+  "updatedAt": 1751383278024
+}

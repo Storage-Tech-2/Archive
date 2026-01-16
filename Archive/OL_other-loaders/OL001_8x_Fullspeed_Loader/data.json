@@ -1,0 +1,110 @@
+{
+  "id": "1386466149700600048",
+  "name": "8x Fullspeed Loader",
+  "code": "OL001",
+  "reservedCodes": [
+    "OL001"
+  ],
+  "pastPostThreadIds": [
+    "1388316832016109649"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "925291210325753907",
+      "username": "sandcaribou",
+      "displayName": "Caribous",
+      "iconURL": "https://cdn.discordapp.com/avatars/925291210325753907/de12cd404b481db55bdb7d31181d4bab.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488468729266282",
+      "name": "Untested"
+    },
+    {
+      "id": "1386839338331144284",
+      "name": "Fullspeed"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386466150145200200",
+      "name": "area_render_177_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386466149700600048/1386466150145200200/area_render_177_.png?ex=6859ceb9&is=68587d39&hm=8ee2abf5a071fe73d8e6ad186746e2ecbe8455c740d6382c908b5f776d3d5b87&",
+      "description": "Sent by sandcaribou at 6/22/2025, 6:01:29 PM",
+      "canDownload": true,
+      "width": 674,
+      "height": 800,
+      "path": "images/area_render_177_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386466150593855508",
+      "name": "OL001_8x_Fullspeed_Loader_v102.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386466149700600048/1386466150593855508/8x_Fullspeed_Loader_v1.0.2.litematic?ex=6859ceb9&is=68587d39&hm=c1b61b1756eafdd1bfb1ee35b59fddea0652c0c60cbe7a5205f8c4afd48ab005&",
+      "description": "Sent by sandcaribou at 6/22/2025, 6:01:29 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "8x8x3",
+        "version": "1.21"
+      },
+      "path": "attachments/OL001_8x_Fullspeed_Loader_v102.litematic"
+    }
+  ],
+  "records": {
+    "description": "Loads boxes at 8x hopperspeed without pausing during box replacement. Not tested extensively.",
+    "features": [
+      "Fullspeed loading",
+      "3 wide"
+    ],
+    "considerations": [],
+    "notes": ""
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "8x",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "8x",
+        "hopperspeed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "fullspeed",
+      "id": "1454939844274032771",
+      "url": "https://discord.com/channels/1375556143186837695/1454939844274032771/1454939852222238955",
+      "matches": [
+        "Fullspeed"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "forumId": "1375557962675912865",
+    "threadId": "1388316832016109649",
+    "continuingMessageIds": [
+      "1388316834381430804"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388316832016109649",
+    "attachmentMessageId": "1388177630200860672",
+    "uploadMessageId": "1388177622499856445"
+  },
+  "archivedAt": 1750631487535,
+  "updatedAt": 1750631487535
+}

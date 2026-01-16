@@ -1,0 +1,100 @@
+{
+  "id": "1455648563806863542",
+  "name": "Simple Unstackable Filter",
+  "code": "OIP004",
+  "reservedCodes": [
+    "OIP004"
+  ],
+  "pastPostThreadIds": [
+    "1455648889741770954"
+  ],
+  "authors": [],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488498122948798",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789124472082444",
+      "name": "Recommended"
+    },
+    {
+      "id": "1386556230293651537",
+      "name": "isStackable"
+    }
+  ],
+  "images": [
+    {
+      "id": "1455648564179898461",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1455648563806863542/1455648564179898461/image.png?ex=69557dde&is=69542c5e&hm=d4c0d0329a4b3ae61cc6063797d18fbfea2cb318ee001d018b24c106dc623882&",
+      "description": "Sent by andrews54757 at 12/30/2025, 2:47:42 PM",
+      "canDownload": true,
+      "width": 578,
+      "height": 519,
+      "path": "images/image.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1455648565610418350",
+      "name": "OIP004_simple_unstackable_filter.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1455648563806863542/1455648565610418350/simple_unstackable_filter.litematic?ex=69557dde&is=69542c5e&hm=9f2e429462b7ba4f088de559903dc59d1ba800d1e1db8a51546b1f703750b7ea&",
+      "description": "Sent by andrews54757 at 12/30/2025, 2:47:42 PM",
+      "canDownload": true,
+      "path": "attachments/OIP004_simple_unstackable_filter.litematic",
+      "litematic": {
+        "size": "3x2x3",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Filters unstackable items from stackable items by using signal strength.",
+    "features": [
+      "Small and simple design (3x2x3)",
+      "Hopperspeed throughput"
+    ],
+    "considerations": [
+      "Unstackable output will buffer one item. Put another hopper below to make it bufferless."
+    ],
+    "notes": "",
+    "compatibility": "",
+    "instructions": []
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperspeed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "Hopperspeed"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1455648889741770954",
+    "forumId": "1375564209882009772",
+    "continuingMessageIds": [
+      "1455648894024417533"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1455648889741770954",
+    "uploadMessageId": "1455648885279035505"
+  },
+  "archivedAt": 1767124136708,
+  "updatedAt": 1767124136708
+}

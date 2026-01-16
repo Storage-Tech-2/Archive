@@ -1,0 +1,105 @@
+{
+  "id": "1386473584297250936",
+  "name": "13 item type whitelister for bartering",
+  "code": "OIP003",
+  "reservedCodes": [
+    "OIP003"
+  ],
+  "pastPostThreadIds": [
+    "1388317906194141234"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "925291210325753907",
+      "displayName": "Caribous",
+      "username": "sandcaribou",
+      "iconURL": "https://cdn.discordapp.com/avatars/925291210325753907/de12cd404b481db55bdb7d31181d4bab.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488498122948796",
+      "name": "Untested"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386473585593553027",
+      "name": "area_render.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386473584297250936/1386473585593553027/area_render.png?ex=685b2726&is=6859d5a6&hm=26b215b222f6a64a06e03fbe56ff7e8683e9dc5e05a07637c0b1e6d9c07990b0&",
+      "description": "Sent by sandcaribou at 6/22/2025, 6:31:01 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 663,
+      "path": "images/area_render.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386473584972529734",
+      "name": "OIP003_Bartering_13_Item_Whitelister_v1.0.2.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386473584297250936/1386473584972529734/Bartering_13_Item_Whitelister_v1.0.2.litematic?ex=685b2726&is=6859d5a6&hm=69d4a4cc22908298a652e93a1beb975f7e00e402fd07f73a11d4417289294ee2&",
+      "description": "Sent by sandcaribou at 6/22/2025, 6:31:01 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "9x13x17",
+        "version": "1.21.1"
+      },
+      "path": "attachments/OIP003_Bartering_13_Item_Whitelister_v1.0.2.litematic"
+    }
+  ],
+  "records": {
+    "description": "High throughput whitelister. Can support 360k/hr for 6 item types (must be different item types), 144k/hr for 3 items types (these 3 slots could all be the same if you want though), and 72k/hr for 4 item types. The 6 item types are single item carts, the 3 item types are present in 2 mixed carts, the 4 item types alternate in sets of 2 between the 2 mixed carts.",
+    "features": [
+      "Very high throughput filtering selecting multiple item types",
+      "The schematic contains an item layout for bartering."
+    ],
+    "considerations": [],
+    "notes": "This specific schem hasn't been tested, but the design itself has been tested for many hours with random input, so if there is a bug there is a working version somewhere. This is intended to be paired with a redcoded array so that the 6 item types don't need filtered loaders."
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Schematic",
+      "id": "1454811558009110704",
+      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
+      "matches": [
+        "schematic"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Filtered Loader",
+      "id": "1454753614642942023",
+      "url": "https://discord.com/channels/1375556143186837695/1454753614642942023/1454753615280345234",
+      "matches": [
+        "filtered loader"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "forumId": "1375564209882009772",
+    "threadId": "1388317906194141234",
+    "continuingMessageIds": [
+      "1388317909239070772"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388317906194141234",
+    "attachmentMessageId": "1388178788638130258",
+    "uploadMessageId": "1388178781839036598"
+  },
+  "archivedAt": 1750998109095,
+  "updatedAt": 1750998109095
+}

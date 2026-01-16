@@ -1,0 +1,457 @@
+{
+  "id": "1416554411878121532",
+  "name": "4three’s Main Storage System",
+  "code": "LS002",
+  "reservedCodes": [
+    "LS002"
+  ],
+  "pastPostThreadIds": [
+    "1455602670533476445"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "413427604058800129",
+      "displayName": "4three",
+      "username": "4threee",
+      "iconURL": "https://cdn.discordapp.com/avatars/413427604058800129/7f705f98f8de1a4b08f6bee75b639876.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488508155723781",
+      "name": "Untested"
+    }
+  ],
+  "images": [
+    {
+      "id": "1416554413719425149",
+      "name": "4threes_Main_Storage_System.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1416554411878121532/1416554413719425149/4threes_Main_Storage_System.png?ex=68c7449a&is=68c5f31a&hm=b48d56e647a0ec2e31d7ef9e0794d0cb4cb7253ee4f23e6542e7764f7738402c&",
+      "description": "Sent by andrews54757 at 9/13/2025, 6:41:30 PM",
+      "canDownload": true,
+      "width": 614,
+      "height": 800,
+      "path": "images/4threes_Main_Storage_System.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1455455719506706516",
+      "name": "LS002_4threes_Main_Storage_System_Netherside.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1416554411878121532/1455455719506706516/4threes_Main_Storage_System_Netherside.litematic?ex=6954ca44&is=695378c4&hm=c4dbe8645f671fd613de4258a3a1b0fbd6eac6eeb1c19c9c1f2c6a73c75d2e20&",
+      "description": "Sent by andrews54757 at 12/30/2025, 2:01:24 AM",
+      "canDownload": true,
+      "path": "attachments/LS002_4threes_Main_Storage_System_Netherside.litematic",
+      "litematic": {
+        "size": "18x6x15",
+        "version": "1.21.4"
+      }
+    },
+    {
+      "id": "1455520827847086155",
+      "name": "LS002_4threes_Main_Storage_System_V1.8.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1416554411878121532/1455520827847086155/4threes_Main_Storage_System_V1.8.litematic?ex=695506e7&is=6953b567&hm=e214d5580fc66b13446a9728e93bd2c685296c102250a0375806cc9c166c0c79&",
+      "description": "Sent by 4threee at 12/30/2025, 6:20:07 AM",
+      "canDownload": true,
+      "path": "attachments/LS002_4threes_Main_Storage_System_V1.8.litematic",
+      "litematic": {
+        "size": "118x140x133",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "An advanced Minecraft storage system created by <@413427604058800129>, with components sourced from storage tech archives.",
+    "features": [
+      "864 chest hall items, two double chest capacity per item. 8 chest per slice UI.",
+      "216 bulk items, 1,5 million capacity per item. Quad display UI.",
+      "10 multi item categories",
+      "Unstackables sorter",
+      "Empty box crafter automatically supplying the whole system with boxes",
+      "Floor box system for empty boxes",
+      "Parallel item unloading",
+      "Multiple peripherals (192 furnace array, crafting station, restock station, anvil replacer)",
+      "Basic error checking (and automatic input locking)",
+      "Includes chunk loading grid and item layout",
+      "96,4% Hopper locking"
+    ],
+    "instructions": [
+      "Make sure to align chunkloaders in the nether side to match the overworld and link them correctly."
+    ],
+    "sourced-components": "- Chest Hall: https://discord.com/channels/748542142347083868/749137103463514163/1050915860648308737\n- Quad Bulk Hall: https://discord.com/channels/748542142347083868/1184956620288036894/1388631360813666427 (with minor delay changes + different bottom box display)\n- Box Crafter: https://discord.com/channels/748542142347083868/749137424684285992/1253924202541744150\n- Bulk Box Loaders: https://discord.com/channels/748542142347083868/1216808001193644113/1216808227316957406\n- Input System: https://discord.com/channels/748542142347083868/749137287513768027/1022569953121030264 (Heavily modified to fit better)\n- CUD Loader: OL004 (by Kizu)\n- Box fill level sorter: https://discord.com/channels/748542142347083868/1275462763791126558/1404131486063394926\n- Parallel Unloading Array: https://discord.com/channels/748542142347083868/749136547755851857/1397119350854647809\n- MIS: https://discord.com/channels/748542142347083868/749136637606363167/1388976409535316038 \n- Floor Manual Loader: https://discord.com/channels/748542142347083868/1120296660543746138/1187751207108882563\n- Floor Manual Loader Restock System: https://discord.com/channels/748542142347083868/1216315109190926337/1216315330276626512\n- Unstackable Sorter: https://discord.com/channels/748542142347083868/749136876946063360/1286267762360188958\n- Anvil Replacer: https://www.youtube.com/watch?v=kAS-ZaNnF10&t=120s\n- Box Yeeting Crafting Station: https://discord.com/channels/748542142347083868/749137321710059542/1062856400092549251\n- Furnace: https://discord.com/channels/594920796867133446/669868185863847948/1159746421512208434\n- Unsorted 6x Box Loader: https://discord.com/channels/748542142347083868/749135718701465641/1048747806489321594\n- Unsorted Box display: https://discord.com/channels/748542142347083868/1092754735569834015/1105529293494308874\n- 4d Aligner: https://discord.com/channels/748542142347083868/749137424684285992/1258477090257502258"
+  },
+  "styles": {
+    "instructions": {
+      "isOrdered": false
+    },
+    "sourced-components": {
+      "depth": 2,
+      "headerText": "Sourced Components"
+    }
+  },
+  "references": [
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "413427604058800129",
+        "username": "4threee",
+        "iconURL": "https://cdn.discordapp.com/avatars/413427604058800129/7f705f98f8de1a4b08f6bee75b639876.webp",
+        "displayName": "4three"
+      },
+      "matches": [
+        "<@413427604058800129>"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Chest Hall",
+      "id": "1454753529700024331",
+      "url": "https://discord.com/channels/1375556143186837695/1454753529700024331/1454753530488426527",
+      "matches": [
+        "chest hall",
+        "Chest Hall"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "UI",
+      "id": "1454754844316274861",
+      "url": "https://discord.com/channels/1375556143186837695/1454754844316274861/1454754845033627671",
+      "matches": [
+        "UI"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Peripheral",
+      "id": "1454753771035824158",
+      "url": "https://discord.com/channels/1375556143186837695/1454753771035824158/1454753771555913873",
+      "matches": [
+        "peripheral"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "chunk load",
+      "id": "1457055322647695542",
+      "url": "https://discord.com/channels/1375556143186837695/1457055322647695542/1457055324426080287",
+      "matches": [
+        "chunk load"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/749137103463514163/1050915860648308737",
+      "server": "748542142347083868",
+      "channel": "749137103463514163",
+      "message": "1050915860648308737",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/749137103463514163/1050915860648308737"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/1184956620288036894/1388631360813666427",
+      "server": "748542142347083868",
+      "channel": "1184956620288036894",
+      "message": "1388631360813666427",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/1184956620288036894/1388631360813666427"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Display",
+      "id": "1454753497638506689",
+      "url": "https://discord.com/channels/1375556143186837695/1454753497638506689/1454753498494144522",
+      "matches": [
+        "box display",
+        "Box display"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/749137424684285992/1253924202541744150",
+      "server": "748542142347083868",
+      "channel": "749137424684285992",
+      "message": "1253924202541744150",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/749137424684285992/1253924202541744150"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "Loader"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/1216808001193644113/1216808227316957406",
+      "server": "748542142347083868",
+      "channel": "1216808001193644113",
+      "message": "1216808227316957406",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/1216808001193644113/1216808227316957406"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/749137287513768027/1022569953121030264",
+      "server": "748542142347083868",
+      "channel": "749137287513768027",
+      "message": "1022569953121030264",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/749137287513768027/1022569953121030264"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "CUD",
+      "id": "1454753535919915098",
+      "url": "https://discord.com/channels/1375556143186837695/1454753535919915098/1454753536629018626",
+      "matches": [
+        "CUD"
+      ]
+    },
+    {
+      "type": "archivedPost",
+      "id": "1455729497373413416",
+      "code": "OL004",
+      "name": "1x CUD-based loader",
+      "url": "https://discord.com/channels/1375556143186837695/1455729805948489769",
+      "path": "Archive/OL_other-loaders/OL004_1x_CUD-based_loader",
+      "matches": [
+        "OL004"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/1275462763791126558/1404131486063394926",
+      "server": "748542142347083868",
+      "channel": "1275462763791126558",
+      "message": "1404131486063394926",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/1275462763791126558/1404131486063394926"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/749136547755851857/1397119350854647809",
+      "server": "748542142347083868",
+      "channel": "749136547755851857",
+      "message": "1397119350854647809",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/749136547755851857/1397119350854647809"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "MIS",
+      "id": "1454753725091676293",
+      "url": "https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954",
+      "matches": [
+        "MIS"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/749136637606363167/1388976409535316038",
+      "server": "748542142347083868",
+      "channel": "749136637606363167",
+      "message": "1388976409535316038",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/749136637606363167/1388976409535316038"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/1120296660543746138/1187751207108882563",
+      "server": "748542142347083868",
+      "channel": "1120296660543746138",
+      "message": "1187751207108882563",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/1120296660543746138/1187751207108882563"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/1216315109190926337/1216315330276626512",
+      "server": "748542142347083868",
+      "channel": "1216315109190926337",
+      "message": "1216315330276626512",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/1216315109190926337/1216315330276626512"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Unstackable sorter",
+      "id": "1454754837379022858",
+      "url": "https://discord.com/channels/1375556143186837695/1454754837379022858/1454754839224516712",
+      "matches": [
+        "Unstackable Sorter"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/749136876946063360/1286267762360188958",
+      "server": "748542142347083868",
+      "channel": "749136876946063360",
+      "message": "1286267762360188958",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/749136876946063360/1286267762360188958"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "box yeet",
+      "id": "1455677927902413046",
+      "url": "https://discord.com/channels/1375556143186837695/1455677927902413046/1455677929198456985",
+      "matches": [
+        "Box Yeet"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/749137321710059542/1062856400092549251",
+      "server": "748542142347083868",
+      "channel": "749137321710059542",
+      "message": "1062856400092549251",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/749137321710059542/1062856400092549251"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/594920796867133446/669868185863847948/1159746421512208434",
+      "server": "594920796867133446",
+      "channel": "669868185863847948",
+      "message": "1159746421512208434",
+      "matches": [
+        "https://discord.com/channels/594920796867133446/669868185863847948/1159746421512208434"
+      ],
+      "serverName": "Tech MC Archive",
+      "serverJoinURL": "https://discord.gg/Bh7Kasf"
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "6x",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "6x"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/749135718701465641/1048747806489321594",
+      "server": "748542142347083868",
+      "channel": "749135718701465641",
+      "message": "1048747806489321594",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/749135718701465641/1048747806489321594"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/1092754735569834015/1105529293494308874",
+      "server": "748542142347083868",
+      "channel": "1092754735569834015",
+      "message": "1105529293494308874",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/1092754735569834015/1105529293494308874"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "4D align",
+      "id": "1454753764606083180",
+      "url": "https://discord.com/channels/1375556143186837695/1454753764606083180/1454753765365256286",
+      "matches": [
+        "4d Align"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/749137424684285992/1258477090257502258",
+      "server": "748542142347083868",
+      "channel": "749137424684285992",
+      "message": "1258477090257502258",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/749137424684285992/1258477090257502258"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1455602670533476445",
+    "forumId": "1375566903241740450",
+    "continuingMessageIds": [
+      "1455602674266411221",
+      "1455602675017318643",
+      "1455602677336510718",
+      "1455602678842265823"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1455602670533476445",
+    "uploadMessageId": "1455602666498424894"
+  },
+  "archivedAt": 1767113106466,
+  "updatedAt": 1767143722505
+}

@@ -1,0 +1,138 @@
+{
+  "id": "1455651277718552586",
+  "name": "Stackable/Unstackable/Box Pre-sorter",
+  "code": "OIP005",
+  "reservedCodes": [
+    "OIP005"
+  ],
+  "pastPostThreadIds": [
+    "1455654887932039330"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "531601171211878431",
+      "displayName": "RaPsCaLLioN1138",
+      "username": "rapscallion1138",
+      "iconURL": "https://cdn.discordapp.com/avatars/531601171211878431/8db107ef61024878a05baab3a798d7d5.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "758183010532851763",
+      "username": "exseq_",
+      "iconURL": "https://cdn.discordapp.com/avatars/758183010532851763/3229daa37da9fc4b6ab206ba646ec61a.webp"
+    },
+    {
+      "type": "unknown",
+      "username": "Maizuma Games"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488498122948798",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789124472082444",
+      "name": "Recommended"
+    },
+    {
+      "id": "1386556230293651537",
+      "name": "isStackable"
+    }
+  ],
+  "images": [
+    {
+      "id": "1455654789642850497",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1455651277718552586/1455654789642850497/image.png?ex=695583aa&is=6954322a&hm=a7eb0ca6165c0f27bf0eb14ae7bb4dab69100f1898993ae41ce5a26cfde6cbce&",
+      "description": "Sent by andrews54757 at 12/30/2025, 3:12:26 PM",
+      "canDownload": true,
+      "width": 742,
+      "height": 310,
+      "path": "images/image.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1455654789839847535",
+      "name": "OIP005_simple_presorter.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1455651277718552586/1455654789839847535/simple_presorter.litematic?ex=695583aa&is=6954322a&hm=3c9464ac928da2b1552813e51c88f3343f1c4ec46868e8c19242c8d296823ba4&",
+      "description": "Sent by andrews54757 at 12/30/2025, 3:12:26 PM",
+      "canDownload": true,
+      "path": "attachments/OIP005_simple_presorter.litematic",
+      "litematic": {
+        "size": "4x2x7",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Separates stackable items, unstackable items, and boxes.",
+    "features": [
+      "Hopperspeed throughput",
+      "No buffered items"
+    ],
+    "notes": "Created by <@531601171211878431>, <@758183010532851763> and Maizuma Games"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperspeed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "Hopperspeed"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "531601171211878431",
+        "displayName": "RaPsCaLLioN1138",
+        "username": "rapscallion1138",
+        "iconURL": "https://cdn.discordapp.com/avatars/531601171211878431/8db107ef61024878a05baab3a798d7d5.webp"
+      },
+      "matches": [
+        "<@531601171211878431>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-external",
+        "id": "758183010532851763",
+        "username": "exseq_",
+        "iconURL": "https://cdn.discordapp.com/avatars/758183010532851763/3229daa37da9fc4b6ab206ba646ec61a.webp"
+      },
+      "matches": [
+        "<@758183010532851763>"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1455654887932039330",
+    "forumId": "1375564209882009772",
+    "continuingMessageIds": [
+      "1455654893036507324"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1455654887932039330",
+    "uploadMessageId": "1455654885566582918"
+  },
+  "archivedAt": 1767124819760,
+  "updatedAt": 1767125568326
+}

@@ -1,0 +1,25 @@
+{
+  "id": "1375570066451599401",
+  "name": "variable-box-processing",
+  "code": "VBS",
+  "category": "Advanced Tech",
+  "description": "Variable box sorting",
+  "currentCodeId": 3,
+  "entries": [
+    {
+      "id": "1386933382579093594",
+      "code": "VBS001",
+      "path": "VBS001_Hopper_Speed_Shulker_Box_Grouper"
+    },
+    {
+      "id": "1401371516389687346",
+      "code": "VBS002",
+      "path": "VBS002_Unencoded_Variable_Box_Temp"
+    },
+    {
+      "id": "1439818384933130322",
+      "code": "VBS003",
+      "path": "VBS003_Hyper_Threaded_Whitelister_Temp"
+    }
+  ]
+}

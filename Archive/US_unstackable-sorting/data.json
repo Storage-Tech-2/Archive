@@ -1,0 +1,45 @@
+{
+  "id": "1375564342392786944",
+  "name": "unstackable-sorting",
+  "code": "US",
+  "category": "Item Processing",
+  "description": "Sort unstackable items by its type, typically by exploiting unique interactions with that item",
+  "currentCodeId": 9,
+  "entries": [
+    {
+      "id": "1387480002978910330",
+      "code": "US002",
+      "path": "US002_Hopperspeed_Potion_Type_Filter"
+    },
+    {
+      "id": "1387513620413288608",
+      "code": "US003",
+      "path": "US003_Simple_isBoxisPotionisBookisShearsOrFlint_Filters"
+    },
+    {
+      "id": "1391830251625250867",
+      "code": "US004",
+      "path": "US004_1.17_Bucked_Mob_Yeeter__Unstackable_Axolotl_Separator"
+    },
+    {
+      "id": "1408930228805304482",
+      "code": "US006",
+      "path": "US006_Reusable_isNetherite_Filter"
+    },
+    {
+      "id": "1412245946708005004",
+      "code": "US007",
+      "path": "US007_Duration-based_Music_Disc_Sorter"
+    },
+    {
+      "id": "1450264041565065238",
+      "code": "US008",
+      "path": "US008_Cactus_Unstackable_Sorter"
+    },
+    {
+      "id": "1457519139940991117",
+      "code": "US009",
+      "path": "US009_Music_Disc_Sorter"
+    }
+  ]
+}

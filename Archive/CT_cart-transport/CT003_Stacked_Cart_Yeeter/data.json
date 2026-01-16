@@ -1,0 +1,128 @@
+{
+  "id": "1455665138035196086",
+  "name": "Stacked Cart Yeeter",
+  "code": "CT003",
+  "reservedCodes": [
+    "CT003"
+  ],
+  "pastPostThreadIds": [
+    "1455665791482593300",
+    "1460311650119848169"
+  ],
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "319513337941721089",
+      "username": "inspectortalon",
+      "iconURL": "https://cdn.discordapp.com/avatars/319513337941721089/edec0da88a70e9697b6b43b4a2d740e3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488491810394301",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789116905685055",
+      "name": "Recommended"
+    },
+    {
+      "id": "1450268858790187239",
+      "name": "Cart Yeeting"
+    }
+  ],
+  "images": [
+    {
+      "id": "1460311395815133325",
+      "name": "area_render_170_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1455665138035196086/1460311395815133325/area_render_170_.png?ex=69667478&is=696522f8&hm=30b07b8087634a7d6834d1a1fa61f2f8ebc1aa08ef8ae6ce03f586005c9fe84b&",
+      "description": "Sent by andrews54757 at 1/12/2026, 11:36:08 AM",
+      "canDownload": true,
+      "width": 781,
+      "height": 639,
+      "path": "images/area_render_170_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1460311396070719742",
+      "name": "CT003_stacked_cart_yeeter.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1455665138035196086/1460311396070719742/stacked_cart_yeeter.litematic?ex=69667478&is=696522f8&hm=784ad2f6ca9776310893bda9cada99a0307d333e84e93a3edc51da1306bf4242&",
+      "description": "Sent by andrews54757 at 1/12/2026, 11:36:08 AM",
+      "canDownload": true,
+      "path": "attachments/CT003_stacked_cart_yeeter.litematic",
+      "litematic": {
+        "size": "3x5x6",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "This cart yeeter supports stacked carts as input.",
+    "features": [
+      "Stacked cart compatible",
+      "Outputs inventory items and cart items separately in item entity form"
+    ],
+    "notes": "- The cart item has enough rightwards momentum that you can replace the glass block next to the cauldron with soul sand, and bubble column the cart item up directly.",
+    "instructions": [
+      "You must use a waterlogged chest or ender chest block, it's the only hitbox that works reliably. The waterlogging is necessary to make sure the cart items don't burn in the lava cauldron.",
+      "The stacked carts must be locked with an activator rail before yeeting. otherwise they can pick up items and result in carts leaking to item output.",
+      "The wall must be flat without a middle post for proper cart alignment.",
+      "The carts must have enough momentum to hit the wall before snapping onto the rail."
+    ]
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "cart yeet",
+      "id": "1455675378931728598",
+      "url": "https://discord.com/channels/1375556143186837695/1455675378931728598/1455675380160659517",
+      "matches": [
+        "cart yeet"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Stacked cart",
+      "id": "1456380865180340354",
+      "url": "https://discord.com/channels/1375556143186837695/1456380865180340354/1456380866623311915",
+      "matches": [
+        "stacked cart",
+        "Stacked cart"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "item entity",
+      "id": "1456908472384884879",
+      "url": "https://discord.com/channels/1375556143186837695/1456908472384884879/1456908473844502594",
+      "matches": [
+        "item entity"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1460311650119848169",
+    "forumId": "1375563297230688327",
+    "continuingMessageIds": [
+      "1460311653588406423"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1460311650119848169",
+    "uploadMessageId": "1460311647401939221"
+  },
+  "archivedAt": 1767128166823,
+  "updatedAt": 1768494987412
+}

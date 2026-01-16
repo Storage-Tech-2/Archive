@@ -1,0 +1,109 @@
+{
+  "id": "1387184563532333288",
+  "name": "Noteblock Top Display",
+  "code": "TD003",
+  "reservedCodes": [
+    "TD003"
+  ],
+  "pastPostThreadIds": [
+    "1388317169405792357"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "460316892976906261",
+      "displayName": "Ragdoll Willy",
+      "username": "ragdollwilly",
+      "iconURL": "https://cdn.discordapp.com/avatars/460316892976906261/a0332117bf4e609a1ead4417ae4357b4.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "444883614761746436",
+      "displayName": "camphorwood",
+      "username": "camphorwood",
+      "iconURL": "https://cdn.discordapp.com/avatars/444883614761746436/b846c71873bcae574d1550d0d2c78d42.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488476258041933",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1387251647679430757",
+      "name": "Manual Replacement"
+    }
+  ],
+  "images": [
+    {
+      "id": "1387405462340894761",
+      "name": "Noteblock_Top_Display.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387184563532333288/1387405462340894761/Noteblock_Top_Display.png?ex=685d3986&is=685be806&hm=169c57207baea4bb26ec5d69a8f0e8cca1d6ad40c65e9260f44441e3470e7185&",
+      "description": "Sent by ragdollwilly at 6/25/2025, 8:13:59 AM",
+      "canDownload": true,
+      "width": 800,
+      "height": 592,
+      "path": "images/Noteblock_Top_Display.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1387405462671986841",
+      "name": "TD003_Noteblock_Top_Display.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387184563532333288/1387405462671986841/Noteblock_Top_Display.litematic?ex=685d3987&is=685be807&hm=58558d09a48bf38f2c288996f03e6ef0f5fe8b3998cbc9f0b502e84ad65d67af&",
+      "description": "Sent by ragdollwilly at 6/25/2025, 8:13:59 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "1x5x7",
+        "version": "1.21.4"
+      },
+      "path": "attachments/TD003_Noteblock_Top_Display.litematic"
+    }
+  ],
+  "records": {
+    "description": "A small manual top display meant for quad bulks.",
+    "features": [
+      "Noteblock: In-slice first box placement and box call/replacement",
+      "1 hopper, locked"
+    ],
+    "considerations": [
+      "Buffers at least 1 box in the hopper"
+    ],
+    "notes": ""
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "forumId": "1375560792665231450",
+    "threadId": "1388317169405792357",
+    "continuingMessageIds": [
+      "1388317172077432935"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388317169405792357",
+    "attachmentMessageId": "1388178056530628699",
+    "uploadMessageId": "1388178049698103378"
+  },
+  "archivedAt": 1750857008067,
+  "updatedAt": 1750857008067
+}

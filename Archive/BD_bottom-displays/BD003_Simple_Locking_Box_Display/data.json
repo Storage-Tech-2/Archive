@@ -1,0 +1,127 @@
+{
+  "id": "1386857979210367036",
+  "name": "Simple Locking Box Display",
+  "code": "BD003",
+  "reservedCodes": [
+    "BD003"
+  ],
+  "pastPostThreadIds": [
+    "1388317211923582976"
+  ],
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "619332477898719243",
+      "username": "b1narymc",
+      "iconURL": "https://cdn.discordapp.com/avatars/619332477898719243/5d388ac68a75270eaf63847b0dd15426.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1386201743825567905",
+      "name": "Auto Replacement"
+    },
+    {
+      "id": "1385488478745137341",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1387875675704135880",
+      "name": "906939952040910948-unknown.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386857979210367036/1387875675704135880/906939952040910948-unknown.png?ex=685eef72&is=685d9df2&hm=0c65477c0112af5ce20d8b35028d9de52fa2b62d15b850762da3dfe3d445d691&",
+      "description": "Sent by andrews54757 at 6/26/2025, 3:22:26 PM",
+      "canDownload": true,
+      "width": 772,
+      "height": 516,
+      "path": "images/906939952040910948-unknown.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1387143392349388911",
+      "name": "BD003_b1nary_simple_locking_box_display_improved.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386857979210367036/1387143392349388911/b1nary_simple_locking_box_display_improved.litematic?ex=685c4574&is=685af3f4&hm=8f8a1df3cef2f9c2c3f229e77d89cabac9e29bf78e5d1c7d8cf9342cdf33dcba&",
+      "description": "Sent by andrews54757 at 6/24/2025, 2:52:36 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "4x5x1",
+        "version": "1.17.1"
+      },
+      "path": "attachments/BD003_b1nary_simple_locking_box_display_improved.litematic"
+    }
+  ],
+  "records": {
+    "description": "An incredibly simple box display that is quick to build and is the only 4 wide box display to my knowledge.",
+    "features": [],
+    "considerations": [
+      "One Wide AB Tileable (alternate slime and honey)",
+      "You can’t easily handle initial box detection.",
+      "It should be possible to time the breaking on another slice to cause the box breaking to trigger extra and break a partial full box, but this is so incredibly unlikely."
+    ],
+    "notes": ""
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Display",
+      "id": "1454753497638506689",
+      "url": "https://discord.com/channels/1375556143186837695/1454753497638506689/1454753498494144522",
+      "matches": [
+        "box display"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "AB tileable",
+      "id": "1454753732293033984",
+      "url": "https://discord.com/channels/1375556143186837695/1454753732293033984/1454753733035687988",
+      "matches": [
+        "AB Tileable"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Detection",
+      "id": "1454753490936266762",
+      "url": "https://discord.com/channels/1375556143186837695/1454753490936266762/1454753491787452438",
+      "matches": [
+        "box detection"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "forumId": "1375561551188328531",
+    "threadId": "1388317211923582976",
+    "continuingMessageIds": [
+      "1388317214565863556"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388317211923582976",
+    "attachmentMessageId": "1388178117851615334",
+    "uploadMessageId": "1388178111866339440"
+  },
+  "archivedAt": 1750969815969,
+  "updatedAt": 1750969815969
+}

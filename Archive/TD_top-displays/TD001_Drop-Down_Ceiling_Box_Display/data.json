@@ -1,0 +1,116 @@
+{
+  "id": "1386199263746461867",
+  "name": "Drop-Down Ceiling Box Display",
+  "code": "TD001",
+  "reservedCodes": [
+    "TD001"
+  ],
+  "pastPostThreadIds": [
+    "1388317123041951817"
+  ],
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "528559320086872064",
+      "username": "hampter42_",
+      "iconURL": "https://cdn.discordapp.com/avatars/528559320086872064/83e4a5181f4b2cbfe68b3fdc14b6aeef.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385789099033497712",
+      "name": "Recommended"
+    },
+    {
+      "id": "1386201662418321499",
+      "name": "Auto Replacement"
+    },
+    {
+      "id": "1385488476258041933",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386199264723599430",
+      "name": "Ceiling_Box_Display.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386199263746461867/1386199264723599430/Ceiling_Box_Display.png?ex=6858d62b&is=685784ab&hm=4812164307a09a98b0a65a568235cd7fa0f1ad2200c9dc395aa5f11351e5b2a5&",
+      "description": "Sent by andrews54757 at 6/22/2025, 12:20:58 AM",
+      "canDownload": true,
+      "width": 791,
+      "height": 800,
+      "path": "images/Ceiling_Box_Display.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386199264144789535",
+      "name": "TD001_ceiling_box_display.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386199263746461867/1386199264144789535/ceiling_box_display.litematic?ex=6858d62a&is=685784aa&hm=e4cae11c91d47a3b182f12edb375f43768d70c8150db844587e587054c751e98&",
+      "description": "Sent by andrews54757 at 6/22/2025, 12:20:58 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "1x8x8",
+        "version": "1.17.1"
+      },
+      "path": "attachments/TD001_ceiling_box_display.litematic"
+    }
+  ],
+  "records": {
+    "description": "Breaks the box with a piston that drops down from the top. Mainly meant for quad bulks.",
+    "features": [
+      "Automatic box replacement when emptied",
+      "Drop-down layout gives more space below for a secondary bottom display",
+      "Full hopperlocking is possible"
+    ],
+    "considerations": [
+      "Hopperlocking dust line must be disabled globally within 20 gt of a box being emptied.  May require gaps to extend redstone line."
+    ],
+    "notes": "Make sure dust line is redirected as shown in the picture to not power the piston. For 1.11+ compatibility replace the glass with slabs/solid blocks and noteblocks with trapdoors/rails."
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopperlocking",
+      "id": "1454753660625227895",
+      "url": "https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422",
+      "matches": [
+        "hopperlocking",
+        "Hopperlocking"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "gt",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "forumId": "1375560792665231450",
+    "threadId": "1388317123041951817",
+    "continuingMessageIds": [
+      "1388317126099468338"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388317123041951817",
+    "attachmentMessageId": "1388178004353487019",
+    "uploadMessageId": "1388177999366590634"
+  },
+  "archivedAt": 1750566430138,
+  "updatedAt": 1750566430138
+}

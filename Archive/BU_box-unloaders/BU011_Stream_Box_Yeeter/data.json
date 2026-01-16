@@ -1,0 +1,93 @@
+{
+  "id": "1451103879298285712",
+  "name": "Stream Box Yeeter",
+  "code": "BU011",
+  "reservedCodes": [
+    "BU011"
+  ],
+  "pastPostThreadIds": [
+    "1451110249741160511"
+  ],
+  "authors": [
+    {
+      "type": "unknown",
+      "username": "胖纸wzx",
+      "url": "https://space.bilibili.com/510518718"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488474148438035",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789096542081145",
+      "name": "Recommended"
+    },
+    {
+      "id": "1386248713151844423",
+      "name": "Box Yeet"
+    }
+  ],
+  "images": [
+    {
+      "id": "1451103879633698867",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1451103879298285712/1451103879633698867/image.png?ex=6944f54d&is=6943a3cd&hm=4acf921fc5d7630a37a8e3f31823588e89e22509f2fec122cb721478c2e83c42&",
+      "description": "Sent by andrews54757 at 12/18/2025, 1:48:45 AM",
+      "canDownload": true,
+      "width": 624,
+      "height": 434,
+      "path": "images/image.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1451103879948402779",
+      "name": "BU011_stream_box_yeeter.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1451103879298285712/1451103879948402779/stream_box_yeeter.litematic?ex=6944f54d&is=6943a3cd&hm=0c0a27f510c7f0576bc03a1b800858a8149809f462dfce54c47eeb29cb8d92db&",
+      "description": "Sent by andrews54757 at 12/18/2025, 1:48:45 AM",
+      "canDownload": true,
+      "path": "attachments/BU011_stream_box_yeeter.litematic",
+      "litematic": {
+        "size": "7x3x5",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A waterstream device that instantly destroys shulker boxes fed into it by using fire.",
+    "features": [
+      "Instant shulker box unloading for an unlimited amount of boxes simultaneously"
+    ],
+    "considerations": [
+      "Destroys the shulker box"
+    ],
+    "compatibility": "1.19+",
+    "instructions": "Put box items in the waterstream"
+  },
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1451110249741160511",
+    "forumId": "1375560446676963450",
+    "continuingMessageIds": [
+      "1451110252006080552"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1451110249741160511",
+    "uploadMessageId": "1451110247518175255"
+  },
+  "archivedAt": 1766042043205,
+  "updatedAt": 1766042043205
+}

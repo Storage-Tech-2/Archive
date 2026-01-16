@@ -1,0 +1,40 @@
+{
+  "id": "1457538260892127293",
+  "name": "peripherals",
+  "code": "SP",
+  "category": "Misc Devices",
+  "description": "Peripherals for storage systems. EG: Furnace arrays, brewers, mass-crafters, etc...",
+  "currentCodeId": 6,
+  "entries": [
+    {
+      "id": "1393001409166704751",
+      "code": "SP001",
+      "path": "SP001_3_Item_Restock_Station"
+    },
+    {
+      "id": "1387091494158209074",
+      "code": "SP002",
+      "path": "SP002_tiny_8gt_11_crafting_station"
+    },
+    {
+      "id": "1387089550656143462",
+      "code": "SP003",
+      "path": "SP003_Small_6gt_21_crafting_station"
+    },
+    {
+      "id": "1386952483917795468",
+      "code": "SP004",
+      "path": "SP004_144_Furnace_Array_V3"
+    },
+    {
+      "id": "1386920320081985736",
+      "code": "SP005",
+      "path": "SP005_Entityless_50_Furnace_Array"
+    },
+    {
+      "id": "1459913994532945963",
+      "code": "SP006",
+      "path": "SP006_Simple_Entityless_16_Furnace_Array"
+    }
+  ]
+}

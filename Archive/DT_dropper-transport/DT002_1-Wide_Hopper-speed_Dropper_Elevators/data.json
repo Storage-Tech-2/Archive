@@ -1,0 +1,161 @@
+{
+  "id": "1386950960659693588",
+  "name": "1-Wide Hopper-speed Dropper Elevators",
+  "code": "DT002",
+  "reservedCodes": [
+    "DT002"
+  ],
+  "pastPostThreadIds": [
+    "1388317501406056528"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "531601171211878431",
+      "username": "rapscallion1138",
+      "iconURL": "https://cdn.discordapp.com/avatars/531601171211878431/8db107ef61024878a05baab3a798d7d5.webp",
+      "displayName": "RaPsCaLLioN1138"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "displayName": "Andrews54757",
+      "username": "andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "297566644295827457",
+      "username": "walter7381",
+      "iconURL": "https://cdn.discordapp.com/avatars/297566644295827457/e8c32e9b66251cd84d0ff09adc818410.webp",
+      "displayName": "Walter"
+    },
+    {
+      "type": "unknown",
+      "username": "Minestop"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488487742046215",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789112375840830",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386950961897144360",
+      "name": "LABLES.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386950960659693588/1386950961897144360/LABLES.png?ex=685b923d&is=685a40bd&hm=c8116682705ef1a75ac9e5d31d37a27a86daec5f93eec4db92b29f787b08e82b&",
+      "description": "Sent by andrews54757 at 6/24/2025, 2:07:57 AM",
+      "canDownload": true,
+      "width": 800,
+      "height": 425,
+      "path": "images/LABLES.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386950961897144360",
+      "name": "DT002_LABLES.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386950960659693588/1386950961897144360/LABLES.png?ex=685b923d&is=685a40bd&hm=c8116682705ef1a75ac9e5d31d37a27a86daec5f93eec4db92b29f787b08e82b&",
+      "description": "Sent by andrews54757 at 6/24/2025, 2:07:57 AM",
+      "canDownload": true,
+      "path": "attachments/DT002_LABLES.png"
+    },
+    {
+      "id": "1386950962245140521",
+      "name": "DT002_1_Wide_Hopper_Speed_Dropper_Elevators.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386950960659693588/1386950962245140521/1_Wide_Hopper_Speed_Dropper_Elevators.litematic?ex=685b923d&is=685a40bd&hm=e8c223bfc947ee9c8607231c234e473544b0800742c32a741f8aa8fbf8f80d04&",
+      "description": "Sent by andrews54757 at 6/24/2025, 2:07:57 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "36x17x1",
+        "version": "1.14"
+      },
+      "path": "attachments/DT002_1_Wide_Hopper_Speed_Dropper_Elevators.litematic"
+    }
+  ],
+  "records": {
+    "description": "Collection of various different dropper item elevators. All these designs transfer items at hopper speed (8gt), are lossless and non-directional, exept for D1/2.",
+    "features": [],
+    "considerations": [],
+    "notes": "A3 by @rapscallion1138\nB2 by Minestop\nD1/2 by @andrews54757 \ncompiled by @walter7381 \n\n-  D1/2 (Green) is non tillable but transfers items instantly and is silent. Doesn't work when rails are facing towards the positive X direction (east) .\n-  \"Unstackables noisy\" mean that the design is normally silent however, unstackable items may cause clicking noises in adjacent slices.\n-  C1 is 1.13+ and is very noisy\n- All design not labelled silent have clicking along the tower after items are done passing through, otherwise they are silent. (Excluding C1)"
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopper speed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopper speed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "gt",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Directional",
+      "id": "1454753554815389834",
+      "url": "https://discord.com/channels/1375556143186837695/1454753554815389834/1454753555566166029",
+      "matches": [
+        "directional"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Silent",
+      "id": "1454754730088726631",
+      "url": "https://discord.com/channels/1375556143186837695/1454754730088726631/1454754731049095302",
+      "matches": [
+        "silent"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "forumId": "1375563020478058557",
+    "threadId": "1388317501406056528",
+    "continuingMessageIds": [
+      "1388317504111247481",
+      "1454727303782203599"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388317501406056528",
+    "attachmentMessageId": "1388178487420129350",
+    "uploadMessageId": "1388178478112706612"
+  },
+  "archivedAt": 1751162353341,
+  "updatedAt": 1751162353341
+}

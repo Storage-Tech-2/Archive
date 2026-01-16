@@ -1,0 +1,132 @@
+{
+  "id": "1389410349618434228",
+  "name": "Globally Clocked 3wt 6x Loader",
+  "code": "OL003",
+  "reservedCodes": [
+    "OL003"
+  ],
+  "pastPostThreadIds": [
+    "1389410831594291300"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "656864003242328064",
+      "displayName": "金合欢酱喵~ (acaciachan)",
+      "username": "acaciachan",
+      "iconURL": "https://cdn.discordapp.com/avatars/656864003242328064/65e1c203d9ea0af6509f0754122b45a2.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488468729266284",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789089017499700",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1389410351568654526",
+      "name": "Globally_Clocked_6x.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1389410349618434228/1389410351568654526/Globally_Clocked_6x.png?ex=686484b9&is=68633339&hm=f769579306616f72903a495c46047f605f41463c395a625879dd07495036e6d9&",
+      "description": "Sent by andrews54757 at 6/30/2025, 9:00:41 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 732,
+      "path": "images/Globally_Clocked_6x.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1389410350092255242",
+      "name": "OL003_Globally_Clocked_6x.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1389410349618434228/1389410350092255242/Globally_Clocked_6x.litematic?ex=686484b9&is=68633339&hm=a76f6f62ac23e14d546b4a4a9990781769d7a0a780a36cc42df29cc0a33f9102&",
+      "description": "Sent by andrews54757 at 6/30/2025, 9:00:41 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "29x6x26",
+        "version": "1.14"
+      },
+      "path": "attachments/OL003_Globally_Clocked_6x.litematic"
+    }
+  ],
+  "records": {
+    "description": "Loads items at 6x hopper speed into shulker boxes on a global clock. This has the advantage of being more lag friendly and smaller than similar locally clocked loaders.",
+    "features": [
+      "Loads items at 6x hopper speed",
+      "Very small (4x6x3 per module)",
+      "Globally clocked droppers",
+      "Schematic contains some tiling examples"
+    ],
+    "considerations": [
+      "No item filter included"
+    ],
+    "notes": ""
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "6x",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "6x",
+        "hopper speed",
+        "4x"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Global",
+      "id": "1454753648574992557",
+      "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
+      "matches": [
+        "global"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Schematic",
+      "id": "1454811558009110704",
+      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
+      "matches": [
+        "Schematic"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1389410831594291300",
+    "forumId": "1375557962675912865",
+    "continuingMessageIds": [
+      "1389410834920243321"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1389410831594291300",
+    "uploadMessageId": "1389410830013042770"
+  },
+  "archivedAt": 1751331755696,
+  "updatedAt": 1751331755696
+}

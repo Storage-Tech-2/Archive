@@ -1,0 +1,140 @@
+{
+  "id": "1388554841034592348",
+  "name": "SS3 TIS Layout 10 Chest Hall",
+  "code": "CH006",
+  "reservedCodes": [
+    "CH006"
+  ],
+  "pastPostThreadIds": [
+    "1388555404023300128"
+  ],
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "319109133271957505",
+      "username": "7up_dnl",
+      "iconURL": "https://cdn.discordapp.com/avatars/319109133271957505/3133f94051e9ea14d3a972830e8ce2dc.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488483170386069",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789106755473500",
+      "name": "Recommended"
+    },
+    {
+      "id": "1386099837115826406",
+      "name": "10 Chests"
+    },
+    {
+      "id": "1386700720467607562",
+      "name": "SS3"
+    }
+  ],
+  "images": [
+    {
+      "id": "1388554842544541706",
+      "name": "area_render_76_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1388554841034592348/1388554842544541706/area_render_76_.png?ex=686167f8&is=68601678&hm=c00033d511c0041c84fe2cc446d388492e8885fc537789baf0477d0f2fb58a2e&",
+      "description": "Sent by andrews54757 at 6/28/2025, 12:21:12 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 608,
+      "path": "images/area_render_76_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1388554841478926336",
+      "name": "CH006_Seven_TIS_SS3.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1388554841034592348/1388554841478926336/Seven_TIS_SS3.litematic?ex=686167f8&is=68601678&hm=aca181a7abcbbcf39d4f79facbb53f6bf93ceb135ca8560ec529f4f50387d174&",
+      "description": "Sent by andrews54757 at 6/28/2025, 12:21:12 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "4x20x27",
+        "version": "1.20.1"
+      },
+      "path": "attachments/CH006_Seven_TIS_SS3.litematic"
+    }
+  ],
+  "records": {
+    "description": "10 chests per slice hall using the TIS layout, but with SS3 filters",
+    "features": [
+      "Slices are identical, locking system is the only change between slices",
+      "0 prefilled hopper/dispenser",
+      "Runs at hopperspeed",
+      "Fully hopper-locked (36 hoppers/Slice)"
+    ],
+    "considerations": [
+      "TIS layout requires 2 transparent block displays per slice",
+      "Brief clicking noise in the bottom droppers after they are done elevating items",
+      "Bottom filters are only accessible through the locking system after removing the display blocks (from the inside)"
+    ],
+    "notes": ""
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice",
+        "Slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "ss",
+      "id": "1454754774833696893",
+      "url": "https://discord.com/channels/1375556143186837695/1454754774833696893/1454754775542267957",
+      "matches": [
+        "SS"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperspeed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopperspeed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "hopper-locked",
+      "id": "1454753660625227895",
+      "url": "https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422",
+      "matches": [
+        "hopper-locked"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1388555404023300128",
+    "forumId": "1375561810392125510",
+    "continuingMessageIds": [
+      "1388555409513644196"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388555404023300128",
+    "uploadMessageId": "1388555401795997758"
+  },
+  "archivedAt": 1751127805783,
+  "updatedAt": 1751127805783
+}

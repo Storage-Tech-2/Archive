@@ -1,0 +1,155 @@
+{
+  "id": "1397831329004912830",
+  "name": "Variable Cart Ideal Output Splitter",
+  "code": "VIP005",
+  "reservedCodes": [
+    "VIP005"
+  ],
+  "pastPostThreadIds": [
+    "1397833391767818270"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1165983253493198972",
+      "displayName": "wreg",
+      "username": "wreg_",
+      "iconURL": "https://cdn.discordapp.com/avatars/1165983253493198972/4eae41af71aa41964fa5815ef233af80.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "1076361384981430354",
+      "username": "white_0910",
+      "displayName": "白Unique_Clock",
+      "iconURL": "https://cdn.discordapp.com/avatars/1076361384981430354/a274a60a31a9fb58987e9fb06b7c8e98.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488518499012623",
+      "name": "Untested"
+    }
+  ],
+  "images": [
+    {
+      "id": "1397831329412026488",
+      "name": "area_render_98_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1397831329004912830/1397831329412026488/area_render_98_.png?ex=6883275f&is=6881d5df&hm=2fef33794eefddf2fcf607554a8aad118e721e207f838f2bbdd80ded5aa92741&",
+      "description": "Sent by andrews54757 at 7/24/2025, 2:42:39 AM",
+      "canDownload": true,
+      "width": 800,
+      "height": 690,
+      "path": "images/area_render_98_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "BV1HFPxeCE4m",
+      "name": "VIP005_Bilibili_Video_BV1HFPxeCE4m.url",
+      "contentType": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1HFPxeCE4m/",
+      "description": "[Bilibili] Sent by andrews54757 at 7/27/2025, 10:18:06 AM",
+      "canDownload": false,
+      "path": "attachments/VIP005_Bilibili_Video_BV1HFPxeCE4m.url"
+    },
+    {
+      "id": "1456692264779780206",
+      "name": "VIP005_idealv2.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1397831329004912830/1456692264779780206/idealv2.litematic?ex=695949e3&is=6957f863&hm=8f0a29f93c2ae4181a29dcc09a0020018bb9800caf7460f811f5ef2f60883530&",
+      "description": "Sent by andrews54757 at 1/2/2026, 11:55:00 AM",
+      "canDownload": true,
+      "path": "attachments/VIP005_idealv2.litematic",
+      "litematic": {
+        "size": "21x14x33",
+        "version": "1.21"
+      }
+    },
+    {
+      "id": "1456692264490242231",
+      "name": "VIP005_idealmini.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1397831329004912830/1456692264490242231/idealmini.litematic?ex=695949e3&is=6957f863&hm=0264b3935178ca4654fd676196e13a6fc2141382796cc0da76862d1e72da92fb&",
+      "description": "Sent by andrews54757 at 1/2/2026, 11:55:00 AM",
+      "canDownload": true,
+      "path": "attachments/VIP005_idealmini.litematic",
+      "litematic": {
+        "size": "21x14x21",
+        "version": "1.21"
+      }
+    }
+  ],
+  "records": {
+    "description": "Takes item entities as input, and loads them into single type boxes using variable cart filters. This device cycles items through every variable filter on one side of the device, before sending them to the other side of the device where the next round of filtering is done with reset filters. Works like a cycvar device, and produces minimal partial boxes.",
+    "features": [
+      "Ideal output with minimal partial boxes",
+      "High throughput with high variance input"
+    ],
+    "considerations": [
+      "Limited to 8x hopperspeed per item type.",
+      "Item entity lag"
+    ]
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "cycvar",
+      "id": "1460469722234749123",
+      "url": "https://discord.com/channels/1375556143186837695/1460469722234749123/1460469724369387550",
+      "matches": [
+        "cycvar"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "minimal partial boxes",
+      "id": "1460470569966374956",
+      "url": "https://discord.com/channels/1375556143186837695/1460470569966374956/1460470570809557257",
+      "matches": [
+        "minimal partial boxes",
+        "Ideal output"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "8x",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "8x",
+        "hopperspeed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "item entity",
+      "id": "1456908472384884879",
+      "url": "https://discord.com/channels/1375556143186837695/1456908472384884879/1456908473844502594",
+      "matches": [
+        "Item entity"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1397833391767818270",
+    "forumId": "1375569954073477120",
+    "continuingMessageIds": [
+      "1397833395567988808"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1397833391767818270",
+    "uploadMessageId": "1456692755488047256"
+  },
+  "archivedAt": 1753625937818,
+  "updatedAt": 1767373014238
+}

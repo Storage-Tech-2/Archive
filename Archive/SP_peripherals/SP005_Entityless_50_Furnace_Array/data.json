@@ -1,0 +1,117 @@
+{
+  "id": "1386920320081985736",
+  "name": "Entityless 50 Furnace Array",
+  "code": "SP005",
+  "reservedCodes": [
+    "SP005"
+  ],
+  "pastPostThreadIds": [
+    "1457542579385139310"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "164989359148367873",
+      "username": "floppydonkey",
+      "iconURL": "https://cdn.discordapp.com/avatars/164989359148367873/261429ebb25a423b5d475db08e588fce.webp",
+      "displayName": "FloppyDonkey"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1457538569756475392",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1457538569756475393",
+      "name": "Recommended"
+    },
+    {
+      "id": "1457542787384741920",
+      "name": "Furnace Array"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386920320484507778",
+      "name": "area_render.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386920320081985736/1386920320484507778/area_render.png?ex=685b75b4&is=685a2434&hm=d26d2650e8cfe88efed429cfd9ea8fbf87aa9d7ee0fdf07979a895babbdc1c62&",
+      "description": "Sent by andrews54757 at 6/24/2025, 12:06:12 AM",
+      "canDownload": true,
+      "width": 800,
+      "height": 533,
+      "path": "images/area_render.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386920320899747870",
+      "name": "SP005_Entityless_50_furnace_array_revisited.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386920320081985736/1386920320899747870/Entityless_50_furnace_array_revisited.litematic?ex=685b75b4&is=685a2434&hm=88c03c985b7a84ed33b0ade317afb91adf599d06a716bafaf05d6625b17c64fa&",
+      "description": "Sent by andrews54757 at 6/24/2025, 12:06:12 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "30x9x4",
+        "version": "1.21"
+      },
+      "path": "attachments/SP005_Entityless_50_furnace_array_revisited.litematic"
+    }
+  ],
+  "records": {
+    "description": "Simple double-hopperspeed 50 furnace array for storage halls.",
+    "features": [
+      "-Simpler and cheap, no entities. (distributes by creating breaks in the instant dropper line every 200gts)",
+      "-On/Off switch and distribution is spam resistant (not spam proof)",
+      "-Fully lockable while keeping all furnaces accessible from the outside of the array",
+      "-Requires much less prefill since the fuel inputs share a dropper line",
+      "-Includes a low fuel Indicator"
+    ],
+    "considerations": [
+      "Manual on/off"
+    ],
+    "notes": ""
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperspeed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopperspeed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "gt",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1457542579385139310",
+    "forumId": "1457538260892127293",
+    "continuingMessageIds": [
+      "1457542583290171502"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1457542579385139310",
+    "uploadMessageId": "1457542574607700161"
+  },
+  "archivedAt": 1750738111030,
+  "updatedAt": 1767575627751
+}

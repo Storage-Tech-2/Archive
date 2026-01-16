@@ -1,0 +1,20 @@
+{
+  "id": "1375567732866551918",
+  "name": "multi-item-filters",
+  "code": "MF",
+  "category": "Item Processing",
+  "description": "Multi item filters check if an item is part of a set of items in the same slice/device",
+  "currentCodeId": 4,
+  "entries": [
+    {
+      "id": "1459226891973165106",
+      "code": "MF003",
+      "path": "MF003_2wt_Compact_MIS_NoisyMIS"
+    },
+    {
+      "id": "1461791673670566072",
+      "code": "MF004",
+      "path": "MF004_1.14_2wt_MIS_V5.1"
+    }
+  ]
+}

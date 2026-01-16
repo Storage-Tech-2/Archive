@@ -1,0 +1,141 @@
+{
+  "id": "1386527611878117386",
+  "name": "Filtered Precision Compactor Crafter Loaders",
+  "code": "AC005",
+  "reservedCodes": [
+    "AC005"
+  ],
+  "pastPostThreadIds": [
+    "1457536803165700231"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "656864003242328064",
+      "displayName": "金合欢酱喵~ (acaciachan)",
+      "username": "acaciachan",
+      "iconURL": "https://cdn.discordapp.com/avatars/656864003242328064/65e1c203d9ea0af6509f0754122b45a2.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "name": "Recommended",
+      "id": "1385789161650257952"
+    },
+    {
+      "name": "Tested & Functional",
+      "id": "1385488525809418299"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386527612536488026",
+      "name": "Precision_Compactor_Loader_Examples.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386527611878117386/1386527612536488026/Precision_Compactor_Loader_Examples.png?ex=685a07f7&is=6858b677&hm=329cdfe1a38a5d56139bc32e1f18683ff34ceef226433b7c310445d02c8134ac&",
+      "description": "Sent by andrews54757 at 6/22/2025, 10:05:43 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 605,
+      "path": "images/Precision_Compactor_Loader_Examples.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386527613123821618",
+      "name": "AC005_Precision_Compactor_Loader_Examples.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386527611878117386/1386527613123821618/Precision_Compactor_Loader_Examples.litematic?ex=685a07f7&is=6858b677&hm=0dd40e8ff4f89ac54c97d043e86a09adcc0854af26010843487593e0ac6a9f7e&",
+      "description": "Sent by andrews54757 at 6/22/2025, 10:05:43 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "33x9x8",
+        "version": "1.20.4"
+      },
+      "path": "attachments/AC005_Precision_Compactor_Loader_Examples.litematic"
+    }
+  ],
+  "records": {
+    "description": "Filters items, crafts, and loads the result into boxes. Typically used to compact items (eg nuggets) so they take up less space. Can be used for recipes with 8 or 9 items.",
+    "features": [
+      "It uses an SSI filter with minimal Threshold and Prefill.",
+      "These crafters only start crafting when they detect a completely full SS9 crafter.",
+      "The system uses a global SS11 line to control the crafters.",
+      "It can empty an overflowing crafter that has stopped by pulsing an SS15 signal.",
+      "You can point up to 6 slices (24x Hs into a single box loader)"
+    ],
+    "considerations": [
+      "Loaders have a very low chance (1 in 50 million) of losing a box."
+    ],
+    "notes": ""
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "SSI",
+      "id": "1455820021581217843",
+      "url": "https://discord.com/channels/1375556143186837695/1455820021581217843/1455820022256500874",
+      "matches": [
+        "SSI"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "ss",
+      "id": "1454754774833696893",
+      "url": "https://discord.com/channels/1375556143186837695/1454754774833696893/1454754775542267957",
+      "matches": [
+        "SS"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Global",
+      "id": "1454753648574992557",
+      "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
+      "matches": [
+        "global"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader",
+        "Loader"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1457536803165700231",
+    "forumId": "1375570772348764392",
+    "continuingMessageIds": [
+      "1457536806785650921"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1457536803165700231",
+    "uploadMessageId": "1457536800846512363"
+  },
+  "archivedAt": 1750644464187,
+  "updatedAt": 1767574247025
+}

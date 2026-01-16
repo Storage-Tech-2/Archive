@@ -1,0 +1,25 @@
+[
+  {
+    "id": "1455358671667335364",
+    "sender": {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    },
+    "content": "\"Why Hybrid\" resource posted by RestartLife",
+    "attachments": [
+      {
+        "id": "1387995973418094643",
+        "name": "hybrid_loader_explanation.png",
+        "contentType": "image/png",
+        "url": "https://cdn.discordapp.com/attachments/1387915826874683532/1387995973418094643/hybrid_loader_explanation.png?ex=685f5f7b&is=685e0dfb&hm=b0b515c82bfe28a7ce9afd0ae5e6dc5abf98f9c32cb6fb9a3327c03a5df12d29&",
+        "description": "Sent by andrews54757 at 6/26/2025, 11:20:27 PM",
+        "canDownload": true,
+        "path": "comments_attachments/1387995973418094643-hybrid_loader_explanation.png"
+      }
+    ],
+    "timestamp": 1750994429332
+  }
+]

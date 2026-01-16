@@ -1,0 +1,383 @@
+{
+  "id": "1458848929503383572",
+  "name": "luckeY Main Storage V2",
+  "code": "LS004",
+  "reservedCodes": [
+    "LS004"
+  ],
+  "pastPostThreadIds": [
+    "1458851285771227331"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "694937388803424327",
+      "username": "kendiii2",
+      "displayName": "Kendiii",
+      "iconURL": "https://cdn.discordapp.com/avatars/694937388803424327/739cdfbaf08a25fbdacf6ad2c7c1c13c.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488508155723781",
+      "name": "Untested"
+    }
+  ],
+  "images": [
+    {
+      "id": "1458848932737187950",
+      "name": "luckeY_MS_v2.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1458848929503383572/1458848932737187950/luckeY_MS_v2.png?ex=69612271&is=695fd0f1&hm=cd4b34a4c8f869f40794720e6993b590a5a33d2ec4dcaf8190eea96a5103f718&",
+      "description": "Sent by andrews54757 at 1/8/2026, 10:44:48 AM",
+      "canDownload": true,
+      "width": 800,
+      "height": 543,
+      "path": "images/luckeY_MS_v2.png"
+    },
+    {
+      "id": "1458849423579676774",
+      "name": "2025-11-13_13.31.48.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1458848929503383572/1458849423579676774/2025-11-13_13.31.48.png?ex=696122e6&is=695fd166&hm=9c72bcd9f8743d723ca81e7913f317f5aed80cd1d12500bbb5a78e400804a36a&",
+      "description": "Interior pictures",
+      "canDownload": true,
+      "width": 800,
+      "height": 423,
+      "path": "images/2025-11-13_13.31.48.png"
+    },
+    {
+      "id": "1458849417187823669",
+      "name": "2025-11-13_13.32.25.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1458848929503383572/1458849417187823669/2025-11-13_13.32.25.png?ex=696122e5&is=695fd165&hm=71bfdad1a5fe9908d670abad1bab6b311cdb23f5084e33f39ea096b9774a4e8e&",
+      "description": "Interior pictures",
+      "canDownload": true,
+      "width": 800,
+      "height": 423,
+      "path": "images/2025-11-13_13.32.25.png"
+    },
+    {
+      "id": "1458849416411746354",
+      "name": "2025-11-13_13.32.13.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1458848929503383572/1458849416411746354/2025-11-13_13.32.13.png?ex=696122e4&is=695fd164&hm=e15dc71086aed90a3cde4ddf107c75a831927ca3624d0cc7f8b6f4a09c022bc5&",
+      "description": "Interior pictures",
+      "canDownload": true,
+      "width": 800,
+      "height": 423,
+      "path": "images/2025-11-13_13.32.13.png"
+    },
+    {
+      "id": "1458849415572754588",
+      "name": "2025-11-13_13.32.03.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1458848929503383572/1458849415572754588/2025-11-13_13.32.03.png?ex=696122e4&is=695fd164&hm=7698bcf79f4f9879322fbd831faae8ed73175d8405bea8074fff9126fdf4460b&",
+      "description": "Interior pictures",
+      "canDownload": true,
+      "width": 800,
+      "height": 423,
+      "path": "images/2025-11-13_13.32.03.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "tjpu9n7jkx8teih",
+      "name": "LS004_luckeY_Main_Storage_v2.url",
+      "contentType": "mediafire",
+      "url": "https://www.mediafire.com/file/tjpu9n7jkx8teih/luckeY_Main_Storage_v2.zip/file",
+      "description": "[MediaFire] Sent by andrews54757 at 1/8/2026, 10:48:11 AM",
+      "canDownload": false,
+      "path": "attachments/LS004_luckeY_Main_Storage_v2.url"
+    },
+    {
+      "id": "1458849778220798168",
+      "name": "LS004_luckeY_MS_Nether_side.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1458848929503383572/1458849778220798168/luckeY_MS_Nether_side.litematic?ex=6961233b&is=695fd1bb&hm=1fae8c61821681ba352738df026d95bcbbb2f11101a343c86e6d700fbd396732&",
+      "description": "Sent by andrews54757 at 1/8/2026, 10:48:11 AM",
+      "canDownload": true,
+      "path": "attachments/LS004_luckeY_MS_Nether_side.litematic",
+      "litematic": {
+        "size": "14x5x15",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Built for the needs of a casual singleplayer world, sorting every item in the game including every unstackable at up to 16x hopper speed.",
+    "features": [
+      "2x 10-Chest halls, each 32 long - 640 items",
+      "Accessible bulk hall, 40 long - 80 items",
+      "14 MIS categories",
+      "Unstackable sorter",
+      "Copper Golem sorter (24 categories)",
+      "Parallel item unloading",
+      "94% hopperlocking",
+      "Peripherals (furnace array, brewer, crafting station, shulker crafter, dispenser crafter)",
+      "Fully overflow protected, chunk loading fail check"
+    ],
+    "considerations": [
+      "The armor sorter can break due to a bug in 1.21.6+. Until Mojang fixes it, armor will go to unstackable overflow."
+    ],
+    "changes-from-v1": "- Replaced Allay sorter with Copper golem sorter, now sorting every unstackable into categories.\n- Updated Unstackable sorter, Unloader, Brewer, Dispenser crafter, Furnace array to newer, more relieable versions.\n- Added a MIS buffer.\n- Added overflow protection and overflow lamps to MIS, MIS buffer, Overflow chests, Unstackable sorter, Unloader buffer.\n- Expanded the MIS by 2 categories, item layout updated to 1.21.10.\n- Added chunk loading check.",
+    "compatibility": "1.21.9+ (Schematic, WDL: 1.21.10), with armor sorter bug in 1.21.6+",
+    "sourced-components": "Input: https://discord.com/channels/748542142347083868/1074320036958846986/1075193549101993985\nUnloader: ⁠https://discord.com/channels/748542142347083868/749136547755851857/1397119350854647809\nChest halls: https://discord.com/channels/748542142347083868/749137103463514163/1050922094256459807\nBulk Hall: ⁠https://discord.com/channels/748542142347083868/1076322959096041472/1187105738540204223\nMIS: ⁠https://discord.com/channels/748542142347083868/749136637606363167/1086235129053204481\nCopper Golem Sorter: concept by RaPsCaLLioN\nUnstackable sorter: ⁠https://discord.com/channels/748542142347083868/1096104601876430880/1239255622994759861\nFurnace array: https://discord.com/channels/1375556143186837695/1457542579385139310/1457542579385139310\nBrewer: ⁠https://discord.com/channels/748542142347083868/748547221338849330/1432878386744659980\nCrafting station: ⁠https://discord.com/channels/748542142347083868/749137321710059542/1112115542518673428\nShulker crafter: ⁠https://discord.com/channels/856232076252282890/1304497540481290410/1304497540481290410\nDispenser crafter: ⁠https://discord.com/channels/856232076252282890/1225739717010657280/1229154207723032638"
+  },
+  "styles": {
+    "changes-from-v1": {
+      "depth": 2,
+      "headerText": "Changes from v1"
+    },
+    "sourced-components": {
+      "depth": 2,
+      "headerText": "Sourced Components"
+    }
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopper speed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopper speed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "2x",
+      "id": "1454753562033651876",
+      "url": "https://discord.com/channels/1375556143186837695/1454753562033651876/1454753563258519584",
+      "matches": [
+        "2x"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Chest Hall",
+      "id": "1454753529700024331",
+      "url": "https://discord.com/channels/1375556143186837695/1454753529700024331/1454753530488426527",
+      "matches": [
+        "Chest hall"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "MIS",
+      "id": "1454753725091676293",
+      "url": "https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954",
+      "matches": [
+        "MIS"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Unstackable sorter",
+      "id": "1454754837379022858",
+      "url": "https://discord.com/channels/1375556143186837695/1454754837379022858/1454754839224516712",
+      "matches": [
+        "Unstackable sorter"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopperlocking",
+      "id": "1454753660625227895",
+      "url": "https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422",
+      "matches": [
+        "hopperlocking"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Peripheral",
+      "id": "1454753771035824158",
+      "url": "https://discord.com/channels/1375556143186837695/1454753771035824158/1454753771555913873",
+      "matches": [
+        "Peripheral"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "chunk load",
+      "id": "1457055322647695542",
+      "url": "https://discord.com/channels/1375556143186837695/1457055322647695542/1457055324426080287",
+      "matches": [
+        "chunk load"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Unloader",
+      "id": "1454754824758493380",
+      "url": "https://discord.com/channels/1375556143186837695/1454754824758493380/1454754825345433803",
+      "matches": [
+        "Unloader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Schematic",
+      "id": "1454811558009110704",
+      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
+      "matches": [
+        "Schematic"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/1074320036958846986/1075193549101993985",
+      "server": "748542142347083868",
+      "channel": "1074320036958846986",
+      "message": "1075193549101993985",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/1074320036958846986/1075193549101993985"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/749136547755851857/1397119350854647809",
+      "server": "748542142347083868",
+      "channel": "749136547755851857",
+      "message": "1397119350854647809",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/749136547755851857/1397119350854647809"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/749137103463514163/1050922094256459807",
+      "server": "748542142347083868",
+      "channel": "749137103463514163",
+      "message": "1050922094256459807",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/749137103463514163/1050922094256459807"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/1076322959096041472/1187105738540204223",
+      "server": "748542142347083868",
+      "channel": "1076322959096041472",
+      "message": "1187105738540204223",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/1076322959096041472/1187105738540204223"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/749136637606363167/1086235129053204481",
+      "server": "748542142347083868",
+      "channel": "749136637606363167",
+      "message": "1086235129053204481",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/749136637606363167/1086235129053204481"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/1096104601876430880/1239255622994759861",
+      "server": "748542142347083868",
+      "channel": "1096104601876430880",
+      "message": "1239255622994759861",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/1096104601876430880/1239255622994759861"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "archivedPost",
+      "id": "1386920320081985736",
+      "code": "SP005",
+      "name": "Entityless 50 Furnace Array",
+      "url": "https://discord.com/channels/1375556143186837695/1457542579385139310",
+      "path": "Archive/SP_peripherals/SP005_Entityless_50_Furnace_Array",
+      "matches": [
+        "https://discord.com/channels/1375556143186837695/1457542579385139310/1457542579385139310"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/748547221338849330/1432878386744659980",
+      "server": "748542142347083868",
+      "channel": "748547221338849330",
+      "message": "1432878386744659980",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/748547221338849330/1432878386744659980"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/749137321710059542/1112115542518673428",
+      "server": "748542142347083868",
+      "channel": "749137321710059542",
+      "message": "1112115542518673428",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/749137321710059542/1112115542518673428"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/856232076252282890/1304497540481290410/1304497540481290410",
+      "server": "856232076252282890",
+      "channel": "1304497540481290410",
+      "message": "1304497540481290410",
+      "matches": [
+        "https://discord.com/channels/856232076252282890/1304497540481290410/1304497540481290410"
+      ],
+      "serverName": "Autocrafting Archive",
+      "serverJoinURL": "https://discord.gg/guZdbQ9KQe"
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/856232076252282890/1225739717010657280/1229154207723032638",
+      "server": "856232076252282890",
+      "channel": "1225739717010657280",
+      "message": "1229154207723032638",
+      "matches": [
+        "https://discord.com/channels/856232076252282890/1225739717010657280/1229154207723032638"
+      ],
+      "serverName": "Autocrafting Archive",
+      "serverJoinURL": "https://discord.gg/guZdbQ9KQe"
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1458851285771227331",
+    "forumId": "1375566903241740450",
+    "continuingMessageIds": [
+      "1458851292939026601",
+      "1458851293622964480",
+      "1458851294402842747"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1458851285771227331",
+    "uploadMessageId": "1458851275398582357"
+  },
+  "archivedAt": 1767887631869,
+  "updatedAt": 1767887631869
+}

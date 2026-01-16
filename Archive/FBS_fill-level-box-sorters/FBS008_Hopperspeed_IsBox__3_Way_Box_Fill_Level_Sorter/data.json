@@ -1,0 +1,117 @@
+{
+  "id": "1402520196123721820",
+  "name": "Hopperspeed IsBox + 3 Way Box Fill Level Sorter",
+  "code": "FBS008",
+  "reservedCodes": [
+    "FBS008"
+  ],
+  "pastPostThreadIds": [
+    "1405447030385410058"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1068798858676686848",
+      "displayName": "77777777777777777777",
+      "username": "777777777777777777774832",
+      "iconURL": "https://cdn.discordapp.com/avatars/1068798858676686848/9c8fd7932d9c0072be4f3d559abe76b8.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "1055842182982021144",
+      "displayName": "insto",
+      "username": "ionstrin",
+      "iconURL": "https://cdn.discordapp.com/avatars/1055842182982021144/9d55faf9fe9c535c67f31c8b069454db.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "1207492489880277073",
+      "displayName": "vincent",
+      "username": "tacren_66869",
+      "iconURL": "https://cdn.discordapp.com/embed/avatars/5.png"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488472189571100",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1386918793535684660",
+      "name": "3 Way Sorter"
+    }
+  ],
+  "images": [
+    {
+      "id": "1402520197037822032",
+      "name": "area_render_224_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1402520196123721820/1402520197037822032/area_render_224_.png?ex=68943638&is=6892e4b8&hm=909b22f287ba21cd366fd6f95121e44703ad1eec9c076e6791989fe83e0260d7&",
+      "description": "Sent by 777777777777777777774832 at 8/6/2025, 1:14:32 AM",
+      "canDownload": true,
+      "width": 800,
+      "height": 787,
+      "path": "images/area_render_224_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1402520197448990841",
+      "name": "FBS008_IsBox__3_Way_Box_Fill_Level_Sorter.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1402520196123721820/1402520197448990841/IsBox__3_Way_Box_Fill_Level_Sorter.litematic?ex=68943638&is=6892e4b8&hm=5a917116df54bec5e9afb0fa74391eab19279325b48a4b5923da52184411ad71&",
+      "description": "Sent by 777777777777777777774832 at 8/6/2025, 1:14:32 AM",
+      "canDownload": true,
+      "path": "attachments/FBS008_IsBox__3_Way_Box_Fill_Level_Sorter.litematic",
+      "litematic": {
+        "size": "5x4x3",
+        "version": "1.21"
+      }
+    }
+  ],
+  "records": {
+    "description": "A device that separates loose items and boxes, and sorts the boxes into 3 groups: empty, partially filled, and full boxes. Useful for processing items from inputs to storage systems.",
+    "features": [
+      "Hopperspeed",
+      "Small footprint (5x4x3)",
+      "Uses only 3 hoppers",
+      "Bufferless",
+      "Random input proof"
+    ],
+    "considerations": [
+      "Slime extends out of the footprint when active."
+    ]
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperspeed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "Hopperspeed"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1405447030385410058",
+    "forumId": "1375559651579527208",
+    "continuingMessageIds": [
+      "1405447033854365736"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1405447030385410058",
+    "uploadMessageId": "1405447028590379090"
+  },
+  "archivedAt": 1755155083373,
+  "updatedAt": 1755155083373
+}

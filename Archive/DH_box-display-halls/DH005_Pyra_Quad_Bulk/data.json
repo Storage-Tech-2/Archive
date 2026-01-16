@@ -1,0 +1,146 @@
+{
+  "id": "1387094139996209163",
+  "name": "Pyra Quad Bulk",
+  "code": "DH005",
+  "reservedCodes": [
+    "DH005"
+  ],
+  "pastPostThreadIds": [
+    "1388318028197789766"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "719903397171560559",
+      "displayName": "PyraLeft",
+      "username": "pyraleftt",
+      "iconURL": "https://cdn.discordapp.com/avatars/719903397171560559/7ba08c1c9ee4d550dae6dd373cf9fabe.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488501545373755",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1386533562282672198",
+      "name": "4 Displays"
+    }
+  ],
+  "images": [
+    {
+      "id": "1387094140344340521",
+      "name": "area_render_81_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387094139996209163/1387094140344340521/area_render_81_.png?ex=685c1796&is=685ac616&hm=1a56e24d96e038885609ccbcc31e441d9134b36d0c1047965e2b067a3d4e68aa&",
+      "description": "Sent by andrews54757 at 6/24/2025, 11:36:53 AM",
+      "canDownload": true,
+      "width": 725,
+      "height": 800,
+      "path": "images/area_render_81_.png"
+    },
+    {
+      "id": "1387094140793262190",
+      "name": "area_render_80_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387094139996209163/1387094140793262190/area_render_80_.png?ex=685c1796&is=685ac616&hm=f0aaaedec4b9ee106bed836fe2f2ba1e5c6053a1dc6ca47a789521477fecd901&",
+      "description": "Sent by andrews54757 at 6/24/2025, 11:36:53 AM",
+      "canDownload": true,
+      "width": 730,
+      "height": 800,
+      "path": "images/area_render_80_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1387094141166682222",
+      "name": "DH005_Pyra_Quad_Bulk.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387094139996209163/1387094141166682222/Pyra_Quad_Bulk.litematic?ex=685c1796&is=685ac616&hm=ddf119016124ce589502b15e60225e9f0be1b82c38bed8bae55446bee6f4a979&",
+      "description": "Sent by andrews54757 at 6/24/2025, 11:36:53 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "35x46x21",
+        "version": "1.19.2"
+      },
+      "path": "attachments/DH005_Pyra_Quad_Bulk.litematic"
+    }
+  ],
+  "records": {
+    "description": "Quad bulk hall design has 4 box displays per slice and 4 box sorters.",
+    "features": [
+      "FHL",
+      "Sticks 2 blocks from both sides",
+      "4 bulk silos/slice",
+      "Nice smart dropper turns",
+      "Global box placement",
+      "Slice capacity: Top: 1.564 mil Top: 1.594 mil",
+      "Size for 16 slices: 35x39x20"
+    ],
+    "considerations": [
+      "Lot of inventory prefilling"
+    ],
+    "notes": ""
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Display",
+      "id": "1454753497638506689",
+      "url": "https://discord.com/channels/1375556143186837695/1454753497638506689/1454753498494144522",
+      "matches": [
+        "box display"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice",
+        "Slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Sorter",
+      "id": "1454753516269736090",
+      "url": "https://discord.com/channels/1375556143186837695/1454753516269736090/1454753518383792221",
+      "matches": [
+        "box sorter"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Global",
+      "id": "1454753648574992557",
+      "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
+      "matches": [
+        "Global"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1388318028197789766",
+    "forumId": "1375565403727724764",
+    "continuingMessageIds": [
+      "1388318030949253215"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388318028197789766",
+    "uploadMessageId": "1388178938013945867",
+    "attachmentMessageId": "1388196474797559951"
+  },
+  "archivedAt": 1751042228343,
+  "updatedAt": 1751042228343
+}

@@ -1,0 +1,20 @@
+{
+  "id": "1375562461276672042",
+  "name": "other-box-processors",
+  "code": "OBP",
+  "category": "Box Sorting",
+  "description": "Other box processors",
+  "currentCodeId": 3,
+  "entries": [
+    {
+      "id": "1386195800874549389",
+      "code": "OBP001",
+      "path": "OBP001_Compact_2_Item_Checker"
+    },
+    {
+      "id": "1402533524040450109",
+      "code": "OBP003",
+      "path": "OBP003_18gt_2_item_checker"
+    }
+  ]
+}

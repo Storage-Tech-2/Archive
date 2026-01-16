@@ -1,0 +1,142 @@
+{
+  "id": "1388624919306305636",
+  "name": "Hermitcraft Item Set",
+  "code": "TG001",
+  "reservedCodes": [
+    "TG001"
+  ],
+  "pastPostThreadIds": [
+    "1388626280060158094"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "323515840236486659",
+      "displayName": "KikuGie",
+      "username": "kikugie",
+      "iconURL": "https://cdn.discordapp.com/avatars/323515840236486659/a_208c0a59687a910fed42fe4f3f2caee6.gif"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "457520959033704450",
+      "username": "giannis__",
+      "displayName": "giannis__",
+      "iconURL": "https://cdn.discordapp.com/avatars/457520959033704450/29b37257e39f226f85fe06499d1037ce.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1388600291007533124",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1388625473122074624",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1388624919306305636/1388625473122074624/image.png?ex=6861a9c0&is=68605840&hm=8ad86267e9ca1c9efb27ca6cf34a5ef1931c4f84bed1fc61eaee27b5320bd2e8&",
+      "description": "Sent by andrews54757 at 6/28/2025, 5:01:52 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 256,
+      "path": "images/image.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1388711078334169238",
+      "name": "TG001_Hermitems_S8_1.21.4.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1388624919306305636/1388711078334169238/Hermitems_S8_1.21.4.litematic?ex=6962653a&is=696113ba&hm=29005a193526c0f0265e556859f8e9e0c3239283415d237d8b3d81308d1b769b&",
+      "description": "Sent by andrews54757 at 6/28/2025, 10:42:02 PM",
+      "canDownload": true,
+      "path": "attachments/TG001_Hermitems_S8_1.21.4.litematic",
+      "litematic": {
+        "size": "33x1x7",
+        "version": "1.21.4"
+      }
+    },
+    {
+      "id": "1388626214326894802",
+      "name": "TG001_Hermitems_S8_1.17.1.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1388624919306305636/1388626214326894802/Hermitems_S8_1.17.1.litematic?ex=6962bef0&is=69616d70&hm=7df0f4b7b3ab647503db4302c643584446ff0132430ab8d1d36a3c6e596ed9da&",
+      "description": "Sent by andrews54757 at 6/28/2025, 5:04:49 PM",
+      "canDownload": true,
+      "path": "attachments/TG001_Hermitems_S8_1.17.1.litematic",
+      "litematic": {
+        "size": "33x1x7",
+        "version": "1.17.1"
+      }
+    },
+    {
+      "id": "1459310263106015456",
+      "name": "TG001_Hermititems_S9_1.20.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1388624919306305636/1459310263106015456/Hermititems_S9_1.20.litematic?ex=6962d017&is=69617e97&hm=d53e0cd2dd6e833d384d3c5f98d98e1837fa54df731d21bcf3a68e5b42f44b6d&",
+      "description": "Sent by andrews54757 at 1/9/2026, 5:17:59 PM",
+      "canDownload": true,
+      "path": "attachments/TG001_Hermititems_S9_1.20.litematic",
+      "litematic": {
+        "size": "16x1x47",
+        "version": "1.20"
+      }
+    },
+    {
+      "id": "1459310262694842418",
+      "name": "TG001_Hermititems_S9_1.20_reduced.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1388624919306305636/1459310262694842418/Hermititems_S9_1.20_reduced.litematic?ex=6962d017&is=69617e97&hm=252fec489827bff0fee8db3f86ace2504ae4ddcf1f61cf8684cf4c2554f34bf0&",
+      "description": "Sent by andrews54757 at 1/9/2026, 5:17:59 PM",
+      "canDownload": true,
+      "path": "attachments/TG001_Hermititems_S9_1.20_reduced.litematic",
+      "litematic": {
+        "size": "11x1x47",
+        "version": "1.20"
+      }
+    }
+  ],
+  "records": {
+    "description": "Hermitcraft Season 8 and 9 player's items for testing main storages. Use this item set as a standard testing suite for mixed box processing.",
+    "features": [
+      "Grouped by player in barrels of shulker boxes, preserving original chest contents",
+      "Season 8: In total 1.57mil items and 2031 shulkers",
+      "Season 9: there is a full and reduced set. reduced set removes full boxes of the same type."
+    ],
+    "notes": "For season 8 items, a spreadsheet with per-player stats is available [here](https://docs.google.com/spreadsheets/d/19sWI78msXHRVCwSgc6w5sglSjWgeYYLOBmrBY4cUgu4/edit?usp=sharing)"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Mixed Box",
+      "id": "1454753707530129576",
+      "url": "https://discord.com/channels/1375556143186837695/1454753707530129576/1454753708247089184",
+      "matches": [
+        "mixed box"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1388626280060158094",
+    "forumId": "1388599778941861898",
+    "continuingMessageIds": [
+      "1388626283327389727"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388626280060158094",
+    "uploadMessageId": "1459310718963810356"
+  },
+  "archivedAt": 1751164937546,
+  "updatedAt": 1767997185571
+}

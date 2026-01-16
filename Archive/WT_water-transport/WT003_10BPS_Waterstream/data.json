@@ -1,0 +1,88 @@
+{
+  "id": "1440940351895506944",
+  "name": "10BPS Waterstream",
+  "code": "WT003",
+  "reservedCodes": [
+    "WT003"
+  ],
+  "pastPostThreadIds": [
+    "1440940601724899448"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "displayName": "Andrews54757",
+      "username": "andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488489272840272",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1440940352071663738",
+      "name": "asdadasadadasd.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1440940351895506944/1440940352071663738/asdadasadadasd.png?ex=691ffbc7&is=691eaa47&hm=3d52b26f14860b07d2926e3b18327f7c7071ffc79f7d70b87e884532920da4c4&",
+      "description": "Sent by andrews54757 at 11/20/2025, 12:42:31 AM",
+      "canDownload": true,
+      "width": 770,
+      "height": 176,
+      "path": "images/asdadasadadasd.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1440940352369594378",
+      "name": "WT003_10bps_waterstream.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1440940351895506944/1440940352369594378/10bps_waterstream.litematic?ex=691ffbc7&is=691eaa47&hm=7e8c5110077ecde6a0da4c61023c005800bb272cba37e2f9c6be1166f4d9d87c&",
+      "description": "Sent by andrews54757 at 11/20/2025, 12:42:31 AM",
+      "canDownload": true,
+      "path": "attachments/WT003_10bps_waterstream.litematic",
+      "litematic": {
+        "size": "13x3x1",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A device that moves items at a rate of 10 blocks per second, allows for timing redstone signals with item movement, and uses a slime/piston pusher to shoot items into the stream at 10 BPS starting at the first water block.",
+    "features": [
+      "Moves items at 10 blocks per second",
+      "Allows for timing redstone signals with item movement",
+      "Uses slime/piston pusher to shoot items at 10BPS starting at the first water block",
+      "Average motion is 0.499750482",
+      "Tested for 1600 blocks"
+    ],
+    "considerations": [],
+    "notes": "Item should be aligned against the slime block."
+  },
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1440940601724899448",
+    "forumId": "1375563169904459846",
+    "continuingMessageIds": [
+      "1440940605004972062"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1440940601724899448",
+    "uploadMessageId": "1440940599501918208"
+  },
+  "archivedAt": 1763617410152,
+  "updatedAt": 1763617410152
+}

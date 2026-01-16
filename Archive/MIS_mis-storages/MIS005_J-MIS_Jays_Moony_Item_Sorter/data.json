@@ -1,0 +1,216 @@
+{
+  "id": "1388561670355550298",
+  "name": "J-MIS (Jay's Moony Item Sorter)",
+  "code": "MIS005",
+  "reservedCodes": [
+    "MIS005"
+  ],
+  "pastPostThreadIds": [
+    "1388563583658365163"
+  ],
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "577991168369885223",
+      "username": "jayroi",
+      "iconURL": "https://cdn.discordapp.com/avatars/577991168369885223/2775f84c1b6a1241468c6efdc8a320ce.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "548676165020286994",
+      "username": "moonyinspired",
+      "displayName": "Moonyinspired",
+      "iconURL": "https://cdn.discordapp.com/avatars/548676165020286994/35154458158d0b3c7dcc5842c5f29b21.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "335426949885329411",
+      "username": "sergyd",
+      "iconURL": "https://cdn.discordapp.com/avatars/335426949885329411/01e8993d50c9d864361df9def1960a5a.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488504204562639",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789132869079192",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1388561866506113316",
+      "name": "area_render_357_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1388561670355550298/1388561866506113316/area_render_357_.png?ex=68616e83&is=68601d03&hm=213c801c57ba655e4c5538419f259cee47e8dd18ee1e87a562e93c0d40b707b1&",
+      "description": "Sent by andrews54757 at 6/28/2025, 12:49:07 PM",
+      "canDownload": true,
+      "width": 773,
+      "height": 800,
+      "path": "images/area_render_357_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1388561671366381700",
+      "name": "MIS005_J-MIS_v3_Barebones.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1388561670355550298/1388561671366381700/J-MIS_v3_Barebones.litematic?ex=68616e54&is=68601cd4&hm=282d565e266668dc7bab0fb34036e6d55ec35c43df99c46a5533ecb3180a273b&",
+      "description": "Sent by andrews54757 at 6/28/2025, 12:48:20 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "29x33x29",
+        "version": "1.20.1"
+      },
+      "path": "attachments/MIS005_J-MIS_v3_Barebones.litematic"
+    },
+    {
+      "id": "1388561671705989222",
+      "name": "MIS005_J-MIS_v3_Preset_Filters.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1388561670355550298/1388561671705989222/J-MIS_v3_Preset_Filters.litematic?ex=68616e54&is=68601cd4&hm=0cc3ea0635229dc4096d8b193b08adbd3e6d5209f084f478d61ce9227dcb8318&",
+      "description": "Sent by andrews54757 at 6/28/2025, 12:48:20 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "29x33x29",
+        "version": "1.20.1"
+      },
+      "path": "attachments/MIS005_J-MIS_v3_Preset_Filters.litematic"
+    },
+    {
+      "id": "1388561672083472464",
+      "name": "MIS005_J-MIS_v3_No_Filters.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1388561670355550298/1388561672083472464/J-MIS_v3_No_Filters.litematic?ex=68616e54&is=68601cd4&hm=6c8e74724e7891c9e6e71bd4299c16fa07260b47a801024adf807924cf629c23&",
+      "description": "Sent by andrews54757 at 6/28/2025, 12:48:20 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "29x33x29",
+        "version": "1.20.1"
+      },
+      "path": "attachments/MIS005_J-MIS_v3_No_Filters.litematic"
+    },
+    {
+      "id": "1234329599165337621",
+      "name": "MIS005_J-M-IS_V3.01.zip",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1182780067164717197/1234329599165337621/J-M-IS_V3.01.zip?ex=68614cc5&is=685ffb45&hm=a5b5c5a599f3e8522b629ec18820fd9329285d4a5e415201629dddf1ae196eeb&",
+      "description": "[DiscordCDN] Sent by andrews54757 at 6/28/2025, 12:48:20 PM",
+      "canDownload": true,
+      "path": "attachments/MIS005_J-M-IS_V3.01.zip",
+      "wdl": {
+        "version": "1.20.1"
+      }
+    }
+  ],
+  "records": {
+    "description": "A compact MIS system using MIS 5.1 and hybrid box loaders, acting as bulk (97k capacity per bulk item, with overflow protection).",
+    "features": [
+      "Input full boxes and loose items in the same place",
+      "896 Hoppers, 75% Hopperlocked",
+      "Compact system (29x29x35), fits under a single chunk loader with no chunk alignment.",
+      "Included item layout which sorts all items.",
+      "Runs at hopper speed, with a gap between item types",
+      "Includes feature to distribute boxes after building.",
+      "Box loaders are callable, allowing all items to be accessible at any time.",
+      "Includes an MIS fix mode, which locks hoppers in the mis and manually buffer droppers, (video will include a tutorial).",
+      "Overflow and empty box detection.",
+      "Pause feature, USE WELL BEFORE LOGGING OFF!!!"
+    ],
+    "considerations": [
+      "No box sorting, all boxes input are unloaded, and if bulk, repacked into boxes.",
+      "Pause feature is rather slow.",
+      "While all automatic systems are toggle-stateless, the box-call feature has a brief couple toggle-states for compactness."
+    ],
+    "notes": "WDL Includes (from left to right) an unassigned build (no filters), an assigned build (with filters), and an undecorated, unfiltered build, plus the item layout and slice behind."
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "MIS",
+      "id": "1454753725091676293",
+      "url": "https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954",
+      "matches": [
+        "MIS"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperlocked",
+      "id": "1454753660625227895",
+      "url": "https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422",
+      "matches": [
+        "Hopperlocked"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Chunk loader",
+      "id": "1457055322647695542",
+      "url": "https://discord.com/channels/1375556143186837695/1457055322647695542/1457055324426080287",
+      "matches": [
+        "chunk loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopper speed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopper speed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Detection",
+      "id": "1454753490936266762",
+      "url": "https://discord.com/channels/1375556143186837695/1454753490936266762/1454753491787452438",
+      "matches": [
+        "box detection"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1388563583658365163",
+    "forumId": "1375566804910604349",
+    "continuingMessageIds": [
+      "1388563587567456287",
+      "1454755969379733546"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388563583658365163",
+    "uploadMessageId": "1388563581708275914"
+  },
+  "archivedAt": 1751129755827,
+  "updatedAt": 1751129755827
+}

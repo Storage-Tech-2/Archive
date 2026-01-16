@@ -1,0 +1,35 @@
+{
+  "id": "1375564209882009772",
+  "name": "other-item-processors",
+  "code": "OIP",
+  "category": "Item Processing",
+  "description": "Other item processors",
+  "currentCodeId": 5,
+  "entries": [
+    {
+      "id": "1386191299228467241",
+      "code": "OIP001",
+      "path": "OIP001_Stack-type_Sorter"
+    },
+    {
+      "id": "1386425910319644864",
+      "code": "OIP002",
+      "path": "OIP002_Hopperspeed_Item_Entity_isStackable"
+    },
+    {
+      "id": "1386473584297250936",
+      "code": "OIP003",
+      "path": "OIP003_13_item_type_whitelister_for_bartering"
+    },
+    {
+      "id": "1455648563806863542",
+      "code": "OIP004",
+      "path": "OIP004_Simple_Unstackable_Filter"
+    },
+    {
+      "id": "1455651277718552586",
+      "code": "OIP005",
+      "path": "OIP005_StackableUnstackableBox_Pre-sorter"
+    }
+  ]
+}

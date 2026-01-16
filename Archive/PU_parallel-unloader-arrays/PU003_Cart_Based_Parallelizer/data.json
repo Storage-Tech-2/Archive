@@ -1,0 +1,153 @@
+{
+  "id": "1386940100428173372",
+  "name": "Cart Based Parallelizer",
+  "code": "PU003",
+  "reservedCodes": [
+    "PU003"
+  ],
+  "pastPostThreadIds": [
+    "1388318282913943653"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "551464150925180928",
+      "username": "_javierrubik33",
+      "iconURL": "https://cdn.discordapp.com/avatars/551464150925180928/6348ffe8aa6bb90856447c503288827b.webp",
+      "displayName": "javierrubik33"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "495371124461535232",
+      "username": "morb1d0",
+      "iconURL": "https://cdn.discordapp.com/avatars/495371124461535232/c2c3b943692a231a3b1b7545468e68d7.webp",
+      "displayName": "Morbido"
+    },
+    {
+      "type": "discord-external",
+      "id": "663789366203908169",
+      "username": "pebeye",
+      "iconURL": "https://cdn.discordapp.com/avatars/663789366203908169/10193fcf1bbae12abbafe1496c300e13.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "1165983253493198972",
+      "username": "wreg_",
+      "iconURL": "https://cdn.discordapp.com/avatars/1165983253493198972/4eae41af71aa41964fa5815ef233af80.webp",
+      "displayName": "wreg"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488516309450757",
+      "name": "Untested"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386940101799579761",
+      "name": "area_render_26_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386940100428173372/1386940101799579761/area_render_26_.png?ex=685b8820&is=685a36a0&hm=39fe66be765dfc19828aa39f86f80631a9134a43ff5db0e837f65b0361706c9f&",
+      "description": "Sent by andrews54757 at 6/24/2025, 1:24:48 AM",
+      "canDownload": true,
+      "width": 750,
+      "height": 800,
+      "path": "images/area_render_26_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386940102151770222",
+      "name": "PU003_Cart_Based_Paralleliser_Javi.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386940100428173372/1386940102151770222/Cart_Based_Paralleliser_Javi.litematic?ex=685b8820&is=685a36a0&hm=0bdb52bb77104e31d1a895e2a4e55aa4bf74babef8089160f68fe92c66c87289&",
+      "description": "Sent by andrews54757 at 6/24/2025, 1:24:48 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "26x12x26",
+        "version": "1.20.2"
+      },
+      "path": "attachments/PU003_Cart_Based_Paralleliser_Javi.litematic"
+    }
+  ],
+  "records": {
+    "description": "This system aims to accelerate the sorting speed of your main storage by unloading multiple items simultaneously whilst ensuring every item type isn't unloaded faster than what a single filter can handle. Hopper carts are used as a way to quickly pick up full stacks of items and unloading them via cart yeeting. To use drop any items on the input pressure plate and connect your filters to the output. Due to the nature of the system, filters that are compatible with it are: ss2 ssi filters (excluding push filters) and overstacked filters.",
+    "features": [
+      "Up to x64 hopper speed (576k items/hour)",
+      "Small footprint (12x12x12 blocks)",
+      "3 separate outputs for stackables, unstackables and boxes",
+      "Can handle any input (but stacked unstackables)",
+      "Bufferless (any single item will be instantly dropped into the output, same for unmapped items)",
+      "4d aligned output",
+      "~88% hopper locked (30/33 hoppers)"
+    ],
+    "considerations": [
+      "Entity lag",
+      "Can't be rotated (curved rail redirection is used)",
+      "Any stacked unstackables (StackableShulkerBoxes included) inputted will not be sorted correctly and one item of every stack would despawn."
+    ],
+    "notes": "Use the north direction sub schem, the others might be forked. Explanation of device in thread."
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "cart yeet",
+      "id": "1455675378931728598",
+      "url": "https://discord.com/channels/1375556143186837695/1455675378931728598/1455675380160659517",
+      "matches": [
+        "cart yeet"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "ss",
+      "id": "1454754774833696893",
+      "url": "https://discord.com/channels/1375556143186837695/1454754774833696893/1454754775542267957",
+      "matches": [
+        "ss"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopper speed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopper speed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "4D align",
+      "id": "1454753764606083180",
+      "url": "https://discord.com/channels/1375556143186837695/1454753764606083180/1454753765365256286",
+      "matches": [
+        "4d align"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "forumId": "1375569870577467412",
+    "threadId": "1388318282913943653",
+    "continuingMessageIds": [
+      "1458244352382996480",
+      "1458244353628700835"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388318282913943653",
+    "attachmentMessageId": "1388179247448981535",
+    "uploadMessageId": "1388179241576693961"
+  },
+  "archivedAt": 1750742967911,
+  "updatedAt": 1750742967911
+}

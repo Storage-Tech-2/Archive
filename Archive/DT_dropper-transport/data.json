@@ -1,0 +1,20 @@
+{
+  "id": "1375563020478058557",
+  "name": "dropper-transport",
+  "code": "DT",
+  "category": "Transport",
+  "description": "Dropper lines and auto droppers",
+  "currentCodeId": 3,
+  "entries": [
+    {
+      "id": "1386950960659693588",
+      "code": "DT002",
+      "path": "DT002_1-Wide_Hopper-speed_Dropper_Elevators"
+    },
+    {
+      "id": "1388023798950924308",
+      "code": "DT003",
+      "path": "DT003_Chart_of_1wt_auto-droppers"
+    }
+  ]
+}

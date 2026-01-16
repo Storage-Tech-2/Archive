@@ -1,0 +1,103 @@
+{
+  "id": "1387091494158209074",
+  "name": "tiny 8gt 1+1 crafting station",
+  "code": "SP002",
+  "reservedCodes": [
+    "SP002"
+  ],
+  "pastPostThreadIds": [
+    "1457542153285796002"
+  ],
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "924457454723563530",
+      "username": "wawuli_i_am_wzx",
+      "iconURL": "https://cdn.discordapp.com/avatars/924457454723563530/4b49f63b8029d914b690ccdd831e88da.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1457538569756475392",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1457538569756475393",
+      "name": "Recommended"
+    },
+    {
+      "id": "1457543124883734830",
+      "name": "Masscrafters"
+    }
+  ],
+  "images": [
+    {
+      "id": "1387091494816579685",
+      "name": "area_render_29.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387091494158209074/1387091494816579685/area_render_29.png?ex=685c151f&is=685ac39f&hm=08b87d44142fb1a0674a49d9d0b2beb2f70c8f9b6f72b0a0947845a96a861255&",
+      "description": "Sent by andrews54757 at 6/24/2025, 11:26:23 AM",
+      "canDownload": true,
+      "width": 708,
+      "height": 800,
+      "path": "images/area_render_29.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1387091495151992963",
+      "name": "SP002_tiny_8gt_11_crafting_staition_made_by_wawuli_r1.1.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387091494158209074/1387091495151992963/tiny_8gt_11_crafting_staition_made_by_wawuli_r1.1.litematic?ex=685c151f&is=685ac39f&hm=f6038a43191114c56805b0b1894bedd9770cafac02e6338f42b551de4c4c79d4&",
+      "description": "Sent by andrews54757 at 6/24/2025, 11:26:23 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "4x5x5",
+        "version": "1.18.2"
+      },
+      "path": "attachments/SP002_tiny_8gt_11_crafting_staition_made_by_wawuli_r1.1.litematic"
+    }
+  ],
+  "records": {
+    "description": "Small 8gt box replacement crafting station. Displays boxes for you with ingredients on the left which breaks when emptied, and a box for the results on the right which breaks when full.",
+    "features": [
+      "auto first box dispense",
+      "automatic handling of empty boxes",
+      "8gt reset on both sides"
+    ],
+    "considerations": [],
+    "notes": ""
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "gt",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1457542153285796002",
+    "forumId": "1457538260892127293",
+    "continuingMessageIds": [
+      "1457542156540711060"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1457542153285796002",
+    "uploadMessageId": "1457542149414326325"
+  },
+  "archivedAt": 1750778885787,
+  "updatedAt": 1767575527031
+}

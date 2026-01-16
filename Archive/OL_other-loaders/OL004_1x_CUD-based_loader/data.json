@@ -1,0 +1,125 @@
+{
+  "id": "1455729497373413416",
+  "name": "1x CUD-based loader",
+  "code": "OL004",
+  "reservedCodes": [
+    "OL004"
+  ],
+  "pastPostThreadIds": [
+    "1455729805948489769"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "496255535549775872",
+      "displayName": "Kizu",
+      "username": "kizuyuuu",
+      "iconURL": "https://cdn.discordapp.com/avatars/496255535549775872/b1fcfb5dffaaf1d828955b06b9c00c2d.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488468729266284",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789089017499700",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1455729498422251686",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1455729497373413416/1455729498422251686/image.png?ex=6955c93e&is=695477be&hm=8846c0b623d335f8d838f084abed4926f71bf58a0bf12fc63d5262aec4019285&",
+      "description": "Sent by andrews54757 at 12/30/2025, 8:09:18 PM",
+      "canDownload": true,
+      "width": 302,
+      "height": 372,
+      "path": "images/image.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1455729498715717764",
+      "name": "OL004_Cud_Loader.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1455729497373413416/1455729498715717764/Cud_Loader.litematic?ex=6955c93e&is=695477be&hm=c9ff9e0a13c807664a0142d5d39d49d2a2374d7a52e750bded46d60badada4d2&",
+      "description": "Sent by andrews54757 at 12/30/2025, 8:09:18 PM",
+      "canDownload": true,
+      "path": "attachments/OL004_Cud_Loader.litematic",
+      "litematic": {
+        "size": "4x6x4",
+        "version": "1.20.1"
+      }
+    }
+  ],
+  "records": {
+    "description": "This loader will automatically replace the box when items have stopped flowing using a Comparator Update Detector (CUD). Useful for packing mixed items from input into boxes.",
+    "features": [
+      "Hopperspeed input",
+      "Uses the CUD to detect fullness of box, and end of input.",
+      "Supports mixed item input and buffers no items",
+      "Boxes are output as item entities"
+    ],
+    "considerations": [
+      "It takes a while for the box to break as it must wait until a fader clock runs out."
+    ],
+    "notes": "",
+    "compatibility": "",
+    "instructions": []
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Comparator Update Detector",
+      "id": "1454753535919915098",
+      "url": "https://discord.com/channels/1375556143186837695/1454753535919915098/1454753536629018626",
+      "matches": [
+        "Comparator Update Detector",
+        "CUD"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperspeed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "Hopperspeed"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1455729805948489769",
+    "forumId": "1375557962675912865",
+    "continuingMessageIds": [
+      "1455729809572368557"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1455729805948489769",
+    "uploadMessageId": "1455729802337062922"
+  },
+  "archivedAt": 1767143426990,
+  "updatedAt": 1767143426990
+}

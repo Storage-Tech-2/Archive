@@ -1,0 +1,30 @@
+{
+  "id": "1375565403727724764",
+  "name": "box-display-halls",
+  "code": "DH",
+  "category": "Storage Halls & UI",
+  "description": "Bulk/display halls",
+  "currentCodeId": 6,
+  "entries": [
+    {
+      "id": "1386860131861659668",
+      "code": "DH002",
+      "path": "DH002_1.8_Mil_Bulk_Storage"
+    },
+    {
+      "id": "1386928511750770770",
+      "code": "DH003",
+      "path": "DH003_Fully_Hopperlocked_Compact_Bulk_Storage"
+    },
+    {
+      "id": "1387094139996209163",
+      "code": "DH005",
+      "path": "DH005_Pyra_Quad_Bulk"
+    },
+    {
+      "id": "1386956182526230558",
+      "code": "DH004",
+      "path": "DH004_Box_Sorter_Quad_Bulk"
+    }
+  ]
+}

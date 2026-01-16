@@ -1,0 +1,151 @@
+{
+  "id": "1386860131861659668",
+  "name": "1.8 Mil Bulk Storage",
+  "code": "DH002",
+  "reservedCodes": [
+    "DH002"
+  ],
+  "pastPostThreadIds": [
+    "1388317982387601458"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "719903397171560559",
+      "username": "pyraleftt",
+      "iconURL": "https://cdn.discordapp.com/avatars/719903397171560559/7ba08c1c9ee4d550dae6dd373cf9fabe.webp",
+      "displayName": "PyraLeft"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385789129794519081",
+      "name": "Recommended"
+    },
+    {
+      "id": "1385488501545373755",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1386533494888595518",
+      "name": "2 Displays"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386860132440215702",
+      "name": "Pyra_Bulk_Slice.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386860131861659668/1386860132440215702/Pyra_Bulk_Slice.png?ex=685b3da6&is=6859ec26&hm=e18f0c0ccb93c2d5e5839c69daa43df75b312adfea20613200883d37ec5981fc&",
+      "description": "Sent by andrews54757 at 6/23/2025, 8:07:02 PM",
+      "canDownload": true,
+      "path": "images/Pyra_Bulk_Slice.png"
+    },
+    {
+      "id": "1386860325076471860",
+      "name": "Pyra_Bulk.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386860131861659668/1386860325076471860/Pyra_Bulk.png?ex=685b3dd4&is=6859ec54&hm=40b32882620894f0ffc50907476a29234f26cc197b8cea35c43d7a0f1b6904dc&",
+      "description": "Sent by andrews54757 at 6/23/2025, 8:07:48 PM",
+      "canDownload": true,
+      "width": 467,
+      "height": 800,
+      "path": "images/Pyra_Bulk.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386860132834607228",
+      "name": "DH002_Pyra_Bulk.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386860131861659668/1386860132834607228/Pyra_Bulk.litematic?ex=685b3da6&is=6859ec26&hm=45f1569db3947cec43e041ad682d1efefc08a2b7bca49f65d65302abc2bda7ce&",
+      "description": "Sent by andrews54757 at 6/23/2025, 8:07:02 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "23x55x28",
+        "version": "1.20.2"
+      },
+      "path": "attachments/DH002_Pyra_Bulk.litematic"
+    }
+  ],
+  "records": {
+    "description": "Re-locking is proceeded through updating BUDed pistons with a rail line, which is lag efficient. Nice default extended falling block box displays allows for a good UI with flat floor and shulkers being 3 blocks below the chests.",
+    "features": [
+      "Fully locked when idle",
+      "1.8 million capacity per item",
+      "U-turn triggering and unlocking only when necessary",
+      "Nice UI with default extended display"
+    ],
+    "considerations": [],
+    "notes": "Additional credits:\n- acaciachan - box sorter\n- Walter - for his reliable water stream\n- bipim, Moony and Gangles - falling block display\n- Philgoodinator - unsorted box recombiner and U-turn\n- Walter, Pfeffa and Expo - Keygen"
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "BUD",
+      "id": "1454753476813787279",
+      "url": "https://discord.com/channels/1375556143186837695/1454753476813787279/1454753477443063869",
+      "matches": [
+        "BUD"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Display",
+      "id": "1454753497638506689",
+      "url": "https://discord.com/channels/1375556143186837695/1454753497638506689/1454753498494144522",
+      "matches": [
+        "box display"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "UI",
+      "id": "1454754844316274861",
+      "url": "https://discord.com/channels/1375556143186837695/1454754844316274861/1454754845033627671",
+      "matches": [
+        "UI"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Sorter",
+      "id": "1454753516269736090",
+      "url": "https://discord.com/channels/1375556143186837695/1454753516269736090/1454753518383792221",
+      "matches": [
+        "box sorter"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Keygen",
+      "id": "1454753674298396785",
+      "url": "https://discord.com/channels/1375556143186837695/1454753674298396785/1454753674898440377",
+      "matches": [
+        "Keygen"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "forumId": "1375565403727724764",
+    "threadId": "1388317982387601458",
+    "continuingMessageIds": [
+      "1388317986158411908"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388317982387601458",
+    "attachmentMessageId": "1388178893248135210",
+    "uploadMessageId": "1388178886562414724"
+  },
+  "archivedAt": 1750723730898,
+  "updatedAt": 1750723730898
+}

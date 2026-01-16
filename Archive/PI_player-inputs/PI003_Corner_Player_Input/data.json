@@ -1,0 +1,112 @@
+{
+  "id": "1388566576692990162",
+  "name": "Corner Player Input",
+  "code": "PI003",
+  "reservedCodes": [
+    "PI003"
+  ],
+  "pastPostThreadIds": [
+    "1388568533331480687"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "889866137184137238",
+      "displayName": "bipim",
+      "username": "bipim",
+      "iconURL": "https://cdn.discordapp.com/avatars/889866137184137238/7e7a059e3e137003a2abe1a91499f786.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488514329870484",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789146638975161",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1388566577225535660",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1388566576692990162/1388566577225535660/image.png?ex=686172e6&is=68602166&hm=13cb8ca8a406296e36fc56a1d4a98f22d8bd8e584994a07a752f6a4d8b3fac4b&",
+      "description": "Sent by andrews54757 at 6/28/2025, 1:07:50 PM",
+      "canDownload": true,
+      "width": 764,
+      "height": 547,
+      "path": "images/image.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1388587587895165049",
+      "name": "PI003_cornyeet_fixed.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1388566576692990162/1388587587895165049/cornyeet_fixed.litematic?ex=68618677&is=686034f7&hm=85a1e4908a33647074999bfcbe5eebf40e72745a8a8b5df572852925ca69a6e2&",
+      "description": "Sent by andrews54757 at 6/28/2025, 2:31:19 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "8x8x8",
+        "version": "1.21"
+      },
+      "path": "attachments/PI003_cornyeet_fixed.litematic"
+    }
+  ],
+  "records": {
+    "description": "An input interface built into a corner. Uses hoppercarts to unload chests rapidly.",
+    "features": [
+      "Included manual loader display box for loose items, which replaces box if the box has items and is closed.",
+      "Chest contents are unloaded as item entities rapidly using hoppercarts.",
+      "Chest inputs are not unloaded until noteblock is pressed.",
+      "Pause line stops unloading of chests and locks box display"
+    ],
+    "considerations": [
+      "If box display is filled while pause line is activated, box must be opened/closed again to replace it when pause is lifted."
+    ],
+    "notes": ""
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Display",
+      "id": "1454753497638506689",
+      "url": "https://discord.com/channels/1375556143186837695/1454753497638506689/1454753498494144522",
+      "matches": [
+        "box display"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1388568533331480687",
+    "forumId": "1375569381781930006",
+    "continuingMessageIds": [
+      "1388568537869713540"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388568533331480687",
+    "uploadMessageId": "1388587641016029415"
+  },
+  "archivedAt": 1751135491793,
+  "updatedAt": 1751135491793
+}

@@ -1,0 +1,92 @@
+{
+  "id": "1457043564457627679",
+  "name": "Falling Edge Detector Chart",
+  "code": "LC002",
+  "reservedCodes": [
+    "LC002"
+  ],
+  "pastPostThreadIds": [
+    "1457048444723134627"
+  ],
+  "authors": [],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "460316892976906261",
+      "username": "ragdollwilly",
+      "displayName": "Ragdoll Willy",
+      "iconURL": "https://cdn.discordapp.com/avatars/460316892976906261/a0332117bf4e609a1ead4417ae4357b4.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1457042202361467101",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1457043566550454365",
+      "name": "Falling_Edge_Detectors.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1457043564457627679/1457043566550454365/Falling_Edge_Detectors.png?ex=695a9110&is=69593f90&hm=61c4037fac9e7838ca213e102f7620ec77d3b27a8525590f51a453f66723eb3c&",
+      "description": "Sent by ragdollwilly at 1/3/2026, 11:10:56 AM",
+      "canDownload": true,
+      "width": 706,
+      "height": 800,
+      "path": "images/Falling_Edge_Detectors.png"
+    }
+  ],
+  "attachments": [],
+  "records": {
+    "description": "A handful of compact, 1-wide tileable (1wt) falling edge detectors, which are redstone circuits designed to output a brief pulse when an input signal transitions from on to off.",
+    "features": [
+      "1-wide design for space efficiency",
+      "Tileable, allowing multiple units to be placed side-by-side",
+      "Detects falling edges in redstone signals, useful for timing and automation"
+    ],
+    "considerations": [
+      "Requires understanding of redstone mechanics",
+      "Some designs may vary in speed or reliability based on components used"
+    ],
+    "notes": "These are commonly used in Minecraft redstone engineering for creating precise timing circuits.",
+    "compatibility": "Compatible with Minecraft Java Edition versions 1.11 and later (where observers are available); similar concepts work in Bedrock Edition with adjustments.",
+    "instructions": [
+      "One simple design: Place an observer facing the input signal.",
+      "Connect the observer's output to a repeater or comparator to create the pulse.",
+      "For a piston-based version: Use a sticky piston with a block and redstone torch to detect the edge.",
+      "Test the circuit to ensure it triggers only on falling edges."
+    ]
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "1wt",
+      "id": "1454753738425368687",
+      "url": "https://discord.com/channels/1375556143186837695/1454753738425368687/1454753741785010208",
+      "matches": [
+        "1wt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Falling Edge",
+      "id": "1457020951001567444",
+      "url": "https://discord.com/channels/1375556143186837695/1457020951001567444/1457020954642485484",
+      "matches": [
+        "falling edge"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1457048444723134627",
+    "forumId": "1457041921531842581",
+    "continuingMessageIds": [],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1457048444723134627",
+    "uploadMessageId": ""
+  },
+  "archivedAt": 1767457818144,
+  "updatedAt": 1767457818144
+}

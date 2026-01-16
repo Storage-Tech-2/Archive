@@ -1,0 +1,136 @@
+{
+  "id": "1389197974826913814",
+  "name": "Globally clocked 3wt 6x fullspeed mixed loader",
+  "code": "ML006",
+  "reservedCodes": [
+    "ML006"
+  ],
+  "pastPostThreadIds": [
+    "1394718456934563972"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "444883614761746436",
+      "displayName": "camphorwood",
+      "username": "camphorwood",
+      "iconURL": "https://cdn.discordapp.com/avatars/444883614761746436/b846c71873bcae574d1550d0d2c78d42.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "610020794684276736",
+      "username": "bonkloud",
+      "iconURL": "https://cdn.discordapp.com/avatars/610020794684276736/9d2bfe35e9ea2fb27e4b1941d46ded7b.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1394719137170718801",
+      "name": "Global Clock"
+    },
+    {
+      "id": "1386422917729882322",
+      "name": "Full Clearance"
+    },
+    {
+      "id": "1386839243879616523",
+      "name": "Fullspeed"
+    },
+    {
+      "id": "1386423142574194868",
+      "name": "6X Hopperspeed"
+    }
+  ],
+  "images": [
+    {
+      "id": "1394718266307645540",
+      "name": "3wt6x_global_render.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1389197974826913814/1394718266307645540/3wt6x_global_render.png?ex=6877d41b&is=6876829b&hm=559fa3a6aa584022b706384fe975be88e638d1814fa4815c2d0869a79cade926&",
+      "description": "Sent by TMC Schematic Renderer at 7/15/2025, 12:32:27 PM",
+      "canDownload": true,
+      "width": 798,
+      "height": 800,
+      "path": "images/3wt6x_global_render.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1394717760789151776",
+      "name": "ML006_3wt6x_global.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1389197974826913814/1394717760789151776/3wt6x_global.litematic?ex=6877d3a2&is=68768222&hm=30e45f6a96e3f05c7e9c0348e84d0beec6337e458a57efac506e4612073aee03&",
+      "description": "Sent by camphorwood at 7/15/2025, 12:30:26 PM",
+      "canDownload": true,
+      "path": "attachments/ML006_3wt6x_global.litematic",
+      "litematic": {
+        "size": "7x6x4",
+        "version": "1.21.5"
+      }
+    }
+  ],
+  "records": {
+    "description": "This loader design features mixed item loading at full 6x hopperspeed (54k items/h)",
+    "features": [
+      "3-wide tileable",
+      "Size: 6x6x3",
+      "Globally clocked",
+      "Useful for general item loading"
+    ],
+    "notes": [
+      "Our testing shows that it works with the Hermitcraft item set",
+      "Schem includes global clocking front"
+    ]
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "6x",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "6x",
+        "hopperspeed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Global",
+      "id": "1454753648574992557",
+      "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
+      "matches": [
+        "global"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1394718456934563972",
+    "forumId": "1375557473066418206",
+    "continuingMessageIds": [
+      "1394718460285812787"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1394718456934563972",
+    "uploadMessageId": "1394718454862577816"
+  },
+  "archivedAt": 1752597593874,
+  "updatedAt": 1752597593874
+}

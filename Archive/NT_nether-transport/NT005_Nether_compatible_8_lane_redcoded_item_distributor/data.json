@@ -1,0 +1,132 @@
+{
+  "id": "1458233078748151942",
+  "name": "Nether compatible 8 lane redcoded item distributor",
+  "code": "NT005",
+  "reservedCodes": [
+    "NT005"
+  ],
+  "pastPostThreadIds": [
+    "1458233340476788880"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1387131981464211602",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1458233079993860166",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1458233078748151942/1458233079993860166/image.png?ex=695ee4e2&is=695d9362&hm=21bac708b64f4b7122715b59d7a2d0d2d669bf003f6fe8511280651b688c2a19&",
+      "description": "Sent by andrews54757 at 1/6/2026, 5:57:38 PM",
+      "canDownload": true,
+      "width": 762,
+      "height": 492,
+      "path": "images/image.png"
+    },
+    {
+      "id": "1458233080329539805",
+      "name": "image_1.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1458233078748151942/1458233080329539805/image.png?ex=695ee4e3&is=695d9363&hm=a278d7de126359a00b2b4d005fa4f9f3c52f6f46327ac3a6bada2e1df7ebfed6&",
+      "description": "Sent by andrews54757 at 1/6/2026, 5:57:38 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 343,
+      "path": "images/image_1.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1458233079574564966",
+      "name": "NT005_8lane_nether_redcoded_distributor.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1458233078748151942/1458233079574564966/8lane_nether_redcoded_distributor.litematic?ex=695ee4e2&is=695d9362&hm=189c5f1df4abc330058da58f7b6d5fa2e909dbe3ef6e3b59b0eb7a1fdeec549b&",
+      "description": "Sent by andrews54757 at 1/6/2026, 5:57:38 PM",
+      "canDownload": true,
+      "path": "attachments/NT005_8lane_nether_redcoded_distributor.litematic",
+      "litematic": {
+        "size": "9x6x21",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Distributes item entities evenly among 8 ice lanes. Uses a counter plus a redcoder to route the items so it outputs to a different lane each time the items are sent. Useful for integrating with loading arrays for high output farms.",
+    "features": [
+      "8 lane output, one lane every 4 blocks on both sides.",
+      "24gt clockable",
+      "Nether compatible",
+      "Items are output already aligned on edge of block"
+    ],
+    "considerations": [
+      "A bit expensive due to all the ender chests, you can replace with regular chests but it will be a bit laggier"
+    ],
+    "instructions": [
+      "Put items on terracotta block where slime pusher is. make sure items are already 4d aligned for optimal output.",
+      "Click/power noteblock labelled \"clock\""
+    ]
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "gt",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Bit",
+      "id": "1454753462171734026",
+      "url": "https://discord.com/channels/1375556143186837695/1454753462171734026/1454753462905737238",
+      "matches": [
+        "bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "4D align",
+      "id": "1454753764606083180",
+      "url": "https://discord.com/channels/1375556143186837695/1454753764606083180/1454753765365256286",
+      "matches": [
+        "4d align"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1458233340476788880",
+    "forumId": "1387131693411995658",
+    "continuingMessageIds": [
+      "1458233345006895276"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1458233340476788880",
+    "uploadMessageId": "1458233334466351230"
+  },
+  "archivedAt": 1767740316651,
+  "updatedAt": 1767740316651
+}

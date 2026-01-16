@@ -1,0 +1,130 @@
+{
+  "id": "1452358144284950610",
+  "name": "Small 1wt N-pulse Clocks",
+  "code": "CC006",
+  "reservedCodes": [
+    "CC006"
+  ],
+  "pastPostThreadIds": [
+    "1452440653253574676"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "929259651185381417",
+      "displayName": "FlutterDart",
+      "username": "flutterdart_",
+      "iconURL": "https://cdn.discordapp.com/avatars/929259651185381417/e3a8ea5b727144493b074c37a60a39e5.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1386444420911595687",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1452358144843055104",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1452358144284950610/1452358144843055104/image.png?ex=6949856d&is=694833ed&hm=53b9fff8e84accf5b20a3b197e7209c96c7a2dbc6b13827e50ad7dae93c283e2&",
+      "description": "Sent by flutterdart_ at 12/21/2025, 12:52:45 PM",
+      "canDownload": true,
+      "width": 632,
+      "height": 800,
+      "path": "images/image.png"
+    },
+    {
+      "id": "1452358145513881752",
+      "name": "image_1.png",
+      "contentType": "image/webp",
+      "url": "https://cdn.discordapp.com/attachments/1452358144284950610/1452358145513881752/image.png?ex=6949856d&is=694833ed&hm=521a4c96bc3ccc993af85295fddf883fa4db8a485706439786d6dc96ce1da002&",
+      "description": "Sent by flutterdart_ at 12/21/2025, 12:52:45 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 800,
+      "path": "images/image_1.png"
+    },
+    {
+      "id": "1452358145895567391",
+      "name": "image_2.png",
+      "contentType": "image/webp",
+      "url": "https://cdn.discordapp.com/attachments/1452358144284950610/1452358145895567391/image.png?ex=6949856d&is=694833ed&hm=cabb35338d61835ecab069d414ee2ee869815a06eff5a0ebebe30cac121305b3&",
+      "description": "Sent by flutterdart_ at 12/21/2025, 12:52:45 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 800,
+      "path": "images/image_2.png"
+    },
+    {
+      "id": "1452358146256539780",
+      "name": "image_3.png",
+      "contentType": "image/webp",
+      "url": "https://cdn.discordapp.com/attachments/1452358144284950610/1452358146256539780/image.png?ex=6949856d&is=694833ed&hm=245418c5db9309388c0b80513ca80c2d9d48aed6ca79b8aff6641ebc87ac3364&",
+      "description": "Sent by flutterdart_ at 12/21/2025, 12:52:45 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 800,
+      "path": "images/image_3.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1452373788829290626",
+      "name": "CC006_N-pulse_Clocks.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1452358144284950610/1452373788829290626/N-pulse_Clocks.litematic?ex=694993ff&is=6948427f&hm=f5d94d49ecfabd659f4ff85238e3ea41410e4250bd7d8be248da6005d9a6f6ef&",
+      "description": "Sent by flutterdart_ at 12/21/2025, 1:54:55 PM",
+      "canDownload": true,
+      "path": "attachments/CC006_N-pulse_Clocks.litematic",
+      "litematic": {
+        "size": "14x5x5",
+        "version": "1.21"
+      }
+    }
+  ],
+  "records": {
+    "description": "Some 1wt clocks that can be configured to output different numbers of pulses. These can for example be used as 27 pulse clocks.",
+    "variants": "- Top activated (both even- and odd-n outputs)\n- Top activated with comparator output for reset (only odd-n output)\n- Bottom activated (only odd-n output)\n- Side activated (only even-n output)",
+    "features": [
+      "1 Wide tileable",
+      "Can be adjusted to many different pulse outputs"
+    ],
+    "considerations": [
+      "You need to wait until the hopper is empty before re-activating the clock"
+    ]
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "1wt",
+      "id": "1454753738425368687",
+      "url": "https://discord.com/channels/1375556143186837695/1454753738425368687/1454753741785010208",
+      "matches": [
+        "1wt"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1452440653253574676",
+    "forumId": "1386443869729587291",
+    "continuingMessageIds": [
+      "1452440658898845870"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1452440653253574676",
+    "uploadMessageId": "1452440651131129877"
+  },
+  "archivedAt": 1766904706506,
+  "updatedAt": 1766901766952
+}

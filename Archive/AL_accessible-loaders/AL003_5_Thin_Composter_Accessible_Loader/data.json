@@ -1,0 +1,127 @@
+{
+  "id": "1388040613894684772",
+  "name": "5 Thin Composter Accessible Loader",
+  "code": "AL003",
+  "reservedCodes": [
+    "AL003"
+  ],
+  "pastPostThreadIds": [
+    "1388316730681458819"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "624927906908471306",
+      "displayName": "Obi81",
+      "username": "obi81",
+      "iconURL": "https://cdn.discordapp.com/avatars/624927906908471306/5ca94a8774d0abe79d280eb3ec2978b0.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488464648208442",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789083279822881",
+      "name": "Recommended"
+    },
+    {
+      "id": "1386251077854298192",
+      "name": "Tileable"
+    }
+  ],
+  "images": [
+    {
+      "id": "1388040614259593337",
+      "name": "area_render_72_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1388040613894684772/1388040614259593337/area_render_72_.png?ex=685f890e&is=685e378e&hm=e2cb085c5ee297d3b7f3d1cffa29a1d63946a132d7459bc89f6c57f98bc8286f&",
+      "description": "Sent by andrews54757 at 6/27/2025, 2:17:50 AM",
+      "canDownload": true,
+      "width": 456,
+      "height": 751,
+      "path": "images/area_render_72_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1388040883097702450",
+      "name": "AL003_thin_accessible_loader.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1388040613894684772/1388040883097702450/thin_accessible_loader.litematic?ex=685f894f&is=685e37cf&hm=09041111f3ffe68cbca331671aa54f090e1550f7606484933420b6898f3fcd16&",
+      "description": "Sent by andrews54757 at 6/27/2025, 2:18:55 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "5x9x1",
+        "version": "1.21.4"
+      },
+      "path": "attachments/AL003_thin_accessible_loader.litematic"
+    }
+  ],
+  "records": {
+    "description": "A simple 5 block wide accessible loader with a zero ticked composter that buffers 16 stacks.",
+    "features": [
+      "5 blocks wide",
+      "composter device",
+      "buffer 16 stacks"
+    ],
+    "considerations": [
+      "9 blocks tall",
+      "Buffers 16 stacks",
+      "Togglestates"
+    ],
+    "notes": "Ensure dust is redirected away from box distribution hoppers"
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Accessible Loader",
+      "id": "1454804125559554243",
+      "url": "https://discord.com/channels/1375556143186837695/1454804125559554243/1454804126541152338",
+      "matches": [
+        "accessible loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "tick",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "tick"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Togglestate",
+      "id": "1454754804252282910",
+      "url": "https://discord.com/channels/1375556143186837695/1454754804252282910/1454754804881428533",
+      "matches": [
+        "Togglestate"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "forumId": "1375557143201316934",
+    "threadId": "1388316730681458819",
+    "continuingMessageIds": [
+      "1388316735106449509"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388316730681458819",
+    "attachmentMessageId": "1388177497010602035",
+    "uploadMessageId": "1388177489800724491"
+  },
+  "archivedAt": 1751005255449,
+  "updatedAt": 1751005255449
+}

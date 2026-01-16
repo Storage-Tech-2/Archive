@@ -1,0 +1,122 @@
+{
+  "id": "1386450584235671562",
+  "name": "1.19+ 4D Item Aligner",
+  "code": "WT001",
+  "reservedCodes": [
+    "WT001"
+  ],
+  "pastPostThreadIds": [
+    "1388317540870131842"
+  ],
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "691307198193598485",
+      "username": "eirikls",
+      "iconURL": "https://cdn.discordapp.com/avatars/691307198193598485/01fc7522a42f8cfe8dcdffdb3a1d691d.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488489272840272",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1386453141012090971",
+      "name": "Item Aligners"
+    },
+    {
+      "id": "1385789114598559916",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386450584793649163",
+      "name": "119_4D_Aligner.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386450584235671562/1386450584793649163/1.19_4D_Aligner.png?ex=6859c03a&is=68586eba&hm=58dd8965baada6d55c78690f163906ab4ed7ca621e21556e80cb81dd88e3e7ff&",
+      "description": "Sent by andrews54757 at 6/22/2025, 4:59:38 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 680,
+      "path": "images/119_4D_Aligner.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386450590934241432",
+      "name": "WT001_119_4D_Aligner.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386450584235671562/1386450590934241432/1.19_4D_Aligner.litematic?ex=6859c03b&is=68586ebb&hm=a25fcadffabd46abc58096e51cd974e6da087d4c1e761c32e86da6accd291835&",
+      "description": "Sent by andrews54757 at 6/22/2025, 4:59:38 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "10x3x7",
+        "version": "1.20.1"
+      },
+      "path": "attachments/WT001_119_4D_Aligner.litematic"
+    }
+  ],
+  "records": {
+    "description": "A simple setup that reliably aligns the output of a dropper in the 3 dimensions and time, allowing for a predictable position and motion of the items. Schematic includes some example wiring possibilities.",
+    "features": [
+      "Pistonless",
+      "4gt clockable",
+      "4 gt clockable without item merging"
+    ],
+    "considerations": [],
+    "notes": "The waterlogged stairs can be any water source block and the leaves can be any block that redirects water without creating a source."
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Schematic",
+      "id": "1454811558009110704",
+      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
+      "matches": [
+        "Schematic"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Pistonless",
+      "id": "1454753777348251728",
+      "url": "https://discord.com/channels/1375556143186837695/1454753777348251728/1454753777763749963",
+      "matches": [
+        "Pistonless"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "gt",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "forumId": "1375563169904459846",
+    "threadId": "1388317540870131842",
+    "continuingMessageIds": [
+      "1388317543491702905"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388317540870131842",
+    "attachmentMessageId": "1388178541300023317",
+    "uploadMessageId": "1388178534861897860"
+  },
+  "archivedAt": 1750626047771,
+  "updatedAt": 1750626047771
+}

@@ -1,0 +1,174 @@
+{
+  "id": "1386700520944832692",
+  "name": "8 Chest Hall SS2/SS3",
+  "code": "CH002",
+  "reservedCodes": [
+    "CH002"
+  ],
+  "pastPostThreadIds": [
+    "1388317417385758770"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "889866137184137238",
+      "displayName": "bipim",
+      "username": "bipim",
+      "iconURL": "https://cdn.discordapp.com/avatars/889866137184137238/7e7a059e3e137003a2abe1a91499f786.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "719903397171560559",
+      "username": "pyraleftt",
+      "iconURL": "https://cdn.discordapp.com/avatars/719903397171560559/7ba08c1c9ee4d550dae6dd373cf9fabe.webp",
+      "displayName": "PyraLeft"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1386700720467607562",
+      "name": "SS3"
+    },
+    {
+      "id": "1386699846542692493",
+      "name": "SS2"
+    },
+    {
+      "id": "1385488483170386069",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789106755473500",
+      "name": "Recommended"
+    },
+    {
+      "id": "1386099807206244543",
+      "name": "8 Chests"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386700522001530930",
+      "name": "bimip_1dc_8item.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386700520944832692/1386700522001530930/bimip_1dc_8item.png?ex=685aa900&is=68595780&hm=6aa24839feb0b57203c3c30bdeaab61e4295fea0ec511dda937911f3c4d4476d&",
+      "description": "Sent by andrews54757 at 6/23/2025, 9:32:47 AM",
+      "canDownload": true,
+      "width": 800,
+      "height": 450,
+      "path": "images/bimip_1dc_8item.png"
+    },
+    {
+      "id": "1386700522484011222",
+      "name": "PyraLeft_SS3_Hall.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386700520944832692/1386700522484011222/PyraLeft_SS3_Hall.png?ex=685aa900&is=68595780&hm=bf4bb8d8816ee079676f4d7fa53d6448361146760963ba27ab11dc861c294868&",
+      "description": "Sent by andrews54757 at 6/23/2025, 9:32:47 AM",
+      "canDownload": true,
+      "width": 800,
+      "height": 591,
+      "path": "images/PyraLeft_SS3_Hall.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386700522836328611",
+      "name": "CH002_bipim_1dc_ss2_hall.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386700520944832692/1386700522836328611/bipim_1dc_ss2_hall.litematic?ex=685aa900&is=68595780&hm=0861ddb32bb8967708b9e7a9fc505a03d26bf84ebd463a82c889ca3a9b5d427a&",
+      "description": "Sent by andrews54757 at 6/23/2025, 9:32:47 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "29x16x2",
+        "version": "1.18.2"
+      },
+      "path": "attachments/CH002_bipim_1dc_ss2_hall.litematic"
+    },
+    {
+      "id": "1386700523142381568",
+      "name": "CH002_PyraLeft_Simple_SS3_Hall.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386700520944832692/1386700523142381568/PyraLeft_Simple_SS3_Hall.litematic?ex=685aa900&is=68595780&hm=1045ee3d713f031715f89b405cabc78ab67802914635b76ca03c6c1cfa71f146&",
+      "description": "Sent by andrews54757 at 6/23/2025, 9:32:47 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "27x16x4",
+        "version": "1.18.2"
+      },
+      "path": "attachments/CH002_PyraLeft_Simple_SS3_Hall.litematic"
+    }
+  ],
+  "records": {
+    "description": "100% locked, 8 items per slice chest hall design with block displays.",
+    "features": [
+      "22 hoppers | 1e-12 s",
+      "8 items per slice",
+      "SS2 filters, SS3 variant by Pyra",
+      "no prefilling required",
+      "all filters are 8gt",
+      "all display blocks can be solid"
+    ],
+    "considerations": [],
+    "notes": ""
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Chest Hall",
+      "id": "1454753529700024331",
+      "url": "https://discord.com/channels/1375556143186837695/1454753529700024331/1454753530488426527",
+      "matches": [
+        "chest hall"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "ss",
+      "id": "1454754774833696893",
+      "url": "https://discord.com/channels/1375556143186837695/1454754774833696893/1454754775542267957",
+      "matches": [
+        "SS"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "gt",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "forumId": "1375561810392125510",
+    "threadId": "1388317417385758770",
+    "continuingMessageIds": [
+      "1388317421655298158"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388317417385758770",
+    "attachmentMessageId": "1388178367756374097",
+    "uploadMessageId": "1388178359976202291"
+  },
+  "archivedAt": 1750685720228,
+  "updatedAt": 1750685720228
+}

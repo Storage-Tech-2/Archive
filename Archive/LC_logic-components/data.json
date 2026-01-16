@@ -1,0 +1,20 @@
+{
+  "id": "1457041921531842581",
+  "name": "logic-components",
+  "code": "LC",
+  "category": "Wiring & Logic",
+  "description": "Components for use in logic circuits.",
+  "currentCodeId": 2,
+  "entries": [
+    {
+      "id": "1457043385285083167",
+      "code": "LC001",
+      "path": "LC001_Rising_Edge_Detector_Chart"
+    },
+    {
+      "id": "1457043564457627679",
+      "code": "LC002",
+      "path": "LC002_Falling_Edge_Detector_Chart"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "1461038048426070016",
+  "name": "3wABt Minimal Prefill Filtered 6x Loader",
+  "code": "FL005",
+  "reservedCodes": [
+    "FL005"
+  ],
+  "pastPostThreadIds": [
+    "1461039249410494648"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "240860456057700352",
+      "username": "philgoodinator",
+      "displayName": "Philgoodinator",
+      "iconURL": "https://cdn.discordapp.com/avatars/240860456057700352/a9f4d6256aa4effec933334c93da54c0.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488462563512408",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1461038221436784640",
+      "name": "6X Hopperspeed"
+    },
+    {
+      "id": "1385789080813436983",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1461038755745108245",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1461038048426070016/1461038755745108245/image.png?ex=696919e0&is=6967c860&hm=02842fca2bc3c787a82d0a554814d08f860a02cc9629e66127b7dccc3267edf5&",
+      "description": "Sent by andrews54757 at 1/14/2026, 11:46:24 AM",
+      "canDownload": true,
+      "width": 800,
+      "height": 527,
+      "path": "images/image.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1461038051751886929",
+      "name": "FL005_Minimal_Prefill_6x_Collection.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1461038048426070016/1461038051751886929/Minimal_Prefill_6x_Collection.litematic?ex=69691938&is=6967c7b8&hm=610c751d8220dfb4e32eb364ce9c04ceb44a0b88530ea4f88d29a11bf7bd478a&",
+      "description": "Sent by andrews54757 at 1/14/2026, 11:43:35 AM",
+      "canDownload": true,
+      "path": "attachments/FL005_Minimal_Prefill_6x_Collection.litematic",
+      "litematic": {
+        "size": "21x8x15",
+        "version": "1.18.2"
+      }
+    },
+    {
+      "id": "1461038052163059834",
+      "name": "FL005_Silent_Minimal_Prefill_6x_Collection.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1461038048426070016/1461038052163059834/Silent_Minimal_Prefill_6x_Collection.litematic?ex=69691938&is=6967c7b8&hm=e3c7b065cc7e19915334801bbd0c00cbedfd20b71a90e5827b7cebcfff24df46&",
+      "description": "Sent by andrews54757 at 1/14/2026, 11:43:35 AM",
+      "canDownload": true,
+      "path": "attachments/FL005_Silent_Minimal_Prefill_6x_Collection.litematic",
+      "litematic": {
+        "size": "21x8x15",
+        "version": "1.18.2"
+      }
+    }
+  ],
+  "records": {
+    "description": "Filters then loads items into boxes at 6x hopperspeed. Only requires prefilling a single hopper under each filter with a stack of the sorted item. Uses conventional 2x filters that sync with hopper cooldown better than most high speed loaders.",
+    "features": [
+      "3 wide AB tileable, schematic includes both tiles as subregions",
+      "No item spitting with random input",
+      "Relatively small footprint (9x7x3)",
+      "Ejects full boxes as items without buffer (can be removed)"
+    ],
+    "notes": "Noisy and silent variants included. Each schematic has hopper locked and SSI filter versions."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "6x",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "6x",
+        "hopperspeed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "2x",
+      "id": "1454753562033651876",
+      "url": "https://discord.com/channels/1375556143186837695/1454753562033651876/1454753563258519584",
+      "matches": [
+        "2x"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "AB tileable",
+      "id": "1454753732293033984",
+      "url": "https://discord.com/channels/1375556143186837695/1454753732293033984/1454753733035687988",
+      "matches": [
+        "AB tileable"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Schematic",
+      "id": "1454811558009110704",
+      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
+      "matches": [
+        "schematic"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Silent",
+      "id": "1454754730088726631",
+      "url": "https://discord.com/channels/1375556143186837695/1454754730088726631/1454754731049095302",
+      "matches": [
+        "silent"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "SSI",
+      "id": "1455820021581217843",
+      "url": "https://discord.com/channels/1375556143186837695/1455820021581217843/1455820022256500874",
+      "matches": [
+        "SSI"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1461039249410494648",
+    "forumId": "1375556999257002185",
+    "continuingMessageIds": [
+      "1461039253130576017"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1461039249410494648",
+    "uploadMessageId": "1461039246608568505"
+  },
+  "archivedAt": 1768409293148,
+  "updatedAt": 1768409293148
+}

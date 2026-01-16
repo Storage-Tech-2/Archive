@@ -1,0 +1,175 @@
+{
+  "id": "1386952483917795468",
+  "name": "144 Furnace Array V3",
+  "code": "SP004",
+  "reservedCodes": [
+    "SP004"
+  ],
+  "pastPostThreadIds": [
+    "1457542432005554269"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "433358354094489612",
+      "username": "kayzm",
+      "displayName": "Kayzm",
+      "iconURL": "https://cdn.discordapp.com/avatars/433358354094489612/0f167406c62ebef7f4e43d1b07471598.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1457538569756475392",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1457542787384741920",
+      "name": "Furnace Array"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386952484357935194",
+      "name": "area_render_2_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386952483917795468/1386952484357935194/area_render_2_.png?ex=685b93a8&is=685a4228&hm=8659c4b5482151a7e30f92559cec080a2bb9ee172f120df0bd3185d351453cb2&",
+      "description": "Sent by andrews54757 at 6/24/2025, 2:14:00 AM",
+      "canDownload": true,
+      "width": 800,
+      "height": 419,
+      "path": "images/area_render_2_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1388981482374299790",
+      "name": "SP004_144_Furnace_Array_V3.3_By_Kayzm.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386952483917795468/1388981482374299790/144_Furnace_Array_V3.3_By_Kayzm.litematic?ex=6862f54f&is=6861a3cf&hm=245dcd3b9f4adfb462b07dd96ed0c4f07a870db4d579d79427ea6e41b2a57763&",
+      "description": "Sent by andrews54757 at 6/29/2025, 4:36:31 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "10x13x46",
+        "version": "1.19.4"
+      },
+      "path": "attachments/SP004_144_Furnace_Array_V3.3_By_Kayzm.litematic"
+    }
+  ],
+  "records": {
+    "description": "144 Furnace array that provides and input and output of shulker boxes in a relatively small form factor. It Provides two modes, Full send mode which is useful for a lot of boxes with the same item type that needs to be smelted. The second mode is a box preservation mode that maintains the content of the shulker box if you are doing boxes with separate item types(this one is roughly ~25% slower assuming full boxes)",
+    "features": [
+      "10x12x46",
+      "Fully hopperlocked (458 total hoppers)",
+      "optional box content preservation",
+      "max Speed of just below 6x Hopper speed",
+      "Togglestate-less",
+      "Protection against running out of fuel(Reads extra boxes)"
+    ],
+    "considerations": [
+      "A few flashing dust",
+      "Single Minecart Entity",
+      "Burns Fuel box(this can be switch easily to a water stream)",
+      "Rail placements are kinda sus",
+      "Chunk loading line briefly turns off on box preservation mode(for like 3 seconds between item types)",
+      "There is no protection against switching between modes when going through the pause sequence and then resuming"
+    ],
+    "notes": "- The Array only supports fuel that can burn 8 or more items(coal, charcoal, blaze rods)\n- Schematic was taken and the system was tested in 1.19.4\n- This is meant to be a remote furnace array so there is no Good UI for it\n- The honey Can be replaced with slime blocks for the rising edges and an ender chest for the Box loader\n- Tested for only 2 million items in each mode\nthis Post is long af lmao"
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperlocked",
+      "id": "1454753660625227895",
+      "url": "https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422",
+      "matches": [
+        "hopperlocked"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "6x",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "6x",
+        "Hopper speed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Togglestate",
+      "id": "1454754804252282910",
+      "url": "https://discord.com/channels/1375556143186837695/1454754804252282910/1454754804881428533",
+      "matches": [
+        "Togglestate"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "chunk load",
+      "id": "1457055322647695542",
+      "url": "https://discord.com/channels/1375556143186837695/1457055322647695542/1457055324426080287",
+      "matches": [
+        "Chunk load"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Schematic",
+      "id": "1454811558009110704",
+      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
+      "matches": [
+        "Schematic"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "UI",
+      "id": "1454754844316274861",
+      "url": "https://discord.com/channels/1375556143186837695/1454754844316274861/1454754845033627671",
+      "matches": [
+        "UI"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Rising Edge",
+      "id": "1457020951001567444",
+      "url": "https://discord.com/channels/1375556143186837695/1457020951001567444/1457020954642485484",
+      "matches": [
+        "rising edge"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1457542432005554269",
+    "forumId": "1457538260892127293",
+    "continuingMessageIds": [
+      "1457542436132884572",
+      "1457542436791255185"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1457542432005554269",
+    "uploadMessageId": "1457542429627519130"
+  },
+  "archivedAt": 1751229406214,
+  "updatedAt": 1767575587670
+}

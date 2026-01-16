@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1458244360058704150",
+    "sender": {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    },
+    "content": "**Cart Based Paralleliser Explanation**\nBy: _javierrubik33\nLogic:\n\n__Input:__\nSystem starts by spawning a cart that has its first 4 slots filled with unstackables to then pass it under the input item pile, thus allowing the cart to pick up a single stack  whether it is a regular item, an unstackable or a shulker box. After that, 4 unstackables are removed from the cart.\n\n__2 Item Check:__\nLater a 2 item check (that will be necessary for later steps) is performed, it works by removing 1 item with a hopper, and then detect the cart with detector rail + comparator. That pulse is later used to redirect the cart to one way or another. After the detection is done the item previously removed is returned to the cart.**1** If cart had only a single item it is rerouted to a presorter, which will separate boxes, unstackables and single items, each to its respective output.**2**\n\n__Note 1:__ In between that step one item is taken from the cart and put right back, with the objective to get the cart performed the following way [2 0 0 0 62] to allow later processing.\n__Note 2:__ Since input is being taken with full carts it means that if a single item has been found it is the last of its type, thus allowing direct output without danger of overflow.",
+    "attachments": [],
+    "timestamp": 1750743068987
+  },
+  {
+    "id": "1458244361593684041",
+    "sender": {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    },
+    "content": "__Set:__\nIf cart has 2 items or more it goes to the set. The set is a 1x1x1 block were items are dropped and alligned via a dropper were carts can pass through to pick up the items being checked. \nFunctioning: One item is taken out of the cart, renamed dummies are pushed into the cart, cart goes over the set (trying to pick the item it is checking) and then the item previously removed is dropped into the set.\nThat leaves us with two scenarios that will allow the system to tell if the cart should be accepted to the output or not, either the item was already in the set or it wasn't:\n\n- It was: If the item was already in the set the cart will pick the item and then reset the exact same item back again, thus not changing the status of the set and leaving the cart with 2 of that item in the first slot [2 x x x 62]\n- It was not: If the item was not in the set the cart will not pick any item and one will be added to the set, thus adding what was not already there and leaving the cart with the following arrangement [1 x x x 62]",
+    "attachments": [],
+    "timestamp": 1750743080830
+  },
+  {
+    "id": "1458244362436612340",
+    "sender": {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    },
+    "content": "__Set Check:__\nTo decide if the cart should be accepted we use the information in hand, 2 items in the first slot or 1. This step starts by removing 1 item from the cart and trying to push another renamed item into it. The hopper that tries to push is completely full (giving ss15) if it succeds to push it will lower its signal strength to 14, which is used to redirect the cart. Same hopper that pushes will pull the same renamed item 8gt later from the same cart, returning back to ss15.\nDepending on if the cart was accepted or not we do something with the item previously removed:\n\n- Rejected: If the cart is rejected it is yeeted back to the input and the item previously removed is merged with its content.\n- Accepted: If the cart is accepted it is yeeted into a 4d alligner that will send items to the output (a max of 62) and the single item is dropped into the unmapping queue which is simply a cobweb where items stay a precise amount of time, preserving order.\nNote: In both cases the cart still had dummy items and that makes it so both outputs have to go over filters for dummies, and that's the reason why they are renamed and not unstackables.\n\n__Unmapping:__\nUnmapping is used to remove the key item from the set with a defined delay (enough for a hopper to process a full stack ~512gt) to allow for duplicate stacks of the same item to be accepted. It simply waits for the item previously sent to the queue line to arrive and spawns a cart that is used as a filter to go under the 1x1x1 and pick up the set item. Cart is yeeted directly into the output with 2 of that item being sent. Since those 2 items arrive to the filter before its full stack is completely filtered hopper cooldown won't be an issue. (This is one of the reasons why it is incompatible with push filters).",
+    "attachments": [],
+    "timestamp": 1750743095488
+  }
+]

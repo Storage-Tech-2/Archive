@@ -1,0 +1,140 @@
+{
+  "id": "1459228863543644170",
+  "name": "4gt Stack Separator and Sorters",
+  "code": "HS003",
+  "reservedCodes": [
+    "HS003"
+  ],
+  "pastPostThreadIds": [
+    "1459229294227095604"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "531601171211878431",
+      "username": "rapscallion1138",
+      "displayName": "RaPsCaLLioN1138",
+      "iconURL": "https://cdn.discordapp.com/avatars/531601171211878431/8db107ef61024878a05baab3a798d7d5.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "247092209780916225",
+      "username": "justglotz",
+      "iconURL": "https://cdn.discordapp.com/avatars/247092209780916225/6180f71564f0bb3fca26a7dd8b712748.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "384084307712409600",
+      "username": "tisunfortunate",
+      "displayName": "TisUnfortunate",
+      "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/0de5630a1bd3ad4fb3e24f5ba40958e1.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1457548099718479963",
+      "name": "Stack Separation"
+    }
+  ],
+  "images": [
+    {
+      "id": "1459228864864719021",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1459228863543644170/1459228864864719021/image.png?ex=69628448&is=696132c8&hm=cd0e269193d96928b28a0fd5856ebec403488ecfe283b09ef6e8bef899491293&",
+      "description": "Sent by tisunfortunate at 1/9/2026, 11:54:32 AM",
+      "canDownload": true,
+      "width": 800,
+      "height": 389,
+      "path": "images/image.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1459228865372094589",
+      "name": "HS003_4gt_Stack_Separator_and_Sorters.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1459228863543644170/1459228865372094589/4gt_Stack_Separator_and_Sorters.litematic?ex=69628448&is=696132c8&hm=707a4cd551e1449b148710fa90d940c063148786f224c5103868735705fbd791&",
+      "description": "Sent by tisunfortunate at 1/9/2026, 11:54:32 AM",
+      "canDownload": true,
+      "path": "attachments/HS003_4gt_Stack_Separator_and_Sorters.litematic",
+      "litematic": {
+        "size": "25x20x78",
+        "version": "1.16"
+      }
+    }
+  ],
+  "records": {
+    "description": "Sorts item entities at effectively 4gt by separating them into 2 lanes that each get processed at 8gt; two opposing sorters for each item. Item collection is not included.",
+    "features": [
+      "Can sort an item entity every 4gt; up to 1,152,000 items per hour",
+      "Infinitely expandable 2wABt slices",
+      "Works with random inputs",
+      "Compact: Core 7x6x11, Slices 9x10x2"
+    ],
+    "notes": "The schematic in the thread includes all necessary parts as subregions as well as a tiled example\n[Video on an older version](https://youtu.be/4MoLePpXenc)"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "gt",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "item entity",
+      "id": "1456908472384884879",
+      "url": "https://discord.com/channels/1375556143186837695/1456908472384884879/1456908473844502594",
+      "matches": [
+        "item entity"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "2wABt",
+      "id": "1454753732293033984",
+      "url": "https://discord.com/channels/1375556143186837695/1454753732293033984/1454753733035687988",
+      "matches": [
+        "2wABt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice",
+        "Slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Schematic",
+      "id": "1454811558009110704",
+      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
+      "matches": [
+        "schematic"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1459229294227095604",
+    "forumId": "1457547442017800284",
+    "continuingMessageIds": [
+      "1459229298635313426"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1459229294227095604",
+    "uploadMessageId": "1459229291853381685"
+  },
+  "archivedAt": 1767977769047,
+  "updatedAt": 1767977769047
+}

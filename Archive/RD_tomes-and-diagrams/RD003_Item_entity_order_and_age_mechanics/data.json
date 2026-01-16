@@ -1,0 +1,132 @@
+{
+  "id": "1456723394752942214",
+  "name": "Item entity order and age mechanics",
+  "code": "RD003",
+  "reservedCodes": [
+    "RD003"
+  ],
+  "pastPostThreadIds": [
+    "1456724032819957984"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "displayName": "Andrews54757",
+      "username": "andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1410149844563005509",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1456723903052251247",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1456723394752942214/1456723903052251247/image.png?ex=6959675b&is=695815db&hm=b259ea4a0bb99c0bd55e784c6e57f10360432b042fb52da1b90580b15bf77592&",
+      "description": "Sent by andrews54757 at 1/2/2026, 2:00:43 PM",
+      "canDownload": true,
+      "width": 284,
+      "height": 387,
+      "path": "images/image.png"
+    }
+  ],
+  "attachments": [],
+  "records": {
+    "description": "Item entities have different properties which the technical minecraft community confusingly all call \"age\" for some reason. but make no mistake, it's not that simple.",
+    "`itementity.age`.-despawn-counter": "Starts at 0 when the item is spawned, then increments by 1 every gt inside entity tick. if passes 6000 (5 minutes), then the item is deleted. When merging, the merged entity's age is set to the minimum of the two merging entities. in effect, the lifetime of the item entity is set to the longest of the two merging entities.",
+    "`itementity.tickcount`.-tick-counter": "Starts at 0 when the item is spawned, then increments by 1 every gt. Every entity has this. increment happens before entity tick call in [`ServerLevel.tickNonPassenger`](https://mcsrc.dev/#1/1.21.11_unobfuscated/net/minecraft/server/level/ServerLevel#L817-829).",
+    "`itementity.id`.-id-counter": "Is fixed for an entity. Each entity is given an id that is one plus the previous id given to the previous entity.",
+    "ticking-order": "This is the order inside the [`ServerLevel.entityTickList`](https://mcsrc.dev/#1/1.21.11_unobfuscated/net/minecraft/server/level/ServerLevel#L419-441) which defines which entity is ticked first. Order is set by order of spawning.",
+    "iteration-order": "This is the order inside the [`EntitySectionStorage`](https://mcsrc.dev/#1/1.21.11_unobfuscated/net/minecraft/world/level/entity/EntitySectionStorage) which is based per subchunk. If you want to find entities in a certain area (eg for picking up item entities with a player or hopper), you will get a list with the order defined here. Crossing subchunks will change the order.",
+    "modulo-4": "When ticked, entity uses the sum [`ItemEntity.tickCount + ItemEntity.id`](https://mcsrc.dev/#1/1.21.11_unobfuscated/net/minecraft/world/entity/item/ItemEntity#L146) and checks if it is divisible by 4 to begin self-movement. Essentially makes it so items spawned at same tick drop at different ticks from rest, one of 4. Combined with the fact that the entity id is incremented with a global counter, you can use this mechanic to do wireless redstone.",
+    "item-entity-merging": "When ticked (so obeys ticking order), entity checks if [`ItemEntity.tickCount`](https://mcsrc.dev/#1/1.21.11_unobfuscated/net/minecraft/world/entity/item/ItemEntity#L163-169) is divisible by 2 if the item has crossed a block pos boundary, or 40 otherwise. Then it will check if it can merge with other entities in the same area (obeys iteration order). merging will reuse the entity with larger count, and discard the smaller count entity."
+  },
+  "styles": {
+    "`itementity.age`.-despawn-counter": {
+      "depth": 2,
+      "headerText": "`ItemEntity.age`: Despawn counter"
+    },
+    "`itementity.tickcount`.-tick-counter": {
+      "depth": 2,
+      "headerText": "`ItemEntity.tickCount`: Tick counter"
+    },
+    "`itementity.id`.-id-counter": {
+      "depth": 2,
+      "headerText": "`ItemEntity.id`: ID counter"
+    },
+    "ticking-order": {
+      "depth": 2,
+      "headerText": "Ticking Order"
+    },
+    "iteration-order": {
+      "depth": 2,
+      "headerText": "Iteration Order"
+    },
+    "modulo-4": {
+      "depth": 2,
+      "headerText": "Modulo 4"
+    },
+    "item-entity-merging": {
+      "depth": 2,
+      "headerText": "Item entity merging"
+    }
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "gt",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt",
+        "tick",
+        "ticks"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "item entity",
+      "id": "1456908472384884879",
+      "url": "https://discord.com/channels/1375556143186837695/1456908472384884879/1456908473844502594",
+      "matches": [
+        "item entity"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Global",
+      "id": "1454753648574992557",
+      "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
+      "matches": [
+        "global"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1456724032819957984",
+    "forumId": "1410149299169267792",
+    "continuingMessageIds": [
+      "1456724036582375546"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1456724032819957984",
+    "uploadMessageId": ""
+  },
+  "archivedAt": 1767380472391,
+  "updatedAt": 1767425945149
+}

@@ -1,0 +1,40 @@
+{
+  "id": "1375561551188328531",
+  "name": "bottom-displays",
+  "code": "BD",
+  "category": "Box Displays",
+  "description": "Bottom box displays",
+  "currentCodeId": 9,
+  "entries": [
+    {
+      "id": "1386689670829834353",
+      "code": "BD002",
+      "path": "BD002_Collectionless_Smart_Display"
+    },
+    {
+      "id": "1386857979210367036",
+      "code": "BD003",
+      "path": "BD003_Simple_Locking_Box_Display"
+    },
+    {
+      "id": "1386859242874470480",
+      "code": "BD004",
+      "path": "BD004_Bufferless_Powder_Snow_Floor_Display"
+    },
+    {
+      "id": "1386945318175899690",
+      "code": "BD005",
+      "path": "BD005_Small_minimal_piston_box_display"
+    },
+    {
+      "id": "1387155323881652350",
+      "code": "BD006",
+      "path": "BD006_Data_Floor_Display"
+    },
+    {
+      "id": "1387160186870956062",
+      "code": "BD007",
+      "path": "BD007_Soul_Sand_Floor_Display"
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "id": "1386859242874470480",
+  "name": "Bufferless Powder Snow Floor Display",
+  "code": "BD004",
+  "reservedCodes": [
+    "BD004"
+  ],
+  "pastPostThreadIds": [
+    "1388317233842884790"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "841607406559559691",
+      "username": "sushisavorer",
+      "iconURL": "https://cdn.discordapp.com/avatars/841607406559559691/a2db1a8c2421bc0428bdf51f42311849.webp",
+      "displayName": "etotheipi<3"
+    },
+    {
+      "type": "discord-external",
+      "id": "528559320086872064",
+      "username": "hampter42_",
+      "iconURL": "https://cdn.discordapp.com/avatars/528559320086872064/83e4a5181f4b2cbfe68b3fdc14b6aeef.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "240860456057700352",
+      "username": "philgoodinator",
+      "iconURL": "https://cdn.discordapp.com/avatars/240860456057700352/a9f4d6256aa4effec933334c93da54c0.webp",
+      "displayName": "Philgoodinator"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385789101374046273",
+      "name": "Recommended"
+    },
+    {
+      "id": "1386201743825567905",
+      "name": "Auto Replacement"
+    },
+    {
+      "id": "1386125210507542578",
+      "name": "Reliable Collection"
+    },
+    {
+      "id": "1386525439203344475",
+      "name": "Bufferless"
+    },
+    {
+      "id": "1385488478745137341",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386859243797348493",
+      "name": "Bufferless_Powdered_Snow_Display.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386859242874470480/1386859243797348493/Bufferless_Powdered_Snow_Display.png?ex=685b3cd2&is=6859eb52&hm=92d5a277c90d96a71f0e6847923c2f873f3c7c46d6b7b07ecbaa0397fcb2dcc5&",
+      "description": "Sent by andrews54757 at 6/23/2025, 8:03:30 PM",
+      "canDownload": true,
+      "width": 777,
+      "height": 800,
+      "path": "images/Bufferless_Powdered_Snow_Display.png"
+    },
+    {
+      "id": "1386859244611047614",
+      "name": "Bufferless_Powdered_Snow_Displays_Tiled_Example.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386859242874470480/1386859244611047614/Bufferless_Powdered_Snow_Displays_Tiled_Example.png?ex=685b3cd2&is=6859eb52&hm=4cc87613cde21f3436360c9aba0d0ca20da4ec7e9297eac3ffa962ec8516a846&",
+      "description": "Sent by andrews54757 at 6/23/2025, 8:03:30 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 683,
+      "path": "images/Bufferless_Powdered_Snow_Displays_Tiled_Example.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386859245013569566",
+      "name": "BD004_Bufferless_Powdered_Snow_Display.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386859242874470480/1386859245013569566/Bufferless_Powdered_Snow_Display.litematic?ex=685b3cd2&is=6859eb52&hm=6fed5e53ff78a732dc51dae2b7b0b8490f10d813d56a4d64bfa921e0a67431a1&",
+      "description": "Sent by andrews54757 at 6/23/2025, 8:03:30 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "9x9x1",
+        "version": "1.17.1"
+      },
+      "path": "attachments/BD004_Bufferless_Powdered_Snow_Display.litematic"
+    },
+    {
+      "id": "1386859245571539026",
+      "name": "BD004_Bufferless_Powdered_Snow_Displays_Tiled_Example.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386859242874470480/1386859245571539026/Bufferless_Powdered_Snow_Displays_Tiled_Example.litematic?ex=685b3cd2&is=6859eb52&hm=fb1292e6824aee4f77e02fbba895ba24e977b83534b13a8ad9bbc0166810e56d&",
+      "description": "Sent by andrews54757 at 6/23/2025, 8:03:30 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "10x9x13",
+        "version": "1.17.1"
+      },
+      "path": "attachments/BD004_Bufferless_Powdered_Snow_Displays_Tiled_Example.litematic"
+    }
+  ],
+  "records": {
+    "description": "0-ticks powder snow into the box when emptied, allowing for a fully reliable hopperless collection.",
+    "features": [
+      "Clean UI; box and chest are only separated by the display block",
+      "Bufferless; all boxes are accessible to the player",
+      "Comparator readout from the chest",
+      "Global first box placement",
+      "Reliable, hopperless collection of empty boxes into a water stream",
+      "Relatively small (9x9)"
+    ],
+    "considerations": [],
+    "notes": "May fail to reliably collect a box if adjacent slices activate in quick succession, this is very very rare though. A schematic of a tiled example with global first box dispensing and the water stream set up can be found in the thread."
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "ticks",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "ticks"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "UI",
+      "id": "1454754844316274861",
+      "url": "https://discord.com/channels/1375556143186837695/1454754844316274861/1454754845033627671",
+      "matches": [
+        "UI"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Global",
+      "id": "1454753648574992557",
+      "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
+      "matches": [
+        "Global",
+        "global"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Schematic",
+      "id": "1454811558009110704",
+      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
+      "matches": [
+        "schematic"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "forumId": "1375561551188328531",
+    "threadId": "1388317233842884790",
+    "continuingMessageIds": [
+      "1388317236602863736"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388317233842884790",
+    "attachmentMessageId": "1388178143998906530",
+    "uploadMessageId": "1388178136889430179"
+  },
+  "archivedAt": 1750723470224,
+  "updatedAt": 1750723470224
+}

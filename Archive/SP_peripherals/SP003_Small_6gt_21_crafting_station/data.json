@@ -1,0 +1,132 @@
+{
+  "id": "1387089550656143462",
+  "name": "Small 6gt 2+1 crafting station",
+  "code": "SP003",
+  "reservedCodes": [
+    "SP003"
+  ],
+  "pastPostThreadIds": [
+    "1457542243354284302"
+  ],
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "924457454723563530",
+      "username": "wawuli_i_am_wzx",
+      "iconURL": "https://cdn.discordapp.com/avatars/924457454723563530/4b49f63b8029d914b690ccdd831e88da.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "1076359520940474491",
+      "displayName": "Z&Y(Zaiyuyou)",
+      "username": "zai_yu_you",
+      "iconURL": "https://cdn.discordapp.com/avatars/1076359520940474491/b531b198c34b1e94c90f6020e292a727.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "656864003242328064",
+      "displayName": "金合欢酱喵~ (acaciachan)",
+      "username": "acaciachan",
+      "iconURL": "https://cdn.discordapp.com/avatars/656864003242328064/65e1c203d9ea0af6509f0754122b45a2.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1457538569756475392",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1457538569756475393",
+      "name": "Recommended"
+    },
+    {
+      "id": "1457543124883734830",
+      "name": "Masscrafters"
+    }
+  ],
+  "images": [
+    {
+      "id": "1387089551603798159",
+      "name": "area_render_2.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387089550656143462/1387089551603798159/area_render_2.png?ex=685c134f&is=685ac1cf&hm=532d8fce0f891b3669a73bc65bd5f7eba8a70690bce9a5799de681dc07ff334a&",
+      "description": "Sent by andrews54757 at 6/24/2025, 11:18:39 AM",
+      "canDownload": true,
+      "width": 800,
+      "height": 800,
+      "path": "images/area_render_2.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1387089552266494002",
+      "name": "SP003_1.16_tiny_6gt_21_crafting_staition_6x6x6216b_by_wawuliFlowerstarry_skyZai_yu_you.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387089550656143462/1387089552266494002/1.16_tiny_6gt_21_crafting_staition_6x6x6216b_by_wawuliFlowerstarry_skyZai_yu_you.litematic?ex=685c1350&is=685ac1d0&hm=88e1bf3a4212c4ab3ea38c06823fe38af1c124147f86be24944e271b1bfae758&",
+      "description": "Sent by andrews54757 at 6/24/2025, 11:18:39 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "6x6x10",
+        "version": "1.18.2"
+      },
+      "path": "attachments/SP003_1.16_tiny_6gt_21_crafting_staition_6x6x6216b_by_wawuliFlowerstarry_skyZai_yu_you.litematic"
+    }
+  ],
+  "records": {
+    "description": "Small 6gt box replacement crafting station. Displays two boxes for you with ingredients on the left which breaks when emptied, and a box for the results on the right which breaks when full.",
+    "features": [
+      "Two input boxes are displayed simultaneously",
+      "Replaces boxes within 6gt for fast manual unloading/loading.",
+      "Very small footprint (6x6x6)",
+      "automatically put the first box on the unloading side",
+      "collects the box 2gts after box is broken(unloading side)",
+      "On the loading side, you can right-click the note block to replace it with a new shulker box"
+    ],
+    "considerations": [
+      "no closed box detection",
+      "static carts for collection"
+    ],
+    "notes": "Interface inspired by @m3"
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "gt",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Detection",
+      "id": "1454753490936266762",
+      "url": "https://discord.com/channels/1375556143186837695/1454753490936266762/1454753491787452438",
+      "matches": [
+        "box detection"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1457542243354284302",
+    "forumId": "1457538260892127293",
+    "continuingMessageIds": [
+      "1457542246701465786"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1457542243354284302",
+    "uploadMessageId": "1457542239700914421"
+  },
+  "archivedAt": 1750778953520,
+  "updatedAt": 1767575547744
+}

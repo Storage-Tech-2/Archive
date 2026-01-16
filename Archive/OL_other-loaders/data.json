@@ -1,0 +1,30 @@
+{
+  "id": "1375557962675912865",
+  "name": "other-loaders",
+  "code": "OL",
+  "category": "Box Loaders & Unloaders",
+  "description": "Other box loaders (EG: CUD loaders or hybrid loaders)",
+  "currentCodeId": 4,
+  "entries": [
+    {
+      "id": "1386466149700600048",
+      "code": "OL001",
+      "path": "OL001_8x_Fullspeed_Loader"
+    },
+    {
+      "id": "1388556991462637648",
+      "code": "OL002",
+      "path": "OL002_Precision_Hybrid_Loader"
+    },
+    {
+      "id": "1389410349618434228",
+      "code": "OL003",
+      "path": "OL003_Globally_Clocked_3wt_6x_Loader"
+    },
+    {
+      "id": "1455729497373413416",
+      "code": "OL004",
+      "path": "OL004_1x_CUD-based_loader"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "id": "1456438812652736584",
+  "name": "Gigachad Top Displays",
+  "code": "TD006",
+  "reservedCodes": [
+    "TD006"
+  ],
+  "pastPostThreadIds": [
+    "1456439784145813667"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "960892961623785482",
+      "displayName": "X8Ghost",
+      "username": "x8ghost",
+      "iconURL": "https://cdn.discordapp.com/avatars/960892961623785482/a446f7ac0cc7c95ce7aee7210449cc4a.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "384084307712409600",
+      "displayName": "TisUnfortunate",
+      "username": "tisunfortunate",
+      "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/0de5630a1bd3ad4fb3e24f5ba40958e1.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "460316892976906261",
+      "displayName": "Ragdoll Willy",
+      "username": "ragdollwilly",
+      "iconURL": "https://cdn.discordapp.com/avatars/460316892976906261/a0332117bf4e609a1ead4417ae4357b4.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "384084307712409600",
+      "username": "tisunfortunate",
+      "displayName": "TisUnfortunate",
+      "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/0de5630a1bd3ad4fb3e24f5ba40958e1.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488476258041933",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1386201662418321499",
+      "name": "Auto Replacement"
+    }
+  ],
+  "images": [
+    {
+      "id": "1456438814099771435",
+      "name": "Gigachad_Top_Displays.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1456438812652736584/1456438814099771435/Gigachad_Top_Displays.png?ex=69585dd8&is=69570c58&hm=368a0294b25caac97f499cb081dd65e4926ca476c3c56897691c5851a47c4c6d&",
+      "description": "Sent by ragdollwilly at 1/1/2026, 7:07:52 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 402,
+      "path": "images/Gigachad_Top_Displays.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1456438813277683814",
+      "name": "TD006_Gigachad_Top_Displays.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1456438812652736584/1456438813277683814/Gigachad_Top_Displays.litematic?ex=69585dd8&is=69570c58&hm=3eeed1df66613ae048afef59768d2c43538b5eabba20876edca0ed6e80826fa3&",
+      "description": "Sent by ragdollwilly at 1/1/2026, 7:07:52 PM",
+      "canDownload": true,
+      "path": "attachments/TD006_Gigachad_Top_Displays.litematic",
+      "litematic": {
+        "size": "1x6x11",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Small top displays that sit directly in the ceiling, allowing for a perfect UI in a quad bulk.",
+    "features": [
+      "Perfect UI",
+      "Global first box placement",
+      "Automatic box replacement"
+    ],
+    "considerations": [
+      "Dispenser needs to buffer 1 box",
+      "A box may fail to replace if adjacent slice empties in 2 or 3 gt interval"
+    ],
+    "notes": "Testing: All 4 directions, boxes emptied at 1/2/3/4 gt apart"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "UI",
+      "id": "1454754844316274861",
+      "url": "https://discord.com/channels/1375556143186837695/1454754844316274861/1454754845033627671",
+      "matches": [
+        "UI"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Global",
+      "id": "1454753648574992557",
+      "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
+      "matches": [
+        "Global"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "gt",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1456439784145813667",
+    "forumId": "1375560792665231450",
+    "continuingMessageIds": [
+      "1456439798326628404"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1456439784145813667",
+    "uploadMessageId": "1456439780366614746"
+  },
+  "archivedAt": 1767312698546,
+  "updatedAt": 1767360790502
+}

@@ -1,0 +1,20 @@
+{
+  "id": "1386242904141463603",
+  "name": "farm-storages",
+  "code": "FS",
+  "category": "Full Systems",
+  "description": "Farm storages and digsorts",
+  "currentCodeId": 2,
+  "entries": [
+    {
+      "id": "1390475873404194897",
+      "code": "FS001",
+      "path": "FS001_Concrete_FactoryDuper_Storage"
+    },
+    {
+      "id": "1442405705519730708",
+      "code": "FS002",
+      "path": "FS002_576k_Concrete_Storage_-_1.21"
+    }
+  ]
+}

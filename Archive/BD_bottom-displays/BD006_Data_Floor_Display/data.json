@@ -1,0 +1,149 @@
+{
+  "id": "1387155323881652350",
+  "name": "Data Floor Display",
+  "code": "BD006",
+  "reservedCodes": [
+    "BD006"
+  ],
+  "pastPostThreadIds": [
+    "1388317284279390339"
+  ],
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "114896993654013958",
+      "username": "datnerd",
+      "iconURL": "https://cdn.discordapp.com/avatars/114896993654013958/d4cec89664bba88100de2df0c32c44eb.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488478745137341",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789101374046273",
+      "name": "Recommended"
+    },
+    {
+      "id": "1386201743825567905",
+      "name": "Auto Replacement"
+    }
+  ],
+  "images": [
+    {
+      "id": "1387155324401877112",
+      "name": "Data_-_Floor_Display.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387155323881652350/1387155324401877112/Data_-_Floor_Display.png?ex=685cf951&is=685ba7d1&hm=7315967841b470d9ea6c96f7704facbcbb4e317049d0594a667bd72b29a7d406&",
+      "description": "Sent by ragdollwilly at 6/24/2025, 3:40:01 PM",
+      "canDownload": true,
+      "path": "images/Data_-_Floor_Display.png"
+    },
+    {
+      "id": "1387418286248955984",
+      "name": "area_render.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387155323881652350/1387418286248955984/area_render.png?ex=685d4578&is=685bf3f8&hm=d90f583053cebce7bc12ea0c36a5c730b11b090a7b90ddeb4380db87e0c9748f&",
+      "description": "Sent by ragdollwilly at 6/25/2025, 9:04:56 AM",
+      "canDownload": true,
+      "width": 676,
+      "height": 800,
+      "path": "images/area_render.png"
+    },
+    {
+      "id": "1387418286521712891",
+      "name": "area_render_1_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387155323881652350/1387418286521712891/area_render_1_.png?ex=685d4578&is=685bf3f8&hm=e40bd1a87d40f6a3cf674efee4d6fa0e62c52aedc0b5608dd37bb2dd2500626a&",
+      "description": "Sent by ragdollwilly at 6/25/2025, 9:04:56 AM",
+      "canDownload": true,
+      "width": 676,
+      "height": 800,
+      "path": "images/area_render_1_.png"
+    },
+    {
+      "id": "1387418286798405763",
+      "name": "area_render_2_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387155323881652350/1387418286798405763/area_render_2_.png?ex=685d4578&is=685bf3f8&hm=ae87bf3208c147d5da26a5ec57d48d7296e594d38d2f4d437fc4d38aa8536803&",
+      "description": "Sent by ragdollwilly at 6/25/2025, 9:04:56 AM",
+      "canDownload": true,
+      "width": 676,
+      "height": 800,
+      "path": "images/area_render_2_.png"
+    },
+    {
+      "id": "1387420996759457862",
+      "name": "area_render_3_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387155323881652350/1387420996759457862/area_render_3_.png?ex=685d47fe&is=685bf67e&hm=27a7801e1d128bbf0b45a8988c58612b4f797a77582edbbe7c2ceaac04cccfdf&",
+      "description": "Sent by ragdollwilly at 6/25/2025, 9:15:42 AM",
+      "canDownload": true,
+      "width": 800,
+      "height": 794,
+      "path": "images/area_render_3_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1387155324678574170",
+      "name": "BD006_Data_-_Floor_Display.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387155323881652350/1387155324678574170/Data_-_Floor_Display.litematic?ex=685c5091&is=685aff11&hm=0877da63e60b39985e0c0b3f360d23525f73715bf6517d54fc7fe0acc1f9875f&",
+      "description": "Sent by ragdollwilly at 6/24/2025, 3:40:01 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "1x6x5",
+        "version": "1.21.4"
+      },
+      "path": "attachments/BD006_Data_-_Floor_Display.litematic"
+    }
+  ],
+  "records": {
+    "description": "A tiny floor display which is great for quad bulks.",
+    "features": [
+      "Local first box placement",
+      "Default extended",
+      "Collectionless",
+      "1 hopper, locked when a box is displayed"
+    ],
+    "considerations": [
+      "Will eventually buffer boxes in the hopper and dispenser."
+    ],
+    "notes": "Versions with the comparator on the piston are 1.16+"
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Local",
+      "id": "1454753648574992557",
+      "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
+      "matches": [
+        "Local"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "forumId": "1375561551188328531",
+    "threadId": "1388317284279390339",
+    "continuingMessageIds": [
+      "1388317289652293642"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388317284279390339",
+    "attachmentMessageId": "1388178213347528886",
+    "uploadMessageId": "1388178203239121006"
+  },
+  "archivedAt": 1754180730718,
+  "updatedAt": 1754180730718
+}
