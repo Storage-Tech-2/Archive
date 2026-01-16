@@ -1,0 +1,117 @@
+{
+  "id": "1386425910319644864",
+  "name": "Hopperspeed Item Entity isStackable",
+  "code": "OIP002",
+  "reservedCodes": [
+    "OIP002"
+  ],
+  "pastPostThreadIds": [
+    "1388317887462113373"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "656864003242328064",
+      "displayName": "金合欢酱喵~ (acaciachan)",
+      "username": "acaciachan",
+      "iconURL": "https://cdn.discordapp.com/avatars/656864003242328064/65e1c203d9ea0af6509f0754122b45a2.webp"
+    },
+    {
+      "type": "unknown",
+      "username": "daisy_pig"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1386556230293651537",
+      "name": "isStackable"
+    },
+    {
+      "id": "1385789124472082444",
+      "name": "Recommended"
+    },
+    {
+      "id": "1385488498122948798",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386425912026988564",
+      "name": "isStackable_simple.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386425910319644864/1386425912026988564/isStackable_simple.png?ex=6859a93f&is=685857bf&hm=fb77c8220320bfdeeb542d860d5c597f93fa490de540ed7b774fe01024d69cca&",
+      "description": "Sent by andrews54757 at 6/22/2025, 3:21:35 PM",
+      "canDownload": true,
+      "width": 619,
+      "height": 800,
+      "path": "images/isStackable_simple.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386425911259173017",
+      "name": "OIP002_8gt_item_entity_isStackable_sorter.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386425910319644864/1386425911259173017/8gt_item_entity_isStackable_sorter.litematic?ex=6859a93f&is=685857bf&hm=8c9a1571b0573d09d64e9d5779664dc3c1ec2728ac4740aefaaaaa80e1938c0d&",
+      "description": "Sent by andrews54757 at 6/22/2025, 3:21:35 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "4x6x5",
+        "version": "1.19.2"
+      },
+      "path": "attachments/OIP002_8gt_item_entity_isStackable_sorter.litematic"
+    }
+  ],
+  "records": {
+    "description": "Performs a isStackable check on a entire item entity stack every 8gt. If each item entity is stacked to 64, it can process up to 576,000 items/hour.",
+    "features": [
+      "4x6x5 footprint",
+      "Has input protection, so it doesn't break with random inputs"
+    ],
+    "considerations": [],
+    "notes": "Requires 4 hopper minecarts in the dispenser"
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "item entity",
+      "id": "1456908472384884879",
+      "url": "https://discord.com/channels/1375556143186837695/1456908472384884879/1456908473844502594",
+      "matches": [
+        "item entity"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "gt",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "forumId": "1375564209882009772",
+    "threadId": "1388317887462113373",
+    "continuingMessageIds": [
+      "1388317890058391636"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388317887462113373",
+    "attachmentMessageId": "1388178757654679612",
+    "uploadMessageId": "1388178751145119814"
+  },
+  "archivedAt": 1751161603353,
+  "updatedAt": 1751161603353
+}

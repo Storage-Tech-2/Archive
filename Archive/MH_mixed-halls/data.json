@@ -1,0 +1,20 @@
+{
+  "id": "1375563506765664388",
+  "name": "mixed-halls",
+  "code": "MH",
+  "category": "Storage Halls & UI",
+  "description": "Mixed/hybrid/accessible loader halls",
+  "currentCodeId": 2,
+  "entries": [
+    {
+      "id": "1386947263732912198",
+      "code": "MH001",
+      "path": "MH001_Composter_Based_Hybrid_Minibulk"
+    },
+    {
+      "id": "1398695700073811978",
+      "code": "MH002",
+      "path": "MH002_Accessible_Loader_Hall"
+    }
+  ]
+}

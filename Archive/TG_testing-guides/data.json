@@ -1,0 +1,15 @@
+{
+  "id": "1388599778941861898",
+  "name": "testing-guides",
+  "code": "TG",
+  "category": "Other Resources",
+  "description": "Reference material for how to test things thouroughly",
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1388624919306305636",
+      "code": "TG001",
+      "path": "TG001_Hermitcraft_Item_Set"
+    }
+  ]
+}

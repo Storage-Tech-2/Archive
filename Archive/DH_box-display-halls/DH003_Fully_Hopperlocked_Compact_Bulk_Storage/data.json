@@ -1,0 +1,204 @@
+{
+  "id": "1386928511750770770",
+  "name": "Fully Hopperlocked Compact Bulk Storage",
+  "code": "DH003",
+  "reservedCodes": [
+    "DH003"
+  ],
+  "pastPostThreadIds": [
+    "1388318003216781562"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "240860456057700352",
+      "username": "philgoodinator",
+      "iconURL": "https://cdn.discordapp.com/avatars/240860456057700352/a9f4d6256aa4effec933334c93da54c0.webp",
+      "displayName": "Philgoodinator"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "656864003242328064",
+      "name": "acaciachan",
+      "displayName": "金合欢酱喵~ (acaciachan)",
+      "iconURL": "https://cdn.discordapp.com/avatars/656864003242328064/65e1c203d9ea0af6509f0754122b45a2.webp",
+      "username": "acaciachan"
+    },
+    {
+      "type": "discord-external",
+      "id": "576689459794542595",
+      "username": "pfeffabeissa",
+      "iconURL": "https://cdn.discordapp.com/avatars/576689459794542595/08a35eebcd9fcdc941ceb8a0dd785a79.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "297566644295827457",
+      "username": "walter7381",
+      "iconURL": "https://cdn.discordapp.com/avatars/297566644295827457/e8c32e9b66251cd84d0ff09adc818410.webp",
+      "displayName": "Walter"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488501545373755",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789129794519081",
+      "name": "Recommended"
+    },
+    {
+      "id": "1386533494888595518",
+      "name": "2 Displays"
+    }
+  ],
+  "images": [
+    {
+      "id": "1388201909201932329",
+      "name": "Compat_Bulk_Updated_1.4_Mil.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386928511750770770/1388201909201932329/Compat_Bulk_Updated_1.4_Mil.png?ex=68601f46&is=685ecdc6&hm=5f4759da43dfd7d43d0422d7d299d3b6c01e888019ae56fd02fe32f31788b4fb&",
+      "description": "Sent by andrews54757 at 6/27/2025, 12:58:46 PM",
+      "canDownload": true,
+      "width": 477,
+      "height": 800,
+      "path": "images/Compat_Bulk_Updated_1.4_Mil.png"
+    },
+    {
+      "id": "1388201907226673253",
+      "name": "Compat_Bulk_Updated_1.4_Mil_Slice.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386928511750770770/1388201907226673253/Compat_Bulk_Updated_1.4_Mil_Slice.png?ex=68601f46&is=685ecdc6&hm=9a1ff8cf715cc1ce6ed72ca7b3dbf38040764f5856e1d5a313962e312fee2eda&",
+      "description": "Sent by andrews54757 at 6/27/2025, 12:58:46 PM",
+      "canDownload": true,
+      "width": 400,
+      "height": 800,
+      "path": "images/Compat_Bulk_Updated_1.4_Mil_Slice.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1388201386528866325",
+      "name": "DH003_compact_bulk_updated_1_4_mil.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386928511750770770/1388201386528866325/compact_bulk_updated_1_4_mil.litematic?ex=68601eca&is=685ecd4a&hm=13195109dde985178736994f2192e1348c3e7580f3681dc0a86bca6c234b6234&",
+      "description": "Sent by andrews54757 at 6/27/2025, 12:56:42 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "20x38x17",
+        "version": "1.18.2"
+      },
+      "path": "attachments/DH003_compact_bulk_updated_1_4_mil.litematic"
+    }
+  ],
+  "records": {
+    "description": "Item bulk with box display capable of storing 1.4 million items per half slice.",
+    "features": [
+      "100% hopperlocked",
+      "1.4 million items per half slice",
+      "Togglestateless",
+      "Compact (17x35x21), sticks out 3 blocks from the first slice and 2 from the last",
+      "19 hoppers per half slice",
+      "If a slice runs out of items it will unlock itself to restock",
+      "Bufferless, Global initial box placement box display",
+      "Collection hoppers unlock only when needed",
+      "Empty boxes are dropped into a waterstream",
+      "Reliable collection of overflowing and unsorted boxes into a waterstream",
+      "Reliable with random input",
+      "Dropperline U-Turn only triggers and unlocks the side's hoppers when necessary",
+      "Recombination for unsorted boxes triggers only when needed"
+    ],
+    "considerations": [
+      "Fails if only one item is inside an inputted box"
+    ],
+    "notes": "Box sorter slice by @acaciachan . Keygen by @pfeffabeissa and @walter7381"
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Display",
+      "id": "1454753497638506689",
+      "url": "https://discord.com/channels/1375556143186837695/1454753497638506689/1454753498494144522",
+      "matches": [
+        "box display"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperlocked",
+      "id": "1454753660625227895",
+      "url": "https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422",
+      "matches": [
+        "hopperlocked"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Global",
+      "id": "1454753648574992557",
+      "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
+      "matches": [
+        "Global"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Dropperline",
+      "id": "1454753569768079468",
+      "url": "https://discord.com/channels/1375556143186837695/1454753569768079468/1454753576474644492",
+      "matches": [
+        "Dropperline"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Sorter",
+      "id": "1454753516269736090",
+      "url": "https://discord.com/channels/1375556143186837695/1454753516269736090/1454753518383792221",
+      "matches": [
+        "Box sorter"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Keygen",
+      "id": "1454753674298396785",
+      "url": "https://discord.com/channels/1375556143186837695/1454753674298396785/1454753674898440377",
+      "matches": [
+        "Keygen"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1388318003216781562",
+    "forumId": "1375565403727724764",
+    "continuingMessageIds": [
+      "1388318006186213558",
+      "1454808794898108645"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388318003216781562",
+    "uploadMessageId": "1388202064257093753",
+    "attachmentMessageId": "1388202072259952801"
+  },
+  "archivedAt": 1751043563047,
+  "updatedAt": 1751043563047
+}

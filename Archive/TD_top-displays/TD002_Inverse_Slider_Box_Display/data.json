@@ -1,0 +1,146 @@
+{
+  "id": "1387092967147180035",
+  "name": "Inverse Slider Box Display",
+  "code": "TD002",
+  "reservedCodes": [
+    "TD002"
+  ],
+  "pastPostThreadIds": [
+    "1388927809933676635"
+  ],
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "577991168369885223",
+      "username": "jayroi",
+      "iconURL": "https://cdn.discordapp.com/avatars/577991168369885223/2775f84c1b6a1241468c6efdc8a320ce.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "1159969623496740916",
+      "username": "maed8asdasd",
+      "iconURL": "https://cdn.discordapp.com/avatars/1159969623496740916/1d4a5e7989b81bf6bc179dcfdb63b17b.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "727730797049806898",
+      "displayName": "skyzy",
+      "username": "sskyzy",
+      "iconURL": "https://cdn.discordapp.com/avatars/727730797049806898/00d0b08b860ed57fbd2c228943b0de07.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1386201662418321499",
+      "name": "Auto Replacement"
+    },
+    {
+      "id": "1385488476258041933",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1388927396366909650",
+      "name": "area_render_82_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387092967147180035/1388927396366909650/area_render_82_.png?ex=6862c2f0&is=68617170&hm=0b1da88dc4655dd00e6897fa03adfccd94bcd4def988f9a05db0603fbb4d3456&",
+      "description": "Sent by andrews54757 at 6/29/2025, 1:01:36 PM",
+      "canDownload": true,
+      "width": 523,
+      "height": 468,
+      "path": "images/area_render_82_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1388927565246497070",
+      "name": "TD002_improved_inverse_slider_display.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387092967147180035/1388927565246497070/improved_inverse_slider_display.litematic?ex=6862c318&is=68617198&hm=42def73c2ad0a448c9ffbe6248ba96ddeda70d812d8e1b3643cd6310bc783083&",
+      "description": "Sent by andrews54757 at 6/29/2025, 1:02:16 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "1x8x9",
+        "version": "1.21.4"
+      },
+      "path": "attachments/TD002_improved_inverse_slider_display.litematic"
+    }
+  ],
+  "records": {
+    "description": "Designed for quad bulks with more available space under the top display.",
+    "features": [
+      "Nice top UI",
+      "Locally locked minimum hopper locking",
+      "Global first box placement"
+    ],
+    "considerations": [
+      "Requires more space under the display compared to https://discord.com/channels/748542142347083868/749137152192806954/1085199265992802485",
+      "Initial placement has many piston actions"
+    ],
+    "notes": "- Older versions may need more than two slices in order to avoid toggling the sticky during the initial place."
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "UI",
+      "id": "1454754844316274861",
+      "url": "https://discord.com/channels/1375556143186837695/1454754844316274861/1454754845033627671",
+      "matches": [
+        "UI"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Global",
+      "id": "1454753648574992557",
+      "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
+      "matches": [
+        "Global"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/749137152192806954/1085199265992802485",
+      "server": "748542142347083868",
+      "channel": "749137152192806954",
+      "message": "1085199265992802485",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/749137152192806954/1085199265992802485"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1388927809933676635",
+    "forumId": "1375560792665231450",
+    "continuingMessageIds": [
+      "1388927812500455494",
+      "1455358141561831681"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388927809933676635",
+    "uploadMessageId": "1388927808151224410"
+  },
+  "archivedAt": 1766904315160,
+  "updatedAt": 1751216594040
+}

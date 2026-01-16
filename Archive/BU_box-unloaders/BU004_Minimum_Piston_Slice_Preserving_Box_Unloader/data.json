@@ -1,0 +1,129 @@
+{
+  "id": "1386553835446603825",
+  "name": "Minimum Piston, Slice Preserving Box Unloader",
+  "code": "BU004",
+  "reservedCodes": [
+    "BU004"
+  ],
+  "pastPostThreadIds": [
+    "1388317057002504253"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "624927906908471306",
+      "username": "obi81",
+      "iconURL": "https://cdn.discordapp.com/avatars/624927906908471306/5ca94a8774d0abe79d280eb3ec2978b0.webp",
+      "displayName": "Obi81"
+    },
+    {
+      "type": "discord-external",
+      "id": "475458030151139329",
+      "username": "satsuvu",
+      "iconURL": "https://cdn.discordapp.com/avatars/475458030151139329/8b67eb970d9e2bd383da03bb134184a7.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488474148438035",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1386248557111017532",
+      "name": "1X Hopperspeed"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386553836029739008",
+      "name": "unknown.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386553835446603825/1386553836029739008/unknown.png?ex=685a2063&is=6858cee3&hm=2a6c9c8b6da3e0082f004ef3eb8c7cb23eefe955f7d33e886efb0ebbfb6e37b5&",
+      "description": "Sent by andrews54757 at 6/22/2025, 11:49:55 PM",
+      "canDownload": true,
+      "width": 678,
+      "height": 800,
+      "path": "images/unknown.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386553836306694175",
+      "name": "BU004_box_unloader_slice_preserving_solidstate_Obi.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386553835446603825/1386553836306694175/box_unloader_slice_preserving_solidstate_Obi.litematic?ex=685a2063&is=6858cee3&hm=faf44d1fa632d7db3acaee0ef97a0f83a717d84b46060c54a61c682f78e07eb6&",
+      "description": "Sent by andrews54757 at 6/22/2025, 11:49:55 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "6x7x1",
+        "version": "1.18.2"
+      },
+      "path": "attachments/BU004_box_unloader_slice_preserving_solidstate_Obi.litematic"
+    }
+  ],
+  "records": {
+    "description": "Unloads items from boxes at hopperspeed.",
+    "features": [
+      "Empty boxes are collected instantly and are unable to land in other slices, avoiding output contamination.",
+      "Boxes are separated reliably and dropped out of the bottom, while unloaded items go in the chest.",
+      "Very easy to hopper lock",
+      "Solid state & togglestateless, improving robustness."
+    ],
+    "considerations": [
+      "Does not handle empty boxes",
+      "No initial box placement due to possible issue with random input"
+    ],
+    "notes": ""
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperspeed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopperspeed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Solid state",
+      "id": "1454754761093025874",
+      "url": "https://discord.com/channels/1375556143186837695/1454754761093025874/1454754762837987561",
+      "matches": [
+        "Solid state"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "forumId": "1375560446676963450",
+    "threadId": "1388317057002504253",
+    "continuingMessageIds": [
+      "1388317062723534858"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388317057002504253",
+    "attachmentMessageId": "1388177928587837641",
+    "uploadMessageId": "1388177923319533731"
+  },
+  "archivedAt": 1752040649325,
+  "updatedAt": 1752040649325
+}

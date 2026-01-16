@@ -1,0 +1,180 @@
+{
+  "id": "1388571718632607795",
+  "name": "Leo Layout SS2 10 Chest Hall",
+  "code": "CH007",
+  "reservedCodes": [
+    "CH007"
+  ],
+  "pastPostThreadIds": [
+    "1388572747545972848"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "656864003242328064",
+      "displayName": "金合欢酱喵~ (acaciachan)",
+      "username": "acaciachan",
+      "iconURL": "https://cdn.discordapp.com/avatars/656864003242328064/65e1c203d9ea0af6509f0754122b45a2.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488483170386069",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789106755473500",
+      "name": "Recommended"
+    },
+    {
+      "id": "1386099837115826406",
+      "name": "10 Chests"
+    },
+    {
+      "id": "1386699846542692493",
+      "name": "SS2"
+    }
+  ],
+  "images": [
+    {
+      "id": "1388571719413010483",
+      "name": "area_render_79_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1388571718632607795/1388571719413010483/area_render_79_.png?ex=686177b0&is=68602630&hm=16a12389a0c0061a4c3e18907659c360e635db3511b86d6958ba885f83e7d9b3&",
+      "description": "Sent by andrews54757 at 6/28/2025, 1:28:16 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 550,
+      "path": "images/area_render_79_.png"
+    },
+    {
+      "id": "1388571720239026317",
+      "name": "area_render_78_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1388571718632607795/1388571720239026317/area_render_78_.png?ex=686177b0&is=68602630&hm=0ef382fc154876b2f75bf4635296a7c49925c2dbb211d1e7b97508946582262f&",
+      "description": "Sent by andrews54757 at 6/28/2025, 1:28:16 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 489,
+      "path": "images/area_render_78_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1388571720495009832",
+      "name": "CH007_acaciachan_36_Hopper_FHL_10_Chest_Hall.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1388571718632607795/1388571720495009832/acaciachan_36_Hopper_FHL_10_Chest_Hall.litematic?ex=686177b0&is=68602630&hm=18af6cb92502b764886d3e6c0907a474da7bb434b0579f3a919423eb8b8349e9&",
+      "description": "Sent by andrews54757 at 6/28/2025, 1:28:16 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "31x19x3",
+        "version": "1.14"
+      },
+      "path": "attachments/CH007_acaciachan_36_Hopper_FHL_10_Chest_Hall.litematic"
+    },
+    {
+      "id": "1388571720977350686",
+      "name": "CH007_acaciachan_32_Hopper_FHL_10_Chest_Hall.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1388571718632607795/1388571720977350686/acaciachan_32_Hopper_FHL_10_Chest_Hall.litematic?ex=686177b0&is=68602630&hm=14e77608969612d5c31d30de011510d47eb8840a6672e34803412db552d39f1c&",
+      "description": "Sent by andrews54757 at 6/28/2025, 1:28:16 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "29x20x3",
+        "version": "1.14"
+      },
+      "path": "attachments/CH007_acaciachan_32_Hopper_FHL_10_Chest_Hall.litematic"
+    }
+  ],
+  "records": {
+    "description": "10 chest per slice hall using CommandLeo's 10 chest hall layout.",
+    "features": [
+      "SS2 signal strength isolated (SSI) filters",
+      "Includes two variants: 32 hopper version with push filter, 36 hopper version with dropper elevator",
+      "4 is 10gt filters on slice B, other filters 8gt or less",
+      "Locking lines can be toggled without affecting other filters",
+      "CommanLeo's 10 chest hall UI layout"
+    ],
+    "considerations": [],
+    "notes": ""
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Chest Hall",
+      "id": "1454753529700024331",
+      "url": "https://discord.com/channels/1375556143186837695/1454753529700024331/1454753530488426527",
+      "matches": [
+        "chest hall"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "ss",
+      "id": "1454754774833696893",
+      "url": "https://discord.com/channels/1375556143186837695/1454754774833696893/1454754775542267957",
+      "matches": [
+        "SS"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Signal Strength Isolated",
+      "id": "1455820021581217843",
+      "url": "https://discord.com/channels/1375556143186837695/1455820021581217843/1455820022256500874",
+      "matches": [
+        "signal strength isolated",
+        "SSI"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "gt",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "UI",
+      "id": "1454754844316274861",
+      "url": "https://discord.com/channels/1375556143186837695/1454754844316274861/1454754845033627671",
+      "matches": [
+        "UI"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1388572747545972848",
+    "forumId": "1375561810392125510",
+    "continuingMessageIds": [
+      "1388572752566288504"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388572747545972848",
+    "uploadMessageId": "1388572744890978335"
+  },
+  "archivedAt": 1751289629002,
+  "updatedAt": 1751289629002
+}

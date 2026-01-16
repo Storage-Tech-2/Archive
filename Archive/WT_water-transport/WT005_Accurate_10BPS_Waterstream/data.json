@@ -1,0 +1,109 @@
+{
+  "id": "1456716935436963900",
+  "name": "Accurate 10BPS Waterstream",
+  "code": "WT005",
+  "reservedCodes": [
+    "WT005"
+  ],
+  "pastPostThreadIds": [
+    "1456717348068134943"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1073133812415991818",
+      "username": "willymc_cn",
+      "iconURL": "https://cdn.discordapp.com/embed/avatars/0.png",
+      "displayName": "willymc"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488489272840272",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1456716937005367336",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1456716935436963900/1456716937005367336/image.png?ex=695960de&is=69580f5e&hm=db7ce17c6206ba33aaaeec221f09777391d63e45106fe5d2d90588c774929a6a&",
+      "description": "Sent by andrews54757 at 1/2/2026, 1:33:01 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 145,
+      "path": "images/image.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1456716937764802733",
+      "name": "WT005_accurate_10bps_stream.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1456716935436963900/1456716937764802733/accurate_10bps_stream.litematic?ex=695960de&is=69580f5e&hm=9a771bd9061321aa38d3ebc3f378d273b9bff1a2fd995e8d943aa1556a71ee37&",
+      "description": "Sent by andrews54757 at 1/2/2026, 1:33:01 PM",
+      "canDownload": true,
+      "path": "attachments/WT005_accurate_10bps_stream.litematic",
+      "litematic": {
+        "size": "2989x2x3",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A waterstream that moves items at a rate of 10 blocks per second, allows for timing redstone signals with item movement. This design is closer to 10BPS than WT003, for longer streams.",
+    "features": [
+      "Moves items at 10 blocks per second",
+      "Allows for timing redstone signals with item movement",
+      "Uses slime/piston pusher to shoot items at 10BPS starting at the first water block",
+      "Average motion is 0.50003142 blocks per gt",
+      "Tested for 2984 blocks (any longer items will despawn), the maximum error is 0.15625 blocks"
+    ],
+    "notes": "Item should be aligned against the slime block."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "archivedPost",
+      "id": "1440940351895506944",
+      "code": "WT003",
+      "name": "10BPS Waterstream",
+      "url": "https://discord.com/channels/1375556143186837695/1440940601724899448",
+      "path": "Archive/WT_water-transport/WT003_10BPS_Waterstream",
+      "matches": [
+        "WT003"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "gt",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1456717348068134943",
+    "forumId": "1375563169904459846",
+    "continuingMessageIds": [
+      "1456717356574445679"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1456717348068134943",
+    "uploadMessageId": "1456717345363067129"
+  },
+  "archivedAt": 1767378877792,
+  "updatedAt": 1767378877792
+}

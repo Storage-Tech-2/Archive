@@ -1,0 +1,134 @@
+{
+  "id": "1396045650940137532",
+  "name": "Simple 1x Accessible Box Loader",
+  "code": "AL005",
+  "reservedCodes": [
+    "AL005"
+  ],
+  "pastPostThreadIds": [
+    "1396364546666659962"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "656864003242328064",
+      "displayName": "金合欢酱喵~ (acaciachan)",
+      "username": "acaciachan",
+      "iconURL": "https://cdn.discordapp.com/avatars/656864003242328064/65e1c203d9ea0af6509f0754122b45a2.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488464648208442",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1396045652047429672",
+      "name": "area_render_60_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1396045650940137532/1396045652047429672/area_render_60_.png?ex=687ca854&is=687b56d4&hm=0707ef12223b7c8401ec42a5c9afe395f0274ce013e34265c4df5727bf0204d4&",
+      "description": "Sent by scorpio03 at 7/19/2025, 4:27:00 AM",
+      "canDownload": true,
+      "path": "images/area_render_60_.png"
+    },
+    {
+      "id": "1396045658032570389",
+      "name": "area_render_61_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1396045650940137532/1396045658032570389/area_render_61_.png?ex=687ca856&is=687b56d6&hm=25d055578bd3b1e03d6045c32e8b57992778d58d17be138accd176066dab8413&",
+      "description": "Sent by scorpio03 at 7/19/2025, 4:27:00 AM",
+      "canDownload": true,
+      "path": "images/area_render_61_.png"
+    },
+    {
+      "id": "1396045658460393493",
+      "name": "area_render_59_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1396045650940137532/1396045658460393493/area_render_59_.png?ex=687ca856&is=687b56d6&hm=663b2093d6353c3fef6cc81cec298caed15b522806ff01cb06a7be21b91ca933&",
+      "description": "Sent by scorpio03 at 7/19/2025, 4:27:00 AM",
+      "canDownload": true,
+      "path": "images/area_render_59_.png"
+    },
+    {
+      "id": "1396051402186559590",
+      "name": "area_render_63_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1396045650940137532/1396051402186559590/area_render_63_.png?ex=687cadaf&is=687b5c2f&hm=011ca9f1c0598af47f19850b71a07e027d8613ec4ab67ebd50bf124536db1908&",
+      "description": "Sent by scorpio03 at 7/19/2025, 4:49:51 AM",
+      "canDownload": true,
+      "width": 688,
+      "height": 800,
+      "path": "images/area_render_63_.png"
+    }
+  ],
+  "attachments": [],
+  "records": {
+    "description": "Very simple and cheap 1x accessible loader",
+    "features": [
+      "Can be modified to 2x box loader",
+      "No longer accessible when modified"
+    ],
+    "notes": [
+      "The downwards pushing and 2x box loader variants are no longer accessible"
+    ]
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "1x",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "1x"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Accessible Loader",
+      "id": "1454804125559554243",
+      "url": "https://discord.com/channels/1375556143186837695/1454804125559554243/1454804126541152338",
+      "matches": [
+        "accessible loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "2x",
+      "id": "1454753562033651876",
+      "url": "https://discord.com/channels/1375556143186837695/1454753562033651876/1454753563258519584",
+      "matches": [
+        "2x"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1396364546666659962",
+    "forumId": "1375557143201316934",
+    "continuingMessageIds": [],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1396364546666659962",
+    "uploadMessageId": ""
+  },
+  "archivedAt": 1752989650837,
+  "updatedAt": 1752989650837
+}

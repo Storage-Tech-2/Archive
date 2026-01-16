@@ -1,0 +1,115 @@
+{
+  "id": "1388021020811591771",
+  "name": "One Hopper Box isEmpty/isFull",
+  "code": "FBS006",
+  "reservedCodes": [
+    "FBS006"
+  ],
+  "pastPostThreadIds": [
+    "1388316970126151831"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "656864003242328064",
+      "name": "acaciachan",
+      "displayName": "金合欢酱喵~ (acaciachan)",
+      "iconURL": "https://cdn.discordapp.com/avatars/656864003242328064/65e1c203d9ea0af6509f0754122b45a2.webp",
+      "username": "acaciachan"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1386421810626695278",
+      "name": "isEmpty/isFull"
+    },
+    {
+      "id": "1385488472189571100",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789094197461155",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1388021022233591828",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1388021020811591771/1388021022233591828/image.png?ex=685f76cf&is=685e254f&hm=595c8c59a06634881f96cfad649c6ef0475d81551e1639569a22c26219d506c9&",
+      "description": "Sent by andrews54757 at 6/27/2025, 12:59:59 AM",
+      "canDownload": true,
+      "width": 544,
+      "height": 330,
+      "path": "images/image.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1388021021436678265",
+      "name": "FBS006_1_hopper_fill_level_sorter.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1388021020811591771/1388021021436678265/1_hopper_fill_level_sorter.litematic?ex=685f76cf&is=685e254f&hm=7889a4567bf3999a9b1abe02d9da153b81816f45424d6482a61234ac39d42c8b&",
+      "description": "Sent by andrews54757 at 6/27/2025, 12:59:59 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "7x4x3",
+        "version": "1.21.4"
+      },
+      "path": "attachments/FBS006_1_hopper_fill_level_sorter.litematic"
+    }
+  ],
+  "records": {
+    "description": "Categorizes boxes by their fill levels at hopperspeed using just one hopper. Can function either as an isFull filter or as an isFull filter by thresholding the comparator.",
+    "features": [
+      "Uses just one hopper",
+      "Hopperspeed"
+    ],
+    "considerations": [],
+    "notes": ""
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperspeed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopperspeed",
+        "Hopperspeed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "IsFull",
+      "id": "1454753607604768770",
+      "url": "https://discord.com/channels/1375556143186837695/1454753607604768770/1454753609131495434",
+      "matches": [
+        "isFull"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "forumId": "1375559651579527208",
+    "threadId": "1388316970126151831",
+    "continuingMessageIds": [
+      "1388316974211137718"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388316970126151831",
+    "attachmentMessageId": "1388177810987810856",
+    "uploadMessageId": "1388177804318867549"
+  },
+  "archivedAt": 1751000750503,
+  "updatedAt": 1751000750503
+}

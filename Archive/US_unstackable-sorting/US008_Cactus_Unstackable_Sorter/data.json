@@ -1,0 +1,156 @@
+{
+  "id": "1450264041565065238",
+  "name": "Cactus Unstackable Sorter",
+  "code": "US008",
+  "reservedCodes": [
+    "US008"
+  ],
+  "pastPostThreadIds": [
+    "1450265452059037838"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "707180327373897728",
+      "displayName": "Rt5H3",
+      "username": "rt5h31339",
+      "iconURL": "https://cdn.discordapp.com/avatars/707180327373897728/2d0235dc0a1b569d25cbdaa6b753cdb3.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "660633169191632908",
+      "displayName": "Passionate Storage Techer 69",
+      "username": "etikle",
+      "iconURL": "https://cdn.discordapp.com/avatars/660633169191632908/552443236bae5d574b5b1aec2694b58f.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "727730797049806898",
+      "displayName": "skyzy",
+      "username": "sskyzy",
+      "iconURL": "https://cdn.discordapp.com/avatars/727730797049806898/00d0b08b860ed57fbd2c228943b0de07.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488499884425243",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789127018156145",
+      "name": "Recommended"
+    },
+    {
+      "id": "1387992098573385912",
+      "name": "Full Sorters"
+    }
+  ],
+  "images": [
+    {
+      "id": "1450264045453180929",
+      "name": "area_render_13_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1450264041565065238/1450264045453180929/area_render_13_.png?ex=6941e725&is=694095a5&hm=0d76a2406b25d730d4d3299772a2d8dca320e200ffdd716218002d0de1c86f5f&",
+      "description": "Sent by andrews54757 at 12/15/2025, 6:11:32 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 483,
+      "path": "images/area_render_13_.png"
+    },
+    {
+      "id": "1450264047336292464",
+      "name": "area_render_12_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1450264041565065238/1450264047336292464/area_render_12_.png?ex=6941e725&is=694095a5&hm=f6fb71e4b409688f6273b7290a0a3bfa33c3494e19d4438a28e6fd061f735947&",
+      "description": "Sent by andrews54757 at 12/15/2025, 6:11:32 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 486,
+      "path": "images/area_render_12_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1450264047663710238",
+      "name": "US008_Cactus_Unstackable_Sorter.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1450264041565065238/1450264047663710238/Cactus_Unstackable_Sorter.litematic?ex=6941e725&is=694095a5&hm=417e7dff65e6f88eb8936af570a487db8eb2290bcbeeb905fad0be5bc78e201d&",
+      "description": "Sent by andrews54757 at 12/15/2025, 6:11:32 PM",
+      "canDownload": true,
+      "path": "attachments/US008_Cactus_Unstackable_Sorter.litematic",
+      "litematic": {
+        "size": "12x7x14",
+        "version": "1.20.1"
+      }
+    }
+  ],
+  "records": {
+    "description": "Sorts 10 types of unstackable items (music discs, enchanted books, potions, flint & steel, shears, water buckets, lava buckets, powder snow buckets, boats, minecarts)",
+    "features": [
+      "Very compact; 5x7x13",
+      "Processes 1 item every 16gt",
+      "Fully hopper locked with no idle carts while locked."
+    ],
+    "considerations": [
+      "Many clocks are connected, leading to some unnecessary lag while running."
+    ],
+    "notes": [
+      "Schematic has both normal and hopper locked versions as subregions.",
+      "Winner of the 2025 Unstackable Sorter Contest!"
+    ],
+    "compatibility": "1.20+",
+    "instructions": [
+      "If you are dropping item entities in the input directly, make sure that item entities cannot land in the input hopper, or items may self-insert at the wrong timings. This can be done by placing a slab over the input hopper to cover the opening."
+    ]
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "gt",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Schematic",
+      "id": "1454811558009110704",
+      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
+      "matches": [
+        "Schematic"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Unstackable sorter",
+      "id": "1454754837379022858",
+      "url": "https://discord.com/channels/1375556143186837695/1454754837379022858/1454754839224516712",
+      "matches": [
+        "Unstackable Sorter"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1450265452059037838",
+    "forumId": "1375564342392786944",
+    "continuingMessageIds": [
+      "1450265456471572611"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1450265452059037838",
+    "uploadMessageId": "1450265448305131666"
+  },
+  "archivedAt": 1765840627197,
+  "updatedAt": 1765840627197
+}

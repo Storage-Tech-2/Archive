@@ -1,0 +1,155 @@
+{
+  "id": "1391820519988400168",
+  "name": "[1.21] Compact SS2 1wABt Crafter",
+  "code": "AC003",
+  "reservedCodes": [
+    "AC003"
+  ],
+  "pastPostThreadIds": [
+    "1391829514333720638"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "183711148288245760",
+      "displayName": "DrakePHOSE",
+      "username": "drakephose",
+      "iconURL": "https://cdn.discordapp.com/avatars/183711148288245760/bfaafaea0f922180417020864ce32970.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488525809418299",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1391820520529330257",
+      "name": "mono.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1391820519988400168/1391820520529330257/mono.png?ex=686d495e&is=686bf7de&hm=60a5d6051fbaa61f9d99dd3d6448ed9a8535931b03c1534b8ccfa526a1867abd&",
+      "description": "Sent by drakephose at 7/7/2025, 12:37:50 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 615,
+      "path": "images/mono.png"
+    },
+    {
+      "id": "1391820521146028273",
+      "name": "mono_locked.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1391820519988400168/1391820521146028273/mono_locked.png?ex=686d495f&is=686bf7df&hm=debdd02466f44ac35c6d863aa24522cb50acffd59d2b4ed950cfaf2c71cca035&",
+      "description": "Sent by drakephose at 7/7/2025, 12:37:50 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 691,
+      "path": "images/mono_locked.png"
+    },
+    {
+      "id": "1391820521695612978",
+      "name": "clock.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1391820519988400168/1391820521695612978/clock.png?ex=686d495f&is=686bf7df&hm=5a86a40893a7b78cf7d21336d93917a6e785ef0853f773d5f9afc730f0eb1e84&",
+      "description": "Sent by drakephose at 7/7/2025, 12:37:50 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 658,
+      "path": "images/clock.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1391820522077028493",
+      "name": "AC003_Compact_SS2_1wAB_Crafter_Mono.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1391820519988400168/1391820522077028493/Compact_SS2_1wAB_Crafter_Mono.litematic?ex=686d495f&is=686bf7df&hm=ddfb73ffc880f2995ce077c127fa3609fe2f306754b07ebe94c505780f5c8ea0&",
+      "description": "Sent by drakephose at 7/7/2025, 12:37:50 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "2x6x9",
+        "version": "1.21"
+      },
+      "path": "attachments/AC003_Compact_SS2_1wAB_Crafter_Mono.litematic"
+    },
+    {
+      "id": "1391820522442063943",
+      "name": "AC003_Compact_SS2_1wAB_Crafter_Mono1.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1391820519988400168/1391820522442063943/Compact_SS2_1wAB_Crafter_Mono1.litematic?ex=686d495f&is=686bf7df&hm=5bfd188ae6750cc2433924c73d1000b06cd5068d3d6aa568421071579f776648&",
+      "description": "Sent by drakephose at 7/7/2025, 12:37:50 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "2x6x9",
+        "version": "1.21"
+      },
+      "path": "attachments/AC003_Compact_SS2_1wAB_Crafter_Mono1.litematic"
+    },
+    {
+      "id": "1391820522819555520",
+      "name": "AC003_Compact_SS2_1wAB_Crafter_Clock.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1391820519988400168/1391820522819555520/Compact_SS2_1wAB_Crafter_Clock.litematic?ex=686d495f&is=686bf7df&hm=6205033e9f2be2c61e8a8fa63a747047f682de3f1b6a1c7da31d3fddf5873709&",
+      "description": "Sent by drakephose at 7/7/2025, 12:37:50 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "2x7x9",
+        "version": "1.21"
+      },
+      "path": "attachments/AC003_Compact_SS2_1wAB_Crafter_Clock.litematic"
+    }
+  ],
+  "records": {
+    "description": "Crafts filtered items. Works with 2-9 slot crafts. Can be adapted to be 1 slot. 1 slot and hopper locked variations are in the thread.",
+    "features": [
+      "Compact",
+      "SS2"
+    ],
+    "considerations": [
+      "Expensive",
+      "AB tileable"
+    ],
+    "notes": "The lower filter hopper must be configured with output signal strength 1 when read from the comparator. This comparator subtracts from the comparator reading the top filter hopper to make the filter circuit smaller."
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "ss",
+      "id": "1454754774833696893",
+      "url": "https://discord.com/channels/1375556143186837695/1454754774833696893/1454754775542267957",
+      "matches": [
+        "SS"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "AB tileable",
+      "id": "1454753732293033984",
+      "url": "https://discord.com/channels/1375556143186837695/1454753732293033984/1454753733035687988",
+      "matches": [
+        "AB tileable"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1391829514333720638",
+    "forumId": "1375570772348764392",
+    "continuingMessageIds": [
+      "1391829523657523353"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1391829514333720638",
+    "uploadMessageId": "1391829512752206034"
+  },
+  "archivedAt": 1751908414463,
+  "updatedAt": 1751908414463
+}

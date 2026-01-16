@@ -1,0 +1,155 @@
+{
+  "id": "1450280312646140135",
+  "name": "1wt Variable Item Entity Filter",
+  "code": "VIP006",
+  "reservedCodes": [
+    "VIP006"
+  ],
+  "pastPostThreadIds": [
+    "1450282499274965186"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1076361384981430354",
+      "username": "white_0910",
+      "iconURL": "https://cdn.discordapp.com/avatars/1076361384981430354/a274a60a31a9fb58987e9fb06b7c8e98.webp",
+      "displayName": "白Unique_Clock"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "1340403224431296522",
+      "displayName": "Gufen",
+      "username": "gufen.java",
+      "iconURL": "https://cdn.discordapp.com/avatars/1340403224431296522/0702fe022ad96fa245fad41e34ab56fc.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488518499012625",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789152770920521",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1450280313463902452",
+      "name": "area_render_28_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1450280312646140135/1450280313463902452/area_render_28_.png?ex=6941f64b&is=6940a4cb&hm=4ff62a4f10034b2e4e90218cae9d4c42463001bb1cb3bbd92e2a904d15ea7c11&",
+      "description": "Sent by andrews54757 at 12/15/2025, 7:16:11 PM",
+      "canDownload": true,
+      "width": 678,
+      "height": 649,
+      "path": "images/area_render_28_.png"
+    },
+    {
+      "id": "1450280313904169073",
+      "name": "area_render_30_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1450280312646140135/1450280313904169073/area_render_30_.png?ex=6941f64b&is=6940a4cb&hm=a381844144705d11bef48ec5753dde74122effbff39a769b2126bc8be55ba046&",
+      "description": "Sent by andrews54757 at 12/15/2025, 7:16:11 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 497,
+      "path": "images/area_render_30_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1450280314181255232",
+      "name": "VIP006_1wt_10gt.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1450280312646140135/1450280314181255232/1wt_10gt.litematic?ex=6941f64b&is=6940a4cb&hm=6ff0e9068804cfa384b84718789340934e06aca16b38f46531ce4c4cb22ab1e4&",
+      "description": "Sent by andrews54757 at 12/15/2025, 7:16:11 PM",
+      "canDownload": true,
+      "path": "attachments/VIP006_1wt_10gt.litematic",
+      "litematic": {
+        "size": "8x7x24",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A 1 wide tileable variable filter for item entities. Each slice of this device is capable of automatically assigning its own filter to separate out item entities of that type every 10gt.",
+    "features": [
+      "One item entity per 10gt throughput (51.2x hopperspeed)",
+      "Expandable (up to ~200 blocks, 3000 if you swap out middle blue ice with packed ice as in WT003)"
+    ],
+    "notes": "Uses a 10 block per second waterstream so the item entity distribution is synced with the filter test item. The filter test item travels separately in droppers after being take out from the item entity using a hoppercart.",
+    "instructions": "Input item entities onto the iron pressure plate (difficult to see but in the corner)"
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "gt",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "item entity",
+      "id": "1456908472384884879",
+      "url": "https://discord.com/channels/1375556143186837695/1456908472384884879/1456908473844502594",
+      "matches": [
+        "item entity"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperspeed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopperspeed"
+      ]
+    },
+    {
+      "type": "archivedPost",
+      "id": "1440940351895506944",
+      "code": "WT003",
+      "name": "10BPS Waterstream",
+      "url": "https://discord.com/channels/1375556143186837695/1440940601724899448",
+      "path": "Archive/WT_water-transport/WT003_10BPS_Waterstream",
+      "matches": [
+        "WT003"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1450282499274965186",
+    "forumId": "1375569954073477120",
+    "continuingMessageIds": [
+      "1450282502622150666"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1450282499274965186",
+    "uploadMessageId": "1450282497089867929"
+  },
+  "archivedAt": 1766904612610,
+  "updatedAt": 1765844692171
+}

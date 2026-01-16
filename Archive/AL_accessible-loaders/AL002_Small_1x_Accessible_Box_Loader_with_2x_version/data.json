@@ -1,0 +1,180 @@
+{
+  "id": "1387255160815751319",
+  "name": "Small 1x Accessible Box Loader (with 2x version)",
+  "code": "AL002",
+  "reservedCodes": [
+    "AL002"
+  ],
+  "pastPostThreadIds": [
+    "1388316710444208262"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "513900971219353600",
+      "displayName": "Scorpio",
+      "username": "scorpio03",
+      "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385789083279822881",
+      "name": "Recommended"
+    },
+    {
+      "id": "1385488464648208442",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1387255161100959916",
+      "name": "Scorpio_-_1x_Accessible_Loader.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387255160815751319/1387255161100959916/Scorpio_-_1x_Accessible_Loader.png?ex=685dff0c&is=685cad8c&hm=26cfe641124a1091ac2ae1a6d6d36ad7d02449ff14f3519c9ef31ae0c9ce3ba7&",
+      "description": "Sent by ragdollwilly at 6/24/2025, 10:16:44 PM",
+      "canDownload": true,
+      "path": "images/Scorpio_-_1x_Accessible_Loader.png"
+    },
+    {
+      "id": "1387255161415663696",
+      "name": "Scorpio_-_2x_Box_Loader.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387255160815751319/1387255161415663696/Scorpio_-_2x_Box_Loader.png?ex=685dff0c&is=685cad8c&hm=ddf9737c61940d218c6ae7e278687cd57614050a6f84eb3201d33720d906b28c&",
+      "description": "Sent by ragdollwilly at 6/24/2025, 10:16:44 PM",
+      "canDownload": true,
+      "path": "images/Scorpio_-_2x_Box_Loader.png"
+    },
+    {
+      "id": "1387776242996219914",
+      "name": "area_render_4_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387255160815751319/1387776242996219914/area_render_4_.png?ex=685e92d7&is=685d4157&hm=9ecf38185294607827057ee6d8f46562de4ca02143648536bbe89e6184a3d2f0&",
+      "description": "Sent by ragdollwilly at 6/26/2025, 8:47:20 AM",
+      "canDownload": true,
+      "width": 791,
+      "height": 693,
+      "path": "images/area_render_4_.png"
+    },
+    {
+      "id": "1387776242752819370",
+      "name": "area_render_5_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387255160815751319/1387776242752819370/area_render_5_.png?ex=685e92d7&is=685d4157&hm=3a0eb5cba46e7f5669716b1ec73cd759a33861c64344becd573bd7e99d293e7e&",
+      "description": "Sent by ragdollwilly at 6/26/2025, 8:47:20 AM",
+      "canDownload": true,
+      "width": 791,
+      "height": 542,
+      "path": "images/area_render_5_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1387255161679777832",
+      "name": "AL002_Scorpio_-_1x_Accessible_Loader.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387255160815751319/1387255161679777832/Scorpio_-_1x_Accessible_Loader.litematic?ex=685cad8c&is=685b5c0c&hm=6768f82ed615208b762fb8d3f6f02e6aeb2c331796b455ddeb2d5a67c1166ecc&",
+      "description": "Sent by ragdollwilly at 6/24/2025, 10:16:44 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "4x3x3",
+        "version": "1.21.4"
+      },
+      "path": "attachments/AL002_Scorpio_-_1x_Accessible_Loader.litematic"
+    },
+    {
+      "id": "1387255162393067641",
+      "name": "AL002_Scorpio_-_Simple_2x_Loader.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387255160815751319/1387255162393067641/Scorpio_-_Simple_2x_Loader.litematic?ex=685cad8c&is=685b5c0c&hm=f6aafaa487ef8f8b9b94e437ed364bd4a6c5d672def17958daed12cc5d0d1385&",
+      "description": "Sent by ragdollwilly at 6/24/2025, 10:16:44 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "4x3x3",
+        "version": "1.21.4"
+      },
+      "path": "attachments/AL002_Scorpio_-_Simple_2x_Loader.litematic"
+    },
+    {
+      "id": "1387287400912257096",
+      "name": "AL002_Scorpio_-_1x_Accessible_Loader_w_Box_Crafter.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387255160815751319/1387287400912257096/Scorpio_-_1x_Accessible_Loader_w_Box_Crafter.litematic?ex=685ccb92&is=685b7a12&hm=ca13e0bc4a67a2fe77eed4837187ef7bfb20f6d8f2d7e9b2e8421dcbc391ea37&",
+      "description": "Sent by ragdollwilly at 6/25/2025, 12:24:51 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "4x3x4",
+        "version": "1.21.4"
+      },
+      "path": "attachments/AL002_Scorpio_-_1x_Accessible_Loader_w_Box_Crafter.litematic"
+    },
+    {
+      "id": "1387287401411641446",
+      "name": "AL002_Scorpio_-_2x_Box_Loader_w_Box_Crafter.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387255160815751319/1387287401411641446/Scorpio_-_2x_Box_Loader_w_Box_Crafter.litematic?ex=685ccb93&is=685b7a13&hm=0b67e848e2da3092dda3a0a835c604db7fad33a96bbd6c0d044ee8e34bb94692&",
+      "description": "Sent by ragdollwilly at 6/25/2025, 12:24:51 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "4x3x4",
+        "version": "1.21.4"
+      },
+      "path": "attachments/AL002_Scorpio_-_2x_Box_Loader_w_Box_Crafter.litematic"
+    }
+  ],
+  "records": {
+    "description": "A small box loader in which the box can be opened while being loaded. Adding 2 hoppers can make the box loader 2x speed, but the box will no longer be accessible.\n\nIncluded are also versions that have built in box crafters instead of empty box supply",
+    "features": [
+      "smaller size than any box loader",
+      "box opened while loading",
+      "adding 2 hoppers can make box loader 2x speed",
+      "box will no longer accessible if 2 hoppers added"
+    ],
+    "considerations": [],
+    "notes": ""
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "2x",
+      "id": "1454753562033651876",
+      "url": "https://discord.com/channels/1375556143186837695/1454753562033651876/1454753563258519584",
+      "matches": [
+        "2x"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "forumId": "1375557143201316934",
+    "threadId": "1388316710444208262",
+    "continuingMessageIds": [
+      "1388316714546233497",
+      "1388316715414192188"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388316710444208262",
+    "attachmentMessageId": "1388177471639261205",
+    "uploadMessageId": "1388177464257155273"
+  },
+  "archivedAt": 1750942147033,
+  "updatedAt": 1750942147033
+}

@@ -1,0 +1,80 @@
+{
+  "id": "1457043385285083167",
+  "name": "Rising Edge Detector Chart",
+  "code": "LC001",
+  "reservedCodes": [
+    "LC001"
+  ],
+  "pastPostThreadIds": [
+    "1457048406919872819"
+  ],
+  "authors": [],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "460316892976906261",
+      "username": "ragdollwilly",
+      "displayName": "Ragdoll Willy",
+      "iconURL": "https://cdn.discordapp.com/avatars/460316892976906261/a0332117bf4e609a1ead4417ae4357b4.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1457042202361467101",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1457043385843191982",
+      "name": "Rising_Edge_Detectors.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1457043385285083167/1457043385843191982/Rising_Edge_Detectors.png?ex=695a90e5&is=69593f65&hm=752698bf54b0489e23b6a355f171d1c618a5e8d29f873654d4bde4a7ac64ca80&",
+      "description": "Sent by ragdollwilly at 1/3/2026, 11:10:13 AM",
+      "canDownload": true,
+      "width": 741,
+      "height": 800,
+      "path": "images/Rising_Edge_Detectors.png"
+    }
+  ],
+  "attachments": [],
+  "records": {
+    "description": "A handful of 1wt rising edge detectors",
+    "features": [],
+    "considerations": [],
+    "notes": "",
+    "compatibility": "",
+    "instructions": []
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "1wt",
+      "id": "1454753738425368687",
+      "url": "https://discord.com/channels/1375556143186837695/1454753738425368687/1454753741785010208",
+      "matches": [
+        "1wt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Rising Edge",
+      "id": "1457020951001567444",
+      "url": "https://discord.com/channels/1375556143186837695/1457020951001567444/1457020954642485484",
+      "matches": [
+        "rising edge"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1457048406919872819",
+    "forumId": "1457041921531842581",
+    "continuingMessageIds": [],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1457048406919872819",
+    "uploadMessageId": ""
+  },
+  "archivedAt": 1767457808339,
+  "updatedAt": 1767457808339
+}

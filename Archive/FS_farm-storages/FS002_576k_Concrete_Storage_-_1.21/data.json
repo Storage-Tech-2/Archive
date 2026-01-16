@@ -1,0 +1,151 @@
+{
+  "id": "1442405705519730708",
+  "name": "576k Concrete Storage - 1.21+",
+  "code": "FS002",
+  "reservedCodes": [
+    "FS002"
+  ],
+  "pastPostThreadIds": [
+    "1450420192743264420"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "909697371473084506",
+      "displayName": "Hi!?",
+      "username": "wisperingtoyou",
+      "iconURL": "https://cdn.discordapp.com/avatars/909697371473084506/548688783b44556959a493683a4e71f2.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1386243209390325848",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1442405707327602789",
+      "name": "area_render.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1442405705519730708/1442405707327602789/area_render.png?ex=6925507f&is=6923feff&hm=6036fec71c16b48d66a21e9ec95cc98368b0edc336f64c5eb99bed692ecb1a46&",
+      "description": "Sent by wisperingtoyou at 11/24/2025, 1:45:18 AM",
+      "canDownload": true,
+      "width": 590,
+      "height": 800,
+      "path": "images/area_render.png"
+    },
+    {
+      "id": "1442405708338298880",
+      "name": "area_render_1_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1442405705519730708/1442405708338298880/area_render_1_.png?ex=6925507f&is=6923feff&hm=85fc20b4226c4165dde94ef67961c8ccf0f6f36a066f34d82c287f5e0d1c8b39&",
+      "description": "Sent by wisperingtoyou at 11/24/2025, 1:45:18 AM",
+      "canDownload": true,
+      "width": 505,
+      "height": 800,
+      "path": "images/area_render_1_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1442406539284709487",
+      "name": "FS002_Concrete_Factory_576k_-_2.8.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1442405705519730708/1442406539284709487/Concrete_Factory_576k_-_2.8.litematic?ex=69255145&is=6923ffc5&hm=4d9b1cf05c5d7dee4e2366f5291fe66f06050a792a3c7e82b8f952fb24b4ca66&",
+      "description": "Sent by wisperingtoyou at 11/24/2025, 1:48:37 AM",
+      "canDownload": true,
+      "path": "attachments/FS002_Concrete_Factory_576k_-_2.8.litematic",
+      "litematic": {
+        "size": "39x55x35",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A large bulk storage designed to handle the new platform based concrete factories in 1.21+",
+    "features": [
+      "1.21+",
+      "1.7m per item",
+      "Concrete & powder mode, flint & gravel",
+      "Input protection, handles any items accidentally thrown on the platform while the farm is inactive",
+      "Partial Box recycling"
+    ],
+    "considerations": [
+      "Box crafting logic can be improved but works perfectly fine",
+      "Not fully hopper locked but this is a non issue with lithium",
+      "Uses box displays, this would be a pro or a con depending on user preference"
+    ],
+    "notes": [
+      "Tested for 200+ hours without issues.",
+      "Dupe 1 color at a time and wait for the partial boxes to be ejected from the var loader before starting up the farm again."
+    ],
+    "credits": [
+      "Bulk by Ners",
+      "Box Fill level sorter by Obi",
+      "Cart unloader by Christone",
+      "Var by Heilz",
+      "Box Crafter by Acacia",
+      "Concrete converter is a better version of bread's by me"
+    ]
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Bulk Storage",
+      "id": "1454753523668484213",
+      "url": "https://discord.com/channels/1375556143186837695/1454753523668484213/1454753524637499577",
+      "matches": [
+        "bulk storage"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Display",
+      "id": "1454753497638506689",
+      "url": "https://discord.com/channels/1375556143186837695/1454753497638506689/1454753498494144522",
+      "matches": [
+        "box display"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Unloader",
+      "id": "1454754824758493380",
+      "url": "https://discord.com/channels/1375556143186837695/1454754824758493380/1454754825345433803",
+      "matches": [
+        "unloader"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1450420192743264420",
+    "forumId": "1386242904141463603",
+    "continuingMessageIds": [
+      "1450420196455088192"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1450420192743264420",
+    "uploadMessageId": "1450420186472644608"
+  },
+  "archivedAt": 1765877519710,
+  "updatedAt": 1765877519710
+}

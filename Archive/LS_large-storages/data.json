@@ -1,0 +1,30 @@
+{
+  "id": "1375566903241740450",
+  "name": "large-storages",
+  "code": "LS",
+  "category": "Full Systems",
+  "description": "Large/full size storages",
+  "currentCodeId": 4,
+  "entries": [
+    {
+      "id": "1389156295520682004",
+      "code": "LS001",
+      "path": "LS001_Sweet_Potatoes_MS"
+    },
+    {
+      "id": "1416554411878121532",
+      "code": "LS002",
+      "path": "LS002_4threes_Main_Storage_System"
+    },
+    {
+      "id": "1416518098042884317",
+      "code": "LS003",
+      "path": "LS003_luckeY_Main_Storage"
+    },
+    {
+      "id": "1458848929503383572",
+      "code": "LS004",
+      "path": "LS004_luckeY_Main_Storage_V2"
+    }
+  ]
+}

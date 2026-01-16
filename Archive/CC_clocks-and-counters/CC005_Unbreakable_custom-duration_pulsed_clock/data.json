@@ -1,0 +1,112 @@
+{
+  "id": "1450288456357118145",
+  "name": "Unbreakable custom-duration pulsed clock",
+  "code": "CC005",
+  "reservedCodes": [
+    "CC005"
+  ],
+  "pastPostThreadIds": [
+    "1450290815661244497"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "displayName": "Andrews54757",
+      "username": "andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1386444420911595687",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1386444420911595688",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1450288457342521445",
+      "name": "image.png",
+      "contentType": "image/webp",
+      "url": "https://cdn.discordapp.com/attachments/1450288456357118145/1450288457342521445/image.png?ex=6941fde1&is=6940ac61&hm=1fa04b287258b3d6a8a053ce1c0b75c34dd7b479f424dbc9d74e748e0cb78638&",
+      "description": "Sent by andrews54757 at 12/15/2025, 7:48:33 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 532,
+      "path": "images/image.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1450288457745305750",
+      "name": "CC005_unbreakable_custom_clock_demo.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1450288456357118145/1450288457745305750/unbreakable_custom_clock_demo.litematic?ex=6941fde1&is=6940ac61&hm=0f9415e449fb87f7dd959d1cb51b45a7aecd0ef33df95dfd36cc3591b7605467&",
+      "description": "Sent by andrews54757 at 12/15/2025, 7:48:33 PM",
+      "canDownload": true,
+      "path": "attachments/CC005_unbreakable_custom_clock_demo.litematic",
+      "litematic": {
+        "size": "6x3x9",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "This demonstration shows how one can make a custom-duration pulsed clock that is unbreakable to random on/off input.",
+    "features": [
+      "Adjust delay by adding more/removing repeaters, or any other delay block.",
+      "Lever turns clock on/off",
+      "Robust against random lever input. the clocked delay line will never have more than one pulse, and the controls will never fail to start the clock when enabled."
+    ],
+    "instructions": [
+      "The trapdoor-pane latch ensures a pulse is sent every time the latch moves to the on position no matter how fast it is triggered.",
+      "The piston to reset the latch must be powered 2gt before the trapdoor is, so that double pulsing isn't possible and clock always turns off when desired.",
+      "The powered rail updates the other piston after reset piston is so that it can't be BUD-ed off permanently: the clock will always turn on with the lever on."
+    ]
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "gt",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "BUD",
+      "id": "1454753476813787279",
+      "url": "https://discord.com/channels/1375556143186837695/1454753476813787279/1454753477443063869",
+      "matches": [
+        "BUD"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1450290815661244497",
+    "forumId": "1386443869729587291",
+    "continuingMessageIds": [
+      "1450290819906146465"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1450290815661244497",
+    "uploadMessageId": "1450290814029664406"
+  },
+  "archivedAt": 1765846674852,
+  "updatedAt": 1765846674852
+}

@@ -1,0 +1,94 @@
+{
+  "id": "1444438068303101956",
+  "name": "Vertical Nether Item Pusher",
+  "code": "NT002",
+  "reservedCodes": [
+    "NT002"
+  ],
+  "pastPostThreadIds": [
+    "1451140379662614591"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "505773383934279680",
+      "displayName": "Kofolka",
+      "username": "kofolka",
+      "iconURL": "https://cdn.discordapp.com/avatars/505773383934279680/8cd29ac510db0536459c6fbd491928ff.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1387131981464211602",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1444438069393625108",
+      "name": "area_render.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1444438068303101956/1444438069393625108/area_render.png?ex=692cb548&is=692b63c8&hm=f981c9eea334acd022005c6061b33c5e18596cbb710699a6f3bace3d5e582d9e&",
+      "description": "Sent by kofolka at 11/29/2025, 4:21:11 PM",
+      "canDownload": true,
+      "width": 719,
+      "height": 674,
+      "path": "images/area_render.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1444438070286876863",
+      "name": "NT002_Vertical_Nether_Item_Pusher.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1444438068303101956/1444438070286876863/Vertical_Nether_Item_Pusher.litematic?ex=692cb548&is=692b63c8&hm=ddf7ad80bbfd5394a497002bb16171ad38bae7eeabc7bc4f8fa30bb319c4265d&",
+      "description": "Sent by kofolka at 11/29/2025, 4:21:11 PM",
+      "canDownload": true,
+      "path": "attachments/NT002_Vertical_Nether_Item_Pusher.litematic",
+      "litematic": {
+        "size": "4x21x8",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Bottom to top transport for items in nether",
+    "features": [
+      "Spam proof"
+    ],
+    "notes": "Can be connected to a farm at 20gt+ interval",
+    "instructions": "Put item entities on the slime block at the very bottom, then activate the slime/piston pusher."
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "gt",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1451140379662614591",
+    "forumId": "1387131693411995658",
+    "continuingMessageIds": [
+      "1451140382078537830"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1451140379662614591",
+    "uploadMessageId": "1451140377447890946"
+  },
+  "archivedAt": 1766049226661,
+  "updatedAt": 1766049226661
+}

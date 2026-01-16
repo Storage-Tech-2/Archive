@@ -1,0 +1,156 @@
+{
+  "id": "1387480002978910330",
+  "name": "Hopperspeed Potion Type Filter",
+  "code": "US002",
+  "reservedCodes": [
+    "US002"
+  ],
+  "pastPostThreadIds": [
+    "1388317923575337011"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "displayName": "Andrews54757",
+      "username": "andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "204889304227512320",
+      "username": "xxopticnervexx",
+      "iconURL": "https://cdn.discordapp.com/avatars/204889304227512320/ad0110a304b6c4ae04b28fec0bb25033.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488499884425243",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789127018156145",
+      "name": "Recommended"
+    },
+    {
+      "id": "1387480192091684904",
+      "name": "Potions"
+    }
+  ],
+  "images": [
+    {
+      "id": "1387623580191166575",
+      "name": "area_render_67_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387480002978910330/1387623580191166575/area_render_67_.png?ex=685e04aa&is=685cb32a&hm=ee6ab88ed53f7446d459ac5825dea75339710faf6ff2ceb8d721951cbcaefed6&",
+      "description": "Sent by andrews54757 at 6/25/2025, 10:40:42 PM",
+      "canDownload": true,
+      "width": 574,
+      "height": 682,
+      "path": "images/area_render_67_.png"
+    },
+    {
+      "id": "1387623580455534612",
+      "name": "area_render_66_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387480002978910330/1387623580455534612/area_render_66_.png?ex=685e04aa&is=685cb32a&hm=2e4015846d6cac7bd72fe81087c387d3323dad2b65083a5b93666928d1767278&",
+      "description": "Sent by andrews54757 at 6/25/2025, 10:40:42 PM",
+      "canDownload": true,
+      "width": 759,
+      "height": 526,
+      "path": "images/area_render_66_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1387480003876356146",
+      "name": "US002_potion_filter.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387480002978910330/1387480003876356146/potion_filter.litematic?ex=685d7ef3&is=685c2d73&hm=d216a20233812757a45f11c4c47db4e6f326cae084d6293fdbd58c83afac900c&",
+      "description": "Sent by andrews54757 at 6/25/2025, 1:10:10 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "2x7x6",
+        "version": "1.16.4"
+      },
+      "path": "attachments/US002_potion_filter.litematic"
+    },
+    {
+      "id": "1387625113767252060",
+      "name": "US002_potion_filter_global_clock_v2.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387480002978910330/1387625113767252060/potion_filter_global_clock_v2.litematic?ex=685e0617&is=685cb497&hm=a555f02a11ea22f045d01edf83fcfaa7fc821456c5ef4024e3d4d2dccc4ead70&",
+      "description": "Sent by andrews54757 at 6/25/2025, 10:46:48 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "6x3x2",
+        "version": "1.21.4"
+      },
+      "path": "attachments/US002_potion_filter_global_clock_v2.litematic"
+    }
+  ],
+  "records": {
+    "description": "Sorts potions by their potion contents using comparator update detectors. Works by trying to brew a potion with a set ingredient.",
+    "features": [
+      "Hopperspeed and 2 wide (not tileable).",
+      "Consumes 1 blaze powder every 20 sorted potions.",
+      "Includes V2 which is smaller but is globally clocked (pulse 2 tick repeater)"
+    ],
+    "considerations": [
+      "Not tileable",
+      "Cannot differentiate between all potion types"
+    ],
+    "notes": "Put an ingredient item in the brewer to set what type(s) you want to filter. It's not consumed during filtering. [Showcase Video](https://www.youtube.com/watch?v=0b2GOj19gPY)"
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Comparator Update Detector",
+      "id": "1454753535919915098",
+      "url": "https://discord.com/channels/1375556143186837695/1454753535919915098/1454753536629018626",
+      "matches": [
+        "comparator update detector"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperspeed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "Hopperspeed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "tick",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "tick"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "forumId": "1375564342392786944",
+    "threadId": "1388317923575337011",
+    "continuingMessageIds": [
+      "1388317927870300271"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388317923575337011",
+    "attachmentMessageId": "1388178817557991587",
+    "uploadMessageId": "1388178810326749307"
+  },
+  "archivedAt": 1750973599550,
+  "updatedAt": 1750973599550
+}

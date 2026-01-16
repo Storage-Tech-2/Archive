@@ -1,0 +1,35 @@
+{
+  "id": "1375570772348764392",
+  "name": "autocrafting",
+  "code": "AC",
+  "category": "Item Processing",
+  "description": "Autocrafting devices, excluding crafter filter loaders",
+  "currentCodeId": 5,
+  "entries": [
+    {
+      "id": "1386528814389137518",
+      "code": "AC001",
+      "path": "AC001_Shulker_Box_Crafters"
+    },
+    {
+      "id": "1387317727060033669",
+      "code": "AC002",
+      "path": "AC002_Box_Crafter_Using_Mixed_Ingredient_Boxes"
+    },
+    {
+      "id": "1391820519988400168",
+      "code": "AC003",
+      "path": "AC003_1.21_Compact_SS2_1wABt_Crafter"
+    },
+    {
+      "id": "1391859709358903296",
+      "code": "AC004",
+      "path": "AC004_1.21_18gt_Box_Color_Swapper"
+    },
+    {
+      "id": "1386527611878117386",
+      "code": "AC005",
+      "path": "AC005_Filtered_Precision_Compactor_Crafter_Loaders"
+    }
+  ]
+}

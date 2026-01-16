@@ -1,0 +1,152 @@
+{
+  "id": "1387253213308129421",
+  "name": "Noteblock Placement Box Display",
+  "code": "OD003",
+  "reservedCodes": [
+    "OD003"
+  ],
+  "pastPostThreadIds": [
+    "1391808083189170357"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "624927906908471306",
+      "username": "obi81",
+      "iconURL": "https://cdn.discordapp.com/avatars/624927906908471306/5ca94a8774d0abe79d280eb3ec2978b0.webp",
+      "displayName": "Obi81"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "name": "Tested & Functional",
+      "id": "1385488480968118300"
+    },
+    {
+      "name": "Recommended",
+      "id": "1385789104012132466"
+    },
+    {
+      "name": "Auto Replacement",
+      "id": "1386201854257532949"
+    },
+    {
+      "name": "Reliable Collection",
+      "id": "1386201827846127667"
+    }
+  ],
+  "images": [
+    {
+      "id": "1387253214537187429",
+      "name": "powerfulboxdisplay.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387253213308129421/1387253214537187429/powerfulboxdisplay.png?ex=685cabbc&is=685b5a3c&hm=4bfee786c1f205a67be76e48976b37fb8ce921f2a7b00b78d174c88f7c7fd486&",
+      "description": "Sent by andrews54757 at 6/24/2025, 10:08:59 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 800,
+      "path": "images/powerfulboxdisplay.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1387253215288103054",
+      "name": "OD003_Noteblock_Box_Display.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387253213308129421/1387253215288103054/Noteblock_Box_Display.litematic?ex=685cabbc&is=685b5a3c&hm=483c28221f8724cc3508b30d4c5a8f940bb507d785a620397a49c6501eaf12d5&",
+      "description": "Sent by andrews54757 at 6/24/2025, 10:08:59 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "7x8x2",
+        "version": "1.18.2"
+      },
+      "path": "attachments/OD003_Noteblock_Box_Display.litematic"
+    },
+    {
+      "id": "1387253785709121586",
+      "name": "OD003_Noteblock_Box_Display_Hopper_Collection.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387253213308129421/1387253785709121586/Noteblock_Box_Display_Hopper_Collection.litematic?ex=685cac44&is=685b5ac4&hm=d55cf7c7fb375b98a5ed4b27258793c42de30fc9bcb2f02544a31263f7e1852e&",
+      "description": "Sent by andrews54757 at 6/24/2025, 10:11:16 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "7x9x2",
+        "version": "1.18.2"
+      },
+      "path": "attachments/OD003_Noteblock_Box_Display_Hopper_Collection.litematic"
+    }
+  ],
+  "records": {
+    "description": "Box display that places the 1st box when you click the noteblock, reducing size and manual effort.",
+    "features": [
+      "Fully hopper locked, minimum hoppers",
+      "Fast replacement with clean animation",
+      "Easy and compact 1st box placement by clicking the noteblock"
+    ],
+    "considerations": [
+      "Honey and slime",
+      "Noteblock may need 2 clicks to place the 1st box",
+      "Boxes are buffered in the accessible dropper/hopper"
+    ],
+    "notes": "Box collection isn't 100% reliable in the schematic but can be made reliable with this layout without hopperlocking the collection hoppers."
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Display",
+      "id": "1454753497638506689",
+      "url": "https://discord.com/channels/1375556143186837695/1454753497638506689/1454753498494144522",
+      "matches": [
+        "Box display"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Collection",
+      "id": "1454805930670559326",
+      "url": "https://discord.com/channels/1375556143186837695/1454805930670559326/1454805932532830268",
+      "matches": [
+        "Box collection"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Schematic",
+      "id": "1454811558009110704",
+      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
+      "matches": [
+        "schematic"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopperlocking",
+      "id": "1454753660625227895",
+      "url": "https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422",
+      "matches": [
+        "hopperlocking"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1391808083189170357",
+    "forumId": "1375561629378416740",
+    "continuingMessageIds": [
+      "1391808086544486634"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1391808083189170357",
+    "uploadMessageId": "1391808081935077537"
+  },
+  "archivedAt": 1751903304287,
+  "updatedAt": 1751903304287
+}

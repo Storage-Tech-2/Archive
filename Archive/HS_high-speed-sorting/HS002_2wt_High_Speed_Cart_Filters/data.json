@@ -1,0 +1,184 @@
+{
+  "id": "1386428992868978688",
+  "name": "2wt High Speed Cart Filters",
+  "code": "HS002",
+  "reservedCodes": [
+    "HS002"
+  ],
+  "pastPostThreadIds": [
+    "1457549165612630191"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "656864003242328064",
+      "displayName": "金合欢酱喵~ (acaciachan)",
+      "username": "acaciachan",
+      "iconURL": "https://cdn.discordapp.com/avatars/656864003242328064/65e1c203d9ea0af6509f0754122b45a2.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "1030772216561934397",
+      "username": "kaloncat",
+      "iconURL": "https://cdn.discordapp.com/avatars/1030772216561934397/660fac119bd0f63f131511fdc89f3def.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "name": "Cart Based",
+      "id": "1457548158954508392"
+    },
+    {
+      "name": "Tested & Functional",
+      "id": "1457548618276929638"
+    },
+    {
+      "name": "Recommended",
+      "id": "1457548618276929639"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386428993661571236",
+      "name": "63.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386428992868978688/1386428993661571236/63.png?ex=6859ac1e&is=68585a9e&hm=761a18cff2d2b54a68a7f6f1bc52e56a17dd9a912c4ca39fffb71b635640358c&",
+      "description": "Sent by andrews54757 at 6/22/2025, 3:33:50 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 633,
+      "path": "images/63.png"
+    },
+    {
+      "id": "1386428994135523399",
+      "name": "63a.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386428992868978688/1386428994135523399/63a.png?ex=6859ac1e&is=68585a9e&hm=006238ebf08c7559be3344d5610e8174b122cd9c477e7109e351c077cb85181e&",
+      "description": "Sent by andrews54757 at 6/22/2025, 3:33:50 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 604,
+      "path": "images/63a.png"
+    },
+    {
+      "id": "1386428994664271892",
+      "name": "310.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386428992868978688/1386428994664271892/310.png?ex=6859ac1e&is=68585a9e&hm=fb1c18aaf665e8eaf5de8ebb650d72707680dcff541aa383d4dc9bb58c76bce1&",
+      "description": "Sent by andrews54757 at 6/22/2025, 3:33:50 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 677,
+      "path": "images/310.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386428995033108643",
+      "name": "HS002_63x_cart_filter_2wt.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386428992868978688/1386428995033108643/63x_cart_filter_2wt.litematic?ex=6859ac1f&is=68585a9f&hm=0eb7b970f404565711cbc1b574ab6b6adb935934945efca73ad4fcca83fdae84&",
+      "description": "Sent by andrews54757 at 6/22/2025, 3:33:50 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "13x6x10",
+        "version": "1.20.1"
+      },
+      "path": "attachments/HS002_63x_cart_filter_2wt.litematic"
+    },
+    {
+      "id": "1386428995415048303",
+      "name": "HS002_63x_cart_filter_another_2wt.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386428992868978688/1386428995415048303/63x_cart_filter_another_2wt.litematic?ex=6859ac1f&is=68585a9f&hm=7e4188d13d8f769386e9748f47919e4eb097a0fd3eec80b5b5a2ef5dc5358816&",
+      "description": "Sent by andrews54757 at 6/22/2025, 3:33:50 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "13x6x12",
+        "version": "1.20.1"
+      },
+      "path": "attachments/HS002_63x_cart_filter_another_2wt.litematic"
+    },
+    {
+      "id": "1386428996069363803",
+      "name": "HS002_310x_cart_filter_3wt.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386428992868978688/1386428996069363803/310x_cart_filter_3wt.litematic?ex=6859ac1f&is=68585a9f&hm=06dec2036d15088d27651e0241aed50d464b65479098c8e7752f4cc78aec64b2&",
+      "description": "Sent by andrews54757 at 6/22/2025, 3:33:50 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "16x10x12",
+        "version": "1.20.1"
+      },
+      "path": "attachments/HS002_310x_cart_filter_3wt.litematic"
+    }
+  ],
+  "records": {
+    "description": "2 wide tilable cart based item type filters which can sort item entities at high speeds, allowing for subsequent loaders to forgo having filters.",
+    "features": [
+      "63x and 310x hopperspeed designs",
+      "2 wide tileable layouts"
+    ],
+    "considerations": [],
+    "notes": "Replace pink_glass in water stream with slime_block to make the item move slower if needed. At least 4 carts in each slice must be launched every time it turn on. Wait for 5x8gt after turning off before turning it on again.  \"another\" is another layout."
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperspeed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopperspeed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "gt",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1457549165612630191",
+    "forumId": "1457547442017800284",
+    "continuingMessageIds": [
+      "1457549172910588112"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1457549165612630191",
+    "uploadMessageId": "1457549160118223075"
+  },
+  "archivedAt": 1750621110942,
+  "updatedAt": 1767577196199
+}

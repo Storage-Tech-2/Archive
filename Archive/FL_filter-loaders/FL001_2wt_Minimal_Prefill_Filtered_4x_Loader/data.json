@@ -1,0 +1,177 @@
+{
+  "id": "1386091760710848542",
+  "name": "2wt Minimal Prefill Filtered 4x Loader",
+  "code": "FL001",
+  "reservedCodes": [
+    "FL001"
+  ],
+  "pastPostThreadIds": [
+    "1388316626327175210"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "656864003242328064",
+      "name": "acaciachan",
+      "displayName": "金合欢酱喵~ (acaciachan)",
+      "iconURL": "https://cdn.discordapp.com/avatars/656864003242328064/65e1c203d9ea0af6509f0754122b45a2.webp",
+      "username": "acaciachan"
+    },
+    {
+      "type": "discord-external",
+      "id": "1253968886240383080",
+      "username": "tuzier",
+      "iconURL": "https://cdn.discordapp.com/avatars/1253968886240383080/b20bd38452c858f195210ec8e77b1093.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488462563512408",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1386098024454815824",
+      "name": "8X Hopperspeed"
+    },
+    {
+      "id": "1386097039804465293",
+      "name": "4X Hopperspeed"
+    },
+    {
+      "id": "1385789080813436983",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386091762530910278",
+      "name": "Minimal_Prefill_4x.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386091760710848542/1386091762530910278/Minimal_Prefill_4x.png?ex=6858720c&is=6857208c&hm=71bfe97498163bce391cd3d1a23ea7f7f1e37744109e73608a8973ba5c7a6077&",
+      "description": "Sent by andrews54757 at 6/21/2025, 5:13:48 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 577,
+      "path": "images/Minimal_Prefill_4x.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386091763055202474",
+      "name": "FL001_Minimal_Prefill_4x.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386091760710848542/1386091763055202474/Minimal_Prefill_4x.litematic?ex=6858720c&is=6857208c&hm=a06efe8da531d9ba42a35a15ceeb687a48cd0c2f4460563f2ee4741b65be1ef9&",
+      "description": "Sent by andrews54757 at 6/21/2025, 5:13:48 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "4x10x14",
+        "version": "1.16"
+      },
+      "path": "attachments/FL001_Minimal_Prefill_4x.litematic"
+    }
+  ],
+  "records": {
+    "description": "Filters then loads items into boxes at 4x hopperspeed. Only requires prefilling a single hopper under each filter with a stack of the sorted item. Uses 2x filters that sync with hopper cooldown better than most high speed loaders. Two versions using different filters are provided: SS3 (2wABt) and SSI.",
+    "features": [
+      "No item spitting with random input",
+      "Relatively small footprint (SS3: 6x9x2; SSI: 7x10x2)",
+      "Minimal prefilling needed when setting up, only 64+1 of the desired item. Prefill [like so](https://discord.com/channels/748542142347083868/869352287708012634/869591141065039962)."
+    ],
+    "considerations": [
+      "An empty box needs to be put into the dispenser when first setting up"
+    ],
+    "notes": "You can find a different design suited for larger quantities of items in the thread."
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "4x",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "4x",
+        "hopperspeed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "2x",
+      "id": "1454753562033651876",
+      "url": "https://discord.com/channels/1375556143186837695/1454753562033651876/1454753563258519584",
+      "matches": [
+        "2x"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "ss",
+      "id": "1454754774833696893",
+      "url": "https://discord.com/channels/1375556143186837695/1454754774833696893/1454754775542267957",
+      "matches": [
+        "SS"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "2wABt",
+      "id": "1454753732293033984",
+      "url": "https://discord.com/channels/1375556143186837695/1454753732293033984/1454753733035687988",
+      "matches": [
+        "2wABt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "SSI",
+      "id": "1455820021581217843",
+      "url": "https://discord.com/channels/1375556143186837695/1455820021581217843/1455820022256500874",
+      "matches": [
+        "SSI"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/869352287708012634/869591141065039962",
+      "server": "748542142347083868",
+      "channel": "869352287708012634",
+      "message": "869591141065039962",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/869352287708012634/869591141065039962"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "forumId": "1375556999257002185",
+    "threadId": "1388316626327175210",
+    "continuingMessageIds": [
+      "1455357449816248443",
+      "1455357450558640295"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388316626327175210",
+    "attachmentMessageId": "1388177353695563806",
+    "uploadMessageId": "1388177345898348748"
+  },
+  "archivedAt": 1766901938599,
+  "updatedAt": 1750565056538
+}

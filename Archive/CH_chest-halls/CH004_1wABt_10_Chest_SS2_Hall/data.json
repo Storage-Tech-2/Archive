@@ -1,0 +1,137 @@
+{
+  "id": "1386926358281715784",
+  "name": "1wABt 10 Chest SS2 Hall",
+  "code": "CH004",
+  "reservedCodes": [
+    "CH004"
+  ],
+  "pastPostThreadIds": [
+    "1388317459878252595"
+  ],
+  "authors": [
+    {
+      "type": "unknown",
+      "username": "SamosTheSage"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488483170386069",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789106755473500",
+      "name": "Recommended"
+    },
+    {
+      "id": "1386099837115826406",
+      "name": "10 Chests"
+    },
+    {
+      "id": "1386699846542692493",
+      "name": "SS2"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386926358721986709",
+      "name": "SamosTheSage_10_Chest_SSI_Hall.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386926358281715784/1386926358721986709/SamosTheSage_10_Chest_SSI_Hall.png?ex=685b7b53&is=685a29d3&hm=2f594c30a6b13509fb31d2ed308836bdc4b3cde7b1e2b84fc275b16e644eee31&",
+      "description": "Sent by andrews54757 at 6/24/2025, 12:30:11 AM",
+      "canDownload": true,
+      "width": 800,
+      "height": 435,
+      "path": "images/SamosTheSage_10_Chest_SSI_Hall.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386926359149809664",
+      "name": "CH004_SamosTheSage_10_Chest_SSI_Hall.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386926358281715784/1386926359149809664/SamosTheSage_10_Chest_SSI_Hall.litematic?ex=685b7b53&is=685a29d3&hm=1b39684b5987c8cca4937a126ca90d67bc9e05d95a1dc16176d573a14b9fb655&",
+      "description": "Sent by andrews54757 at 6/24/2025, 12:30:11 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "33x18x3",
+        "version": "1.19.2"
+      },
+      "path": "attachments/CH004_SamosTheSage_10_Chest_SSI_Hall.litematic"
+    }
+  ],
+  "records": {
+    "description": "10 chests per slice chest hall design with SS2 filters.",
+    "features": [
+      "32 hoppers | 100% locked",
+      "10 items/slice.",
+      "SS2 filters. 6/10 of them are 8gt or less; 4/10 of them are 10gt.",
+      "All the display blocks can be solid.",
+      "No prefilling needed.",
+      "No dropper elevators.",
+      "Every filter hopper is accessible thanks to the scaffolding (optional)."
+    ],
+    "considerations": [],
+    "notes": ""
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Chest Hall",
+      "id": "1454753529700024331",
+      "url": "https://discord.com/channels/1375556143186837695/1454753529700024331/1454753530488426527",
+      "matches": [
+        "chest hall"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "ss",
+      "id": "1454754774833696893",
+      "url": "https://discord.com/channels/1375556143186837695/1454754774833696893/1454754775542267957",
+      "matches": [
+        "SS"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "gt",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "forumId": "1375561810392125510",
+    "threadId": "1388317459878252595",
+    "continuingMessageIds": [
+      "1388317463036297308"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388317459878252595",
+    "attachmentMessageId": "1388178430427926642",
+    "uploadMessageId": "1388178422693625907"
+  },
+  "archivedAt": 1751161587098,
+  "updatedAt": 1751161587098
+}

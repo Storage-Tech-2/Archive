@@ -1,0 +1,140 @@
+{
+  "id": "1412245946708005004",
+  "name": "Duration-based Music Disc Sorter",
+  "code": "US007",
+  "reservedCodes": [
+    "US007"
+  ],
+  "pastPostThreadIds": [
+    "1412276518188486796"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1202027269338697788",
+      "displayName": "0wUCat",
+      "username": "0wucat_73519",
+      "iconURL": "https://cdn.discordapp.com/embed/avatars/1.png"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1387481053450604644",
+      "name": "Music Discs"
+    }
+  ],
+  "images": [
+    {
+      "id": "1412245947244744704",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1412245946708005004/1412245947244744704/image.png?ex=68b79808&is=68b64688&hm=d0260ac6efc1f02bf0d4e16fece8df4d5566d12e3b3e73a6b3ce335660c29344&",
+      "description": "Sent by 0wucat_73519 at 9/1/2025, 9:21:11 PM",
+      "canDownload": true,
+      "width": 792,
+      "height": 800,
+      "path": "images/image.png"
+    },
+    {
+      "id": "1412245947987267614",
+      "name": "image_1.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1412245946708005004/1412245947987267614/image.png?ex=68b79808&is=68b64688&hm=f64c6037d707ed8c33c8048612eb54fe950fd6728b85867579965c6adec3f0b5&",
+      "description": "Sent by 0wucat_73519 at 9/1/2025, 9:21:11 PM",
+      "canDownload": true,
+      "width": 739,
+      "height": 800,
+      "path": "images/image_1.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1412245948293316699",
+      "name": "US007_juke_length_sorter.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1412245946708005004/1412245948293316699/juke_length_sorter.litematic?ex=68b79808&is=68b64688&hm=91f85a52d801686f54a35f0e1236fcaa63fe3105e61ad19163bddda8da948be5&",
+      "description": "Sent by 0wucat_73519 at 9/1/2025, 9:21:11 PM",
+      "canDownload": true,
+      "path": "attachments/US007_juke_length_sorter.litematic",
+      "litematic": {
+        "size": "16x7x15",
+        "version": "1.21.4"
+      }
+    },
+    {
+      "id": "1412245948616146984",
+      "name": "US007_juke_prechecker.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1412245946708005004/1412245948616146984/juke_prechecker.litematic?ex=68b79808&is=68b64688&hm=d829bcd20c72e58bb01fab8aa28b0603a13e87d25f59f7cb952d39b3a8f64e7d&",
+      "description": "Sent by 0wucat_73519 at 9/1/2025, 9:21:11 PM",
+      "canDownload": true,
+      "path": "attachments/US007_juke_prechecker.litematic",
+      "litematic": {
+        "size": "5x4x8",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A device that uses the duration of a music disc to sort discs with the same signal strength.",
+    "features": [
+      "Includes schematic for a hopperspeed prechecker device which checks if an item is a musc disc and has a signal strength of 9-14 first before sending to length based sorter.",
+      "Can discriminate strad, wait, 11, ward, otherside, pigstep, relic, precipice, creator (music box version), creator, lava chicken, and tears music discs."
+    ],
+    "considerations": [
+      "The Prechecker and the length sorter can be fully hopperlocked with additional wiring, but is not included in the schematic",
+      "Prechecker has an idle cart"
+    ],
+    "notes": "The magenta glazed terracotta in the sorter part are discs that need swapping in the output stream for proper arrangement in the ROM. Works with all discs from 1.21.8 and below, do not change rom as it needs to be ordered in a certain way"
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Schematic",
+      "id": "1454811558009110704",
+      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
+      "matches": [
+        "schematic"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperspeed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopperspeed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperlocked",
+      "id": "1454753660625227895",
+      "url": "https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422",
+      "matches": [
+        "hopperlocked"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1412276518188486796",
+    "forumId": "1375564342392786944",
+    "continuingMessageIds": [
+      "1412276524354371594"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1412276518188486796",
+    "uploadMessageId": "1412276515109867691"
+  },
+  "archivedAt": 1756783359684,
+  "updatedAt": 1756783359684
+}

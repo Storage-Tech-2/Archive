@@ -1,0 +1,188 @@
+{
+  "id": "1401371516389687346",
+  "name": "Unencoded Variable Box Temp",
+  "code": "VBS002",
+  "reservedCodes": [
+    "VBS002"
+  ],
+  "pastPostThreadIds": [
+    "1401376236223074426"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1207492489880277073",
+      "displayName": "vincent",
+      "username": "tacren_66869",
+      "iconURL": "https://cdn.discordapp.com/embed/avatars/5.png"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "1068798858676686848",
+      "displayName": "77777777777777777777",
+      "username": "777777777777777777774832",
+      "iconURL": "https://cdn.discordapp.com/avatars/1068798858676686848/9c8fd7932d9c0072be4f3d559abe76b8.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "1055842182982021144",
+      "displayName": "insto",
+      "username": "ionstrin",
+      "iconURL": "https://cdn.discordapp.com/avatars/1055842182982021144/9d55faf9fe9c535c67f31c8b069454db.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "1165983253493198972",
+      "username": "wreg_",
+      "reason": "Original unencoded temp idea using CUDs",
+      "dontDisplay": true,
+      "displayName": "wreg",
+      "iconURL": "https://cdn.discordapp.com/avatars/1165983253493198972/4eae41af71aa41964fa5815ef233af80.webp"
+    },
+    {
+      "type": "unknown",
+      "username": "雨天",
+      "reason": "Original unencoded temp idea using CUDs",
+      "dontDisplay": true
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488520579252261",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1401371518780313721",
+      "name": "area_render_107_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1401371516389687346/1401371518780313721/area_render_107_.png?ex=6890086e&is=688eb6ee&hm=e42d6ba8f8a54c23837f39d28ab0a2733f66fc9e992b4e496e3f549e5b56ec2b&",
+      "description": "Sent by andrews54757 at 8/2/2025, 9:10:05 PM",
+      "canDownload": true,
+      "width": 784,
+      "height": 626,
+      "path": "images/area_render_107_.png"
+    },
+    {
+      "id": "1401371518344101919",
+      "name": "area_render_108_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1401371516389687346/1401371518344101919/area_render_108_.png?ex=6890086e&is=688eb6ee&hm=594318098f1112031c5a6fa365ea818a4cc349174d211a3a4657ac2bcdf295c6&",
+      "description": "Sent by andrews54757 at 8/2/2025, 9:10:05 PM",
+      "canDownload": true,
+      "width": 432,
+      "height": 602,
+      "path": "images/area_render_108_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1401371517840920686",
+      "name": "VBS002_unencoded_variable_temp.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1401371516389687346/1401371517840920686/unencoded_variable_temp.litematic?ex=6890086e&is=688eb6ee&hm=032fbe97f157a4f53df69b60c08773fd0e876bf8e20461d8c3c4547e4c232378&",
+      "description": "Sent by andrews54757 at 8/2/2025, 9:10:05 PM",
+      "canDownload": true,
+      "path": "attachments/VBS002_unencoded_variable_temp.litematic",
+      "litematic": {
+        "size": "8x11x31",
+        "version": "1.21"
+      }
+    }
+  ],
+  "records": {
+    "description": "Stores a partial box until another partial box with the same item type is input, after which both are output for merging. Despite being an unencoded system, this device is capable of quick access using a CUD based integrated variable \"encoder.\"",
+    "features": [
+      "Up to 312 item types, 26 types in 12 slices.",
+      "Uses CUDs and a built in variable encoder-like device to quickly identify slices storing a specific type. Takes only 70gt to insert a box if no match is found.",
+      "Even distribution of boxes across slices during initial filling. Afterwards, boxes are put in from furthest to closest slice to the input.",
+      "Automatic ejection of overflow when there is no more capacity.",
+      "Built-in item aligner for direct input into mergers",
+      "Pauseable"
+    ],
+    "considerations": [
+      "If a matching item type box is stored, the boxes in a matched slice are cycled through a variable box filter which can take up to 8*26 = 208 gt extra.",
+      "Expanding the design to store more item types is not straightforward"
+    ],
+    "notes": "Press the wooden button to start processing input. Flip the lever on the yellow concrete block to pause the system. Can theoretically work in Minecraft 1.16+"
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "CUD",
+      "id": "1454753535919915098",
+      "url": "https://discord.com/channels/1375556143186837695/1454753535919915098/1454753536629018626",
+      "matches": [
+        "CUD"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Encoder",
+      "id": "1454753601967624213",
+      "url": "https://discord.com/channels/1375556143186837695/1454753601967624213/1454753602802548800",
+      "matches": [
+        "encoder"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "gt",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Aligner",
+      "id": "1454753442471084134",
+      "url": "https://discord.com/channels/1375556143186837695/1454753442471084134/1454753443678916638",
+      "matches": [
+        "aligner"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Merger",
+      "id": "1454753701204987938",
+      "url": "https://discord.com/channels/1375556143186837695/1454753701204987938/1454753702773526549",
+      "matches": [
+        "merger"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1401376236223074426",
+    "forumId": "1375570066451599401",
+    "continuingMessageIds": [
+      "1401376239792689152",
+      "1454756270497075254"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1401376236223074426",
+    "uploadMessageId": "1401376233270280283"
+  },
+  "archivedAt": 1754184552012,
+  "updatedAt": 1754184552012
+}

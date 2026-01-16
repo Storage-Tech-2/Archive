@@ -1,0 +1,159 @@
+{
+  "id": "1386840858355040346",
+  "name": "1wt 1x Precision Loader",
+  "code": "FL002",
+  "reservedCodes": [
+    "FL002"
+  ],
+  "pastPostThreadIds": [
+    "1388316649903624192"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "719903397171560559",
+      "username": "pyraleftt",
+      "iconURL": "https://cdn.discordapp.com/avatars/719903397171560559/7ba08c1c9ee4d550dae6dd373cf9fabe.webp",
+      "displayName": "PyraLeft"
+    },
+    {
+      "type": "discord-external",
+      "id": "691307198193598485",
+      "username": "eirikls",
+      "iconURL": "https://cdn.discordapp.com/avatars/691307198193598485/01fc7522a42f8cfe8dcdffdb3a1d691d.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488462563512408",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1386096970988257380",
+      "name": "1X Hopperspeed"
+    },
+    {
+      "id": "1386096904131186870",
+      "name": "Slice Preserving"
+    },
+    {
+      "id": "1385789080813436983",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386840859588427777",
+      "name": "1x_Precison_Loader_SS3SSI_Hopper_and_Water_Output.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386840858355040346/1386840859588427777/1x_Precison_Loader_SS3SSI_Hopper_and_Water_Output.png?ex=685b2bb3&is=6859da33&hm=7f8c449cca7b21e3f500cf9db82e14c7ed57417b6e8a9c5878c9e96f72bdadb9&",
+      "description": "Sent by andrews54757 at 6/23/2025, 6:50:26 PM",
+      "canDownload": true,
+      "width": 670,
+      "height": 800,
+      "path": "images/1x_Precison_Loader_SS3SSI_Hopper_and_Water_Output.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386840860079030322",
+      "name": "FL002_1x_Precison_Loader_SS3SSI_Hopper_and_Water_Output.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386840858355040346/1386840860079030322/1x_Precison_Loader_SS3SSI_Hopper_and_Water_Output.litematic?ex=685b2bb3&is=6859da33&hm=79aeca0bfaa40a37e5e7a9cb2974a3665c4895b505858586df09618f02304db7&",
+      "description": "Sent by andrews54757 at 6/23/2025, 6:50:26 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "10x11x13",
+        "version": "1.14"
+      },
+      "path": "attachments/FL002_1x_Precison_Loader_SS3SSI_Hopper_and_Water_Output.litematic"
+    },
+    {
+      "id": "1386840860444069908",
+      "name": "FL002_119_1x_Precison_Loader_SS3SSI_Water_Output.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386840858355040346/1386840860444069908/1.19_1x_Precison_Loader_SS3SSI_Water_Output.litematic?ex=685b2bb3&is=6859da33&hm=e2042b6483a0f7bb33891e04d78425a50d0a61f0e7aa566c95f7824abb59b93a&",
+      "description": "Sent by andrews54757 at 6/23/2025, 6:50:26 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "10x10x18",
+        "version": "1.18.2"
+      },
+      "path": "attachments/FL002_119_1x_Precison_Loader_SS3SSI_Water_Output.litematic"
+    }
+  ],
+  "records": {
+    "description": "Filters and loads items into boxes at hopperspeed.  Slice preserving box breaking mechanism ensures that no box items land in adjacent slices.",
+    "features": [
+      "1-wide tileable",
+      "Small size (7x9 for the SS3 version)",
+      "Precision box breaking: reliable slice-preserving box pickup",
+      "No toggle states",
+      "No buffered boxes",
+      "Signal strength 1 and signal strength 2 filter variants available."
+    ],
+    "considerations": [],
+    "notes": "- Replace glass with solid blocks and remove the composters in 1.13 and below\n- Replace noteblocks with trapdoors and the updater noteblocks in the water output versions with alternating rails in 1.12 and below"
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperspeed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopperspeed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "Slice",
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "ss",
+      "id": "1454754774833696893",
+      "url": "https://discord.com/channels/1375556143186837695/1454754774833696893/1454754775542267957",
+      "matches": [
+        "SS"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Toggle state",
+      "id": "1454754804252282910",
+      "url": "https://discord.com/channels/1375556143186837695/1454754804252282910/1454754804881428533",
+      "matches": [
+        "toggle state"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "forumId": "1375556999257002185",
+    "threadId": "1388316649903624192",
+    "continuingMessageIds": [
+      "1388316652004966404"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388316649903624192",
+    "attachmentMessageId": "1388177392824094822",
+    "uploadMessageId": "1388177385291120824"
+  },
+  "archivedAt": 1750719849119,
+  "updatedAt": 1750719849119
+}

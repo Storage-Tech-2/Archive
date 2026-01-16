@@ -1,0 +1,42 @@
+{
+  "id": "1454754780273574001",
+  "terms": [
+    "Temp Storage"
+  ],
+  "definition": "Short for \"temporary storage\". It's not a way to refer to a storage system that will only be used temporarily. It refers to a storage system in which boxes are stored temporarily, usually until a second box of the same item type reaches the system and they can be combined in a Merger and then be sent to a more final storage (like Bulk Storage, Chest Hall or others).",
+  "threadURL": "https://discord.com/channels/1375556143186837695/1454754780273574001",
+  "statusURL": "https://discord.com/channels/1375556143186837695/1454754780273574001/1454754781196451978",
+  "status": "APPROVED",
+  "statusMessageID": "1454754781196451978",
+  "updatedAt": 1766910968600,
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Merger",
+      "id": "1454753701204987938",
+      "url": "https://discord.com/channels/1375556143186837695/1454753701204987938/1454753702773526549",
+      "matches": [
+        "Merger"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Bulk Storage",
+      "id": "1454753523668484213",
+      "url": "https://discord.com/channels/1375556143186837695/1454753523668484213/1454753524637499577",
+      "matches": [
+        "Bulk Storage"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Chest Hall",
+      "id": "1454753529700024331",
+      "url": "https://discord.com/channels/1375556143186837695/1454753529700024331/1454753530488426527",
+      "matches": [
+        "Chest Hall"
+      ]
+    }
+  ],
+  "referencedBy": []
+}

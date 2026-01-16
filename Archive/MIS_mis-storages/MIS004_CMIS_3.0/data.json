@@ -1,0 +1,215 @@
+{
+  "id": "1387111186075488287",
+  "name": "CMIS 3.0",
+  "code": "MIS004",
+  "reservedCodes": [
+    "MIS004"
+  ],
+  "pastPostThreadIds": [
+    "1388318106086015129"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "142441395095863296",
+      "username": "civicdude",
+      "iconURL": "https://cdn.discordapp.com/avatars/142441395095863296/dcf48bee377748f5809116893cac5bae.webp",
+      "displayName": "Civic Dude"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488504204562637",
+      "name": "Untested"
+    }
+  ],
+  "images": [
+    {
+      "id": "1387111187182780476",
+      "name": "area_render_41_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387111186075488287/1387111187182780476/area_render_41_.png?ex=685c2776&is=685ad5f6&hm=b3494017511d8d9b4ec8311b49987a6831e90244ce2b7d191ce05c7b16451011&",
+      "description": "Sent by andrews54757 at 6/24/2025, 12:44:38 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 564,
+      "path": "images/area_render_41_.png"
+    },
+    {
+      "id": "1387111188097400903",
+      "name": "area_render_42_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387111186075488287/1387111188097400903/area_render_42_.png?ex=685c2776&is=685ad5f6&hm=db9c97bb613ad926692cf60edc7015a7d165cec3d9650254d23470fbcc7bfa9b&",
+      "description": "Sent by andrews54757 at 6/24/2025, 12:44:38 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 551,
+      "path": "images/area_render_42_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1387111188487208980",
+      "name": "MIS004_CMIS-V3.2.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387111186075488287/1387111188487208980/CMIS-V3.2.litematic?ex=685c2776&is=685ad5f6&hm=41a9ed565771d4cbe81b8246f59168ea481ce5701a844559d123db0076178c60&",
+      "description": "Sent by andrews54757 at 6/24/2025, 12:44:38 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "90x41x89",
+        "version": "1.21"
+      },
+      "path": "attachments/MIS004_CMIS-V3.2.litematic"
+    }
+  ],
+  "records": {
+    "description": "CMIS 3.0 is a complete storage system designed for single player or small server use, to sort and store almost every item in 1.20+ within a reasonably compact user interface. The system utilizes a combination of Variable Sorting and Encoded Storage, as well as Shulker Box Sorters for additional local \"pseudoBulk\" storage of up to 80 different item types. Auto and Manual Restocking logic is included for the (up to) 62 different BULK item types, with parallelized MIS sorting for greater efficiency.",
+    "features": [
+      "Variable Sorting, using Splitters, Whitelisters, Groupers and Mergers",
+      "Encoded Bulk Storage",
+      "Restocking built-in",
+      "Simple UI",
+      "Remote Bulk (place those laggy hoppers far away from main base!)"
+    ],
+    "considerations": [
+      "Bulk items will \"buffer\" up to a full box in the sorting system before sending to storage.",
+      "No first box placement (please see helper doc for recommended usage)"
+    ],
+    "sourced components": [
+      "Most Variable Components created by JayRoi, but modified by me for this application",
+      "Remote Bulk Storage assembled by JayRoi (Others' components, but assembled for me by JayRoi)",
+      "MIS 4.2 by DatNerd, RaPsCaLLioN1138, and metamilo",
+      "MIS 4.2 Item Gate by Walter",
+      "Shulker Box Sorter by acaciachan",
+      "Unstackable Sorter by 77",
+      "Shulker Based Chunk Loader by: Kahyxen",
+      "Too many more to fully list out here."
+    ],
+    "notes": "Please read through the Helper Doc for notes and recommended usage guide. It should help answer questions you may have: https://docs.google.com/document/d/1DmgJ8bP_PfPDhblRkjGzzps4gjStQry--KjlQabvRXk/edit#heading=h.om2co7r3xq9n"
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "User interface",
+      "id": "1454754844316274861",
+      "url": "https://discord.com/channels/1375556143186837695/1454754844316274861/1454754845033627671",
+      "matches": [
+        "user interface",
+        "UI"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Variable sort",
+      "id": "1454754850322649100",
+      "url": "https://discord.com/channels/1375556143186837695/1454754850322649100/1454754852465807504",
+      "matches": [
+        "Variable Sort"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Encoded",
+      "id": "1454753595424505866",
+      "url": "https://discord.com/channels/1375556143186837695/1454753595424505866/1454753596133605426",
+      "matches": [
+        "Encoded"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Sorter",
+      "id": "1454753516269736090",
+      "url": "https://discord.com/channels/1375556143186837695/1454753516269736090/1454753518383792221",
+      "matches": [
+        "Box Sorter"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Local",
+      "id": "1454753648574992557",
+      "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
+      "matches": [
+        "local"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "MIS",
+      "id": "1454753725091676293",
+      "url": "https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954",
+      "matches": [
+        "MIS"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "splitter",
+      "id": "1454754768088989789",
+      "url": "https://discord.com/channels/1375556143186837695/1454754768088989789/1454754769674567868",
+      "matches": [
+        "Splitter"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Merger",
+      "id": "1454753701204987938",
+      "url": "https://discord.com/channels/1375556143186837695/1454753701204987938/1454753702773526549",
+      "matches": [
+        "Merger"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Bulk Storage",
+      "id": "1454753523668484213",
+      "url": "https://discord.com/channels/1375556143186837695/1454753523668484213/1454753524637499577",
+      "matches": [
+        "Bulk Storage"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Unstackable sorter",
+      "id": "1454754837379022858",
+      "url": "https://discord.com/channels/1375556143186837695/1454754837379022858/1454754839224516712",
+      "matches": [
+        "Unstackable Sorter"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Chunk loader",
+      "id": "1457055322647695542",
+      "url": "https://discord.com/channels/1375556143186837695/1457055322647695542/1457055324426080287",
+      "matches": [
+        "Chunk Loader"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "forumId": "1375566804910604349",
+    "threadId": "1388318106086015129",
+    "continuingMessageIds": [
+      "1388318111874420772",
+      "1454755957157658789"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388318106086015129",
+    "attachmentMessageId": "1388179058046795778",
+    "uploadMessageId": "1388179048999686214"
+  },
+  "archivedAt": 1755284286128,
+  "updatedAt": 1755284286128
+}

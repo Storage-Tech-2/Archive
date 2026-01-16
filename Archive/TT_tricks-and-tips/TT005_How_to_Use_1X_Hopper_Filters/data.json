@@ -1,0 +1,106 @@
+{
+  "id": "1386222661037985933",
+  "name": "How to Use 1X Hopper Filters",
+  "code": "TT005",
+  "reservedCodes": [
+    "TT005"
+  ],
+  "pastPostThreadIds": [
+    "1457547036294385892"
+  ],
+  "authors": [],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "name": "Recommended",
+      "id": "1388657843774816395"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386222661323194428",
+      "name": "filters.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386222661037985933/1386222661323194428/filters.png?ex=6858ebf5&is=68579a75&hm=b0a1c70ede2b1c19defb7147ae1f87da963df04a02a093b912a4e24b8ee921e2&",
+      "description": "Sent by andrews54757 at 6/22/2025, 1:53:57 AM",
+      "canDownload": true,
+      "width": 800,
+      "height": 489,
+      "path": "images/filters.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386222661553623070",
+      "name": "TT005_basic_fixed_filters.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386222661037985933/1386222661553623070/basic_fixed_filters.litematic?ex=6858ebf5&is=68579a75&hm=9a24119d9407405e86457378b6a55b6dcb9f22cad18379abf1216ed52ca01cf2&",
+      "description": "Sent by andrews54757 at 6/22/2025, 1:53:57 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "1x4x12",
+        "version": "1.21.4"
+      },
+      "path": "attachments/TT005_basic_fixed_filters.litematic"
+    }
+  ],
+  "records": {
+    "description": "The top-most hopper will only suck items that have a certain item type at hopperspeed (1 item/8gt or 2.5 items/sec). Two variants are common: Signal Strength 2 (SS2) and Signal Strength 3 (SS3) filters.",
+    "features": [
+      "Basic designs with inventory setup guide"
+    ],
+    "considerations": [
+      "SS2 filter is not 1 wide tileable, you must A/B tile"
+    ],
+    "notes": ""
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperspeed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopperspeed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "gt",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "ss",
+      "id": "1454754774833696893",
+      "url": "https://discord.com/channels/1375556143186837695/1454754774833696893/1454754775542267957",
+      "matches": [
+        "SS"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1457547036294385892",
+    "forumId": "1388657467508133928",
+    "continuingMessageIds": [
+      "1457547042036650056"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1457547036294385892",
+    "uploadMessageId": "1457547033886851093"
+  },
+  "archivedAt": 1750571980621,
+  "updatedAt": 1767576689265
+}

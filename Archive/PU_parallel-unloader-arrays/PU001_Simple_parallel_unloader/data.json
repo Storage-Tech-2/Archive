@@ -1,0 +1,128 @@
+{
+  "id": "1386458979843969024",
+  "name": "Simple parallel unloader",
+  "code": "PU001",
+  "reservedCodes": [
+    "PU001"
+  ],
+  "pastPostThreadIds": [
+    "1388318262839742555"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "889866137184137238",
+      "username": "bipim",
+      "displayName": "bipim",
+      "iconURL": "https://cdn.discordapp.com/avatars/889866137184137238/7e7a059e3e137003a2abe1a91499f786.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "297566644295827457",
+      "username": "walter7381",
+      "iconURL": "https://cdn.discordapp.com/avatars/297566644295827457/e8c32e9b66251cd84d0ff09adc818410.webp",
+      "displayName": "Walter"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "831969094797361193",
+      "username": "valblaze",
+      "displayName": "ValBlaze",
+      "iconURL": "https://cdn.discordapp.com/avatars/831969094797361193/a25d7d10ee9e988720bc3eefe02eeaf7.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488516309450759",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1344506311580061769",
+      "name": "simple_parallel_unloader_v3.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/749137424684285992/1344506311580061769/simple_parallel_unloader_v3.png?ex=68596dd4&is=68581c54&hm=5406c21cde59c1275f0e2c0fcebb8abd4d0bd748c2da347df212006981c05f36&",
+      "description": "[DiscordCDN] Sent by valblaze at 6/22/2025, 5:42:04 PM",
+      "canDownload": true,
+      "width": 669,
+      "height": 800,
+      "path": "images/simple_parallel_unloader_v3.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1344506311861211176",
+      "name": "PU001_Simple_parallel_unloader_V3_SS2.litematic",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/749137424684285992/1344506311861211176/Simple_parallel_unloader_V3_SS2.litematic?ex=68596dd4&is=68581c54&hm=e62b9af526487eba9f8b6e86f5d157f8d2d637b24c201f637d4dc4c221d70e21&",
+      "description": "[DiscordCDN] Sent by valblaze at 6/22/2025, 5:36:43 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "12x22x17",
+        "version": "1.21.1"
+      },
+      "path": "attachments/PU001_Simple_parallel_unloader_V3_SS2.litematic"
+    },
+    {
+      "id": "1344506312234635274",
+      "name": "PU001_Simple_parallel_unloader_V3_SS3.litematic",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/749137424684285992/1344506312234635274/Simple_parallel_unloader_V3_SS3.litematic?ex=68596dd4&is=68581c54&hm=48168bcaa39f4eebd4b225ab00d6cbe0d3474b7cf36805927bc1c0b3497415f5&",
+      "description": "[DiscordCDN] Sent by valblaze at 6/22/2025, 5:37:12 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "12x22x17",
+        "version": "1.21.1"
+      },
+      "path": "attachments/PU001_Simple_parallel_unloader_V3_SS3.litematic"
+    }
+  ],
+  "records": {
+    "description": "Simple parallel unloader",
+    "features": [
+      "Unloads items at around 3-4x hopper speed (based on samples from real world item sets)",
+      "Separates empty boxes and unstackables into their own output",
+      "Simple logic reduces points of failure. Doesn't require filter items or sophisticated box processing.",
+      "Batches 16 stackables to either 5 or 10"
+    ],
+    "considerations": [],
+    "notes": ""
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Unloader",
+      "id": "1454754824758493380",
+      "url": "https://discord.com/channels/1375556143186837695/1454754824758493380/1454754825345433803",
+      "matches": [
+        "unloader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "4x",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "4x",
+        "hopper speed"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "forumId": "1375569870577467412",
+    "threadId": "1388318262839742555",
+    "continuingMessageIds": [
+      "1388318266098843678"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388318262839742555",
+    "attachmentMessageId": "1388179221599223853",
+    "uploadMessageId": "1388179211591614506"
+  },
+  "archivedAt": 1750628874967,
+  "updatedAt": 1750628874967
+}

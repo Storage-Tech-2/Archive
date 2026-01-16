@@ -1,0 +1,164 @@
+{
+  "id": "1388031532282937445",
+  "name": "Tiny 1x Box Unloader",
+  "code": "BU007",
+  "reservedCodes": [
+    "BU007"
+  ],
+  "pastPostThreadIds": [
+    "1388330669297631393"
+  ],
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "1234197202193219644",
+      "username": "koalus69",
+      "iconURL": "https://cdn.discordapp.com/avatars/1234197202193219644/9484efd5ab87fff26a62c943bc2dc55f.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "656864003242328064",
+      "displayName": "金合欢酱喵~ (acaciachan)",
+      "username": "acaciachan",
+      "iconURL": "https://cdn.discordapp.com/avatars/656864003242328064/65e1c203d9ea0af6509f0754122b45a2.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1386248557111017532",
+      "name": "1X Hopperspeed"
+    },
+    {
+      "id": "1385488474148438035",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789096542081145",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1388031533235048489",
+      "name": "area_render_3.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1388031532282937445/1388031533235048489/area_render_3.png?ex=685f8099&is=685e2f19&hm=b5d54b75b21a3fd2bc6bc40b9bfaf4cdf3188c35f5652c32389f2dd1827d52d9&",
+      "description": "Sent by andrews54757 at 6/27/2025, 1:41:45 AM",
+      "canDownload": true,
+      "width": 254,
+      "height": 358,
+      "path": "images/area_render_3.png"
+    },
+    {
+      "id": "1388031533683707954",
+      "name": "area_render_4.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1388031532282937445/1388031533683707954/area_render_4.png?ex=685f809a&is=685e2f1a&hm=e6ae859f9bfa8a5b565a9b19ac3a80d4007522982b610afab07252a10d053792&",
+      "description": "Sent by andrews54757 at 6/27/2025, 1:41:45 AM",
+      "canDownload": true,
+      "width": 254,
+      "height": 310,
+      "path": "images/area_render_4.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1388031534107459644",
+      "name": "BU007_small_box_unloader_-_fast_box_replacement.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1388031532282937445/1388031534107459644/small_box_unloader_-_fast_box_replacement.litematic?ex=685f809a&is=685e2f1a&hm=879fa1c53f3045d9bd7acf467fcc761099ec52868a073d3b4053c9df1dc55255&",
+      "description": "Sent by andrews54757 at 6/27/2025, 1:41:45 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "1x6x5",
+        "version": "1.18.2"
+      },
+      "path": "attachments/BU007_small_box_unloader_-_fast_box_replacement.litematic"
+    },
+    {
+      "id": "1388031534442741770",
+      "name": "BU007_1x_box_unloader_-_empty_box_handling.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1388031532282937445/1388031534442741770/1x_box_unloader_-_empty_box_handling.litematic?ex=685f809a&is=685e2f1a&hm=a67dd02b5c1563e2c809ec0e29b013ac03c7a214c24f0b6a79a14626a700b3b9&",
+      "description": "Sent by andrews54757 at 6/27/2025, 1:41:45 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "1x7x5",
+        "version": "1.18.2"
+      },
+      "path": "attachments/BU007_1x_box_unloader_-_empty_box_handling.litematic"
+    }
+  ],
+  "records": {
+    "description": "Tiny hopperspeed box unloaders without using toggle states.",
+    "features": [
+      "Empty box handling variant and fast box replacement variant included",
+      "Automatic first box placement",
+      "Super small size",
+      "Togglestateless"
+    ],
+    "considerations": [
+      "Very rare chance of box ending up in item output if adjacent slices are broken simultaneously. Tile every two blocks to avoid this issue."
+    ],
+    "notes": ""
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperspeed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopperspeed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Unloader",
+      "id": "1454754824758493380",
+      "url": "https://discord.com/channels/1375556143186837695/1454754824758493380/1454754825345433803",
+      "matches": [
+        "unloader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Toggle state",
+      "id": "1454754804252282910",
+      "url": "https://discord.com/channels/1375556143186837695/1454754804252282910/1454754804881428533",
+      "matches": [
+        "toggle state"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1388330669297631393",
+    "forumId": "1375560446676963450",
+    "continuingMessageIds": [
+      "1388330672313077903"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388330669297631393",
+    "uploadMessageId": "1388330667141627976"
+  },
+  "archivedAt": 1751650739913,
+  "updatedAt": 1751650739913
+}

@@ -1,0 +1,112 @@
+{
+  "id": "1388023798950924308",
+  "name": "Chart of 1wt auto-droppers",
+  "code": "DT003",
+  "reservedCodes": [
+    "DT003"
+  ],
+  "pastPostThreadIds": [
+    "1388317521471475722"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "297566644295827457",
+      "username": "walter7381",
+      "iconURL": "https://cdn.discordapp.com/avatars/297566644295827457/e8c32e9b66251cd84d0ff09adc818410.webp",
+      "displayName": "Walter"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488487742046215",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789112375840830",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1388023799580065852",
+      "name": "autodropper_lable_5.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1388023798950924308/1388023799580065852/autodropper_lable_5.png?ex=685f7966&is=685e27e6&hm=4b7bcf63df5c95345635f8b4e070ce1100bf1986b2abcbd3297a346533a7469e&",
+      "description": "Sent by andrews54757 at 6/27/2025, 1:11:01 AM",
+      "canDownload": true,
+      "width": 800,
+      "height": 440,
+      "path": "images/autodropper_lable_5.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1388023799953227828",
+      "name": "DT003_AutoDropper_Collection.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1388023798950924308/1388023799953227828/AutoDropper_Collection.litematic?ex=685f7966&is=685e27e6&hm=932158059f7978fb7871ea6bb44a2a7c018d657e8a10da84e327afdc6995a19a&",
+      "description": "Sent by andrews54757 at 6/27/2025, 1:11:01 AM",
+      "canDownload": true,
+      "litematic": {
+        "size": "2x19x34",
+        "version": "1.16.5"
+      },
+      "path": "attachments/DT003_AutoDropper_Collection.litematic"
+    }
+  ],
+  "records": {
+    "description": "A collection of various circuits that automatically drop all received items as entities. The blue designs on the left are 2x hopper speed and the ones on the right are 1x.",
+    "features": [
+      "All designs except C3 and D3 are unbreakable with random input"
+    ],
+    "considerations": [
+      "The piston in C3 will clock when receiving items and power the dropper twice as often then needed",
+      "C3 and D3 may break if they are powered externally or if they receive items at greater than 1x speed"
+    ],
+    "notes": ""
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "2x",
+      "id": "1454753562033651876",
+      "url": "https://discord.com/channels/1375556143186837695/1454753562033651876/1454753563258519584",
+      "matches": [
+        "2x"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopper speed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopper speed",
+        "1x"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1388317521471475722",
+    "forumId": "1375563020478058557",
+    "continuingMessageIds": [
+      "1388317525351337985"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388317521471475722",
+    "uploadMessageId": "1388195190900134069",
+    "attachmentMessageId": "1388195496765554843"
+  },
+  "archivedAt": 1751041995761,
+  "updatedAt": 1751041995761
+}

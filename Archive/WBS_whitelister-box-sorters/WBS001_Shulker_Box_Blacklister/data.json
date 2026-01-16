@@ -1,0 +1,128 @@
+{
+  "id": "1386932150355623997",
+  "name": "Shulker Box Blacklister",
+  "code": "WBS001",
+  "reservedCodes": [
+    "WBS001"
+  ],
+  "pastPostThreadIds": [
+    "1451359341285212190"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "531601171211878431",
+      "username": "rapscallion1138",
+      "iconURL": "https://cdn.discordapp.com/avatars/531601171211878431/8db107ef61024878a05baab3a798d7d5.webp",
+      "displayName": "RaPsCaLLioN1138"
+    },
+    {
+      "type": "discord-external",
+      "id": "247092209780916225",
+      "username": "justglotz",
+      "iconURL": "https://cdn.discordapp.com/avatars/247092209780916225/6180f71564f0bb3fca26a7dd8b712748.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "688456529338433611",
+      "displayName": "Christone",
+      "username": "glidingmonkey",
+      "iconURL": "https://cdn.discordapp.com/avatars/688456529338433611/348a34add443a5a71237111010e484b1.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488539013222407",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789177995595777",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1451356649586692229",
+      "name": "8gt_2wt_box_blacklister_render.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386932150355623997/1451356649586692229/8gt_2wt_box_blacklister_render.png?ex=6945e0b6&is=69448f36&hm=3574a19e23e85f51d0929436434790b2acd006e20e9bf9d74d486ae3314dbbf1&",
+      "description": "Sent by TMC Schematic Renderer at 12/18/2025, 6:33:10 PM",
+      "canDownload": true,
+      "path": "images/8gt_2wt_box_blacklister_render.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1450558994728091810",
+      "name": "WBS001_8gt_2wt_box_blacklister.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386932150355623997/1450558994728091810/8gt_2wt_box_blacklister.litematic?ex=69459cd6&is=69444b56&hm=62c290ab1161e1836285b5cdf3078ba7f9ddcf7aded917b9d807f8c73241b581&",
+      "description": "Sent by glidingmonkey at 12/16/2025, 1:43:34 PM",
+      "canDownload": true,
+      "path": "attachments/WBS001_8gt_2wt_box_blacklister.litematic",
+      "litematic": {
+        "size": "8x6x2",
+        "version": "1.20.1"
+      }
+    }
+  ],
+  "records": {
+    "description": "Each slice uses a static filter to check if the box contains the item set in the filter. If so, then the box will be rejected, otherwise the box moves to the next slice.",
+    "features": [
+      "2x6x8 (single slice)",
+      "true 2-wide tileable",
+      "Input boxes at hopper speed: 8gt"
+    ],
+    "instructions": "First, set up filters by putting 18 items of the item you want to filter in the hopper below the box dispensing area. The rest of the slots should be filled with one 64-stackable blocker item each. Do this for all of your slices. Then, you can insert boxes to sort into the hopper feeding the dropper/dispenser (read by a comparator) by using another hopper to push items inside of it."
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopper speed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopper speed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "gt",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1451359341285212190",
+    "forumId": "1383890936488132689",
+    "continuingMessageIds": [
+      "1451359345265610893"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1451359341285212190",
+    "uploadMessageId": "1451359338886074368"
+  },
+  "archivedAt": 1766101430626,
+  "updatedAt": 1766101430626
+}

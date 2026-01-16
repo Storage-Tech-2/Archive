@@ -1,0 +1,105 @@
+{
+  "id": "1388564830234873856",
+  "name": "One Hopper Box 3 Way Fill Level Sorter",
+  "code": "FBS007",
+  "reservedCodes": [
+    "FBS007"
+  ],
+  "pastPostThreadIds": [
+    "1388565121130823800"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "656864003242328064",
+      "name": "acaciachan",
+      "displayName": "金合欢酱喵~ (acaciachan)",
+      "iconURL": "https://cdn.discordapp.com/avatars/656864003242328064/65e1c203d9ea0af6509f0754122b45a2.webp",
+      "username": "acaciachan"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488472189571100",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789094197461155",
+      "name": "Recommended"
+    },
+    {
+      "id": "1386918793535684660",
+      "name": "3 Way Sorter"
+    }
+  ],
+  "images": [
+    {
+      "id": "1388564833406025776",
+      "name": "area_render_7s_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1388564830234873856/1388564833406025776/area_render_7s_.png?ex=68617146&is=68601fc6&hm=3026470e30493e79ebf4eec1ff435bc95af6ce2e63a7c08c49a462c682d20d42&",
+      "description": "Sent by andrews54757 at 6/28/2025, 1:00:53 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 381,
+      "path": "images/area_render_7s_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1388564834001354913",
+      "name": "FBS007_Single_Hopper_Fill_Level_Sorter.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1388564830234873856/1388564834001354913/Single_Hopper_Fill_Level_Sorter.litematic?ex=68617146&is=68601fc6&hm=2663b34133c63bfd8ae3a39422fb0a3a035dc9c76e7239ae667da238d3545ff5&",
+      "description": "Sent by andrews54757 at 6/28/2025, 1:00:53 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "11x4x3",
+        "version": "1.20.1"
+      },
+      "path": "attachments/FBS007_Single_Hopper_Fill_Level_Sorter.litematic"
+    }
+  ],
+  "records": {
+    "description": "Separates boxes by fill level into empty, partial, and full boxes at hopper speed using only one hopper.",
+    "features": [
+      "Hopperspeed box processing",
+      "Uses only one hopper"
+    ],
+    "considerations": [],
+    "notes": ""
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopper speed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopper speed",
+        "Hopperspeed"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1388565121130823800",
+    "forumId": "1375559651579527208",
+    "continuingMessageIds": [
+      "1388565124243259544"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388565121130823800",
+    "uploadMessageId": "1388565119578931350"
+  },
+  "archivedAt": 1751130122623,
+  "updatedAt": 1751130122623
+}

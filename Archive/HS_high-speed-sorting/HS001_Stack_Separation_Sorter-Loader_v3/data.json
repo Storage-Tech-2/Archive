@@ -1,0 +1,130 @@
+{
+  "id": "1386475805760163943",
+  "name": "Stack Separation Sorter-Loader v3",
+  "code": "HS001",
+  "reservedCodes": [
+    "HS001"
+  ],
+  "pastPostThreadIds": [
+    "1457548382624153735"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "323515840236486659",
+      "username": "kikugie",
+      "iconURL": "https://cdn.discordapp.com/avatars/323515840236486659/a_208c0a59687a910fed42fe4f3f2caee6.gif",
+      "displayName": "KikuGie"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1457548618276929637",
+      "name": "Broken"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386475806288773254",
+      "name": "area_render_33_1.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386475805760163943/1386475806288773254/area_render_33_1.png?ex=6859d7b7&is=68588637&hm=ed7edf704401559a80ce0868b2fc10f4fa2655d6e30d31ba0af1d87adef7942d&",
+      "description": "Sent by andrews54757 at 6/22/2025, 6:39:51 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 659,
+      "path": "images/area_render_33_1.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386475806565335070",
+      "name": "HS001_Stack_Separation_Sorter-Loader_v3.1.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386475805760163943/1386475806565335070/Stack_Separation_Sorter-Loader_v3.1.litematic?ex=6859d7b7&is=68588637&hm=3cd2748df8f9d1c6fe804bb1e84752f069ebd8dfcb90bc693c9bedee7ddff646&",
+      "description": "Sent by andrews54757 at 6/22/2025, 6:39:51 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "43x29x32",
+        "version": "1.17"
+      },
+      "path": "attachments/HS001_Stack_Separation_Sorter-Loader_v3.1.litematic"
+    }
+  ],
+  "records": {
+    "description": "Uses stack separation to filter entire stack of items at once. Each of the 3wt modules loads sorted items into shulker boxes at 8x hopperspeed.",
+    "features": [
+      "8830 stacks/h core (up to 565k items/hr)",
+      "72k/h loaders per slice",
+      "Distributive loading functionality",
+      "Pause on slice overflow",
+      "Partial box collection"
+    ],
+    "considerations": [
+      "Doesn't include storage and unsorted handling.",
+      "Loaders can spit items"
+    ],
+    "notes": "If you want to use multiple slices to load same item type, use 'multi-slice-loading-slice', with last in line being normal 'base' slice. Additional credits: RaPsCaLLioN1138 for stacksep core, camphorwood for 3wt 8x loader."
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "8x",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "8x",
+        "hopperspeed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader",
+        "Loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Collection",
+      "id": "1454805930670559326",
+      "url": "https://discord.com/channels/1375556143186837695/1454805930670559326/1454805932532830268",
+      "matches": [
+        "box collection"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1457548382624153735",
+    "forumId": "1457547442017800284",
+    "continuingMessageIds": [
+      "1457548386684375202"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1457548382624153735",
+    "uploadMessageId": "1457548379679883347"
+  },
+  "archivedAt": 1750790550638,
+  "updatedAt": 1767577007436
+}

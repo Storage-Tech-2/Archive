@@ -1,0 +1,162 @@
+{
+  "id": "1459226891973165106",
+  "name": "2wt Compact MIS \"NoisyMIS\"",
+  "code": "MF003",
+  "reservedCodes": [
+    "MF003"
+  ],
+  "pastPostThreadIds": [
+    "1459227338263761172"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "531601171211878431",
+      "username": "rapscallion1138",
+      "displayName": "RaPsCaLLioN1138",
+      "iconURL": "https://cdn.discordapp.com/avatars/531601171211878431/8db107ef61024878a05baab3a798d7d5.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "319513337941721089",
+      "username": "inspectortalon",
+      "iconURL": "https://cdn.discordapp.com/avatars/319513337941721089/edec0da88a70e9697b6b43b4a2d740e3.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "381396930212921355",
+      "username": "commandleo",
+      "displayName": "CommandLeo",
+      "iconURL": "https://cdn.discordapp.com/avatars/381396930212921355/cb1dcc76d3f6a30dddc49e6d9e96681a.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "384084307712409600",
+      "username": "tisunfortunate",
+      "displayName": "TisUnfortunate",
+      "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/0de5630a1bd3ad4fb3e24f5ba40958e1.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488510051684530",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789141131984962",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1459226894410186762",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1459226891973165106/1459226894410186762/image.png?ex=69628272&is=696130f2&hm=368151a1807da35526c64eb631f365d90a00cc4179aa1f2215c23bf3dc11c93c&",
+      "description": "Sent by tisunfortunate at 1/9/2026, 11:46:42 AM",
+      "canDownload": true,
+      "width": 714,
+      "height": 800,
+      "path": "images/image.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1459226894904983654",
+      "name": "MF003_NoisyMIS.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1459226891973165106/1459226894904983654/NoisyMIS.litematic?ex=69628272&is=696130f2&hm=49ffb89ef04dbf8f31acad40b0ad61c767626bed31d0fe0a43337effc456f28e&",
+      "description": "Sent by tisunfortunate at 1/9/2026, 11:46:42 AM",
+      "canDownload": true,
+      "path": "attachments/MF003_NoisyMIS.litematic",
+      "litematic": {
+        "size": "7x7x5",
+        "version": "1.20.1"
+      }
+    }
+  ],
+  "records": {
+    "description": "Multi item sorter made smaller by ignoring the silent requirement.",
+    "features": [
+      "Sorts items at hopperspeed with a 40gt delay between item types.",
+      "Can sort up to 54 items per slice",
+      "Can sort 64 and 16 stackable items",
+      "Accepts (but can't sort) unstackables",
+      "2x6x6 size",
+      "Can be fully hopperlocked"
+    ],
+    "notes": "Dispenser with powdered snow bucket can be replaced with a water bucket and waterloggable block. [Video on the design](<https://youtu.be/LDBwWtsDjxY?si=9cSSiQ_-JHF2IqPZ>) with a block by block tutorial",
+    "compatibility": "1.17+"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Multi Item Sorter",
+      "id": "1454753725091676293",
+      "url": "https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954",
+      "matches": [
+        "Multi item sorter"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Silent",
+      "id": "1454754730088726631",
+      "url": "https://discord.com/channels/1375556143186837695/1454754730088726631/1454754731049095302",
+      "matches": [
+        "silent"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperspeed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopperspeed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "gt",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperlocked",
+      "id": "1454753660625227895",
+      "url": "https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422",
+      "matches": [
+        "hopperlocked"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1459227338263761172",
+    "forumId": "1375567732866551918",
+    "continuingMessageIds": [
+      "1459227342504460443"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1459227338263761172",
+    "uploadMessageId": "1459227334254137477"
+  },
+  "archivedAt": 1767977300988,
+  "updatedAt": 1768507328925
+}

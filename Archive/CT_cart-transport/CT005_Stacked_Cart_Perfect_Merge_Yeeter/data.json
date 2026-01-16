@@ -1,0 +1,193 @@
+{
+  "id": "1456378525970993232",
+  "name": "Stacked Cart Perfect Merge Yeeter",
+  "code": "CT005",
+  "reservedCodes": [
+    "CT005"
+  ],
+  "pastPostThreadIds": [
+    "1456379833478021344"
+  ],
+  "authors": [],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385488491810394301",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1385789116905685055",
+      "name": "Recommended"
+    },
+    {
+      "id": "1450268858790187239",
+      "name": "Cart Yeeting"
+    },
+    {
+      "id": "1461411775953113271",
+      "name": "Experimental Updates"
+    }
+  ],
+  "images": [
+    {
+      "id": "1456378526445076544",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1456378525970993232/1456378526445076544/image.png?ex=695825b2&is=6956d432&hm=6fcfa0b99ac9efc5e57b1ee6e979b25c7926ee59395feb35c838049691c5858f&",
+      "description": "Sent by andrews54757 at 1/1/2026, 3:08:18 PM",
+      "canDownload": true,
+      "width": 533,
+      "height": 611,
+      "path": "images/image.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1456378526872899834",
+      "name": "CT005_stacked_cart_merge_yeeter.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1456378525970993232/1456378526872899834/stacked_cart_merge_yeeter.litematic?ex=6969f1f3&is=6968a073&hm=a6a79ef63a2fe366b4e4e597aa594b93e8e389acc639f8055563cda872a47178&",
+      "description": "Sent by andrews54757 at 1/1/2026, 3:08:18 PM",
+      "canDownload": true,
+      "path": "attachments/CT005_stacked_cart_merge_yeeter.litematic",
+      "litematic": {
+        "size": "4x6x6",
+        "version": "1.21.4"
+      }
+    },
+    {
+      "id": "1461402088482275534",
+      "name": "CT005_stacked_cart_perfect_merge_yeeter_1.21.11.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1456378525970993232/1461402088482275534/stacked_cart_perfect_merge_yeeter_1.21.11.litematic?ex=696a6c41&is=69691ac1&hm=20a3614d2d894200e018b5514346ec74b5218bbb6ce38a72e1cd148d28e9e500&",
+      "description": "Sent by andrews54757 at 1/15/2026, 11:50:09 AM",
+      "canDownload": true,
+      "path": "attachments/CT005_stacked_cart_perfect_merge_yeeter_1.21.11.litematic",
+      "litematic": {
+        "size": "4x6x6",
+        "version": "1.21.11"
+      }
+    }
+  ],
+  "records": {
+    "description": "This cart yeeter yeets stacked carts and perfectly aligns the item output such that they merge into full stacks perfectly. Works similar to CT001 but is compatible with stacked carts.",
+    "features": [
+      "Stacked cart compatible",
+      "Outputs cart's contents in item entity form, aligned in all axis + time.",
+      "Items output are perfectly merged; not broken up into smaller stacks.",
+      "Preserves and outputs cart items into a separate output"
+    ],
+    "considerations": [
+      "Can't be clocked very fast,  32gt minimum clock cycle recommended"
+    ],
+    "notes": "Tested for 500k item entities using <@458048759247536128> , <@921904275418927214> , and Crec0's alignment logging scarpet script",
+    "compatibility": "- In later versions (eg 1.21.11), carts in lava will break 1gt earlier. As such, use the 1.21.11 schematic provided or the carts will be burned by the lava.\n- For experimental cart updates, you have to delete the activator rail to let the cart fall before it hits the trapdoor. otherwise it will bounce backwards. Still make sure to lock the carts before yeeting or cart items may end up in output."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "cart yeet",
+      "id": "1455675378931728598",
+      "url": "https://discord.com/channels/1375556143186837695/1455675378931728598/1455675380160659517",
+      "matches": [
+        "cart yeet"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Stacked cart",
+      "id": "1456380865180340354",
+      "url": "https://discord.com/channels/1375556143186837695/1456380865180340354/1456380866623311915",
+      "matches": [
+        "stacked cart",
+        "Stacked cart"
+      ]
+    },
+    {
+      "type": "archivedPost",
+      "id": "1450267939461922957",
+      "code": "CT001",
+      "name": "Perfect Merge Cart Yeeter",
+      "url": "https://discord.com/channels/1375556143186837695/1450269963242705040",
+      "path": "Archive/CT_cart-transport/CT001_Perfect_Merge_Cart_Yeeter",
+      "matches": [
+        "CT001"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "item entity",
+      "id": "1456908472384884879",
+      "url": "https://discord.com/channels/1375556143186837695/1456908472384884879/1456908473844502594",
+      "matches": [
+        "item entity"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "gt",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "458048759247536128",
+        "username": "51mayday",
+        "iconURL": "https://cdn.discordapp.com/avatars/458048759247536128/546bf5b9538dc86c57fb0cbefb98b9af.webp",
+        "displayName": "51mayday"
+      },
+      "matches": [
+        "<@458048759247536128>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "921904275418927214",
+        "username": "ners__",
+        "iconURL": "https://cdn.discordapp.com/avatars/921904275418927214/c8f1ab847f47b25e0dcfc72ab8d8d5c1.webp",
+        "displayName": "ners"
+      },
+      "matches": [
+        "<@921904275418927214>"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Schematic",
+      "id": "1454811558009110704",
+      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
+      "matches": [
+        "schematic"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1456379833478021344",
+    "forumId": "1375563297230688327",
+    "continuingMessageIds": [
+      "1456379837953347635",
+      "1461417155126886685"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1456379833478021344",
+    "uploadMessageId": "1461402514065854554"
+  },
+  "archivedAt": 1767298406729,
+  "updatedAt": 1768499400427
+}

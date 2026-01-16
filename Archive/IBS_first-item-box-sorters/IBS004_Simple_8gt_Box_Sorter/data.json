@@ -1,0 +1,160 @@
+{
+  "id": "1451114878587895808",
+  "name": "Simple 8gt Box Sorter",
+  "code": "IBS004",
+  "reservedCodes": [
+    "IBS004"
+  ],
+  "pastPostThreadIds": [
+    "1451116522746548225"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "551464150925180928",
+      "username": "_javierrubik33",
+      "iconURL": "https://cdn.discordapp.com/avatars/551464150925180928/6348ffe8aa6bb90856447c503288827b.webp",
+      "displayName": "javierrubik33"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385789091676946514",
+      "name": "Recommended"
+    },
+    {
+      "id": "1385488470557986893",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1451114879258857523",
+      "name": "area_render_20_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1451114878587895808/1451114879258857523/area_render_20_.png?ex=695428cb&is=6952d74b&hm=2b8e09882165ccd79f149685c08af59412b691da6d42356e7d79513aa6fe115e&",
+      "description": "Sent by andrews54757 at 12/18/2025, 2:32:27 AM",
+      "canDownload": true,
+      "path": "images/area_render_20_.png"
+    },
+    {
+      "id": "1451114879736877066",
+      "name": "area_render_21_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1451114878587895808/1451114879736877066/area_render_21_.png?ex=695428cb&is=6952d74b&hm=22807b1a1e92ca8505ee389ba24944246ecde7baea0db4f0cb7753666581aacc&",
+      "description": "Sent by andrews54757 at 12/18/2025, 2:32:27 AM",
+      "canDownload": true,
+      "path": "images/area_render_21_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1451114880118685696",
+      "name": "IBS004_Simple_Box_Sorter.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1451114878587895808/1451114880118685696/Simple_Box_Sorter.litematic?ex=6954d18b&is=6953800b&hm=381794e54c725aaa12ce25fc463222012d0d474fe4293b8579bd57018c3b794d&",
+      "description": "Sent by andrews54757 at 12/18/2025, 2:32:27 AM",
+      "canDownload": true,
+      "path": "attachments/IBS004_Simple_Box_Sorter.litematic",
+      "litematic": {
+        "size": "12x9x4",
+        "version": "1.21"
+      }
+    },
+    {
+      "id": "1455462924955942966",
+      "name": "IBS004_image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1451114878587895808/1455462924955942966/image.png?ex=6954d0fa&is=69537f7a&hm=e14c185d45e1cef3c530cc3ed4df8a586fc121594dbb21fe0527c6963dbb353a&",
+      "description": "How to set up overflow protection",
+      "canDownload": true,
+      "path": "attachments/IBS004_image.png"
+    }
+  ],
+  "records": {
+    "description": "A simple box sorter which can sort boxes by their first item type at hopperspeed",
+    "features": [
+      "Hopperspeed per box throughput",
+      "Very small slices (6x4)",
+      "Small head module & end box-item merging"
+    ],
+    "instructions": [
+      "Make sure to set filters! In the filter hoppers (filled with cake in the schematic), put the desired filter item in the first slot, and fill the rest of the slots with unstackable blocker items.",
+      "Put boxes inside the chest at the top to sort",
+      "It is recommended that you use overflow protection for the outputs. Do this by replacing the barrels with droppers in the output, overflow boxes can be collected via 1 tall output collector stream (WT004). See the image guide for reference."
+    ]
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Sorter",
+      "id": "1454753516269736090",
+      "url": "https://discord.com/channels/1375556143186837695/1454753516269736090/1454753518383792221",
+      "matches": [
+        "box sorter"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperspeed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopperspeed",
+        "Hopperspeed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Schematic",
+      "id": "1454811558009110704",
+      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
+      "matches": [
+        "schematic"
+      ]
+    },
+    {
+      "type": "archivedPost",
+      "id": "1455460194627620895",
+      "code": "WT004",
+      "name": "One Tall Output Collection Stream",
+      "url": "https://discord.com/channels/1375556143186837695/1455461373415915728",
+      "path": "Archive/WT_water-transport/WT004_One_Tall_Output_Collection_Stream",
+      "matches": [
+        "WT004"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1451116522746548225",
+    "forumId": "1375559535976124717",
+    "continuingMessageIds": [
+      "1451116526714490923",
+      "1455463669906276395"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1451116522746548225",
+    "uploadMessageId": "1455463666081202229"
+  },
+  "archivedAt": 1766043538551,
+  "updatedAt": 1767079977027
+}

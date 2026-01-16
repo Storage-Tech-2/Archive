@@ -1,0 +1,142 @@
+{
+  "id": "1386479322843320361",
+  "name": "Small 1x Box Unloader",
+  "code": "BU003",
+  "reservedCodes": [
+    "BU003"
+  ],
+  "pastPostThreadIds": [
+    "1388317037826281663"
+  ],
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "166080074536189952",
+      "username": "misterkartoffel",
+      "iconURL": "https://cdn.discordapp.com/avatars/166080074536189952/a050c435fbdfa5436bdfb33906a6d2d3.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "335426949885329411",
+      "username": "sergyd",
+      "iconURL": "https://cdn.discordapp.com/avatars/335426949885329411/01e8993d50c9d864361df9def1960a5a.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1385789096542081145",
+      "name": "Recommended"
+    },
+    {
+      "id": "1385488474148438035",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1386248557111017532",
+      "name": "1X Hopperspeed"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386479325003513936",
+      "name": "Small_Box_Unloader_Hopper_Collection.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386479322843320361/1386479325003513936/Small_Box_Unloader_Hopper_Collection.png?ex=6859dafe&is=6858897e&hm=51a256ebabf0be78e55ebbff5e15003954594fdb16fd89d661f705507bb13233&",
+      "description": "Sent by andrews54757 at 6/22/2025, 6:53:50 PM",
+      "canDownload": true,
+      "width": 732,
+      "height": 800,
+      "path": "images/Small_Box_Unloader_Hopper_Collection.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386479325565423669",
+      "name": "BU003_Small_Box_Unloader_Water_Collection.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386479322843320361/1386479325565423669/Small_Box_Unloader_Water_Collection.litematic?ex=6859dafe&is=6858897e&hm=d21ffb3a878c17ef5db0c5506ab72ad15a0f8c6c8c1cb98bc5588b92d2a72164&",
+      "description": "Sent by andrews54757 at 6/22/2025, 6:53:50 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "4x4x4",
+        "version": "1.14"
+      },
+      "path": "attachments/BU003_Small_Box_Unloader_Water_Collection.litematic"
+    },
+    {
+      "id": "1386479325930459258",
+      "name": "BU003_Small_Box_Unloader_Hopper_Collection.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386479322843320361/1386479325930459258/Small_Box_Unloader_Hopper_Collection.litematic?ex=6859dafe&is=6858897e&hm=be407fcca55c07d26d611d6fd03baa596d0605db65b3ea9b30ffa1551ac211dc&",
+      "description": "Sent by andrews54757 at 6/22/2025, 6:53:50 PM",
+      "canDownload": true,
+      "litematic": {
+        "size": "4x4x3",
+        "version": "1.14"
+      },
+      "path": "attachments/BU003_Small_Box_Unloader_Hopper_Collection.litematic"
+    }
+  ],
+  "records": {
+    "description": "A simple non-tileable hopperspeed box unloader.",
+    "features": [
+      "3x4x4 in size",
+      "First box placement and empty box handling",
+      "No items buffered in output hopper",
+      "Unloads at hopperspeed unless while replacing the box"
+    ],
+    "considerations": [],
+    "notes": "Two schematics are provided: One with a hopper to collect the empty box and another with a waterstream set up to transport the empty boxes (4x4x4 in size)."
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperspeed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopperspeed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Unloader",
+      "id": "1454754824758493380",
+      "url": "https://discord.com/channels/1375556143186837695/1454754824758493380/1454754825345433803",
+      "matches": [
+        "unloader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Schematic",
+      "id": "1454811558009110704",
+      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
+      "matches": [
+        "schematic"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "forumId": "1375560446676963450",
+    "threadId": "1388317037826281663",
+    "continuingMessageIds": [
+      "1388317040569356389"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1388317037826281663",
+    "attachmentMessageId": "1388177902641745951",
+    "uploadMessageId": "1388177895813283931"
+  },
+  "archivedAt": 1750632898364,
+  "updatedAt": 1750632898364
+}
