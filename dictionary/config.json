@@ -823,6 +823,14 @@
       ],
       "summary": "Ideal box output refers to a device which outputs minimal partial boxes after the contents of mixed boxes are sorted into single item-type boxes. What this means is that for each type, every box ex...",
       "updatedAt": 1768274978713
+    },
+    {
+      "id": "1461934803795443882",
+      "terms": [
+        "Dynamic Bulk"
+      ],
+      "summary": "Unlike traditional fixed bulk storage systems, a dynamic bulk will automatically allocate storage slices to item types depending on what item types are input.",
+      "updatedAt": 1768622822354
     }
   ]
 }
