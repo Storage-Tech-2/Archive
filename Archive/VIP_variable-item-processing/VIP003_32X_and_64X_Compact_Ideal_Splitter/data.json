@@ -62,6 +62,44 @@
   ],
   "attachments": [
     {
+      "id": "1457958141818962043",
+      "name": "VIP003_Ideal_Splitter_V3-r12.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1387083566676181035/1457958141818962043/Ideal_Splitter_V3-r12.zip?ex=696d0e14&is=696bbc94&hm=740d8341e01082e2edc2f43b9cf95ebb24dbdbe2337e998a927cae0b9dfad637&",
+      "description": "Sent by andrews54757 at 1/5/2026, 11:45:08 PM",
+      "canDownload": true,
+      "path": "attachments/VIP003_Ideal_Splitter_V3-r12.zip",
+      "wdl": {
+        "version": "1.21.4"
+      }
+    },
+    {
+      "id": "1457958142104178849",
+      "name": "VIP003_ideal_v3_64x.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387083566676181035/1457958142104178849/ideal_v3_64x.litematic?ex=696d0e14&is=696bbc94&hm=029838959db1f3c9b42370be1713bede92c0f1eda9258af0c26c68ffeb032cee&",
+      "description": "Sent by andrews54757 at 1/5/2026, 11:45:08 PM",
+      "canDownload": true,
+      "path": "attachments/VIP003_ideal_v3_64x.litematic",
+      "litematic": {
+        "size": "43x16x14",
+        "version": "1.21.4"
+      }
+    },
+    {
+      "id": "1457958142410494014",
+      "name": "VIP003_ideal_v3_32x.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387083566676181035/1457958142410494014/ideal_v3_32x.litematic?ex=696d0e14&is=696bbc94&hm=dcb5995511b395f2831e10259ca9e518f71a1b3aa71af2732e859ec76d3d5266&",
+      "description": "Sent by andrews54757 at 1/5/2026, 11:45:08 PM",
+      "canDownload": true,
+      "path": "attachments/VIP003_ideal_v3_32x.litematic",
+      "litematic": {
+        "size": "27x16x14",
+        "version": "1.21.4"
+      }
+    },
+    {
       "id": "PW318UfnCfU",
       "name": "VIP003_YouTube_Video_PW318UfnCfU.url",
       "contentType": "youtube",
@@ -84,46 +122,21 @@
       "id": "1387083568605429821",
       "name": "VIP003_ideal3-2.png",
       "contentType": "image/png",
-      "url": "https://cdn.discordapp.com/attachments/1387083566676181035/1387083568605429821/ideal3-2.png?ex=695dcafd&is=695c797d&hm=4ce6c932843c7b0562da3b0134739d22db1218055c49f0fc5cc72841a26961bc&",
+      "url": "https://cdn.discordapp.com/attachments/1387083566676181035/1387083568605429821/ideal3-2.png?ex=696cf43d&is=696ba2bd&hm=607669f7baf45b424fc563b085822e607892c177ae259aa737f1e397738e3e84&",
       "description": "Sent by andrews54757 at 6/24/2025, 10:54:53 AM",
       "canDownload": true,
       "path": "attachments/VIP003_ideal3-2.png"
     },
     {
-      "id": "1457958141818962043",
-      "name": "VIP003_Ideal_Splitter_V3-r12.zip",
-      "contentType": "application/zip",
-      "url": "https://cdn.discordapp.com/attachments/1387083566676181035/1457958141818962043/Ideal_Splitter_V3-r12.zip?ex=695de4d4&is=695c9354&hm=73b4cfac85a31255192635b512ae70b8a09b3c06bdd2b5c6acc8bde2b44db82e&",
-      "description": "Sent by andrews54757 at 1/5/2026, 11:45:08 PM",
-      "canDownload": true,
-      "path": "attachments/VIP003_Ideal_Splitter_V3-r12.zip",
-      "wdl": {
-        "version": "1.21.4"
-      }
-    },
-    {
-      "id": "1457958142104178849",
-      "name": "VIP003_ideal_v3_64x.litematic",
+      "id": "1462154938137182258",
+      "name": "VIP003_ideal_splitter_32x_stripped.litematic",
       "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1387083566676181035/1457958142104178849/ideal_v3_64x.litematic?ex=695de4d4&is=695c9354&hm=6c739c581e311be51db2d28d5e4e483593f361646b2f764b30be35d160164d92&",
-      "description": "Sent by andrews54757 at 1/5/2026, 11:45:08 PM",
+      "url": "https://cdn.discordapp.com/attachments/1387083566676181035/1462154938137182258/ideal_splitter_32x_stripped.litematic?ex=696d2966&is=696bd7e6&hm=255215fb817083745d753a9dcce4c8362c20ad89e10fffa00c9f983e1409c0b2&",
+      "description": "Sent by andrews54757 at 1/17/2026, 1:41:42 PM",
       "canDownload": true,
-      "path": "attachments/VIP003_ideal_v3_64x.litematic",
+      "path": "attachments/VIP003_ideal_splitter_32x_stripped.litematic",
       "litematic": {
-        "size": "43x16x14",
-        "version": "1.21.4"
-      }
-    },
-    {
-      "id": "1457958142410494014",
-      "name": "VIP003_ideal_v3_32x.litematic",
-      "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1387083566676181035/1457958142410494014/ideal_v3_32x.litematic?ex=695de4d4&is=695c9354&hm=045e3d7a7afa3e1eb1c9e2ce890b97479570b6c0d9468c7306985e47b0eb3d8d&",
-      "description": "Sent by andrews54757 at 1/5/2026, 11:45:08 PM",
-      "canDownload": true,
-      "path": "attachments/VIP003_ideal_v3_32x.litematic",
-      "litematic": {
-        "size": "27x16x14",
+        "size": "27x14x14",
         "version": "1.21.4"
       }
     }
@@ -198,8 +211,8 @@
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1388318356377043076",
     "attachmentMessageId": "1388179342869401601",
-    "uploadMessageId": "1457958254717178091"
+    "uploadMessageId": "1462155008656146660"
   },
   "archivedAt": 1766292406993,
-  "updatedAt": 1767674727432
+  "updatedAt": 1768675312702
 }
