@@ -12,6 +12,7 @@
     {
       "type": "discord-external",
       "id": "1234197202193219644",
+      "displayName": "Koalus",
       "username": "koalus69",
       "iconURL": "https://cdn.discordapp.com/avatars/1234197202193219644/9484efd5ab87fff26a62c943bc2dc55f.webp"
     },
@@ -34,12 +35,12 @@
   ],
   "tags": [
     {
-      "id": "1385488474148438035",
-      "name": "Tested & Functional"
-    },
-    {
       "id": "1386248557111017532",
       "name": "1X Hopperspeed"
+    },
+    {
+      "id": "1385488474148438034",
+      "name": "Broken"
     }
   ],
   "images": [
@@ -103,10 +104,10 @@
       "Togglestateless"
     ],
     "considerations": [
-      "Very rare chance of box ending up in item output if adjacent slices are broken simultaneously. Tile every two blocks to avoid this issue."
-    ],
-    "notes": ""
+      "Very rare chance of box ending up in item output if adjacent slices are broken simultaneously. Tile every two blocks to avoid this issue. This occurs because item entities can self-insert into the hopper when colliding with the bowl even with a box on top of it."
+    ]
   },
+  "styles": {},
   "references": [
     {
       "type": "dictionaryTerm",
@@ -156,5 +157,5 @@
     "uploadMessageId": "1388330667141627976"
   },
   "archivedAt": 1751650739913,
-  "updatedAt": 1751650739913
+  "updatedAt": 1768611503502
 }
