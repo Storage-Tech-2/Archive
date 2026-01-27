@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Functional, Recommended*
+**Tags:** *Full Sorters, Functional, Recommended*
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1465717428930478120)
 
