@@ -1,5 +1,5 @@
-# XianyuMS V2
-<img alt="xianyuv2.png" src="images/xianyuv2.png?raw=1" height="300px">
+# XianyuMIS V2
+<img alt="image.png" src="images/image.png?raw=1" height="300px">
 
 **Authors:** *siderXD, Capybruhh*
 
@@ -7,7 +7,7 @@
 
 **Tags:** *Functional*
 
-**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1465534336320143524)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1465599822886076510)
 
 Cart-based MIS storage for intermediate players. Pre-made decoration available.
 ## Features
@@ -23,9 +23,24 @@ Cart-based MIS storage for intermediate players. Pre-made decoration available.
 - 1813 hoppers
 ## Notes
 Most inventories have signs indicating how to prefill them.
+## Credits
+- [Macrowind](<https://space.bilibili.com/339826053>) - Box sorter slice, design help.
+- [Worldburst](<https://space.bilibili.com/508723197>) - Design help, CMP provider.
+- [yumihan](<https://www.youtube.com/@yumihaTwo/videos>) - Decoration design.
+- [Ichika](<https://space.bilibili.com/329820579>) - Fixing input problem.
+- Scorpio - Item recycling idea.
+- 金合欢酱喵~ (acaciachan) - Blocker return structure, box sorter keygen.
+- CommandLeo - Unstackable sorter.
+- javierrubik33, [血小板](<https://space.bilibili.com/3493263910635905>) - Cart-based box unloader.
+- [Mercury](<https://space.bilibili.com/18525909>) - Chunk loader.
+- datnerd - [Box display](https://discord.com/channels/748542142347083868/1387442314724642979/1387442322672717834) (in [Storage Tech](https://discord.gg/JufJ6uf)).
+- [半筝half_kite](<https://space.bilibili.com/329820579>): Simple empty box crafter.
+- PyraLeft, maed8_, 金合欢酱喵~ (acaciachan) - isFull box check.
+- Capybruhh - item layout.
+- Passionate Storage Techer 69 - 2x loader and testing.
 
 ## Other Images
-<img src="images/xianyuv2side.png?raw=1" height="300px">
+<img src="images/render.png?raw=1" height="300px">
 
 <img src="images/XianyuMIS_crane.png?raw=1" height="300px">
 
