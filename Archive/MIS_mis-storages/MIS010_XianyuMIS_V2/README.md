@@ -1,5 +1,5 @@
 # XianyuMIS V2
-<img alt="image.png" src="images/image.png?raw=1" height="300px">
+<img alt="render.png" src="images/render.png?raw=1" height="300px">
 
 **Authors:** *siderXD, Capybruhh*
 
@@ -7,7 +7,7 @@
 
 **Tags:** *Functional*
 
-**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1465599822886076510)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1465600432985477302)
 
 Cart-based MIS storage for intermediate players. Pre-made decoration available.
 ## Features
@@ -40,9 +40,9 @@ Most inventories have signs indicating how to prefill them.
 - Passionate Storage Techer 69 - 2x loader and testing.
 
 ## Other Images
-<img src="images/render.png?raw=1" height="300px">
-
 <img src="images/XianyuMIS_crane.png?raw=1" height="300px">
+
+<img src="images/ui.png?raw=1" height="300px">
 
 ## Resources
 - [MIS010_XianyuMIS_v2.4.2_WDL.zip](attachments/MIS010_XianyuMIS_v2.4.2_WDL.zip): MC 1.21.4
