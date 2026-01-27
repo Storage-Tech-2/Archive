@@ -1,0 +1,182 @@
+{
+  "id": "1386690708240339074",
+  "name": "CommandLeo's 1.20 Unstackable Sorter",
+  "code": "US001",
+  "reservedCodes": [
+    "US001"
+  ],
+  "pastPostThreadIds": [
+    "1465717428930478120"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "381396930212921355",
+      "displayName": "CommandLeo",
+      "username": "commandleo",
+      "iconURL": "https://cdn.discordapp.com/avatars/381396930212921355/cb1dcc76d3f6a30dddc49e6d9e96681a.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465487514964988074",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386690709058490418",
+      "name": "CommandLeo_1.20_Ultimate_Unstackable_Sorter.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386690708240339074/1386690709058490418/CommandLeo_1.20_Ultimate_Unstackable_Sorter.png?ex=697a06dc&is=6978b55c&hm=77ece0afbad45c7c427a5dcda80a395de11155385875c06293819e0614861e83&",
+      "timestamp": 1750683228312,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 750716,
+      "canDownload": true,
+      "width": 1587,
+      "height": 1600,
+      "path": "images/CommandLeo_1.20_Ultimate_Unstackable_Sorter.png"
+    },
+    {
+      "id": "1386690709645561877",
+      "name": "CommandLeo_1.20_Ultimate_FHL_Unstackable_Sorter_Entityless.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386690708240339074/1386690709645561877/CommandLeo_1.20_Ultimate_FHL_Unstackable_Sorter_Entityless.png?ex=697a06dc&is=6978b55c&hm=a213df4d110b5e6065358daba00533228f57b217115cb4bf8f1885e53b3dc862&",
+      "timestamp": 1750683228312,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "This version is fully hopperlocked and has no idle entities",
+      "size": 667771,
+      "canDownload": true,
+      "width": 1586,
+      "height": 1600,
+      "path": "images/CommandLeo_1.20_Ultimate_FHL_Unstackable_Sorter_Entityless.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386690710031306922",
+      "name": "US001_CommandLeo_1.20_Ultimate_Unstackable_Sorter_Guide.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386690708240339074/1386690710031306922/CommandLeo_1.20_Ultimate_Unstackable_Sorter_Guide.litematic?ex=697a06dc&is=6978b55c&hm=39dc8912fcdacda00e5e0ec618e7b179976b2deab4f2eb85bef14e96bf7bab7c&",
+      "timestamp": 1750683228312,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 4891,
+      "canDownload": true,
+      "path": "attachments/US001_CommandLeo_1.20_Ultimate_Unstackable_Sorter_Guide.litematic",
+      "litematic": {
+        "size": "7x11x16",
+        "version": "1.20.2"
+      }
+    },
+    {
+      "id": "1386690710409056266",
+      "name": "US001_CommandLeo_1.20_Ultimate_FHL_Unstackable_Sorter_Guide.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386690708240339074/1386690710409056266/CommandLeo_1.20_Ultimate_FHL_Unstackable_Sorter_Guide.litematic?ex=697a06dc&is=6978b55c&hm=13bc9dcfefe0315657973bc802a641cb1b5b5f1c672aad977aae652687589d84&",
+      "timestamp": 1750683228312,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "This version is fully hopperlocked and has no idle entities",
+      "size": 5367,
+      "canDownload": true,
+      "path": "attachments/US001_CommandLeo_1.20_Ultimate_FHL_Unstackable_Sorter_Guide.litematic",
+      "litematic": {
+        "size": "7x11x16",
+        "version": "1.20.2"
+      }
+    }
+  ],
+  "records": {
+    "description": "A machine that is able to sort the following items in different outputs: music discs; potions and water bottles; enchanted books and book&quills; shears (and brushes in 1.20.5+); flint&steel; lava buckets; powder snow buckets; water buckets; chest boats/rafts; boats/rafts; furnace minecarts; minecarts; chest minecarts; hopper minecarts; tnt minecarts; armor.",
+    "features": [
+      "Hopper speed: up to 9000 items per hour can be sorted.",
+      "Compact: 6x11x16.",
+      "Fish, axolotls and tadpoles from water buckets get placed inside a cage.",
+      "All of the clocks are independent, in order to minimize the lag produced.",
+      "Fully hopperlocked variant included"
+    ],
+    "considerations": [],
+    "notes": "- Do not input stackable items and shulker boxes.\n- The armor filter requires a supply of any kind of arrows.\n- All the litematics include the contents of the containers that must be prefilled.\n- The unsorted output can be moved elsewhere by redirecting the water stream leading into it.\n\n**Credits for the individual sorters**\n- Music disc filter: CommandLeo\n- Book filter: *no credits due to its simplicity*\n- Potion filter: *no credits  due to its simplicity*\n- Flint&steel and shears filter: *no credits  due to its simplicity*\n- Flint&steel and shears sorter: CommandLeo and Raffq\n- Water bucket filter: CommandLeo\n- Lava bucket and powder snow bucket filter + sorter: CommandLeo\n- Boat and chest boat filter + sorter: CommandLeo\n- Minecart filter + sorter: CommandLeo and InspectorTalon (with contributions from 2No2Name)\n- Armor filter: CommandLeo and Raffq"
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopper speed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "Hopper speed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperlocked",
+      "id": "1454753660625227895",
+      "url": "https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422",
+      "matches": [
+        "hopperlocked"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Litematic",
+      "id": "1454811558009110704",
+      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
+      "matches": [
+        "litematic"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1465717428930478120",
+    "forumId": "1375564342392786944",
+    "continuingMessageIds": [
+      "1465717434018304271",
+      "1465717434492256443"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1465717428930478120",
+    "uploadMessageId": "1465717423087947972"
+  },
+  "archivedAt": 1769524662137,
+  "updatedAt": 1769524662137,
+  "num_comments": 0
+}
