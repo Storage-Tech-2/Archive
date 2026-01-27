@@ -4,7 +4,7 @@
   "code": "SP",
   "category": "Misc Devices",
   "description": "Peripherals for storage systems. EG: Furnace arrays, brewers, mass-crafters, etc...",
-  "currentCodeId": 6,
+  "currentCodeId": 8,
   "entries": [
     {
       "id": "1393001409166704751",
@@ -35,6 +35,16 @@
       "id": "1459913994532945963",
       "code": "SP006",
       "path": "SP006_Simple_Entityless_16_Furnace_Array"
+    },
+    {
+      "id": "1463264911986524232",
+      "code": "SP007",
+      "path": "SP007_Remote_Controlled_Brewer_Array"
+    },
+    {
+      "id": "1465110546658492621",
+      "code": "SP008",
+      "path": "SP008_4DC_Overflow_with_Recycle_Bin"
     }
   ]
 }

@@ -1,0 +1,136 @@
+{
+  "id": "1465110546658492621",
+  "name": "4DC Overflow with Recycle Bin",
+  "code": "SP008",
+  "reservedCodes": [
+    "SP008"
+  ],
+  "pastPostThreadIds": [
+    "1465112394333159445"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "460316892976906261",
+      "username": "ragdollwilly",
+      "displayName": "Ragdoll Willy",
+      "iconURL": "https://cdn.discordapp.com/avatars/460316892976906261/a0332117bf4e609a1ead4417ae4357b4.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465488009343406271",
+      "name": "Untested"
+    }
+  ],
+  "images": [
+    {
+      "id": "1465110547295895562",
+      "name": "area_render_9_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1465110546658492621/1465110547295895562/area_render_9_.png?ex=6977ea06&is=69769886&hm=9166e1961c99f7f1f127d154c82f32e8f59d0d21171d021db3996067271c8e91&",
+      "timestamp": 1769379974761,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "460316892976906261",
+        "username": "ragdollwilly",
+        "displayName": "Ragdoll Willy",
+        "iconURL": "https://cdn.discordapp.com/avatars/460316892976906261/a0332117bf4e609a1ead4417ae4357b4.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 680638,
+      "canDownload": true,
+      "width": 800,
+      "height": 665,
+      "path": "images/area_render_9_.png"
+    },
+    {
+      "id": "1465110548118245376",
+      "name": "area_render_10_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1465110546658492621/1465110548118245376/area_render_10_.png?ex=6977ea07&is=69769887&hm=6cec0c04ed2b2f9c154e2ea8a374b3b9cea2d7b0b1d7fb7d244b13567bb5637b&",
+      "timestamp": 1769379974761,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "460316892976906261",
+        "username": "ragdollwilly",
+        "displayName": "Ragdoll Willy",
+        "iconURL": "https://cdn.discordapp.com/avatars/460316892976906261/a0332117bf4e609a1ead4417ae4357b4.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1105622,
+      "canDownload": true,
+      "width": 800,
+      "height": 659,
+      "path": "images/area_render_10_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1465110548361379971",
+      "name": "SP008_RW_Overflow_w_Recycle_Bin.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1465110546658492621/1465110548361379971/RW_Overflow_w_Recycle_Bin.litematic?ex=6977ea07&is=69769887&hm=c1cd7ed2d61e8c79badfd2e6ff391391b9e41d7a8c1a6aa9f92d9a889a9d11d3&",
+      "timestamp": 1769379974761,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "460316892976906261",
+        "username": "ragdollwilly",
+        "displayName": "Ragdoll Willy",
+        "iconURL": "https://cdn.discordapp.com/avatars/460316892976906261/a0332117bf4e609a1ead4417ae4357b4.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 2140,
+      "canDownload": true,
+      "path": "attachments/SP008_RW_Overflow_w_Recycle_Bin.litematic",
+      "litematic": {
+        "size": "6x8x10",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "An overflow which accepts loose items (accessible loader) or boxes. Once the overflow chests are filled, following boxes will be sent to a recycle bin.",
+    "features": [
+      "4DC of overflow",
+      "Lamp indicator that there are items in the recycle bin"
+    ]
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Accessible Loader",
+      "id": "1454804125559554243",
+      "url": "https://discord.com/channels/1375556143186837695/1454804125559554243/1454804126541152338",
+      "matches": [
+        "accessible loader"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1465112394333159445",
+    "forumId": "1457538260892127293",
+    "continuingMessageIds": [
+      "1465112398674264135"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1465112394333159445",
+    "uploadMessageId": "1465112389316771881"
+  },
+  "archivedAt": 1769380411273,
+  "updatedAt": 1769380411273,
+  "num_comments": 0
+}

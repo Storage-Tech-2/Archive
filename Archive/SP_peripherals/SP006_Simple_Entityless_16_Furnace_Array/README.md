@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Passionate Storage Techer 69*
 
-**Tags:** *Furnace Array, Tested & Functional*
+**Tags:** *Furnace Array, Functional*
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1460061153983201343)
 

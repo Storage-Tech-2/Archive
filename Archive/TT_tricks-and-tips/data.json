@@ -4,7 +4,7 @@
   "code": "TT",
   "category": "Other Resources",
   "description": "How to guides for tricks tips and more",
-  "currentCodeId": 5,
+  "currentCodeId": 6,
   "entries": [
     {
       "id": "1388663948227903560",
@@ -30,6 +30,11 @@
       "id": "1386222661037985933",
       "code": "TT005",
       "path": "TT005_How_to_Use_1X_Hopper_Filters"
+    },
+    {
+      "id": "1464101692890021959",
+      "code": "TT006",
+      "path": "TT006_How_to_use_Litematica"
     }
   ]
 }

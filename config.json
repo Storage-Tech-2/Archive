@@ -1,406 +1,4 @@
 {
-  "archiveChannels": [
-    {
-      "id": "1386242904141463603",
-      "name": "farm-storages",
-      "code": "FS",
-      "embedding": "KBINDz4m7grh4gLkBhbpAAERE/0A4hjrEP786+4F6wgb+/f65wTw4+T39AoBAbYkABDkBPoI/RED+QYPFAATCgzg7Any9QH+BPoZ9O4AExQS+hkvAQQE8PcmBeL58wbq/AgaGfD9FPsQ/urY8wD7CAYD+hYa5QEVBScFFQj5Cwv56wf1BPYA6/z/GAPxAgwZ/ujp7e4i8vAK6ucE8QLjEvAsAwsI9wwR/ADm6xUH5wkSHgHy8fcECwAJAf0f/efQCP/4/wIoERQLFAvo8QD47CP08Nwq8RIJ+QAM8SohCi/dHjDrLO71DQgiFA8AESzoAOYUEfj8IggJ9v8IAAce6g==",
-      "category": "Full Systems",
-      "path": "Archive/FS_farm-storages",
-      "description": "Farm storages and digsorts",
-      "position": 31
-    },
-    {
-      "id": "1375566804910604349",
-      "name": "mis-storages",
-      "code": "MIS",
-      "embedding": "FQoEDysNAAnk4PPfAyLrDQoKDxXw5iDsGQPp9+UX5gAR+vrj3wvt7uvtABAI/roP6APoBPMP+QgAAPccIhL/9BPjCAf5+hAF+f8Z+/L7FBwS+BQ37Q8AAuw2/scW/Ab6+/4fC/j5Gfn3//Xp8g8ABAX/ARosA/YAECn5DAX6Nvnx6vscCwMD4/oEIPn6+AEY8vnoA/Ig8/QB5OQVDe33A+kO8QwE/AAgEPv3+BAZ5wAiJwD5CP8EEg3+EQMAFvfnEQIW8uYlFP0R/gHt8/4PAQ7tEOUS5RwCA/H96ygcDxjwExjpRt/0G/YcDhAKCx7t8vsGHQII+Az48vcSCQ0x7Q==",
-      "category": "Full Systems",
-      "path": "Archive/MIS_mis-storages",
-      "description": "Multi item storages which use multi item sorting technology to store multiple item types in each chest",
-      "position": 32
-    },
-    {
-      "id": "1375566903241740450",
-      "name": "large-storages",
-      "code": "LS",
-      "embedding": "DhgZETUH+wju4vXmBAj8DxIAFQ8E9iH0EALz9vIN6/gM/gT08xP18wD59w8M+a8kAArnDwAG/xIC//74JQEHAhfmAhD49w399+cAAQD+Gg4VASAi/AYJ8fInBsYT/ATsAQcsKfgFCeMD+ufn+woJAAP49BkX9gAF+S8f/RH5EQP61f3/DwAL5//9Gfvx+QMkAOPnA+cP6AX94fYD9w3a+fcY/w0K+/8KAvX49RQS3QQeIQDy7PYKAAb4DP4WA97OCQ0PBPsfFh0NHhvt5wAI/xYCBscg5w3sBO0I/Dgc8hjtJSTnKen8DAorEBP/Ahrn8fIJHfjzFBL7AvYOAwYp7g==",
-      "category": "Full Systems",
-      "path": "Archive/LS_large-storages",
-      "description": "Large/full size storages",
-      "position": 33
-    },
-    {
-      "id": "1375561810392125510",
-      "name": "chest-halls",
-      "code": "CH",
-      "embedding": "EgUeARwUDgzo3O/rBw/4DQL/HQX34yH3FgACCd4X+/EZ7wAC6AcE+/v2FhX7/K4j+PziCQD/A/j9BgUDLAoIBAQC/BHzBQz7BvAt/PoAGgYl7i40+QIF/fUj78oD/A/4C/gWBOn6A+j2/fPv7QH3+Rfy/hAX7/H/AC0KCRUEEQ3v5g4EFfoB8fT9EgfuBP0y+Ovl9vURAAEG4fEbD+v6+/wZ/wkgAAgL9d3n9xQZ5AIYIvkR8wMADw0K9wT+HNjtDhEDAvAdFw4NFhj36fr9AxjrCeMj3gby/wAK7zggESDmIwvrOtvbA/gj+v0XBCnoAucRD//xFAjzAe8D/vQ/AQ==",
-      "category": "Storage Halls & UI",
-      "path": "Archive/CH_chest-halls",
-      "description": "Chest halls",
-      "position": 34
-    },
-    {
-      "id": "1375565403727724764",
-      "name": "box-display-halls",
-      "code": "DH",
-      "embedding": "JBcN9iITCRPt3+/jAhT0+QECDPgA7Sv6EvkH9+ATAO8G+vz89RIJAgj1DQnxBLEU+AzfDPIHAPoD/gACDwcGDwP+AAv3B/4HB/Eq9fcEEAkp/CkeAQD39/Qg390G/wf3APARD+AHGeT5+ere6xL26gz58hMYAQAFACYRBA8ABALs5BH8DgML5Pr3Gf3+CP0f+Orh9e4S+gX43P0dD/nb9AAdBgwc/voD/u7x6g4W1+weIAcG8fb9FQT3/gAGE9fjDP7//u8YHBgXHRHy4/f+Axvt+cMu4hL2/AAQ9T4vBh/VIhnuMt7uDQgpAPoLCBnk/uQPDQLpFv8C8vv8AOs1+Q==",
-      "category": "Storage Halls & UI",
-      "path": "Archive/DH_box-display-halls",
-      "description": "Bulk/display halls",
-      "position": 35
-    },
-    {
-      "id": "1375563506765664388",
-      "name": "mixed-halls",
-      "code": "MH",
-      "embedding": "GwMR/SUW/hbh5fjy/hP8BAjxGAAC2xH0//kD/eoQBPAW+/UK8/UD/vv2Cfz1CZ4P4/rcCw4BCPoE/QgDHQz1+AcA8AD3BQwN+PIm3gQHDAMV9iE8Af4E9gAU8+z8AiL5EAAeFvENCOIBEdvo+w8F8BH48Roh9AMDABwODQAHFgHp4w76CAYO9vUIAuvp/AIM9eXi8+sO/ggA4PkY/O/kDQYi/gUkAO4J+dfc5BoM0/ctGP4I9e3+FvP0AeQFE+jlBAMACvsvIBUb/BAA8AAC+hriANIj/Rz3A+0P/jMYHQ/aIQzyKfLxB/4Y+hMEACHl4uAFC/DpHBQB/QkAEPs2/w==",
-      "category": "Storage Halls & UI",
-      "path": "Archive/MH_mixed-halls",
-      "description": "Mixed/hybrid/accessible loader halls",
-      "position": 36
-    },
-    {
-      "id": "1375569381781930006",
-      "name": "player-inputs",
-      "code": "PI",
-      "embedding": "GAkh9ykP8Ab0ywYC9QYFEP35Cg799Rz6CwP0/eMH8/UU2e/26h0A+evl7hsT+aoj+AbdEfEBDPcJ9w8GKhUK/wEDDQL99Qv9AOoR4QMbJBod+Cwn+f4c/fAb8sgM8wjtAPoNDf/wH+nz9/Xr4x3//yoF+g74AP0g9A8DDBIFHAoC3REIFg/82QnsAQnz+gMYBuf2IQIJ8QYV6NsV/vri7/8RBRQREg8GAvYBAhgF8P8YIfr59e3/EwTiAAEG9OTjDQgJ5uMWJRQZCwr57gEU+BcFA+EM3g3v/O/07C4SGRPcKhAOEt3kBwkbBAgd+hbz8PX8A972IAr+FfL/DusjAA==",
-      "category": "Storage Halls & UI",
-      "path": "Archive/PI_player-inputs",
-      "description": "Player input devices",
-      "position": 37
-    },
-    {
-      "id": "1375556999257002185",
-      "name": "filter-loaders",
-      "code": "FL",
-      "embedding": "Kw0OESUV8wvt7vn18xD1EfoRAPL22SjpDg0C9+MU+xAP7+b41/z/Cebr8QkEAqcr7gnrKAQMCf8F+QEIFgQU+gz+9/zx7Af8Cuon/usKAw8jDiQ1BP4N8wAp/d0J8BngBgsnCvXnF/H/+vbo+SIjChQO7w0N+QUfDiUYCAIBCwvv4B8N+//84O0B/fvvAw4X9dL7EfAS5QMU8u8F8+ruAP4MAQYDAfwOAfHw+QkH8/okJAn87/UE+fv8/v39EuvdIAfwCvMbIRMHFAr04Q4R/RXx/dce9RsN8PgM8DcOCQjjGzTVGufwFf4a9AESBBn0AO4LCeX6Gwf4Agv3AvYm+g==",
-      "category": "Box Loaders & Unloaders",
-      "path": "Archive/FL_filter-loaders",
-      "description": "Box loaders with filters on it, excluding crafters",
-      "position": 38
-    },
-    {
-      "id": "1375557473066418206",
-      "name": "mixed-loaders",
-      "code": "ML",
-      "embedding": "JQj8AScY9hfr6v7/+BH9F/z5AAf9zSHmCALu8+8E8wIZAPkA4vwB+fP0//QHAJoW4vPuHvoQBAP78gQCGf8H4B0C+/7+/wj2AvEv3/QJDRQbBiM9BQQSAAItBOMF+xffCAAkFff+GOb+/e3h+BUW+AsC8QQTAQEOBiQIBgQNGPf25h8cCf4A5fUMDvXeAgUS8t37Buge9wUE7PYb++nV+/oSAA0BAuYQBeb19gEW5/glJQb58voJAvH6AOX4EfzaDAj+/u0sFAsY/Q4E7wgOAhfyANgc6ScaDOoM+zQSBQ7cGynrHd3zDAUb9xIABRfw8vYHEeL0FhTz8gwGEPwe8Q==",
-      "category": "Box Loaders & Unloaders",
-      "path": "Archive/ML_mixed-loaders",
-      "description": "Box loaders which load mixed item types",
-      "position": 39
-    },
-    {
-      "id": "1375557143201316934",
-      "name": "accessible-loaders",
-      "code": "AL",
-      "embedding": "MQgLBR8Z/QPk5Ar27RT3Cf3n9Pfw3Rru/w76+e4GAfgU6OwB6PgM9Pv29gD7BqUR9/3aHAEFBfj76gj3JhMJ+BgC+AQD9AABAOwr8O0VDf0fGCQ8BAQK9gkfCeX26iLuDQUm+/baGNXyAPXm+x4hAAoE5QwdBgkKCx0GEBT6/AEP8xIBB/YLAfb+EPn78gsRAtPcDOkR7PwO7usU/PLhDvYM9QcN+fgABeH36QAM3PwQFgEL7vQSCPb7Buz9/+vTDQD2EOMlFwYSDw305xIn9w8HAcsi9isE/vv9/ikbFBDcKCTwG+LqAvMW9AQKAg35890SBO/jIQ7zGgcA/Act9w==",
-      "category": "Box Loaders & Unloaders",
-      "path": "Archive/AL_accessible-loaders",
-      "description": "Box loaders where you can access the box it's loading",
-      "position": 40
-    },
-    {
-      "id": "1375557962675912865",
-      "name": "other-loaders",
-      "code": "OL",
-      "embedding": "LAX5BCIS5wzs3wP89xsBEvr1/vz6ziTs7wr7+OwO9QwS+ez95gUKAPfu9wIKArYj7QDmJPgAEQgF9AD5LAML9h37+vL2/fz8API07PEQCA4aFSIwBAED+gwk9/EL/hfpCv4nFQHxD9oB+urj8xoV+iAN3gYcAAAFAB4KDg4PE/Xs4CYAC/z93O0G/f7mARQe99zuDPAU2AP/5wAQA/vr+eYB+AL+APP9/ubw5BAN7A4pHwoH5+wFEPT2DOT6CeLhDwD/+fIXGxQWHwL87gsS9A/2CswU6RcS+PYB9ToRDBrfIDPkCuT7//wfAg0FBhn16AIZD+vvFQz99QUKCPsg+g==",
-      "category": "Box Loaders & Unloaders",
-      "path": "Archive/OL_other-loaders",
-      "description": "Other box loaders (EG: CUD loaders or hybrid loaders)",
-      "position": 41
-    },
-    {
-      "id": "1375560446676963450",
-      "name": "box-unloaders",
-      "code": "BU",
-      "embedding": "LBQOCCEU/BD04Pj47RcCD/f9Afz23B3lDgzz+OcaAPYT9fT08gT+Avn78wMC8qQo6/rzHfsP/wD38AX4Iv4O/hIFAAQB8wD6/usn+PEXChQmCiQvDPwV+vgW894I9wXu/e8uCvzvB9/97QDm7BkZCRn25hEK/QQY+SYSAg//EAUB8BcJBPoB4/X1DwrjDQ0s+9LsDe0V8f0C5/YYAfvk/e8PABP/+v4O+Ob19gcU3vcaJvv85P8FAQr8/vz7EejYEgIEAuolFBcUHQL16AoW+hT9+NMm7iUG9fQI+ikRBxjjISvmI93vC/Eg/AAI/Q3mAOYbDeDjGgfvBhIK/AIs6Q==",
-      "category": "Box Loaders & Unloaders",
-      "path": "Archive/BU_box-unloaders",
-      "description": "Box unloaders",
-      "position": 42
-    },
-    {
-      "id": "1375559535976124717",
-      "name": "first-item-box-sorters",
-      "code": "IBS",
-      "embedding": "Hfv5ASod8hLd3fLm7SDuCPkK9QL68iDeHADi9uz2+AUi5/j09QUH+Prg/P739qYc8wT2Ee8j4/z9/N4aHgYc/xsD/BT6BfzzHAAmCfQf+A8WDyMwGhP/Aewx8dsJ8wvkAfYi+gH4FPf97u3i6gwLAgoEAAIb7vYKDR0DAAT8GQAD7B0LGf76/P3wJf36A/oT9uYI+N8i9fQB/e0JCfHl+OMV9gr/5v4SCAQT+xca3gELGwDu9wz3+Qn4+RoKCPPOJAj+/uwWC/4d/hby7/kBCx/8+N4N/CAEBgcH9x4RCxTfEEH+MtrvHwAlBvEK9hHx/usIC+gNGPID/wX8DAcc/Q==",
-      "category": "Box Sorting",
-      "path": "Archive/IBS_first-item-box-sorters",
-      "description": "Sorts boxes by item type of the first item",
-      "position": 43
-    },
-    {
-      "id": "1375559651579527208",
-      "name": "fill-level-box-sorters",
-      "code": "FBS",
-      "embedding": "LPQXAjMj5wb64Prg+hD2FQH+C/Hy5y/jD/vo7/0AAgsi2Pjo5AYC+vjnAP7++bMUAP/iHO4N/v0HCAUJIvojBRD6Dv7wCPv3JP8UAOkJEQEJByYq9fv/+QQt/98E/BH19fcGGe7wLPftAPvm9h8F/fka+BQNDgkPFCYUAgwEEvv8ABUcDfUA5gcAIQj5EhAHAN/zDOgmCe715/US8t7g++4f7wb7+hclAAT3ABEA3vYfGPn35foM+wzr7AsO/u7ODgEG+OIcDxcaBxkA+gL/AgkA+tMQ8hAZ9QD78R4PByHlKzb4LePoFP8QAvIc9A/6APwAFAAMG/78APH+AfAt+g==",
-      "category": "Box Sorting",
-      "path": "Archive/FBS_fill-level-box-sorters",
-      "description": "Devices that sort boxes by fill level",
-      "position": 44
-    },
-    {
-      "id": "1383890936488132689",
-      "name": "whitelister-box-sorters",
-      "code": "WBS",
-      "embedding": "G/f9Giv9AAjr5uzs8CQGDv4ABh8L6yjpDRrw7+wAEBAS4f/x/e0EAvvk6gQA7KIS4fL4FPIW8/n5AfQJGg4GACMHAw8GAPQFFgAy7eQm+gcTBx4qCgj99gAaDugA7h3z+/AVAP3nHebtBgHw2Q8SAvYO8Rn69/YPFB0LAA3tDQDu3iAZ/gb5BPX1Du8FAfAT8Nz/Ae4b4AUA6u4M/fDaBuYAAQMABw4NCB3+9Rka6v8fFQ394/bzEgDi+RIEAN7pHg0G/+I0EA4T/gLy8P8BAAQHGNUS/iIXChAC6yYACQ/3Hib9NPr1MQsj+/khARUH/PgWGPIAEfMI+vf///od7g==",
-      "category": "Box Sorting",
-      "path": "Archive/WBS_whitelister-box-sorters",
-      "description": "Sorts boxes by checking if it contains a specific item type in any slot",
-      "position": 45
-    },
-    {
-      "id": "1375562461276672042",
-      "name": "other-box-processors",
-      "code": "OBP",
-      "embedding": "KQr++BoIAxft1v3x9RDq8QAABfsF4S0FExL88+IN7woG4vn84g8AAff1+RgCCbUj9AD4IPEOChr56gUDJwEJ9xDx/vbvBP3uD/or6/oNGyYgDi0sAfgHAPoZ99YSAPjd+/whHurwHPIA7fHh5xoXAAwI3w4HAAH8ESQQDB/8Ewb40RIEEvX73ff2/Pz6/AYf9ejvEf0E6gb38f0NDu7c8eQE+gT/Afv8Avv87AIS9wcfQQkG5fP7AvgAB/z8DeraHwT5+uUbHCgQEAT95wMX/h799dMR8xQO/PgV7ygiCR7dJyPuDfT1+v0rGggCCSfr8fQFDv78HwAJ/O4R+uwn+A==",
-      "category": "Box Sorting",
-      "path": "Archive/OBP_other-box-processors",
-      "description": "Other box processors",
-      "position": 46
-    },
-    {
-      "id": "1375560792665231450",
-      "name": "top-displays",
-      "code": "TD",
-      "embedding": "IwwVACcI9BLs0fT2AA8QDQIHDfT+4R7pDfXu9eQU+u0b+/rx8RH1+wPhBBcA/aUsBRT0H/gR/QIAAff7IQUcCQ71BQj+Bfz9E/Ei+O0dDwYcAjIr+AIV7/Id9eQNA/zj/wEYA/L4G+jz8vDk+A366CT07RkTCf0RDiIKAw8FAgHw7Q4FDPsK3wz1E/32+wYf+OPlDuwLAQv15fIXF/3f/AURAAoHAfj7+OXs8goO1wAfHvQH5fwKC/zzCwoCBtXQFAsA9/ELFw0dJCP34/kJ/hAI+c0f7hz3//cGAC4i/x7XHyPzKOnhCQkpEf8MABvr+esDGvzmIAMD+/f3+wAv+g==",
-      "category": "Box Displays",
-      "path": "Archive/TD_top-displays",
-      "description": "Top box displays",
-      "position": 47
-    },
-    {
-      "id": "1375561551188328531",
-      "name": "bottom-displays",
-      "code": "BD",
-      "embedding": "JA0OBS0J9xTl0/z3AhQFCgAAD/b33RjmEfYC+98N/uke/ffq5gn/Bf7u/g8FBacmChTqGfkS9AACBf8EIQUQ/wv4+gT+B+8ODvUm8vEhFAkZCDoq9v8Q8/gi5OEQABHtAwEcEPf0IO347vvm7woA7h0A5h0JC/oKChYOChf9AwX08wwGE/sG4A0AIgEF+Aoo/uPeAuoZ+wIA2O4IEPLeB/sUBQ4YBPT4AOnw6RMQ4P0hH/sG8gATBgDrAwP/A9vJCQQA9uwVFxcJGh0G7ggOBwUH8tEd7CH5A/kN/ScdAxzXHBz1MOfxBgUnBgIA+h7x8PoADfreIwD1/vwA7/stBw==",
-      "category": "Box Displays",
-      "path": "Archive/BD_bottom-displays",
-      "description": "Bottom box displays",
-      "position": 48
-    },
-    {
-      "id": "1375561629378416740",
-      "name": "other-displays",
-      "code": "OD",
-      "embedding": "KAIL9jIO+BXp0vb0/xn9CP74BfLx4yHxDv/8/eQU/PsT/O394Q0A/wbvCRYBBKgnAhrvGQASAwMA9wD7KAYO/xj4BQX/BfT/BPU08vMKDwslAykr9vkC9gAd4+UO+QblBfgTDOjvHOLw5vDh7BUF9Bj+6xUbDvwHDRgDFRkFDADi3g8FFfoE2wACEf/+AAIt9fDnC+kJ7AP52vARH/fl+fURAAYFDOb2+uzx6QMV5AMfLAIF5voKCf/8D/3//s/bCQf+6OYSIQ8RHx0A7QQV+xH5AMoe9CMBAPb/8yApBRvkHBnyI+X0DQQhA/oPABvs8fIRF/bsDQH+/u4C/PMuAw==",
-      "category": "Box Displays",
-      "path": "Archive/OD_other-displays",
-      "description": "Other box displays.",
-      "position": 49
-    },
-    {
-      "id": "1375567732866551918",
-      "name": "multi-item-filters",
-      "code": "MF",
-      "embedding": "H+YnCCwV5wHp4PTt+R75FRAIBwkN8SnoGAD1APoe2RwY7AME3Ovz+/DZ/AEJArAc5Ab5DQMZCfQF/QYaCA4P8w0CDxT4AxTxBAAl9eby/QwVCCEf+fQB/fok8NUtAhTi/P4BAPbiJgbq/Qfs5RoFDQkNABkMAO0aERMZExDzHwH37foL/wD91gMIEu4N6vz65O31HgcH4A3/6eQPBgHb7xP8BhH/DP4JERX86wz2//wRIgP9/ef/BvftFQXoF/DZG/T68u8ZJAr++Q328wAP8xkHB+EY3Rj6FAkO4UIBAhLjCyUAGO4AEQQXCQkMCyP5/gEBIAHxFQwGAf7sEv8i7w==",
-      "category": "Item Processing",
-      "path": "Archive/MF_multi-item-filters",
-      "description": "Multi item filters check if an item is part of a set of items in the same slice/device",
-      "position": 50
-    },
-    {
-      "id": "1457547442017800284",
-      "name": "high-speed-sorting",
-      "code": "HS",
-      "embedding": "JwgZGCIJ0BH37t7z9Cb4/AwICAz88SDzEBvo6vAH8gQS+/L05QDz7/D08SAJDLgg6QPrGeou/w0E+vwSJQkP9BX39PzuABT2DP0VD9wI/gwSCw85BQIGBvkpAOgV6x3o/wcGD/fgHf8GC/nP7h0AEw0P7SMf++YdFRMDBwX/Jwn/5wMTAAr56AEHBQAC/Ajs8ejmBewK2wIC9PQe//jjBPAHBgsB/AYbBPj2/wn+7AsjHwDy6fwF/fzmFw4PFuTkIPX+BfscECYbERP++QT2EyL5A9gO6QwF+f0H6R7qASLqBjr5MQX2IwgSCQISCCH3+fgLKgP8GvcD9w4HEPcY6Q==",
-      "category": "Item Processing",
-      "path": "Archive/HS_high-speed-sorting",
-      "description": "Sorting technologies which can filters items at high speed. Stack seperation, cart based filtering, etc...",
-      "position": 51
-    },
-    {
-      "id": "1375564342392786944",
-      "name": "unstackable-sorting",
-      "code": "US",
-      "embedding": "IgcbAiYG8SDv5e/z4in0AwP+CQr87xzNBv4A6+MJ7AUS7wbx5QH/+AXs8B8MB7Ec6xjvEPIj9QP68/gJMwkF+hQAARDk/fUDBvoUCuojAgsdCBQ6//wN/uEs/ukM9xrh/O4YBf32BfwAAPXk3QkDERMI7CUhAe4FDQX8Awr1FP749wkcCAf76woNGAIAAwYC7/vvAOsU/fYF9O8ZAvHmBvoAAAcNAA8H8gIHBh4a3QcSHff15en3/PEAEhn8E+HpIf8E8tkiFggWBwTt9gT9ARPu/tAQ4hbv6/4D+ygA/hfiJi0FTPADLPsU+v0ICCTS+v4PIvoDDAH7CAcEFAUU7Q==",
-      "category": "Item Processing",
-      "path": "Archive/US_unstackable-sorting",
-      "description": "Sort unstackable items by its type, typically by exploiting unique interactions with that item",
-      "position": 52
-    },
-    {
-      "id": "1375564209882009772",
-      "name": "other-item-processors",
-      "code": "OIP",
-      "embedding": "JAwK/R0M+w/i3Pn4ABzz/v8H/QgO8ikCFgz1+tUK2Q0I5PYH3Af6/Pj17yAOCLkW9AXpHPcKDxMC5QMFLQUK9A718v7vBQbhBfYo7wUOFCUdDDMw+gcH+/Ea6dgT+wTlAPYbGvjkEvMD6/Tk7BQRCwT93wwT/uv/HRgTEyL9JAXu1gsIEvn32f4ABP/69wsT7/L1BfoJ5AAD7/QMGfjV7egIBAkAC+v8B/UB6voZ/gYPNwT76PHyAOwAB/z8EujeIwD69+0cHCwLBAUG7PkLAyUH+doO9RYJAfMR5ycdDRbdIiD4EvwA/P8tFg3/Eyjp6v7+GQL9GQEH8fAMCO8g9A==",
-      "category": "Item Processing",
-      "path": "Archive/OIP_other-item-processors",
-      "description": "Other item processors",
-      "position": 53
-    },
-    {
-      "id": "1375570772348764392",
-      "name": "autocrafting",
-      "code": "AC",
-      "embedding": "MRYfCiMW/wLt0PME/BH4HfIMAATs4yv6CgD6As0Q+AIX6Pnw0AL/B+nw8AYLCaU3/hLfIgUGEg4G9v0DKgAOAwDx9gLi8gz+B+8g/vIIDAkkCSE0///6+QEb7doG7Bjg/wkgEATmEgIH+/Dl7hMWEBYV6w8N8wAQEBYZAQEMGQ7w6RIJ+Af66/gA+gzg9wcW+enxGucY4QP5+/cG9/TrAwEL/QIHDw4VC/b1+REEBv0aIfkD7PP4Bf7+/xD8CPrjGgT4C+wjMhwRAALw6QwQAhP0BtYM6xAA7/j96ioAEBHeJyXrKfHjDAMh+QcYCCD2CfUBFeIKHA30+Pj7FP4p6w==",
-      "category": "Item Processing",
-      "path": "Archive/AC_autocrafting",
-      "description": "Autocrafting devices, excluding crafter filter loaders",
-      "position": 54
-    },
-    {
-      "id": "1375563169904459846",
-      "name": "water-transport",
-      "code": "WT",
-      "embedding": "Iv0QFS4J+Bz23u/yBBX2DRHyEQYC+iP1BfvuGN8aAQII9vYA7ALp7fUHAAAC/bEU8BXiFwEsAAsAA/zyLwsJEQr36Qvy9xr2APwW4/kDCxMh/hw0ABUmCvgo99/6+RHo+Aoh/PfhFvwE/OzP8hEVFRn47QgR9fEPAR4XCAEHFw/t6gALEAb86/UAFATjAx0YDPvv/AkG7wn98u8WAQ7k5/kOEgAUAe0JBvLw6hcN+fIcIQDr9AfyGgfvAf8S9+2/Fvz37vYeDCEaJvzt7AME7P31+NQK3wDw9vP2BSoe6DDVCRsCMOD8C/wYGgAPBiLeCfIBDv3qHgL//gkU+gIo6A==",
-      "category": "Transport",
-      "path": "Archive/WT_water-transport",
-      "description": "Waterstream tricks",
-      "position": 55
-    },
-    {
-      "id": "1375563020478058557",
-      "name": "dropper-transport",
-      "code": "DT",
-      "embedding": "Kg8SGUAg7BsA2/AAABbxEffyAv7/7CvuB+fgJNYPC/gO9QXy+foA5wIAAQL+9bAbAAfbIucQCwACA/zuIPsbDAQA6g7x+wv3BvIe8P0RBxAoCzI++wUKBwAj7+b79wnyBwAUCe31F/AA9vXy9BYH/QsF6AkV4AQOABQfCf8VDQrr/P4JBQP23P4OKgXvChsa/vnlBggH6AACAP0G/Anh9esbEQAQCP0GDuL46RQG+O8jDvju9wIA9f309A/2APnBGgYK+vMYGRgPAvXk8hEF6Qb0+dn74gMBAPkEATMSCSrdGyj4I/jxAAcjChES8h7nF/MHH+z8J/LpCgwH9fkl8A==",
-      "category": "Transport",
-      "path": "Archive/DT_dropper-transport",
-      "description": "Dropper lines and auto droppers",
-      "position": 56
-    },
-    {
-      "id": "1387131693411995658",
-      "name": "nether-transport",
-      "code": "NT",
-      "embedding": "GwX8ECr89SXy5fvl/x3uBwT5BwYA7S34G+3iDOEI+/YM1+759wXu4/cS8hUF+cYiAhjeDQoYAw3+AAkAOhgHAfwG/A779Azz+vQJ7w70BB4T7jI+Bw0RDfQsCuf4AAn9AeMVFQ3XJez7/v7e7AAFBQD/DAoC9/QMBhUREh0CEgnrAQ4P/w7y5u39JwDb8SUpCOfq7eYT9vUL/d8FAA3u7OIHA/n7GvwPDe7t5xIT/v8YHPsD9PkFDgAC9AYC8/ziHgn3AgMR/iISAuvm+QYE6w/mCuoa6gbwAA7zAjoSBhTfEyDqOuDbEPwmAg4RBhXkBfj/GPoLJvT//woHAP0r/w==",
-      "category": "Transport",
-      "path": "Archive/NT_nether-transport",
-      "description": "Transporting items in the nether",
-      "position": 57
-    },
-    {
-      "id": "1375563297230688327",
-      "name": "cart-transport",
-      "code": "CT",
-      "embedding": "GxEUGiMT8BQA3/PsBxr7BQT+DPT/8CXvKfv9D+AP+woR4Pr99AXx1OwN/w8J/K8a9RXeEvsVAAn3/wb3HhEWDw4F5xr35BLxA+kR9Ov8BBMJ8Dg3AAwRGfkV9uDv+w/zBvcJDA3+Evv1CfLH9/8I/gAN+RIP/PkHBBYEARIKDxP6+hIPCPPz7vL9IQboBRszAe3fAfAL8fwH+eYS7QTH3d4QCvAQBAMLE97q1goY9gcXGAMI8ff/8fPs//4MCO/bDfsABfclFh0AEwPo+wD67gzn7+wS4wv3EQAJ/Tsb8RDZFSgDNObrFQgtDQwa/Br4+PkEFvT1EP33ABMI9Qcd+g==",
-      "category": "Transport",
-      "path": "Archive/CT_cart-transport",
-      "description": "Minecarts",
-      "position": 58
-    },
-    {
-      "id": "1397058827722948699",
-      "name": "chunk-loaders",
-      "code": "CKL",
-      "embedding": "JhEUGy0F5Pzs7/z9AxD3Egb0AAT95y/2AAzr9+IG5wIO+e8F3gsM7en3/wYR/asa7QDZJAD3CPYM+AkBKfwH9RT1AAb58xD1AOoV9Qb5FCQVERciAAAa7/wsANkE/BHlAxAwEwvnE+IJBPDi7wwW/BEC7A4J9/8RAiUgBAL2HgP71g0FDvsM6/kFDgXqCxAQEdbeB/kT6AX06ucQA/Ta/O8P+/4BAgACBd/x+QUP5/IhHwvq6/ILAfMACO8IGPLaEgMJAfQlGiUGGAXv7vYT9B/3BNMi5RMGAfgD/jgG/BfoGynvKOEAAQIo/R35FBrl8fAJDf30Ggvv+QISDPwr8A==",
-      "category": "Misc Devices",
-      "path": "Archive/CKL_chunk-loaders",
-      "description": "Chunk loaders for storage systems",
-      "position": 59
-    },
-    {
-      "id": "1457538260892127293",
-      "name": "peripherals",
-      "code": "SP",
-      "embedding": "JCENAysJ8w7u5PnnHQjnFe/4BxoI9B4JDP7/+t8C6QEe2u4F3Az+/eX9/RoFEcQe/wTUFw0TGAsN9/n+GRb+ABLo9fgEBgsN8+0c5QD4GB4LABYl/AcI8+Aj89Qf8wvpBQMZKPrxHv0J7wTr4x8J/g8OAgwL5xYTHRICExL4GgcI2vgQ8wgB4fcOAxb5/xULANf5Bvsf8vUD+u//IhPt8PAO/QgACwn7AwEP6AgE4wUaKv3x8OgBAP/7/PMLCebfGukD/esYGw0SEw387gECBhn5/ssS6SLr4/EB5Cf+EizsKC/gIe8GGwMgCxYNDxjf//38Fub3EQUC9ukNAPAk/A==",
-      "category": "Misc Devices",
-      "path": "Archive/SP_peripherals",
-      "description": "Peripherals for storage systems. EG: Furnace arrays, brewers, mass-crafters, etc...",
-      "position": 60
-    },
-    {
-      "id": "1386443869729587291",
-      "name": "clocks-and-counters",
-      "code": "CC",
-      "embedding": "IRIj7iwA9wPv4v78CRvxCxAAFwIJ+S7y/e72+tce+gMW/PkA5f/5CffrBRD+DbEjBfrjDwYJAAfxAvwDLP4dBg33DwEHCPj7+Ago7gEHIw8e/TQZ9/sK+vIp9d0fAQLt9BIWFfnzOvEG6vXk6QsA9RcE/hYl+P8PCQYJ+hATHAfv1wAEGeb/3QoMAB7++xEY+N7lAvoU8/r9++wBFxbn/OwWC/0MCwACBvbx+CAW3gwQIvrz9+kGEA74CwkIGezXAgX27uQjHiAUEiQI6AEH9hH1AM8h6gvzAPAN6BEKCSrbHhgADvPz+A4wBQIA/CDiCOj7Hv4D/wb7APAEC/4t/g==",
-      "category": "Wiring & Logic",
-      "path": "Archive/CC_clocks-and-counters",
-      "description": "Clocks and counter devices",
-      "position": 61
-    },
-    {
-      "id": "1457041921531842581",
-      "name": "logic-components",
-      "code": "LC",
-      "embedding": "LvwkESoD8Af27P0IEhAA/Af/GRoJACL8EwXj9OoX9A8I+/EO3PT4C/nuAAgJALEh9QrgE/sPCQAL9QAHIQwO+xT6Bwns/QEN+OAe+fYDER4gAS8l+v4M/+sy6tYO6wTaAf0AIPj/IPMR9+7n6h4Z8iIH7hYQFP0JCAwBDxUECw/u1QAJFPsB2gr4ACX+9Q8IBfDqEfoM+vwA8usTEwfU6PUSGP8YDf35Dv/uzQ0I5/EGJvjv8e4A+gz1AucAC/PdEwQVAPIqGiEcG/37+hIHBzMFENIa5wv2/QAL6CME/TDTGyYEEfL7BxIVEwAEEhDoBfPuCvQLHP4KEvv8Bu4Q9g==",
-      "category": "Wiring & Logic",
-      "path": "Archive/LC_logic-components",
-      "description": "Components for use in logic circuits.",
-      "position": 62
-    },
-    {
-      "id": "1375569954073477120",
-      "name": "variable-item-processing",
-      "code": "VIP",
-      "embedding": "KQMQAx4Z9xvg5O7u/B/6+xADDxsF6C7+AAbs69gX5vwU8PX27/v/9wDf+Q0U+LMa/gXVFAIMAQQL9AkFHgIJDxb+/x35Bwb1Df8T/u8XDyYdBiku/gcR+voq7+MGAQ7bAv0KDfvvF/j3CPXP4xwGFxYJ6xQb+/kGHBEUAgftIQn04gMAGQfy4vQBEfsBAAAPAOru+/EhBgQC7esWAPfX5vUlBCEC+foMBAEI9RIX5wAVMfz57fX1BADnBP33E+feIQT37OQiFBEcBgn0AfcKDiMY8dcJ7BL/BvUC5CgGEhHgHS0OMvH1DwAlBQb0Eibm+wf/HvsAEvkM8QgSAAIU+Q==",
-      "category": "Advanced Tech",
-      "path": "Archive/VIP_variable-item-processing",
-      "description": "Variable item sorting",
-      "position": 63
-    },
-    {
-      "id": "1375570066451599401",
-      "name": "variable-box-processing",
-      "code": "VBS",
-      "embedding": "MQEHACAW/Rzj4O7m9Bnx8RP6Fg0A3TL+Awrz5uMc9fkQ7/Xv7QAE/P/gAAsK+bUj/wLgGv4R/AgC+AkDG/4HFhYABRD4Bv8EFgEY/+USDiUjBiMqAvoM/P0n+94CBAbZAP4PEvD3H/HyCPHM3SEPDRsT6RQTAQsFEB0PAATwFgn84AcBGgH54PD4DPwGA/ofAejnAPQfBwT77PAZ//Da7Pci/SAD8AIP/gcD8RoU6QAhNgP/6Pb8CA7nAP/6DOrdHAv08t8iFhAdEQ/sAwMRBx0N79IL7hACBPoC7SoRERziHy4DL+rtEQAgCAD8DCTlAP8FFvoDFPYO+QcS8wAU+w==",
-      "category": "Advanced Tech",
-      "path": "Archive/VBS_variable-box-processing",
-      "description": "Variable box sorting",
-      "position": 64
-    },
-    {
-      "id": "1375569870577467412",
-      "name": "parallel-unloader-arrays",
-      "code": "PU",
-      "embedding": "Hw0bBRUW6v7y3AH//BsH/PvjBBkI6Sfk/A/89usO3Pse+Pj98gIC///++QcF/rwg5gDfCBAECAH76wD3Hw4KDBz++wD85woB7v0d7vgIEB0bBBgmB/wO+vwN/N8CBfrsBP0kHQD0GewIDgDT3goWFhX62BceAAIRBhwf/Ab9JQEA6QX9CAH+2OYBDg3cACYeCuPiD/UU3wfv5vsTFQLcDf0YBg3zDgD9AOnw/hMR2PsWHv/58fwIA/v+AO32I+bkFu0O++keGxgcIP737wED9hsE+cwV8xwI//0K7z0AAiLkLiUCHvL7B/QjBRH4CBna6gUKEebbKAL6+hEFCfQe5w==",
-      "category": "Advanced Tech",
-      "path": "Archive/PU_parallel-unloader-arrays",
-      "description": "Parallel unloading arrays",
-      "position": 65
-    },
-    {
-      "id": "1460787565207490805",
-      "name": "sequential-shulker-unloaders",
-      "code": "SSU",
-      "embedding": "KQMHChcc5wno6uf67hP4DwUD9gj34RXW/xru+NgU7gEa3fgABPwP8uz/9AQaEbgR5QDbGgYV8voH6/cNMP8SAxL1/vntCAj9/QwuB+QO8xYXCg80CQUG7P8a/eoK5Qv5BPcsCv7sC+cF/PXv8A0WDwr43hsS6+kV+AkDCfrnHgAA8xAUAwf31/MGEQ7m+hkBA+HqBuAo9/4C3/IHBPPf++8M+BQC6xIJBebzGQYb2gAhLwHs4+0FDPX8+RAADu3pFQL9EtUYFhEjHPn4AP0F7g0G8NwC8hsQAAIA4iIIAxbkEifyIfj89/ok+/H4CxjY+f4LFuXxGAP8BSEWAQkl7w==",
-      "category": "Advanced Tech",
-      "path": "Archive/SSU_sequential-shulker-unloaders",
-      "description": "Sequential shulker unloaders and other advanced fixed item sorting techniques.",
-      "position": 66
-    },
-    {
-      "id": "1388599490898038945",
-      "name": "item-layouts",
-      "code": "IL",
-      "embedding": "Jg4RFCUR9vjd5PjrDRX1CwELBA/38yj1H/z6+/AE5wAA7Pv55QwA9fL1BQ4U+a8Y8ALuD/sM/AD//P8KGAgFABbn8hsBAQYEAOIS+fkCDxUZACIgARX6/vAt+8kN+wDwCQMZFvwCHegA5gDe9Q31/hIH9gcR9PcQERcaDAf4Ffz03wAGHgEF5PwLJAD7/xEf+ufsA+oO+fgC4esRCwDV4O0h+xADBfMAEeoA8wUd4PMNLgTo7vMNCP7zC/sBCd7SD/QI+/cdExETEQv9APf//xoMCOEt6yDqAvIN8jsiAB3cFCT7L+EGCxEsDh4FFiDn+/QRFAH8CwEGAfsCDAci+g==",
-      "category": "Other Resources",
-      "path": "Archive/IL_item-layouts",
-      "description": "Item layouts for storage systems",
-      "position": 67
-    },
-    {
-      "id": "1388599778941861898",
-      "name": "testing-guides",
-      "code": "TG",
-      "embedding": "PgcHEjUA+Q702wMHExEMEgn7DBTz+AXkEAADAOoG7wD81/IE4vcABwzpAPf0HbMn6QPzIhD4AQ8EBfoKNg7+FAkJChjwAADwAPYh6fIRFxoM8iUm8hkLE/ghB93++QbYAgcEA/DnG+b4+Qbf3SfyAwMI9RUR/uYV+hQKBxIADRXn7QYJEQH2/QsIEhT57v8LAOnsCuoc8hP++fQSCA7P7v32CwATAv8CCAf85xgYAPP7GPsA4RADDATjAAD3BuLsLwEV9fApGhIGGxfz/hMi+RAAHOkT7gD08vX5AkAP7xvnExgTJs39CRUfAfYL/xrbAP8RIfH/DvH1Bf0GBgQQAQ==",
-      "category": "Other Resources",
-      "path": "Archive/TG_testing-guides",
-      "description": "Reference material for how to test things thouroughly",
-      "position": 68
-    },
-    {
-      "id": "1388657467508133928",
-      "name": "tricks-and-tips",
-      "code": "TT",
-      "embedding": "MgMXCD8E/R/x4+wC/gH1GAUCCQ/+4SLuB/v3At4b+fUQ5P345+39/Pr1+BEK/48t6vHwFAsJBAUDBuT3MvUDBQUF/RHt/Aby9/oq6PsOIgwQACk2/vghA+oM8NUWAg3cCgMy/PfuDewB8/bk7RH8ESL06Q4R+e4Q+CcdBw/+EBT09Aj7EPfp5g0ECP71Cv0VBvD6AAEL/wYG6vwZCQvr5QkADQMQ//8I/fXvBRwB5wwTGvj99AL1CQXyC//5BdLsM/777/YoIBoIFxj76wcW/QX7C9wc5Qz49ez49ScW6i7lHRn8Jdz2DAwkAP0N8Bjd9u4GFAPvCAn0BP4PBwMbAA==",
-      "category": "Other Resources",
-      "path": "Archive/TT_tricks-and-tips",
-      "description": "How to guides for tricks tips and more",
-      "position": 69
-    },
-    {
-      "id": "1410149299169267792",
-      "name": "tomes-and-diagrams",
-      "code": "RD",
-      "embedding": "LwwcAzTz8xT03/IVAxL/HAj9BvYB5w/qFPT58dIU9fMR7unr3fsLCwXyACAJE54j7wTlCAISAQYH+wj1PBYJCAbr+hXpDBAP4e4R7fUDDQgeCigm/AoJ/u4f9c0A+x/vEAggD/4AFvEB9fjw9Br3/hH49x4K9/YUBwkc/ycQDwfp6AYAKPbm7RIOCBD1CP8i8vP//gEU9PgD+P8RFxHl5f3+CvsPAgkF++UB4xkJ8wgQGAIA7AAG8gr6D/YEB9LrKgkf8uMkFQYUDBD+9A7+/xr9CNAW2v7wB/cA6y0W9xL0EyMALNjyDPokCfwF7xXY//ARHfj+CQf2AgItBPkOAQ==",
-      "category": "Other Resources",
-      "path": "Archive/RD_tomes-and-diagrams",
-      "description": "Miscellaneous notes, guides, and diagrams with questionable utility",
-      "position": 70
-    }
-  ],
   "postSchema": {
     "title": "Submission",
     "type": "object",
@@ -471,5 +69,40 @@
       "headerText": "Instructions",
       "isOrdered": true
     }
-  }
+  },
+  "globalTags": [
+    {
+      "name": "Untested",
+      "emoji": "⁉️",
+      "colorWeb": "#fcd34d",
+      "colorMod": 4287393280
+    },
+    {
+      "name": "Broken",
+      "emoji": "💔",
+      "colorWeb": "#ff6969",
+      "colorMod": 4287306266
+    },
+    {
+      "name": "Functional",
+      "emoji": "✅",
+      "colorWeb": "#34d399",
+      "colorMod": 4280188702,
+      "moderated": false
+    },
+    {
+      "name": "Recommended",
+      "emoji": "⭐",
+      "colorWeb": "#29b0ff",
+      "colorMod": 4278216396,
+      "moderated": true
+    },
+    {
+      "name": "Independently Tested",
+      "moderated": true,
+      "emoji": "🤓",
+      "colorWeb": "#fb65ad",
+      "colorMod": 4290904319
+    }
+  ]
 }

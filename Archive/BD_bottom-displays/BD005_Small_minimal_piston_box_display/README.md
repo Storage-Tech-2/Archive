@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Tested & Functional, Recommended, Auto Replacement, Reliable Collection*
+**Tags:** *Functional, Recommended, Auto Replacement, Reliable Collection*
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317258144546846)
 

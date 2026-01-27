@@ -1,7 +1,7 @@
 # 4gt Stack Separator and Sorters
 <img alt="image.png" src="images/image.png?raw=1" height="300px">
 
-**Authors:** *RaPsCaLLioN1138, justglotz*
+**Authors:** *RaPsCaLLioN1138, Glotz*
 
 **Endorsed by:** *TisUnfortunate*
 

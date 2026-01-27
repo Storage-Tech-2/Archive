@@ -28,11 +28,11 @@
   ],
   "tags": [
     {
-      "id": "1385488491810394301",
-      "name": "Tested & Functional"
+      "id": "1465491305663823944",
+      "name": "Functional"
     },
     {
-      "id": "1385789116905685055",
+      "id": "1465487442030366858",
       "name": "Recommended"
     },
     {
@@ -46,11 +46,17 @@
       "name": "area_render_170_.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1455665138035196086/1460311395815133325/area_render_170_.png?ex=69667478&is=696522f8&hm=30b07b8087634a7d6834d1a1fa61f2f8ebc1aa08ef8ae6ce03f586005c9fe84b&",
-      "description": "Sent by andrews54757 at 1/12/2026, 11:36:08 AM",
+      "description": "",
       "canDownload": true,
       "width": 781,
       "height": 639,
-      "path": "images/area_render_170_.png"
+      "path": "images/area_render_170_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1768235768000
     }
   ],
   "attachments": [
@@ -59,13 +65,20 @@
       "name": "CT003_stacked_cart_yeeter.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1455665138035196086/1460311396070719742/stacked_cart_yeeter.litematic?ex=69667478&is=696522f8&hm=784ad2f6ca9776310893bda9cada99a0307d333e84e93a3edc51da1306bf4242&",
-      "description": "Sent by andrews54757 at 1/12/2026, 11:36:08 AM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/CT003_stacked_cart_yeeter.litematic",
       "litematic": {
         "size": "3x5x6",
         "version": "1.21.4"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1768235768000,
+      "size": 663
     }
   ],
   "records": {
@@ -124,5 +137,6 @@
     "uploadMessageId": "1460311647401939221"
   },
   "archivedAt": 1767128166823,
-  "updatedAt": 1768494987412
+  "updatedAt": 1768494987412,
+  "num_comments": 0
 }

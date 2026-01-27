@@ -28,11 +28,11 @@
   ],
   "tags": [
     {
-      "id": "1385488483170386069",
-      "name": "Tested & Functional"
+      "id": "1465491132455588024",
+      "name": "Functional"
     },
     {
-      "id": "1385789106755473500",
+      "id": "1465487332890120325",
       "name": "Recommended"
     },
     {
@@ -50,22 +50,34 @@
       "name": "area_render_79_.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1388571718632607795/1388571719413010483/area_render_79_.png?ex=686177b0&is=68602630&hm=16a12389a0c0061a4c3e18907659c360e635db3511b86d6958ba885f83e7d9b3&",
-      "description": "Sent by andrews54757 at 6/28/2025, 1:28:16 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 550,
-      "path": "images/area_render_79_.png"
+      "path": "images/area_render_79_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1751131696000
     },
     {
       "id": "1388571720239026317",
       "name": "area_render_78_.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1388571718632607795/1388571720239026317/area_render_78_.png?ex=686177b0&is=68602630&hm=0ef382fc154876b2f75bf4635296a7c49925c2dbb211d1e7b97508946582262f&",
-      "description": "Sent by andrews54757 at 6/28/2025, 1:28:16 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 489,
-      "path": "images/area_render_78_.png"
+      "path": "images/area_render_78_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1751131696000
     }
   ],
   "attachments": [
@@ -74,26 +86,40 @@
       "name": "CH007_acaciachan_36_Hopper_FHL_10_Chest_Hall.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1388571718632607795/1388571720495009832/acaciachan_36_Hopper_FHL_10_Chest_Hall.litematic?ex=686177b0&is=68602630&hm=18af6cb92502b764886d3e6c0907a474da7bb434b0579f3a919423eb8b8349e9&",
-      "description": "Sent by andrews54757 at 6/28/2025, 1:28:16 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "31x19x3",
         "version": "1.14"
       },
-      "path": "attachments/CH007_acaciachan_36_Hopper_FHL_10_Chest_Hall.litematic"
+      "path": "attachments/CH007_acaciachan_36_Hopper_FHL_10_Chest_Hall.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1751131696000,
+      "size": 2942
     },
     {
       "id": "1388571720977350686",
       "name": "CH007_acaciachan_32_Hopper_FHL_10_Chest_Hall.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1388571718632607795/1388571720977350686/acaciachan_32_Hopper_FHL_10_Chest_Hall.litematic?ex=686177b0&is=68602630&hm=14e77608969612d5c31d30de011510d47eb8840a6672e34803412db552d39f1c&",
-      "description": "Sent by andrews54757 at 6/28/2025, 1:28:16 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "29x20x3",
         "version": "1.14"
       },
-      "path": "attachments/CH007_acaciachan_32_Hopper_FHL_10_Chest_Hall.litematic"
+      "path": "attachments/CH007_acaciachan_32_Hopper_FHL_10_Chest_Hall.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1751131696000,
+      "size": 2807
     }
   ],
   "records": {
@@ -176,5 +202,6 @@
     "uploadMessageId": "1388572744890978335"
   },
   "archivedAt": 1751289629002,
-  "updatedAt": 1751289629002
+  "updatedAt": 1751289629002,
+  "num_comments": 0
 }

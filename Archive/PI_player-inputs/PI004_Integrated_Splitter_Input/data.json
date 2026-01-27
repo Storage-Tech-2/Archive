@@ -35,11 +35,11 @@
   ],
   "tags": [
     {
-      "id": "1385488514329870484",
-      "name": "Tested & Functional"
+      "id": "1465491660728307775",
+      "name": "Functional"
     },
     {
-      "id": "1385789146638975161",
+      "id": "1465487669613039621",
       "name": "Recommended"
     }
   ],
@@ -49,11 +49,17 @@
       "name": "spimage.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1399585065339453513/1399585066375581788/spimage.png?ex=688988aa&is=6888372a&hm=d6726f82032b315c5be4508dbd2c0ca04fd25a01db0c727e7025d93f23859b8c&",
-      "description": "Sent by andrews54757 at 7/28/2025, 10:51:22 PM",
+      "description": "",
       "canDownload": true,
       "width": 688,
       "height": 800,
-      "path": "images/spimage.png"
+      "path": "images/spimage.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1753757482000
     }
   ],
   "attachments": [
@@ -62,13 +68,20 @@
       "name": "PI004_Integrated_Splitter_Input.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1399585065339453513/1399585065800831036/Integrated_Splitter_Input.litematic?ex=688988aa&is=6888372a&hm=4d9d58492e1a0ecf9802c1e7695f99c2b98c3e60acc56516f60c1baa83c8ec08&",
-      "description": "Sent by andrews54757 at 7/28/2025, 10:51:22 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/PI004_Integrated_Splitter_Input.litematic",
       "litematic": {
         "size": "7x8x6",
         "version": "1.21.4"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1753757482000,
+      "size": 1903
     }
   ],
   "records": {
@@ -121,5 +134,6 @@
     "uploadMessageId": "1399585558921085002"
   },
   "archivedAt": 1753757600081,
-  "updatedAt": 1753757600081
+  "updatedAt": 1753757600081,
+  "num_comments": 0
 }

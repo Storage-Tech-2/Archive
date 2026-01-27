@@ -33,11 +33,11 @@
   ],
   "tags": [
     {
-      "id": "1385488478745137341",
-      "name": "Tested & Functional"
+      "id": "1465491037492609066",
+      "name": "Functional"
     },
     {
-      "id": "1385789101374046273",
+      "id": "1465487257413615713",
       "name": "Recommended"
     },
     {
@@ -55,11 +55,17 @@
       "name": "2021-12-31_16.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386945318175899690/1386945318645534781/2021-12-31_16.png?ex=685b8cfc&is=685a3b7c&hm=945fe700ef45ff2cf7b766b4d5b2d6bf8698cdda82f5d8ff8f5fc822c0ec9250&",
-      "description": "Sent by andrews54757 at 6/24/2025, 1:45:32 AM",
+      "description": "",
       "canDownload": true,
       "width": 697,
       "height": 800,
-      "path": "images/2021-12-31_16.png"
+      "path": "images/2021-12-31_16.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750743932000
     }
   ],
   "attachments": [
@@ -68,13 +74,20 @@
       "name": "BD005_ken_small_minimal_piston_box_display_1171.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386945318175899690/1386945318913839124/ken_small_minimal_piston_box_display_1.17.1.litematic?ex=685b8cfc&is=685a3b7c&hm=da2670162d6b51a8563dd84684d4019b6684efa716b332693a7895d36474ff1d&",
-      "description": "Sent by andrews54757 at 6/24/2025, 1:45:32 AM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "5x7x1",
         "version": "1.17.1"
       },
-      "path": "attachments/BD005_ken_small_minimal_piston_box_display_1171.litematic"
+      "path": "attachments/BD005_ken_small_minimal_piston_box_display_1171.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750743932000,
+      "size": 887
     }
   ],
   "records": {
@@ -140,5 +153,6 @@
     "uploadMessageId": "1388178173996568586"
   },
   "archivedAt": 1750744033654,
-  "updatedAt": 1750744033654
+  "updatedAt": 1750744033654,
+  "num_comments": 0
 }

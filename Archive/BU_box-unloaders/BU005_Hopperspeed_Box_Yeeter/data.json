@@ -10,9 +10,10 @@
   ],
   "authors": [
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "811784902823116840",
       "username": "figi2019",
+      "displayName": "figi",
       "iconURL": "https://cdn.discordapp.com/avatars/811784902823116840/9f3ed6baf8357688266c6e09c67558c3.webp"
     }
   ],
@@ -27,12 +28,12 @@
   ],
   "tags": [
     {
-      "id": "1385789096542081145",
+      "id": "1465487154460364877",
       "name": "Recommended"
     },
     {
-      "id": "1385488474148438035",
-      "name": "Tested & Functional"
+      "id": "1465490889140076728",
+      "name": "Functional"
     },
     {
       "id": "1386248713151844423",
@@ -45,11 +46,17 @@
       "name": "BU005_figi_hopperspeed_box_yeeter_1171_render.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386937530808537098/1392582502002065439/BU005_figi_hopperspeed_box_yeeter_1171_render.png?ex=68700f05&is=686ebd85&hm=560b20c27da7931e57506424b19259fce276e6aa7ae912ae87f1375533c85214&",
-      "description": "Sent by TMC Schematic Renderer at 7/9/2025, 3:05:41 PM",
+      "description": "",
       "canDownload": true,
       "width": 612,
       "height": 695,
-      "path": "images/BU005_figi_hopperspeed_box_yeeter_1171_render.png"
+      "path": "images/BU005_figi_hopperspeed_box_yeeter_1171_render.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "TMC Schematic Renderer"
+      },
+      "timestamp": 1752087941000
     }
   ],
   "attachments": [
@@ -58,13 +65,20 @@
       "name": "BU005_figi_hopperspeed_box_yeeter_1.17.1.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386937530808537098/1386937531685142620/figi_hopperspeed_box_yeeter_1.17.1.litematic?ex=685b85bb&is=685a343b&hm=2491cf0a8626e341714b233ecbdb9c2c278ee14bf85e2a62e5fe9f9485ce883d&",
-      "description": "Sent by andrews54757 at 6/24/2025, 1:14:35 AM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "3x6x6",
         "version": "1.17.1"
       },
-      "path": "attachments/BU005_figi_hopperspeed_box_yeeter_1.17.1.litematic"
+      "path": "attachments/BU005_figi_hopperspeed_box_yeeter_1.17.1.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750742075000,
+      "size": 816
     }
   ],
   "records": {
@@ -119,5 +133,6 @@
     "uploadMessageId": "1388177946585600061"
   },
   "archivedAt": 1752087962505,
-  "updatedAt": 1752087962505
+  "updatedAt": 1752087962505,
+  "num_comments": 0
 }

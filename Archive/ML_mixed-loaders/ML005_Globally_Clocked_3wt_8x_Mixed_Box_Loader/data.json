@@ -32,12 +32,12 @@
       "name": "Global Clock"
     },
     {
-      "id": "1385789085947527315",
+      "id": "1465487004950204725",
       "name": "Recommended"
     },
     {
-      "id": "1385488466447695900",
-      "name": "Tested & Functional"
+      "id": "1465490666501963848",
+      "name": "Functional"
     },
     {
       "id": "1386244848272801895",
@@ -50,11 +50,17 @@
       "name": "3wt_8x_Mixed_Loader_Globally_Clocked.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1388545201961963610/1388545202863472720/3wt_8x_Mixed_Loader_Globally_Clocked.png?ex=68615efe&is=68600d7e&hm=02519fb491abda39c4a5e48007283f61f86ef9fcdeed40e1d135554a3862aed0&",
-      "description": "Sent by andrews54757 at 6/28/2025, 11:42:54 AM",
+      "description": "",
       "canDownload": true,
       "width": 697,
       "height": 800,
-      "path": "images/3wt_8x_Mixed_Loader_Globally_Clocked.png"
+      "path": "images/3wt_8x_Mixed_Loader_Globally_Clocked.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1751125374000
     }
   ],
   "attachments": [
@@ -63,13 +69,20 @@
       "name": "ML005_3wt_8x_Mixed_Loader_Globally_Clocked.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1388545201961963610/1388545202192646184/3wt_8x_Mixed_Loader_Globally_Clocked.litematic?ex=68615efe&is=68600d7e&hm=246b377fd71b7745a5f74d53b2abe9132928642818e186522ea3db60f7ae4746&",
-      "description": "Sent by andrews54757 at 6/28/2025, 11:42:54 AM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "12x6x11",
         "version": "1.14"
       },
-      "path": "attachments/ML005_3wt_8x_Mixed_Loader_Globally_Clocked.litematic"
+      "path": "attachments/ML005_3wt_8x_Mixed_Loader_Globally_Clocked.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1751125374000,
+      "size": 1990
     }
   ],
   "records": {
@@ -126,5 +139,6 @@
     "uploadMessageId": "1388545985537380412"
   },
   "archivedAt": 1751125560672,
-  "updatedAt": 1751125560672
+  "updatedAt": 1751125560672,
+  "num_comments": 0
 }

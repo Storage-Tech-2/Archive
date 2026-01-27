@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *1X Hopperspeed, Tested & Functional, Recommended*
+**Tags:** *1X Hopperspeed, Broken*
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388330669297631393)
 
@@ -16,7 +16,7 @@ Tiny hopperspeed box unloaders without using toggle states.
 - Super small size
 - Togglestateless
 ## Considerations
-- Very rare chance of box ending up in item output if adjacent slices are broken simultaneously. Tile every two blocks to avoid this issue.
+- Very rare chance of box ending up in item output if adjacent slices are broken simultaneously. Tile every two blocks to avoid this issue. This occurs because item entities can self-insert into the hopper when colliding with the bowl even with a box on top of it.
 
 ## Other Images
 <img src="images/area_render_4.png?raw=1" height="300px">

@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Christone*
 
-**Tags:** *Tested & Functional, Cart Yeet, Recommended*
+**Tags:** *Functional, Cart Yeet, Recommended*
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1410487539965493320)
 

@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *isStackable, Recommended, Tested & Functional*
+**Tags:** *isStackable, Recommended, Functional*
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317887462113373)
 

@@ -35,8 +35,8 @@
   ],
   "tags": [
     {
-      "id": "1385488480968118300",
-      "name": "Tested & Functional"
+      "id": "1465491092089868288",
+      "name": "Functional"
     },
     {
       "id": "1386201827846127667",
@@ -53,11 +53,17 @@
       "name": "area_render_187_.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1402509058203848854/1402509059105493023/area_render_187_.png?ex=68942bd9&is=6892da59&hm=21c937a5083a4980fb5a9db45e1c06adcdc24953757d4b83f4a32455d9532194&",
-      "description": "Sent by 777777777777777777774832 at 8/6/2025, 12:30:16 AM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 562,
-      "path": "images/area_render_187_.png"
+      "path": "images/area_render_187_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "777777777777777777774832"
+      },
+      "timestamp": 1754454616000
     }
   ],
   "attachments": [
@@ -66,13 +72,20 @@
       "name": "OD004_0t_Composter_Wall_Box_Display.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1402509058203848854/1402509921152405689/0t_Composter_Wall_Box_Display.litematic?ex=68942ca6&is=6892db26&hm=293db2008a96336d4e04f5e28f1cb9004b590d49aa8388be5ea7d5f389994c12&",
-      "description": "Sent by 777777777777777777774832 at 8/6/2025, 12:33:42 AM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/OD004_0t_Composter_Wall_Box_Display.litematic",
       "litematic": {
         "size": "1x12x16",
         "version": "1.21"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "777777777777777777774832"
+      },
+      "timestamp": 1754454822000,
+      "size": 1248
     }
   ],
   "records": {
@@ -96,6 +109,15 @@
     },
     {
       "type": "dictionaryTerm",
+      "term": "Restock station",
+      "id": "1464761941246349412",
+      "url": "https://discord.com/channels/1375556143186837695/1464761941246349412/1464761943725441085",
+      "matches": [
+        "restock station"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
       "term": "0-tick",
       "id": "1454804845960757319",
       "url": "https://discord.com/channels/1375556143186837695/1454804845960757319/1454804847290220666",
@@ -115,5 +137,6 @@
     "uploadMessageId": "1402510868889210952"
   },
   "archivedAt": 1754455048350,
-  "updatedAt": 1754455048350
+  "updatedAt": 1754455048350,
+  "num_comments": 0
 }

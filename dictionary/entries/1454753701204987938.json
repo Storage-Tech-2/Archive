@@ -23,6 +23,7 @@
   "referencedBy": [
     "MIS004",
     "FBS001",
-    "VBS002"
+    "VBS002",
+    "VBS004"
   ]
 }

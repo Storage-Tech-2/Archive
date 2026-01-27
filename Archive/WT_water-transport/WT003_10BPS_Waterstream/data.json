@@ -28,8 +28,8 @@
   ],
   "tags": [
     {
-      "id": "1385488489272840272",
-      "name": "Tested & Functional"
+      "id": "1465491262806167634",
+      "name": "Functional"
     }
   ],
   "images": [
@@ -38,11 +38,17 @@
       "name": "asdadasadadasd.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1440940351895506944/1440940352071663738/asdadasadadasd.png?ex=691ffbc7&is=691eaa47&hm=3d52b26f14860b07d2926e3b18327f7c7071ffc79f7d70b87e884532920da4c4&",
-      "description": "Sent by andrews54757 at 11/20/2025, 12:42:31 AM",
+      "description": "",
       "canDownload": true,
       "width": 770,
       "height": 176,
-      "path": "images/asdadasadadasd.png"
+      "path": "images/asdadasadadasd.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1763617351000
     }
   ],
   "attachments": [
@@ -51,13 +57,20 @@
       "name": "WT003_10bps_waterstream.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1440940351895506944/1440940352369594378/10bps_waterstream.litematic?ex=691ffbc7&is=691eaa47&hm=7e8c5110077ecde6a0da4c61023c005800bb272cba37e2f9c6be1166f4d9d87c&",
-      "description": "Sent by andrews54757 at 11/20/2025, 12:42:31 AM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/WT003_10bps_waterstream.litematic",
       "litematic": {
         "size": "13x3x1",
         "version": "1.21.4"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1763617351000,
+      "size": 960
     }
   ],
   "records": {
@@ -84,5 +97,6 @@
     "uploadMessageId": "1440940599501918208"
   },
   "archivedAt": 1763617410152,
-  "updatedAt": 1763617410152
+  "updatedAt": 1763617410152,
+  "num_comments": 0
 }

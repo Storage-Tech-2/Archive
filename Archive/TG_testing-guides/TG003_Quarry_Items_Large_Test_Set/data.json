@@ -1,0 +1,85 @@
+{
+  "id": "1464707292737048869",
+  "name": "Quarry Items Large Test Set",
+  "code": "TG003",
+  "reservedCodes": [
+    "TG003"
+  ],
+  "pastPostThreadIds": [
+    "1464709564443136091"
+  ],
+  "authors": [],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465487894184722496",
+      "name": "Untested"
+    }
+  ],
+  "images": [],
+  "attachments": [
+    {
+      "id": "1464707293005480028",
+      "name": "TG003_Quarry_Items_Large_Test_Set.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1464707292737048869/1464707293005480028/Quarry_Items_Large_Test_Set.litematic?ex=69767277&is=697520f7&hm=0079393dc1445bbdfb0681160d3e0f39cad82b2302f38af255543e40f93cf3f0&",
+      "timestamp": 1769283831534,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "688456529338433611",
+        "username": "glidingmonkey",
+        "displayName": "Christone",
+        "iconURL": "https://cdn.discordapp.com/avatars/688456529338433611/348a34add443a5a71237111010e484b1.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 155339,
+      "canDownload": true,
+      "path": "attachments/TG003_Quarry_Items_Large_Test_Set.litematic",
+      "litematic": {
+        "size": "3x27x1",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Edited for easier use from https://discordapp.com/channels/748542142347083868/748542142850400289/1449266055661748234"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "discordLink",
+      "url": "https://discordapp.com/channels/748542142347083868/748542142850400289/1449266055661748234",
+      "server": "748542142347083868",
+      "channel": "748542142850400289",
+      "message": "1449266055661748234",
+      "matches": [
+        "https://discordapp.com/channels/748542142347083868/748542142850400289/1449266055661748234"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1464709564443136091",
+    "forumId": "1388599778941861898",
+    "continuingMessageIds": [
+      "1464709567052124231",
+      "1464709567614288027"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1464709564443136091",
+    "uploadMessageId": "1464709560400089365"
+  },
+  "archivedAt": 1769284371392,
+  "updatedAt": 1769284371392,
+  "num_comments": 0
+}

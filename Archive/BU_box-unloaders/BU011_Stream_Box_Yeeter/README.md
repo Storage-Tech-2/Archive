@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Tested & Functional, Recommended, Box Yeet*
+**Tags:** *Functional, Recommended, Box Yeet*
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1451110249741160511)
 

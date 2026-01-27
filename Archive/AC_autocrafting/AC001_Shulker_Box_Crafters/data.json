@@ -46,12 +46,12 @@
   ],
   "tags": [
     {
-      "id": "1385789161650257952",
+      "id": "1465487779390816459",
       "name": "Recommended"
     },
     {
-      "id": "1385488525809418299",
-      "name": "Tested & Functional"
+      "id": "1465491830706667561",
+      "name": "Functional"
     },
     {
       "id": "1387461008922116206",
@@ -64,11 +64,17 @@
       "name": "area_render.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386528814389137518/1386528814754037953/area_render.png?ex=685a0915&is=6858b795&hm=6e2ccc352364081c3adeff8cdde736fb8c6884574cc91b26d3278585efd0087a&",
-      "description": "Sent by andrews54757 at 6/22/2025, 10:10:29 PM",
+      "description": "",
       "canDownload": true,
       "width": 604,
       "height": 800,
-      "path": "images/area_render.png"
+      "path": "images/area_render.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750644629000
     }
   ],
   "attachments": [
@@ -77,39 +83,60 @@
       "name": "AC001_box_crafter_by_Mangelious_0awa_viommm_acaciachan.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386528814389137518/1386528815169146930/box_crafter_by_Mangelious_0awa_viommm_acaciachan.litematic?ex=685a0915&is=6858b795&hm=1462945b3250c470a2dd74623c027f7f9a943907e12a6f23a4562b869f2f8416&",
-      "description": "Sent by andrews54757 at 6/22/2025, 10:10:29 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "3x6x5",
         "version": "1.20.4"
       },
-      "path": "attachments/AC001_box_crafter_by_Mangelious_0awa_viommm_acaciachan.litematic"
+      "path": "attachments/AC001_box_crafter_by_Mangelious_0awa_viommm_acaciachan.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750644629000,
+      "size": 1546
     },
     {
       "id": "1386529889443778720",
       "name": "AC001_Colored_Box_Crafter.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386528814389137518/1386529889443778720/Colored_Box_Crafter.litematic?ex=685a0a16&is=6858b896&hm=0689ebfe1947501eab82bf9948de850caa84b6f29819e3ea1a667e0456f31e40&",
-      "description": "Sent by andrews54757 at 6/22/2025, 10:14:46 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "3x6x5",
         "version": "1.21"
       },
-      "path": "attachments/AC001_Colored_Box_Crafter.litematic"
+      "path": "attachments/AC001_Colored_Box_Crafter.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750644886000,
+      "size": 1846
     },
     {
       "id": "1386529889817202798",
       "name": "AC001_Colored_Box_Crafter_raw_dye_input.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386528814389137518/1386529889817202798/Colored_Box_Crafter_raw_dye_input.litematic?ex=685a0a16&is=6858b896&hm=d5fa20d63eec686229eaf614dfa9f0fc4680399a32789cc02db8be3e313aa67c&",
-      "description": "Sent by andrews54757 at 6/22/2025, 10:14:46 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "3x6x5",
         "version": "1.21"
       },
-      "path": "attachments/AC001_Colored_Box_Crafter_raw_dye_input.litematic"
+      "path": "attachments/AC001_Colored_Box_Crafter_raw_dye_input.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750644886000,
+      "size": 1830
     }
   ],
   "records": {
@@ -153,5 +180,6 @@
     "uploadMessageId": "1388179419465515108"
   },
   "archivedAt": 1751161631055,
-  "updatedAt": 1751161631055
+  "updatedAt": 1751161631055,
+  "num_comments": 0
 }

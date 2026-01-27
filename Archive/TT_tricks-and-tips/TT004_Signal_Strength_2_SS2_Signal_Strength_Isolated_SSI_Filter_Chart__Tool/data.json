@@ -35,8 +35,8 @@
   ],
   "tags": [
     {
-      "name": "Recommended",
-      "id": "1388657843774816395"
+      "id": "1465487911431569671",
+      "name": "Recommended"
     }
   ],
   "images": [
@@ -45,11 +45,17 @@
       "name": "SS2_FIlter_Chart.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386949283181494364/1386949284833918987/SS2_FIlter_Chart.png?ex=685b90ad&is=685a3f2d&hm=782d6c0feafc61b8ac388f406c1d2b085613a2d284386e5f8e7ea86446518169&",
-      "description": "Sent by andrews54757 at 6/24/2025, 2:01:17 AM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 433,
-      "path": "images/SS2_FIlter_Chart.png"
+      "path": "images/SS2_FIlter_Chart.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750744877000
     }
   ],
   "attachments": [
@@ -58,9 +64,16 @@
       "name": "TT004_SS2_FIlter_Chart.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386949283181494364/1386949284833918987/SS2_FIlter_Chart.png?ex=685b90ad&is=685a3f2d&hm=782d6c0feafc61b8ac388f406c1d2b085613a2d284386e5f8e7ea86446518169&",
-      "description": "Sent by andrews54757 at 6/24/2025, 2:01:17 AM",
+      "description": "",
       "canDownload": true,
-      "path": "attachments/TT004_SS2_FIlter_Chart.png"
+      "path": "attachments/TT004_SS2_FIlter_Chart.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750744877000,
+      "size": 1771537
     }
   ],
   "records": {
@@ -101,5 +114,6 @@
     "uploadMessageId": "1457546865062051860"
   },
   "archivedAt": 1750745429741,
-  "updatedAt": 1767576648459
+  "updatedAt": 1767576648459,
+  "num_comments": 0
 }

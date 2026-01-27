@@ -52,11 +52,17 @@
       "name": "image.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1457519139940991117/1457519140267884654/image.png?ex=695c4bfa&is=695afa7a&hm=5458f4626f0ba2f59ccc2655914ae8460b8e573bd4d3137b43988c27ea6250ef&",
-      "description": "Sent by tisunfortunate at 1/4/2026, 6:40:42 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 517,
-      "path": "images/image.png"
+      "path": "images/image.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "tisunfortunate"
+      },
+      "timestamp": 1767570042000
     }
   ],
   "attachments": [
@@ -65,13 +71,20 @@
       "name": "US009_Music_Disc_Sorter.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1457519139940991117/1457519140733587537/Music_Disc_Sorter.litematic?ex=695c4bfa&is=695afa7a&hm=c937680176eb984791bb553e486737ef0e60a50622c9edadf3e7921795a4565c&",
-      "description": "Sent by tisunfortunate at 1/4/2026, 6:40:42 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/US009_Music_Disc_Sorter.litematic",
       "litematic": {
         "size": "3x8x19",
         "version": "1.21.4"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "tisunfortunate"
+      },
+      "timestamp": 1767570042000,
+      "size": 2540
     }
   ],
   "records": {
@@ -112,5 +125,6 @@
     "uploadMessageId": "1457520761979015341"
   },
   "archivedAt": 1767570427441,
-  "updatedAt": 1767570427441
+  "updatedAt": 1767570427441,
+  "num_comments": 0
 }

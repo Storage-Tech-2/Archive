@@ -32,8 +32,8 @@
   ],
   "tags": [
     {
-      "id": "1385488474148438035",
-      "name": "Tested & Functional"
+      "id": "1465490889140076728",
+      "name": "Functional"
     },
     {
       "id": "1386248557111017532",
@@ -46,22 +46,34 @@
       "name": "BU006_toggle_less_unloader_render.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1387180395883397291/1392582350583496876/BU006_toggle_less_unloader_render.png?ex=68700ee1&is=686ebd61&hm=a30432f4c4461fa9a4b6deebced80410c44f1d8cbf2b3cd4f1ea1ae2a1438dea&",
-      "description": "Sent by TMC Schematic Renderer at 7/9/2025, 3:05:05 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 681,
-      "path": "images/BU006_toggle_less_unloader_render.png"
+      "path": "images/BU006_toggle_less_unloader_render.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "TMC Schematic Renderer"
+      },
+      "timestamp": 1752087905000
     },
     {
       "id": "1392582338839314574",
       "name": "BU006_perfect_shulker_unloader_render.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1387180395883397291/1392582338839314574/BU006_perfect_shulker_unloader_render.png?ex=68700ede&is=686ebd5e&hm=4c08efcdc1e16af01f087b2639073d33e5e2601c8651480195b7f55f2f9f9050&",
-      "description": "Sent by TMC Schematic Renderer at 7/9/2025, 3:05:02 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 549,
-      "path": "images/BU006_perfect_shulker_unloader_render.png"
+      "path": "images/BU006_perfect_shulker_unloader_render.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "TMC Schematic Renderer"
+      },
+      "timestamp": 1752087902000
     }
   ],
   "attachments": [
@@ -70,26 +82,40 @@
       "name": "BU006_perfect_shulker_unloader.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1387180395883397291/1387180396579520624/perfect_shulker_unloader.litematic?ex=6868ee2b&is=68679cab&hm=70174f254b1eefdb98e7052a16af52fc6e6fdf3cf1c2096e0a8511282db77573&",
-      "description": "Sent by andrews54757 at 6/24/2025, 5:19:38 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "6x4x1",
         "version": "1.16.2"
       },
-      "path": "attachments/BU006_perfect_shulker_unloader.litematic"
+      "path": "attachments/BU006_perfect_shulker_unloader.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750799978000,
+      "size": 677
     },
     {
       "id": "1390784091909259475",
       "name": "BU006_toggle_less_unloader.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1387180395883397291/1390784091909259475/toggle_less_unloader.litematic?ex=6869841f&is=6868329f&hm=63a7d95f1669d23fae86b3303bcc1620379a4ecc79e1a0891c09f168fa4c8d77&",
-      "description": "Sent by andrews54757 at 7/4/2025, 3:59:27 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "1x5x6",
         "version": "1.21.4"
       },
-      "path": "attachments/BU006_toggle_less_unloader.litematic"
+      "path": "attachments/BU006_toggle_less_unloader.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1751659167000,
+      "size": 759
     }
   ],
   "records": {
@@ -152,5 +178,6 @@
     "uploadMessageId": "1390784322830602366"
   },
   "archivedAt": 1752087920247,
-  "updatedAt": 1752087920247
+  "updatedAt": 1752087920247,
+  "num_comments": 0
 }

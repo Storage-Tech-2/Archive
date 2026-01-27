@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Recommended, SS2, Tested & Functional, 10 Chests*
+**Tags:** *Recommended, SS2, Functional, 10 Chests*
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317398049882207)
 

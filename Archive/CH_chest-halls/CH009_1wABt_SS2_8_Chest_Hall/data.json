@@ -36,8 +36,8 @@
       "name": "SS2"
     },
     {
-      "id": "1385488483170386069",
-      "name": "Tested & Functional"
+      "id": "1465491132455588024",
+      "name": "Functional"
     }
   ],
   "images": [
@@ -46,11 +46,17 @@
       "name": "2025-12-07_20.57.46.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1447301140260851884/1447301140801912957/2025-12-07_20.57.46.png?ex=69371fb9&is=6935ce39&hm=100b646eff51525118306e272155062bb443bd7c277414da3c9d9aa479c84d82&",
-      "description": "Sent by f3atured at 12/7/2025, 1:58:01 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 450,
-      "path": "images/2025-12-07_20.57.46.png"
+      "path": "images/2025-12-07_20.57.46.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "f3atured"
+      },
+      "timestamp": 1765133881000
     }
   ],
   "attachments": [
@@ -59,13 +65,20 @@
       "name": "CH009_F3atured_CH_ABT_1DC_V1.1.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1447301140260851884/1450913315214594069/F3atured_CH_ABT_1DC_V1.1.litematic?ex=694443d3&is=6942f253&hm=20926f569eb64090e4fb44039b45ce904e6984b0e409193268e024f93f0c8f1b&",
-      "description": "Sent by f3atured at 12/17/2025, 1:11:31 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/CH009_F3atured_CH_ABT_1DC_V1.1.litematic",
       "litematic": {
         "size": "4x18x27",
         "version": "1.21"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "f3atured"
+      },
+      "timestamp": 1765995091000,
+      "size": 2399
     }
   ],
   "records": {
@@ -117,5 +130,6 @@
     "uploadMessageId": "1450941560903696566"
   },
   "archivedAt": 1766001824684,
-  "updatedAt": 1766001824684
+  "updatedAt": 1766001824684,
+  "num_comments": 0
 }

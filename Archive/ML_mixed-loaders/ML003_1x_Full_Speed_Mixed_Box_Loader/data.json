@@ -32,8 +32,8 @@
       "name": "Fullspeed"
     },
     {
-      "id": "1385488466447695900",
-      "name": "Tested & Functional"
+      "id": "1465490666501963848",
+      "name": "Functional"
     },
     {
       "id": "1386244750415233174",
@@ -46,11 +46,17 @@
       "name": "1x_Full_Speed_Mixed_Box_Loader.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386836989160194201/1386836989977956513/1x_Full_Speed_Mixed_Box_Loader.png?ex=685b2818&is=6859d698&hm=22e90e4f138b20299f4509867ff6cbdaf002829efbb422a44a0b4dcbdcb01a4a&",
-      "description": "Sent by andrews54757 at 6/23/2025, 6:35:04 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 778,
-      "path": "images/1x_Full_Speed_Mixed_Box_Loader.png"
+      "path": "images/1x_Full_Speed_Mixed_Box_Loader.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750718104000
     }
   ],
   "attachments": [
@@ -59,38 +65,59 @@
       "name": "ML003_1x_Full_Speed_Mixed_Box_Loader_118.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386836989160194201/1386836990330408960/1x_Full_Speed_Mixed_Box_Loader_1.18.litematic?ex=685b2818&is=6859d698&hm=0f146e3c2641013619970469e16045baadb38e2a8799172f12e5ff9d738ae8ed&",
-      "description": "Sent by andrews54757 at 6/23/2025, 6:35:04 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "5x5x4",
         "version": "1.18.2"
       },
-      "path": "attachments/ML003_1x_Full_Speed_Mixed_Box_Loader_118.litematic"
+      "path": "attachments/ML003_1x_Full_Speed_Mixed_Box_Loader_118.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750718104000,
+      "size": 1341
     },
     {
       "id": "1386836990640656525",
       "name": "ML003_1x_Full_Speed_Mixed_Box_Loader_117.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386836989160194201/1386836990640656525/1x_Full_Speed_Mixed_Box_Loader_1.17.litematic?ex=685b2818&is=6859d698&hm=3c14acfb09ccbdd855de28702d941a530e3a777a9d537915f64638370ab6fd91&",
-      "description": "Sent by andrews54757 at 6/23/2025, 6:35:04 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "5x5x4",
         "version": "1.17.1"
       },
-      "path": "attachments/ML003_1x_Full_Speed_Mixed_Box_Loader_117.litematic"
+      "path": "attachments/ML003_1x_Full_Speed_Mixed_Box_Loader_117.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750718104000,
+      "size": 1409
     },
     {
       "id": "1386836991009620100",
       "name": "ML003_1x_Full_Speed_Mixed_Box_Loader_112.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386836989160194201/1386836991009620100/1x_Full_Speed_Mixed_Box_Loader_1.12.litematic?ex=685b2818&is=6859d698&hm=4c13b0e0fa4ad511db118256bf55670e899003760be7905f788ef01929cb2428&",
-      "description": "Sent by andrews54757 at 6/23/2025, 6:35:04 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "error": "Error processing litematic file"
       },
-      "path": "attachments/ML003_1x_Full_Speed_Mixed_Box_Loader_112.litematic"
+      "path": "attachments/ML003_1x_Full_Speed_Mixed_Box_Loader_112.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750718104000,
+      "size": 1412
     }
   ],
   "records": {
@@ -138,5 +165,6 @@
     "uploadMessageId": "1388177566287921205"
   },
   "archivedAt": 1750718201673,
-  "updatedAt": 1750718201673
+  "updatedAt": 1750718201673,
+  "num_comments": 0
 }

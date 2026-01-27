@@ -42,11 +42,11 @@
   ],
   "tags": [
     {
-      "id": "1385488499884425243",
-      "name": "Tested & Functional"
+      "id": "1465491430553292873",
+      "name": "Functional"
     },
     {
-      "id": "1385789127018156145",
+      "id": "1465487514964988074",
       "name": "Recommended"
     },
     {
@@ -60,22 +60,34 @@
       "name": "area_render_13_.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1450264041565065238/1450264045453180929/area_render_13_.png?ex=6941e725&is=694095a5&hm=0d76a2406b25d730d4d3299772a2d8dca320e200ffdd716218002d0de1c86f5f&",
-      "description": "Sent by andrews54757 at 12/15/2025, 6:11:32 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 483,
-      "path": "images/area_render_13_.png"
+      "path": "images/area_render_13_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1765840292000
     },
     {
       "id": "1450264047336292464",
       "name": "area_render_12_.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1450264041565065238/1450264047336292464/area_render_12_.png?ex=6941e725&is=694095a5&hm=f6fb71e4b409688f6273b7290a0a3bfa33c3494e19d4438a28e6fd061f735947&",
-      "description": "Sent by andrews54757 at 12/15/2025, 6:11:32 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 486,
-      "path": "images/area_render_12_.png"
+      "path": "images/area_render_12_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1765840292000
     }
   ],
   "attachments": [
@@ -84,13 +96,20 @@
       "name": "US008_Cactus_Unstackable_Sorter.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1450264041565065238/1450264047663710238/Cactus_Unstackable_Sorter.litematic?ex=6941e725&is=694095a5&hm=417e7dff65e6f88eb8936af570a487db8eb2290bcbeeb905fad0be5bc78e201d&",
-      "description": "Sent by andrews54757 at 12/15/2025, 6:11:32 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/US008_Cactus_Unstackable_Sorter.litematic",
       "litematic": {
         "size": "12x7x14",
         "version": "1.20.1"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1765840292000,
+      "size": 4824
     }
   ],
   "records": {
@@ -152,5 +171,6 @@
     "uploadMessageId": "1450265448305131666"
   },
   "archivedAt": 1765840627197,
-  "updatedAt": 1765840627197
+  "updatedAt": 1765840627197,
+  "num_comments": 0
 }

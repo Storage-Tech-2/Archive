@@ -4,7 +4,7 @@
   "code": "VBS",
   "category": "Advanced Tech",
   "description": "Variable box sorting",
-  "currentCodeId": 3,
+  "currentCodeId": 4,
   "entries": [
     {
       "id": "1386933382579093594",
@@ -20,6 +20,11 @@
       "id": "1439818384933130322",
       "code": "VBS003",
       "path": "VBS003_Hyper_Threaded_Whitelister_Temp"
+    },
+    {
+      "id": "1463261169404874976",
+      "code": "VBS004",
+      "path": "VBS004_Pattern-based_temporary_storages_for_partial_boxes"
     }
   ]
 }

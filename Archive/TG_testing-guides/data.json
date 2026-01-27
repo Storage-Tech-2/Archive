@@ -4,12 +4,22 @@
   "code": "TG",
   "category": "Other Resources",
   "description": "Reference material for how to test things thouroughly",
-  "currentCodeId": 1,
+  "currentCodeId": 3,
   "entries": [
     {
       "id": "1388624919306305636",
       "code": "TG001",
       "path": "TG001_Hermitcraft_Item_Set"
+    },
+    {
+      "id": "1464690831486357656",
+      "code": "TG002",
+      "path": "TG002_Glotz_Test_Sets"
+    },
+    {
+      "id": "1464707292737048869",
+      "code": "TG003",
+      "path": "TG003_Quarry_Items_Large_Test_Set"
     }
   ]
 }

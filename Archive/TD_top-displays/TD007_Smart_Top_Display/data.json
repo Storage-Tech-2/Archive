@@ -27,8 +27,8 @@
   ],
   "tags": [
     {
-      "id": "1385488476258041933",
-      "name": "Tested & Functional"
+      "id": "1465490982278529138",
+      "name": "Functional"
     },
     {
       "id": "1461051679477858507",
@@ -41,11 +41,17 @@
       "name": "image.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1461051525093920981/1461051525622137057/image.png?ex=696925c4&is=6967d444&hm=bb3226b74d8d9bacfe1ffafa6a1fa1b351318c47837439ce37ea77fa627b1f65&",
-      "description": "Sent by andrews54757 at 1/14/2026, 12:37:08 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 596,
-      "path": "images/image.png"
+      "path": "images/image.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1768412228000
     }
   ],
   "attachments": [
@@ -54,13 +60,20 @@
       "name": "TD007_hampter_top_smart_display.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1461051525093920981/1461051525869732011/hampter_top_smart_display.litematic?ex=696925c4&is=6967d444&hm=ddd0335d729eaf360338581b1f568eb88cb343c357aee0063ee7dc66bb146984&",
-      "description": "Sent by andrews54757 at 1/14/2026, 12:37:08 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/TD007_hampter_top_smart_display.litematic",
       "litematic": {
         "size": "1x5x7",
         "version": "1.21.4"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1768412228000,
+      "size": 1220
     }
   ],
   "records": {
@@ -114,5 +127,6 @@
     "uploadMessageId": "1461051933425926295"
   },
   "archivedAt": 1768412324088,
-  "updatedAt": 1768492953447
+  "updatedAt": 1768492953447,
+  "num_comments": 0
 }

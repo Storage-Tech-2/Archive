@@ -49,11 +49,11 @@
   ],
   "tags": [
     {
-      "id": "1385488501545373755",
-      "name": "Tested & Functional"
+      "id": "1465491482218594433",
+      "name": "Functional"
     },
     {
-      "id": "1385789129794519081",
+      "id": "1465487545918951584",
       "name": "Recommended"
     },
     {
@@ -67,22 +67,34 @@
       "name": "Compat_Bulk_Updated_1.4_Mil.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386928511750770770/1388201909201932329/Compat_Bulk_Updated_1.4_Mil.png?ex=68601f46&is=685ecdc6&hm=5f4759da43dfd7d43d0422d7d299d3b6c01e888019ae56fd02fe32f31788b4fb&",
-      "description": "Sent by andrews54757 at 6/27/2025, 12:58:46 PM",
+      "description": "",
       "canDownload": true,
       "width": 477,
       "height": 800,
-      "path": "images/Compat_Bulk_Updated_1.4_Mil.png"
+      "path": "images/Compat_Bulk_Updated_1.4_Mil.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1751043526000
     },
     {
       "id": "1388201907226673253",
       "name": "Compat_Bulk_Updated_1.4_Mil_Slice.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386928511750770770/1388201907226673253/Compat_Bulk_Updated_1.4_Mil_Slice.png?ex=68601f46&is=685ecdc6&hm=9a1ff8cf715cc1ce6ed72ca7b3dbf38040764f5856e1d5a313962e312fee2eda&",
-      "description": "Sent by andrews54757 at 6/27/2025, 12:58:46 PM",
+      "description": "",
       "canDownload": true,
       "width": 400,
       "height": 800,
-      "path": "images/Compat_Bulk_Updated_1.4_Mil_Slice.png"
+      "path": "images/Compat_Bulk_Updated_1.4_Mil_Slice.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1751043526000
     }
   ],
   "attachments": [
@@ -91,13 +103,20 @@
       "name": "DH003_compact_bulk_updated_1_4_mil.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386928511750770770/1388201386528866325/compact_bulk_updated_1_4_mil.litematic?ex=68601eca&is=685ecd4a&hm=13195109dde985178736994f2192e1348c3e7580f3681dc0a86bca6c234b6234&",
-      "description": "Sent by andrews54757 at 6/27/2025, 12:56:42 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "20x38x17",
         "version": "1.18.2"
       },
-      "path": "attachments/DH003_compact_bulk_updated_1_4_mil.litematic"
+      "path": "attachments/DH003_compact_bulk_updated_1_4_mil.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1751043402000,
+      "size": 19790
     }
   ],
   "records": {
@@ -200,5 +219,6 @@
     "attachmentMessageId": "1388202072259952801"
   },
   "archivedAt": 1751043563047,
-  "updatedAt": 1751043563047
+  "updatedAt": 1751043563047,
+  "num_comments": 0
 }

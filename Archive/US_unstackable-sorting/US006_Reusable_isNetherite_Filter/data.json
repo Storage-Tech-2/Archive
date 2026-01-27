@@ -35,15 +35,15 @@
   ],
   "tags": [
     {
-      "id": "1385488499884425243",
-      "name": "Tested & Functional"
+      "id": "1465491430553292873",
+      "name": "Functional"
     },
     {
       "id": "1408931552196558948",
       "name": "Netherite"
     },
     {
-      "id": "1385789127018156145",
+      "id": "1465487514964988074",
       "name": "Recommended"
     }
   ],
@@ -53,22 +53,34 @@
       "name": "sdfsfsdgsss.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1408930228805304482/1408930231477211197/sdfsfsdgsss.png?ex=68ab8807&is=68aa3687&hm=82a424319d722fc4affc2894122f19abe31e435c8de2484959e99dedc92f5b16&",
-      "description": "Sent by andrews54757 at 8/23/2025, 5:45:43 PM",
+      "description": "",
       "canDownload": true,
       "width": 332,
       "height": 350,
-      "path": "images/sdfsfsdgsss.png"
+      "path": "images/sdfsfsdgsss.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1755985543000
     },
     {
       "id": "1408930232030990356",
       "name": "fgfdhjdthd.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1408930228805304482/1408930232030990356/fgfdhjdthd.png?ex=68ab8807&is=68aa3687&hm=14aa6341534e156967ca57748059e96cc8a5ad9bea79945e9229e84ddbbda96b&",
-      "description": "Sent by andrews54757 at 8/23/2025, 5:45:43 PM",
+      "description": "",
       "canDownload": true,
       "width": 756,
       "height": 800,
-      "path": "images/fgfdhjdthd.png"
+      "path": "images/fgfdhjdthd.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1755985543000
     }
   ],
   "attachments": [
@@ -77,26 +89,40 @@
       "name": "US006_22gt_netherite_sorter_random_proof.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1408930228805304482/1408930230965374996/22gt_netherite_sorter_random_proof.litematic?ex=68ab8807&is=68aa3687&hm=24835d1b0dd9609cecd406571e444ea96159b11ea46145fbdf4cbdc6bde11203&",
-      "description": "Sent by andrews54757 at 8/23/2025, 5:45:43 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/US006_22gt_netherite_sorter_random_proof.litematic",
       "litematic": {
         "size": "3x4x4",
         "version": "1.21.4"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1755985543000,
+      "size": 1095
     },
     {
       "id": "1408930230248411226",
       "name": "US006_goofy_ahh_8gt_netherite_sorter.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1408930228805304482/1408930230248411226/goofy_ahh_8gt_netherite_sorter.litematic?ex=68ab8807&is=68aa3687&hm=232525860cbc961fe77dc09b24ffd70bed1b9b9594da874af4d8457a555f04b4&",
-      "description": "Sent by andrews54757 at 8/23/2025, 5:45:43 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/US006_goofy_ahh_8gt_netherite_sorter.litematic",
       "litematic": {
         "size": "6x7x6",
         "version": "1.21"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1755985543000,
+      "size": 1620
     }
   ],
   "records": {
@@ -142,5 +168,6 @@
     "uploadMessageId": "1408933079548170280"
   },
   "archivedAt": 1755986425858,
-  "updatedAt": 1755986425858
+  "updatedAt": 1755986425858,
+  "num_comments": 0
 }

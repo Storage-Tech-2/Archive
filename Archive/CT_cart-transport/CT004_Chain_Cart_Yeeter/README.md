@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Tested & Functional, Cart Yeeting, Recommended, Experimental Updates*
+**Tags:** *Functional, Cart Yeeting, Recommended, Experimental Updates*
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1455668591310405712)
 

@@ -37,11 +37,11 @@
   ],
   "tags": [
     {
-      "id": "1385488491810394301",
-      "name": "Tested & Functional"
+      "id": "1465491305663823944",
+      "name": "Functional"
     },
     {
-      "id": "1385789116905685055",
+      "id": "1465487442030366858",
       "name": "Recommended"
     },
     {
@@ -55,11 +55,17 @@
       "name": "imagasde.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1450267939461922957/1450267940636332274/imagasde.png?ex=6941eac5&is=69409945&hm=e4729f312de59d191c9e5e36d1a54e3b0b673a1a95ba4abfb1b810ada8555a15&",
-      "description": "Sent by andrews54757 at 12/15/2025, 6:27:01 PM",
+      "description": "",
       "canDownload": true,
       "width": 622,
       "height": 800,
-      "path": "images/imagasde.png"
+      "path": "images/imagasde.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1765841221000
     }
   ],
   "attachments": [
@@ -68,13 +74,20 @@
       "name": "CT001_8gt_Detection_Perfect_Merge_Yeeter_v1.0.5.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1450267939461922957/1450267941055496223/8gt_Detection_Perfect_Merge_Yeeter_v1.0.5.litematic?ex=6941eac5&is=69409945&hm=8c99515b02df30dd2b4d0b5638a22ebb0750b37429831681f651027d522a205a&",
-      "description": "Sent by andrews54757 at 12/15/2025, 6:27:01 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/CT001_8gt_Detection_Perfect_Merge_Yeeter_v1.0.5.litematic",
       "litematic": {
         "size": "6x7x5",
         "version": "1.21"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1765841221000,
+      "size": 1254
     }
   ],
   "records": {
@@ -151,5 +164,6 @@
     "uploadMessageId": "1450269961162588381"
   },
   "archivedAt": 1765841703283,
-  "updatedAt": 1767130598546
+  "updatedAt": 1767130598546,
+  "num_comments": 0
 }

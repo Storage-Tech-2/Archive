@@ -28,8 +28,8 @@
   ],
   "tags": [
     {
-      "id": "1387131981464211602",
-      "name": "Tested & Functional"
+      "id": "1465491958641328190",
+      "name": "Functional"
     }
   ],
   "images": [
@@ -38,11 +38,17 @@
       "name": "image.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1451522896403894424/1451522899252088927/image.png?ex=69467b8b&is=69452a0b&hm=98b8e14eba64ff0d3e960435f429193407e31acf89690c04a9c00be54645c39f&",
-      "description": "Sent by nvertd at 12/19/2025, 5:33:46 AM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 333,
-      "path": "images/image.png"
+      "path": "images/image.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "nvertd"
+      },
+      "timestamp": 1766140426000
     }
   ],
   "attachments": [
@@ -51,22 +57,36 @@
       "name": "NT004_20BPS_Item_Conveyor.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1451522896403894424/1451522902880161832/20BPS_Item_Conveyor.litematic?ex=69467b8c&is=69452a0c&hm=aabece6993b65b34fef3b62c5c2858e2d7007e38e5afcc4d40ff69b9b7bddbe3&",
-      "description": "Sent by nvertd at 12/19/2025, 5:33:46 AM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/NT004_20BPS_Item_Conveyor.litematic",
       "litematic": {
         "size": "6x4x32",
         "version": "1.21.4"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "nvertd"
+      },
+      "timestamp": 1766140426000,
+      "size": 707
     },
     {
       "id": "1451522900459786310",
       "name": "NT004_2025-12-19_18-25-14.mp4",
       "contentType": "video/mp4",
       "url": "https://cdn.discordapp.com/attachments/1451522896403894424/1451522900459786310/2025-12-19_18-25-14.mp4?ex=69467b8b&is=69452a0b&hm=fe41ebde14de6979913918985fa5157b7bf337fe3cb268063505c5694751f72c&",
-      "description": "Sent by nvertd at 12/19/2025, 5:33:46 AM",
+      "description": "",
       "canDownload": true,
-      "path": "attachments/NT004_2025-12-19_18-25-14.mp4"
+      "path": "attachments/NT004_2025-12-19_18-25-14.mp4",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "nvertd"
+      },
+      "timestamp": 1766140426000,
+      "size": 53925300
     }
   ],
   "records": {
@@ -117,5 +137,6 @@
     "uploadMessageId": "1451623949036290274"
   },
   "archivedAt": 1766904724068,
-  "updatedAt": 1766164705164
+  "updatedAt": 1766164705164,
+  "num_comments": 0
 }

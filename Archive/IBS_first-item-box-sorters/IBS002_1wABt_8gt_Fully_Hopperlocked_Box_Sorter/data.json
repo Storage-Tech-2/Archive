@@ -29,12 +29,12 @@
   ],
   "tags": [
     {
-      "id": "1385789091676946514",
+      "id": "1465487088156934189",
       "name": "Recommended"
     },
     {
-      "id": "1385488470557986893",
-      "name": "Tested & Functional"
+      "id": "1465490780583100538",
+      "name": "Functional"
     }
   ],
   "images": [
@@ -43,11 +43,17 @@
       "name": "Box_Sorter.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386694246311919667/1386694250858811523/Box_Sorter.png?ex=685aa328&is=685951a8&hm=52ea4fb68dbcb177971efd2e6ee84e557fdebcc0957222a74950e3cf012bf99e&",
-      "description": "Sent by andrews54757 at 6/23/2025, 9:07:51 AM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 335,
-      "path": "images/Box_Sorter.png"
+      "path": "images/Box_Sorter.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750684071000
     }
   ],
   "attachments": [
@@ -56,26 +62,40 @@
       "name": "IBS002_Acaciachan_8gt_box_sorter_v5_1_14_fhl.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386694246311919667/1386694251236167790/Acaciachan_8gt_box_sorter_v5_1_14_fhl.litematic?ex=685aa329&is=685951a9&hm=9ffe9ad3ae7a484346f31f967ad4ab27ae17d5b4f5a02c9d607c610e40eab5f9&",
-      "description": "Sent by andrews54757 at 6/23/2025, 9:07:51 AM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "21x9x10",
         "version": "1.14"
       },
-      "path": "attachments/IBS002_Acaciachan_8gt_box_sorter_v5_1_14_fhl.litematic"
+      "path": "attachments/IBS002_Acaciachan_8gt_box_sorter_v5_1_14_fhl.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750684071000,
+      "size": 3806
     },
     {
       "id": "1386694251525439679",
       "name": "IBS002_Acaciachan_8gt_box_sorter_v5_1_16_fhl.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386694246311919667/1386694251525439679/Acaciachan_8gt_box_sorter_v5_1_16_fhl.litematic?ex=685aa329&is=685951a9&hm=af4c9334d816f42565817b549fa07eaddb8b7265e748b0e020f117f52513b425&",
-      "description": "Sent by andrews54757 at 6/23/2025, 9:07:51 AM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "21x9x8",
         "version": "1.16"
       },
-      "path": "attachments/IBS002_Acaciachan_8gt_box_sorter_v5_1_16_fhl.litematic"
+      "path": "attachments/IBS002_Acaciachan_8gt_box_sorter_v5_1_16_fhl.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750684071000,
+      "size": 3740
     }
   ],
   "records": {
@@ -171,5 +191,6 @@
     "uploadMessageId": "1388177675440488548"
   },
   "archivedAt": 1750684230647,
-  "updatedAt": 1750684230647
+  "updatedAt": 1750684230647,
+  "num_comments": 0
 }

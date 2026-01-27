@@ -28,12 +28,12 @@
   ],
   "tags": [
     {
-      "id": "1385789083279822881",
+      "id": "1465486971215548592",
       "name": "Recommended"
     },
     {
-      "id": "1385488464648208442",
-      "name": "Tested & Functional"
+      "id": "1465490606980857926",
+      "name": "Functional"
     }
   ],
   "images": [
@@ -42,40 +42,64 @@
       "name": "Scorpio_-_1x_Accessible_Loader.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1387255160815751319/1387255161100959916/Scorpio_-_1x_Accessible_Loader.png?ex=685dff0c&is=685cad8c&hm=26cfe641124a1091ac2ae1a6d6d36ad7d02449ff14f3519c9ef31ae0c9ce3ba7&",
-      "description": "Sent by ragdollwilly at 6/24/2025, 10:16:44 PM",
+      "description": "",
       "canDownload": true,
-      "path": "images/Scorpio_-_1x_Accessible_Loader.png"
+      "path": "images/Scorpio_-_1x_Accessible_Loader.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "ragdollwilly"
+      },
+      "timestamp": 1750817804000
     },
     {
       "id": "1387255161415663696",
       "name": "Scorpio_-_2x_Box_Loader.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1387255160815751319/1387255161415663696/Scorpio_-_2x_Box_Loader.png?ex=685dff0c&is=685cad8c&hm=ddf9737c61940d218c6ae7e278687cd57614050a6f84eb3201d33720d906b28c&",
-      "description": "Sent by ragdollwilly at 6/24/2025, 10:16:44 PM",
+      "description": "",
       "canDownload": true,
-      "path": "images/Scorpio_-_2x_Box_Loader.png"
+      "path": "images/Scorpio_-_2x_Box_Loader.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "ragdollwilly"
+      },
+      "timestamp": 1750817804000
     },
     {
       "id": "1387776242996219914",
       "name": "area_render_4_.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1387255160815751319/1387776242996219914/area_render_4_.png?ex=685e92d7&is=685d4157&hm=9ecf38185294607827057ee6d8f46562de4ca02143648536bbe89e6184a3d2f0&",
-      "description": "Sent by ragdollwilly at 6/26/2025, 8:47:20 AM",
+      "description": "",
       "canDownload": true,
       "width": 791,
       "height": 693,
-      "path": "images/area_render_4_.png"
+      "path": "images/area_render_4_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "ragdollwilly"
+      },
+      "timestamp": 1750942040000
     },
     {
       "id": "1387776242752819370",
       "name": "area_render_5_.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1387255160815751319/1387776242752819370/area_render_5_.png?ex=685e92d7&is=685d4157&hm=3a0eb5cba46e7f5669716b1ec73cd759a33861c64344becd573bd7e99d293e7e&",
-      "description": "Sent by ragdollwilly at 6/26/2025, 8:47:20 AM",
+      "description": "",
       "canDownload": true,
       "width": 791,
       "height": 542,
-      "path": "images/area_render_5_.png"
+      "path": "images/area_render_5_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "ragdollwilly"
+      },
+      "timestamp": 1750942040000
     }
   ],
   "attachments": [
@@ -84,52 +108,80 @@
       "name": "AL002_Scorpio_-_1x_Accessible_Loader.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1387255160815751319/1387255161679777832/Scorpio_-_1x_Accessible_Loader.litematic?ex=685cad8c&is=685b5c0c&hm=6768f82ed615208b762fb8d3f6f02e6aeb2c331796b455ddeb2d5a67c1166ecc&",
-      "description": "Sent by ragdollwilly at 6/24/2025, 10:16:44 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "4x3x3",
         "version": "1.21.4"
       },
-      "path": "attachments/AL002_Scorpio_-_1x_Accessible_Loader.litematic"
+      "path": "attachments/AL002_Scorpio_-_1x_Accessible_Loader.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "ragdollwilly"
+      },
+      "timestamp": 1750817804000,
+      "size": 856
     },
     {
       "id": "1387255162393067641",
       "name": "AL002_Scorpio_-_Simple_2x_Loader.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1387255160815751319/1387255162393067641/Scorpio_-_Simple_2x_Loader.litematic?ex=685cad8c&is=685b5c0c&hm=f6aafaa487ef8f8b9b94e437ed364bd4a6c5d672def17958daed12cc5d0d1385&",
-      "description": "Sent by ragdollwilly at 6/24/2025, 10:16:44 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "4x3x3",
         "version": "1.21.4"
       },
-      "path": "attachments/AL002_Scorpio_-_Simple_2x_Loader.litematic"
+      "path": "attachments/AL002_Scorpio_-_Simple_2x_Loader.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "ragdollwilly"
+      },
+      "timestamp": 1750817804000,
+      "size": 877
     },
     {
       "id": "1387287400912257096",
       "name": "AL002_Scorpio_-_1x_Accessible_Loader_w_Box_Crafter.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1387255160815751319/1387287400912257096/Scorpio_-_1x_Accessible_Loader_w_Box_Crafter.litematic?ex=685ccb92&is=685b7a12&hm=ca13e0bc4a67a2fe77eed4837187ef7bfb20f6d8f2d7e9b2e8421dcbc391ea37&",
-      "description": "Sent by ragdollwilly at 6/25/2025, 12:24:51 AM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "4x3x4",
         "version": "1.21.4"
       },
-      "path": "attachments/AL002_Scorpio_-_1x_Accessible_Loader_w_Box_Crafter.litematic"
+      "path": "attachments/AL002_Scorpio_-_1x_Accessible_Loader_w_Box_Crafter.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "ragdollwilly"
+      },
+      "timestamp": 1750825491000,
+      "size": 1223
     },
     {
       "id": "1387287401411641446",
       "name": "AL002_Scorpio_-_2x_Box_Loader_w_Box_Crafter.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1387255160815751319/1387287401411641446/Scorpio_-_2x_Box_Loader_w_Box_Crafter.litematic?ex=685ccb93&is=685b7a13&hm=0b67e848e2da3092dda3a0a835c604db7fad33a96bbd6c0d044ee8e34bb94692&",
-      "description": "Sent by ragdollwilly at 6/25/2025, 12:24:51 AM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "4x3x4",
         "version": "1.21.4"
       },
-      "path": "attachments/AL002_Scorpio_-_2x_Box_Loader_w_Box_Crafter.litematic"
+      "path": "attachments/AL002_Scorpio_-_2x_Box_Loader_w_Box_Crafter.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "ragdollwilly"
+      },
+      "timestamp": 1750825491000,
+      "size": 1261
     }
   ],
   "records": {
@@ -176,5 +228,6 @@
     "uploadMessageId": "1388177464257155273"
   },
   "archivedAt": 1750942147033,
-  "updatedAt": 1750942147033
+  "updatedAt": 1750942147033,
+  "num_comments": 0
 }

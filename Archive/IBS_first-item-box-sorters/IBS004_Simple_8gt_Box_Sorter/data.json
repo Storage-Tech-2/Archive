@@ -28,12 +28,12 @@
   ],
   "tags": [
     {
-      "id": "1385789091676946514",
+      "id": "1465487088156934189",
       "name": "Recommended"
     },
     {
-      "id": "1385488470557986893",
-      "name": "Tested & Functional"
+      "id": "1465490780583100538",
+      "name": "Functional"
     }
   ],
   "images": [
@@ -42,18 +42,30 @@
       "name": "area_render_20_.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1451114878587895808/1451114879258857523/area_render_20_.png?ex=695428cb&is=6952d74b&hm=2b8e09882165ccd79f149685c08af59412b691da6d42356e7d79513aa6fe115e&",
-      "description": "Sent by andrews54757 at 12/18/2025, 2:32:27 AM",
+      "description": "",
       "canDownload": true,
-      "path": "images/area_render_20_.png"
+      "path": "images/area_render_20_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1766043147000
     },
     {
       "id": "1451114879736877066",
       "name": "area_render_21_.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1451114878587895808/1451114879736877066/area_render_21_.png?ex=695428cb&is=6952d74b&hm=22807b1a1e92ca8505ee389ba24944246ecde7baea0db4f0cb7753666581aacc&",
-      "description": "Sent by andrews54757 at 12/18/2025, 2:32:27 AM",
+      "description": "",
       "canDownload": true,
-      "path": "images/area_render_21_.png"
+      "path": "images/area_render_21_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1766043147000
     }
   ],
   "attachments": [
@@ -62,13 +74,20 @@
       "name": "IBS004_Simple_Box_Sorter.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1451114878587895808/1451114880118685696/Simple_Box_Sorter.litematic?ex=6954d18b&is=6953800b&hm=381794e54c725aaa12ce25fc463222012d0d474fe4293b8579bd57018c3b794d&",
-      "description": "Sent by andrews54757 at 12/18/2025, 2:32:27 AM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/IBS004_Simple_Box_Sorter.litematic",
       "litematic": {
         "size": "12x9x4",
         "version": "1.21"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1766043147000,
+      "size": 1820
     },
     {
       "id": "1455462924955942966",
@@ -77,7 +96,14 @@
       "url": "https://cdn.discordapp.com/attachments/1451114878587895808/1455462924955942966/image.png?ex=6954d0fa&is=69537f7a&hm=e14c185d45e1cef3c530cc3ed4df8a586fc121594dbb21fe0527c6963dbb353a&",
       "description": "How to set up overflow protection",
       "canDownload": true,
-      "path": "attachments/IBS004_image.png"
+      "path": "attachments/IBS004_image.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1769242389418,
+      "size": 160525
     }
   ],
   "records": {
@@ -156,5 +182,6 @@
     "uploadMessageId": "1455463666081202229"
   },
   "archivedAt": 1766043538551,
-  "updatedAt": 1767079977027
+  "updatedAt": 1767079977027,
+  "num_comments": 0
 }

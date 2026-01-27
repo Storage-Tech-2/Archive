@@ -28,7 +28,7 @@
   ],
   "tags": [
     {
-      "id": "1385488468729266282",
+      "id": "1465487063406219302",
       "name": "Untested"
     },
     {
@@ -42,11 +42,17 @@
       "name": "area_render_177_.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386466149700600048/1386466150145200200/area_render_177_.png?ex=6859ceb9&is=68587d39&hm=8ee2abf5a071fe73d8e6ad186746e2ecbe8455c740d6382c908b5f776d3d5b87&",
-      "description": "Sent by sandcaribou at 6/22/2025, 6:01:29 PM",
+      "description": "",
       "canDownload": true,
       "width": 674,
       "height": 800,
-      "path": "images/area_render_177_.png"
+      "path": "images/area_render_177_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "sandcaribou"
+      },
+      "timestamp": 1750629689000
     }
   ],
   "attachments": [
@@ -55,13 +61,20 @@
       "name": "OL001_8x_Fullspeed_Loader_v102.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386466149700600048/1386466150593855508/8x_Fullspeed_Loader_v1.0.2.litematic?ex=6859ceb9&is=68587d39&hm=c1b61b1756eafdd1bfb1ee35b59fddea0652c0c60cbe7a5205f8c4afd48ab005&",
-      "description": "Sent by sandcaribou at 6/22/2025, 6:01:29 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "8x8x3",
         "version": "1.21"
       },
-      "path": "attachments/OL001_8x_Fullspeed_Loader_v102.litematic"
+      "path": "attachments/OL001_8x_Fullspeed_Loader_v102.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "sandcaribou"
+      },
+      "timestamp": 1750629689000,
+      "size": 1426
     }
   ],
   "records": {
@@ -106,5 +119,6 @@
     "uploadMessageId": "1388177622499856445"
   },
   "archivedAt": 1750631487535,
-  "updatedAt": 1750631487535
+  "updatedAt": 1750631487535,
+  "num_comments": 0
 }

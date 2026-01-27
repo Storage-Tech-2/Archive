@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Recommended, Pulse Extenders, Tested & Functional*
+**Tags:** *Recommended, Pulse Extenders, Functional*
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318602532225044)
 

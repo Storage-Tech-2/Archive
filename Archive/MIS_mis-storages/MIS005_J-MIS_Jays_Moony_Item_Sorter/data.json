@@ -20,7 +20,7 @@
       "id": "548676165020286994",
       "username": "moonyinspired",
       "displayName": "Moonyinspired",
-      "iconURL": "https://cdn.discordapp.com/avatars/548676165020286994/35154458158d0b3c7dcc5842c5f29b21.webp"
+      "iconURL": "https://cdn.discordapp.com/avatars/548676165020286994/de1561810346d8499959c40642e80873.webp"
     },
     {
       "type": "discord-external",
@@ -40,11 +40,11 @@
   ],
   "tags": [
     {
-      "id": "1385488504204562639",
-      "name": "Tested & Functional"
+      "id": "1465491524203839539",
+      "name": "Functional"
     },
     {
-      "id": "1385789132869079192",
+      "id": "1465487570585649261",
       "name": "Recommended"
     }
   ],
@@ -54,11 +54,17 @@
       "name": "area_render_357_.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1388561670355550298/1388561866506113316/area_render_357_.png?ex=68616e83&is=68601d03&hm=213c801c57ba655e4c5538419f259cee47e8dd18ee1e87a562e93c0d40b707b1&",
-      "description": "Sent by andrews54757 at 6/28/2025, 12:49:07 PM",
+      "description": "",
       "canDownload": true,
       "width": 773,
       "height": 800,
-      "path": "images/area_render_357_.png"
+      "path": "images/area_render_357_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1751129347000
     }
   ],
   "attachments": [
@@ -67,51 +73,87 @@
       "name": "MIS005_J-MIS_v3_Barebones.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1388561670355550298/1388561671366381700/J-MIS_v3_Barebones.litematic?ex=68616e54&is=68601cd4&hm=282d565e266668dc7bab0fb34036e6d55ec35c43df99c46a5533ecb3180a273b&",
-      "description": "Sent by andrews54757 at 6/28/2025, 12:48:20 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "29x33x29",
         "version": "1.20.1"
       },
-      "path": "attachments/MIS005_J-MIS_v3_Barebones.litematic"
+      "path": "attachments/MIS005_J-MIS_v3_Barebones.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1751129300000,
+      "size": 33091
     },
     {
       "id": "1388561671705989222",
       "name": "MIS005_J-MIS_v3_Preset_Filters.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1388561670355550298/1388561671705989222/J-MIS_v3_Preset_Filters.litematic?ex=68616e54&is=68601cd4&hm=0cc3ea0635229dc4096d8b193b08adbd3e6d5209f084f478d61ce9227dcb8318&",
-      "description": "Sent by andrews54757 at 6/28/2025, 12:48:20 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "29x33x29",
         "version": "1.20.1"
       },
-      "path": "attachments/MIS005_J-MIS_v3_Preset_Filters.litematic"
+      "path": "attachments/MIS005_J-MIS_v3_Preset_Filters.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1751129300000,
+      "size": 42101
     },
     {
       "id": "1388561672083472464",
       "name": "MIS005_J-MIS_v3_No_Filters.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1388561670355550298/1388561672083472464/J-MIS_v3_No_Filters.litematic?ex=68616e54&is=68601cd4&hm=6c8e74724e7891c9e6e71bd4299c16fa07260b47a801024adf807924cf629c23&",
-      "description": "Sent by andrews54757 at 6/28/2025, 12:48:20 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "29x33x29",
         "version": "1.20.1"
       },
-      "path": "attachments/MIS005_J-MIS_v3_No_Filters.litematic"
+      "path": "attachments/MIS005_J-MIS_v3_No_Filters.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1751129300000,
+      "size": 33920
     },
     {
       "id": "1234329599165337621",
       "name": "MIS005_J-M-IS_V3.01.zip",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/1182780067164717197/1234329599165337621/J-M-IS_V3.01.zip?ex=68614cc5&is=685ffb45&hm=a5b5c5a599f3e8522b629ec18820fd9329285d4a5e415201629dddf1ae196eeb&",
-      "description": "[DiscordCDN] Sent by andrews54757 at 6/28/2025, 12:48:20 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/MIS005_J-M-IS_V3.01.zip",
       "wdl": {
-        "version": "1.20.1"
-      }
+        "version": "1.20.1",
+        "optimized": true
+      },
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1751129300000,
+      "size": 12129221,
+      "wdls": [
+        {
+          "path": "J-M-IS",
+          "version": "1.20.1",
+          "levelName": "J-M-IS"
+        }
+      ]
     }
   ],
   "records": {
@@ -209,8 +251,9 @@
       "1454755969379733546"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1388563583658365163",
-    "uploadMessageId": "1388563581708275914"
+    "uploadMessageId": "1465577995644309621"
   },
   "archivedAt": 1751129755827,
-  "updatedAt": 1751129755827
+  "updatedAt": 1751129755827,
+  "num_comments": 0
 }

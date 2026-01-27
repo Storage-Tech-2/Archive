@@ -27,15 +27,15 @@
   ],
   "tags": [
     {
-      "id": "1385488489272840272",
-      "name": "Tested & Functional"
+      "id": "1465491262806167634",
+      "name": "Functional"
     },
     {
       "id": "1386453141012090971",
       "name": "Item Aligners"
     },
     {
-      "id": "1385789114598559916",
+      "id": "1465487411856277572",
       "name": "Recommended"
     }
   ],
@@ -45,11 +45,17 @@
       "name": "119_4D_Aligner.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386450584235671562/1386450584793649163/1.19_4D_Aligner.png?ex=6859c03a&is=68586eba&hm=58dd8965baada6d55c78690f163906ab4ed7ca621e21556e80cb81dd88e3e7ff&",
-      "description": "Sent by andrews54757 at 6/22/2025, 4:59:38 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 680,
-      "path": "images/119_4D_Aligner.png"
+      "path": "images/119_4D_Aligner.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750625978000
     }
   ],
   "attachments": [
@@ -58,13 +64,20 @@
       "name": "WT001_119_4D_Aligner.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386450584235671562/1386450590934241432/1.19_4D_Aligner.litematic?ex=6859c03b&is=68586ebb&hm=a25fcadffabd46abc58096e51cd974e6da087d4c1e761c32e86da6accd291835&",
-      "description": "Sent by andrews54757 at 6/22/2025, 4:59:38 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "10x3x7",
         "version": "1.20.1"
       },
-      "path": "attachments/WT001_119_4D_Aligner.litematic"
+      "path": "attachments/WT001_119_4D_Aligner.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750625978000,
+      "size": 1070
     }
   ],
   "records": {
@@ -118,5 +131,6 @@
     "uploadMessageId": "1388178534861897860"
   },
   "archivedAt": 1750626047771,
-  "updatedAt": 1750626047771
+  "updatedAt": 1750626047771,
+  "num_comments": 0
 }

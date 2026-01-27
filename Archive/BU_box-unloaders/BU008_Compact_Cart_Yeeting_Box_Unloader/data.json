@@ -42,15 +42,15 @@
   ],
   "tags": [
     {
-      "id": "1385488474148438035",
-      "name": "Tested & Functional"
+      "id": "1465490889140076728",
+      "name": "Functional"
     },
     {
       "id": "1386248660974567445",
       "name": "Cart Yeet"
     },
     {
-      "id": "1385789096542081145",
+      "id": "1465487154460364877",
       "name": "Recommended"
     }
   ],
@@ -60,9 +60,15 @@
       "name": "area_render_158_.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1389350108801400832/1410486319938932838/area_render_158_.png?ex=68b13140&is=68afdfc0&hm=6ed494b875acb69333e8c94c6a78e64042c513b8387c9d977f14bcb5f095fee5&",
-      "description": "Sent by glidingmonkey at 8/28/2025, 12:49:04 AM",
+      "description": "",
       "canDownload": true,
-      "path": "images/area_render_158_.png"
+      "path": "images/area_render_158_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "glidingmonkey"
+      },
+      "timestamp": 1756356544000
     }
   ],
   "attachments": [
@@ -71,13 +77,20 @@
       "name": "BU008_Fast_Box_Unloader_-_Smaller.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1389350108801400832/1408210501753634946/Fast_Box_Unloader_-_Smaller.litematic?ex=68a8e9ba&is=68a7983a&hm=c9231e68a72a91376ba711f697399bfa851249c144f1d618cdf6e08d8f413a81&",
-      "description": "Sent by glidingmonkey at 8/21/2025, 6:05:46 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/BU008_Fast_Box_Unloader_-_Smaller.litematic",
       "litematic": {
         "size": "3x8x7",
         "version": "1.20.1"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "glidingmonkey"
+      },
+      "timestamp": 1755813946000,
+      "size": 1547
     }
   ],
   "records": {
@@ -126,5 +139,6 @@
     "uploadMessageId": "1408222932731166972"
   },
   "archivedAt": 1766904276561,
-  "updatedAt": 1756356834324
+  "updatedAt": 1756356834324,
+  "num_comments": 0
 }

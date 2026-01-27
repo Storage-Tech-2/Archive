@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Tested & Functional, Manual Replacement*
+**Tags:** *Functional, Manual Replacement*
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317169405792357)
 

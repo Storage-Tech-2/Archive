@@ -28,12 +28,12 @@
   ],
   "tags": [
     {
-      "id": "1385789091676946514",
+      "id": "1465487088156934189",
       "name": "Recommended"
     },
     {
-      "id": "1385488470557986893",
-      "name": "Tested & Functional"
+      "id": "1465490780583100538",
+      "name": "Functional"
     }
   ],
   "images": [
@@ -42,22 +42,34 @@
       "name": "b.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386466762488549526/1386466763138400296/b.png?ex=6859cf4b&is=68587dcb&hm=0dd4c6abf3b7c964d027f2fb06bc6264ac6d6e5cd5ea2783e2b4c93b3c1d7a9b&",
-      "description": "Sent by andrews54757 at 6/22/2025, 6:03:55 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 505,
-      "path": "images/b.png"
+      "path": "images/b.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750629835000
     },
     {
       "id": "1386466763884990566",
       "name": "w.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386466762488549526/1386466763884990566/w.png?ex=6859cf4b&is=68587dcb&hm=7340b582cd53839d09db42e49822bf03b6742cfb2cb5ea3b21173b9aa1fd8ec6&",
-      "description": "Sent by andrews54757 at 6/22/2025, 6:03:55 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 512,
-      "path": "images/w.png"
+      "path": "images/w.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750629835000
     }
   ],
   "attachments": [
@@ -66,26 +78,40 @@
       "name": "IBS001_DrakePHOSE_18gt_Box_Blacklister.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386466762488549526/1386466764258545785/DrakePHOSE_18gt_Box_Blacklister.litematic?ex=6859cf4b&is=68587dcb&hm=bfdf0c7d1d45efe8d6311bb1b42ef209a2dd215e610d65d307738487d4d5ee97&",
-      "description": "Sent by andrews54757 at 6/22/2025, 6:03:55 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "17x10x6",
         "version": "1.21.1"
       },
-      "path": "attachments/IBS001_DrakePHOSE_18gt_Box_Blacklister.litematic"
+      "path": "attachments/IBS001_DrakePHOSE_18gt_Box_Blacklister.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750629835000,
+      "size": 2735
     },
     {
       "id": "1386466765210386491",
       "name": "IBS001_DrakePHOSE_18gt_Box_Whitelister.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386466762488549526/1386466765210386491/DrakePHOSE_18gt_Box_Whitelister.litematic?ex=6859cf4c&is=68587dcc&hm=3ff5b8401feaf290f768a606a8bb54027543a9dc390019c286d672529ac926ca&",
-      "description": "Sent by andrews54757 at 6/22/2025, 6:03:55 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "17x10x6",
         "version": "1.21.1"
       },
-      "path": "attachments/IBS001_DrakePHOSE_18gt_Box_Whitelister.litematic"
+      "path": "attachments/IBS001_DrakePHOSE_18gt_Box_Whitelister.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750629835000,
+      "size": 2791
     }
   ],
   "records": {
@@ -124,5 +150,6 @@
     "uploadMessageId": "1388177648114729102"
   },
   "archivedAt": 1750630085984,
-  "updatedAt": 1768332893862
+  "updatedAt": 1768332893862,
+  "num_comments": 0
 }

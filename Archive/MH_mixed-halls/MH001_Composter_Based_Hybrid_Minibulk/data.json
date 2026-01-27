@@ -48,11 +48,11 @@
   ],
   "tags": [
     {
-      "id": "1385488493937168391",
-      "name": "Tested & Functional"
+      "id": "1465491362165035102",
+      "name": "Functional"
     },
     {
-      "id": "1385789119803691079",
+      "id": "1465487474397679703",
       "name": "Recommended"
     }
   ],
@@ -62,22 +62,34 @@
       "name": "area_render_3_.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386947263732912198/1386947264790003853/area_render_3_.png?ex=685b8ecc&is=685a3d4c&hm=a50ad7b498f5d0d2df32019aad02f2871fa676fc42034f4917b714450f61ee03&",
-      "description": "Sent by andrews54757 at 6/24/2025, 1:53:15 AM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 729,
-      "path": "images/area_render_3_.png"
+      "path": "images/area_render_3_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750744395000
     },
     {
       "id": "1386947265759019109",
       "name": "area_render_4_.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386947263732912198/1386947265759019109/area_render_4_.png?ex=685b8ecc&is=685a3d4c&hm=3ce0893eecefa3f7eb5b2809a4aad2d7f6117c8c0d0c44ca765986ead1a1b01c&",
-      "description": "Sent by andrews54757 at 6/24/2025, 1:53:15 AM",
+      "description": "",
       "canDownload": true,
       "width": 638,
       "height": 750,
-      "path": "images/area_render_4_.png"
+      "path": "images/area_render_4_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750744395000
     }
   ],
   "attachments": [
@@ -86,26 +98,40 @@
       "name": "MH001_v31W_Restart_Lifes_Composter_Hybrid_Mini_Bulk.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386947263732912198/1386947266052358184/v3.1W_Restart_Lifes_Composter_Hybrid_Mini_Bulk.litematic?ex=685b8ecc&is=685a3d4c&hm=1fb2a7e032f3e8482815dd1e83032571de0ee275ec80f5062656cf9e1084d262&",
-      "description": "Sent by andrews54757 at 6/24/2025, 1:53:15 AM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "17x20x37",
         "version": "1.21"
       },
-      "path": "attachments/MH001_v31W_Restart_Lifes_Composter_Hybrid_Mini_Bulk.litematic"
+      "path": "attachments/MH001_v31W_Restart_Lifes_Composter_Hybrid_Mini_Bulk.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750744395000,
+      "size": 16624
     },
     {
       "id": "1386947266455142410",
       "name": "MH001_v31_Restart_Lifes_Composter_Hybrid_Mini_Bulk.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386947263732912198/1386947266455142410/v3.1_Restart_Lifes_Composter_Hybrid_Mini_Bulk.litematic?ex=685b8ecc&is=685a3d4c&hm=d87e055296ce186a59a3be9b0c0c6b722037a82960825089f82a70a2af6c2c45&",
-      "description": "Sent by andrews54757 at 6/24/2025, 1:53:15 AM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "15x21x37",
         "version": "1.21"
       },
-      "path": "attachments/MH001_v31_Restart_Lifes_Composter_Hybrid_Mini_Bulk.litematic"
+      "path": "attachments/MH001_v31_Restart_Lifes_Composter_Hybrid_Mini_Bulk.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750744395000,
+      "size": 16465
     }
   ],
   "records": {
@@ -220,5 +246,6 @@
     "uploadMessageId": "1388178589496905812"
   },
   "archivedAt": 1766904437646,
-  "updatedAt": 1750744689912
+  "updatedAt": 1750744689912,
+  "num_comments": 1
 }

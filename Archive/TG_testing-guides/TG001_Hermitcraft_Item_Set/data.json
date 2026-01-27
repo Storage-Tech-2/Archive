@@ -35,7 +35,7 @@
   ],
   "tags": [
     {
-      "id": "1388600291007533124",
+      "id": "1465487894184722498",
       "name": "Recommended"
     }
   ],
@@ -45,11 +45,17 @@
       "name": "image.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1388624919306305636/1388625473122074624/image.png?ex=6861a9c0&is=68605840&hm=8ad86267e9ca1c9efb27ca6cf34a5ef1931c4f84bed1fc61eaee27b5320bd2e8&",
-      "description": "Sent by andrews54757 at 6/28/2025, 5:01:52 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 256,
-      "path": "images/image.png"
+      "path": "images/image.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1751144512000
     }
   ],
   "attachments": [
@@ -58,52 +64,80 @@
       "name": "TG001_Hermitems_S8_1.21.4.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1388624919306305636/1388711078334169238/Hermitems_S8_1.21.4.litematic?ex=6962653a&is=696113ba&hm=29005a193526c0f0265e556859f8e9e0c3239283415d237d8b3d81308d1b769b&",
-      "description": "Sent by andrews54757 at 6/28/2025, 10:42:02 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/TG001_Hermitems_S8_1.21.4.litematic",
       "litematic": {
         "size": "33x1x7",
         "version": "1.21.4"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1751164922000,
+      "size": 310256
     },
     {
       "id": "1388626214326894802",
       "name": "TG001_Hermitems_S8_1.17.1.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1388624919306305636/1388626214326894802/Hermitems_S8_1.17.1.litematic?ex=6962bef0&is=69616d70&hm=7df0f4b7b3ab647503db4302c643584446ff0132430ab8d1d36a3c6e596ed9da&",
-      "description": "Sent by andrews54757 at 6/28/2025, 5:04:49 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/TG001_Hermitems_S8_1.17.1.litematic",
       "litematic": {
         "size": "33x1x7",
         "version": "1.17.1"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1751144689000,
+      "size": 304092
     },
     {
       "id": "1459310263106015456",
       "name": "TG001_Hermititems_S9_1.20.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1388624919306305636/1459310263106015456/Hermititems_S9_1.20.litematic?ex=6962d017&is=69617e97&hm=d53e0cd2dd6e833d384d3c5f98d98e1837fa54df731d21bcf3a68e5b42f44b6d&",
-      "description": "Sent by andrews54757 at 1/9/2026, 5:17:59 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/TG001_Hermititems_S9_1.20.litematic",
       "litematic": {
         "size": "16x1x47",
         "version": "1.20"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1767997079000,
+      "size": 825098
     },
     {
       "id": "1459310262694842418",
       "name": "TG001_Hermititems_S9_1.20_reduced.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1388624919306305636/1459310262694842418/Hermititems_S9_1.20_reduced.litematic?ex=6962d017&is=69617e97&hm=252fec489827bff0fee8db3f86ace2504ae4ddcf1f61cf8684cf4c2554f34bf0&",
-      "description": "Sent by andrews54757 at 1/9/2026, 5:17:59 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/TG001_Hermititems_S9_1.20_reduced.litematic",
       "litematic": {
         "size": "11x1x47",
         "version": "1.20"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1767997079000,
+      "size": 742643
     }
   ],
   "records": {
@@ -138,5 +172,6 @@
     "uploadMessageId": "1459310718963810356"
   },
   "archivedAt": 1751164937546,
-  "updatedAt": 1767997185571
+  "updatedAt": 1767997185571,
+  "num_comments": 0
 }

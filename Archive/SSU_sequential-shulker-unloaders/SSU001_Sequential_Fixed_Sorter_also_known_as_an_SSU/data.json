@@ -40,11 +40,11 @@
   ],
   "tags": [
     {
-      "id": "1460787895345348746",
-      "name": "Tested & Functional"
+      "id": "1465492258928332923",
+      "name": "Functional"
     },
     {
-      "id": "1460787895345348747",
+      "id": "1465488072748568581",
       "name": "Recommended"
     }
   ],
@@ -54,22 +54,34 @@
       "name": "area_render_171_.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1460784810481025034/1460784810892197971/area_render_171_.png?ex=69682d5e&is=6966dbde&hm=c972653f1ca4daadb8145da8bab71bb99f174d0ea3744f5854ba30258421b893&",
-      "description": "Sent by andrews54757 at 1/13/2026, 6:57:18 PM",
+      "description": "",
       "canDownload": true,
       "width": 360,
       "height": 543,
-      "path": "images/area_render_171_.png"
+      "path": "images/area_render_171_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1768348638000
     },
     {
       "id": "1460784811256844545",
       "name": "area_render_172_.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1460784810481025034/1460784811256844545/area_render_172_.png?ex=69682d5f&is=6966dbdf&hm=22782d7c6019ac7bce46c4b3cbdfc144bd9234284fda4c58fb33e75978d168a4&",
-      "description": "Sent by andrews54757 at 1/13/2026, 6:57:18 PM",
+      "description": "",
       "canDownload": true,
       "width": 694,
       "height": 662,
-      "path": "images/area_render_172_.png"
+      "path": "images/area_render_172_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1768348638000
     }
   ],
   "attachments": [
@@ -78,7 +90,7 @@
       "name": "SSU001_YouTube_Video_Nf6mO0PAHOc.url",
       "contentType": "youtube",
       "url": "https://www.youtube.com/watch?v=Nf6mO0PAHOc",
-      "description": "[YouTube] Sent by andrews54757 at 1/13/2026, 8:07:52 PM",
+      "description": "",
       "canDownload": false,
       "youtube": {
         "title": "My set sequential shulker unloader || HEIlZMaker SFS",
@@ -90,46 +102,73 @@
         "width": 200,
         "height": 113
       },
-      "path": "attachments/SSU001_YouTube_Video_Nf6mO0PAHOc.url"
+      "path": "attachments/SSU001_YouTube_Video_Nf6mO0PAHOc.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1768352872000
     },
     {
       "id": "1460784811571544145",
       "name": "SSU001_Heilz_SFS_1.13.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1460784810481025034/1460784811571544145/Heilz_SFS_1.13.litematic?ex=6968d61f&is=6967849f&hm=debc64291ae0af460e51cc2f6e70e855affc57a1db45dc310a556978e26901a8&",
-      "description": "Sent by andrews54757 at 1/13/2026, 6:57:18 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/SSU001_Heilz_SFS_1.13.litematic",
       "litematic": {
         "size": "6x9x2",
         "version": "1.18.2"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1768348638000,
+      "size": 1298
     },
     {
       "id": "1460784811953356833",
       "name": "SSU001_Heilz_SFS_1.11.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1460784810481025034/1460784811953356833/Heilz_SFS_1.11.litematic?ex=6968d61f&is=6967849f&hm=7a022a1de03da3987162dee6864da74c679e90eb5a50c397faf3ed8e9a0cdf32&",
-      "description": "Sent by andrews54757 at 1/13/2026, 6:57:18 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/SSU001_Heilz_SFS_1.11.litematic",
       "litematic": {
         "size": "6x9x2",
         "version": "1.18.2"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1768348638000,
+      "size": 1327
     },
     {
       "id": "1461074645842264210",
       "name": "SSU001_Heilz_SFS_precision_loading_1.21.4.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1460784810481025034/1461074645842264210/Heilz_SFS_precision_loading_1.21.4.litematic?ex=69693b4d&is=6967e9cd&hm=bf91778c7d3ca6b8e15e3c1ae5509cb39ca7d03e8e2ad200b4c2f4f5b3d7e3b0&",
-      "description": "Sent by andrews54757 at 1/14/2026, 2:09:00 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/SSU001_Heilz_SFS_precision_loading_1.21.4.litematic",
       "litematic": {
         "size": "6x9x2",
         "version": "1.21.4"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1768417740000,
+      "size": 1503
     }
   ],
   "records": {
@@ -238,5 +277,6 @@
     "uploadMessageId": "1461074821449257131"
   },
   "archivedAt": 1768349544010,
-  "updatedAt": 1768417782039
+  "updatedAt": 1768417782039,
+  "num_comments": 0
 }

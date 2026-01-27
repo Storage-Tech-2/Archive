@@ -35,8 +35,8 @@
   ],
   "tags": [
     {
-      "id": "1385488462563512408",
-      "name": "Tested & Functional"
+      "id": "1465490555277541591",
+      "name": "Functional"
     },
     {
       "id": "1386098024454815824",
@@ -47,7 +47,7 @@
       "name": "4X Hopperspeed"
     },
     {
-      "id": "1385789080813436983",
+      "id": "1465486938130878602",
       "name": "Recommended"
     }
   ],
@@ -57,11 +57,17 @@
       "name": "Minimal_Prefill_4x.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386091760710848542/1386091762530910278/Minimal_Prefill_4x.png?ex=6858720c&is=6857208c&hm=71bfe97498163bce391cd3d1a23ea7f7f1e37744109e73608a8973ba5c7a6077&",
-      "description": "Sent by andrews54757 at 6/21/2025, 5:13:48 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 577,
-      "path": "images/Minimal_Prefill_4x.png"
+      "path": "images/Minimal_Prefill_4x.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750540428000
     }
   ],
   "attachments": [
@@ -70,13 +76,20 @@
       "name": "FL001_Minimal_Prefill_4x.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386091760710848542/1386091763055202474/Minimal_Prefill_4x.litematic?ex=6858720c&is=6857208c&hm=a06efe8da531d9ba42a35a15ceeb687a48cd0c2f4460563f2ee4741b65be1ef9&",
-      "description": "Sent by andrews54757 at 6/21/2025, 5:13:48 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "4x10x14",
         "version": "1.16"
       },
-      "path": "attachments/FL001_Minimal_Prefill_4x.litematic"
+      "path": "attachments/FL001_Minimal_Prefill_4x.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750540428000,
+      "size": 1936
     }
   ],
   "records": {
@@ -173,5 +186,6 @@
     "uploadMessageId": "1388177345898348748"
   },
   "archivedAt": 1766901938599,
-  "updatedAt": 1750565056538
+  "updatedAt": 1750565056538,
+  "num_comments": 1
 }

@@ -20,11 +20,11 @@
   ],
   "tags": [
     {
-      "id": "1385488491810394301",
-      "name": "Tested & Functional"
+      "id": "1465491305663823944",
+      "name": "Functional"
     },
     {
-      "id": "1385789116905685055",
+      "id": "1465487442030366858",
       "name": "Recommended"
     },
     {
@@ -42,11 +42,17 @@
       "name": "image.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1456378525970993232/1456378526445076544/image.png?ex=695825b2&is=6956d432&hm=6fcfa0b99ac9efc5e57b1ee6e979b25c7926ee59395feb35c838049691c5858f&",
-      "description": "Sent by andrews54757 at 1/1/2026, 3:08:18 PM",
+      "description": "",
       "canDownload": true,
       "width": 533,
       "height": 611,
-      "path": "images/image.png"
+      "path": "images/image.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1767298098000
     }
   ],
   "attachments": [
@@ -55,26 +61,40 @@
       "name": "CT005_stacked_cart_merge_yeeter.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1456378525970993232/1456378526872899834/stacked_cart_merge_yeeter.litematic?ex=6969f1f3&is=6968a073&hm=a6a79ef63a2fe366b4e4e597aa594b93e8e389acc639f8055563cda872a47178&",
-      "description": "Sent by andrews54757 at 1/1/2026, 3:08:18 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/CT005_stacked_cart_merge_yeeter.litematic",
       "litematic": {
         "size": "4x6x6",
         "version": "1.21.4"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1767298098000,
+      "size": 1327
     },
     {
       "id": "1461402088482275534",
       "name": "CT005_stacked_cart_perfect_merge_yeeter_1.21.11.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1456378525970993232/1461402088482275534/stacked_cart_perfect_merge_yeeter_1.21.11.litematic?ex=696a6c41&is=69691ac1&hm=20a3614d2d894200e018b5514346ec74b5218bbb6ce38a72e1cd148d28e9e500&",
-      "description": "Sent by andrews54757 at 1/15/2026, 11:50:09 AM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/CT005_stacked_cart_perfect_merge_yeeter_1.21.11.litematic",
       "litematic": {
         "size": "4x6x6",
         "version": "1.21.11"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1768495809000,
+      "size": 1294
     }
   ],
   "records": {
@@ -189,5 +209,6 @@
     "uploadMessageId": "1461402514065854554"
   },
   "archivedAt": 1767298406729,
-  "updatedAt": 1768499400427
+  "updatedAt": 1768499400427,
+  "num_comments": 0
 }

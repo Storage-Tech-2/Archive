@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Tested & Functional, Item Aligners, Recommended*
+**Tags:** *Functional, Item Aligners, Recommended*
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317540870131842)
 

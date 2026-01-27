@@ -20,7 +20,7 @@
   ],
   "tags": [
     {
-      "id": "1385789080813436983",
+      "id": "1465486938130878602",
       "name": "Recommended"
     },
     {
@@ -28,8 +28,8 @@
       "name": "1X Hopperspeed"
     },
     {
-      "id": "1385488462563512408",
-      "name": "Tested & Functional"
+      "id": "1465490555277541591",
+      "name": "Functional"
     }
   ],
   "images": [
@@ -38,11 +38,17 @@
       "name": "Simple_1x_Loader_with_Filter.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1388000617972236458/1388005237318484099/Simple_1x_Loader_with_Filter.png?ex=685f681c&is=685e169c&hm=2620c48e27852d6ddc569631cd5c9bd2e64269bd0a28e360ca6252ae98a2e38c&",
-      "description": "Sent by andrews54757 at 6/26/2025, 11:57:16 PM",
+      "description": "",
       "canDownload": true,
       "width": 798,
       "height": 800,
-      "path": "images/Simple_1x_Loader_with_Filter.png"
+      "path": "images/Simple_1x_Loader_with_Filter.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750996636000
     }
   ],
   "attachments": [
@@ -51,25 +57,39 @@
       "name": "FL003_1.13_Simple_1x_Loader_with_Filter.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1388000617972236458/1388005237691912284/1.13_Simple_1x_Loader_with_Filter.litematic?ex=685f681c&is=685e169c&hm=3481a6b0b4867022a303c1cfbb6ca3110744d39fb98e35fb07e1db9659695be3&",
-      "description": "Sent by andrews54757 at 6/26/2025, 11:57:16 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "7x7x5",
         "version": "1.14"
       },
-      "path": "attachments/FL003_1.13_Simple_1x_Loader_with_Filter.litematic"
+      "path": "attachments/FL003_1.13_Simple_1x_Loader_with_Filter.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750996636000,
+      "size": 1330
     },
     {
       "id": "1388005238073462844",
       "name": "FL003_1.11_Simple_1x_Loader_with_Filter.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1388000617972236458/1388005238073462844/1.11_Simple_1x_Loader_with_Filter.litematic?ex=685f681c&is=685e169c&hm=df091e161fedf762cb9f4df2281555018c42cbc3880f62b3de74f7b71c1db8b0&",
-      "description": "Sent by andrews54757 at 6/26/2025, 11:57:16 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "error": "Error processing litematic file"
       },
-      "path": "attachments/FL003_1.11_Simple_1x_Loader_with_Filter.litematic"
+      "path": "attachments/FL003_1.11_Simple_1x_Loader_with_Filter.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750996636000,
+      "size": 1118
     }
   ],
   "records": {
@@ -142,5 +162,6 @@
     "uploadMessageId": "1388177413464129627"
   },
   "archivedAt": 1750997281473,
-  "updatedAt": 1750997281473
+  "updatedAt": 1750997281473,
+  "num_comments": 0
 }

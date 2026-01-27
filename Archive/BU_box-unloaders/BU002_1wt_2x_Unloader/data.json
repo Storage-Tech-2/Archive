@@ -33,8 +33,8 @@
       "name": "2X Hopperspeed"
     },
     {
-      "id": "1385488474148438035",
-      "name": "Tested & Functional"
+      "id": "1465490889140076728",
+      "name": "Functional"
     }
   ],
   "images": [
@@ -43,11 +43,17 @@
       "name": "area_render_59_.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386456499231916093/1386456560774942923/area_render_59_.png?ex=6859c5cb&is=6858744b&hm=2f3bb78515f1740d6a1775a32b3c68ed67af40cbdfa7658512e418eae9096a5b&",
-      "description": "Sent by andrews54757 at 6/22/2025, 5:23:23 PM",
+      "description": "",
       "canDownload": true,
       "width": 478,
       "height": 762,
-      "path": "images/area_render_59_.png"
+      "path": "images/area_render_59_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750627403000
     }
   ],
   "attachments": [
@@ -56,13 +62,20 @@
       "name": "BU002_2x_unloader.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386456499231916093/1386456499756208138/2x_unloader.litematic?ex=6859c5bc&is=6858743c&hm=494a0346a50ee007cd51f81261d0249f0cd8b27139c7adc8df8a1da12b5d7e83&",
-      "description": "Sent by andrews54757 at 6/22/2025, 5:23:08 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "1x8x5",
         "version": "1.20.4"
       },
-      "path": "attachments/BU002_2x_unloader.litematic"
+      "path": "attachments/BU002_2x_unloader.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750627388000,
+      "size": 1135
     }
   ],
   "records": {
@@ -138,5 +151,6 @@
     "uploadMessageId": "1388177869812793417"
   },
   "archivedAt": 1750627612893,
-  "updatedAt": 1750627612893
+  "updatedAt": 1750627612893,
+  "num_comments": 0
 }

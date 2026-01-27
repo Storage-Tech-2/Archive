@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Recommended, Tested & Functional, Box crafters*
+**Tags:** *Recommended, Functional, Box crafters*
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318423427059806)
 

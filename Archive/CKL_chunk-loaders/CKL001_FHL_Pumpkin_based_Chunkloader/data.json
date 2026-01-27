@@ -36,11 +36,11 @@
   ],
   "tags": [
     {
-      "id": "1397060397579632758",
-      "name": "Tested & Functional"
+      "id": "1465492093421092928",
+      "name": "Functional"
     },
     {
-      "id": "1397060397579632759",
+      "id": "1465487965567455279",
       "name": "Recommended"
     }
   ],
@@ -50,11 +50,17 @@
       "name": "Philgoodinator_-_FHL_Pumpkin_Based_Chunkloader.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1397058574407958654/1397058575339225098/Philgoodinator_-_FHL_Pumpkin_Based_Chunkloader.png?ex=688057b0&is=687f0630&hm=715e2b2bf3ba785907e8c85d9ec3d3407738fa3e86c384de233d6c61b4d8a2b2&",
-      "description": "Sent by ragdollwilly at 7/21/2025, 11:32:00 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 593,
-      "path": "images/Philgoodinator_-_FHL_Pumpkin_Based_Chunkloader.png"
+      "path": "images/Philgoodinator_-_FHL_Pumpkin_Based_Chunkloader.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "ragdollwilly"
+      },
+      "timestamp": 1753155120000
     }
   ],
   "attachments": [
@@ -63,13 +69,20 @@
       "name": "CKL001_FHL_Pumpkin_Chunkloader.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1397058574407958654/1397058574613614772/FHL_Pumpkin_Chunkloader.litematic?ex=688057b0&is=687f0630&hm=535cefb5aac34aa8a2d2198abceee02e9603c752105511df9245cb332494734d&",
-      "description": "Sent by ragdollwilly at 7/21/2025, 11:32:00 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/CKL001_FHL_Pumpkin_Chunkloader.litematic",
       "litematic": {
         "size": "6x7x11",
         "version": "1.18.2"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "ragdollwilly"
+      },
+      "timestamp": 1753155120000,
+      "size": 1540
     }
   ],
   "records": {
@@ -133,5 +146,6 @@
     "uploadMessageId": "1397064371414372373"
   },
   "archivedAt": 1753156502117,
-  "updatedAt": 1753156502117
+  "updatedAt": 1753156502117,
+  "num_comments": 0
 }

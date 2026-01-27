@@ -28,15 +28,15 @@
   ],
   "tags": [
     {
-      "id": "1385488462563512408",
-      "name": "Tested & Functional"
+      "id": "1465490555277541591",
+      "name": "Functional"
     },
     {
       "id": "1461038221436784640",
       "name": "6X Hopperspeed"
     },
     {
-      "id": "1385789080813436983",
+      "id": "1465486938130878602",
       "name": "Recommended"
     }
   ],
@@ -46,11 +46,17 @@
       "name": "image.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1461038048426070016/1461038755745108245/image.png?ex=696919e0&is=6967c860&hm=02842fca2bc3c787a82d0a554814d08f860a02cc9629e66127b7dccc3267edf5&",
-      "description": "Sent by andrews54757 at 1/14/2026, 11:46:24 AM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 527,
-      "path": "images/image.png"
+      "path": "images/image.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1768409184000
     }
   ],
   "attachments": [
@@ -59,26 +65,40 @@
       "name": "FL005_Minimal_Prefill_6x_Collection.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1461038048426070016/1461038051751886929/Minimal_Prefill_6x_Collection.litematic?ex=69691938&is=6967c7b8&hm=610c751d8220dfb4e32eb364ce9c04ceb44a0b88530ea4f88d29a11bf7bd478a&",
-      "description": "Sent by andrews54757 at 1/14/2026, 11:43:35 AM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/FL005_Minimal_Prefill_6x_Collection.litematic",
       "litematic": {
         "size": "21x8x15",
         "version": "1.18.2"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1768409015000,
+      "size": 4195
     },
     {
       "id": "1461038052163059834",
       "name": "FL005_Silent_Minimal_Prefill_6x_Collection.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1461038048426070016/1461038052163059834/Silent_Minimal_Prefill_6x_Collection.litematic?ex=69691938&is=6967c7b8&hm=e3c7b065cc7e19915334801bbd0c00cbedfd20b71a90e5827b7cebcfff24df46&",
-      "description": "Sent by andrews54757 at 1/14/2026, 11:43:35 AM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/FL005_Silent_Minimal_Prefill_6x_Collection.litematic",
       "litematic": {
         "size": "21x8x15",
         "version": "1.18.2"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1768409015000,
+      "size": 3914
     }
   ],
   "records": {
@@ -169,5 +189,6 @@
     "uploadMessageId": "1461039246608568505"
   },
   "archivedAt": 1768409293148,
-  "updatedAt": 1768409293148
+  "updatedAt": 1768409293148,
+  "num_comments": 0
 }

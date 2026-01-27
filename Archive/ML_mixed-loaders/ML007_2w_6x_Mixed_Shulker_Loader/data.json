@@ -34,8 +34,8 @@
   ],
   "tags": [
     {
-      "id": "1385488466447695900",
-      "name": "Tested & Functional"
+      "id": "1465490666501963848",
+      "name": "Functional"
     },
     {
       "id": "1386423142574194868",
@@ -52,22 +52,34 @@
       "name": "image.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1441729659422249090/1441729660286406656/image.png?ex=6922dae1&is=69218961&hm=9a97c2f89d33c7711a891e2a6f7d6a0337af0f614c00b571af2ad4679b350f02&",
-      "description": "Sent by wisperingtoyou at 11/22/2025, 4:58:56 AM",
+      "description": "",
       "canDownload": true,
       "width": 669,
       "height": 800,
-      "path": "images/image.png"
+      "path": "images/image.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "wisperingtoyou"
+      },
+      "timestamp": 1763805536000
     },
     {
       "id": "1441729661091446905",
       "name": "image_1.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1441729659422249090/1441729661091446905/image.png?ex=6922dae1&is=69218961&hm=980e30600efb42370f9c2a240ac346b4ebc272cb4a582bba03174bd23d14929d&",
-      "description": "Sent by wisperingtoyou at 11/22/2025, 4:58:56 AM",
+      "description": "",
       "canDownload": true,
       "width": 680,
       "height": 800,
-      "path": "images/image_1.png"
+      "path": "images/image_1.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "wisperingtoyou"
+      },
+      "timestamp": 1763805536000
     }
   ],
   "attachments": [
@@ -76,26 +88,40 @@
       "name": "ML007_2w_6x_Loader_-_Tiled_Ex_-_Wisp__Koalus.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1441729659422249090/1441729906848436407/2w_6x_Loader_-_Tiled_Ex_-_Wisp__Koalus.litematic?ex=6922db1b&is=6921899b&hm=66194f1b195aef8b04b4c2fa8ddf9ba02b47060667c6b947b2176d6158d92b1e&",
-      "description": "Sent by wisperingtoyou at 11/22/2025, 4:59:56 AM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/ML007_2w_6x_Loader_-_Tiled_Ex_-_Wisp__Koalus.litematic",
       "litematic": {
         "size": "16x8x19",
         "version": "1.21.4"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "wisperingtoyou"
+      },
+      "timestamp": 1763805596000,
+      "size": 4928
     },
     {
       "id": "1441729907192238090",
       "name": "ML007_2w_6x_Box_Loader_-_Slices_-_Wisp__Koalus.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1441729659422249090/1441729907192238090/2w_6x_Box_Loader_-_Slices_-_Wisp__Koalus.litematic?ex=6922db1b&is=6921899b&hm=559a1767060abc8f7144fb3e588e7f75ac41d2273716e55bc868dc19ddc4caea&",
-      "description": "Sent by wisperingtoyou at 11/22/2025, 4:59:56 AM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/ML007_2w_6x_Box_Loader_-_Slices_-_Wisp__Koalus.litematic",
       "litematic": {
         "size": "9x7x6",
         "version": "1.21.4"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "wisperingtoyou"
+      },
+      "timestamp": 1763805596000,
+      "size": 1784
     }
   ],
   "records": {
@@ -150,5 +176,6 @@
     "uploadMessageId": "1441837070027854075"
   },
   "archivedAt": 1763831145208,
-  "updatedAt": 1763831145208
+  "updatedAt": 1763831145208,
+  "num_comments": 0
 }

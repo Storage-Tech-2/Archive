@@ -28,8 +28,8 @@
   ],
   "tags": [
     {
-      "id": "1385488525809418299",
-      "name": "Tested & Functional"
+      "id": "1465491830706667561",
+      "name": "Functional"
     }
   ],
   "images": [
@@ -38,33 +38,51 @@
       "name": "mono.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1391820519988400168/1391820520529330257/mono.png?ex=686d495e&is=686bf7de&hm=60a5d6051fbaa61f9d99dd3d6448ed9a8535931b03c1534b8ccfa526a1867abd&",
-      "description": "Sent by drakephose at 7/7/2025, 12:37:50 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 615,
-      "path": "images/mono.png"
+      "path": "images/mono.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "drakephose"
+      },
+      "timestamp": 1751906270000
     },
     {
       "id": "1391820521146028273",
       "name": "mono_locked.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1391820519988400168/1391820521146028273/mono_locked.png?ex=686d495f&is=686bf7df&hm=debdd02466f44ac35c6d863aa24522cb50acffd59d2b4ed950cfaf2c71cca035&",
-      "description": "Sent by drakephose at 7/7/2025, 12:37:50 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 691,
-      "path": "images/mono_locked.png"
+      "path": "images/mono_locked.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "drakephose"
+      },
+      "timestamp": 1751906270000
     },
     {
       "id": "1391820521695612978",
       "name": "clock.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1391820519988400168/1391820521695612978/clock.png?ex=686d495f&is=686bf7df&hm=5a86a40893a7b78cf7d21336d93917a6e785ef0853f773d5f9afc730f0eb1e84&",
-      "description": "Sent by drakephose at 7/7/2025, 12:37:50 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 658,
-      "path": "images/clock.png"
+      "path": "images/clock.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "drakephose"
+      },
+      "timestamp": 1751906270000
     }
   ],
   "attachments": [
@@ -73,39 +91,60 @@
       "name": "AC003_Compact_SS2_1wAB_Crafter_Mono.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1391820519988400168/1391820522077028493/Compact_SS2_1wAB_Crafter_Mono.litematic?ex=686d495f&is=686bf7df&hm=ddfb73ffc880f2995ce077c127fa3609fe2f306754b07ebe94c505780f5c8ea0&",
-      "description": "Sent by drakephose at 7/7/2025, 12:37:50 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "2x6x9",
         "version": "1.21"
       },
-      "path": "attachments/AC003_Compact_SS2_1wAB_Crafter_Mono.litematic"
+      "path": "attachments/AC003_Compact_SS2_1wAB_Crafter_Mono.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "drakephose"
+      },
+      "timestamp": 1751906270000,
+      "size": 1277
     },
     {
       "id": "1391820522442063943",
       "name": "AC003_Compact_SS2_1wAB_Crafter_Mono1.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1391820519988400168/1391820522442063943/Compact_SS2_1wAB_Crafter_Mono1.litematic?ex=686d495f&is=686bf7df&hm=5bfd188ae6750cc2433924c73d1000b06cd5068d3d6aa568421071579f776648&",
-      "description": "Sent by drakephose at 7/7/2025, 12:37:50 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "2x6x9",
         "version": "1.21"
       },
-      "path": "attachments/AC003_Compact_SS2_1wAB_Crafter_Mono1.litematic"
+      "path": "attachments/AC003_Compact_SS2_1wAB_Crafter_Mono1.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "drakephose"
+      },
+      "timestamp": 1751906270000,
+      "size": 1277
     },
     {
       "id": "1391820522819555520",
       "name": "AC003_Compact_SS2_1wAB_Crafter_Clock.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1391820519988400168/1391820522819555520/Compact_SS2_1wAB_Crafter_Clock.litematic?ex=686d495f&is=686bf7df&hm=6205033e9f2be2c61e8a8fa63a747047f682de3f1b6a1c7da31d3fddf5873709&",
-      "description": "Sent by drakephose at 7/7/2025, 12:37:50 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "2x7x9",
         "version": "1.21"
       },
-      "path": "attachments/AC003_Compact_SS2_1wAB_Crafter_Clock.litematic"
+      "path": "attachments/AC003_Compact_SS2_1wAB_Crafter_Clock.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "drakephose"
+      },
+      "timestamp": 1751906270000,
+      "size": 1377
     }
   ],
   "records": {
@@ -151,5 +190,6 @@
     "uploadMessageId": "1391829512752206034"
   },
   "archivedAt": 1751908414463,
-  "updatedAt": 1751908414463
+  "updatedAt": 1751908414463,
+  "num_comments": 0
 }

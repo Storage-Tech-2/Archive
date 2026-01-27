@@ -34,11 +34,11 @@
   ],
   "tags": [
     {
-      "id": "1387131981464211602",
-      "name": "Tested & Functional"
+      "id": "1465491958641328190",
+      "name": "Functional"
     },
     {
-      "id": "1387131981464211603",
+      "id": "1465487863326969871",
       "name": "Recommended"
     }
   ],
@@ -48,11 +48,17 @@
       "name": "area_render_2_.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1451471098742050889/1451471100822290533/area_render_2_.png?ex=69464b4d&is=6944f9cd&hm=8c817a4e12d9c2703f6ce64c0a1c777af815356db03ff8bc47cb856f694f990f&",
-      "description": "Sent by nvertd at 12/19/2025, 2:07:56 AM",
+      "description": "",
       "canDownload": true,
       "width": 234,
       "height": 800,
-      "path": "images/area_render_2_.png"
+      "path": "images/area_render_2_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "nvertd"
+      },
+      "timestamp": 1766128076000
     }
   ],
   "attachments": [
@@ -61,22 +67,36 @@
       "name": "NT003_Item_Elavator_20bps.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1451471098742050889/1451472263378501807/Item_Elavator_20bps.litematic?ex=69464c62&is=6944fae2&hm=aa6a7cf76a0490d9ae7a7566f79a40862af46c4ae0728f0c9bbd8cad8ccd7bf7&",
-      "description": "Sent by nvertd at 12/19/2025, 2:12:34 AM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/NT003_Item_Elavator_20bps.litematic",
       "litematic": {
         "size": "7x31x5",
         "version": "1.21.4"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "nvertd"
+      },
+      "timestamp": 1766128354000,
+      "size": 827
     },
     {
       "id": "1451471102126854166",
       "name": "NT003_2025-12-19_14-54-32.mp4",
       "contentType": "video/mp4",
       "url": "https://cdn.discordapp.com/attachments/1451471098742050889/1451471102126854166/2025-12-19_14-54-32.mp4?ex=69464b4d&is=6944f9cd&hm=3e9fc4fff7894c65a695379dce462a84729b98670d2ea89ac76e1a7f3922b619&",
-      "description": "Sent by nvertd at 12/19/2025, 2:07:56 AM",
+      "description": "",
       "canDownload": true,
-      "path": "attachments/NT003_2025-12-19_14-54-32.mp4"
+      "path": "attachments/NT003_2025-12-19_14-54-32.mp4",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "nvertd"
+      },
+      "timestamp": 1766128076000,
+      "size": 50970425
     }
   ],
   "records": {
@@ -115,5 +135,6 @@
     "uploadMessageId": "1451650942650028255"
   },
   "archivedAt": 1766170954801,
-  "updatedAt": 1766170954801
+  "updatedAt": 1766170954801,
+  "num_comments": 0
 }

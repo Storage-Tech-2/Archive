@@ -28,11 +28,11 @@
   ],
   "tags": [
     {
-      "id": "1386444420911595687",
-      "name": "Tested & Functional"
+      "id": "1465491913410084938",
+      "name": "Functional"
     },
     {
-      "id": "1386444420911595688",
+      "id": "1465487829886046213",
       "name": "Recommended"
     }
   ],
@@ -42,11 +42,17 @@
       "name": "image.png",
       "contentType": "image/webp",
       "url": "https://cdn.discordapp.com/attachments/1450288456357118145/1450288457342521445/image.png?ex=6941fde1&is=6940ac61&hm=1fa04b287258b3d6a8a053ce1c0b75c34dd7b479f424dbc9d74e748e0cb78638&",
-      "description": "Sent by andrews54757 at 12/15/2025, 7:48:33 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 532,
-      "path": "images/image.png"
+      "path": "images/image.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1765846113000
     }
   ],
   "attachments": [
@@ -55,13 +61,20 @@
       "name": "CC005_unbreakable_custom_clock_demo.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1450288456357118145/1450288457745305750/unbreakable_custom_clock_demo.litematic?ex=6941fde1&is=6940ac61&hm=0f9415e449fb87f7dd959d1cb51b45a7aecd0ef33df95dfd36cc3591b7605467&",
-      "description": "Sent by andrews54757 at 12/15/2025, 7:48:33 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/CC005_unbreakable_custom_clock_demo.litematic",
       "litematic": {
         "size": "6x3x9",
         "version": "1.21.4"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1765846113000,
+      "size": 701
     }
   ],
   "records": {
@@ -108,5 +121,6 @@
     "uploadMessageId": "1450290814029664406"
   },
   "archivedAt": 1765846674852,
-  "updatedAt": 1765846674852
+  "updatedAt": 1765846674852,
+  "num_comments": 0
 }

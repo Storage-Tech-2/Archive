@@ -3,7 +3,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Recommended, Shears & Flint, Books, isBox, Tested & Functional*
+**Tags:** *Recommended, Shears & Flint, Books, isBox, Functional*
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317944609636402)
 

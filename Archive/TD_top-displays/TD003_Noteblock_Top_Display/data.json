@@ -35,8 +35,8 @@
   ],
   "tags": [
     {
-      "id": "1385488476258041933",
-      "name": "Tested & Functional"
+      "id": "1465490982278529138",
+      "name": "Functional"
     },
     {
       "id": "1387251647679430757",
@@ -49,11 +49,17 @@
       "name": "Noteblock_Top_Display.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1387184563532333288/1387405462340894761/Noteblock_Top_Display.png?ex=685d3986&is=685be806&hm=169c57207baea4bb26ec5d69a8f0e8cca1d6ad40c65e9260f44441e3470e7185&",
-      "description": "Sent by ragdollwilly at 6/25/2025, 8:13:59 AM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 592,
-      "path": "images/Noteblock_Top_Display.png"
+      "path": "images/Noteblock_Top_Display.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "ragdollwilly"
+      },
+      "timestamp": 1750853639000
     }
   ],
   "attachments": [
@@ -62,13 +68,20 @@
       "name": "TD003_Noteblock_Top_Display.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1387184563532333288/1387405462671986841/Noteblock_Top_Display.litematic?ex=685d3987&is=685be807&hm=58558d09a48bf38f2c288996f03e6ef0f5fe8b3998cbc9f0b502e84ad65d67af&",
-      "description": "Sent by ragdollwilly at 6/25/2025, 8:13:59 AM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "1x5x7",
         "version": "1.21.4"
       },
-      "path": "attachments/TD003_Noteblock_Top_Display.litematic"
+      "path": "attachments/TD003_Noteblock_Top_Display.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "ragdollwilly"
+      },
+      "timestamp": 1750853639000,
+      "size": 1094
     }
   ],
   "records": {
@@ -105,5 +118,6 @@
     "uploadMessageId": "1388178049698103378"
   },
   "archivedAt": 1750857008067,
-  "updatedAt": 1750857008067
+  "updatedAt": 1750857008067,
+  "num_comments": 0
 }

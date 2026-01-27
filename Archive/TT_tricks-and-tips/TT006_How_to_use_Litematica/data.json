@@ -1,0 +1,130 @@
+{
+  "id": "1464101692890021959",
+  "name": "How to use Litematica",
+  "code": "TT006",
+  "reservedCodes": [
+    "TT006"
+  ],
+  "pastPostThreadIds": [
+    "1464102124097900585"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465487911431569671",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1464101936407117975",
+      "name": "25b5529d7a3b030ac136a6ce879d8ed2a1aa4a8d.png",
+      "url": "https://cdn.discordapp.com/ephemeral-attachments/1464101916530184354/1464101936407117975/25b5529d7a3b030ac136a6ce879d8ed2a1aa4a8d.png?ex=69743eaf&is=6972ed2f&hm=33374fd15feb25cd093fefa15ff7778139fc6fe3f48a3fa925751f2c17065a12&",
+      "description": "",
+      "contentType": "image/png",
+      "width": 32,
+      "height": 32,
+      "path": "images/25b5529d7a3b030ac136a6ce879d8ed2a1aa4a8d.png",
+      "source": "DirectUpload",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1769139503000,
+      "canDownload": false
+    }
+  ],
+  "attachments": [],
+  "records": {
+    "description": "You might have noticed that most of the things here in the ST2 archives have litematica schematics as downloadable attachments. Litematica is a mod that allows you to save and load schematics of designs in the game. It's very useful is a must if you want to use or developing any advanced Minecraft contraptions yourself.",
+    "install": "1. Make sure you have fabric loader installed. See https://fabricmc.net/use/installer/ for installation instructions.\n2. In your mods folder, install the [Litematica mod](https://modrinth.com/mod/litematica) by moving the jar file there.\n3. Make sure [Malilib](https://modrinth.com/mod/malilib) is also installed. If not, install it too.",
+    "making-schematics": "1.  In-game, press `M` to open menu.\n2. Go to area editor, set selection mode to \"Simple\"\n3. Go back to previous menu, make sure tool mode is \"Area Selection\" (click it until it's that)\n4. Exit menu, then grab a wooden stick. Press `M+R` to toggle rendering.\n5. Set the boundaries of your build by left clicking in one corner, and right clicking in the opposite corner\n6. Go to the area editor again. Set the selection name. Then, click \"Save schematic\"\n7. Adjust filename as necessary, then click \"Save schematic\" again.\n8. Your schematic is located in the `schematics` folder inside your `.minecraft` (on win) or `~/Library/Application Support/minecraft` (on macos) folder.",
+    "using-schematics": "1.  The schematic you want to use should be placed in the `schematics` folder already\n2. In-game, press `M` to open menu.\n3. Click \"Load Schematics\"\n4. Select the schematic file you want, then click \"Load Schematic\"\n5. Exit back to the main litematica menu. Now you can go to \"Schematic Placements\" to configure where you want it.\n6. Alternativey, in the main litematica menu, set Tool Mode to \"Schematic Placement\". In the game, turn on rendering with `M+R`. You can then grab a stick item in your hotbar, and click in the world to place the schematic where you want it.\n7. If you are building a schematic in survival, use the Render Layers configuration (in configuration menu) to restrict rendering to a certain layer range. after you build a layer, increase the layer amount and build the next one. Do this until you built the whole thing. Then verify that you built it correctly using the Schematic Verifier (Litematica menu > Schematic Placements > Configure your placement > Schematic verifier button).\n8. If you want to paste a schematic in creative mode, set Tool Mode to \"Paste Schematic in World.\" Then grab a stick, make sure rendering is on, and use the executeOperation hotkey (you need to set this yourself in the configuration menu) to paste it.",
+    "using-the-st2-downloader-mod": "The [ST2-Downloader mod](https://modrinth.com/mod/st2-downloader) integrates with Litematica to automatically download and load schematics from the ST2 archives here into the game. Simply click on a litematic attachment within a post, and it will auto load it into Litematica for you.",
+    "tips": "- There are lots of YouTube tutorials out there, use them if you are confused.\n- Set datafixerMode to Always to ensure that schematics from older versions are loaded with inventories correctly.\n- Also set both entityDataSync and pasteUsingServux to true so that you can paste instantly with inventories on servers using the Servux mod."
+  },
+  "styles": {
+    "install": {
+      "depth": 2,
+      "headerText": "Install"
+    },
+    "making-schematics": {
+      "depth": 2,
+      "headerText": "Making schematics"
+    },
+    "using-schematics": {
+      "depth": 2,
+      "headerText": "Using schematics"
+    },
+    "using-the-st2-downloader-mod": {
+      "depth": 2,
+      "headerText": "Using the ST2-Downloader mod"
+    },
+    "tips": {
+      "depth": 2,
+      "headerText": "Tips"
+    }
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Schematic",
+      "id": "1454811558009110704",
+      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
+      "matches": [
+        "schematic",
+        "Schematic",
+        "litematic"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Mods",
+      "id": "1454812343409053849",
+      "url": "https://discord.com/channels/1375556143186837695/1454812343409053849/1454812344642306079",
+      "matches": [
+        "mods"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1464102124097900585",
+    "forumId": "1388657467508133928",
+    "continuingMessageIds": [
+      "1464102128183283743",
+      "1464102129273667584"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1464102124097900585",
+    "uploadMessageId": ""
+  },
+  "archivedAt": 1769139545083,
+  "updatedAt": 1769139545083,
+  "num_comments": 0
+}

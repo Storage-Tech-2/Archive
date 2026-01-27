@@ -20,7 +20,7 @@
       "type": "discord-external",
       "id": "610020794684276736",
       "username": "bonkloud",
-      "iconURL": "https://cdn.discordapp.com/avatars/610020794684276736/9d2bfe35e9ea2fb27e4b1941d46ded7b.webp"
+      "iconURL": "https://cdn.discordapp.com/avatars/610020794684276736/12caa0831fbbf7c5221e12c1a9d54ba9.webp"
     }
   ],
   "endorsers": [
@@ -56,11 +56,17 @@
       "name": "3wt6x_global_render.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1389197974826913814/1394718266307645540/3wt6x_global_render.png?ex=6877d41b&is=6876829b&hm=559fa3a6aa584022b706384fe975be88e638d1814fa4815c2d0869a79cade926&",
-      "description": "Sent by TMC Schematic Renderer at 7/15/2025, 12:32:27 PM",
+      "description": "",
       "canDownload": true,
       "width": 798,
       "height": 800,
-      "path": "images/3wt6x_global_render.png"
+      "path": "images/3wt6x_global_render.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "TMC Schematic Renderer"
+      },
+      "timestamp": 1752597147000
     }
   ],
   "attachments": [
@@ -69,13 +75,20 @@
       "name": "ML006_3wt6x_global.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1389197974826913814/1394717760789151776/3wt6x_global.litematic?ex=6877d3a2&is=68768222&hm=30e45f6a96e3f05c7e9c0348e84d0beec6337e458a57efac506e4612073aee03&",
-      "description": "Sent by camphorwood at 7/15/2025, 12:30:26 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/ML006_3wt6x_global.litematic",
       "litematic": {
         "size": "7x6x4",
         "version": "1.21.5"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "camphorwood"
+      },
+      "timestamp": 1752597026000,
+      "size": 1324
     }
   ],
   "records": {
@@ -132,5 +145,6 @@
     "uploadMessageId": "1394718454862577816"
   },
   "archivedAt": 1752597593874,
-  "updatedAt": 1752597593874
+  "updatedAt": 1752597593874,
+  "num_comments": 0
 }

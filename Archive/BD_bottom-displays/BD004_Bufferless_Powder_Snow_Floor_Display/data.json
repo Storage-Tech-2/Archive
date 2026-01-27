@@ -41,7 +41,7 @@
   ],
   "tags": [
     {
-      "id": "1385789101374046273",
+      "id": "1465487257413615713",
       "name": "Recommended"
     },
     {
@@ -57,8 +57,8 @@
       "name": "Bufferless"
     },
     {
-      "id": "1385488478745137341",
-      "name": "Tested & Functional"
+      "id": "1465491037492609066",
+      "name": "Functional"
     }
   ],
   "images": [
@@ -67,22 +67,34 @@
       "name": "Bufferless_Powdered_Snow_Display.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386859242874470480/1386859243797348493/Bufferless_Powdered_Snow_Display.png?ex=685b3cd2&is=6859eb52&hm=92d5a277c90d96a71f0e6847923c2f873f3c7c46d6b7b07ecbaa0397fcb2dcc5&",
-      "description": "Sent by andrews54757 at 6/23/2025, 8:03:30 PM",
+      "description": "",
       "canDownload": true,
       "width": 777,
       "height": 800,
-      "path": "images/Bufferless_Powdered_Snow_Display.png"
+      "path": "images/Bufferless_Powdered_Snow_Display.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750723410000
     },
     {
       "id": "1386859244611047614",
       "name": "Bufferless_Powdered_Snow_Displays_Tiled_Example.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386859242874470480/1386859244611047614/Bufferless_Powdered_Snow_Displays_Tiled_Example.png?ex=685b3cd2&is=6859eb52&hm=4cc87613cde21f3436360c9aba0d0ca20da4ec7e9297eac3ffa962ec8516a846&",
-      "description": "Sent by andrews54757 at 6/23/2025, 8:03:30 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 683,
-      "path": "images/Bufferless_Powdered_Snow_Displays_Tiled_Example.png"
+      "path": "images/Bufferless_Powdered_Snow_Displays_Tiled_Example.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750723410000
     }
   ],
   "attachments": [
@@ -91,26 +103,40 @@
       "name": "BD004_Bufferless_Powdered_Snow_Display.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386859242874470480/1386859245013569566/Bufferless_Powdered_Snow_Display.litematic?ex=685b3cd2&is=6859eb52&hm=6fed5e53ff78a732dc51dae2b7b0b8490f10d813d56a4d64bfa921e0a67431a1&",
-      "description": "Sent by andrews54757 at 6/23/2025, 8:03:30 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "9x9x1",
         "version": "1.17.1"
       },
-      "path": "attachments/BD004_Bufferless_Powdered_Snow_Display.litematic"
+      "path": "attachments/BD004_Bufferless_Powdered_Snow_Display.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750723410000,
+      "size": 1000
     },
     {
       "id": "1386859245571539026",
       "name": "BD004_Bufferless_Powdered_Snow_Displays_Tiled_Example.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386859242874470480/1386859245571539026/Bufferless_Powdered_Snow_Displays_Tiled_Example.litematic?ex=685b3cd2&is=6859eb52&hm=fb1292e6824aee4f77e02fbba895ba24e977b83534b13a8ad9bbc0166810e56d&",
-      "description": "Sent by andrews54757 at 6/23/2025, 8:03:30 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "10x9x13",
         "version": "1.17.1"
       },
-      "path": "attachments/BD004_Bufferless_Powdered_Snow_Displays_Tiled_Example.litematic"
+      "path": "attachments/BD004_Bufferless_Powdered_Snow_Displays_Tiled_Example.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750723410000,
+      "size": 1860
     }
   ],
   "records": {
@@ -186,5 +212,6 @@
     "uploadMessageId": "1388178136889430179"
   },
   "archivedAt": 1750723470224,
-  "updatedAt": 1750723470224
+  "updatedAt": 1750723470224,
+  "num_comments": 0
 }

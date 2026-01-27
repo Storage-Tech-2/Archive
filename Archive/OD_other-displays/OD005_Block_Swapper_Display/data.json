@@ -42,8 +42,8 @@
   ],
   "tags": [
     {
-      "id": "1385488480968118300",
-      "name": "Tested & Functional"
+      "id": "1465491092089868288",
+      "name": "Functional"
     },
     {
       "id": "1386201854257532949",
@@ -56,11 +56,17 @@
       "name": "Shuffler_Display_-_Autumn_Version.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1426638674891636776/1426638676066304111/Shuffler_Display_-_Autumn_Version.png?ex=68ebf44e&is=68eaa2ce&hm=dfd73181c1eccbd8ee57d7a496ddd130b969149dca3307683859368484daf731&",
-      "description": "Sent by ragdollwilly at 10/11/2025, 2:32:45 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 769,
-      "path": "images/Shuffler_Display_-_Autumn_Version.png"
+      "path": "images/Shuffler_Display_-_Autumn_Version.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "ragdollwilly"
+      },
+      "timestamp": 1760207565000
     }
   ],
   "attachments": [
@@ -69,13 +75,20 @@
       "name": "OD005_Shuffler_Display_-_Autumn_Version.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1426638674891636776/1426638675474649168/Shuffler_Display_-_Autumn_Version.litematic?ex=68ebf44d&is=68eaa2cd&hm=30a1689bf02d02503c9b7a08f6978f8e29c297adb9a58e66ace50759b8adc0e3&",
-      "description": "Sent by ragdollwilly at 10/11/2025, 2:32:45 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/OD005_Shuffler_Display_-_Autumn_Version.litematic",
       "litematic": {
         "size": "7x7x1",
         "version": "1.20.4"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "ragdollwilly"
+      },
+      "timestamp": 1760207565000,
+      "size": 952
     }
   ],
   "records": {
@@ -150,5 +163,6 @@
     "uploadMessageId": "1428107248336371874"
   },
   "archivedAt": 1760557700679,
-  "updatedAt": 1760557700679
+  "updatedAt": 1760557700679,
+  "num_comments": 0
 }
