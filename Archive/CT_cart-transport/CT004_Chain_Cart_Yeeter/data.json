@@ -27,15 +27,15 @@
   ],
   "tags": [
     {
-      "id": "1385488491810394301",
-      "name": "Tested & Functional"
+      "id": "1465491305663823944",
+      "name": "Functional"
     },
     {
       "id": "1450268858790187239",
       "name": "Cart Yeeting"
     },
     {
-      "id": "1385789116905685055",
+      "id": "1465487442030366858",
       "name": "Recommended"
     },
     {
@@ -49,11 +49,17 @@
       "name": "image.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1455668167278989384/1455668167597883538/image.png?ex=69559020&is=69543ea0&hm=ee3fa0f439c43ad068522186501fa88706e3c306b28eba4984860678dd426bd9&",
-      "description": "Sent by andrews54757 at 12/30/2025, 4:05:36 PM",
+      "description": "",
       "canDownload": true,
       "width": 417,
       "height": 517,
-      "path": "images/image.png"
+      "path": "images/image.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1767128736000
     }
   ],
   "attachments": [
@@ -62,13 +68,20 @@
       "name": "CT004_chain_cart_yeeter.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1455668167278989384/1455668167954141215/chain_cart_yeeter.litematic?ex=69559020&is=69543ea0&hm=6726fc9828f86729c27cb477291763c96d7d65354f0151cd2279744bb7eefb26&",
-      "description": "Sent by andrews54757 at 12/30/2025, 4:05:36 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/CT004_chain_cart_yeeter.litematic",
       "litematic": {
         "size": "1x5x3",
         "version": "1.21.4"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1767128736000,
+      "size": 575
     }
   ],
   "records": {
@@ -102,5 +115,6 @@
     "uploadMessageId": "1455668588739297555"
   },
   "archivedAt": 1767128835814,
-  "updatedAt": 1767128835814
+  "updatedAt": 1767128835814,
+  "num_comments": 0
 }

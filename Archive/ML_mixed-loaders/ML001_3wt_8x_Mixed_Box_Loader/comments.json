@@ -15,9 +15,15 @@
         "name": "image.png",
         "contentType": "image/png",
         "url": "https://cdn.discordapp.com/attachments/1388316751061581936/1449440196935553189/image.png?ex=693ee7e0&is=693d9660&hm=f6a1ad57923d8f26c283081f787fbdd7ded4c5a7e958a3bfb2d1a4651d37c0b2&",
-        "description": "Sent by andrews54757 at 12/13/2025, 11:37:52 AM",
+        "description": "",
         "canDownload": true,
-        "path": "comments_attachments/1449440196935553189-image.png"
+        "path": "comments_attachments/1449440196935553189-image.png",
+        "source": "MessageAttachment",
+        "author": {
+          "type": "unknown",
+          "username": "andrews54757"
+        },
+        "timestamp": 1765643872000
       }
     ],
     "timestamp": 1765643873078

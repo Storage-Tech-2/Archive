@@ -3,7 +3,7 @@
   "name": "filter-loaders",
   "code": "FL",
   "category": "Box Loaders & Unloaders",
-  "description": "Box loaders with filters on it, excluding crafters",
+  "description": "Box loaders with filters on it, excluding crafters. Useful for packaging output from farms.",
   "currentCodeId": 5,
   "entries": [
     {

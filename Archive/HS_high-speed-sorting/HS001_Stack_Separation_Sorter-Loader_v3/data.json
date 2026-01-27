@@ -28,7 +28,7 @@
   ],
   "tags": [
     {
-      "id": "1457548618276929637",
+      "id": "1465488061197582361",
       "name": "Broken"
     }
   ],
@@ -38,11 +38,17 @@
       "name": "area_render_33_1.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386475805760163943/1386475806288773254/area_render_33_1.png?ex=6859d7b7&is=68588637&hm=ed7edf704401559a80ce0868b2fc10f4fa2655d6e30d31ba0af1d87adef7942d&",
-      "description": "Sent by andrews54757 at 6/22/2025, 6:39:51 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 659,
-      "path": "images/area_render_33_1.png"
+      "path": "images/area_render_33_1.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750631991000
     }
   ],
   "attachments": [
@@ -51,13 +57,20 @@
       "name": "HS001_Stack_Separation_Sorter-Loader_v3.1.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386475805760163943/1386475806565335070/Stack_Separation_Sorter-Loader_v3.1.litematic?ex=6859d7b7&is=68588637&hm=3cd2748df8f9d1c6fe804bb1e84752f069ebd8dfcb90bc693c9bedee7ddff646&",
-      "description": "Sent by andrews54757 at 6/22/2025, 6:39:51 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "43x29x32",
         "version": "1.17"
       },
-      "path": "attachments/HS001_Stack_Separation_Sorter-Loader_v3.1.litematic"
+      "path": "attachments/HS001_Stack_Separation_Sorter-Loader_v3.1.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750631991000,
+      "size": 11770
     }
   ],
   "records": {
@@ -126,5 +139,6 @@
     "uploadMessageId": "1457548379679883347"
   },
   "archivedAt": 1750790550638,
-  "updatedAt": 1767577007436
+  "updatedAt": 1767577007436,
+  "num_comments": 0
 }

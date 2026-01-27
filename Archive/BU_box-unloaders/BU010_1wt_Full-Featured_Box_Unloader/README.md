@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Recommended, Tested & Functional, 1X Hopperspeed*
+**Tags:** *Recommended, Functional, 1X Hopperspeed*
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1401249609904554225)
 

@@ -3,7 +3,7 @@
 
 **Endorsed by:** *Ragdoll Willy*
 
-**Tags:** *Tested & Functional*
+**Tags:** *Functional*
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1457048406919872819)
 

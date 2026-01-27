@@ -20,7 +20,7 @@
   ],
   "tags": [
     {
-      "id": "1385789127018156145",
+      "id": "1465487514964988074",
       "name": "Recommended"
     },
     {
@@ -36,8 +36,8 @@
       "name": "isBox"
     },
     {
-      "id": "1385488499884425243",
-      "name": "Tested & Functional"
+      "id": "1465491430553292873",
+      "name": "Functional"
     }
   ],
   "images": [
@@ -46,11 +46,17 @@
       "name": "unstackabledrawio.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1387513620413288608/1387513621109674176/unstackable.drawio.png?ex=685d9e42&is=685c4cc2&hm=f6fd21d81e0ed2ac3cf6105bc7848b7086b9c940c5d6c0d6ca0e7f39256af6e3&",
-      "description": "Sent by andrews54757 at 6/25/2025, 3:23:45 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 743,
-      "path": "images/unstackabledrawio.png"
+      "path": "images/unstackabledrawio.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750879425000
     }
   ],
   "attachments": [
@@ -59,13 +65,20 @@
       "name": "US003_Simple_Unstackable_Filters.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1387513620413288608/1387513621344419951/Simple_Unstackable_Filters.litematic?ex=685d9e42&is=685c4cc2&hm=e421c512b69bd5869fbce41f5e31a6d0023a5986dbd2b44efbccf99e9afa917b&",
-      "description": "Sent by andrews54757 at 6/25/2025, 3:23:45 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "17x4x5",
         "version": "1.21.4"
       },
-      "path": "attachments/US003_Simple_Unstackable_Filters.litematic"
+      "path": "attachments/US003_Simple_Unstackable_Filters.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750879425000,
+      "size": 1116
     }
   ],
   "records": {
@@ -100,5 +113,6 @@
     "uploadMessageId": "1388178836465778739"
   },
   "archivedAt": 1750969207691,
-  "updatedAt": 1750969207691
+  "updatedAt": 1750969207691,
+  "num_comments": 0
 }

@@ -28,11 +28,11 @@
   ],
   "tags": [
     {
-      "id": "1385488480968118300",
-      "name": "Tested & Functional"
+      "id": "1465491092089868288",
+      "name": "Functional"
     },
     {
-      "id": "1385789104012132466",
+      "id": "1465487299406991530",
       "name": "Recommended"
     },
     {
@@ -50,11 +50,17 @@
       "name": "walldisplay_defaultextended.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1387132949086076948/1387132949723353129/walldisplay_defaultextended.png?ex=685c3bba&is=685aea3a&hm=fd5fa2e41419844692efd25904ed85597925ea1887ff28a187076934afd92bd4&",
-      "description": "Sent by andrews54757 at 6/24/2025, 2:11:06 PM",
+      "description": "",
       "canDownload": true,
       "width": 652,
       "height": 800,
-      "path": "images/walldisplay_defaultextended.png"
+      "path": "images/walldisplay_defaultextended.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750788666000
     }
   ],
   "attachments": [
@@ -63,13 +69,20 @@
       "name": "OD001_walldisplay_defaultextended.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1387132949086076948/1387132950612545617/walldisplay_defaultextended.litematic?ex=685c3bbb&is=685aea3b&hm=f5dbb7c384b8b6488966998beedaf7b80537c8a8c69eedbd773c350f440b8b0e&",
-      "description": "Sent by andrews54757 at 6/24/2025, 2:11:06 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "1x8x8",
         "version": "1.20.2"
       },
-      "path": "attachments/OD001_walldisplay_defaultextended.litematic"
+      "path": "attachments/OD001_walldisplay_defaultextended.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750788666000,
+      "size": 999
     }
   ],
   "records": {
@@ -95,6 +108,15 @@
     },
     {
       "type": "dictionaryTerm",
+      "term": "Restock station",
+      "id": "1464761941246349412",
+      "url": "https://discord.com/channels/1375556143186837695/1464761941246349412/1464761943725441085",
+      "matches": [
+        "restock station"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
       "term": "Global",
       "id": "1454753648574992557",
       "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
@@ -116,5 +138,6 @@
     "uploadMessageId": "1388178282708730117"
   },
   "archivedAt": 1750788732054,
-  "updatedAt": 1750788732054
+  "updatedAt": 1750788732054,
+  "num_comments": 0
 }

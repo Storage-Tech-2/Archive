@@ -36,8 +36,8 @@
       "name": "SS2"
     },
     {
-      "id": "1385488483170386069",
-      "name": "Tested & Functional"
+      "id": "1465491132455588024",
+      "name": "Functional"
     }
   ],
   "images": [
@@ -46,11 +46,17 @@
       "name": "3wABt_8_item_chest_hall.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1431352584203014316/1432020726830862408/3wABt_8_item_chest_hall.png?ex=68ff88ba&is=68fe373a&hm=374939a39be3fbb047c384fd8da12a08c4bec3f5c689cad7897f108422c0a99e&",
-      "description": "Sent by jezlarm at 10/26/2025, 10:59:07 AM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 520,
-      "path": "images/3wABt_8_item_chest_hall.png"
+      "path": "images/3wABt_8_item_chest_hall.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "jezlarm"
+      },
+      "timestamp": 1761490747000
     }
   ],
   "attachments": [
@@ -59,13 +65,20 @@
       "name": "CH008_8_Items_Chest_Hall_by_Jezlarm.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1431352584203014316/1431352585154990324/8_Items_Chest_Hall_by_Jezlarm.litematic?ex=68fd1a79&is=68fbc8f9&hm=89cbf77090413ee203123bf25dd627ef179afd80229c1cb76dc019e0b56d3a2f&",
-      "description": "Sent by jezlarm at 10/24/2025, 2:44:09 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/CH008_8_Items_Chest_Hall_by_Jezlarm.litematic",
       "litematic": {
         "size": "5x19x29",
         "version": "1.17.1"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "jezlarm"
+      },
+      "timestamp": 1761331449000,
+      "size": 2609
     }
   ],
   "records": {
@@ -129,5 +142,6 @@
     "uploadMessageId": "1432024832157028484"
   },
   "archivedAt": 1761491725510,
-  "updatedAt": 1761491725510
+  "updatedAt": 1761491725510,
+  "num_comments": 0
 }

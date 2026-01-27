@@ -37,12 +37,12 @@
   ],
   "tags": [
     {
-      "id": "1410149844563005509",
+      "id": "1465487973863919746",
       "name": "Recommended"
     },
     {
-      "id": "1410149844563005508",
-      "name": "Tested & Functional"
+      "id": "1465492104288407722",
+      "name": "Functional"
     }
   ],
   "images": [
@@ -51,11 +51,17 @@
       "name": "image.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1455030177531691050/1455030177938800886/image.png?ex=69533df3&is=6951ec73&hm=b5e0b3767bfff1820f6e8559fbdf9cb6d4d56bfeb2096bf8a58a4a7a910c9d36&",
-      "description": "Sent by andrews54757 at 12/28/2025, 9:50:27 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 795,
-      "path": "images/image.png"
+      "path": "images/image.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1766976627000
     }
   ],
   "attachments": [
@@ -64,9 +70,16 @@
       "name": "RD002_image.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1455030177531691050/1455030177938800886/image.png?ex=69533df3&is=6951ec73&hm=b5e0b3767bfff1820f6e8559fbdf9cb6d4d56bfeb2096bf8a58a4a7a910c9d36&",
-      "description": "Sent by andrews54757 at 12/28/2025, 9:50:27 PM",
+      "description": "",
       "canDownload": true,
-      "path": "attachments/RD002_image.png"
+      "path": "attachments/RD002_image.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1766976627000,
+      "size": 824411
     }
   ],
   "records": {
@@ -87,5 +100,6 @@
     "uploadMessageId": "1455030726612221973"
   },
   "archivedAt": 1766976757521,
-  "updatedAt": 1767423921395
+  "updatedAt": 1767423921395,
+  "num_comments": 0
 }

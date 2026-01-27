@@ -28,11 +28,11 @@
   ],
   "tags": [
     {
-      "id": "1457538569756475392",
-      "name": "Tested & Functional"
+      "id": "1465492170420125863",
+      "name": "Functional"
     },
     {
-      "id": "1457538569756475393",
+      "id": "1465488009343406273",
       "name": "Recommended"
     },
     {
@@ -46,11 +46,17 @@
       "name": "area_render.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386920320081985736/1386920320484507778/area_render.png?ex=685b75b4&is=685a2434&hm=d26d2650e8cfe88efed429cfd9ea8fbf87aa9d7ee0fdf07979a895babbdc1c62&",
-      "description": "Sent by andrews54757 at 6/24/2025, 12:06:12 AM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 533,
-      "path": "images/area_render.png"
+      "path": "images/area_render.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750737972000
     }
   ],
   "attachments": [
@@ -59,13 +65,20 @@
       "name": "SP005_Entityless_50_furnace_array_revisited.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386920320081985736/1386920320899747870/Entityless_50_furnace_array_revisited.litematic?ex=685b75b4&is=685a2434&hm=88c03c985b7a84ed33b0ade317afb91adf599d06a716bafaf05d6625b17c64fa&",
-      "description": "Sent by andrews54757 at 6/24/2025, 12:06:12 AM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "30x9x4",
         "version": "1.21"
       },
-      "path": "attachments/SP005_Entityless_50_furnace_array_revisited.litematic"
+      "path": "attachments/SP005_Entityless_50_furnace_array_revisited.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750737972000,
+      "size": 4158
     }
   ],
   "records": {
@@ -113,5 +126,6 @@
     "uploadMessageId": "1457542574607700161"
   },
   "archivedAt": 1750738111030,
-  "updatedAt": 1767575627751
+  "updatedAt": 1767575627751,
+  "num_comments": 0
 }

@@ -28,11 +28,11 @@
   ],
   "tags": [
     {
-      "id": "1385488518499012625",
-      "name": "Tested & Functional"
+      "id": "1465491736636948685",
+      "name": "Functional"
     },
     {
-      "id": "1385789152770920521",
+      "id": "1465487719571525921",
       "name": "Recommended"
     }
   ],
@@ -42,10 +42,16 @@
       "name": "sdsimage.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1387083566676181035/1387083567254999100/sdsimage.png?ex=685c0dbd&is=685abc3d&hm=1a61a5172b2bb99d388eca0a20a49a03fe205efc1e75ab08336f870a09c68784&",
-      "description": "Sent by andrews54757 at 6/24/2025, 10:54:53 AM",
+      "description": "",
       "canDownload": true,
       "width": 638,
       "height": 441,
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1750776893000,
       "path": "images/sdsimage.png"
     },
     {
@@ -53,20 +59,111 @@
       "name": "ideal3-2.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1387083566676181035/1387083568605429821/ideal3-2.png?ex=685c0dbd&is=685abc3d&hm=2ab591cd932f783dd781deeee9f40cf5ff1bbbc9d79fa765f9b897f32c1573ea&",
-      "description": "Sent by andrews54757 at 6/24/2025, 10:54:53 AM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 718,
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1750776893000,
       "path": "images/ideal3-2.png"
     }
   ],
   "attachments": [
     {
+      "id": "1457958141818962043",
+      "name": "VIP003_Ideal_Splitter_V3-r12.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1387083566676181035/1457958141818962043/Ideal_Splitter_V3-r12.zip?ex=69759fd4&is=69744e54&hm=bf7877a4f0c6b28c068befc6dccb1c27432a12928d8fca1c5fe70080ac5098ac&",
+      "timestamp": 1767674708742,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 2230353,
+      "canDownload": true,
+      "path": "attachments/VIP003_Ideal_Splitter_V3-r12.zip",
+      "wdl": {
+        "version": "1.21.4",
+        "optimized": true
+      },
+      "wdls": [
+        {
+          "path": "Ideal_Splitter_V3",
+          "version": "1.21.4",
+          "levelName": "Ideal Splitter V3"
+        }
+      ]
+    },
+    {
+      "id": "1457958142104178849",
+      "name": "VIP003_ideal_v3_64x.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387083566676181035/1457958142104178849/ideal_v3_64x.litematic?ex=69759fd4&is=69744e54&hm=6fd0fda260243c6c1fd92bbcbb5c669f66061b5932053940e7fcd77296ed368b&",
+      "timestamp": 1767674708742,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 13790,
+      "canDownload": true,
+      "path": "attachments/VIP003_ideal_v3_64x.litematic",
+      "litematic": {
+        "size": "43x16x14",
+        "version": "1.21.4"
+      }
+    },
+    {
+      "id": "1457958142410494014",
+      "name": "VIP003_ideal_v3_32x.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387083566676181035/1457958142410494014/ideal_v3_32x.litematic?ex=69759fd4&is=69744e54&hm=56885eb01fce81bb1f11348661878313e777205832b0c70b7b1fff976c87ba16&",
+      "timestamp": 1767674708742,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 11429,
+      "canDownload": true,
+      "path": "attachments/VIP003_ideal_v3_32x.litematic",
+      "litematic": {
+        "size": "27x16x14",
+        "version": "1.21.4"
+      }
+    },
+    {
       "id": "PW318UfnCfU",
       "name": "VIP003_YouTube_Video_PW318UfnCfU.url",
       "contentType": "youtube",
       "url": "https://www.youtube.com/watch?v=PW318UfnCfU",
-      "description": "[YouTube] Sent by andrews54757 at 8/17/2025, 5:11:52 PM",
+      "timestamp": 1755465112792,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "URLInMessage",
+      "description": "",
       "canDownload": false,
       "youtube": {
         "title": "Storage Tech: High-Speed Ideal Splitter V3",
@@ -84,46 +181,41 @@
       "id": "1387083568605429821",
       "name": "VIP003_ideal3-2.png",
       "contentType": "image/png",
-      "url": "https://cdn.discordapp.com/attachments/1387083566676181035/1387083568605429821/ideal3-2.png?ex=695dcafd&is=695c797d&hm=4ce6c932843c7b0562da3b0134739d22db1218055c49f0fc5cc72841a26961bc&",
-      "description": "Sent by andrews54757 at 6/24/2025, 10:54:53 AM",
+      "url": "https://cdn.discordapp.com/attachments/1387083566676181035/1387083568605429821/ideal3-2.png?ex=697585fd&is=6974347d&hm=e8d06e6a223819aff58b250da45eb7158b54ac0466dca5a73160fab73dd20412&",
+      "timestamp": 1750776893062,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 6463343,
       "canDownload": true,
       "path": "attachments/VIP003_ideal3-2.png"
     },
     {
-      "id": "1457958141818962043",
-      "name": "VIP003_Ideal_Splitter_V3-r12.zip",
-      "contentType": "application/zip",
-      "url": "https://cdn.discordapp.com/attachments/1387083566676181035/1457958141818962043/Ideal_Splitter_V3-r12.zip?ex=695de4d4&is=695c9354&hm=73b4cfac85a31255192635b512ae70b8a09b3c06bdd2b5c6acc8bde2b44db82e&",
-      "description": "Sent by andrews54757 at 1/5/2026, 11:45:08 PM",
-      "canDownload": true,
-      "path": "attachments/VIP003_Ideal_Splitter_V3-r12.zip",
-      "wdl": {
-        "version": "1.21.4"
-      }
-    },
-    {
-      "id": "1457958142104178849",
-      "name": "VIP003_ideal_v3_64x.litematic",
+      "id": "1462155449355993343",
+      "name": "VIP003_ideal_v3_32x_stripped.litematic",
       "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1387083566676181035/1457958142104178849/ideal_v3_64x.litematic?ex=695de4d4&is=695c9354&hm=6c739c581e311be51db2d28d5e4e483593f361646b2f764b30be35d160164d92&",
-      "description": "Sent by andrews54757 at 1/5/2026, 11:45:08 PM",
+      "url": "https://cdn.discordapp.com/attachments/1387083566676181035/1462155449355993343/ideal_splitter_32x_stripped.litematic?ex=6975bba0&is=69746a20&hm=db5ea8d7e738b97eba9f3003768818df74a6a379243019b0b03deb6f56dfc21f&",
+      "timestamp": 1768675424665,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Contains just the core logic. Use this if you want to wire the control logic yourself.",
+      "size": 8365,
       "canDownload": true,
-      "path": "attachments/VIP003_ideal_v3_64x.litematic",
+      "path": "attachments/VIP003_ideal_v3_32x_stripped.litematic",
       "litematic": {
-        "size": "43x16x14",
-        "version": "1.21.4"
-      }
-    },
-    {
-      "id": "1457958142410494014",
-      "name": "VIP003_ideal_v3_32x.litematic",
-      "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1387083566676181035/1457958142410494014/ideal_v3_32x.litematic?ex=695de4d4&is=695c9354&hm=045e3d7a7afa3e1eb1c9e2ce890b97479570b6c0d9468c7306985e47b0eb3d8d&",
-      "description": "Sent by andrews54757 at 1/5/2026, 11:45:08 PM",
-      "canDownload": true,
-      "path": "attachments/VIP003_ideal_v3_32x.litematic",
-      "litematic": {
-        "size": "27x16x14",
+        "size": "27x14x14",
         "version": "1.21.4"
       }
     }
@@ -198,8 +290,9 @@
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1388318356377043076",
     "attachmentMessageId": "1388179342869401601",
-    "uploadMessageId": "1457958254717178091"
+    "uploadMessageId": "1465578257708486760"
   },
   "archivedAt": 1766292406993,
-  "updatedAt": 1767674727432
+  "updatedAt": 1769267503821,
+  "num_comments": 0
 }

@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Tested & Functional, Recommended, Furnace Array*
+**Tags:** *Functional, Recommended, Furnace Array*
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1457542579385139310)
 

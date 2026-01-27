@@ -38,11 +38,11 @@
       "name": "Accessible Loaders"
     },
     {
-      "id": "1385488493937168391",
-      "name": "Tested & Functional"
+      "id": "1465491362165035102",
+      "name": "Functional"
     },
     {
-      "id": "1385789119803691079",
+      "id": "1465487474397679703",
       "name": "Recommended"
     }
   ],
@@ -52,33 +52,37 @@
       "name": "image.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1398695700073811978/1398695700614742138/image.png?ex=68864c61&is=6884fae1&hm=a7596ba8594cd482367d08ddddf6c10608aa5fe4d7c4cd39bf6d419162281cde&",
-      "description": "Sent by camphorwood at 7/26/2025, 11:57:21 AM",
+      "description": "",
       "canDownload": true,
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1753545441000,
       "path": "images/image.png"
     }
   ],
   "attachments": [
     {
-      "id": "1398696336198734066",
-      "name": "MH002_pyra_waterstream.png",
-      "contentType": "image/png",
-      "url": "https://cdn.discordapp.com/attachments/1398695700073811978/1398696336198734066/pyra_waterstream.png?ex=689f5979&is=689e07f9&hm=f1b5c076cbf40e1d7ba25f0ece952582ae8618b2eeafe426fdb6f644019b4746&",
-      "description": "Sent by camphorwood at 7/26/2025, 11:59:53 AM",
-      "canDownload": true,
-      "path": "attachments/MH002_pyra_waterstream.png"
-    },
-    {
       "id": "1405639820847485039",
       "name": "MH002_accessible_loader_hall.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1398695700073811978/1405639820847485039/accessible_loader_hall.litematic?ex=689f8f98&is=689e3e18&hm=12fbe9eb466da1bc12868c48282293480ef1ffc1cf4ae2f5ecb2672c8c7251ef&",
-      "description": "Sent by camphorwood at 8/14/2025, 3:50:48 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/MH002_accessible_loader_hall.litematic",
       "litematic": {
         "size": "6x19x17",
         "version": "1.21.1"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1755201048000,
+      "size": 3815
     }
   ],
   "records": {
@@ -93,8 +97,9 @@
       "Average of 3.5 unlocked hoppers per slice",
       "Displays buffers boxes"
     ],
-    "notes": "Please don't lock the hall while it is in operation. Box display from DatNerd, Overflow water stream by Pyraleft"
+    "notes": "Please don't lock the hall while it is in operation. Box display from DatNerd, Overflow water stream by Pyraleft (See WT004)"
   },
+  "styles": {},
   "references": [
     {
       "type": "dictionaryTerm",
@@ -131,6 +136,17 @@
       "matches": [
         "Box display"
       ]
+    },
+    {
+      "type": "archivedPost",
+      "id": "1455460194627620895",
+      "code": "WT004",
+      "name": "One Tall Output Collection Stream",
+      "url": "https://discord.com/channels/1375556143186837695/1455461373415915728",
+      "path": "Archive/WT_water-transport/WT004_One_Tall_Output_Collection_Stream",
+      "matches": [
+        "WT004"
+      ]
     }
   ],
   "author_references": [],
@@ -138,12 +154,12 @@
     "threadId": "1398714918714212473",
     "forumId": "1375563506765664388",
     "continuingMessageIds": [
-      "1454727414918807615",
-      "1454727415539433473"
+      "1454727414918807615"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1398714918714212473",
-    "uploadMessageId": "1405639926812250112"
+    "uploadMessageId": "1465566325056213057"
   },
   "archivedAt": 1755201073286,
-  "updatedAt": 1755201073286
+  "updatedAt": 1769488640194,
+  "num_comments": 0
 }

@@ -35,7 +35,7 @@
   ],
   "tags": [
     {
-      "id": "1385488518499012623",
+      "id": "1465487719571525919",
       "name": "Untested"
     }
   ],
@@ -45,11 +45,17 @@
       "name": "area_render_98_.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1397831329004912830/1397831329412026488/area_render_98_.png?ex=6883275f&is=6881d5df&hm=2fef33794eefddf2fcf607554a8aad118e721e207f838f2bbdd80ded5aa92741&",
-      "description": "Sent by andrews54757 at 7/24/2025, 2:42:39 AM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 690,
-      "path": "images/area_render_98_.png"
+      "path": "images/area_render_98_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1753339359000
     }
   ],
   "attachments": [
@@ -58,35 +64,55 @@
       "name": "VIP005_Bilibili_Video_BV1HFPxeCE4m.url",
       "contentType": "bilibili",
       "url": "https://www.bilibili.com/video/BV1HFPxeCE4m/",
-      "description": "[Bilibili] Sent by andrews54757 at 7/27/2025, 10:18:06 AM",
+      "description": "",
       "canDownload": false,
-      "path": "attachments/VIP005_Bilibili_Video_BV1HFPxeCE4m.url"
+      "path": "attachments/VIP005_Bilibili_Video_BV1HFPxeCE4m.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1753625886000
     },
     {
       "id": "1456692264779780206",
       "name": "VIP005_idealv2.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1397831329004912830/1456692264779780206/idealv2.litematic?ex=695949e3&is=6957f863&hm=8f0a29f93c2ae4181a29dcc09a0020018bb9800caf7460f811f5ef2f60883530&",
-      "description": "Sent by andrews54757 at 1/2/2026, 11:55:00 AM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/VIP005_idealv2.litematic",
       "litematic": {
         "size": "21x14x33",
         "version": "1.21"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1767372900000,
+      "size": 15220
     },
     {
       "id": "1456692264490242231",
       "name": "VIP005_idealmini.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1397831329004912830/1456692264490242231/idealmini.litematic?ex=695949e3&is=6957f863&hm=0264b3935178ca4654fd676196e13a6fc2141382796cc0da76862d1e72da92fb&",
-      "description": "Sent by andrews54757 at 1/2/2026, 11:55:00 AM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/VIP005_idealmini.litematic",
       "litematic": {
         "size": "21x14x21",
         "version": "1.21"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1767372900000,
+      "size": 10788
     }
   ],
   "records": {
@@ -151,5 +177,6 @@
     "uploadMessageId": "1456692755488047256"
   },
   "archivedAt": 1753625937818,
-  "updatedAt": 1767373014238
+  "updatedAt": 1767373014238,
+  "num_comments": 1
 }

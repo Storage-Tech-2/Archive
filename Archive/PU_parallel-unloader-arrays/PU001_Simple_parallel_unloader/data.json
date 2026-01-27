@@ -35,8 +35,8 @@
   ],
   "tags": [
     {
-      "id": "1385488516309450759",
-      "name": "Tested & Functional"
+      "id": "1465491702033809471",
+      "name": "Functional"
     }
   ],
   "images": [
@@ -45,11 +45,17 @@
       "name": "simple_parallel_unloader_v3.png",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/749137424684285992/1344506311580061769/simple_parallel_unloader_v3.png?ex=68596dd4&is=68581c54&hm=5406c21cde59c1275f0e2c0fcebb8abd4d0bd748c2da347df212006981c05f36&",
-      "description": "[DiscordCDN] Sent by valblaze at 6/22/2025, 5:42:04 PM",
+      "description": "",
       "canDownload": true,
       "width": 669,
       "height": 800,
-      "path": "images/simple_parallel_unloader_v3.png"
+      "path": "images/simple_parallel_unloader_v3.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "valblaze"
+      },
+      "timestamp": 1750628524000
     }
   ],
   "attachments": [
@@ -58,26 +64,40 @@
       "name": "PU001_Simple_parallel_unloader_V3_SS2.litematic",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/749137424684285992/1344506311861211176/Simple_parallel_unloader_V3_SS2.litematic?ex=68596dd4&is=68581c54&hm=e62b9af526487eba9f8b6e86f5d157f8d2d637b24c201f637d4dc4c221d70e21&",
-      "description": "[DiscordCDN] Sent by valblaze at 6/22/2025, 5:36:43 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "12x22x17",
         "version": "1.21.1"
       },
-      "path": "attachments/PU001_Simple_parallel_unloader_V3_SS2.litematic"
+      "path": "attachments/PU001_Simple_parallel_unloader_V3_SS2.litematic",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "valblaze"
+      },
+      "timestamp": 1750628203000,
+      "size": 5236
     },
     {
       "id": "1344506312234635274",
       "name": "PU001_Simple_parallel_unloader_V3_SS3.litematic",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/749137424684285992/1344506312234635274/Simple_parallel_unloader_V3_SS3.litematic?ex=68596dd4&is=68581c54&hm=48168bcaa39f4eebd4b225ab00d6cbe0d3474b7cf36805927bc1c0b3497415f5&",
-      "description": "[DiscordCDN] Sent by valblaze at 6/22/2025, 5:37:12 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "12x22x17",
         "version": "1.21.1"
       },
-      "path": "attachments/PU001_Simple_parallel_unloader_V3_SS3.litematic"
+      "path": "attachments/PU001_Simple_parallel_unloader_V3_SS3.litematic",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "valblaze"
+      },
+      "timestamp": 1750628232000,
+      "size": 4964
     }
   ],
   "records": {
@@ -124,5 +144,6 @@
     "uploadMessageId": "1388179211591614506"
   },
   "archivedAt": 1750628874967,
-  "updatedAt": 1750628874967
+  "updatedAt": 1750628874967,
+  "num_comments": 0
 }

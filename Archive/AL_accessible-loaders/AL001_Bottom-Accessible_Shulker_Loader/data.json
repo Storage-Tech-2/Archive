@@ -29,12 +29,12 @@
       "name": "Tileable"
     },
     {
-      "id": "1385789083279822881",
+      "id": "1465486971215548592",
       "name": "Recommended"
     },
     {
-      "id": "1385488464648208442",
-      "name": "Tested & Functional"
+      "id": "1465490606980857926",
+      "name": "Functional"
     }
   ],
   "images": [
@@ -43,11 +43,17 @@
       "name": "AL001_accessible_shulker_loader_render.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386250599326285874/1392582139433844736/AL001_accessible_shulker_loader_render.png?ex=68700eae&is=686ebd2e&hm=8aa09314c0d4cb4e35d4209e81a12840dfa0c951cf568949dcbc86bd82bf47a5&",
-      "description": "Sent by TMC Schematic Renderer at 7/9/2025, 3:04:15 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 696,
-      "path": "images/AL001_accessible_shulker_loader_render.png"
+      "path": "images/AL001_accessible_shulker_loader_render.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "TMC Schematic Renderer"
+      },
+      "timestamp": 1752087855000
     }
   ],
   "attachments": [
@@ -56,13 +62,20 @@
       "name": "AL001_accessible_shulker_loader.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386250599326285874/1386250599699316736/accessible_shulker_loader.litematic?ex=685905fa&is=6857b47a&hm=ef2f141cbb45f17b1c0e4ee8570717756f3711b624a9ac37039236baea7b8a3f&",
-      "description": "Sent by andrews54757 at 6/22/2025, 3:44:58 AM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "1x6x7",
         "version": "1.16.5"
       },
-      "path": "attachments/AL001_accessible_shulker_loader.litematic"
+      "path": "attachments/AL001_accessible_shulker_loader.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750578298000,
+      "size": 796
     }
   ],
   "records": {
@@ -106,5 +119,6 @@
     "uploadMessageId": "1388177439364088061"
   },
   "archivedAt": 1752087867743,
-  "updatedAt": 1752087867743
+  "updatedAt": 1752087867743,
+  "num_comments": 0
 }

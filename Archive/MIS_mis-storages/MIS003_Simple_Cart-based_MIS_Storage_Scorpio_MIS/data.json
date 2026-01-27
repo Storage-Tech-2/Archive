@@ -28,8 +28,8 @@
   ],
   "tags": [
     {
-      "id": "1385488504204562639",
-      "name": "Tested & Functional"
+      "id": "1465491524203839539",
+      "name": "Functional"
     }
   ],
   "images": [
@@ -38,20 +38,32 @@
       "name": "area_render_26_.png",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/1315522702492172300/1379027871531532389/area_render_26_.png",
-      "description": "[DiscordCDN] Sent by scorpio03 at 7/2/2025, 11:44:00 PM",
+      "description": "",
       "canDownload": true,
-      "path": "images/area_render_26_.png"
+      "path": "images/area_render_26_.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751514240000
     },
     {
       "id": "1390325206727262248",
       "name": "area_render_8_.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386555107084210176/1390325206727262248/area_render_8_.png?ex=6867d8c0&is=68668740&hm=e21649e63aebd7949859820f9ff0cdef18784ade713ac790bb3fc1e60fd0345e&",
-      "description": "Sent by scorpio03 at 7/3/2025, 9:36:00 AM",
+      "description": "",
       "canDownload": true,
       "width": 752,
       "height": 800,
-      "path": "images/area_render_8_.png"
+      "path": "images/area_render_8_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1751549760000
     }
   ],
   "attachments": [
@@ -60,9 +72,15 @@
       "name": "MIS003_ScorpioMIS.url",
       "contentType": "mediafire",
       "url": "https://www.mediafire.com/folder/5ajiire4a6cs5/Scorpio+MIS",
-      "description": "[MediaFire] Sent by scorpio03 at 6/23/2025, 12:01:12 AM",
+      "description": "",
       "canDownload": false,
-      "path": "attachments/MIS003_ScorpioMIS.url"
+      "path": "attachments/MIS003_ScorpioMIS.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "scorpio03"
+      },
+      "timestamp": 1750651272000
     }
   ],
   "records": {
@@ -211,5 +229,6 @@
     "uploadMessageId": "1388179019459199086"
   },
   "archivedAt": 1766902323684,
-  "updatedAt": 1767121835374
+  "updatedAt": 1767121835374,
+  "num_comments": 0
 }

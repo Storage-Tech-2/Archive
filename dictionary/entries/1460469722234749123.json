@@ -69,6 +69,8 @@
     }
   ],
   "referencedBy": [
-    "VIP005"
+    "VIP005",
+    "RD004",
+    "VBS004"
   ]
 }

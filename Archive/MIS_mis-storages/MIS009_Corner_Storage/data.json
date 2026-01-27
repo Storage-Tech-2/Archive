@@ -1,0 +1,206 @@
+{
+  "id": "1463357269013168128",
+  "name": "Corner Storage",
+  "code": "MIS009",
+  "reservedCodes": [
+    "MIS009"
+  ],
+  "pastPostThreadIds": [
+    "1464410091057975570"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "889866137184137238",
+      "username": "bipim",
+      "displayName": "bipim",
+      "iconURL": "https://cdn.discordapp.com/avatars/889866137184137238/7e7a059e3e137003a2abe1a91499f786.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465491524203839539",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1463357270141305036",
+      "name": "area_render_1_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1463357269013168128/1463357270141305036/area_render_1_.png?ex=69718929&is=697037a9&hm=2a59c1bba03ece44a59481cfbc4db36520cbc51d36344c3a228411bb39b3d5a5&",
+      "description": "",
+      "canDownload": true,
+      "width": 800,
+      "height": 550,
+      "path": "images/area_render_1_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "bipim"
+      },
+      "timestamp": 1768961960000
+    }
+  ],
+  "attachments": [
+    {
+      "id": "flzlc49n1e1tpa9",
+      "name": "MIS009_jasps_v4.0.1.url",
+      "contentType": "mediafire",
+      "url": "https://www.mediafire.com/file/flzlc49n1e1tpa9/jasps_v4.0.1.zip/file",
+      "description": "download",
+      "canDownload": false,
+      "path": "attachments/MIS009_jasps_v4.0.1.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1769242389395
+    },
+    {
+      "id": "1463737334930608201",
+      "name": "MIS009_corner_storage_jasps_v4.0.1.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1463357269013168128/1463737334930608201/corner_storage_jasps_v4.0.1.litematic?ex=6972eb1f&is=6971999f&hm=9cb7dfd7495e8db412a1e05c9f4de30648ffa649dacd2f4de41c8f5976643bcf&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/MIS009_corner_storage_jasps_v4.0.1.litematic",
+      "litematic": {
+        "size": "71x41x67",
+        "version": "1.21.4"
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1769052575000,
+      "size": 104243
+    },
+    {
+      "id": "1463737334657974352",
+      "name": "MIS009_corner_storage_jasps_v4.0.1_nether.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1463357269013168128/1463737334657974352/corner_storage_jasps_v4.0.1_nether.litematic?ex=6972eb1f&is=6971999f&hm=122d11aa6692e1f5069881eda668398b6906a6831a7cf2b181b2f168534b18c8&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/MIS009_corner_storage_jasps_v4.0.1_nether.litematic",
+      "litematic": {
+        "size": "9x6x12",
+        "version": "1.21.4"
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1769052575000,
+      "size": 1561
+    }
+  ],
+  "records": {
+    "description": "A decently fast and low lag multi item sorting + bulk solution. Originarily made for 1.19, updated to 1.21.\n\nExtra credits in wdl.",
+    "features": [
+      "4x hopper speed sorting, multiple slices can work in parallel (expect between 6x and 13x in real sorting sessions).",
+      "Multi item sorting for shulker boxes and loose items, 1x hopper speed, multiple slices can work in parallel.",
+      "Regular bulk with direct input.",
+      "Individual threshold for each MIS category to decide if sort as box or unload items.",
+      "Temporary storage to sort a selection of items (~160, expandable) only in full boxes.",
+      "Basic safety features that stop the input and force pause in case of errors in chunkloading, excessive backlog, running out of boxes or overflow overflowing.",
+      "Compatible with /carpet MovableBlockEntities=true.",
+      "All inventories that may need to be fixed if the system gets unloaded are accessible.",
+      "Decently hopperlocked. All the hopper carts are killed when idle. Low active lag (max 4mspt with lithium in i5-4210U, old laptop cpu)"
+    ],
+    "considerations": [
+      "destroys boxes to unload their content",
+      "boxes assigned to temp may be buffered in the merging loop and so made temporarily inaccessible, this is intended",
+      "some components used are very old (splitter i'm looking at you)"
+    ],
+    "notes": "download: https://www.mediafire.com/file/flzlc49n1e1tpa9/jasps_v4.0.1.zip/file",
+    "compatibility": "Updated to 1.21 (originally for 1.19)"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "4x",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "4x",
+        "hopper speed",
+        "6x",
+        "1x"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "MIS",
+      "id": "1454753725091676293",
+      "url": "https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954",
+      "matches": [
+        "MIS"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperlocked",
+      "id": "1454753660625227895",
+      "url": "https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422",
+      "matches": [
+        "hopperlocked"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "mspt",
+      "id": "1454753719664119890",
+      "url": "https://discord.com/channels/1375556143186837695/1454753719664119890/1454753720259575821",
+      "matches": [
+        "mspt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "splitter",
+      "id": "1454754768088989789",
+      "url": "https://discord.com/channels/1375556143186837695/1454754768088989789/1454754769674567868",
+      "matches": [
+        "splitter"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1464410091057975570",
+    "forumId": "1375566804910604349",
+    "continuingMessageIds": [
+      "1464410094115619061",
+      "1464410094895632398"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1464410091057975570",
+    "uploadMessageId": "1464410087887208508"
+  },
+  "archivedAt": 1769212967056,
+  "updatedAt": 1769212967056,
+  "num_comments": 0
+}

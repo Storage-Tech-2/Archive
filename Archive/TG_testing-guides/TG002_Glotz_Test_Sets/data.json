@@ -1,0 +1,295 @@
+{
+  "id": "1464690831486357656",
+  "name": "Glotz Test Sets",
+  "code": "TG002",
+  "reservedCodes": [
+    "TG002"
+  ],
+  "pastPostThreadIds": [
+    "1464695499566088253"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "247092209780916225",
+      "username": "justglotz",
+      "displayName": "Glotz",
+      "iconURL": "https://cdn.discordapp.com/avatars/247092209780916225/6180f71564f0bb3fca26a7dd8b712748.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465487894184722498",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1464690831700263096",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1464690831486357656/1464690831700263096/image.png?ex=69766322&is=697511a2&hm=ac1916fc8919668fdcc32857da17dd903f5ceeca580cc1037921bd1766401f10&",
+      "timestamp": 1769279906866,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 21190,
+      "canDownload": true,
+      "width": 268,
+      "height": 220,
+      "path": "images/image.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1464690832098459840",
+      "name": "TG002_Sci_Mooshroom_Farm_Leftovers.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1464690831486357656/1464690832098459840/Sci_Mooshroom_Farm_Leftovers.litematic?ex=69766323&is=697511a3&hm=46b8e181b350dd9445b9b1725960ee4d477856e45e81c12817f07b4c18adc968&",
+      "timestamp": 1769279906866,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 6217,
+      "canDownload": true,
+      "path": "attachments/TG002_Sci_Mooshroom_Farm_Leftovers.litematic",
+      "litematic": {
+        "size": "3x2x1",
+        "version": "1.17.1"
+      }
+    },
+    {
+      "id": "1464690832371355832",
+      "name": "TG002_Wavetech_Combined_Set.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1464690831486357656/1464690832371355832/Wavetech_Combined_Set.litematic?ex=69766323&is=697511a3&hm=447618b304e1eb3983a37c76aea1c15bb8ed71223a23f3d10cae5ddde073566f&",
+      "timestamp": 1769279906866,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 19900,
+      "canDownload": true,
+      "path": "attachments/TG002_Wavetech_Combined_Set.litematic",
+      "litematic": {
+        "size": "3x4x1",
+        "version": "1.21.11"
+      }
+    },
+    {
+      "id": "1464690832656437344",
+      "name": "TG002_Wavetech_Project_5_Leftovers.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1464690831486357656/1464690832656437344/Wavetech_Project_5_Leftovers.litematic?ex=69766323&is=697511a3&hm=9e42227317b94305b69a959da737fcf8328a5ff22ccb889b81ecd7905b1d5c25&",
+      "timestamp": 1769279906866,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 3197,
+      "canDownload": true,
+      "path": "attachments/TG002_Wavetech_Project_5_Leftovers.litematic",
+      "litematic": {
+        "size": "2x1x1",
+        "version": "1.20.4"
+      }
+    },
+    {
+      "id": "1464690832975069306",
+      "name": "TG002_Wavetech_Project_4_Leftovers.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1464690831486357656/1464690832975069306/Wavetech_Project_4_Leftovers.litematic?ex=69766323&is=697511a3&hm=568f4a62f45ba3ee99f7cbf144c13e5f4b681f06f8df8f62eb4ea139d9df85d2&",
+      "timestamp": 1769279906866,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 2879,
+      "canDownload": true,
+      "path": "attachments/TG002_Wavetech_Project_4_Leftovers.litematic",
+      "litematic": {
+        "size": "1x1x1",
+        "version": "1.20.4"
+      }
+    },
+    {
+      "id": "1464690833285714035",
+      "name": "TG002_Wavetech_Project_3_Leftovers.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1464690831486357656/1464690833285714035/Wavetech_Project_3_Leftovers.litematic?ex=69766323&is=697511a3&hm=82e8965b4416dead2e96377f5cde899a155a9e62873d1e1f5a02289e0412a386&",
+      "timestamp": 1769279906866,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 7770,
+      "canDownload": true,
+      "path": "attachments/TG002_Wavetech_Project_3_Leftovers.litematic",
+      "litematic": {
+        "size": "3x2x1",
+        "version": "1.20.4"
+      }
+    },
+    {
+      "id": "1464690833579184330",
+      "name": "TG002_Wavetech_Project_2_Leftovers.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1464690831486357656/1464690833579184330/Wavetech_Project_2_Leftovers.litematic?ex=69766323&is=697511a3&hm=c83a3a2db8b270281dfb51aa351fa43fa1a9d192cb8b65ed488e3d64a16892a4&",
+      "timestamp": 1769279906866,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 3823,
+      "canDownload": true,
+      "path": "attachments/TG002_Wavetech_Project_2_Leftovers.litematic",
+      "litematic": {
+        "size": "1x1x1",
+        "version": "1.20.4"
+      }
+    },
+    {
+      "id": "1464690833843290162",
+      "name": "TG002_Wavetech_Project_1_Leftovers.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1464690831486357656/1464690833843290162/Wavetech_Project_1_Leftovers.litematic?ex=69766323&is=697511a3&hm=d64ef4c9546a6e84cd9abfba7d16ae7e5cb416cbc5585cfa49c4a5d92a371342&",
+      "timestamp": 1769279906866,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 4872,
+      "canDownload": true,
+      "path": "attachments/TG002_Wavetech_Project_1_Leftovers.litematic",
+      "litematic": {
+        "size": "2x1x1",
+        "version": "1.20.4"
+      }
+    },
+    {
+      "id": "1464692066448838803",
+      "name": "TG002_sci-mooshroom.csv",
+      "contentType": "text/csv; charset=utf-8",
+      "url": "https://cdn.discordapp.com/attachments/1464690831486357656/1464692066448838803/sci-mooshroom.csv?ex=69766449&is=697512c9&hm=8638c89894efe2025a76f9464242ba990d0d58703ed67ba83c107b273ffe3fd3&",
+      "timestamp": 1769280201366,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "A spreadsheet of items in the sci-mooshroom set",
+      "size": 2371,
+      "canDownload": true,
+      "path": "attachments/TG002_sci-mooshroom.csv"
+    },
+    {
+      "id": "1464692065857306930",
+      "name": "TG002_wavetech-combined.csv",
+      "contentType": "text/csv; charset=utf-8",
+      "url": "https://cdn.discordapp.com/attachments/1464690831486357656/1464692065857306930/wavetech-combined.csv?ex=69766449&is=697512c9&hm=016ce1edca41a1eb049ac46feb57d3d9b17f82af2ecc0b926c9577229e01db73&",
+      "timestamp": 1769280201366,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "A spreadsheet of items in the wavetech-combined set",
+      "size": 5702,
+      "canDownload": true,
+      "path": "attachments/TG002_wavetech-combined.csv"
+    }
+  ],
+  "records": {
+    "description": "Collection of test item sets made by Glotz. These sets use items leftover from projects in Technical Minecraft servers, covering a real use case for storage systems.",
+    "test-sets": "- Sci Mooshroom set (68,320 items, 104 types): Actual box collection from leftovers after a farm on sci. Note that there are a few renamed items (EG netherrack items renamed to netherrack) which wont be sortable.\n- Wavetech combined set (185,676 items, 236 types). Leftovers from miscellaneous projects on the Wavetech server."
+  },
+  "styles": {
+    "test-sets": {
+      "depth": 2,
+      "headerText": "Test Sets"
+    }
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Collection",
+      "id": "1454805930670559326",
+      "url": "https://discord.com/channels/1375556143186837695/1454805930670559326/1454805932532830268",
+      "matches": [
+        "box collection"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1464695499566088253",
+    "forumId": "1388599778941861898",
+    "continuingMessageIds": [
+      "1464695502665810072",
+      "1464695503353675858",
+      "1464695504243003630"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1464695499566088253",
+    "uploadMessageId": "1464695496189939878"
+  },
+  "archivedAt": 1769281016745,
+  "updatedAt": 1769281016745,
+  "num_comments": 0
+}

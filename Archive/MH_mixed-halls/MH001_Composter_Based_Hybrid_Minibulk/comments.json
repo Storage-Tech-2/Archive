@@ -15,9 +15,15 @@
         "name": "hybrid_loader_explanation.png",
         "contentType": "image/png",
         "url": "https://cdn.discordapp.com/attachments/1387915826874683532/1387995973418094643/hybrid_loader_explanation.png?ex=685f5f7b&is=685e0dfb&hm=b0b515c82bfe28a7ce9afd0ae5e6dc5abf98f9c32cb6fb9a3327c03a5df12d29&",
-        "description": "Sent by andrews54757 at 6/26/2025, 11:20:27 PM",
+        "description": "",
         "canDownload": true,
-        "path": "comments_attachments/1387995973418094643-hybrid_loader_explanation.png"
+        "path": "comments_attachments/1387995973418094643-hybrid_loader_explanation.png",
+        "source": "MessageAttachment",
+        "author": {
+          "type": "unknown",
+          "username": "andrews54757"
+        },
+        "timestamp": 1750994427000
       }
     ],
     "timestamp": 1750994429332

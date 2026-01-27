@@ -28,7 +28,7 @@
   ],
   "tags": [
     {
-      "id": "1385488508155723782",
+      "id": "1465487623043809365",
       "name": "Broken"
     }
   ],
@@ -38,11 +38,17 @@
       "name": "area_render_3_.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1389156295520682004/1389156296967852053/area_render_3_.png?ex=6863981e&is=6862469e&hm=1e9f13949a39ffc06711bb4eda06add9d144789aa62e10d0f58079bdcfbadcd7&",
-      "description": "Sent by compactsmg at 6/30/2025, 4:11:10 AM",
+      "description": "",
       "canDownload": true,
       "width": 784,
       "height": 800,
-      "path": "images/area_render_3_.png"
+      "path": "images/area_render_3_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "compactsmg"
+      },
+      "timestamp": 1751271070000
     }
   ],
   "attachments": [
@@ -51,35 +57,55 @@
       "name": "LS001_Sweet_Potatoes.url",
       "contentType": "mediafire",
       "url": "https://www.mediafire.com/folder/vrackqnk2jjkt/Sweet_Potatoes",
-      "description": "[MediaFire] Sent by compactsmg at 7/16/2025, 11:39:44 PM",
+      "description": "",
       "canDownload": false,
-      "path": "attachments/LS001_Sweet_Potatoes.url"
+      "path": "attachments/LS001_Sweet_Potatoes.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "compactsmg"
+      },
+      "timestamp": 1752723584000
     },
     {
       "id": "1389156354161381507",
       "name": "LS001_Sweet_Potatoes_Nether_Side.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1389156295520682004/1389156354161381507/Sweet_Potatoes_Nether_Side.litematic?ex=687aaa6c&is=687958ec&hm=a5b788f68cfd529ea69eb40e04e881db33447f694cde5277bcc8c062a820f758&",
-      "description": "Sent by compactsmg at 6/30/2025, 4:11:24 AM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/LS001_Sweet_Potatoes_Nether_Side.litematic",
       "litematic": {
         "size": "18x6x14",
         "version": "1.21.1"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "compactsmg"
+      },
+      "timestamp": 1751271084000,
+      "size": 1258
     },
     {
       "id": "1395660548544397402",
       "name": "LS001_Sweet_Potatoes.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1389156295520682004/1395660548544397402/Sweet_Potatoes.litematic?ex=687b41ac&is=6879f02c&hm=86f62adb3f1b2f510c20086b0e413d547630423429f030aaf90310b9871a6dae&",
-      "description": "Sent by compactsmg at 7/18/2025, 2:56:44 AM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/LS001_Sweet_Potatoes.litematic",
       "litematic": {
         "size": "144x85x128",
         "version": "1.21.5"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "compactsmg"
+      },
+      "timestamp": 1752821804000,
+      "size": 244580
     }
   ],
   "records": {
@@ -146,6 +172,16 @@
       "url": "https://discord.com/channels/1375556143186837695/1454753771035824158/1454753771555913873",
       "matches": [
         "peripheral"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Restock station",
+      "id": "1464761941246349412",
+      "url": "https://discord.com/channels/1375556143186837695/1464761941246349412/1464761943725441085",
+      "matches": [
+        "restock station",
+        "Restock Station"
       ]
     },
     {
@@ -408,5 +444,6 @@
     "uploadMessageId": "1395660913415163925"
   },
   "archivedAt": 1766904550994,
-  "updatedAt": 1768581462682
+  "updatedAt": 1768581462682,
+  "num_comments": 0
 }

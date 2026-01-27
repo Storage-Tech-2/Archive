@@ -34,11 +34,11 @@
   ],
   "tags": [
     {
-      "id": "1385488499884425243",
-      "name": "Tested & Functional"
+      "id": "1465491430553292873",
+      "name": "Functional"
     },
     {
-      "id": "1385789127018156145",
+      "id": "1465487514964988074",
       "name": "Recommended"
     },
     {
@@ -52,22 +52,34 @@
       "name": "area_render_67_.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1387480002978910330/1387623580191166575/area_render_67_.png?ex=685e04aa&is=685cb32a&hm=ee6ab88ed53f7446d459ac5825dea75339710faf6ff2ceb8d721951cbcaefed6&",
-      "description": "Sent by andrews54757 at 6/25/2025, 10:40:42 PM",
+      "description": "",
       "canDownload": true,
       "width": 574,
       "height": 682,
-      "path": "images/area_render_67_.png"
+      "path": "images/area_render_67_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750905642000
     },
     {
       "id": "1387623580455534612",
       "name": "area_render_66_.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1387480002978910330/1387623580455534612/area_render_66_.png?ex=685e04aa&is=685cb32a&hm=2e4015846d6cac7bd72fe81087c387d3323dad2b65083a5b93666928d1767278&",
-      "description": "Sent by andrews54757 at 6/25/2025, 10:40:42 PM",
+      "description": "",
       "canDownload": true,
       "width": 759,
       "height": 526,
-      "path": "images/area_render_66_.png"
+      "path": "images/area_render_66_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750905642000
     }
   ],
   "attachments": [
@@ -76,26 +88,40 @@
       "name": "US002_potion_filter.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1387480002978910330/1387480003876356146/potion_filter.litematic?ex=685d7ef3&is=685c2d73&hm=d216a20233812757a45f11c4c47db4e6f326cae084d6293fdbd58c83afac900c&",
-      "description": "Sent by andrews54757 at 6/25/2025, 1:10:10 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "2x7x6",
         "version": "1.16.4"
       },
-      "path": "attachments/US002_potion_filter.litematic"
+      "path": "attachments/US002_potion_filter.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750871410000,
+      "size": 1135
     },
     {
       "id": "1387625113767252060",
       "name": "US002_potion_filter_global_clock_v2.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1387480002978910330/1387625113767252060/potion_filter_global_clock_v2.litematic?ex=685e0617&is=685cb497&hm=a555f02a11ea22f045d01edf83fcfaa7fc821456c5ef4024e3d4d2dccc4ead70&",
-      "description": "Sent by andrews54757 at 6/25/2025, 10:46:48 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "6x3x2",
         "version": "1.21.4"
       },
-      "path": "attachments/US002_potion_filter_global_clock_v2.litematic"
+      "path": "attachments/US002_potion_filter_global_clock_v2.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750906008000,
+      "size": 1013
     }
   ],
   "records": {
@@ -152,5 +178,6 @@
     "uploadMessageId": "1388178810326749307"
   },
   "archivedAt": 1750973599550,
-  "updatedAt": 1750973599550
+  "updatedAt": 1750973599550,
+  "num_comments": 0
 }

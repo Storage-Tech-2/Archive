@@ -44,8 +44,8 @@
   ],
   "tags": [
     {
-      "id": "1457538569756475392",
-      "name": "Tested & Functional"
+      "id": "1465492170420125863",
+      "name": "Functional"
     },
     {
       "id": "1457543013025710093",
@@ -58,11 +58,17 @@
       "name": "Xia_-_3_item_Restock_Station.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1393001409166704751/1393001410089713885/Xia_-_3_item_Restock_Station.png?ex=68719528&is=687043a8&hm=b7274815539d17c9276f56199fcf73c31b21e7868a6f74c2b819bcc794c23724&",
-      "description": "Sent by ragdollwilly at 7/10/2025, 6:50:16 PM",
+      "description": "",
       "canDownload": true,
       "width": 679,
       "height": 800,
-      "path": "images/Xia_-_3_item_Restock_Station.png"
+      "path": "images/Xia_-_3_item_Restock_Station.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "ragdollwilly"
+      },
+      "timestamp": 1752187816000
     }
   ],
   "attachments": [
@@ -71,13 +77,20 @@
       "name": "SP001_Xia_-_3_Item_Restock_Station.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1393001409166704751/1393001410404290690/Xia_-_3_Item_Restock_Station.litematic?ex=68719528&is=687043a8&hm=86f53f0111162b2baecabaabf13abb14222a22c33bfa55a258405c849c2a8f94&",
-      "description": "Sent by ragdollwilly at 7/10/2025, 6:50:16 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/SP001_Xia_-_3_Item_Restock_Station.litematic",
       "litematic": {
         "size": "1x12x10",
         "version": "1.21.4"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "ragdollwilly"
+      },
+      "timestamp": 1752187816000,
+      "size": 1793
     }
   ],
   "records": {
@@ -95,6 +108,15 @@
     ]
   },
   "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Restock station",
+      "id": "1464761941246349412",
+      "url": "https://discord.com/channels/1375556143186837695/1464761941246349412/1464761943725441085",
+      "matches": [
+        "restock station"
+      ]
+    },
     {
       "type": "dictionaryTerm",
       "term": "Box Display",
@@ -153,5 +175,6 @@
     "uploadMessageId": "1457541624706891889"
   },
   "archivedAt": 1752253853582,
-  "updatedAt": 1767575397001
+  "updatedAt": 1767575397001,
+  "num_comments": 0
 }

@@ -41,11 +41,11 @@
   ],
   "tags": [
     {
-      "id": "1385488510051684530",
-      "name": "Tested & Functional"
+      "id": "1465491638733246555",
+      "name": "Functional"
     },
     {
-      "id": "1385789141131984962",
+      "id": "1465487654979113256",
       "name": "Recommended"
     }
   ],
@@ -55,11 +55,17 @@
       "name": "image.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1459226891973165106/1459226894410186762/image.png?ex=69628272&is=696130f2&hm=368151a1807da35526c64eb631f365d90a00cc4179aa1f2215c23bf3dc11c93c&",
-      "description": "Sent by tisunfortunate at 1/9/2026, 11:46:42 AM",
+      "description": "",
       "canDownload": true,
       "width": 714,
       "height": 800,
-      "path": "images/image.png"
+      "path": "images/image.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "tisunfortunate"
+      },
+      "timestamp": 1767977202000
     }
   ],
   "attachments": [
@@ -68,13 +74,20 @@
       "name": "MF003_NoisyMIS.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1459226891973165106/1459226894904983654/NoisyMIS.litematic?ex=69628272&is=696130f2&hm=49ffb89ef04dbf8f31acad40b0ad61c767626bed31d0fe0a43337effc456f28e&",
-      "description": "Sent by tisunfortunate at 1/9/2026, 11:46:42 AM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/MF003_NoisyMIS.litematic",
       "litematic": {
         "size": "7x7x5",
         "version": "1.20.1"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "tisunfortunate"
+      },
+      "timestamp": 1767977202000,
+      "size": 1611
     }
   ],
   "records": {
@@ -158,5 +171,6 @@
     "uploadMessageId": "1459227334254137477"
   },
   "archivedAt": 1767977300988,
-  "updatedAt": 1768507328925
+  "updatedAt": 1768507328925,
+  "num_comments": 0
 }

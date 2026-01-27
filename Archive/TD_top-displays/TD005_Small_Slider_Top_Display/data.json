@@ -28,7 +28,7 @@
   ],
   "tags": [
     {
-      "id": "1385789099033497712",
+      "id": "1465487218893394017",
       "name": "Recommended"
     },
     {
@@ -36,8 +36,8 @@
       "name": "Auto Replacement"
     },
     {
-      "id": "1385488476258041933",
-      "name": "Tested & Functional"
+      "id": "1465490982278529138",
+      "name": "Functional"
     }
   ],
   "images": [
@@ -46,11 +46,17 @@
       "name": "Small_Slider_Top_Display.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1396151574577021061/1396151575185068116/Small_Slider_Top_Display.png?ex=687d0afa&is=687bb97a&hm=42dc7776bfa922fd32d4fed41aeceb6df1ad6f5048c3f7c41e88261347c62566&",
-      "description": "Sent by ragdollwilly at 7/19/2025, 11:27:54 AM",
+      "description": "",
       "canDownload": true,
       "width": 695,
       "height": 800,
-      "path": "images/Small_Slider_Top_Display.png"
+      "path": "images/Small_Slider_Top_Display.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "ragdollwilly"
+      },
+      "timestamp": 1752938874000
     }
   ],
   "attachments": [
@@ -59,13 +65,20 @@
       "name": "TD005_Small_Slider_Top_Display.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1396151574577021061/1396151575465951323/Small_Slider_Top_Display.litematic?ex=687d0afa&is=687bb97a&hm=0ced55192731999fd95caa47d8226fb34677e669cabbbdf3aae7434033a4fff2&",
-      "description": "Sent by ragdollwilly at 7/19/2025, 11:27:54 AM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/TD005_Small_Slider_Top_Display.litematic",
       "litematic": {
         "size": "7x8x2",
         "version": "1.21.4"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "ragdollwilly"
+      },
+      "timestamp": 1752938874000,
+      "size": 1243
     }
   ],
   "records": {
@@ -130,5 +143,6 @@
     "uploadMessageId": "1396186992164864134"
   },
   "archivedAt": 1752947318573,
-  "updatedAt": 1752947318573
+  "updatedAt": 1752947318573,
+  "num_comments": 0
 }

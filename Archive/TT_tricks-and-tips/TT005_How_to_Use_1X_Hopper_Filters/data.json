@@ -20,8 +20,8 @@
   ],
   "tags": [
     {
-      "name": "Recommended",
-      "id": "1388657843774816395"
+      "id": "1465487911431569671",
+      "name": "Recommended"
     }
   ],
   "images": [
@@ -30,11 +30,17 @@
       "name": "filters.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386222661037985933/1386222661323194428/filters.png?ex=6858ebf5&is=68579a75&hm=b0a1c70ede2b1c19defb7147ae1f87da963df04a02a093b912a4e24b8ee921e2&",
-      "description": "Sent by andrews54757 at 6/22/2025, 1:53:57 AM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 489,
-      "path": "images/filters.png"
+      "path": "images/filters.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750571637000
     }
   ],
   "attachments": [
@@ -43,13 +49,20 @@
       "name": "TT005_basic_fixed_filters.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386222661037985933/1386222661553623070/basic_fixed_filters.litematic?ex=6858ebf5&is=68579a75&hm=9a24119d9407405e86457378b6a55b6dcb9f22cad18379abf1216ed52ca01cf2&",
-      "description": "Sent by andrews54757 at 6/22/2025, 1:53:57 AM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "1x4x12",
         "version": "1.21.4"
       },
-      "path": "attachments/TT005_basic_fixed_filters.litematic"
+      "path": "attachments/TT005_basic_fixed_filters.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750571637000,
+      "size": 12841
     }
   ],
   "records": {
@@ -102,5 +115,6 @@
     "uploadMessageId": "1457547033886851093"
   },
   "archivedAt": 1750571980621,
-  "updatedAt": 1767576689265
+  "updatedAt": 1767576689265,
+  "num_comments": 1
 }

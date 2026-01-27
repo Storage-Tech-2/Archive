@@ -39,11 +39,11 @@
   ],
   "tags": [
     {
-      "id": "1385488525809418299",
-      "name": "Tested & Functional"
+      "id": "1465491830706667561",
+      "name": "Functional"
     },
     {
-      "id": "1385789161650257952",
+      "id": "1465487779390816459",
       "name": "Recommended"
     },
     {
@@ -57,22 +57,34 @@
       "name": "box_crafter_pre-made_material.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1387317727060033669/1387827420198998076/box_crafter_pre-made_material.png?ex=685ec281&is=685d7101&hm=32ab9b76b2e6f5699cefd97117d7a5d26489114d593e97b3c2763b49dc7f9ad4&",
-      "description": "Sent by acaciachan at 6/26/2025, 12:10:41 PM",
+      "description": "",
       "canDownload": true,
       "width": 609,
       "height": 800,
-      "path": "images/box_crafter_pre-made_material.png"
+      "path": "images/box_crafter_pre-made_material.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "acaciachan"
+      },
+      "timestamp": 1750954241000
     },
     {
       "id": "1387827420656304290",
       "name": "box_material_loader_x3.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1387317727060033669/1387827420656304290/box_material_loader_x3.png?ex=685ec281&is=685d7101&hm=69143577f952e46f01fba83ff0a87f8fcce623aab9a17b0b246ff955ec528636&",
-      "description": "Sent by acaciachan at 6/26/2025, 12:10:41 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 733,
-      "path": "images/box_material_loader_x3.png"
+      "path": "images/box_material_loader_x3.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "acaciachan"
+      },
+      "timestamp": 1750954241000
     }
   ],
   "attachments": [
@@ -81,52 +93,80 @@
       "name": "AC002_box_crafter_pre-made_material.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1387317727060033669/1387827434044395632/box_crafter_pre-made_material.litematic?ex=685f6b44&is=685e19c4&hm=5069845f6253512e2a52fff2f2594997902da5bb3317f84c2db6c65c8320e551&",
-      "description": "Sent by acaciachan at 6/26/2025, 12:10:45 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "2x4x4",
         "version": "1.20.4"
       },
-      "path": "attachments/AC002_box_crafter_pre-made_material.litematic"
+      "path": "attachments/AC002_box_crafter_pre-made_material.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "acaciachan"
+      },
+      "timestamp": 1750954245000,
+      "size": 2464
     },
     {
       "id": "1387827434342187169",
       "name": "AC002_box_material_loader_bamboo.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1387317727060033669/1387827434342187169/box_material_loader_bamboo.litematic?ex=685f6b44&is=685e19c4&hm=3c9a1630f5ec426b30acd3cd3ee4c0c71054d4d3385d87cebab6ba7f941d8bbd&",
-      "description": "Sent by acaciachan at 6/26/2025, 12:10:45 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "6x9x6",
         "version": "1.20.4"
       },
-      "path": "attachments/AC002_box_material_loader_bamboo.litematic"
+      "path": "attachments/AC002_box_material_loader_bamboo.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "acaciachan"
+      },
+      "timestamp": 1750954245000,
+      "size": 7513
     },
     {
       "id": "1387827434623078430",
       "name": "AC002_box_material_loader_logs.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1387317727060033669/1387827434623078430/box_material_loader_logs.litematic?ex=685f6b45&is=685e19c5&hm=52003f7d20af362ac4ad8a58ffcb6f553da0133c6d708aab8a05d3afb504ceb3&",
-      "description": "Sent by acaciachan at 6/26/2025, 12:10:45 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "5x9x6",
         "version": "1.20.4"
       },
-      "path": "attachments/AC002_box_material_loader_logs.litematic"
+      "path": "attachments/AC002_box_material_loader_logs.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "acaciachan"
+      },
+      "timestamp": 1750954245000,
+      "size": 5600
     },
     {
       "id": "1387893902790365254",
       "name": "AC002_box_material_loader_logs_slow.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1387317727060033669/1387893902790365254/box_material_loader_logs_slow.litematic?ex=685f006c&is=685daeec&hm=16420f1d41c51783a85d6c9cf8391a5c3e04a4da72a6b85836a6d944b0c3f96d&",
-      "description": "Sent by acaciachan at 6/26/2025, 4:34:52 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "3x7x5",
         "version": "1.20.4"
       },
-      "path": "attachments/AC002_box_material_loader_logs_slow.litematic"
+      "path": "attachments/AC002_box_material_loader_logs_slow.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "acaciachan"
+      },
+      "timestamp": 1750970092000,
+      "size": 2174
     }
   ],
   "records": {
@@ -184,5 +224,6 @@
     "uploadMessageId": "1388179446728495194"
   },
   "archivedAt": 1751161647069,
-  "updatedAt": 1751161647069
+  "updatedAt": 1751161647069,
+  "num_comments": 0
 }

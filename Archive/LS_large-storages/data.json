@@ -4,7 +4,7 @@
   "code": "LS",
   "category": "Full Systems",
   "description": "Large/full size storages",
-  "currentCodeId": 4,
+  "currentCodeId": 5,
   "entries": [
     {
       "id": "1389156295520682004",
@@ -25,6 +25,11 @@
       "id": "1458848929503383572",
       "code": "LS004",
       "path": "LS004_luckeY_Main_Storage_V2"
+    },
+    {
+      "id": "1461830490276368427",
+      "code": "LS005",
+      "path": "LS005_Krebs_Main_Storage_System"
     }
   ]
 }

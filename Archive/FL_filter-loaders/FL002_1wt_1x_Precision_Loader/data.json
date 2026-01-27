@@ -34,8 +34,8 @@
   ],
   "tags": [
     {
-      "id": "1385488462563512408",
-      "name": "Tested & Functional"
+      "id": "1465490555277541591",
+      "name": "Functional"
     },
     {
       "id": "1386096970988257380",
@@ -46,7 +46,7 @@
       "name": "Slice Preserving"
     },
     {
-      "id": "1385789080813436983",
+      "id": "1465486938130878602",
       "name": "Recommended"
     }
   ],
@@ -56,11 +56,17 @@
       "name": "1x_Precison_Loader_SS3SSI_Hopper_and_Water_Output.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386840858355040346/1386840859588427777/1x_Precison_Loader_SS3SSI_Hopper_and_Water_Output.png?ex=685b2bb3&is=6859da33&hm=7f8c449cca7b21e3f500cf9db82e14c7ed57417b6e8a9c5878c9e96f72bdadb9&",
-      "description": "Sent by andrews54757 at 6/23/2025, 6:50:26 PM",
+      "description": "",
       "canDownload": true,
       "width": 670,
       "height": 800,
-      "path": "images/1x_Precison_Loader_SS3SSI_Hopper_and_Water_Output.png"
+      "path": "images/1x_Precison_Loader_SS3SSI_Hopper_and_Water_Output.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750719026000
     }
   ],
   "attachments": [
@@ -69,26 +75,40 @@
       "name": "FL002_1x_Precison_Loader_SS3SSI_Hopper_and_Water_Output.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386840858355040346/1386840860079030322/1x_Precison_Loader_SS3SSI_Hopper_and_Water_Output.litematic?ex=685b2bb3&is=6859da33&hm=79aeca0bfaa40a37e5e7a9cb2974a3665c4895b505858586df09618f02304db7&",
-      "description": "Sent by andrews54757 at 6/23/2025, 6:50:26 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "10x11x13",
         "version": "1.14"
       },
-      "path": "attachments/FL002_1x_Precison_Loader_SS3SSI_Hopper_and_Water_Output.litematic"
+      "path": "attachments/FL002_1x_Precison_Loader_SS3SSI_Hopper_and_Water_Output.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750719026000,
+      "size": 2465
     },
     {
       "id": "1386840860444069908",
       "name": "FL002_119_1x_Precison_Loader_SS3SSI_Water_Output.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386840858355040346/1386840860444069908/1.19_1x_Precison_Loader_SS3SSI_Water_Output.litematic?ex=685b2bb3&is=6859da33&hm=e2042b6483a0f7bb33891e04d78425a50d0a61f0e7aa566c95f7824abb59b93a&",
-      "description": "Sent by andrews54757 at 6/23/2025, 6:50:26 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "10x10x18",
         "version": "1.18.2"
       },
-      "path": "attachments/FL002_119_1x_Precison_Loader_SS3SSI_Water_Output.litematic"
+      "path": "attachments/FL002_119_1x_Precison_Loader_SS3SSI_Water_Output.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750719026000,
+      "size": 2015
     }
   ],
   "records": {
@@ -155,5 +175,6 @@
     "uploadMessageId": "1388177385291120824"
   },
   "archivedAt": 1750719849119,
-  "updatedAt": 1750719849119
+  "updatedAt": 1750719849119,
+  "num_comments": 0
 }

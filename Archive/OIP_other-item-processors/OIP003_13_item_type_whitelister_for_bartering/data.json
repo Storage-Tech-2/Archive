@@ -28,7 +28,7 @@
   ],
   "tags": [
     {
-      "id": "1385488498122948796",
+      "id": "1465487486628139042",
       "name": "Untested"
     }
   ],
@@ -38,11 +38,17 @@
       "name": "area_render.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386473584297250936/1386473585593553027/area_render.png?ex=685b2726&is=6859d5a6&hm=26b215b222f6a64a06e03fbe56ff7e8683e9dc5e05a07637c0b1e6d9c07990b0&",
-      "description": "Sent by sandcaribou at 6/22/2025, 6:31:01 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 663,
-      "path": "images/area_render.png"
+      "path": "images/area_render.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "sandcaribou"
+      },
+      "timestamp": 1750631461000
     }
   ],
   "attachments": [
@@ -51,13 +57,20 @@
       "name": "OIP003_Bartering_13_Item_Whitelister_v1.0.2.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386473584297250936/1386473584972529734/Bartering_13_Item_Whitelister_v1.0.2.litematic?ex=685b2726&is=6859d5a6&hm=69d4a4cc22908298a652e93a1beb975f7e00e402fd07f73a11d4417289294ee2&",
-      "description": "Sent by sandcaribou at 6/22/2025, 6:31:01 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "9x13x17",
         "version": "1.21.1"
       },
-      "path": "attachments/OIP003_Bartering_13_Item_Whitelister_v1.0.2.litematic"
+      "path": "attachments/OIP003_Bartering_13_Item_Whitelister_v1.0.2.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "sandcaribou"
+      },
+      "timestamp": 1750631461000,
+      "size": 3520
     }
   ],
   "records": {
@@ -101,5 +114,6 @@
     "uploadMessageId": "1388178781839036598"
   },
   "archivedAt": 1750998109095,
-  "updatedAt": 1750998109095
+  "updatedAt": 1750998109095,
+  "num_comments": 0
 }

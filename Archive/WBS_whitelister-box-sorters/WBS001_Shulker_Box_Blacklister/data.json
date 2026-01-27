@@ -17,9 +17,10 @@
       "displayName": "RaPsCaLLioN1138"
     },
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "247092209780916225",
       "username": "justglotz",
+      "displayName": "Glotz",
       "iconURL": "https://cdn.discordapp.com/avatars/247092209780916225/6180f71564f0bb3fca26a7dd8b712748.webp"
     },
     {
@@ -41,11 +42,11 @@
   ],
   "tags": [
     {
-      "id": "1385488539013222407",
-      "name": "Tested & Functional"
+      "id": "1465491873870381252",
+      "name": "Functional"
     },
     {
-      "id": "1385789177995595777",
+      "id": "1465487808759070867",
       "name": "Recommended"
     }
   ],
@@ -55,9 +56,15 @@
       "name": "8gt_2wt_box_blacklister_render.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386932150355623997/1451356649586692229/8gt_2wt_box_blacklister_render.png?ex=6945e0b6&is=69448f36&hm=3574a19e23e85f51d0929436434790b2acd006e20e9bf9d74d486ae3314dbbf1&",
-      "description": "Sent by TMC Schematic Renderer at 12/18/2025, 6:33:10 PM",
+      "description": "",
       "canDownload": true,
-      "path": "images/8gt_2wt_box_blacklister_render.png"
+      "path": "images/8gt_2wt_box_blacklister_render.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "TMC Schematic Renderer"
+      },
+      "timestamp": 1766100790000
     }
   ],
   "attachments": [
@@ -66,13 +73,20 @@
       "name": "WBS001_8gt_2wt_box_blacklister.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386932150355623997/1450558994728091810/8gt_2wt_box_blacklister.litematic?ex=69459cd6&is=69444b56&hm=62c290ab1161e1836285b5cdf3078ba7f9ddcf7aded917b9d807f8c73241b581&",
-      "description": "Sent by glidingmonkey at 12/16/2025, 1:43:34 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/WBS001_8gt_2wt_box_blacklister.litematic",
       "litematic": {
         "size": "8x6x2",
         "version": "1.20.1"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "glidingmonkey"
+      },
+      "timestamp": 1765910614000,
+      "size": 1185
     }
   ],
   "records": {
@@ -124,5 +138,6 @@
     "uploadMessageId": "1451359338886074368"
   },
   "archivedAt": 1766101430626,
-  "updatedAt": 1766101430626
+  "updatedAt": 1766101430626,
+  "num_comments": 0
 }

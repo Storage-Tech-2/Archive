@@ -1,0 +1,216 @@
+{
+  "id": "1463264911986524232",
+  "name": "Remote Controlled Brewer Array",
+  "code": "SP007",
+  "reservedCodes": [
+    "SP007"
+  ],
+  "pastPostThreadIds": [
+    "1464409780700450867"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "889866137184137238",
+      "username": "bipim",
+      "displayName": "bipim",
+      "iconURL": "https://cdn.discordapp.com/avatars/889866137184137238/7e7a059e3e137003a2abe1a91499f786.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1463734521919701075",
+      "name": "Potion Brewer"
+    },
+    {
+      "id": "1465492170420125863",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1463264913014128684",
+      "name": "area_render_7_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1463264911986524232/1463264913014128684/area_render_7_.png?ex=697284a5&is=69713325&hm=e0e85f01309168a9f0c61642a98a63a01ca1515b86759eedc093df067e0d7cf2&",
+      "description": "",
+      "canDownload": true,
+      "path": "images/area_render_7_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "bipim"
+      },
+      "timestamp": 1768939941000
+    },
+    {
+      "id": "1463264913525838007",
+      "name": "area_render_10_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1463264911986524232/1463264913525838007/area_render_10_.png?ex=697284a5&is=69713325&hm=1fcace2cb85b4d54981c457a7233496a04e1d960a0ba1c3365c533a946036b50&",
+      "description": "",
+      "canDownload": true,
+      "path": "images/area_render_10_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "bipim"
+      },
+      "timestamp": 1768939941000
+    },
+    {
+      "id": "1463732763151831140",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1463264911986524232/1463732763151831140/image.png?ex=6972e6dd&is=6971955d&hm=a1fb64a159efc8b220884984442afaf4de369e0d842d77bdac17ab62dc560614&",
+      "description": "",
+      "canDownload": true,
+      "width": 800,
+      "height": 418,
+      "path": "images/image.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1769051485000
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1463264912175271957",
+      "name": "SP007_brewer_array_v2_interface.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1463264911986524232/1463264912175271957/brewer_array_v2_interface.litematic?ex=697284a5&is=69713325&hm=56bb9fea160d3415bd674791702ddcd111a5a89bbc536db0dcc881cd9427babd&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/SP007_brewer_array_v2_interface.litematic",
+      "litematic": {
+        "size": "10x7x9",
+        "version": "1.21"
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "bipim"
+      },
+      "timestamp": 1768939941000,
+      "size": 2986
+    },
+    {
+      "id": "1463264912532049974",
+      "name": "SP007_brewer_array_v2.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1463264911986524232/1463264912532049974/brewer_array_v2.litematic?ex=697284a5&is=69713325&hm=c4f41293f83539ec2e419e0ffd9e089a6581f72f0d7c522c226f1128e96f9f4f&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/SP007_brewer_array_v2.litematic",
+      "litematic": {
+        "size": "10x15x25",
+        "version": "1.21"
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "bipim"
+      },
+      "timestamp": 1768939941000,
+      "size": 14152
+    },
+    {
+      "id": "1463732761335566549",
+      "name": "SP007_Bipim_Remote_Brewer_Array_Wired.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1463264911986524232/1463732761335566549/Bipim_Remote_Brewer_Array_Wired.zip?ex=6972e6dd&is=6971955d&hm=46ecf76bd698d64f7f6fbc8c8aca1cb0f8659ce607fe5694da684e9a58da3a8e&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/SP007_Bipim_Remote_Brewer_Array_Wired.zip",
+      "wdl": {
+        "version": "1.21.4",
+        "optimized": true
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1769051485000,
+      "size": 1739638,
+      "wdls": [
+        {
+          "path": "Bipim Remote Brewer Array",
+          "version": "1.21.4",
+          "levelName": "Bipim Remote Brewer Array"
+        }
+      ]
+    },
+    {
+      "id": "1463732761583157452",
+      "name": "SP007_bipim_remote_brewer_wired_example.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1463264911986524232/1463732761583157452/bipim_remote_brewer_wired_example.litematic?ex=6972e6dd&is=6971955d&hm=4d953214202bfb577faab4f1b8f974f0f0f569c9e3e35a600c212eaff7899a85&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/SP007_bipim_remote_brewer_wired_example.litematic",
+      "litematic": {
+        "size": "12x15x57",
+        "version": "1.21.4"
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1769051485000,
+      "size": 16753
+    }
+  ],
+  "records": {
+    "description": "A 'remote' brewer using renamed tokens. To use, select the potion type (normal, splash, lingering) then press Q on the ticket(s) in the chest. Each ticket requests 3 potions. By choosing 9 tickets you can compose your own custom box.",
+    "features": [
+      "Makes every potion in 1.21 with the exception of drinkable water bottles.",
+      "Parallelizes potion brewing using up to 9 brewing stands.",
+      "The interface is separated from the actual brewer. Should be straightforward to link/make custom ones to fit in a storage hall.",
+      "Initial distribution of fuel/water bottles.",
+      "Protection from missing ingredients, fuel, bottles, dispenser dry firing.",
+      "Hopper cart killed when idle.",
+      "'Speed' ranges from ~740 potions/h (6 ingredients) to ~940 potions/h (3 ingredients)"
+    ],
+    "considerations": [
+      "requires some renaming",
+      "not as fast as brewers doing multiple stages at once"
+    ],
+    "notes": "Tested with random input and varying number of ingredients for ~100k potions in all directions. Includes a schem and world download file with the interface wired to the brewer as an example.",
+    "compatibility": "1.21+",
+    "instructions": [
+      "Select the potion type (normal, splash, lingering)",
+      "Press Q on the ticket(s) in the chest to drop the token item to the collection hoppers below. Each ticket requests 3 potions.",
+      "By choosing 9 tickets you can compose your own custom box."
+    ]
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1464409780700450867",
+    "forumId": "1457538260892127293",
+    "continuingMessageIds": [
+      "1464409786186731733",
+      "1464542436297539708"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1464409780700450867",
+    "uploadMessageId": "1465578207607783489"
+  },
+  "archivedAt": 1769212893724,
+  "updatedAt": 1769212893724,
+  "num_comments": 0
+}

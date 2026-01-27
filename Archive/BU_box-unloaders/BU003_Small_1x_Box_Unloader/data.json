@@ -33,12 +33,12 @@
   ],
   "tags": [
     {
-      "id": "1385789096542081145",
+      "id": "1465487154460364877",
       "name": "Recommended"
     },
     {
-      "id": "1385488474148438035",
-      "name": "Tested & Functional"
+      "id": "1465490889140076728",
+      "name": "Functional"
     },
     {
       "id": "1386248557111017532",
@@ -51,11 +51,17 @@
       "name": "Small_Box_Unloader_Hopper_Collection.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386479322843320361/1386479325003513936/Small_Box_Unloader_Hopper_Collection.png?ex=6859dafe&is=6858897e&hm=51a256ebabf0be78e55ebbff5e15003954594fdb16fd89d661f705507bb13233&",
-      "description": "Sent by andrews54757 at 6/22/2025, 6:53:50 PM",
+      "description": "",
       "canDownload": true,
       "width": 732,
       "height": 800,
-      "path": "images/Small_Box_Unloader_Hopper_Collection.png"
+      "path": "images/Small_Box_Unloader_Hopper_Collection.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750632830000
     }
   ],
   "attachments": [
@@ -64,26 +70,40 @@
       "name": "BU003_Small_Box_Unloader_Water_Collection.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386479322843320361/1386479325565423669/Small_Box_Unloader_Water_Collection.litematic?ex=6859dafe&is=6858897e&hm=d21ffb3a878c17ef5db0c5506ab72ad15a0f8c6c8c1cb98bc5588b92d2a72164&",
-      "description": "Sent by andrews54757 at 6/22/2025, 6:53:50 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "4x4x4",
         "version": "1.14"
       },
-      "path": "attachments/BU003_Small_Box_Unloader_Water_Collection.litematic"
+      "path": "attachments/BU003_Small_Box_Unloader_Water_Collection.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750632830000,
+      "size": 792
     },
     {
       "id": "1386479325930459258",
       "name": "BU003_Small_Box_Unloader_Hopper_Collection.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386479322843320361/1386479325930459258/Small_Box_Unloader_Hopper_Collection.litematic?ex=6859dafe&is=6858897e&hm=be407fcca55c07d26d611d6fd03baa596d0605db65b3ea9b30ffa1551ac211dc&",
-      "description": "Sent by andrews54757 at 6/22/2025, 6:53:50 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "4x4x3",
         "version": "1.14"
       },
-      "path": "attachments/BU003_Small_Box_Unloader_Hopper_Collection.litematic"
+      "path": "attachments/BU003_Small_Box_Unloader_Hopper_Collection.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750632830000,
+      "size": 767
     }
   ],
   "records": {
@@ -138,5 +158,6 @@
     "uploadMessageId": "1388177895813283931"
   },
   "archivedAt": 1750632898364,
-  "updatedAt": 1750632898364
+  "updatedAt": 1750632898364,
+  "num_comments": 0
 }

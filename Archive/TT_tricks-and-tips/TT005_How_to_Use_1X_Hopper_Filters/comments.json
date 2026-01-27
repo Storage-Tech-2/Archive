@@ -15,9 +15,15 @@
         "name": "filters.drawio",
         "contentType": "unknown",
         "url": "https://cdn.discordapp.com/attachments/1386224103287033888/1386244256024498196/filters.drawio?ex=68590011&is=6857ae91&hm=1658539fafd69069e62a071b3f6abcc9647cb0d22948c709aeda03f9dd4bf676&",
-        "description": "Sent by andrews54757 at 6/22/2025, 3:19:45 AM",
+        "description": "",
         "canDownload": true,
-        "path": "comments_attachments/1386244256024498196-filters.drawio"
+        "path": "comments_attachments/1386244256024498196-filters.drawio",
+        "source": "MessageAttachment",
+        "author": {
+          "type": "unknown",
+          "username": "andrews54757"
+        },
+        "timestamp": 1750576785000
       }
     ],
     "timestamp": 1750576786409

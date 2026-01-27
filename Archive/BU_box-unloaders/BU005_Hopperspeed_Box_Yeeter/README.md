@@ -1,11 +1,11 @@
 # Hopperspeed Box Yeeter
 <img alt="BU005_figi_hopperspeed_box_yeeter_1171_render.png" src="images/BU005_figi_hopperspeed_box_yeeter_1171_render.png?raw=1" height="300px">
 
-**Authors:** *figi2019*
+**Authors:** *figi*
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Recommended, Tested & Functional, Box Yeet*
+**Tags:** *Recommended, Functional, Box Yeet*
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1392582594712961237)
 

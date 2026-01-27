@@ -34,12 +34,12 @@
   ],
   "tags": [
     {
-      "id": "1385789132869079192",
+      "id": "1465487570585649261",
       "name": "Recommended"
     },
     {
-      "id": "1385488504204562639",
-      "name": "Tested & Functional"
+      "id": "1465491524203839539",
+      "name": "Functional"
     }
   ],
   "images": [
@@ -48,11 +48,17 @@
       "name": "compact.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386227823450132604/1386227882388488322/compact.png?ex=6858f0d2&is=68579f52&hm=d645e353461046fdc45372e59ffdfcaef3c837a47a0681b476a0e1b618bb2509&",
-      "description": "Sent by andrews54757 at 6/22/2025, 2:14:42 AM",
+      "description": "",
       "canDownload": true,
       "width": 506,
       "height": 417,
-      "path": "images/compact.png"
+      "path": "images/compact.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750572882000
     }
   ],
   "attachments": [
@@ -61,71 +67,114 @@
       "name": "MIS001_Compact_Categorizer_Doublechest_Hopperlocked.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386227823450132604/1455278279387779175/Compact_Categorizer_Doublechest_Hopperlocked.litematic?ex=69542503&is=6952d383&hm=6aeb9b7f227358a20bca979cec57cd1f0d104153993bb3287b3bc070ec815e2f&",
-      "description": "Sent by andrews54757 at 12/29/2025, 2:16:19 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/MIS001_Compact_Categorizer_Doublechest_Hopperlocked.litematic",
       "litematic": {
         "size": "27x18x19",
         "version": "1.21.1"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1767035779000,
+      "size": 10294
     },
     {
       "id": "1455278279778107402",
       "name": "MIS001_Compact_Categorizer_Doublechest_Barebones.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386227823450132604/1455278279778107402/Compact_Categorizer_Doublechest_Barebones.litematic?ex=69542503&is=6952d383&hm=20f7f8ebc7fde1251fdbc7f2b79684b4fd20cb75789b7a8b0999ae0dbf040bd9&",
-      "description": "Sent by andrews54757 at 12/29/2025, 2:16:19 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/MIS001_Compact_Categorizer_Doublechest_Barebones.litematic",
       "litematic": {
         "size": "27x18x19",
         "version": "1.21.1"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1767035779000,
+      "size": 9693
     },
     {
       "id": "1455278280029503519",
       "name": "MIS001_Compact_Categorizer_Barrel_Hopperlocked.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386227823450132604/1455278280029503519/Compact_Categorizer_Barrel_Hopperlocked.litematic?ex=69542503&is=6952d383&hm=85dc8a2819a1b13d3b4873ba41ee90682695f7426452d947f6e3f9f180cc14e7&",
-      "description": "Sent by andrews54757 at 12/29/2025, 2:16:19 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/MIS001_Compact_Categorizer_Barrel_Hopperlocked.litematic",
       "litematic": {
         "size": "27x18x18",
         "version": "1.21.1"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1767035779000,
+      "size": 10012
     },
     {
       "id": "1455278280428228762",
       "name": "MIS001_Compact_Categorizer_Barrel_Barebones.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386227823450132604/1455278280428228762/Compact_Categorizer_Barrel_Barebones.litematic?ex=69542503&is=6952d383&hm=778a7e76d6a19e5f229c583983e45a18a75c2bef63005ee6342f5c0abff150bc&",
-      "description": "Sent by andrews54757 at 12/29/2025, 2:16:19 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/MIS001_Compact_Categorizer_Barrel_Barebones.litematic",
       "litematic": {
         "size": "27x18x19",
         "version": "1.21.1"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1767035779000,
+      "size": 10268
     },
     {
       "id": "1455278280654716990",
       "name": "MIS001_Compact_Categorizer_World.zip",
       "contentType": "application/zip",
       "url": "https://cdn.discordapp.com/attachments/1386227823450132604/1455278280654716990/Compact_Categorizer_World.zip?ex=69542503&is=6952d383&hm=4958d63b2edfafae0b6e91a327b4a592982f7a41c20fe1b26ab8b0e52d504f0d&",
-      "description": "Sent by andrews54757 at 12/29/2025, 2:16:19 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/MIS001_Compact_Categorizer_World.zip",
       "wdl": {
-        "version": "1.21.1"
-      }
+        "version": "1.21.1",
+        "optimized": true
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1767035779000,
+      "size": 6791399,
+      "wdls": [
+        {
+          "path": "Compact Categorizer World",
+          "version": "1.21.1",
+          "levelName": "Compact Categorizer World"
+        }
+      ]
     },
     {
       "id": "DnrAoKd8ZOc",
       "name": "MIS001_YouTube_Video_DnrAoKd8ZOc.url",
       "contentType": "youtube",
       "url": "https://youtu.be/DnrAoKd8ZOc",
-      "description": "[YouTube] Sent by andrews54757 at 6/22/2025, 2:14:27 AM",
+      "description": "",
       "canDownload": false,
       "youtube": {
         "title": "Compact Categorizer Showcase!!",
@@ -137,7 +186,13 @@
         "width": 200,
         "height": 113
       },
-      "path": "attachments/MIS001_YouTube_Video_DnrAoKd8ZOc.url"
+      "path": "attachments/MIS001_YouTube_Video_DnrAoKd8ZOc.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750572867000
     }
   ],
   "records": {
@@ -231,8 +286,9 @@
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1388318067247026286",
     "attachmentMessageId": "1388178998915498175",
-    "uploadMessageId": "1455281396246384720"
+    "uploadMessageId": "1465577914295779402"
   },
   "archivedAt": 1766902323684,
-  "updatedAt": 1767036521263
+  "updatedAt": 1767036521263,
+  "num_comments": 0
 }

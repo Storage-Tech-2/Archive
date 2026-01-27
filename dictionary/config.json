@@ -19,11 +19,10 @@
     {
       "id": "1454753454865125437",
       "terms": [
-        "Binary",
-        "bin"
+        "Binary"
       ],
       "summary": "An encoding where each digit of a code is either on or off (we say it has a binary state, usually represented with 0s and 1s). A four digit (Bit) signal could have the states 0000 or 0110 or 0100, ...",
-      "updatedAt": 1766910652789
+      "updatedAt": 1769406467949
     },
     {
       "id": "1454753462171734026",
@@ -541,7 +540,7 @@
         "TE",
         "BE"
       ],
-      "summary": "Tile entities (less often referred to as Block Entities) are blocks that have NBT-data attached to them, for example all blocks with inventories.\nMore information on the [block entity wiki page](ht...",
+      "summary": "Tile entities (less often referred to as Block Entities) are blocks that have NBT-data attached to them, for example all blocks with inventories.\nMore information on the block entity wiki page",
       "updatedAt": 1766910971028
     },
     {
@@ -550,7 +549,7 @@
         "Tile Tick Priority",
         "ttp"
       ],
-      "summary": "Refers to the phenomenon where short pulsing a comparator for 2gt only causes it to activate if it is pointing into another comparator or repeater block.\n\n## Details\nThe block ticking list is a [pr...",
+      "summary": "Refers to the phenomenon where short pulsing a comparator for 2gt only causes it to activate if it is pointing into another comparator or repeater block.\n\n## Details\nThe block ticking list is a pri...",
       "updatedAt": 1767423562882
     },
     {
@@ -823,6 +822,22 @@
       ],
       "summary": "Ideal box output refers to a device which outputs minimal partial boxes after the contents of mixed boxes are sorted into single item-type boxes. What this means is that for each type, every box ex...",
       "updatedAt": 1768274978713
+    },
+    {
+      "id": "1461934803795443882",
+      "terms": [
+        "Dynamic Bulk"
+      ],
+      "summary": "Unlike traditional fixed bulk storage systems, a dynamic bulk will automatically allocate storage slices to item types depending on what item types are input.",
+      "updatedAt": 1768622822354
+    },
+    {
+      "id": "1464761941246349412",
+      "terms": [
+        "Restock station"
+      ],
+      "summary": "A restock station is a simple device which displays shulker boxes of useful items for the player to take items from. It's called a restock station because it allows the player to restock on food, f...",
+      "updatedAt": 1769296908742
     }
   ]
 }

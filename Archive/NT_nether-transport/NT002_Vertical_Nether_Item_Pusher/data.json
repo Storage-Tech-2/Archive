@@ -28,8 +28,8 @@
   ],
   "tags": [
     {
-      "id": "1387131981464211602",
-      "name": "Tested & Functional"
+      "id": "1465491958641328190",
+      "name": "Functional"
     }
   ],
   "images": [
@@ -38,11 +38,17 @@
       "name": "area_render.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1444438068303101956/1444438069393625108/area_render.png?ex=692cb548&is=692b63c8&hm=f981c9eea334acd022005c6061b33c5e18596cbb710699a6f3bace3d5e582d9e&",
-      "description": "Sent by kofolka at 11/29/2025, 4:21:11 PM",
+      "description": "",
       "canDownload": true,
       "width": 719,
       "height": 674,
-      "path": "images/area_render.png"
+      "path": "images/area_render.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "kofolka"
+      },
+      "timestamp": 1764451271000
     }
   ],
   "attachments": [
@@ -51,13 +57,20 @@
       "name": "NT002_Vertical_Nether_Item_Pusher.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1444438068303101956/1444438070286876863/Vertical_Nether_Item_Pusher.litematic?ex=692cb548&is=692b63c8&hm=ddf7ad80bbfd5394a497002bb16171ad38bae7eeabc7bc4f8fa30bb319c4265d&",
-      "description": "Sent by kofolka at 11/29/2025, 4:21:11 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/NT002_Vertical_Nether_Item_Pusher.litematic",
       "litematic": {
         "size": "4x21x8",
         "version": "1.21.4"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "kofolka"
+      },
+      "timestamp": 1764451271000,
+      "size": 908
     }
   ],
   "records": {
@@ -90,5 +103,6 @@
     "uploadMessageId": "1451140377447890946"
   },
   "archivedAt": 1766049226661,
-  "updatedAt": 1766049226661
+  "updatedAt": 1766049226661,
+  "num_comments": 0
 }

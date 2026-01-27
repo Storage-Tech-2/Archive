@@ -27,7 +27,7 @@
   ],
   "tags": [
     {
-      "id": "1385789099033497712",
+      "id": "1465487218893394017",
       "name": "Recommended"
     },
     {
@@ -35,8 +35,8 @@
       "name": "Auto Replacement"
     },
     {
-      "id": "1385488476258041933",
-      "name": "Tested & Functional"
+      "id": "1465490982278529138",
+      "name": "Functional"
     }
   ],
   "images": [
@@ -45,11 +45,17 @@
       "name": "Ceiling_Box_Display.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386199263746461867/1386199264723599430/Ceiling_Box_Display.png?ex=6858d62b&is=685784ab&hm=4812164307a09a98b0a65a568235cd7fa0f1ad2200c9dc395aa5f11351e5b2a5&",
-      "description": "Sent by andrews54757 at 6/22/2025, 12:20:58 AM",
+      "description": "",
       "canDownload": true,
       "width": 791,
       "height": 800,
-      "path": "images/Ceiling_Box_Display.png"
+      "path": "images/Ceiling_Box_Display.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750566058000
     }
   ],
   "attachments": [
@@ -58,13 +64,20 @@
       "name": "TD001_ceiling_box_display.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386199263746461867/1386199264144789535/ceiling_box_display.litematic?ex=6858d62a&is=685784aa&hm=e4cae11c91d47a3b182f12edb375f43768d70c8150db844587e587054c751e98&",
-      "description": "Sent by andrews54757 at 6/22/2025, 12:20:58 AM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "1x8x8",
         "version": "1.17.1"
       },
-      "path": "attachments/TD001_ceiling_box_display.litematic"
+      "path": "attachments/TD001_ceiling_box_display.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750566058000,
+      "size": 868
     }
   ],
   "records": {
@@ -112,5 +125,6 @@
     "uploadMessageId": "1388177999366590634"
   },
   "archivedAt": 1750566430138,
-  "updatedAt": 1750566430138
+  "updatedAt": 1750566430138,
+  "num_comments": 0
 }

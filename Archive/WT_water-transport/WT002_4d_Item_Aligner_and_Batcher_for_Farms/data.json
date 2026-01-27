@@ -27,8 +27,8 @@
   ],
   "tags": [
     {
-      "id": "1385488489272840272",
-      "name": "Tested & Functional"
+      "id": "1465491262806167634",
+      "name": "Functional"
     },
     {
       "id": "1386453141012090971",
@@ -41,22 +41,34 @@
       "name": "area_render_19_.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386451979730948216/1386451979991257281/area_render_19_.png?ex=6859c187&is=68587007&hm=a647b5261e92cdfa35627704c0371e4d97a16d7653920295fbd031b018eee14b&",
-      "description": "Sent by andrews54757 at 6/22/2025, 5:05:11 PM",
+      "description": "",
       "canDownload": true,
       "width": 440,
       "height": 537,
-      "path": "images/area_render_19_.png"
+      "path": "images/area_render_19_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750626311000
     },
     {
       "id": "1386451980490244286",
       "name": "area_render_18_.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386451979730948216/1386451980490244286/area_render_18_.png?ex=6859c187&is=68587007&hm=e3854fa64b703caa584b85a961d38d1b4f1d950cd10348eef88a7cf217183ac3&",
-      "description": "Sent by andrews54757 at 6/22/2025, 5:05:11 PM",
+      "description": "",
       "canDownload": true,
       "width": 672,
       "height": 595,
-      "path": "images/area_render_18_.png"
+      "path": "images/area_render_18_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750626311000
     }
   ],
   "attachments": [
@@ -65,26 +77,40 @@
       "name": "WT002_4d_farm_batcher_-_Overworld_End.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386451979730948216/1386451980964073542/4d_farm_batcher_-_Overworld_End.litematic?ex=6859c187&is=68587007&hm=18ba76e3587660474c20e2ae58fa33220f7410cf96b068f9a8d11fb57ccf648b&",
-      "description": "Sent by andrews54757 at 6/22/2025, 5:05:11 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "6x4x6",
         "version": "1.20.1"
       },
-      "path": "attachments/WT002_4d_farm_batcher_-_Overworld_End.litematic"
+      "path": "attachments/WT002_4d_farm_batcher_-_Overworld_End.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750626311000,
+      "size": 898
     },
     {
       "id": "1386451981270519992",
       "name": "WT002_4d_farm_batcher_-_Nether_All_Dimensions.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386451979730948216/1386451981270519992/4d_farm_batcher_-_Nether_All_Dimensions.litematic?ex=6859c187&is=68587007&hm=9fe484848a115ad26a4e298cea68b531178dd6d210ea4b334f09df4852eaf07e&",
-      "description": "Sent by andrews54757 at 6/22/2025, 5:05:11 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "6x4x6",
         "version": "1.20.1"
       },
-      "path": "attachments/WT002_4d_farm_batcher_-_Nether_All_Dimensions.litematic"
+      "path": "attachments/WT002_4d_farm_batcher_-_Nether_All_Dimensions.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750626311000,
+      "size": 812
     }
   ],
   "records": {
@@ -118,5 +144,6 @@
     "uploadMessageId": "1388178560258150560"
   },
   "archivedAt": 1750626520207,
-  "updatedAt": 1750626520207
+  "updatedAt": 1750626520207,
+  "num_comments": 0
 }

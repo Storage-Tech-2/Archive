@@ -48,8 +48,8 @@
   ],
   "tags": [
     {
-      "id": "1385488474148438035",
-      "name": "Tested & Functional"
+      "id": "1465490889140076728",
+      "name": "Functional"
     },
     {
       "id": "1386248660974567445",
@@ -62,11 +62,17 @@
       "name": "image.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386246487452942437/1389317802913169418/image.png?ex=68642e88&is=6862dd08&hm=6037e3c6d1eb2406fc89d8f0db6eaada2eb3a583f24e864141127508c1ac9cad&",
-      "description": "Sent by glidingmonkey at 6/30/2025, 2:52:56 PM",
+      "description": "",
       "canDownload": true,
       "width": 600,
       "height": 800,
-      "path": "images/image.png"
+      "path": "images/image.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "glidingmonkey"
+      },
+      "timestamp": 1751309576000
     }
   ],
   "attachments": [
@@ -75,13 +81,20 @@
       "name": "BU001_Stacked_Cart_Box_Unloader_Updated.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386246487452942437/1389338042975653889/Stacked_Cart_Box_Unloader_Updated.litematic?ex=68644162&is=6862efe2&hm=638ddb61d630672ea1ef464ecda95e5d595a8494b94a1685ecc5a479d4b0cd9f&",
-      "description": "Sent by andrews54757 at 6/30/2025, 4:13:22 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "3x10x8",
         "version": "1.19"
       },
-      "path": "attachments/BU001_Stacked_Cart_Box_Unloader_Updated.litematic"
+      "path": "attachments/BU001_Stacked_Cart_Box_Unloader_Updated.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1751314402000,
+      "size": 1634
     }
   ],
   "records": {
@@ -129,5 +142,6 @@
     "uploadMessageId": "1389338139062960309"
   },
   "archivedAt": 1766904276561,
-  "updatedAt": 1751351873280
+  "updatedAt": 1751351873280,
+  "num_comments": 0
 }

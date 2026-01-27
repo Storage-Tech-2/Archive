@@ -1,0 +1,235 @@
+{
+  "id": "1461836389992759307",
+  "name": "Complete Cart-Based Storage",
+  "code": "MIS008",
+  "reservedCodes": [
+    "MIS008"
+  ],
+  "pastPostThreadIds": [
+    "1461837905675817209"
+  ],
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "319513337941721089",
+      "username": "inspectortalon",
+      "iconURL": "https://cdn.discordapp.com/avatars/319513337941721089/edec0da88a70e9697b6b43b4a2d740e3.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "688456529338433611",
+      "username": "glidingmonkey",
+      "displayName": "Christone",
+      "iconURL": "https://cdn.discordapp.com/avatars/688456529338433611/348a34add443a5a71237111010e484b1.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "531601171211878431",
+      "username": "rapscallion1138",
+      "displayName": "RaPsCaLLioN1138",
+      "iconURL": "https://cdn.discordapp.com/avatars/531601171211878431/8db107ef61024878a05baab3a798d7d5.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465491524203839539",
+      "name": "Functional"
+    },
+    {
+      "id": "1465487570585649261",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1461836390676562084",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1461836389992759307/1461836390676562084/image.png?ex=696c00bb&is=696aaf3b&hm=836f8f7ced35eb17512fa1266a692311c1a15fd723ac6a90d23703def2e0e372&",
+      "description": "",
+      "canDownload": true,
+      "width": 800,
+      "height": 536,
+      "path": "images/image.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1768599354000
+    }
+  ],
+  "attachments": [
+    {
+      "id": "96go57641hdhqgd",
+      "name": "MIS008_CartMIS_V3_Hybrid_Storage.url",
+      "contentType": "mediafire",
+      "url": "https://www.mediafire.com/file/96go57641hdhqgd/CartMIS_V3_Hybrid_Storage.zip/file",
+      "description": "",
+      "canDownload": false,
+      "path": "attachments/MIS008_CartMIS_V3_Hybrid_Storage.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1768599415000
+    },
+    {
+      "id": "1461836642347253964",
+      "name": "MIS008_Complete_Cart-based_Storage_overworld.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1461836389992759307/1461836642347253964/Complete_Cart-based_Storage_overworld.litematic?ex=696c00f7&is=696aaf77&hm=50c4bdc925cd4095e1ac14544d92ffe2aea51e9a5a5f9cba16b97e2932f9d530&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/MIS008_Complete_Cart-based_Storage_overworld.litematic",
+      "litematic": {
+        "size": "160x48x125",
+        "version": "1.20.1"
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1768599415000,
+      "size": 395493
+    },
+    {
+      "id": "1461836642615562282",
+      "name": "MIS008_Complete_Cart-based_Storage_nether.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1461836389992759307/1461836642615562282/Complete_Cart-based_Storage_nether.litematic?ex=696c00f7&is=696aaf77&hm=a03c6ecff0c6bc95d65e08dfd7f594fa924b599f1db6077ce0f2bf4f987d2a77&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/MIS008_Complete_Cart-based_Storage_nether.litematic",
+      "litematic": {
+        "size": "20x30x14",
+        "version": "1.20.1"
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1768599415000,
+      "size": 1112
+    },
+    {
+      "id": "9eHcvMi7HUw",
+      "name": "MIS008_YouTube_Video_9eHcvMi7HUw.url",
+      "contentType": "youtube",
+      "url": "https://youtu.be/9eHcvMi7HUw",
+      "description": "",
+      "canDownload": false,
+      "youtube": {
+        "title": "It just keeps getting better! [Cart-Based Multi-Item Sorter + Hybrid Storage]",
+        "author_name": "RaPsCaLLioN1138",
+        "author_url": "https://www.youtube.com/@RaPsCaLLioN1138",
+        "thumbnail_url": "https://i.ytimg.com/vi/9eHcvMi7HUw/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      },
+      "path": "attachments/MIS008_YouTube_Video_9eHcvMi7HUw.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1768599354000
+    }
+  ],
+  "records": {
+    "description": "This MIS storage system uses hoppercarts to allow for up to 16x hopper-speed sorting. Includes: Cart MIS V3, Cart Single-Item Hybrid Sorters, Command Leo's 1.20 Ultimate Unstackable Sorter.",
+    "features": [
+      "Each of the 32 MIS category (1-wide) holds up to 50 different item types. There are 216 hybrid box loaders holding a single item type.",
+      "Up to 16x hopper-speed sorting (6x average)",
+      "Single input for loose items and shulker boxes (unloaded and preserved)",
+      "Much more unload resistant than MIS V4/V5",
+      "Includes Cart MIS V3",
+      "Includes Cart Single-Item Hybrid Sorters",
+      "Includes Command Leo's 1.20 Ultimate Unstackable Sorter"
+    ],
+    "considerations": [
+      "Limited to 1x hopperspeed per MIS category, but can load multiple categories simultaneously.",
+      "Some rail placements may be difficult to build"
+    ],
+    "notes": "Youtube video: https://youtu.be/9eHcvMi7HUw",
+    "compatibility": "Works in 1.19+ only because of cart yeeting"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "MIS",
+      "id": "1454753725091676293",
+      "url": "https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954",
+      "matches": [
+        "MIS"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Unstackable sorter",
+      "id": "1454754837379022858",
+      "url": "https://discord.com/channels/1375556143186837695/1454754837379022858/1454754839224516712",
+      "matches": [
+        "Unstackable Sorter"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "6x",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "6x",
+        "1x",
+        "hopperspeed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "cart yeet",
+      "id": "1455675378931728598",
+      "url": "https://discord.com/channels/1375556143186837695/1455675378931728598/1455675380160659517",
+      "matches": [
+        "cart yeet"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1461837905675817209",
+    "forumId": "1375566804910604349",
+    "continuingMessageIds": [
+      "1461837911736582156",
+      "1461837912604934236"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1461837905675817209",
+    "uploadMessageId": "1461837900994838700"
+  },
+  "archivedAt": 1768599709461,
+  "updatedAt": 1768599709461,
+  "num_comments": 0
+}

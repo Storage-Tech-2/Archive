@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Closed Box Detection, Auto Replacement, Tested & Functional*
+**Tags:** *Closed Box Detection, Auto Replacement, Functional*
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317191060979833)
 

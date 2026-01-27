@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Cart Based, Tested & Functional, Recommended*
+**Tags:** *Cart Based, Functional, Recommended*
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1457549165612630191)
 

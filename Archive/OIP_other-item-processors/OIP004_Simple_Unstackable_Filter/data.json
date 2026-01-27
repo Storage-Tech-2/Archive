@@ -20,11 +20,11 @@
   ],
   "tags": [
     {
-      "id": "1385488498122948798",
-      "name": "Tested & Functional"
+      "id": "1465491386924138613",
+      "name": "Functional"
     },
     {
-      "id": "1385789124472082444",
+      "id": "1465487486628139044",
       "name": "Recommended"
     },
     {
@@ -38,11 +38,17 @@
       "name": "image.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1455648563806863542/1455648564179898461/image.png?ex=69557dde&is=69542c5e&hm=d4c0d0329a4b3ae61cc6063797d18fbfea2cb318ee001d018b24c106dc623882&",
-      "description": "Sent by andrews54757 at 12/30/2025, 2:47:42 PM",
+      "description": "",
       "canDownload": true,
       "width": 578,
       "height": 519,
-      "path": "images/image.png"
+      "path": "images/image.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1767124062000
     }
   ],
   "attachments": [
@@ -51,13 +57,20 @@
       "name": "OIP004_simple_unstackable_filter.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1455648563806863542/1455648565610418350/simple_unstackable_filter.litematic?ex=69557dde&is=69542c5e&hm=9f2e429462b7ba4f088de559903dc59d1ba800d1e1db8a51546b1f703750b7ea&",
-      "description": "Sent by andrews54757 at 12/30/2025, 2:47:42 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/OIP004_simple_unstackable_filter.litematic",
       "litematic": {
         "size": "3x2x3",
         "version": "1.21.4"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1767124062000,
+      "size": 653
     }
   ],
   "records": {
@@ -96,5 +109,6 @@
     "uploadMessageId": "1455648885279035505"
   },
   "archivedAt": 1767124136708,
-  "updatedAt": 1767124136708
+  "updatedAt": 1767124136708,
+  "num_comments": 0
 }

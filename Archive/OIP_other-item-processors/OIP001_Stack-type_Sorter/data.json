@@ -32,12 +32,12 @@
       "name": "isStackable"
     },
     {
-      "id": "1385789124472082444",
+      "id": "1465487486628139044",
       "name": "Recommended"
     },
     {
-      "id": "1385488498122948798",
-      "name": "Tested & Functional"
+      "id": "1465491386924138613",
+      "name": "Functional"
     }
   ],
   "images": [
@@ -46,11 +46,17 @@
       "name": "area_render_3_copy.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386191299228467241/1386191299836772433/area_render_3_copy.png?ex=6858cec0&is=68577d40&hm=6f19479202abd5c44fdbd8c9f3c549aefa15f44514f54f8483fe6a80edf0a9d1&",
-      "description": "Sent by andrews54757 at 6/21/2025, 11:49:19 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 693,
-      "path": "images/area_render_3_copy.png"
+      "path": "images/area_render_3_copy.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750564159000
     }
   ],
   "attachments": [
@@ -59,13 +65,20 @@
       "name": "OIP001_stack_type_sorter.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386191299228467241/1386191299505557585/stack_type_sorter.litematic?ex=6858cebf&is=68577d3f&hm=1df087ce900a0230ae519185af7b81370b7f27fce023607e6ff216289fb585bc&",
-      "description": "Sent by andrews54757 at 6/21/2025, 11:49:19 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "5x4x2",
         "version": "1.17.1"
       },
-      "path": "attachments/OIP001_stack_type_sorter.litematic"
+      "path": "attachments/OIP001_stack_type_sorter.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750564159000,
+      "size": 951
     }
   ],
   "records": {
@@ -101,5 +114,6 @@
     "uploadMessageId": "1388178721357430885"
   },
   "archivedAt": 1750565912801,
-  "updatedAt": 1750565912801
+  "updatedAt": 1750565912801,
+  "num_comments": 0
 }

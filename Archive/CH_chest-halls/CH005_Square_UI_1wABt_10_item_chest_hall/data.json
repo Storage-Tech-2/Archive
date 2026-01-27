@@ -27,8 +27,8 @@
   ],
   "tags": [
     {
-      "id": "1385488483170386069",
-      "name": "Tested & Functional"
+      "id": "1465491132455588024",
+      "name": "Functional"
     },
     {
       "id": "1386099837115826406",
@@ -45,11 +45,17 @@
       "name": "area_render_62_.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1388550949571793120/1388550950012190720/area_render_62_.png?ex=68616458&is=686012d8&hm=9a6fa5bb15791aeaa53ec471d3d1726430b483c012698e8a0a2421e184507ee6&",
-      "description": "Sent by andrews54757 at 6/28/2025, 12:05:44 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 537,
-      "path": "images/area_render_62_.png"
+      "path": "images/area_render_62_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1751126744000
     }
   ],
   "attachments": [
@@ -58,13 +64,20 @@
       "name": "CH005_1wabt_10_Item_Chest_hall_SSI.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1388550949571793120/1388550950326636604/1wabt_10_Item_Chest_hall_SSI.litematic?ex=68616458&is=686012d8&hm=0bd3c4a8e6ebbd5fa689714bdb26619ce23a2d73d142b0810cf2e89d98287e77&",
-      "description": "Sent by andrews54757 at 6/28/2025, 12:05:44 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "33x19x4",
         "version": "1.21"
       },
-      "path": "attachments/CH005_1wabt_10_Item_Chest_hall_SSI.litematic"
+      "path": "attachments/CH005_1wabt_10_Item_Chest_hall_SSI.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1751126744000,
+      "size": 2808
     }
   ],
   "records": {
@@ -168,5 +181,6 @@
     "uploadMessageId": "1388551651069132881"
   },
   "archivedAt": 1751289310557,
-  "updatedAt": 1751289310557
+  "updatedAt": 1751289310557,
+  "num_comments": 0
 }

@@ -19,8 +19,8 @@
     {
       "type": "discord-in-guild",
       "id": "1154811326540038185",
+      "username": "capybruhh",
       "displayName": "Capybruhh",
-      "username": "jeffyangzx",
       "iconURL": "https://cdn.discordapp.com/avatars/1154811326540038185/69c37494ea59a6a85f22cf992839ef2e.webp"
     }
   ],
@@ -35,11 +35,11 @@
   ],
   "tags": [
     {
-      "id": "1385488504204562639",
-      "name": "Tested & Functional"
+      "id": "1465491524203839539",
+      "name": "Functional"
     },
     {
-      "id": "1385789132869079192",
+      "id": "1465487570585649261",
       "name": "Recommended"
     }
   ],
@@ -49,11 +49,17 @@
       "name": "XianyuMIS_lite_v2.01.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1388786404317724712/1390206182718967928/XianyuMIS_lite_v2.01.png?ex=686769e6&is=68661866&hm=82a5b7bfb5a8b58764776f894b35deca5dafce26504f6e0c284195f8c8441432&",
-      "description": "Sent by jeffyangzx at 7/3/2025, 1:43:02 AM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 697,
-      "path": "images/XianyuMIS_lite_v2.01.png"
+      "path": "images/XianyuMIS_lite_v2.01.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "jeffyangzx"
+      },
+      "timestamp": 1751521382000
     }
   ],
   "attachments": [
@@ -62,38 +68,67 @@
       "name": "MIS006_XianyuMIS_lite_v2.01_WDL_1.21.zip",
       "contentType": "application/zip",
       "url": "https://cdn.discordapp.com/attachments/1388786404317724712/1390206181250830398/XianyuMIS_lite_v2.01_WDL_1.21.zip?ex=686769e6&is=68661866&hm=4cfada345419a20d8c4fdd22e6034e5d8e89384c4bafdd0865253a0c0f73671a&",
-      "description": "Sent by jeffyangzx at 7/3/2025, 1:43:02 AM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/MIS006_XianyuMIS_lite_v2.01_WDL_1.21.zip",
       "wdl": {
-        "version": "1.21"
-      }
+        "version": "1.21",
+        "optimized": true
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "jeffyangzx"
+      },
+      "timestamp": 1751521382000,
+      "size": 7001042,
+      "wdls": [
+        {
+          "path": ".",
+          "version": "1.21",
+          "levelName": "XianyuMIS_lite_v2_1.21"
+        }
+      ]
     },
     {
       "id": "1390206180911222784",
       "name": "MIS006_XianyuMIS_lite_v2.01_1.20.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1388786404317724712/1390206180911222784/XianyuMIS_lite_v2.01_1.20.litematic?ex=686769e6&is=68661866&hm=398886f8d813f85f99c9083cb7bb3dbcb8eb1f67695a38a792594d72a12dbe43&",
-      "description": "Sent by jeffyangzx at 7/3/2025, 1:43:02 AM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "38x22x28",
         "version": "1.20.1"
       },
-      "path": "attachments/MIS006_XianyuMIS_lite_v2.01_1.20.litematic"
+      "path": "attachments/MIS006_XianyuMIS_lite_v2.01_1.20.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "jeffyangzx"
+      },
+      "timestamp": 1751521382000,
+      "size": 31045
     },
     {
       "id": "1390206180562960406",
       "name": "MIS006_XianyuMIS_lite_v2.01.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1388786404317724712/1390206180562960406/XianyuMIS_lite_v2.01.litematic?ex=686769e6&is=68661866&hm=5e02e2aeeb06370181ce6604d69dd89e5754ce84df8370643a3c092028a57d36&",
-      "description": "Sent by jeffyangzx at 7/3/2025, 1:43:02 AM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "38x22x28",
         "version": "1.20.4"
       },
-      "path": "attachments/MIS006_XianyuMIS_lite_v2.01.litematic"
+      "path": "attachments/MIS006_XianyuMIS_lite_v2.01.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "jeffyangzx"
+      },
+      "timestamp": 1751521382000,
+      "size": 32085
     }
   ],
   "records": {
@@ -190,8 +225,9 @@
       "1390321705284669470"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1390321702365302926",
-    "uploadMessageId": "1390321699723022358"
+    "uploadMessageId": "1465578023649542217"
   },
   "archivedAt": 1751865463564,
-  "updatedAt": 1751865463564
+  "updatedAt": 1751865463564,
+  "num_comments": 0
 }

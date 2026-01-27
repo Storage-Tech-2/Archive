@@ -46,11 +46,11 @@
   ],
   "tags": [
     {
-      "id": "1385488487742046215",
-      "name": "Tested & Functional"
+      "id": "1465491242132574280",
+      "name": "Functional"
     },
     {
-      "id": "1385789112375840830",
+      "id": "1465487399378358351",
       "name": "Recommended"
     }
   ],
@@ -60,11 +60,17 @@
       "name": "LABLES.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386950960659693588/1386950961897144360/LABLES.png?ex=685b923d&is=685a40bd&hm=c8116682705ef1a75ac9e5d31d37a27a86daec5f93eec4db92b29f787b08e82b&",
-      "description": "Sent by andrews54757 at 6/24/2025, 2:07:57 AM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 425,
-      "path": "images/LABLES.png"
+      "path": "images/LABLES.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750745277000
     }
   ],
   "attachments": [
@@ -73,22 +79,36 @@
       "name": "DT002_LABLES.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386950960659693588/1386950961897144360/LABLES.png?ex=685b923d&is=685a40bd&hm=c8116682705ef1a75ac9e5d31d37a27a86daec5f93eec4db92b29f787b08e82b&",
-      "description": "Sent by andrews54757 at 6/24/2025, 2:07:57 AM",
+      "description": "",
       "canDownload": true,
-      "path": "attachments/DT002_LABLES.png"
+      "path": "attachments/DT002_LABLES.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750745277000,
+      "size": 1325329
     },
     {
       "id": "1386950962245140521",
       "name": "DT002_1_Wide_Hopper_Speed_Dropper_Elevators.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386950960659693588/1386950962245140521/1_Wide_Hopper_Speed_Dropper_Elevators.litematic?ex=685b923d&is=685a40bd&hm=e8c223bfc947ee9c8607231c234e473544b0800742c32a741f8aa8fbf8f80d04&",
-      "description": "Sent by andrews54757 at 6/24/2025, 2:07:57 AM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "36x17x1",
         "version": "1.14"
       },
-      "path": "attachments/DT002_1_Wide_Hopper_Speed_Dropper_Elevators.litematic"
+      "path": "attachments/DT002_1_Wide_Hopper_Speed_Dropper_Elevators.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750745277000,
+      "size": 1696
     }
   ],
   "records": {
@@ -157,5 +177,6 @@
     "uploadMessageId": "1388178478112706612"
   },
   "archivedAt": 1751162353341,
-  "updatedAt": 1751162353341
+  "updatedAt": 1751162353341,
+  "num_comments": 0
 }

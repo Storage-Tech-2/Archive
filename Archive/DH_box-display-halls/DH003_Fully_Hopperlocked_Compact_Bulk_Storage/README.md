@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Tested & Functional, Recommended, 2 Displays*
+**Tags:** *Functional, Recommended, 2 Displays*
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388318003216781562)
 

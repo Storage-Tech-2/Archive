@@ -28,7 +28,7 @@
   ],
   "tags": [
     {
-      "id": "1385488518499012623",
+      "id": "1465487719571525919",
       "name": "Untested"
     }
   ],
@@ -38,11 +38,17 @@
       "name": "area_render_101_.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386467829523550238/1386467829913485452/area_render_101_.png?ex=6859d049&is=68587ec9&hm=bcc8b60ef8bb48cc3b45aab3c0460815efbb6dc366be14583b71fcb001b6c3e2&",
-      "description": "Sent by sandcaribou at 6/22/2025, 6:08:09 PM",
+      "description": "",
       "canDownload": true,
       "width": 492,
       "height": 800,
-      "path": "images/area_render_101_.png"
+      "path": "images/area_render_101_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "sandcaribou"
+      },
+      "timestamp": 1750630089000
     }
   ],
   "attachments": [
@@ -51,13 +57,20 @@
       "name": "VIP002_12gt_Cart_Replacement_Cycvar_Filter_v104.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386467829523550238/1386467830203154604/12gt_Cart_Replacement_Cycvar_Filter_v1.0.4.litematic?ex=6859d04a&is=68587eca&hm=15e4de22e6a263be22cc22a26ebca5739c2a0d09f3c92867ce4c7db4e0c7570b&",
-      "description": "Sent by sandcaribou at 6/22/2025, 6:08:09 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "3x8x7",
         "version": "1.21"
       },
-      "path": "attachments/VIP002_12gt_Cart_Replacement_Cycvar_Filter_v104.litematic"
+      "path": "attachments/VIP002_12gt_Cart_Replacement_Cycvar_Filter_v104.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "sandcaribou"
+      },
+      "timestamp": 1750630089000,
+      "size": 1446
     }
   ],
   "records": {
@@ -91,5 +104,6 @@
     "uploadMessageId": "1388179299554820106"
   },
   "archivedAt": 1750631500111,
-  "updatedAt": 1750631500111
+  "updatedAt": 1750631500111,
+  "num_comments": 0
 }

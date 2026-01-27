@@ -35,11 +35,11 @@
   ],
   "tags": [
     {
-      "id": "1385488518499012625",
-      "name": "Tested & Functional"
+      "id": "1465491736636948685",
+      "name": "Functional"
     },
     {
-      "id": "1385789152770920521",
+      "id": "1465487719571525921",
       "name": "Recommended"
     }
   ],
@@ -49,22 +49,34 @@
       "name": "area_render_28_.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1450280312646140135/1450280313463902452/area_render_28_.png?ex=6941f64b&is=6940a4cb&hm=4ff62a4f10034b2e4e90218cae9d4c42463001bb1cb3bbd92e2a904d15ea7c11&",
-      "description": "Sent by andrews54757 at 12/15/2025, 7:16:11 PM",
+      "description": "",
       "canDownload": true,
       "width": 678,
       "height": 649,
-      "path": "images/area_render_28_.png"
+      "path": "images/area_render_28_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1765844171000
     },
     {
       "id": "1450280313904169073",
       "name": "area_render_30_.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1450280312646140135/1450280313904169073/area_render_30_.png?ex=6941f64b&is=6940a4cb&hm=a381844144705d11bef48ec5753dde74122effbff39a769b2126bc8be55ba046&",
-      "description": "Sent by andrews54757 at 12/15/2025, 7:16:11 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 497,
-      "path": "images/area_render_30_.png"
+      "path": "images/area_render_30_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1765844171000
     }
   ],
   "attachments": [
@@ -73,13 +85,20 @@
       "name": "VIP006_1wt_10gt.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1450280312646140135/1450280314181255232/1wt_10gt.litematic?ex=6941f64b&is=6940a4cb&hm=6ff0e9068804cfa384b84718789340934e06aca16b38f46531ce4c4cb22ab1e4&",
-      "description": "Sent by andrews54757 at 12/15/2025, 7:16:11 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/VIP006_1wt_10gt.litematic",
       "litematic": {
         "size": "8x7x24",
         "version": "1.21.4"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1765844171000,
+      "size": 3884
     }
   ],
   "records": {
@@ -151,5 +170,6 @@
     "uploadMessageId": "1450282497089867929"
   },
   "archivedAt": 1766904612610,
-  "updatedAt": 1765844692171
+  "updatedAt": 1765844692171,
+  "num_comments": 0
 }

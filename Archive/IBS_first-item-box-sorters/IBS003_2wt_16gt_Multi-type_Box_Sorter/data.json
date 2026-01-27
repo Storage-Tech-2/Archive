@@ -43,8 +43,8 @@
   ],
   "tags": [
     {
-      "id": "1385488470557986893",
-      "name": "Tested & Functional"
+      "id": "1465490780583100538",
+      "name": "Functional"
     }
   ],
   "images": [
@@ -53,20 +53,32 @@
       "name": "area_render_199_.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1402501851211104426/1402501852322467910/area_render_199_.png?ex=68942522&is=6892d3a2&hm=a1962e56523fc15724380eb1d16b6876878b3a919b06ba31a29e4982fdca9491&",
-      "description": "Sent by 777777777777777777774832 at 8/6/2025, 12:01:38 AM",
+      "description": "",
       "canDownload": true,
-      "path": "images/area_render_199_.png"
+      "path": "images/area_render_199_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "777777777777777777774832"
+      },
+      "timestamp": 1754452898000
     },
     {
       "id": "1402503028551979189",
       "name": "area_render_218_.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1402501851211104426/1402503028551979189/area_render_218_.png?ex=6894263b&is=6892d4bb&hm=a0401a538bfe4c6f5a4abe333234f62f4cc2293b6a535bc6893a5b857c12cdef&",
-      "description": "Sent by 777777777777777777774832 at 8/6/2025, 12:06:19 AM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 669,
-      "path": "images/area_render_218_.png"
+      "path": "images/area_render_218_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "777777777777777777774832"
+      },
+      "timestamp": 1754453179000
     }
   ],
   "attachments": [
@@ -75,13 +87,20 @@
       "name": "IBS003_1.16_16gt_MBS_v3.1.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1402501851211104426/1405122843167031386/1.16_16gt_MBS_v3.1.litematic?ex=68a0511f&is=689eff9f&hm=ad7939b6fe106a94ba2c8087ba5cffa823ad2f08062052d579a6673d1b2365ae&",
-      "description": "Sent by 777777777777777777774832 at 8/13/2025, 5:36:31 AM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/IBS003_1.16_16gt_MBS_v3.1.litematic",
       "litematic": {
         "size": "9x8x10",
         "version": "1.21"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "777777777777777777774832"
+      },
+      "timestamp": 1755077791000,
+      "size": 2791
     }
   ],
   "records": {
@@ -137,5 +156,6 @@
     "uploadMessageId": "1406005444220026902"
   },
   "archivedAt": 1755288219634,
-  "updatedAt": 1755288219634
+  "updatedAt": 1755288219634,
+  "num_comments": 0
 }

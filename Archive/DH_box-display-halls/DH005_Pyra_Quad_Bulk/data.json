@@ -28,8 +28,8 @@
   ],
   "tags": [
     {
-      "id": "1385488501545373755",
-      "name": "Tested & Functional"
+      "id": "1465491482218594433",
+      "name": "Functional"
     },
     {
       "id": "1386533562282672198",
@@ -42,22 +42,34 @@
       "name": "area_render_81_.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1387094139996209163/1387094140344340521/area_render_81_.png?ex=685c1796&is=685ac616&hm=1a56e24d96e038885609ccbcc31e441d9134b36d0c1047965e2b067a3d4e68aa&",
-      "description": "Sent by andrews54757 at 6/24/2025, 11:36:53 AM",
+      "description": "",
       "canDownload": true,
       "width": 725,
       "height": 800,
-      "path": "images/area_render_81_.png"
+      "path": "images/area_render_81_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750779413000
     },
     {
       "id": "1387094140793262190",
       "name": "area_render_80_.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1387094139996209163/1387094140793262190/area_render_80_.png?ex=685c1796&is=685ac616&hm=f0aaaedec4b9ee106bed836fe2f2ba1e5c6053a1dc6ca47a789521477fecd901&",
-      "description": "Sent by andrews54757 at 6/24/2025, 11:36:53 AM",
+      "description": "",
       "canDownload": true,
       "width": 730,
       "height": 800,
-      "path": "images/area_render_80_.png"
+      "path": "images/area_render_80_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750779413000
     }
   ],
   "attachments": [
@@ -66,13 +78,20 @@
       "name": "DH005_Pyra_Quad_Bulk.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1387094139996209163/1387094141166682222/Pyra_Quad_Bulk.litematic?ex=685c1796&is=685ac616&hm=ddf119016124ce589502b15e60225e9f0be1b82c38bed8bae55446bee6f4a979&",
-      "description": "Sent by andrews54757 at 6/24/2025, 11:36:53 AM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "35x46x21",
         "version": "1.19.2"
       },
-      "path": "attachments/DH005_Pyra_Quad_Bulk.litematic"
+      "path": "attachments/DH005_Pyra_Quad_Bulk.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750779413000,
+      "size": 41655
     }
   ],
   "records": {
@@ -142,5 +161,6 @@
     "attachmentMessageId": "1388196474797559951"
   },
   "archivedAt": 1751042228343,
-  "updatedAt": 1751042228343
+  "updatedAt": 1751042228343,
+  "num_comments": 0
 }

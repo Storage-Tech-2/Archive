@@ -28,7 +28,7 @@
   ],
   "tags": [
     {
-      "id": "1385488504204562637",
+      "id": "1465487570585649259",
       "name": "Untested"
     }
   ],
@@ -38,22 +38,34 @@
       "name": "area_render_41_.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1387111186075488287/1387111187182780476/area_render_41_.png?ex=685c2776&is=685ad5f6&hm=b3494017511d8d9b4ec8311b49987a6831e90244ce2b7d191ce05c7b16451011&",
-      "description": "Sent by andrews54757 at 6/24/2025, 12:44:38 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 564,
-      "path": "images/area_render_41_.png"
+      "path": "images/area_render_41_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750783478000
     },
     {
       "id": "1387111188097400903",
       "name": "area_render_42_.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1387111186075488287/1387111188097400903/area_render_42_.png?ex=685c2776&is=685ad5f6&hm=db9c97bb613ad926692cf60edc7015a7d165cec3d9650254d23470fbcc7bfa9b&",
-      "description": "Sent by andrews54757 at 6/24/2025, 12:44:38 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 551,
-      "path": "images/area_render_42_.png"
+      "path": "images/area_render_42_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750783478000
     }
   ],
   "attachments": [
@@ -62,13 +74,20 @@
       "name": "MIS004_CMIS-V3.2.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1387111186075488287/1387111188487208980/CMIS-V3.2.litematic?ex=685c2776&is=685ad5f6&hm=41a9ed565771d4cbe81b8246f59168ea481ce5701a844559d123db0076178c60&",
-      "description": "Sent by andrews54757 at 6/24/2025, 12:44:38 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "90x41x89",
         "version": "1.21"
       },
-      "path": "attachments/MIS004_CMIS-V3.2.litematic"
+      "path": "attachments/MIS004_CMIS-V3.2.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750783478000,
+      "size": 154439
     }
   ],
   "records": {
@@ -211,5 +230,6 @@
     "uploadMessageId": "1388179048999686214"
   },
   "archivedAt": 1755284286128,
-  "updatedAt": 1755284286128
+  "updatedAt": 1755284286128,
+  "num_comments": 0
 }

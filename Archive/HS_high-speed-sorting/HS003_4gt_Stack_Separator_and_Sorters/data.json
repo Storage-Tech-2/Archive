@@ -17,9 +17,10 @@
       "iconURL": "https://cdn.discordapp.com/avatars/531601171211878431/8db107ef61024878a05baab3a798d7d5.webp"
     },
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "247092209780916225",
       "username": "justglotz",
+      "displayName": "Glotz",
       "iconURL": "https://cdn.discordapp.com/avatars/247092209780916225/6180f71564f0bb3fca26a7dd8b712748.webp"
     }
   ],
@@ -44,11 +45,17 @@
       "name": "image.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1459228863543644170/1459228864864719021/image.png?ex=69628448&is=696132c8&hm=cd0e269193d96928b28a0fd5856ebec403488ecfe283b09ef6e8bef899491293&",
-      "description": "Sent by tisunfortunate at 1/9/2026, 11:54:32 AM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 389,
-      "path": "images/image.png"
+      "path": "images/image.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "tisunfortunate"
+      },
+      "timestamp": 1767977672000
     }
   ],
   "attachments": [
@@ -57,13 +64,20 @@
       "name": "HS003_4gt_Stack_Separator_and_Sorters.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1459228863543644170/1459228865372094589/4gt_Stack_Separator_and_Sorters.litematic?ex=69628448&is=696132c8&hm=707a4cd551e1449b148710fa90d940c063148786f224c5103868735705fbd791&",
-      "description": "Sent by tisunfortunate at 1/9/2026, 11:54:32 AM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/HS003_4gt_Stack_Separator_and_Sorters.litematic",
       "litematic": {
         "size": "25x20x78",
         "version": "1.16"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "tisunfortunate"
+      },
+      "timestamp": 1767977672000,
+      "size": 8712
     }
   ],
   "records": {
@@ -136,5 +150,6 @@
     "uploadMessageId": "1459229291853381685"
   },
   "archivedAt": 1767977769047,
-  "updatedAt": 1767977769047
+  "updatedAt": 1767977769047,
+  "num_comments": 0
 }

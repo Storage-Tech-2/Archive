@@ -1,0 +1,304 @@
+{
+  "id": "1461830490276368427",
+  "name": "Krebs’ Main Storage System",
+  "code": "LS005",
+  "reservedCodes": [
+    "LS005"
+  ],
+  "pastPostThreadIds": [
+    "1461831633719267508"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "146727066728005632",
+      "username": "krebs_cycle",
+      "displayName": "Krebs",
+      "iconURL": "https://cdn.discordapp.com/avatars/146727066728005632/617eb798a1a23253399a8c739bbd601f.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465491592671658201",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1461830491517747311",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1461830490276368427/1461830491517747311/image.png?ex=696bfb3c&is=696aa9bc&hm=f4ed2b918319d48b7b00a28fab7d1285a18313b7cf77bd537347f1f9b299e0b0&",
+      "description": "",
+      "canDownload": true,
+      "width": 784,
+      "height": 800,
+      "path": "images/image.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1768597948000
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1461830744941920421",
+      "name": "LS005_Krebs_Main_Storage_System.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1461830490276368427/1461830744941920421/Krebs_Main_Storage_System.litematic?ex=696bfb79&is=696aa9f9&hm=fb6bc3ad2f5d8e13c0d8773da5b4e6c8fd30aa9a217cc0e07a5eabc01cf9613c&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/LS005_Krebs_Main_Storage_System.litematic",
+      "litematic": {
+        "size": "114x101x109",
+        "version": "1.17.1"
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1768598009000,
+      "size": 229401
+    },
+    {
+      "id": "1461830744677683293",
+      "name": "LS005_Krebs_Main_Storage_System_Nether_Chunkloaders.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1461830490276368427/1461830744677683293/Krebs_Main_Storage_System_Nether_Chunkloaders.litematic?ex=696bfb79&is=696aa9f9&hm=f3db9f0184391782ed0e0889528b52a104a74f3a1f51c55148b5ff35e03239d5&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/LS005_Krebs_Main_Storage_System_Nether_Chunkloaders.litematic",
+      "litematic": {
+        "size": "21x9x21",
+        "version": "1.17.1"
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1768598009000,
+      "size": 2035
+    },
+    {
+      "id": "89xjn4p5v8pz933",
+      "name": "LS005_Krebs_Main_Storage_System_-_Inventories.url",
+      "contentType": "mediafire",
+      "url": "https://www.mediafire.com/file/89xjn4p5v8pz933/Krebs_Main_Storage_System_-_Inventories.zip/file",
+      "description": "",
+      "canDownload": false,
+      "path": "attachments/LS005_Krebs_Main_Storage_System_-_Inventories.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1768598042000
+    },
+    {
+      "id": "gkraa8cwt1btsew",
+      "name": "LS005_Krebs_Main_Storage_System.url",
+      "contentType": "mediafire",
+      "url": "https://www.mediafire.com/file/gkraa8cwt1btsew/Krebs_Main_Storage_System.zip/file",
+      "description": "",
+      "canDownload": false,
+      "path": "attachments/LS005_Krebs_Main_Storage_System.url",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1768598042000
+    }
+  ],
+  "records": {
+    "description": "A highly efficient, fully locked storage system with advanced features including chest halls, bulk storage, unstackable sorting, parallel unloading, peripherals, and comprehensive status monitoring. Designed for high-capacity item management with low MSPT usage.",
+    "features": [
+      "98% hopper locking",
+      "1mspt idle, 5mspt active (i5-9300h with lithium 1.17.1)",
+      "544 chest hall items, two double chest capacity per item (~7k items)",
+      "90 bulk items, 1.5 million capacity per item",
+      "10 multi item categories",
+      "Unstackable sorter",
+      "Parallel unloader, which allows for sorting items in parallel",
+      "Some chest hall items have a assigned bulk slice for when they overflow",
+      "Multiple peripherals (furnace array, crafting station, nano farms, etc.)",
+      "Full system status output panel",
+      "Basic error checking, which can pause the input if there is a problem"
+    ],
+    "considerations": [
+      "Originally designed to fit Ingenium SMP’s needs, so you may need to change the item layouts",
+      "Requires manual refilling of storage chest with stacked boxes for empty box distribution",
+      "Only 8 slices of the set-based parallel unloader array used to limit client lag",
+      "Additional red locking lines on chest halls are optional and need position adjustment",
+      "No direct bulk input to limit user error (can be extended if needed)",
+      "Unstackable sorter despawns water buckets in 1.19.3+",
+      "Wooden decoration requires lightning protection to prevent fires"
+    ],
+    "notes": "All inventories that need to be filled (aside from empty box distribution) are marked with signs. Align the black/yellow square above the status panel to a single chunk unless repositioning chunkloaders manually. Nether side schematic attached for reference.",
+    "compatibility": "Optimized for 1.17.1. For 1.16: replace 2 dispensers with powdered snow with waterlogged blocks and add pressure plate before rail to hopper. Issues in 1.19.3+ with unstackable sorter water buckets.",
+    "instructions": [
+      "Align black/yellow square above status panel to single chunk (reposition chunkloaders if needed)",
+      "Manually refill storage chest with stacked boxes for empty box distribution",
+      "Adjust item layouts for your specific needs",
+      "Optional: Add/adjust red locking lines on chest hall outsides for full hopper locking",
+      "Use signs to identify inventories needing filling"
+    ],
+    "credits": "- Set-based parallel unloader array 2.4 – 8 slices, SS3 full version (*TheGlotzerify, Raffq, RaPsCaLLioN1138, Boyenn*)\n- Fully locked input system, chest halls – 2 doublechest per item, and bulk – 1.5mil per item (*Krebs*)\n- MIS 4.2 (*DatNerd et al.*)\n- Unstackable sorter (CommandLeo) with accessible box loaders (vktec/squirl)\n- Full clearance 6x mixed box loaders for overflow (*CommandLeo*)\n- Precision 1x box loaders for bulk items (*CommandLeo & Walter*)\n- Chunkloaders (*Kahyxen*)\n- Crafting station (*acaciachan*)\n- Long-duration pulse extender (*ilmango*)\n- Pufferfish player detector (*Methodzz*)\n- Overflow protection, automatic startup/shutdown with additional manual switch, full system status panel, automatic pausing/emergency stop (*Krebs*)\n- Fully locked empty box distribution system. Requires manual refilling of storage chest with stacked boxes (*Krebs*)\n- Fully locked 64-furnace array and miscellaneous peripherals (*Krebs*)\n- Decoration (*Krebs and KingMoshe*)\n- Additional locking for the MIS, unstackable sorter, and mixed box loaders (*Krebs*)"
+  },
+  "styles": {
+    "credits": {
+      "depth": 2,
+      "headerText": "Credits"
+    }
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Chest Hall",
+      "id": "1454753529700024331",
+      "url": "https://discord.com/channels/1375556143186837695/1454753529700024331/1454753530488426527",
+      "matches": [
+        "chest hall"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Bulk Storage",
+      "id": "1454753523668484213",
+      "url": "https://discord.com/channels/1375556143186837695/1454753523668484213/1454753524637499577",
+      "matches": [
+        "bulk storage"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Peripheral",
+      "id": "1454753771035824158",
+      "url": "https://discord.com/channels/1375556143186837695/1454753771035824158/1454753771555913873",
+      "matches": [
+        "peripheral"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "mspt",
+      "id": "1454753719664119890",
+      "url": "https://discord.com/channels/1375556143186837695/1454753719664119890/1454753720259575821",
+      "matches": [
+        "MSPT",
+        "mspt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Unstackable sorter",
+      "id": "1454754837379022858",
+      "url": "https://discord.com/channels/1375556143186837695/1454754837379022858/1454754839224516712",
+      "matches": [
+        "Unstackable sorter",
+        "unstackable sorter"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Unloader",
+      "id": "1454754824758493380",
+      "url": "https://discord.com/channels/1375556143186837695/1454754824758493380/1454754825345433803",
+      "matches": [
+        "unloader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Schematic",
+      "id": "1454811558009110704",
+      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
+      "matches": [
+        "schematic"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "ss",
+      "id": "1454754774833696893",
+      "url": "https://discord.com/channels/1375556143186837695/1454754774833696893/1454754775542267957",
+      "matches": [
+        "SS"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "MIS",
+      "id": "1454753725091676293",
+      "url": "https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954",
+      "matches": [
+        "MIS"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "6x",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "6x",
+        "1x"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Mixed Box",
+      "id": "1454753707530129576",
+      "url": "https://discord.com/channels/1375556143186837695/1454753707530129576/1454753708247089184",
+      "matches": [
+        "mixed box"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1461831633719267508",
+    "forumId": "1375566903241740450",
+    "continuingMessageIds": [
+      "1461831638773268782",
+      "1461831639553282192",
+      "1461831640098668651"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1461831633719267508",
+    "uploadMessageId": "1461831629239488696"
+  },
+  "archivedAt": 1768598204519,
+  "updatedAt": 1769052198883,
+  "num_comments": 0
+}

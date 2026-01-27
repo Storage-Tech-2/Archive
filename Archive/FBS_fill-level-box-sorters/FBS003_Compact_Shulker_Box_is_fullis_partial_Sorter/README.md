@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Recommended, Tested & Functional, isEmpty/isFull*
+**Tags:** *Recommended, Functional, isEmpty/isFull*
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388316911879848067)
 

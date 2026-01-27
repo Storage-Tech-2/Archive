@@ -35,8 +35,8 @@
       "name": "Auto Replacement"
     },
     {
-      "id": "1385488478745137341",
-      "name": "Tested & Functional"
+      "id": "1465491037492609066",
+      "name": "Functional"
     }
   ],
   "images": [
@@ -45,11 +45,17 @@
       "name": "collectionless_smart_display.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386689670829834353/1386689672482128024/collectionless_smart_display.png?ex=685a9ee5&is=68594d65&hm=56dba27374afd9f1450940875885e70cd72499a9d545fce9dc69205470b43c51&",
-      "description": "Sent by andrews54757 at 6/23/2025, 8:49:40 AM",
+      "description": "",
       "canDownload": true,
       "width": 669,
       "height": 800,
-      "path": "images/collectionless_smart_display.png"
+      "path": "images/collectionless_smart_display.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750682980000
     }
   ],
   "attachments": [
@@ -58,13 +64,20 @@
       "name": "BD002_collectionless_smart_display.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386689670829834353/1386689672800899143/collectionless_smart_display.litematic?ex=685a9ee5&is=68594d65&hm=df2e4894a23b476d63434f6712b2b1165d9477a10f0201facf03555b2ee19e67&",
-      "description": "Sent by andrews54757 at 6/23/2025, 8:49:40 AM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "6x6x2",
         "version": "1.14.4"
       },
-      "path": "attachments/BD002_collectionless_smart_display.litematic"
+      "path": "attachments/BD002_collectionless_smart_display.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750682980000,
+      "size": 932
     }
   ],
   "records": {
@@ -134,5 +147,6 @@
     "uploadMessageId": "1388178084779524298"
   },
   "archivedAt": 1750683096514,
-  "updatedAt": 1768409791266
+  "updatedAt": 1768409791266,
+  "num_comments": 0
 }

@@ -28,8 +28,8 @@
   ],
   "tags": [
     {
-      "id": "1385488520579252261",
-      "name": "Tested & Functional"
+      "id": "1465491795369525312",
+      "name": "Functional"
     }
   ],
   "images": [
@@ -38,11 +38,17 @@
       "name": "image.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1439818384933130322/1439818385465540668/image.png?ex=691be6dd&is=691a955d&hm=272542845995507b3f52194a709f66a4b1db2a32761d448f5958941a1a061383&",
-      "description": "Sent by tisunfortunate at 11/16/2025, 10:24:13 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 525,
-      "path": "images/image.png"
+      "path": "images/image.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "tisunfortunate"
+      },
+      "timestamp": 1763349853000
     }
   ],
   "attachments": [
@@ -51,13 +57,20 @@
       "name": "VBS003_Hyper.Threaded.Whitelister.Tempv1.2.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1439818384933130322/1440452085635092632/Hyper.Threaded.Whitelister.Tempv1.2.litematic?ex=691e350b&is=691ce38b&hm=81ee3b6ab4ddf431c944cd45d05eb75d6bb8ac0dc7e0cd699ab891f49b68ecf2&",
-      "description": "Sent by tisunfortunate at 11/18/2025, 4:22:19 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/VBS003_Hyper.Threaded.Whitelister.Tempv1.2.litematic",
       "litematic": {
         "size": "19x11x8",
         "version": "1.21"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "tisunfortunate"
+      },
+      "timestamp": 1763500939000,
+      "size": 6407
     }
   ],
   "records": {
@@ -119,5 +132,6 @@
     "uploadMessageId": "1440468947345477696"
   },
   "archivedAt": 1763504959556,
-  "updatedAt": 1766904098854
+  "updatedAt": 1766904098854,
+  "num_comments": 0
 }

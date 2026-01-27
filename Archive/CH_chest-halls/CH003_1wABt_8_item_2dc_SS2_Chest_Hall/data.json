@@ -28,12 +28,12 @@
   ],
   "tags": [
     {
-      "id": "1385789106755473500",
+      "id": "1465487332890120325",
       "name": "Recommended"
     },
     {
-      "id": "1385488483170386069",
-      "name": "Tested & Functional"
+      "id": "1465491132455588024",
+      "name": "Functional"
     },
     {
       "id": "1386699846542692493",
@@ -50,11 +50,17 @@
       "name": "8item_2dc_ch.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386923235257356421/1386923273287368734/8item_2dc_ch.png?ex=685b7874&is=685a26f4&hm=ac1e8f795f27c2d69f5268888b8471873d1181d82879bd64e62dfd406ba5bed6&",
-      "description": "Sent by andrews54757 at 6/24/2025, 12:17:56 AM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 434,
-      "path": "images/8item_2dc_ch.png"
+      "path": "images/8item_2dc_ch.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750738676000
     }
   ],
   "attachments": [
@@ -63,13 +69,20 @@
       "name": "CH003_8_chesthall_IAMBOB.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386923235257356421/1386923273496825939/8_chesthall_IAMBOB.litematic?ex=685b7874&is=685a26f4&hm=984a3efa95625abe3322d24112c1e502847871c938b67988c3841fbcddb06285&",
-      "description": "Sent by andrews54757 at 6/24/2025, 12:17:56 AM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "29x17x4",
         "version": "1.18.2"
       },
-      "path": "attachments/CH003_8_chesthall_IAMBOB.litematic"
+      "path": "attachments/CH003_8_chesthall_IAMBOB.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750738676000,
+      "size": 2238
     }
   ],
   "records": {
@@ -134,5 +147,6 @@
     "uploadMessageId": "1388178392247046194"
   },
   "archivedAt": 1750738755915,
-  "updatedAt": 1750738755915
+  "updatedAt": 1750738755915,
+  "num_comments": 0
 }

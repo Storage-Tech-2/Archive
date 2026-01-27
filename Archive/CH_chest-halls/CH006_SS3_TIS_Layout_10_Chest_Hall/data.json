@@ -27,11 +27,11 @@
   ],
   "tags": [
     {
-      "id": "1385488483170386069",
-      "name": "Tested & Functional"
+      "id": "1465491132455588024",
+      "name": "Functional"
     },
     {
-      "id": "1385789106755473500",
+      "id": "1465487332890120325",
       "name": "Recommended"
     },
     {
@@ -49,11 +49,17 @@
       "name": "area_render_76_.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1388554841034592348/1388554842544541706/area_render_76_.png?ex=686167f8&is=68601678&hm=c00033d511c0041c84fe2cc446d388492e8885fc537789baf0477d0f2fb58a2e&",
-      "description": "Sent by andrews54757 at 6/28/2025, 12:21:12 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 608,
-      "path": "images/area_render_76_.png"
+      "path": "images/area_render_76_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1751127672000
     }
   ],
   "attachments": [
@@ -62,13 +68,20 @@
       "name": "CH006_Seven_TIS_SS3.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1388554841034592348/1388554841478926336/Seven_TIS_SS3.litematic?ex=686167f8&is=68601678&hm=aca181a7abcbbcf39d4f79facbb53f6bf93ceb135ca8560ec529f4f50387d174&",
-      "description": "Sent by andrews54757 at 6/28/2025, 12:21:12 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "4x20x27",
         "version": "1.20.1"
       },
-      "path": "attachments/CH006_Seven_TIS_SS3.litematic"
+      "path": "attachments/CH006_Seven_TIS_SS3.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1751127672000,
+      "size": 2624
     }
   ],
   "records": {
@@ -136,5 +149,6 @@
     "uploadMessageId": "1388555401795997758"
   },
   "archivedAt": 1751127805783,
-  "updatedAt": 1751127805783
+  "updatedAt": 1751127805783,
+  "num_comments": 0
 }

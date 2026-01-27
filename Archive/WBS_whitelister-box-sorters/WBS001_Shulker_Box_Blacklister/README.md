@@ -1,11 +1,11 @@
 # Shulker Box Blacklister
 <img alt="8gt_2wt_box_blacklister_render.png" src="images/8gt_2wt_box_blacklister_render.png?raw=1">
 
-**Authors:** *RaPsCaLLioN1138, justglotz, Christone*
+**Authors:** *RaPsCaLLioN1138, Glotz, Christone*
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Tested & Functional, Recommended*
+**Tags:** *Functional, Recommended*
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1451359341285212190)
 

@@ -32,7 +32,7 @@
       "name": "Pulse Extenders"
     },
     {
-      "id": "1386444420911595685",
+      "id": "1465487829886046211",
       "name": "Untested"
     }
   ],
@@ -42,11 +42,17 @@
       "name": "area_render_25.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386451279928360993/1386451282121855058/area_render_25.png?ex=6859c0e0&is=68586f60&hm=b745e033213ee406075a4bfd9b83d0d9e36716df0926457d72a5fad7c698d745&",
-      "description": "Sent by andrews54757 at 6/22/2025, 5:02:24 PM",
+      "description": "",
       "canDownload": true,
       "width": 729,
       "height": 800,
-      "path": "images/area_render_25.png"
+      "path": "images/area_render_25.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750626144000
     }
   ],
   "attachments": [
@@ -55,13 +61,20 @@
       "name": "CC003_way_too_long_extender.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386451279928360993/1386451280708370432/way_too_long_extender.litematic?ex=6859c0e0&is=68586f60&hm=9e08910a57d79ac304191674422e0507d93afb0b327ce78c51b7170ae089f91e&",
-      "description": "Sent by andrews54757 at 6/22/2025, 5:02:24 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "6x6x3",
         "version": "1.18.2"
       },
-      "path": "attachments/CC003_way_too_long_extender.litematic"
+      "path": "attachments/CC003_way_too_long_extender.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750626144000,
+      "size": 1050
     }
   ],
   "records": {
@@ -98,5 +111,6 @@
     "uploadMessageId": "1388179638022574301"
   },
   "archivedAt": 1750626219501,
-  "updatedAt": 1750626219501
+  "updatedAt": 1750626219501,
+  "num_comments": 0
 }

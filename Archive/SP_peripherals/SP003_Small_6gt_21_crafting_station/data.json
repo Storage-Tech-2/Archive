@@ -41,11 +41,11 @@
   ],
   "tags": [
     {
-      "id": "1457538569756475392",
-      "name": "Tested & Functional"
+      "id": "1465492170420125863",
+      "name": "Functional"
     },
     {
-      "id": "1457538569756475393",
+      "id": "1465488009343406273",
       "name": "Recommended"
     },
     {
@@ -59,11 +59,17 @@
       "name": "area_render_2.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1387089550656143462/1387089551603798159/area_render_2.png?ex=685c134f&is=685ac1cf&hm=532d8fce0f891b3669a73bc65bd5f7eba8a70690bce9a5799de681dc07ff334a&",
-      "description": "Sent by andrews54757 at 6/24/2025, 11:18:39 AM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 800,
-      "path": "images/area_render_2.png"
+      "path": "images/area_render_2.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750778319000
     }
   ],
   "attachments": [
@@ -72,13 +78,20 @@
       "name": "SP003_1.16_tiny_6gt_21_crafting_staition_6x6x6216b_by_wawuliFlowerstarry_skyZai_yu_you.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1387089550656143462/1387089552266494002/1.16_tiny_6gt_21_crafting_staition_6x6x6216b_by_wawuliFlowerstarry_skyZai_yu_you.litematic?ex=685c1350&is=685ac1d0&hm=88e1bf3a4212c4ab3ea38c06823fe38af1c124147f86be24944e271b1bfae758&",
-      "description": "Sent by andrews54757 at 6/24/2025, 11:18:39 AM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "6x6x10",
         "version": "1.18.2"
       },
-      "path": "attachments/SP003_1.16_tiny_6gt_21_crafting_staition_6x6x6216b_by_wawuliFlowerstarry_skyZai_yu_you.litematic"
+      "path": "attachments/SP003_1.16_tiny_6gt_21_crafting_staition_6x6x6216b_by_wawuliFlowerstarry_skyZai_yu_you.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750778319000,
+      "size": 2053
     }
   ],
   "records": {
@@ -128,5 +141,6 @@
     "uploadMessageId": "1457542239700914421"
   },
   "archivedAt": 1750778953520,
-  "updatedAt": 1767575547744
+  "updatedAt": 1767575547744,
+  "num_comments": 0
 }

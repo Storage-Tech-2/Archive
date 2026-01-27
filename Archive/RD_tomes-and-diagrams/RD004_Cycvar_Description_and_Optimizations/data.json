@@ -1,0 +1,106 @@
+{
+  "id": "1462954698767204442",
+  "name": "Cycvar: Description and Optimizations",
+  "code": "RD004",
+  "reservedCodes": [
+    "RD004"
+  ],
+  "pastPostThreadIds": [
+    "1462956777459945668",
+    "1462978649702662290"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "384084307712409600",
+      "username": "tisunfortunate",
+      "displayName": "TisUnfortunate",
+      "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/0de5630a1bd3ad4fb3e24f5ba40958e1.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "384084307712409600",
+      "username": "tisunfortunate",
+      "displayName": "TisUnfortunate",
+      "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/0de5630a1bd3ad4fb3e24f5ba40958e1.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465487973863919746",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1462978375273676841",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1462954698767204442/1462978375273676841/image.png?ex=69702849&is=696ed6c9&hm=9bb76545532ad1cb032e6bb557e758139ef1bdb4008556c46914a04080bf2bed&",
+      "description": "",
+      "canDownload": true,
+      "width": 800,
+      "height": 680,
+      "path": "images/image.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1768871625000
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1462955428756586755",
+      "name": "RD004_Cycvar_Documentation.pdf",
+      "url": "https://cdn.discordapp.com/ephemeral-attachments/1462955366206935112/1462955428756586755/Cycvar_Documentation.pdf?ex=697012ea&is=696ec16a&hm=4dda448624d4a0d7ce8b0fde4e4a52e4167827f517c7b45a6cc29992987c39bf&",
+      "description": "",
+      "contentType": "application/pdf",
+      "canDownload": true,
+      "path": "attachments/RD004_Cycvar_Documentation.pdf",
+      "source": "DirectUpload",
+      "author": {
+        "type": "unknown",
+        "username": "tisunfortunate"
+      },
+      "timestamp": 1768866154000,
+      "size": 110474
+    }
+  ],
+  "records": {
+    "description": "PDF includes:\n- Detailed description of cycvar\n- Explanation of how cycvar functions\n- Identification of problems or issues with cycvar\n- Optimizations for cycvar\n- List of completed cycvar projects"
+  },
+  "styles": {
+    "description": {
+      "depth": 2,
+      "headerText": "Description"
+    }
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "cycvar",
+      "id": "1460469722234749123",
+      "url": "https://discord.com/channels/1375556143186837695/1460469722234749123/1460469724369387550",
+      "matches": [
+        "cycvar"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1462978649702662290",
+    "forumId": "1410149299169267792",
+    "continuingMessageIds": [
+      "1462978652974354614"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1462978649702662290",
+    "uploadMessageId": "1462956774880710717"
+  },
+  "archivedAt": 1768866473795,
+  "updatedAt": 1768871689282,
+  "num_comments": 0
+}

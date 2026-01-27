@@ -28,11 +28,11 @@
   ],
   "tags": [
     {
-      "id": "1385488464648208442",
-      "name": "Tested & Functional"
+      "id": "1465490606980857926",
+      "name": "Functional"
     },
     {
-      "id": "1385789083279822881",
+      "id": "1465486971215548592",
       "name": "Recommended"
     },
     {
@@ -46,11 +46,17 @@
       "name": "area_render_72_.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1388040613894684772/1388040614259593337/area_render_72_.png?ex=685f890e&is=685e378e&hm=e2cb085c5ee297d3b7f3d1cffa29a1d63946a132d7459bc89f6c57f98bc8286f&",
-      "description": "Sent by andrews54757 at 6/27/2025, 2:17:50 AM",
+      "description": "",
       "canDownload": true,
       "width": 456,
       "height": 751,
-      "path": "images/area_render_72_.png"
+      "path": "images/area_render_72_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1751005070000
     }
   ],
   "attachments": [
@@ -59,13 +65,20 @@
       "name": "AL003_thin_accessible_loader.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1388040613894684772/1388040883097702450/thin_accessible_loader.litematic?ex=685f894f&is=685e37cf&hm=09041111f3ffe68cbca331671aa54f090e1550f7606484933420b6898f3fcd16&",
-      "description": "Sent by andrews54757 at 6/27/2025, 2:18:55 AM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "5x9x1",
         "version": "1.21.4"
       },
-      "path": "attachments/AL003_thin_accessible_loader.litematic"
+      "path": "attachments/AL003_thin_accessible_loader.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1751005135000,
+      "size": 1017
     }
   ],
   "records": {
@@ -123,5 +136,6 @@
     "uploadMessageId": "1388177489800724491"
   },
   "archivedAt": 1751005255449,
-  "updatedAt": 1751005255449
+  "updatedAt": 1751005255449,
+  "num_comments": 0
 }

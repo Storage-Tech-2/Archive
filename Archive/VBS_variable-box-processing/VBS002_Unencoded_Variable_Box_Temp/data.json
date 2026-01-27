@@ -57,8 +57,8 @@
   ],
   "tags": [
     {
-      "id": "1385488520579252261",
-      "name": "Tested & Functional"
+      "id": "1465491795369525312",
+      "name": "Functional"
     }
   ],
   "images": [
@@ -67,22 +67,34 @@
       "name": "area_render_107_.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1401371516389687346/1401371518780313721/area_render_107_.png?ex=6890086e&is=688eb6ee&hm=e42d6ba8f8a54c23837f39d28ab0a2733f66fc9e992b4e496e3f549e5b56ec2b&",
-      "description": "Sent by andrews54757 at 8/2/2025, 9:10:05 PM",
+      "description": "",
       "canDownload": true,
       "width": 784,
       "height": 626,
-      "path": "images/area_render_107_.png"
+      "path": "images/area_render_107_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1754183405000
     },
     {
       "id": "1401371518344101919",
       "name": "area_render_108_.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1401371516389687346/1401371518344101919/area_render_108_.png?ex=6890086e&is=688eb6ee&hm=594318098f1112031c5a6fa365ea818a4cc349174d211a3a4657ac2bcdf295c6&",
-      "description": "Sent by andrews54757 at 8/2/2025, 9:10:05 PM",
+      "description": "",
       "canDownload": true,
       "width": 432,
       "height": 602,
-      "path": "images/area_render_108_.png"
+      "path": "images/area_render_108_.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1754183405000
     }
   ],
   "attachments": [
@@ -91,13 +103,20 @@
       "name": "VBS002_unencoded_variable_temp.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1401371516389687346/1401371517840920686/unencoded_variable_temp.litematic?ex=6890086e&is=688eb6ee&hm=032fbe97f157a4f53df69b60c08773fd0e876bf8e20461d8c3c4547e4c232378&",
-      "description": "Sent by andrews54757 at 8/2/2025, 9:10:05 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/VBS002_unencoded_variable_temp.litematic",
       "litematic": {
         "size": "8x11x31",
         "version": "1.21"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1754183405000,
+      "size": 6491
     }
   ],
   "records": {
@@ -184,5 +203,6 @@
     "uploadMessageId": "1401376233270280283"
   },
   "archivedAt": 1754184552012,
-  "updatedAt": 1754184552012
+  "updatedAt": 1754184552012,
+  "num_comments": 0
 }

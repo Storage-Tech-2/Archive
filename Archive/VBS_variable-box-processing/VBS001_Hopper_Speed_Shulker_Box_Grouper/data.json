@@ -29,11 +29,11 @@
   ],
   "tags": [
     {
-      "id": "1385488520579252261",
-      "name": "Tested & Functional"
+      "id": "1465491795369525312",
+      "name": "Functional"
     },
     {
-      "id": "1385789156000792788",
+      "id": "1465487757122998410",
       "name": "Recommended"
     }
   ],
@@ -43,11 +43,17 @@
       "name": "Hopper_Speed_Box_Grouper_4x5x6.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386933382579093594/1386933383770149025/Hopper_Speed_Box_Grouper_4x5x6.png?ex=685b81de&is=685a305e&hm=e42df0fc1ff77af9419221169516a9843dc2bbe8fce7782c3470bd520ac1336b&",
-      "description": "Sent by andrews54757 at 6/24/2025, 12:58:06 AM",
+      "description": "",
       "canDownload": true,
       "width": 699,
       "height": 800,
-      "path": "images/Hopper_Speed_Box_Grouper_4x5x6.png"
+      "path": "images/Hopper_Speed_Box_Grouper_4x5x6.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750741086000
     }
   ],
   "attachments": [
@@ -56,13 +62,20 @@
       "name": "VBS001_Hopper_Speed_Box_Grouper_4x5x6.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386933382579093594/1386933384370192394/Hopper_Speed_Box_Grouper_4x5x6.litematic?ex=685b81de&is=685a305e&hm=61bd87bd8e8b72162e8591f0fd0db25a12a08604c092336166196608aa02d9c1&",
-      "description": "Sent by andrews54757 at 6/24/2025, 12:58:06 AM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "12x6x5",
         "version": "1.18.2"
       },
-      "path": "attachments/VBS001_Hopper_Speed_Box_Grouper_4x5x6.litematic"
+      "path": "attachments/VBS001_Hopper_Speed_Box_Grouper_4x5x6.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750741086000,
+      "size": 1510
     }
   ],
   "records": {
@@ -122,5 +135,6 @@
     "uploadMessageId": "1388179360766230581"
   },
   "archivedAt": 1766904098806,
-  "updatedAt": 1750741216590
+  "updatedAt": 1750741216590,
+  "num_comments": 0
 }

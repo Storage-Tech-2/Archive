@@ -27,12 +27,12 @@
   ],
   "tags": [
     {
-      "id": "1385789152770920521",
+      "id": "1465487719571525921",
       "name": "Recommended"
     },
     {
-      "id": "1385488518499012625",
-      "name": "Tested & Functional"
+      "id": "1465491736636948685",
+      "name": "Functional"
     }
   ],
   "images": [
@@ -41,11 +41,17 @@
       "name": "global-reset.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1386431947928244496/1386431948389486662/global-reset.png?ex=6859aedf&is=68585d5f&hm=451f01993dbe7f9cebd6b1a50d9727ad6a67550b0af79bf03fda2dbcea1e634d&",
-      "description": "Sent by andrews54757 at 6/22/2025, 3:45:35 PM",
+      "description": "",
       "canDownload": true,
       "width": 654,
       "height": 751,
-      "path": "images/global-reset.png"
+      "path": "images/global-reset.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750621535000
     }
   ],
   "attachments": [
@@ -54,13 +60,20 @@
       "name": "VIP001_Global_reset_variable_loader_44.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386431947928244496/1386431948796203059/Global_reset_variable_loader_4.4.litematic?ex=6859aedf&is=68585d5f&hm=08cf7abf7524e6882def274928691aec9dccd4a132db9e04426c59e9bc2bbc24&",
-      "description": "Sent by andrews54757 at 6/22/2025, 3:45:35 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "27x9x11",
         "version": "1.20.1"
       },
-      "path": "attachments/VIP001_Global_reset_variable_loader_44.litematic"
+      "path": "attachments/VIP001_Global_reset_variable_loader_44.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1750621535000,
+      "size": 7197
     }
   ],
   "records": {
@@ -118,5 +131,6 @@
     "uploadMessageId": "1388179273868771338"
   },
   "archivedAt": 1750621999017,
-  "updatedAt": 1750621999017
+  "updatedAt": 1750621999017,
+  "num_comments": 0
 }

@@ -28,7 +28,7 @@
   ],
   "tags": [
     {
-      "id": "1385488508155723781",
+      "id": "1465487623043809364",
       "name": "Untested"
     }
   ],
@@ -38,11 +38,17 @@
       "name": "4threes_Main_Storage_System.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1416554411878121532/1416554413719425149/4threes_Main_Storage_System.png?ex=68c7449a&is=68c5f31a&hm=b48d56e647a0ec2e31d7ef9e0794d0cb4cb7253ee4f23e6542e7764f7738402c&",
-      "description": "Sent by andrews54757 at 9/13/2025, 6:41:30 PM",
+      "description": "",
       "canDownload": true,
       "width": 614,
       "height": 800,
-      "path": "images/4threes_Main_Storage_System.png"
+      "path": "images/4threes_Main_Storage_System.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1757803290000
     }
   ],
   "attachments": [
@@ -51,26 +57,40 @@
       "name": "LS002_4threes_Main_Storage_System_Netherside.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1416554411878121532/1455455719506706516/4threes_Main_Storage_System_Netherside.litematic?ex=6954ca44&is=695378c4&hm=c4dbe8645f671fd613de4258a3a1b0fbd6eac6eeb1c19c9c1f2c6a73c75d2e20&",
-      "description": "Sent by andrews54757 at 12/30/2025, 2:01:24 AM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/LS002_4threes_Main_Storage_System_Netherside.litematic",
       "litematic": {
         "size": "18x6x15",
         "version": "1.21.4"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1767078084000,
+      "size": 1366
     },
     {
       "id": "1455520827847086155",
       "name": "LS002_4threes_Main_Storage_System_V1.8.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1416554411878121532/1455520827847086155/4threes_Main_Storage_System_V1.8.litematic?ex=695506e7&is=6953b567&hm=e214d5580fc66b13446a9728e93bd2c685296c102250a0375806cc9c166c0c79&",
-      "description": "Sent by 4threee at 12/30/2025, 6:20:07 AM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/LS002_4threes_Main_Storage_System_V1.8.litematic",
       "litematic": {
         "size": "118x140x133",
         "version": "1.21.4"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "4threee"
+      },
+      "timestamp": 1767093607000,
+      "size": 293228
     }
   ],
   "records": {
@@ -151,6 +171,15 @@
       "url": "https://discord.com/channels/1375556143186837695/1454753771035824158/1454753771555913873",
       "matches": [
         "peripheral"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Restock station",
+      "id": "1464761941246349412",
+      "url": "https://discord.com/channels/1375556143186837695/1464761941246349412/1464761943725441085",
+      "matches": [
+        "restock station"
       ]
     },
     {
@@ -453,5 +482,6 @@
     "uploadMessageId": "1455602666498424894"
   },
   "archivedAt": 1767113106466,
-  "updatedAt": 1767143722505
+  "updatedAt": 1767143722505,
+  "num_comments": 0
 }

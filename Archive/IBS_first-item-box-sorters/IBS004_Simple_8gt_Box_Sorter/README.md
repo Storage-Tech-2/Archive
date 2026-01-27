@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Recommended, Tested & Functional*
+**Tags:** *Recommended, Functional*
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1451116522746548225)
 
@@ -25,3 +25,4 @@ A simple box sorter which can sort boxes by their first item type at hopperspeed
 ## Resources
 - [IBS004_Simple_Box_Sorter.litematic](attachments/IBS004_Simple_Box_Sorter.litematic): MC 1.21, Size 12x9x4 blocks
 - [IBS004_image.png](attachments/IBS004_image.png): image/png
+  - How to set up overflow protection

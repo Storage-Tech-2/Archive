@@ -28,8 +28,8 @@
   ],
   "tags": [
     {
-      "id": "1385488499884425243",
-      "name": "Tested & Functional"
+      "id": "1465491430553292873",
+      "name": "Functional"
     }
   ],
   "images": [
@@ -38,22 +38,34 @@
       "name": "e.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1391830251625250867/1391830252166058014/e.png?ex=686d526f&is=686c00ef&hm=2e8d52527e359a69ee52611ddf2e0e8b1619d91ee915081a85a7ffe20cf8a456&",
-      "description": "Sent by drakephose at 7/7/2025, 1:16:30 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 358,
-      "path": "images/e.png"
+      "path": "images/e.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "drakephose"
+      },
+      "timestamp": 1751908590000
     },
     {
       "id": "1391830252925223043",
       "name": "k.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1391830251625250867/1391830252925223043/k.png?ex=686d526f&is=686c00ef&hm=fbffa5a7cbc824bae316a5b17a5daf5c37f02f9f8009830c6910df617b4d1404&",
-      "description": "Sent by drakephose at 7/7/2025, 1:16:30 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 412,
-      "path": "images/k.png"
+      "path": "images/k.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "drakephose"
+      },
+      "timestamp": 1751908590000
     }
   ],
   "attachments": [
@@ -62,26 +74,40 @@
       "name": "US004_DrakePHOSE_Unstackable_Axolotl_Separator_Empty_Water.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1391830251625250867/1391830253424607262/DrakePHOSE_Unstackable_Axolotl_Separator_Empty_Water.litematic?ex=686d526f&is=686c00ef&hm=493696e4fe0a54c825458b36dfa2d2f49b5e40554abc6781c8ce021aa16feef9&",
-      "description": "Sent by drakephose at 7/7/2025, 1:16:30 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "4x4x10",
         "version": "1.21.3"
       },
-      "path": "attachments/US004_DrakePHOSE_Unstackable_Axolotl_Separator_Empty_Water.litematic"
+      "path": "attachments/US004_DrakePHOSE_Unstackable_Axolotl_Separator_Empty_Water.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "drakephose"
+      },
+      "timestamp": 1751908590000,
+      "size": 883
     },
     {
       "id": "1391830253802098769",
       "name": "US004_DrakePHOSE_Unstackable_Axolotl_Separator_Keep_Water.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1391830251625250867/1391830253802098769/DrakePHOSE_Unstackable_Axolotl_Separator_Keep_Water.litematic?ex=686d526f&is=686c00ef&hm=44850a2dc56d289c794fdbed987b4ac6d49ef2f21391682eaef53604ad12b181&",
-      "description": "Sent by drakephose at 7/7/2025, 1:16:30 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "4x5x10",
         "version": "1.21.3"
       },
-      "path": "attachments/US004_DrakePHOSE_Unstackable_Axolotl_Separator_Keep_Water.litematic"
+      "path": "attachments/US004_DrakePHOSE_Unstackable_Axolotl_Separator_Keep_Water.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "drakephose"
+      },
+      "timestamp": 1751908590000,
+      "size": 1040
     }
   ],
   "records": {
@@ -106,5 +132,6 @@
     "uploadMessageId": "1391831229099282463"
   },
   "archivedAt": 1751908823726,
-  "updatedAt": 1751908823726
+  "updatedAt": 1751908823726,
+  "num_comments": 0
 }

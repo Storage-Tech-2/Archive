@@ -28,7 +28,7 @@
   ],
   "tags": [
     {
-      "id": "1410149844563005509",
+      "id": "1465487973863919746",
       "name": "Recommended"
     }
   ],
@@ -38,11 +38,17 @@
       "name": "image.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1451060139560931523/1451060139837886595/image.png?ex=6944cc90&is=69437b10&hm=d6c2e749edc13af509e140e34388f4b723b3705d441c874bd745f4262432843f&",
-      "description": "Sent by andrews54757 at 12/17/2025, 10:54:56 PM",
+      "description": "",
       "canDownload": true,
       "width": 402,
       "height": 569,
-      "path": "images/image.png"
+      "path": "images/image.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1766030096000
     }
   ],
   "attachments": [],
@@ -92,5 +98,6 @@
     "uploadMessageId": ""
   },
   "archivedAt": 1766036962921,
-  "updatedAt": 1766036962921
+  "updatedAt": 1766036962921,
+  "num_comments": 0
 }

@@ -15,22 +15,34 @@
         "name": "Double_Minimal_Prefill_4x.png",
         "contentType": "image/png",
         "url": "https://cdn.discordapp.com/attachments/1386195063142486016/1386195281607131178/Double_Minimal_Prefill_4x.png?ex=6858d275&is=685780f5&hm=22c9c1048c6c4d521db940e0aaf26aa7faad1c96690fd79070e0b3a10a141166&",
-        "description": "Sent by andrews54757 at 6/22/2025, 12:05:09 AM",
+        "description": "",
         "canDownload": true,
-        "path": "comments_attachments/1386195281607131178-double_minimal_prefill_4x.png"
+        "path": "comments_attachments/1386195281607131178-double_minimal_prefill_4x.png",
+        "source": "MessageAttachment",
+        "author": {
+          "type": "unknown",
+          "username": "andrews54757"
+        },
+        "timestamp": 1750565109000
       },
       {
         "id": "1386195282030629047",
         "name": "Double_Minimal_Prefill_4x.litematic",
         "contentType": "unknown",
         "url": "https://cdn.discordapp.com/attachments/1386195063142486016/1386195282030629047/Double_Minimal_Prefill_4x.litematic?ex=6858d275&is=685780f5&hm=9c03cd30500147e54540710f2b55ae900e6100a68d47c77ede6c466173b06c68&",
-        "description": "Sent by andrews54757 at 6/22/2025, 12:05:09 AM",
+        "description": "",
         "canDownload": true,
         "litematic": {
           "size": "19x10x12",
           "version": "1.16"
         },
-        "path": "comments_attachments/1386195282030629047-double_minimal_prefill_4x.litematic"
+        "path": "comments_attachments/1386195282030629047-double_minimal_prefill_4x.litematic",
+        "source": "MessageAttachment",
+        "author": {
+          "type": "unknown",
+          "username": "andrews54757"
+        },
+        "timestamp": 1750565109000
       }
     ],
     "timestamp": 1750565110363

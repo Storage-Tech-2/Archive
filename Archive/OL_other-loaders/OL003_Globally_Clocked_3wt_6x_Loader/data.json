@@ -28,11 +28,11 @@
   ],
   "tags": [
     {
-      "id": "1385488468729266284",
-      "name": "Tested & Functional"
+      "id": "1465490739759681724",
+      "name": "Functional"
     },
     {
-      "id": "1385789089017499700",
+      "id": "1465487063406219304",
       "name": "Recommended"
     }
   ],
@@ -42,11 +42,17 @@
       "name": "Globally_Clocked_6x.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1389410349618434228/1389410351568654526/Globally_Clocked_6x.png?ex=686484b9&is=68633339&hm=f769579306616f72903a495c46047f605f41463c395a625879dd07495036e6d9&",
-      "description": "Sent by andrews54757 at 6/30/2025, 9:00:41 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 732,
-      "path": "images/Globally_Clocked_6x.png"
+      "path": "images/Globally_Clocked_6x.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1751331641000
     }
   ],
   "attachments": [
@@ -55,13 +61,20 @@
       "name": "OL003_Globally_Clocked_6x.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1389410349618434228/1389410350092255242/Globally_Clocked_6x.litematic?ex=686484b9&is=68633339&hm=a76f6f62ac23e14d546b4a4a9990781769d7a0a780a36cc42df29cc0a33f9102&",
-      "description": "Sent by andrews54757 at 6/30/2025, 9:00:41 PM",
+      "description": "",
       "canDownload": true,
       "litematic": {
         "size": "29x6x26",
         "version": "1.14"
       },
-      "path": "attachments/OL003_Globally_Clocked_6x.litematic"
+      "path": "attachments/OL003_Globally_Clocked_6x.litematic",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1751331641000,
+      "size": 7389
     }
   ],
   "records": {
@@ -128,5 +141,6 @@
     "uploadMessageId": "1389410830013042770"
   },
   "archivedAt": 1751331755696,
-  "updatedAt": 1751331755696
+  "updatedAt": 1751331755696,
+  "num_comments": 0
 }
