@@ -1,0 +1,478 @@
+{
+  "id": "1465532773925126371",
+  "name": "XianyuMIS V2",
+  "code": "MIS010",
+  "reservedCodes": [
+    "MIS010"
+  ],
+  "pastPostThreadIds": [
+    "1465534336320143524",
+    "1465599822886076510"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1008428083692449954",
+      "username": "nesider.",
+      "displayName": "siderXD",
+      "iconURL": "https://cdn.discordapp.com/avatars/1008428083692449954/12cbd75e7eb2fdadef6e9f865b8b5255.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "1154811326540038185",
+      "username": "capybruhh",
+      "displayName": "Capybruhh",
+      "iconURL": "https://cdn.discordapp.com/avatars/1154811326540038185/69c37494ea59a6a85f22cf992839ef2e.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465491524203839539",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1465599205597773888",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1465532773925126371/1465599205597773888/image.png?ex=6979b120&is=69785fa0&hm=a7ceea89ff94eae6244d0acd7fa1f1b656acb640f45091f9ae98b3280330c495&",
+      "timestamp": 1769496480173,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "User interface",
+      "size": 398818,
+      "canDownload": true,
+      "width": 1600,
+      "height": 872,
+      "path": "images/image.png"
+    },
+    {
+      "id": "1465599224061100138",
+      "name": "render.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1465532773925126371/1465599224061100138/area_render_187_.png?ex=6979b124&is=69785fa4&hm=91d19bd1f5ccc73d99ae095ce3c494c29574989a02cad13498ffca9d67ccf495&",
+      "timestamp": 1769496484589,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 677393,
+      "canDownload": true,
+      "width": 1600,
+      "height": 1184,
+      "path": "images/render.png"
+    },
+    {
+      "id": "1465532775670223024",
+      "name": "XianyuMIS_crane.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1465532773925126371/1465532775670223024/XianyuMIS_crane.png?ex=69797342&is=697821c2&hm=775ceafd8d3919b13e0b3df2e245240bf3818f72dd115921e6bdf39214c75229&",
+      "timestamp": 1769480641586,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Decorations included in the deco schematics",
+      "size": 8051743,
+      "canDownload": true,
+      "width": 800,
+      "height": 632,
+      "path": "images/XianyuMIS_crane.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1465533551830372484",
+      "name": "MIS010_XianyuMIS_v2.4.2_WDL.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1465532773925126371/1465533551830372484/XianyuMIS_v2.4.2_WDL.zip?ex=697973fb&is=6978227b&hm=ee283ed190f32e83fbd222b22b39fb84ee126e22d64d27aca485399b26ae537b&",
+      "timestamp": 1769480827121,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Contains both the full and lite versions (MIS006)",
+      "size": 10430752,
+      "canDownload": true,
+      "path": "attachments/MIS010_XianyuMIS_v2.4.2_WDL.zip",
+      "wdls": [
+        {
+          "path": "XianyuMIS_v2.4.2_WDL",
+          "version": "1.21.4",
+          "levelName": "XianyuMIS_v2.4.2"
+        }
+      ],
+      "wdl": {
+        "version": "1.21.4",
+        "optimized": true
+      }
+    },
+    {
+      "id": "1465533551226388626",
+      "name": "MIS010_XianyuMIS_v2.4.2.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1465532773925126371/1465533551226388626/mis_v2.4.2_XianyuMISv2.4.2.litematic?ex=697973fa&is=6978227a&hm=18bc9d36ce6d562041e2034b8f5258f04b4813e1dacc979ae798282e2c583915&",
+      "timestamp": 1769480827121,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 64649,
+      "canDownload": true,
+      "path": "attachments/MIS010_XianyuMIS_v2.4.2.litematic",
+      "litematic": {
+        "size": "48x29x45",
+        "version": "1.21.4"
+      }
+    },
+    {
+      "id": "1465533551528251559",
+      "name": "MIS010_XianyuMIS_v2_deco_with_crane.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1465532773925126371/1465533551528251559/XianyuMIS_v2_deco_with_crane.litematic?ex=697973fa&is=6978227a&hm=98564bb1724d02bf7988f21beb978abbfc1ee051a8bc0376add9d1559b35c275&",
+      "timestamp": 1769480827121,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Includes decorations",
+      "size": 15353,
+      "canDownload": true,
+      "path": "attachments/MIS010_XianyuMIS_v2_deco_with_crane.litematic",
+      "litematic": {
+        "size": "66x56x58",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Cart-based MIS storage for intermediate players. Pre-made decoration available.",
+    "features": [
+      {
+        "title": "42 MIS categories",
+        "isOrdered": false,
+        "items": [
+          "Whitelisters are easily accessible to the player."
+        ]
+      },
+      {
+        "title": "41 bulk items.",
+        "isOrdered": false,
+        "items": [
+          "Loads loose bulk items into boxes at 2x hopperspeed, box sorter runs at 24gt."
+        ]
+      },
+      "Unstackable sorter.",
+      {
+        "title": "Safety features:",
+        "isOrdered": false,
+        "items": [
+          "If the system runs too low on blockers, it will sound an alarm and stop the system.",
+          "Emergency shut off lever that stops the system; important to note that this lever should not be treated as a pause because it leads to items despawning.",
+          "Indicator lights including overflow indicators and an indicator for the unstackable sorter needing more arrows."
+        ]
+      },
+      "1813 hoppers"
+    ],
+    "notes": "Most inventories have signs indicating how to prefill them.",
+    "credits": "- [Macrowind](<https://space.bilibili.com/339826053>) - Box sorter slice, design help.\n- [Worldburst](<https://space.bilibili.com/508723197>) - Design help, CMP provider.\n- [yumihan](<https://www.youtube.com/@yumihaTwo/videos>) - Decoration design.\n- [Ichika](<https://space.bilibili.com/329820579>) - Fixing input problem.\n- <@513900971219353600> - Item recycling idea.\n- <@656864003242328064> - Blocker return structure, box sorter keygen.\n- <@381396930212921355> - Unstackable sorter.\n- <@551464150925180928>, [血小板](<https://space.bilibili.com/3493263910635905>) - Cart-based box unloader.\n- [Mercury](<https://space.bilibili.com/18525909>) - Chunk loader.\n- <@114896993654013958> - [Box display](https://discord.com/channels/748542142347083868/1387442314724642979/1387442322672717834).\n- [半筝half_kite](<https://space.bilibili.com/329820579>): Simple empty box crafter.\n- <@719903397171560559>, <@1423911333883154452>, <@656864003242328064> - isFull box check.\n- <@1154811326540038185> - item layout.\n- <@660633169191632908> - 2x loader and testing."
+  },
+  "styles": {
+    "credits": {
+      "depth": 2,
+      "headerText": "Credits"
+    }
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "MIS",
+      "id": "1454753725091676293",
+      "url": "https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954",
+      "matches": [
+        "MIS"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "2x",
+      "id": "1454753562033651876",
+      "url": "https://discord.com/channels/1375556143186837695/1454753562033651876/1454753563258519584",
+      "matches": [
+        "2x"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "hopperspeed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopperspeed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Sorter",
+      "id": "1454753516269736090",
+      "url": "https://discord.com/channels/1375556143186837695/1454753516269736090/1454753518383792221",
+      "matches": [
+        "box sorter",
+        "Box sorter"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "gt",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Unstackable sorter",
+      "id": "1454754837379022858",
+      "url": "https://discord.com/channels/1375556143186837695/1454754837379022858/1454754839224516712",
+      "matches": [
+        "Unstackable sorter",
+        "unstackable sorter"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "513900971219353600",
+        "username": "scorpio03",
+        "iconURL": "https://cdn.discordapp.com/avatars/513900971219353600/b818a66fdcc6ad225429fc2bb4d9db1d.webp",
+        "displayName": "Scorpio"
+      },
+      "matches": [
+        "<@513900971219353600>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "656864003242328064",
+        "username": "acaciachan",
+        "iconURL": "https://cdn.discordapp.com/avatars/656864003242328064/65e1c203d9ea0af6509f0754122b45a2.webp",
+        "displayName": "金合欢酱喵~ (acaciachan)"
+      },
+      "matches": [
+        "<@656864003242328064>"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Keygen",
+      "id": "1454753674298396785",
+      "url": "https://discord.com/channels/1375556143186837695/1454753674298396785/1454753674898440377",
+      "matches": [
+        "keygen"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "381396930212921355",
+        "username": "commandleo",
+        "iconURL": "https://cdn.discordapp.com/avatars/381396930212921355/cb1dcc76d3f6a30dddc49e6d9e96681a.webp",
+        "displayName": "CommandLeo"
+      },
+      "matches": [
+        "<@381396930212921355>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "551464150925180928",
+        "username": "_javierrubik33",
+        "iconURL": "https://cdn.discordapp.com/avatars/551464150925180928/6348ffe8aa6bb90856447c503288827b.webp",
+        "displayName": "javierrubik33"
+      },
+      "matches": [
+        "<@551464150925180928>"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Unloader",
+      "id": "1454754824758493380",
+      "url": "https://discord.com/channels/1375556143186837695/1454754824758493380/1454754825345433803",
+      "matches": [
+        "unloader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Chunk loader",
+      "id": "1457055322647695542",
+      "url": "https://discord.com/channels/1375556143186837695/1457055322647695542/1457055324426080287",
+      "matches": [
+        "Chunk loader"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-external",
+        "id": "114896993654013958",
+        "username": "datnerd",
+        "iconURL": "https://cdn.discordapp.com/avatars/114896993654013958/d4cec89664bba88100de2df0c32c44eb.webp"
+      },
+      "matches": [
+        "<@114896993654013958>"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/1387442314724642979/1387442322672717834",
+      "server": "748542142347083868",
+      "channel": "1387442314724642979",
+      "message": "1387442322672717834",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/1387442314724642979/1387442322672717834"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "719903397171560559",
+        "username": "pyraleftt",
+        "iconURL": "https://cdn.discordapp.com/avatars/719903397171560559/7ba08c1c9ee4d550dae6dd373cf9fabe.webp",
+        "displayName": "PyraLeft"
+      },
+      "matches": [
+        "<@719903397171560559>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-external",
+        "id": "1423911333883154452",
+        "username": "maed8_",
+        "iconURL": "https://cdn.discordapp.com/avatars/1423911333883154452/edfa767820e8e2b35ab2cc2a03c7ca32.webp"
+      },
+      "matches": [
+        "<@1423911333883154452>"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "IsFull",
+      "id": "1454753607604768770",
+      "url": "https://discord.com/channels/1375556143186837695/1454753607604768770/1454753609131495434",
+      "matches": [
+        "isFull"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "1154811326540038185",
+        "username": "capybruhh",
+        "iconURL": "https://cdn.discordapp.com/avatars/1154811326540038185/69c37494ea59a6a85f22cf992839ef2e.webp",
+        "displayName": "Capybruhh"
+      },
+      "matches": [
+        "<@1154811326540038185>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "660633169191632908",
+        "username": "etikle",
+        "iconURL": "https://cdn.discordapp.com/avatars/660633169191632908/552443236bae5d574b5b1aec2694b58f.webp",
+        "displayName": "Passionate Storage Techer 69"
+      },
+      "matches": [
+        "<@660633169191632908>"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1465599822886076510",
+    "forumId": "1375566804910604349",
+    "continuingMessageIds": [
+      "1465599827361403085",
+      "1465599828150194325",
+      "1465599828665962691"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1465599822886076510",
+    "uploadMessageId": "1465599815919472823"
+  },
+  "archivedAt": 1769481006103,
+  "updatedAt": 1769496618630,
+  "num_comments": 0
+}
