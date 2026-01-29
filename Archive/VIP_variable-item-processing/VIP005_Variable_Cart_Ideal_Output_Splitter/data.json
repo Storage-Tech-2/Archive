@@ -129,7 +129,7 @@
   "references": [
     {
       "type": "dictionaryTerm",
-      "term": "cycvar",
+      "term": "Cyclical variable sorter",
       "id": "1460469722234749123",
       "url": "https://discord.com/channels/1375556143186837695/1460469722234749123/1460469724369387550",
       "matches": [
@@ -138,7 +138,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "minimal partial boxes",
+      "term": "Ideal box output",
       "id": "1460470569966374956",
       "url": "https://discord.com/channels/1375556143186837695/1460470569966374956/1460470570809557257",
       "matches": [
@@ -148,7 +148,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "8x",
+      "term": "Hopper speed",
       "id": "1454937395693879409",
       "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
       "matches": [

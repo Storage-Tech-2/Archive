@@ -157,7 +157,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "UI",
+      "term": "User interface",
       "id": "1454754844316274861",
       "url": "https://discord.com/channels/1375556143186837695/1454754844316274861/1454754845033627671",
       "matches": [
@@ -184,7 +184,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "chunk load",
+      "term": "Chunk loader",
       "id": "1457055322647695542",
       "url": "https://discord.com/channels/1375556143186837695/1457055322647695542/1457055324426080287",
       "matches": [
@@ -272,7 +272,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "CUD",
+      "term": "Comparator Update Detector",
       "id": "1454753535919915098",
       "url": "https://discord.com/channels/1375556143186837695/1454753535919915098/1454753536629018626",
       "matches": [
@@ -316,7 +316,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "MIS",
+      "term": "Multi Item Sorter",
       "id": "1454753725091676293",
       "url": "https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954",
       "matches": [
@@ -415,7 +415,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "6x",
+      "term": "Hopper speed",
       "id": "1454937395693879409",
       "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
       "matches": [
@@ -448,7 +448,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "4D align",
+      "term": "Perfect aligner",
       "id": "1454753764606083180",
       "url": "https://discord.com/channels/1375556143186837695/1454753764606083180/1454753765365256286",
       "matches": [

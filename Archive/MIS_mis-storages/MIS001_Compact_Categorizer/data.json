@@ -219,7 +219,7 @@
   "references": [
     {
       "type": "dictionaryTerm",
-      "term": "MIS",
+      "term": "Multi Item Sorter",
       "id": "1454753725091676293",
       "url": "https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954",
       "matches": [
@@ -228,7 +228,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "hopperspeed",
+      "term": "Hopper speed",
       "id": "1454937395693879409",
       "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
       "matches": [
@@ -237,7 +237,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "hopperlocked",
+      "term": "Hopperlocking",
       "id": "1454753660625227895",
       "url": "https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422",
       "matches": [
@@ -246,7 +246,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "chunk load",
+      "term": "Chunk loader",
       "id": "1457055322647695542",
       "url": "https://discord.com/channels/1375556143186837695/1457055322647695542/1457055324426080287",
       "matches": [

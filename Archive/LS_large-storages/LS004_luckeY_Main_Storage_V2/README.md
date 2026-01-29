@@ -39,7 +39,7 @@ Bulk Hall: ⁠https://discord.com/channels/748542142347083868/107632295909604147
 MIS: ⁠https://discord.com/channels/748542142347083868/749136637606363167/1086235129053204481 (in [Storage Tech](https://discord.gg/JufJ6uf))
 Copper Golem Sorter: concept by RaPsCaLLioN
 Unstackable sorter: ⁠https://discord.com/channels/748542142347083868/1096104601876430880/1239255622994759861 (in [Storage Tech](https://discord.gg/JufJ6uf))
-Furnace array: [SP005](../../../Archive/SP_peripherals/SP005_Entityless_50_Furnace_Array)
+Furnace array: [SP005 Entityless 50 Furnace Array](https://discord.com/channels/1375556143186837695/1457542579385139310)
 Brewer: ⁠https://discord.com/channels/748542142347083868/748547221338849330/1432878386744659980 (in [Storage Tech](https://discord.gg/JufJ6uf))
 Crafting station: ⁠https://discord.com/channels/748542142347083868/749137321710059542/1112115542518673428 (in [Storage Tech](https://discord.gg/JufJ6uf))
 Shulker crafter: ⁠https://discord.com/channels/856232076252282890/1304497540481290410/1304497540481290410 (in [Autocrafting Archive](https://discord.gg/guZdbQ9KQe))

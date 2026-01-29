@@ -12,7 +12,7 @@
   "references": [
     {
       "type": "dictionaryTerm",
-      "term": "tick",
+      "term": "Gametick",
       "id": "1454753634435858666",
       "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
       "matches": [
@@ -22,7 +22,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "Block Entity",
+      "term": "Tile Entity",
       "id": "1454754788473307200",
       "url": "https://discord.com/channels/1375556143186837695/1454754788473307200/1454754789320560680",
       "matches": [

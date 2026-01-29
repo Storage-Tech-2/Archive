@@ -103,7 +103,7 @@
   "references": [
     {
       "type": "dictionaryTerm",
-      "term": "hopperspeed",
+      "term": "Hopper speed",
       "id": "1454937395693879409",
       "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
       "matches": [
@@ -115,9 +115,9 @@
       "user": {
         "type": "discord-in-guild",
         "id": "531601171211878431",
-        "displayName": "RaPsCaLLioN1138",
         "username": "rapscallion1138",
-        "iconURL": "https://cdn.discordapp.com/avatars/531601171211878431/8db107ef61024878a05baab3a798d7d5.webp"
+        "iconURL": "https://cdn.discordapp.com/avatars/531601171211878431/8db107ef61024878a05baab3a798d7d5.webp",
+        "displayName": "RaPsCaLLioN1138"
       },
       "matches": [
         "<@531601171211878431>"

@@ -7,7 +7,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1456379833478021344)
 
-This cart yeeter yeets stacked carts and perfectly aligns the item output such that they merge into full stacks perfectly. Works similar to [CT001](../../../Archive/CT_cart-transport/CT001_Perfect_Merge_Cart_Yeeter) but is compatible with stacked carts.
+This cart yeeter yeets stacked carts and perfectly aligns the item output such that they merge into full stacks perfectly. Works similar to [CT001 Perfect Merge Cart Yeeter](https://discord.com/channels/1375556143186837695/1450269963242705040) but is compatible with stacked carts.
 ## Features
 - Stacked cart compatible
 - Outputs cart's contents in item entity form, aligned in all axis + time.

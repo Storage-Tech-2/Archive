@@ -115,7 +115,7 @@
   "references": [
     {
       "type": "dictionaryTerm",
-      "term": "6x",
+      "term": "Hopper speed",
       "id": "1454937395693879409",
       "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
       "matches": [
@@ -125,7 +125,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "2x",
+      "term": "Dropper speed",
       "id": "1454753562033651876",
       "url": "https://discord.com/channels/1375556143186837695/1454753562033651876/1454753563258519584",
       "matches": [
@@ -143,7 +143,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "AB tileable",
+      "term": "A/B Tiling",
       "id": "1454753732293033984",
       "url": "https://discord.com/channels/1375556143186837695/1454753732293033984/1454753733035687988",
       "matches": [
@@ -170,7 +170,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "SSI",
+      "term": "Signal Strength Isolated",
       "id": "1455820021581217843",
       "url": "https://discord.com/channels/1375556143186837695/1455820021581217843/1455820022256500874",
       "matches": [

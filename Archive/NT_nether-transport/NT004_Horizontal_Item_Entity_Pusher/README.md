@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1451624731391295743)
 
-20 bps item pusher. Faster, less block types, less total blocks than [NT001](../../../Archive/NT_nether-transport/NT001_Simple_Dropdown_Item_Pusher)
+20 bps item pusher. Faster, less block types, less total blocks than [NT001 Simple Dropdown Item Pusher](https://discord.com/channels/1375556143186837695/1388318627815493723)
 ## Features
 - Nether compatible
 - 20 blocks per second

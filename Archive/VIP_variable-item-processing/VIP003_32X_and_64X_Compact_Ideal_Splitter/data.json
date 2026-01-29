@@ -235,7 +235,7 @@
   "references": [
     {
       "type": "dictionaryTerm",
-      "term": "minimum partial boxes",
+      "term": "Ideal box output",
       "id": "1460470569966374956",
       "url": "https://discord.com/channels/1375556143186837695/1460470569966374956/1460470570809557257",
       "matches": [
@@ -244,7 +244,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "hopperspeed",
+      "term": "Hopper speed",
       "id": "1454937395693879409",
       "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
       "matches": [
@@ -271,7 +271,7 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "splitter",
+      "term": "Box splitter",
       "id": "1454754768088989789",
       "url": "https://discord.com/channels/1375556143186837695/1454754768088989789/1454754769674567868",
       "matches": [
@@ -290,7 +290,7 @@
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1388318356377043076",
     "attachmentMessageId": "1388179342869401601",
-    "uploadMessageId": "1465578257708486760"
+    "uploadMessageId": "1466325805796954298"
   },
   "archivedAt": 1766292406993,
   "updatedAt": 1769267503821,

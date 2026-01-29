@@ -18,4 +18,3 @@ PDF includes:
 
 ## Resources
 - [RD004_Cycvar_Documentation.pdf](attachments/RD004_Cycvar_Documentation.pdf): application/pdf
-  - Added by tisunfortunate at 1/19/2026, 6:42:34 PM

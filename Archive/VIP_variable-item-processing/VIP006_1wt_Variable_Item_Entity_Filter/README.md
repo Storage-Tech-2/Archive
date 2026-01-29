@@ -12,7 +12,7 @@
 A 1 wide tileable variable filter for item entities. Each slice of this device is capable of automatically assigning its own filter to separate out item entities of that type every 10gt.
 ## Features
 - One item entity per 10gt throughput (51.2x hopperspeed)
-- Expandable (up to ~200 blocks, 3000 if you swap out middle blue ice with packed ice as in [WT003](../../../Archive/WT_water-transport/WT003_10BPS_Waterstream))
+- Expandable (up to ~200 blocks, 3000 if you swap out middle blue ice with packed ice as in [WT003 10BPS Waterstream](https://discord.com/channels/1375556143186837695/1440940601724899448))
 ## Notes
 Uses a 10 block per second waterstream so the item entity distribution is synced with the filter test item. The filter test item travels separately in droppers after being take out from the item entity using a hoppercart.
 ## Instructions

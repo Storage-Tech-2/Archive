@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1456717348068134943)
 
-A waterstream that moves items at a rate of 10 blocks per second, allows for timing redstone signals with item movement. This design is closer to 10BPS than [WT003](../../../Archive/WT_water-transport/WT003_10BPS_Waterstream), for longer streams.
+A waterstream that moves items at a rate of 10 blocks per second, allows for timing redstone signals with item movement. This design is closer to 10BPS than [WT003 10BPS Waterstream](https://discord.com/channels/1375556143186837695/1440940601724899448), for longer streams.
 ## Features
 - Moves items at 10 blocks per second
 - Allows for timing redstone signals with item movement
