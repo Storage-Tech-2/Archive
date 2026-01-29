@@ -1,0 +1,231 @@
+{
+  "id": "1386458263301918762",
+  "name": "YAMIS Multi Item Storage System",
+  "code": "MIS002",
+  "reservedCodes": [
+    "MIS002"
+  ],
+  "pastPostThreadIds": [
+    "1466456802182037658"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "660633169191632908",
+      "username": "etikle",
+      "iconURL": "https://cdn.discordapp.com/avatars/660633169191632908/552443236bae5d574b5b1aec2694b58f.webp",
+      "displayName": "Passionate Storage Techer 69"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "727730797049806898",
+      "username": "sskyzy",
+      "iconURL": "https://cdn.discordapp.com/avatars/727730797049806898/00d0b08b860ed57fbd2c228943b0de07.webp",
+      "displayName": "skyzy"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "531601171211878431",
+      "username": "rapscallion1138",
+      "iconURL": "https://cdn.discordapp.com/avatars/531601171211878431/8db107ef61024878a05baab3a798d7d5.webp",
+      "displayName": "RaPsCaLLioN1138"
+    },
+    {
+      "type": "discord-external",
+      "id": "319513337941721089",
+      "username": "inspectortalon",
+      "iconURL": "https://cdn.discordapp.com/avatars/319513337941721089/edec0da88a70e9697b6b43b4a2d740e3.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "381396930212921355",
+      "displayName": "CommandLeo",
+      "username": "commandleo",
+      "iconURL": "https://cdn.discordapp.com/avatars/381396930212921355/cb1dcc76d3f6a30dddc49e6d9e96681a.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "719903397171560559",
+      "username": "pyraleftt",
+      "iconURL": "https://cdn.discordapp.com/avatars/719903397171560559/7ba08c1c9ee4d550dae6dd373cf9fabe.webp",
+      "displayName": "PyraLeft"
+    },
+    {
+      "type": "discord-external",
+      "id": "114896993654013958",
+      "username": "datnerd",
+      "iconURL": "https://cdn.discordapp.com/avatars/114896993654013958/d4cec89664bba88100de2df0c32c44eb.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "611466971371929602",
+      "username": "coltzy",
+      "iconURL": "https://cdn.discordapp.com/avatars/611466971371929602/4d979dd9c4aad8c33d83992ba4003ce0.webp",
+      "displayName": "Coltzy"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [],
+  "images": [
+    {
+      "id": "1386458265897930975",
+      "name": "area_render_101_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386458263301918762/1386458265897930975/area_render_101_.png?ex=6859c761&is=685875e1&hm=1a7da34dbe6509a18a684fa9b179eabe987d0936e7d6db4d8861614b0dcf2061&",
+      "description": "",
+      "canDownload": true,
+      "width": 800,
+      "height": 454,
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1750627809000,
+      "path": "images/area_render_101_.png"
+    },
+    {
+      "id": "1386458266325745734",
+      "name": "uiimage.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386458263301918762/1386458266325745734/uiimage.png?ex=6859c761&is=685875e1&hm=835a36cedb2aa80e9123e9c7cdec4d64fc2eb127eb05d1dfa4458c4328c22ffa&",
+      "description": "",
+      "canDownload": true,
+      "width": 800,
+      "height": 450,
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1750627809000,
+      "path": "images/uiimage.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386458266627870853",
+      "name": "MIS002_YAMIS_V1.01.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386458263301918762/1386458266627870853/YAMIS_V1.01.litematic?ex=6859c761&is=685875e1&hm=e73a49ac4774cb1740f3f0f791f32774bcf52d45e79461e3b9a48d4286e87925&",
+      "description": "",
+      "canDownload": true,
+      "litematic": {
+        "size": "29x21x49",
+        "version": "1.20.1"
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1750627809000,
+      "path": "attachments/MIS002_YAMIS_V1.01.litematic"
+    },
+    {
+      "id": "1386458266959089717",
+      "name": "MIS002_YAMIS_V1.01.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1386458263301918762/1386458266959089717/YAMIS_V1.01.zip?ex=6859c761&is=685875e1&hm=eccf08bd013589b8b15cf5f673284e0694627a613fc052fbd166c71acf406400&",
+      "description": "",
+      "canDownload": true,
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1750627809000,
+      "path": "attachments/MIS002_YAMIS_V1.01.zip"
+    }
+  ],
+  "records": {
+    "description": "A simple MIS-based storage system using NoisyMIS and a small bulk.",
+    "features": [
+      "1182 hoppers, 100% locked*",
+      "32 MIS Categories, 64 Bulk Items",
+      "Sorts at just under hopperspeed",
+      "4.5dc per category MIS capacity",
+      "263k per item type bulk capacity",
+      "Callable box loaders",
+      "Automated empty box distribution",
+      "Only requires 1 chunkloader with correct chunk alignment",
+      "Detailed status output lamps",
+      "Pause feature"
+    ],
+    "considerations": [
+      "Chunkloader does not work on specifically 1.21.5"
+    ],
+    "notes": "Make sure the black rectangle at the bottom is entirely in one chunk. WDL includes both a version with the item layout, and a version with no filters set. The schematic only has the one with the item layout. Direct questions to https://discord.com/channels/748542142347083868/1275462763791126558"
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Multi Item Sorter",
+      "id": "1454753725091676293",
+      "url": "https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954",
+      "matches": [
+        "MIS"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopper speed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopperspeed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Schematic",
+      "id": "1454811558009110704",
+      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
+      "matches": [
+        "schematic"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/1275462763791126558",
+      "server": "748542142347083868",
+      "channel": "1275462763791126558",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/1275462763791126558"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1466456802182037658",
+    "forumId": "1375566804910604349",
+    "continuingMessageIds": [
+      "1466456805835280395",
+      "1466456806699302923"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1466456802182037658",
+    "uploadMessageId": "1466456794531496016"
+  },
+  "archivedAt": 1769700936490,
+  "updatedAt": 1769700936490,
+  "num_comments": 0
+}

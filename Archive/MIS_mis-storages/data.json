@@ -50,6 +50,11 @@
       "id": "1465532773925126371",
       "code": "MIS010",
       "path": "MIS010_XianyuMIS_V2"
+    },
+    {
+      "id": "1386458263301918762",
+      "code": "MIS002",
+      "path": "MIS002_YAMIS_Multi_Item_Storage_System"
     }
   ]
 }
