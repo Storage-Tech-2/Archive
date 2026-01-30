@@ -87,11 +87,9 @@
   "records": {
     "description": "Given an item entity stream input, this device will load them into single-type boxes at high speeds. It uses variable cart filters to ensure each box contains only a single type.\n\nThe filter is based on the first item type that comes through. When that item stops coming through, the filter will automatically de-assign and the loaders will be reset, so it can assign to a new item type.",
     "features": [
-      "automatically assigns the filter based on the first item type that comes through",
-      "automatically de-assigns filter when that item stops coming through",
-      "loaders will be reset, so it can assign to a new item type",
-      "cart filter can handle up to 576k/hr",
-      "attached schematic has enough loaders to load 576k/hr"
+      "Can handle up to 576k items/hr, but is expandable to higher speeds (add more loaders).",
+      "Uses variable cart filters to filter items to match the first item type that comes through",
+      "Automatically de-assigns filter, and resets loaders when it can't find the filtered item anymore."
     ],
     "considerations": [
       "Can only load one item type at a time",
@@ -121,15 +119,6 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "Schematic",
-      "id": "1454811558009110704",
-      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
-      "matches": [
-        "schematic"
-      ]
-    },
-    {
-      "type": "dictionaryTerm",
       "term": "Directional",
       "id": "1454753554815389834",
       "url": "https://discord.com/channels/1375556143186837695/1454753554815389834/1454753555566166029",
@@ -146,9 +135,9 @@
       "1466911130319589580"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1466911125688946759",
-    "uploadMessageId": "1466911122639552688"
+    "uploadMessageId": "1466911637519732859"
   },
   "archivedAt": 1769809260880,
-  "updatedAt": 1769809260880,
+  "updatedAt": 1769809387442,
   "num_comments": 0
 }

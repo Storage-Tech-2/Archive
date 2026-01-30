@@ -13,11 +13,9 @@ Given an item entity stream input, this device will load them into single-type b
 
 The filter is based on the first item type that comes through. When that item stops coming through, the filter will automatically de-assign and the loaders will be reset, so it can assign to a new item type.
 ## Features
-- automatically assigns the filter based on the first item type that comes through
-- automatically de-assigns filter when that item stops coming through
-- loaders will be reset, so it can assign to a new item type
-- cart filter can handle up to 576k/hr
-- attached schematic has enough loaders to load 576k/hr
+- Can handle up to 576k items/hr, but is expandable to higher speeds (add more loaders).
+- Uses variable cart filters to filter items to match the first item type that comes through
+- Automatically de-assigns filter, and resets loaders when it can't find the filtered item anymore.
 ## Considerations
 - Can only load one item type at a time
 - Directional, do not rotate or it will break
