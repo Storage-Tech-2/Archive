@@ -1,0 +1,321 @@
+{
+  "id": "1387153647791636642",
+  "name": "General Quarry Storage",
+  "code": "FS003",
+  "reservedCodes": [
+    "SS003",
+    "FS003"
+  ],
+  "pastPostThreadIds": [
+    "1466811056113451237"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "323515840236486659",
+      "displayName": "KikuGie",
+      "username": "kikugie",
+      "iconURL": "https://cdn.discordapp.com/avatars/323515840236486659/a_208c0a59687a910fed42fe4f3f2caee6.gif"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "name": "Functional",
+      "id": "1465491884972703897"
+    }
+  ],
+  "images": [
+    {
+      "id": "1387153649096196106",
+      "name": "area_render_7_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387153647791636642/1387153649096196106/area_render_7_.png?ex=685c4f02&is=685afd82&hm=172a79b4bddca4c7db47d68da734a6eab936b3d17bd41e1c649da7ff030ac3af&",
+      "description": "",
+      "canDownload": true,
+      "width": 727,
+      "height": 800,
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1750793601000,
+      "path": "images/area_render_7_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1387153649679208478",
+      "name": "FS003_GQS-0.8.0-stacksep.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387153647791636642/1387153649679208478/GQS-0.8.0-stacksep.litematic?ex=685c4f02&is=685afd82&hm=1be014168ee5b6150f4be7dbac6d2286d9f646df684efc0a76bf6464c0b0971f&",
+      "description": "",
+      "canDownload": true,
+      "litematic": {
+        "size": "43x18x11",
+        "version": "1.20.2"
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1750793601000,
+      "path": "attachments/FS003_GQS-0.8.0-stacksep.litematic"
+    },
+    {
+      "id": "1387153650001903616",
+      "name": "FS003_GQS-0.8.0-storage.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387153647791636642/1387153650001903616/GQS-0.8.0-storage.litematic?ex=685c4f02&is=685afd82&hm=af28df73345ddc3ff623acea79c570b905b2d4f4e59f13227af2f154fa2a4ee0&",
+      "description": "",
+      "canDownload": true,
+      "litematic": {
+        "size": "53x45x23",
+        "version": "1.20.2"
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1750793601000,
+      "path": "attachments/FS003_GQS-0.8.0-storage.litematic"
+    }
+  ],
+  "records": {
+    "description": "Sorts and stores items produced by a quarry",
+    "features": [
+      "Comes in 3 schematics: stack separation sorter, sorter + deepslate loaders, sorter + storage.",
+      "Sorter and storage are configured for an average mesa quarry in 1.18+ using VDQ v2.",
+      "Sorter can handle a 500 wide quarry (wider as well, but that hasn't been tested)."
+    ],
+    "notes": [
+      "World download also includes instructions for running quarry with the sorter, please read those.",
+      "Note that it doesn't collect all produced deepslate, only up to 8mil.",
+      "Storage is configured to handle a 500x1500 area.",
+      "With the schematics an example setup is attached, which includes a quarry, nether transportation line and the storage."
+    ],
+    "sourced components": [
+      "Chunk loader: https://discord.com/channels/594920796867133446/594968639321538560/917049843711631400 (Pfeffabeissa)",
+      "Cart-yeeting filter: https://discord.com/channels/748542142347083868/748578407377272843/1025134782524436590 (Hexatron) (modified by me, one posted by hex is directional and can skip items in some conditions)",
+      "Stack separator: <https://youtu.be/ypuFkR_3M7M> (Rapscallion)",
+      "Stack filter: https://discord.com/channels/748542142347083868/749136547755851857/1092571218982477824 (Rapscallion & Glotz)",
+      "Stacksep loaders: https://discord.com/channels/748542142347083868/749135718701465641/991104818951241828 + 6x one (Data & Floppy)",
+      "Deepslate loaders: https://discord.com/channels/748542142347083868/749135718701465641/1065569000899223572 (Philgoodinator)",
+      "Unsorted loader: https://discord.com/channels/748542142347083868/749135718701465641/1048747806489321594 (Acaciachan)",
+      "Box sorter: https://discord.com/channels/748542142347083868/749136459021287485/1098895594992455732 (Acaciachan)",
+      "Bulks: https://discord.com/channels/748542142347083868/749137424684285992/1125175489338802268 4mil, https://discord.com/channels/748542142347083868/749137424684285992/1125174111539298375 1.2mil (me)",
+      "Crafting station: https://discord.com/channels/748542142347083868/749137321710059542/1112115542518673428 (Sauron)"
+    ]
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Schematic",
+      "id": "1454811558009110704",
+      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
+      "matches": [
+        "schematic"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Chunk loader",
+      "id": "1457055322647695542",
+      "url": "https://discord.com/channels/1375556143186837695/1457055322647695542/1457055324426080287",
+      "matches": [
+        "Chunk loader"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/594920796867133446/594968639321538560/917049843711631400",
+      "server": "594920796867133446",
+      "channel": "594968639321538560",
+      "message": "917049843711631400",
+      "matches": [
+        "https://discord.com/channels/594920796867133446/594968639321538560/917049843711631400"
+      ],
+      "serverName": "Tech MC Archive",
+      "serverJoinURL": "https://discord.gg/Bh7Kasf"
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/748578407377272843/1025134782524436590",
+      "server": "748542142347083868",
+      "channel": "748578407377272843",
+      "message": "1025134782524436590",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/748578407377272843/1025134782524436590"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hexadecimal",
+      "id": "1454753655063580723",
+      "url": "https://discord.com/channels/1375556143186837695/1454753655063580723/1454753656326062249",
+      "matches": [
+        "hex"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Directional",
+      "id": "1454753554815389834",
+      "url": "https://discord.com/channels/1375556143186837695/1454753554815389834/1454753555566166029",
+      "matches": [
+        "directional"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/749136547755851857/1092571218982477824",
+      "server": "748542142347083868",
+      "channel": "749136547755851857",
+      "message": "1092571218982477824",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/749136547755851857/1092571218982477824"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/749135718701465641/991104818951241828",
+      "server": "748542142347083868",
+      "channel": "749135718701465641",
+      "message": "991104818951241828",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/749135718701465641/991104818951241828"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopper speed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "6x"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/749135718701465641/1065569000899223572",
+      "server": "748542142347083868",
+      "channel": "749135718701465641",
+      "message": "1065569000899223572",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/749135718701465641/1065569000899223572"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/749135718701465641/1048747806489321594",
+      "server": "748542142347083868",
+      "channel": "749135718701465641",
+      "message": "1048747806489321594",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/749135718701465641/1048747806489321594"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Sorter",
+      "id": "1454753516269736090",
+      "url": "https://discord.com/channels/1375556143186837695/1454753516269736090/1454753518383792221",
+      "matches": [
+        "Box sorter"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/749136459021287485/1098895594992455732",
+      "server": "748542142347083868",
+      "channel": "749136459021287485",
+      "message": "1098895594992455732",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/749136459021287485/1098895594992455732"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/749137424684285992/1125175489338802268",
+      "server": "748542142347083868",
+      "channel": "749137424684285992",
+      "message": "1125175489338802268",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/749137424684285992/1125175489338802268"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/749137424684285992/1125174111539298375",
+      "server": "748542142347083868",
+      "channel": "749137424684285992",
+      "message": "1125174111539298375",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/749137424684285992/1125174111539298375"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/749137321710059542/1112115542518673428",
+      "server": "748542142347083868",
+      "channel": "749137321710059542",
+      "message": "1112115542518673428",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/749137321710059542/1112115542518673428"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1466811056113451237",
+    "forumId": "1386242904141463603",
+    "continuingMessageIds": [
+      "1466811061083836500",
+      "1466811061616246928",
+      "1466811062455242886"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1466811056113451237",
+    "uploadMessageId": "1466811046801965149"
+  },
+  "archivedAt": 1769785399262,
+  "updatedAt": 1769785399262,
+  "num_comments": 0
+}
