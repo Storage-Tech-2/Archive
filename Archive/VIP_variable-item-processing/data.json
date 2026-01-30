@@ -4,7 +4,7 @@
   "code": "VIP",
   "category": "Advanced Tech",
   "description": "Variable item sorting",
-  "currentCodeId": 6,
+  "currentCodeId": 7,
   "entries": [
     {
       "id": "1386431947928244496",
@@ -35,6 +35,11 @@
       "id": "1450280312646140135",
       "code": "VIP006",
       "path": "VIP006_1wt_Variable_Item_Entity_Filter"
+    },
+    {
+      "id": "1466410944002265149",
+      "code": "VIP007",
+      "path": "VIP007_Variable_Stack_Separation_Hot_Switchable_Sorter__8x_Speed_V2_1.19"
     }
   ]
 }

@@ -1,0 +1,172 @@
+{
+  "id": "1466410944002265149",
+  "name": "Variable Stack Separation Hot Switchable Sorter _8x Speed V2 (1.19+)",
+  "code": "VIP007",
+  "reservedCodes": [
+    "VIP007"
+  ],
+  "pastPostThreadIds": [
+    "1466609547497050124"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1017768780895633418",
+      "username": "raffel971023",
+      "displayName": "[          ]",
+      "iconURL": "https://cdn.discordapp.com/avatars/1017768780895633418/238aca3df1e905b98183083815ed84ce.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "183881970294587392",
+      "username": "sodoren",
+      "displayName": "首都人 SODOREN",
+      "iconURL": "https://cdn.discordapp.com/avatars/183881970294587392/a6c1688eb0777bd84ad9ac12d5d1b234.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465487719571525919",
+      "name": "Untested"
+    }
+  ],
+  "images": [
+    {
+      "id": "1466410944904302602",
+      "name": "8x.png",
+      "contentType": "image/jpeg",
+      "url": "https://cdn.discordapp.com/attachments/1466410944002265149/1466410944904302602/8x.jpg?ex=697ca51d&is=697b539d&hm=a8ba6b91ec0cedae9d076af39758fec457a16364bfac2fefb30cfeaea89e9a06&",
+      "timestamp": 1769690013648,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1017768780895633418",
+        "username": "raffel971023",
+        "displayName": "[          ]",
+        "iconURL": "https://cdn.discordapp.com/avatars/1017768780895633418/238aca3df1e905b98183083815ed84ce.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "8x",
+      "size": 644647,
+      "canDownload": true,
+      "width": 1600,
+      "height": 848,
+      "path": "images/8x.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1466412429964476639",
+      "name": "VIP007_Variable_Stack_Separation_Hot_Switchable_Sorter_8x_SpeedV2_by_raffel.litematic",
+      "url": "https://cdn.discordapp.com/attachments/1466410944002265149/1466412429964476639/Variable_Stack_Separation_Hot_Switchable_Sorter_8x_SpeedV2_by_raffel.litematic?ex=697ca67f&is=697b54ff&hm=e461a29c3387232e19ebb8623ad0d0f3dfb57cfada82136faaa66b1bdf566a57&",
+      "timestamp": 1769690366549,
+      "author": {
+        "type": "discord-external",
+        "id": "1017768780895633418",
+        "username": "raffel971023",
+        "iconURL": "https://cdn.discordapp.com/avatars/1017768780895633418/238aca3df1e905b98183083815ed84ce.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "path": "attachments/VIP007_Variable_Stack_Separation_Hot_Switchable_Sorter_8x_SpeedV2_by_raffel.litematic",
+      "size": 12377,
+      "litematic": {
+        "size": "15x18x33",
+        "version": "1.20.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "An 8x-speed variable stack separation sorter with hot-switchable box loaders, designed for high-throughput item processing.",
+    "features": [
+      "Compact cuboid exterior design",
+      "Pure shulker box output",
+      "Hopper-locked when powered off",
+      "Timed item refreshing system",
+      "Single-slice hot switching",
+      "Emergency stop (EMS) switch",
+      "8x speed full-detection box loading"
+    ],
+    "considerations": [
+      "Processing speed may decrease when handling mixed or excessive item input",
+      "Not ideal box output, can output multiple partial boxes."
+    ],
+    "compatibility": "1.19+. There are reports of it breaking in some 1.21.x versions due to bubble column changes.",
+    "instructions": [
+      "Insert items through the input",
+      "Single-type shulker boxes will be output",
+      "Pull down the EMS lever to forcibly stop the machine and eject remaining items"
+    ]
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopper speed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "8x"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopperlocking",
+      "id": "1454753660625227895",
+      "url": "https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422",
+      "matches": [
+        "Hopper-locked"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Ideal box output",
+      "id": "1460470569966374956",
+      "url": "https://discord.com/channels/1375556143186837695/1460470569966374956/1460470570809557257",
+      "matches": [
+        "ideal box output"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1466609547497050124",
+    "forumId": "1375569954073477120",
+    "continuingMessageIds": [
+      "1466609551565656104"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1466609547497050124",
+    "uploadMessageId": "1466609543168528569"
+  },
+  "archivedAt": 1769737357579,
+  "updatedAt": 1769737357579,
+  "num_comments": 0
+}
