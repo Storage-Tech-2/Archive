@@ -1,0 +1,154 @@
+{
+  "id": "1466910074458083401",
+  "name": "Cart-based single-type variable loader array",
+  "code": "VIP008",
+  "reservedCodes": [
+    "VIP008"
+  ],
+  "pastPostThreadIds": [
+    "1466911125688946759"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "925291210325753907",
+      "username": "sandcaribou",
+      "displayName": "Caribous",
+      "iconURL": "https://cdn.discordapp.com/avatars/925291210325753907/de12cd404b481db55bdb7d31181d4bab.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465491736636948685",
+      "name": "Functional"
+    },
+    {
+      "id": "1465487719571525921",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1466910076575940750",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1466910074458083401/1466910076575940750/image.png?ex=697e75f8&is=697d2478&hm=24292606624467022877af66e6a64d6121aea6718a706dcc1b3dd733ccbea7a8&",
+      "timestamp": 1769809015622,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 355291,
+      "canDownload": true,
+      "width": 1600,
+      "height": 559,
+      "path": "images/image.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1466910077029060814",
+      "name": "VIP008_8gt_Cart_Var_v1.0.5.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1466910074458083401/1466910077029060814/8gt_Cart_Var_v1.0.5.litematic?ex=697e75f8&is=697d2478&hm=e99d4c3325d534037cf3cf8a99f252f720eba1502485612f09d0cd121ebf0534&",
+      "timestamp": 1769809015622,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 5370,
+      "canDownload": true,
+      "path": "attachments/VIP008_8gt_Cart_Var_v1.0.5.litematic",
+      "litematic": {
+        "size": "9x10x33",
+        "version": "1.21"
+      }
+    }
+  ],
+  "records": {
+    "description": "Given an item entity stream input, this device will load them into single-type boxes at high speeds. It uses variable cart filters to ensure each box contains only a single type.\n\nThe filter is based on the first item type that comes through. When that item stops coming through, the filter will automatically de-assign and the loaders will be reset, so it can assign to a new item type.",
+    "features": [
+      "automatically assigns the filter based on the first item type that comes through",
+      "automatically de-assigns filter when that item stops coming through",
+      "loaders will be reset, so it can assign to a new item type",
+      "cart filter can handle up to 576k/hr",
+      "attached schematic has enough loaders to load 576k/hr"
+    ],
+    "considerations": [
+      "Can only load one item type at a time",
+      "Directional, do not rotate or it will break"
+    ],
+    "notes": "Especially useful for loading boxes for concrete/tree farm output."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "item entity",
+      "id": "1456908472384884879",
+      "url": "https://discord.com/channels/1375556143186837695/1456908472384884879/1456908473844502594",
+      "matches": [
+        "item entity"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Schematic",
+      "id": "1454811558009110704",
+      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
+      "matches": [
+        "schematic"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Directional",
+      "id": "1454753554815389834",
+      "url": "https://discord.com/channels/1375556143186837695/1454753554815389834/1454753555566166029",
+      "matches": [
+        "Directional"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1466911125688946759",
+    "forumId": "1375569954073477120",
+    "continuingMessageIds": [
+      "1466911130319589580"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1466911125688946759",
+    "uploadMessageId": "1466911122639552688"
+  },
+  "archivedAt": 1769809260880,
+  "updatedAt": 1769809260880,
+  "num_comments": 0
+}
