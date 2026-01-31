@@ -4,7 +4,7 @@
   "code": "TG",
   "category": "Other Resources",
   "description": "Reference material for how to test things thouroughly",
-  "currentCodeId": 3,
+  "currentCodeId": 4,
   "entries": [
     {
       "id": "1388624919306305636",
@@ -20,6 +20,11 @@
       "id": "1464707292737048869",
       "code": "TG003",
       "path": "TG003_Quarry_Items_Large_Test_Set"
+    },
+    {
+      "id": "1467277292471324682",
+      "code": "TG004",
+      "path": "TG004_Parallel_Unloader_Test_Sets"
     }
   ]
 }

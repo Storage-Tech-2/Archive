@@ -1,0 +1,168 @@
+{
+  "id": "1467277292471324682",
+  "name": "Parallel Unloader Test Sets",
+  "code": "TG004",
+  "reservedCodes": [
+    "TG004"
+  ],
+  "pastPostThreadIds": [
+    "1467283098008817890"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "660633169191632908",
+      "username": "etikle",
+      "displayName": "Passionate Storage Techer 69",
+      "iconURL": "https://cdn.discordapp.com/avatars/660633169191632908/552443236bae5d574b5b1aec2694b58f.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "244529884846751745",
+      "username": "raffq",
+      "displayName": "Raffq",
+      "iconURL": "https://cdn.discordapp.com/avatars/244529884846751745/25d3bc667842f56584713459d3f4713b.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "384084307712409600",
+      "username": "tisunfortunate",
+      "displayName": "TisUnfortunate",
+      "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/0de5630a1bd3ad4fb3e24f5ba40958e1.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465487894184722498",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1467278652675854427",
+      "name": "area_render_3_.png",
+      "url": "https://cdn.discordapp.com/attachments/1467277292471324682/1467278652675854427/area_render_3_.png?ex=697fcd3b&is=697e7bbb&hm=2d24db8b7a7a1721e9e32071efd4a2aeff36aec7f7aa856dd2357e1e7aa1e3e5&",
+      "timestamp": 1769896890723,
+      "author": {
+        "type": "discord-external",
+        "id": "384084307712409600",
+        "username": "tisunfortunate",
+        "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/0de5630a1bd3ad4fb3e24f5ba40958e1.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "image/png",
+      "canDownload": true,
+      "width": 750,
+      "height": 984,
+      "size": 7415,
+      "path": "images/area_render_3_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1467277292584833213",
+      "name": "TG004_PU-01.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1467277292471324682/1467277292584833213/PU-01.litematic?ex=697fcbf7&is=697e7a77&hm=2734c843cd07e12ab6b96e3f9dde4a1afe09b877053018e7f718a112b68a00b9&",
+      "timestamp": 1769896567219,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "384084307712409600",
+        "username": "tisunfortunate",
+        "displayName": "TisUnfortunate",
+        "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/0de5630a1bd3ad4fb3e24f5ba40958e1.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "large set(4 double chests) of boxes from the Hermit Craft sets",
+      "size": 39940,
+      "canDownload": true,
+      "path": "attachments/TG004_PU-01.litematic",
+      "litematic": {
+        "size": "3x4x1",
+        "version": "1.21.1"
+      }
+    },
+    {
+      "id": "1467277292962185387",
+      "name": "TG004_PU-02.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1467277292471324682/1467277292962185387/PU-02.litematic?ex=697fcbf7&is=697e7a77&hm=d0de07747a5218d8fdbc6ed587361f50f52874a6cad3b2322d16a7ae41cdd4ae&",
+      "timestamp": 1769896567219,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "384084307712409600",
+        "username": "tisunfortunate",
+        "displayName": "TisUnfortunate",
+        "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/0de5630a1bd3ad4fb3e24f5ba40958e1.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Massive set(8 double chests) of boxes from the hermit craft sets",
+      "size": 121925,
+      "canDownload": true,
+      "path": "attachments/TG004_PU-02.litematic",
+      "litematic": {
+        "size": "3x8x1",
+        "version": "1.21.1"
+      }
+    },
+    {
+      "id": "1467277293222363196",
+      "name": "TG004_PU-03.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1467277292471324682/1467277293222363196/PU-03.litematic?ex=697fcbf7&is=697e7a77&hm=daa0e3ca683e5d9266d57b11225bb26dc34a75ad75db7b1a2bb997ea3c2dcdd4&",
+      "timestamp": 1769896567219,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "384084307712409600",
+        "username": "tisunfortunate",
+        "displayName": "TisUnfortunate",
+        "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/0de5630a1bd3ad4fb3e24f5ba40958e1.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Small set mimicking a normal player input",
+      "size": 3539,
+      "canDownload": true,
+      "path": "attachments/TG004_PU-03.litematic",
+      "litematic": {
+        "size": "1x1x1",
+        "version": "1.21.1"
+      }
+    }
+  ],
+  "records": {
+    "description": "Testing set designed for testing Parallel Unloaders"
+  },
+  "styles": {
+    "description": {
+      "depth": 2,
+      "headerText": "Description"
+    }
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Unloader",
+      "id": "1454754824758493380",
+      "url": "https://discord.com/channels/1375556143186837695/1454754824758493380/1454754825345433803",
+      "matches": [
+        "Unloader"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1467283098008817890",
+    "forumId": "1388599778941861898",
+    "continuingMessageIds": [
+      "1467283101934686292"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1467283098008817890",
+    "uploadMessageId": "1467283092451360978"
+  },
+  "archivedAt": 1769897948433,
+  "updatedAt": 1769897948433,
+  "num_comments": 0
+}
