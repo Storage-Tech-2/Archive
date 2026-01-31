@@ -13,6 +13,8 @@ An overflow which accepts loose items (accessible loader) or boxes. Once the ove
 ## Features
 - 4DC of overflow
 - Lamp indicator that there are items in the recycle bin
+## Considerations
+- Loose item input needs to be input at 1x speed. Working setups include a simple dropper spitter, honey batcher, and stone cutter batcher
 
 ## Other Images
 <img src="images/area_render_10_.png?raw=1" height="300px">

@@ -106,6 +106,9 @@
     "features": [
       "4DC of overflow",
       "Lamp indicator that there are items in the recycle bin"
+    ],
+    "considerations": [
+      "Loose item input needs to be input at 1x speed. Working setups include a simple dropper spitter, honey batcher, and stone cutter batcher"
     ]
   },
   "styles": {},
@@ -117,6 +120,24 @@
       "url": "https://discord.com/channels/1375556143186837695/1454804125559554243/1454804126541152338",
       "matches": [
         "accessible loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopper speed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "1x"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Batcher",
+      "id": "1454753449311862900",
+      "url": "https://discord.com/channels/1375556143186837695/1454753449311862900/1454753450339336306",
+      "matches": [
+        "batcher"
       ]
     }
   ],
@@ -131,6 +152,6 @@
     "uploadMessageId": "1465112389316771881"
   },
   "archivedAt": 1769380411273,
-  "updatedAt": 1769380411273,
+  "updatedAt": 1769820411362,
   "num_comments": 0
 }
