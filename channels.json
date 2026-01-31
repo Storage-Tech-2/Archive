@@ -233,10 +233,10 @@
     "id": "1375570772348764392",
     "name": "autocrafting",
     "code": "AC",
-    "embedding": "MRYfCiMW/wLt0PME/BH4HfIMAATs4yv6CgD6As0Q+AIX6Pnw0AL/B+nw8AYLCaU3/hLfIgUGEg4G9v0DKgAOAwDx9gLi8gz+B+8g/vIIDAkkCSE0///6+QEb7doG7Bjg/wkgEATmEgIH+/Dl7hMWEBYV6w8N8wAQEBYZAQEMGQ7w6RIJ+Af66/gA+gzg9wcW+enxGucY4QP5+/cG9/TrAwEL/QIHDw4VC/b1+REEBv0aIfkD7PP4Bf7+/xD8CPrjGgT4C+wjMhwRAALw6QwQAhP0BtYM6xAA7/j96ioAEBHeJyXrKfHjDAMh+QcYCCD2CfUBFeIKHA30+Pj7FP4p6w==",
+    "embedding": "NxQVEioa9Ab03vn/ARPxG/EO/Qfx4y78CQP4+dEL9wMg6vjv1QT6Bu/58AAKD7Q0/QXkKQAHDwwN9wD7J/8OAgbx9Pfj9goEBfMqAO4GBgsmDyIz/v73+Pge7tsH6xDf/wYiEQnlEwgF9vDo8hYcChcU6QUR9QEVChgXBvcIFg/34A8JAAb+5/D49hLkAQgI+u3tGOod6v4AAfQG9fTvAfsK/AX/CAoYDvvp+Q4D//sjJfYC7/EA////CA77BvbkEwb1FOUlMhgP/wHx5w0ODBf0Ec8H6xIC5fj37yj+DhfmJijnJfnlBgAd+wgZDBj1DfoGEOQPIQ/w/PcAFf8e4w==",
     "category": "Item Processing",
     "path": "Archive/AC_autocrafting",
-    "description": "Autocrafting devices, excluding crafter filter loaders",
+    "description": "Autocrafting devices such as crafter filter loaders, compacters, etc.",
     "position": 56
   },
   {
