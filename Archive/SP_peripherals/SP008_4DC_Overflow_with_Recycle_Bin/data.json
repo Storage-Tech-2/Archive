@@ -108,7 +108,7 @@
       "Lamp indicator that there are items in the recycle bin"
     ],
     "considerations": [
-      "Loose item input needs to be input at 1x speed. Working setups include a simple dropper spitter, honey batcher, and stone cutter batcher"
+      "Loose item input needs to be 1x speed. Tested setups include a simple dropper spitter, honey batcher, or stone cutter batcher"
     ]
   },
   "styles": {},
@@ -152,6 +152,6 @@
     "uploadMessageId": "1465112389316771881"
   },
   "archivedAt": 1769380411273,
-  "updatedAt": 1769820411362,
+  "updatedAt": 1769820464616,
   "num_comments": 0
 }
