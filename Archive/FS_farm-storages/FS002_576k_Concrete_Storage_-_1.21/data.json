@@ -42,13 +42,13 @@
       "canDownload": true,
       "width": 590,
       "height": 800,
-      "path": "images/area_render.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "wisperingtoyou"
+        "username": "Unknown"
       },
-      "timestamp": 1763966718000
+      "timestamp": 1763966718000,
+      "path": "images/area_render.png"
     },
     {
       "id": "1442405708338298880",
@@ -59,35 +59,37 @@
       "canDownload": true,
       "width": 505,
       "height": 800,
-      "path": "images/area_render_1_.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "wisperingtoyou"
+        "username": "Unknown"
       },
-      "timestamp": 1763966718000
+      "timestamp": 1763966718000,
+      "path": "images/area_render_1_.png"
     }
   ],
   "attachments": [
     {
-      "id": "1442406539284709487",
-      "name": "FS002_Concrete_Factory_576k_-_2.8.litematic",
+      "id": "1464773390718996616",
+      "name": "FS002_Concrete_factory_576k_-_2.9.litematic",
       "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1442405705519730708/1442406539284709487/Concrete_Factory_576k_-_2.8.litematic?ex=69255145&is=6923ffc5&hm=4d9b1cf05c5d7dee4e2366f5291fe66f06050a792a3c7e82b8f952fb24b4ca66&",
+      "url": "https://cdn.discordapp.com/attachments/1442405705519730708/1464773390718996616/Concrete_factory_576k_-_2.9.litematic?ex=6976b006&is=69755e86&hm=bf3f3d2c56f9f059ebf83a46306a8aff708e46d919bb8d0b32baa3fcbc5fdd24&",
+      "timestamp": 1769299590580,
+      "author": {
+        "type": "discord-external",
+        "id": "1464773388601004182",
+        "username": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/1464773388601004182/e5240206d485c38b2ffc2340acd6e62f.webp"
+      },
+      "source": "MessageAttachment",
       "description": "",
+      "size": 45871,
       "canDownload": true,
-      "path": "attachments/FS002_Concrete_Factory_576k_-_2.8.litematic",
+      "path": "attachments/FS002_Concrete_factory_576k_-_2.9.litematic",
       "litematic": {
         "size": "39x55x35",
         "version": "1.21.4"
-      },
-      "source": "MessageAttachment",
-      "author": {
-        "type": "unknown",
-        "username": "wisperingtoyou"
-      },
-      "timestamp": 1763966917000,
-      "size": 45552
+      }
     }
   ],
   "records": {
@@ -102,20 +104,17 @@
     "considerations": [
       "Box crafting logic can be improved but works perfectly fine",
       "Not fully hopper locked but this is a non issue with lithium",
-      "Uses box displays, this would be a pro or a con depending on user preference"
+      "Uses box displays, this would be a pro or a con depending on user preference",
+      "Directional"
     ],
-    "notes": [
-      "Tested for 200+ hours without issues.",
-      "Dupe 1 color at a time and wait for the partial boxes to be ejected from the var loader before starting up the farm again."
-    ],
-    "credits": [
-      "Bulk by Ners",
-      "Box Fill level sorter by Obi",
-      "Cart unloader by Christone",
-      "Var by Heilz",
-      "Box Crafter by Acacia",
-      "Concrete converter is a better version of bread's by me"
-    ]
+    "notes": "- Tested for 200+ hours without issues.\n- Dupe 1 color at a time and wait for the partial boxes to be ejected from the var loader before starting up the farm again (could technically dupe up to 5 at a time but try to avoid).\n- Directional",
+    "credits": "- Bulk by Ners\n- Box Fill level sorter by Obi\n- Cart unloader by Christone\n- Var by Heilz\n- Box Crafter by Acacia\n- Concrete converter is a better version of bread's by me"
+  },
+  "styles": {
+    "credits": {
+      "depth": 2,
+      "headerText": "Credits"
+    }
   },
   "references": [
     {
@@ -134,6 +133,15 @@
       "url": "https://discord.com/channels/1375556143186837695/1454753497638506689/1454753498494144522",
       "matches": [
         "box display"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Directional",
+      "id": "1454753554815389834",
+      "url": "https://discord.com/channels/1375556143186837695/1454753554815389834/1454753555566166029",
+      "matches": [
+        "Directional"
       ]
     },
     {
@@ -163,9 +171,9 @@
       "1450420196455088192"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1450420192743264420",
-    "uploadMessageId": "1450420186472644608"
+    "uploadMessageId": "1467414770431950859"
   },
   "archivedAt": 1765877519710,
-  "updatedAt": 1765877519710,
+  "updatedAt": 1769929342808,
   "num_comments": 0
 }

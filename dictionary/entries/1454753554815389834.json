@@ -23,6 +23,7 @@
   "referencedBy": [
     "DT002",
     "FS003",
-    "VIP008"
+    "VIP008",
+    "FS002"
   ]
 }
