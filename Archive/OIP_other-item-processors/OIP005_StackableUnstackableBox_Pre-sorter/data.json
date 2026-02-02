@@ -6,7 +6,8 @@
     "OIP005"
   ],
   "pastPostThreadIds": [
-    "1455654887932039330"
+    "1455654887932039330",
+    "1467964373225177151"
   ],
   "authors": [
     {
@@ -52,43 +53,50 @@
   ],
   "images": [
     {
-      "id": "1455654789642850497",
+      "id": "1467964004457517118",
       "name": "image.png",
       "contentType": "image/png",
-      "url": "https://cdn.discordapp.com/attachments/1455651277718552586/1455654789642850497/image.png?ex=695583aa&is=6954322a&hm=a7eb0ca6165c0f27bf0eb14ae7bb4dab69100f1898993ae41ce5a26cfde6cbce&",
-      "description": "",
-      "canDownload": true,
-      "width": 742,
-      "height": 310,
-      "path": "images/image.png",
-      "source": "MessageAttachment",
+      "url": "https://cdn.discordapp.com/attachments/1455651277718552586/1467964004457517118/image.png?ex=69824b84&is=6980fa04&hm=edfb3ef72c16e33b77071b7bae8d01e6ded5740610566d3b46d7ca22a209c3b7&",
+      "timestamp": 1770060292185,
       "author": {
-        "type": "unknown",
-        "username": "andrews54757"
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
       },
-      "timestamp": 1767125546000
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 66466,
+      "canDownload": true,
+      "width": 1600,
+      "height": 646,
+      "path": "images/image.png"
     }
   ],
   "attachments": [
     {
-      "id": "1455654789839847535",
+      "id": "1467964223819878483",
       "name": "OIP005_simple_presorter.litematic",
       "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1455651277718552586/1455654789839847535/simple_presorter.litematic?ex=695583aa&is=6954322a&hm=3c9464ac928da2b1552813e51c88f3343f1c4ec46868e8c19242c8d296823ba4&",
+      "url": "https://cdn.discordapp.com/attachments/1455651277718552586/1467964223819878483/simple_presorter.litematic?ex=69824bb8&is=6980fa38&hm=27dd5e257f1a41878f39c6f84e9bbc21b07d42b12f3f22201dcb26d4c30f58b6&",
+      "timestamp": 1770060344471,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
       "description": "",
+      "size": 1137,
       "canDownload": true,
       "path": "attachments/OIP005_simple_presorter.litematic",
       "litematic": {
         "size": "4x2x7",
         "version": "1.21.4"
-      },
-      "source": "MessageAttachment",
-      "author": {
-        "type": "unknown",
-        "username": "andrews54757"
-      },
-      "timestamp": 1767125546000,
-      "size": 1130
+      }
     }
   ],
   "records": {
@@ -138,15 +146,15 @@
   ],
   "author_references": [],
   "post": {
-    "threadId": "1455654887932039330",
+    "threadId": "1467964373225177151",
     "forumId": "1375564209882009772",
     "continuingMessageIds": [
-      "1455654893036507324"
+      "1467964376249012224"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1455654887932039330",
-    "uploadMessageId": "1455654885566582918"
+    "threadURL": "https://discord.com/channels/1375556143186837695/1467964373225177151",
+    "uploadMessageId": "1467964369924264107"
   },
   "archivedAt": 1767124819760,
-  "updatedAt": 1767125568326,
+  "updatedAt": 1770060377741,
   "num_comments": 0
 }

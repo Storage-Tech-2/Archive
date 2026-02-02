@@ -7,7 +7,7 @@
 
 **Tags:** *Functional, Recommended, isStackable*
 
-**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1455654887932039330)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1467964373225177151)
 
 Separates stackable items, unstackable items, and boxes.
 ## Features
