@@ -1,7 +1,7 @@
 # Small 6gt 2+1 crafting station
 <img alt="area_render_2.png" src="images/area_render_2.png?raw=1" height="300px">
 
-**Authors:** *wawuli_i_am_wzx, Z&Y(Zaiyuyou), 金合欢酱喵~ (acaciachan)*
+**Authors:** *wawuli | i am 胖纸wzx, Z&Y(Zaiyuyou), 金合欢酱喵~ (acaciachan)*
 
 **Endorsed by:** *Andrews54757*
 

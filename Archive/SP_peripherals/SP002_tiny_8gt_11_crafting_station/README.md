@@ -1,7 +1,7 @@
 # tiny 8gt 1+1 crafting station
 <img alt="area_render_29.png" src="images/area_render_29.png?raw=1" height="300px">
 
-**Authors:** *wawuli_i_am_wzx*
+**Authors:** *wawuli | i am 胖纸wzx*
 
 **Endorsed by:** *Andrews54757*
 

@@ -10,9 +10,10 @@
   ],
   "authors": [
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "924457454723563530",
       "username": "wawuli_i_am_wzx",
+      "displayName": "wawuli | i am 胖纸wzx",
       "iconURL": "https://cdn.discordapp.com/avatars/924457454723563530/4b49f63b8029d914b690ccdd831e88da.webp"
     }
   ],
