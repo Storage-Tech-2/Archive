@@ -4,7 +4,7 @@
   "code": "LS",
   "category": "Full Systems",
   "description": "Large/full size storages",
-  "currentCodeId": 5,
+  "currentCodeId": 6,
   "entries": [
     {
       "id": "1389156295520682004",
@@ -30,6 +30,11 @@
       "id": "1461830490276368427",
       "code": "LS005",
       "path": "LS005_Krebs_Main_Storage_System"
+    },
+    {
+      "id": "1468349674766205142",
+      "code": "LS006",
+      "path": "LS006_Yams_v2.3"
     }
   ]
 }
