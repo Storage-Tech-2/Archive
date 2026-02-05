@@ -9,25 +9,22 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1441837073085501574)
 
-**Features**
-- 2wt 
+A globally clocked mixed box loader which loads items into boxes at 6x hopperspeed.
+## Features
+- 2wt
 - Global box replacement line
 - Globally clocked
-- Dropper Line and hopper/ice versions. 
+- Dropper Line and hopper/ice versions.
 - Handles mixed inputs (not unstackables)
-
-**Considerations**
+## Considerations
 - Uses overflow detection to detect full a shulker
 - Requires at least a box to be prefilled in the dispenser when being built. For further info check the schematics.
-
-
-**Notes**
+## Notes
 - Tested for over 250k Boxes
-
-Two schems are provided with their respective tiled examples:
-1. Dropper Box Collection/Distribution & Rails
-2. Hopper Box Distribution & Water Stream Collection (uses door instead of doors, Noisy)
--# Feel free to mix the two designs as you please.
+- Two schems are provided with their respective tiled examples:
+  1. Dropper Box Collection/Distribution & Rails
+  2. Hopper Box Distribution & Water Stream Collection (uses door instead of doors, Noisy)
+- Feel free to mix the two designs as you please.
 
 ## Other Images
 <img src="images/image_1.png?raw=1" height="300px">

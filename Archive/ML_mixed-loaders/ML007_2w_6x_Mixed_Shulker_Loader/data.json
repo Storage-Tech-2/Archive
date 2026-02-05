@@ -56,13 +56,13 @@
       "canDownload": true,
       "width": 669,
       "height": 800,
-      "path": "images/image.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "wisperingtoyou"
+        "username": "Unknown"
       },
-      "timestamp": 1763805536000
+      "timestamp": 1763805536000,
+      "path": "images/image.png"
     },
     {
       "id": "1441729661091446905",
@@ -73,13 +73,13 @@
       "canDownload": true,
       "width": 680,
       "height": 800,
-      "path": "images/image_1.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "wisperingtoyou"
+        "username": "Unknown"
       },
-      "timestamp": 1763805536000
+      "timestamp": 1763805536000,
+      "path": "images/image_1.png"
     }
   ],
   "attachments": [
@@ -98,10 +98,9 @@
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "wisperingtoyou"
+        "username": "Unknown"
       },
-      "timestamp": 1763805596000,
-      "size": 4928
+      "timestamp": 1763805596000
     },
     {
       "id": "1441729907192238090",
@@ -118,16 +117,56 @@
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "wisperingtoyou"
+        "username": "Unknown"
       },
-      "timestamp": 1763805596000,
-      "size": 1784
+      "timestamp": 1763805596000
     }
   ],
   "records": {
-    "description": "**Features**\n- 2wt \n- Global box replacement line\n- Globally clocked\n- Dropper Line and hopper/ice versions. \n- Handles mixed inputs (not unstackables)\n\n**Considerations**\n- Uses overflow detection to detect full a shulker\n- Requires at least a box to be prefilled in the dispenser when being built. For further info check the schematics.\n\n\n**Notes**\n- Tested for over 250k Boxes\n\nTwo schems are provided with their respective tiled examples:\n1. Dropper Box Collection/Distribution & Rails\n2. Hopper Box Distribution & Water Stream Collection (uses door instead of doors, Noisy)\n-# Feel free to mix the two designs as you please."
+    "description": "A globally clocked mixed box loader which loads items into boxes at 6x hopperspeed.",
+    "features": [
+      "2wt",
+      "Global box replacement line",
+      "Globally clocked",
+      "Dropper Line and hopper/ice versions.",
+      "Handles mixed inputs (not unstackables)"
+    ],
+    "considerations": [
+      "Uses overflow detection to detect full a shulker",
+      "Requires at least a box to be prefilled in the dispenser when being built. For further info check the schematics."
+    ],
+    "notes": "- Tested for over 250k Boxes\n- Two schems are provided with their respective tiled examples:\n  1. Dropper Box Collection/Distribution & Rails\n  2. Hopper Box Distribution & Water Stream Collection (uses door instead of doors, Noisy)\n- Feel free to mix the two designs as you please."
   },
+  "styles": {},
   "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Mixed Box",
+      "id": "1454753707530129576",
+      "url": "https://discord.com/channels/1375556143186837695/1454753707530129576/1454753708247089184",
+      "matches": [
+        "mixed box"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopper speed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "6x",
+        "hopperspeed"
+      ]
+    },
     {
       "type": "dictionaryTerm",
       "term": "n-Wide tileable",
@@ -176,6 +215,6 @@
     "uploadMessageId": "1441837070027854075"
   },
   "archivedAt": 1763831145208,
-  "updatedAt": 1763831145208,
+  "updatedAt": 1770314852625,
   "num_comments": 0
 }
