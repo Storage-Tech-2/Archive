@@ -1,0 +1,176 @@
+{
+  "id": "1468893063626625086",
+  "name": "[1.13+] 3wt 8x Mixed Box Loader",
+  "code": "ML009",
+  "reservedCodes": [
+    "ML009"
+  ],
+  "pastPostThreadIds": [
+    "1469044024110350601"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "444883614761746436",
+      "username": "camphorwood",
+      "displayName": "camphorwood",
+      "iconURL": "https://cdn.discordapp.com/avatars/444883614761746436/b846c71873bcae574d1550d0d2c78d42.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1386244848272801895",
+      "name": "8X Hopperspeed"
+    }
+  ],
+  "images": [
+    {
+      "id": "1468893065438564597",
+      "name": "area_render.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1468893063626625086/1468893065438564597/area_render.png?ex=6985acc5&is=69845b45&hm=4dfe3a0707242b31da03c15f1c858da5676fd713144e0354355a86b65c5f9571&",
+      "timestamp": 1770281797082,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "444883614761746436",
+        "username": "camphorwood",
+        "displayName": "camphorwood",
+        "iconURL": "https://cdn.discordapp.com/avatars/444883614761746436/b846c71873bcae574d1550d0d2c78d42.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 128777,
+      "canDownload": true,
+      "width": 646,
+      "height": 930,
+      "path": "images/area_render.png"
+    },
+    {
+      "id": "1468893065786687652",
+      "name": "area_render_1_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1468893063626625086/1468893065786687652/area_render_1_.png?ex=6985acc5&is=69845b45&hm=b8fa504aff3b6ea2a734ed00c1512a15ae4fe903475ae12e29e587f0a1d62fd8&",
+      "timestamp": 1770281797082,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "444883614761746436",
+        "username": "camphorwood",
+        "displayName": "camphorwood",
+        "iconURL": "https://cdn.discordapp.com/avatars/444883614761746436/b846c71873bcae574d1550d0d2c78d42.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 125835,
+      "canDownload": true,
+      "width": 646,
+      "height": 942,
+      "path": "images/area_render_1_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1468893063928610982",
+      "name": "ML009_3wt8xmixed_local_v2.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1468893063626625086/1468893063928610982/3wt8xmixed_local_v2.litematic?ex=6985acc5&is=69845b45&hm=026165448fe68544c5775f568270a128103039d449de8ee1bffd33e5ef874d95&",
+      "timestamp": 1770281797082,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "444883614761746436",
+        "username": "camphorwood",
+        "displayName": "camphorwood",
+        "iconURL": "https://cdn.discordapp.com/avatars/444883614761746436/b846c71873bcae574d1550d0d2c78d42.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1616,
+      "canDownload": true,
+      "path": "attachments/ML009_3wt8xmixed_local_v2.litematic",
+      "litematic": {
+        "size": "5x7x3",
+        "version": "1.21.1"
+      }
+    },
+    {
+      "id": "1468893064801292343",
+      "name": "ML009_3wt8xmixed_local_v2_tiledexample.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1468893063626625086/1468893064801292343/3wt8xmixed_local_v2_tiledexample.litematic?ex=6985acc5&is=69845b45&hm=381cfb82a23e04162cd37408b67bb7896c31942f018572bc9a1c6d61a7772c42&",
+      "timestamp": 1770281797082,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "444883614761746436",
+        "username": "camphorwood",
+        "displayName": "camphorwood",
+        "iconURL": "https://cdn.discordapp.com/avatars/444883614761746436/b846c71873bcae574d1550d0d2c78d42.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 2272,
+      "canDownload": true,
+      "path": "attachments/ML009_3wt8xmixed_local_v2_tiledexample.litematic",
+      "litematic": {
+        "size": "5x7x16",
+        "version": "1.21.1"
+      }
+    }
+  ],
+  "records": {
+    "description": "Loads single or mixed item types into shulker boxes at 8x hopper speed (approximately 72k/hr)",
+    "features": [
+      "Small (5x7x3)",
+      "No item spitting with random input",
+      "Locally clocked",
+      "Outputs boxes into a global hopperline"
+    ],
+    "considerations": [
+      "No ice blocks in the item stream, making it not that Nether friendly",
+      "Can buffer items inside the droppers"
+    ],
+    "notes": "For Minecraft 1.13 compatibility, use droppers instead of composters."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopper speed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "8x",
+        "hopper speed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Global",
+      "id": "1454753648574992557",
+      "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
+      "matches": [
+        "global"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1469044024110350601",
+    "forumId": "1375557473066418206",
+    "continuingMessageIds": [
+      "1469044027465662672"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1469044024110350601",
+    "uploadMessageId": "1469044013410549956"
+  },
+  "archivedAt": 1770317782688,
+  "updatedAt": 1770317782688,
+  "num_comments": 0
+}

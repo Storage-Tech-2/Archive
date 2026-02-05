@@ -4,7 +4,7 @@
   "code": "ML",
   "category": "Box Loaders & Unloaders",
   "description": "Box loaders which load mixed item types",
-  "currentCodeId": 8,
+  "currentCodeId": 9,
   "entries": [
     {
       "id": "1386244541513863249",
@@ -45,6 +45,11 @@
       "id": "1455432628743307377",
       "code": "ML008",
       "path": "ML008_10x_Shulker_Box_Loader"
+    },
+    {
+      "id": "1468893063626625086",
+      "code": "ML009",
+      "path": "ML009_1.13_3wt_8x_Mixed_Box_Loader"
     }
   ]
 }
