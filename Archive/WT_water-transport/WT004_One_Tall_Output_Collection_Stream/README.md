@@ -16,7 +16,7 @@ A reliable 1 block tall output collector water stream that can have items droppe
 - Always routes items to the end of the stream
 - Prevents items from getting stuck on the gap where the ladder is
 ## Notes
-This works because the items glitch in the ladder hitbox when dropper into it, imparting a sideways momentum. See [RD002](../../../Archive/RD_tomes-and-diagrams/RD002_How_Item_Entity_Clipping_Works) for a detailed explanation of how item "glitching" can be controlled.
+This works because the items glitch in the ladder hitbox when dropper into it, imparting a sideways momentum. See [RD002 How Item Entity Clipping Works](https://discord.com/channels/1375556143186837695/1455030735089041534) for a detailed explanation of how item "glitching" can be controlled.
 ## Compatibility
 1.19+ only. Before 1.19 items output from dropper could have backwards momentum.
 ## Instructions

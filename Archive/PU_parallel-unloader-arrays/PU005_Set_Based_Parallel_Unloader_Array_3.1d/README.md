@@ -19,7 +19,7 @@ This machine takes any shulker boxes as an input, and unloads them, several at a
 - based on 3.1 pre 17 by Glotz: https://discord.com/channels/748542142347083868/963431585816911872/1297648167227101225 (in [Storage Tech](https://discord.gg/JufJ6uf))
 - which is based on 2.5, which had many contributors: https://discord.com/channels/748542142347083868/749136547755851857/983793044404985896 (in [Storage Tech](https://discord.gg/JufJ6uf))
 - set wiring by Kayzm, DrakePHOSE, & Glotz
-- 2 Item Check by 77777777777777777777 & insto: https://discord.com/channels/748542142347083868/748547221338849330/1300397344134529056 (in [Storage Tech](https://discord.gg/JufJ6uf)) [OBP003](../../../Archive/OBP_other-box-processors/OBP003_18gt_2_item_checker)
+- 2 Item Check by 77777777777777777777 & insto: https://discord.com/channels/748542142347083868/748547221338849330/1300397344134529056 (in [Storage Tech](https://discord.gg/JufJ6uf)) [OBP003 18gt 2 item checker](https://discord.com/channels/1375556143186837695/1402535963061915761)
 - FIT wiring by Raffq, Glotz, boyenn, & DrakePHOSE
 - pause protection by Glotz
 ## Compatibility
