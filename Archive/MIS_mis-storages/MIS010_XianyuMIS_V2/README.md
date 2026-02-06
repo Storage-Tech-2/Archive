@@ -45,8 +45,7 @@ Most inventories have signs indicating how to prefill them.
 <img src="images/ui.png?raw=1" height="300px">
 
 ## Resources
-- [MIS010_XianyuMIS_v2.4.2_WDL.zip](attachments/MIS010_XianyuMIS_v2.4.2_WDL.zip): MC 1.21.4
-  - Contains both the full and lite versions (MIS006)
-- [MIS010_XianyuMIS_v2.4.2.litematic](attachments/MIS010_XianyuMIS_v2.4.2.litematic): MC 1.21.4, Size 48x29x45 blocks
 - [MIS010_XianyuMIS_v2_deco_with_crane.litematic](attachments/MIS010_XianyuMIS_v2_deco_with_crane.litematic): MC 1.21.4, Size 66x56x58 blocks
   - Includes decorations
+- [MIS010_XianyuMIS_v2.4.3_WDL.zip](attachments/MIS010_XianyuMIS_v2.4.3_WDL.zip): MC 1.21.4
+- [MIS010_mis_v2.4.3_XianyuMISv2.4.3.litematic](attachments/MIS010_mis_v2.4.3_XianyuMISv2.4.3.litematic): MC 1.21.4, Size 48x29x45 blocks

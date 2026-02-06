@@ -108,59 +108,6 @@
   ],
   "attachments": [
     {
-      "id": "1465533551830372484",
-      "name": "MIS010_XianyuMIS_v2.4.2_WDL.zip",
-      "contentType": "application/zip",
-      "url": "https://cdn.discordapp.com/attachments/1465532773925126371/1465533551830372484/XianyuMIS_v2.4.2_WDL.zip?ex=697973fb&is=6978227b&hm=ee283ed190f32e83fbd222b22b39fb84ee126e22d64d27aca485399b26ae537b&",
-      "timestamp": 1769480827121,
-      "author": {
-        "type": "discord-in-guild",
-        "id": "239078039831445504",
-        "username": "andrews54757",
-        "displayName": "Andrews54757",
-        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
-      },
-      "source": "MessageAttachment",
-      "description": "Contains both the full and lite versions (MIS006)",
-      "size": 10430752,
-      "canDownload": true,
-      "path": "attachments/MIS010_XianyuMIS_v2.4.2_WDL.zip",
-      "wdls": [
-        {
-          "path": "XianyuMIS_v2.4.2_WDL",
-          "version": "1.21.4",
-          "levelName": "XianyuMIS_v2.4.2"
-        }
-      ],
-      "wdl": {
-        "version": "1.21.4",
-        "optimized": true
-      }
-    },
-    {
-      "id": "1465533551226388626",
-      "name": "MIS010_XianyuMIS_v2.4.2.litematic",
-      "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1465532773925126371/1465533551226388626/mis_v2.4.2_XianyuMISv2.4.2.litematic?ex=697973fa&is=6978227a&hm=18bc9d36ce6d562041e2034b8f5258f04b4813e1dacc979ae798282e2c583915&",
-      "timestamp": 1769480827121,
-      "author": {
-        "type": "discord-in-guild",
-        "id": "239078039831445504",
-        "username": "andrews54757",
-        "displayName": "Andrews54757",
-        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
-      },
-      "source": "MessageAttachment",
-      "description": "",
-      "size": 64649,
-      "canDownload": true,
-      "path": "attachments/MIS010_XianyuMIS_v2.4.2.litematic",
-      "litematic": {
-        "size": "48x29x45",
-        "version": "1.21.4"
-      }
-    },
-    {
       "id": "1465533551528251559",
       "name": "MIS010_XianyuMIS_v2_deco_with_crane.litematic",
       "contentType": "unknown",
@@ -180,6 +127,60 @@
       "path": "attachments/MIS010_XianyuMIS_v2_deco_with_crane.litematic",
       "litematic": {
         "size": "66x56x58",
+        "version": "1.21.4"
+      }
+    },
+    {
+      "id": "1469238005406502971",
+      "name": "MIS010_XianyuMIS_v2.4.3_WDL.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1465532773925126371/1469238005406502971/XianyuMIS_v2.4.3_WDL.zip?ex=6986ee05&is=69859c85&hm=de35cf33c3951acd7737681e0c99649b8522f31810bd8e86b0776ea38c3884d4&",
+      "timestamp": 1770364037497,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1154811326540038185",
+        "username": "capybruhh",
+        "displayName": "Capybruhh",
+        "iconURL": "https://cdn.discordapp.com/avatars/1154811326540038185/69c37494ea59a6a85f22cf992839ef2e.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 2175706,
+      "canDownload": true,
+      "path": "attachments/MIS010_XianyuMIS_v2.4.3_WDL.zip",
+      "wdls": [
+        {
+          "path": "XianyuMIS_v2.4.3_WDL",
+          "version": "1.21.4",
+          "levelName": "XianyuMIS_v2.4.3"
+        }
+      ],
+      "wdl": {
+        "version": "1.21.4",
+        "optimized": true
+      },
+      "unoptimizedSize": 10451795
+    },
+    {
+      "id": "1469238005180141590",
+      "name": "MIS010_mis_v2.4.3_XianyuMISv2.4.3.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1465532773925126371/1469238005180141590/mis_v2.4.3_XianyuMISv2.4.3.litematic?ex=6986ee05&is=69859c85&hm=47130304fc3430166e25a1e88d6cc4d93aa467c138a3f1cf2da3c1f58566533e&",
+      "timestamp": 1770364037497,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1154811326540038185",
+        "username": "capybruhh",
+        "displayName": "Capybruhh",
+        "iconURL": "https://cdn.discordapp.com/avatars/1154811326540038185/69c37494ea59a6a85f22cf992839ef2e.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 64687,
+      "canDownload": true,
+      "path": "attachments/MIS010_mis_v2.4.3_XianyuMISv2.4.3.litematic",
+      "litematic": {
+        "size": "48x29x45",
         "version": "1.21.4"
       }
     }
@@ -471,9 +472,9 @@
       "1465600439000236034"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1465600432985477302",
-    "uploadMessageId": "1465600426073395283"
+    "uploadMessageId": "1469238519020130336"
   },
   "archivedAt": 1769481006103,
-  "updatedAt": 1769496769880,
+  "updatedAt": 1770364158398,
   "num_comments": 0
 }
