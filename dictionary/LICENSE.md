@@ -1,5 +1,7 @@
 The dictionary contains parts from the following sources:
+
 -------- License from https://github.com/StorageTechDictionary/StorageTechDictionary.github.io -----
+
 Storage Tech Dictionary
 Copyright (C) 2026 JoakimThorsen and contributors
 
