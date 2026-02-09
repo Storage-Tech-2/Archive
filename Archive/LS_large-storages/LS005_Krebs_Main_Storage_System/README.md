@@ -58,7 +58,7 @@ Optimized for 1.17.1. For 1.16: replace 2 dispensers with powdered snow with wat
 - Additional locking for the MIS, unstackable sorter, and mixed box loaders (*Krebs*)
 
 ## Resources
-- [LS005_Krebs_Main_Storage_System.litematic](attachments/LS005_Krebs_Main_Storage_System.litematic): MC 1.17.1, Size 114x101x109 blocks
 - [LS005_Krebs_Main_Storage_System_Nether_Chunkloaders.litematic](attachments/LS005_Krebs_Main_Storage_System_Nether_Chunkloaders.litematic): MC 1.17.1, Size 21x9x21 blocks
-- [LS005_Krebs_Main_Storage_System_-_Inventories.url](https://www.mediafire.com/file/89xjn4p5v8pz933/Krebs_Main_Storage_System_-_Inventories.zip/file): Mediafire link
-- [LS005_Krebs_Main_Storage_System.url](https://www.mediafire.com/file/gkraa8cwt1btsew/Krebs_Main_Storage_System.zip/file): Mediafire link
+- [LS005_Krebs_Main_Storage_System.litematic](attachments/LS005_Krebs_Main_Storage_System.litematic): MC 1.17.1, Size 114x101x109 blocks
+- [LS005_Krebs_Main_Storage_System.zip](attachments/LS005_Krebs_Main_Storage_System.zip): MC 1.17.1
+- [LS005_Krebs_Main_Storage_System_-_Inventories.zip](attachments/LS005_Krebs_Main_Storage_System_-_Inventories.zip): MC 1.17.1

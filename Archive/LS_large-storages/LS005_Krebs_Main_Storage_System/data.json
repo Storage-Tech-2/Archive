@@ -42,36 +42,16 @@
       "canDownload": true,
       "width": 784,
       "height": 800,
-      "path": "images/image.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "andrews54757"
+        "username": "Unknown"
       },
-      "timestamp": 1768597948000
+      "timestamp": 1768597948000,
+      "path": "images/image.png"
     }
   ],
   "attachments": [
-    {
-      "id": "1461830744941920421",
-      "name": "LS005_Krebs_Main_Storage_System.litematic",
-      "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1461830490276368427/1461830744941920421/Krebs_Main_Storage_System.litematic?ex=696bfb79&is=696aa9f9&hm=fb6bc3ad2f5d8e13c0d8773da5b4e6c8fd30aa9a217cc0e07a5eabc01cf9613c&",
-      "description": "",
-      "canDownload": true,
-      "path": "attachments/LS005_Krebs_Main_Storage_System.litematic",
-      "litematic": {
-        "size": "114x101x109",
-        "version": "1.17.1"
-      },
-      "source": "MessageAttachment",
-      "author": {
-        "type": "unknown",
-        "username": "andrews54757"
-      },
-      "timestamp": 1768598009000,
-      "size": 229401
-    },
     {
       "id": "1461830744677683293",
       "name": "LS005_Krebs_Main_Storage_System_Nether_Chunkloaders.litematic",
@@ -87,40 +67,92 @@
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "andrews54757"
+        "username": "Unknown"
       },
       "timestamp": 1768598009000,
       "size": 2035
     },
     {
-      "id": "89xjn4p5v8pz933",
-      "name": "LS005_Krebs_Main_Storage_System_-_Inventories.url",
-      "contentType": "mediafire",
-      "url": "https://www.mediafire.com/file/89xjn4p5v8pz933/Krebs_Main_Storage_System_-_Inventories.zip/file",
+      "id": "1461830744941920421",
+      "name": "LS005_Krebs_Main_Storage_System.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1461830490276368427/1461830744941920421/Krebs_Main_Storage_System.litematic?ex=696bfb79&is=696aa9f9&hm=fb6bc3ad2f5d8e13c0d8773da5b4e6c8fd30aa9a217cc0e07a5eabc01cf9613c&",
       "description": "",
-      "canDownload": false,
-      "path": "attachments/LS005_Krebs_Main_Storage_System_-_Inventories.url",
+      "canDownload": true,
+      "path": "attachments/LS005_Krebs_Main_Storage_System.litematic",
+      "litematic": {
+        "size": "114x101x109",
+        "version": "1.17.1"
+      },
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "andrews54757"
+        "username": "Unknown"
       },
-      "timestamp": 1768598042000
+      "timestamp": 1768598009000,
+      "size": 229401
     },
     {
-      "id": "gkraa8cwt1btsew",
-      "name": "LS005_Krebs_Main_Storage_System.url",
-      "contentType": "mediafire",
-      "url": "https://www.mediafire.com/file/gkraa8cwt1btsew/Krebs_Main_Storage_System.zip/file",
-      "description": "",
-      "canDownload": false,
-      "path": "attachments/LS005_Krebs_Main_Storage_System.url",
-      "source": "MessageAttachment",
+      "id": "1470296013611729010",
+      "name": "LS005_Krebs_Main_Storage_System.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1461830490276368427/1470296013611729010/Krebs_Main_Storage_System.zip?ex=698ac75e&is=698975de&hm=4db310fcddfc6be1862df9f3b91cd7da5f6b81b790df69d05a0724670ef90f6e&",
+      "timestamp": 1770616286417,
       "author": {
-        "type": "unknown",
-        "username": "andrews54757"
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
       },
-      "timestamp": 1768598042000
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 3270028,
+      "canDownload": true,
+      "path": "attachments/LS005_Krebs_Main_Storage_System.zip",
+      "wdls": [
+        {
+          "path": "Krebs Main Storage System",
+          "version": "1.17.1",
+          "levelName": "Krebs Main Storage System"
+        }
+      ],
+      "wdl": {
+        "version": "1.17.1",
+        "optimized": true
+      },
+      "unoptimizedSize": 15923105
+    },
+    {
+      "id": "1470296013893013554",
+      "name": "LS005_Krebs_Main_Storage_System_-_Inventories.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1461830490276368427/1470296013893013554/Krebs_Main_Storage_System_-_Inventories.zip?ex=698ac75e&is=698975de&hm=0913a704c0db5cd05826fe4688d4ec991c8e23540a1b80b141415e24bae94f54&",
+      "timestamp": 1770616286417,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 2960826,
+      "canDownload": true,
+      "path": "attachments/LS005_Krebs_Main_Storage_System_-_Inventories.zip",
+      "wdls": [
+        {
+          "path": "Krebs Main Storage System - Inventories",
+          "version": "1.17.1",
+          "levelName": "Krebs Main Storage System - Inv"
+        }
+      ],
+      "wdl": {
+        "version": "1.17.1",
+        "optimized": true
+      },
+      "unoptimizedSize": 15833229
     }
   ],
   "records": {
@@ -293,12 +325,13 @@
     "continuingMessageIds": [
       "1461831638773268782",
       "1461831639553282192",
-      "1461831640098668651"
+      "1461831640098668651",
+      "1470296338351653071"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1461831633719267508",
-    "uploadMessageId": "1461831629239488696"
+    "uploadMessageId": "1470296332445946114"
   },
   "archivedAt": 1768598204519,
-  "updatedAt": 1769052198883,
+  "updatedAt": 1770616357820,
   "num_comments": 0
 }
