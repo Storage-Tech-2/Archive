@@ -42,30 +42,35 @@
       "canDownload": true,
       "width": 800,
       "height": 550,
-      "path": "images/area_render_1_.png",
-      "source": "MessageAttachment",
-      "author": {
-        "type": "unknown",
-        "username": "bipim"
-      },
-      "timestamp": 1768961960000
-    }
-  ],
-  "attachments": [
-    {
-      "id": "flzlc49n1e1tpa9",
-      "name": "MIS009_jasps_v4.0.1.url",
-      "contentType": "mediafire",
-      "url": "https://www.mediafire.com/file/flzlc49n1e1tpa9/jasps_v4.0.1.zip/file",
-      "description": "download",
-      "canDownload": false,
-      "path": "attachments/MIS009_jasps_v4.0.1.url",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
         "username": "Unknown"
       },
-      "timestamp": 1769242389395
+      "timestamp": 1768961960000,
+      "path": "images/area_render_1_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1463737334657974352",
+      "name": "MIS009_corner_storage_jasps_v4.0.1_nether.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1463357269013168128/1463737334657974352/corner_storage_jasps_v4.0.1_nether.litematic?ex=6972eb1f&is=6971999f&hm=122d11aa6692e1f5069881eda668398b6906a6831a7cf2b181b2f168534b18c8&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/MIS009_corner_storage_jasps_v4.0.1_nether.litematic",
+      "litematic": {
+        "size": "9x6x12",
+        "version": "1.21.4"
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1769052575000,
+      "size": 1561
     },
     {
       "id": "1463737334930608201",
@@ -82,30 +87,41 @@
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "andrews54757"
+        "username": "Unknown"
       },
       "timestamp": 1769052575000,
       "size": 104243
     },
     {
-      "id": "1463737334657974352",
-      "name": "MIS009_corner_storage_jasps_v4.0.1_nether.litematic",
-      "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1463357269013168128/1463737334657974352/corner_storage_jasps_v4.0.1_nether.litematic?ex=6972eb1f&is=6971999f&hm=122d11aa6692e1f5069881eda668398b6906a6831a7cf2b181b2f168534b18c8&",
-      "description": "",
-      "canDownload": true,
-      "path": "attachments/MIS009_corner_storage_jasps_v4.0.1_nether.litematic",
-      "litematic": {
-        "size": "9x6x12",
-        "version": "1.21.4"
+      "id": "1470295122557010071",
+      "name": "MIS009_jasps_v4.0.1.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1463357269013168128/1470295122557010071/jasps_v4.0.1.zip?ex=698ac689&is=69897509&hm=9ec28b1fd415a01ad0edc54c418eab4a4fae10c71b2aafc03a7e76cc59ed195e&",
+      "timestamp": 1770616073977,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
       },
       "source": "MessageAttachment",
-      "author": {
-        "type": "unknown",
-        "username": "andrews54757"
+      "description": "",
+      "size": 2706334,
+      "canDownload": true,
+      "path": "attachments/MIS009_jasps_v4.0.1.zip",
+      "wdls": [
+        {
+          "path": "v4_",
+          "version": "1.21",
+          "levelName": "v4.0.1"
+        }
+      ],
+      "wdl": {
+        "version": "1.21",
+        "optimized": true
       },
-      "timestamp": 1769052575000,
-      "size": 1561
+      "unoptimizedSize": 20046235
     }
   ],
   "records": {
@@ -198,9 +214,9 @@
       "1464410094895632398"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1464410091057975570",
-    "uploadMessageId": "1464410087887208508"
+    "uploadMessageId": "1470295308327194659"
   },
   "archivedAt": 1769212967056,
-  "updatedAt": 1769212967056,
+  "updatedAt": 1770616114599,
   "num_comments": 0
 }

@@ -32,7 +32,6 @@ download: https://www.mediafire.com/file/flzlc49n1e1tpa9/jasps_v4.0.1.zip/file
 Updated to 1.21 (originally for 1.19)
 
 ## Resources
-- [MIS009_jasps_v4.0.1.url](https://www.mediafire.com/file/flzlc49n1e1tpa9/jasps_v4.0.1.zip/file): Mediafire link
-  - download
-- [MIS009_corner_storage_jasps_v4.0.1.litematic](attachments/MIS009_corner_storage_jasps_v4.0.1.litematic): MC 1.21.4, Size 71x41x67 blocks
 - [MIS009_corner_storage_jasps_v4.0.1_nether.litematic](attachments/MIS009_corner_storage_jasps_v4.0.1_nether.litematic): MC 1.21.4, Size 9x6x12 blocks
+- [MIS009_corner_storage_jasps_v4.0.1.litematic](attachments/MIS009_corner_storage_jasps_v4.0.1.litematic): MC 1.21.4, Size 71x41x67 blocks
+- [MIS009_jasps_v4.0.1.zip](attachments/MIS009_jasps_v4.0.1.zip): MC 1.21
