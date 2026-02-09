@@ -57,4 +57,4 @@ Dispenser crafter: ⁠https://discord.com/channels/856232076252282890/1225739717
 ## Resources
 - [LS004_luckeY_Main_Storage_v2.litematic](attachments/LS004_luckeY_Main_Storage_v2.litematic): MC 1.21.10, Size 101x46x133 blocks
 - [LS004_luckeY_MS_Nether_side.litematic](attachments/LS004_luckeY_MS_Nether_side.litematic): MC 1.21.4, Size 14x5x15 blocks
-- [LS004_luckeY_Main_Storage_v2.url](https://www.mediafire.com/file/tjpu9n7jkx8teih/luckeY_Main_Storage_v2.zip/file): Mediafire link
+- [LS004_luckeY_Main_Storage_v2.zip](attachments/LS004_luckeY_Main_Storage_v2.zip): MC 1.21.10

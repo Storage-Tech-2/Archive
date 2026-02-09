@@ -42,13 +42,13 @@
       "canDownload": true,
       "width": 800,
       "height": 543,
-      "path": "images/luckeY_MS_v2.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "andrews54757"
+        "username": "Unknown"
       },
-      "timestamp": 1767887088000
+      "timestamp": 1767887088000,
+      "path": "images/luckeY_MS_v2.png"
     },
     {
       "id": "1458849423579676774",
@@ -59,13 +59,13 @@
       "canDownload": true,
       "width": 800,
       "height": 423,
-      "path": "images/2025-11-13_13.31.48.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
         "username": "Unknown"
       },
-      "timestamp": 1769242389396
+      "timestamp": 1769242389377,
+      "path": "images/2025-11-13_13.31.48.png"
     },
     {
       "id": "1458849417187823669",
@@ -76,13 +76,13 @@
       "canDownload": true,
       "width": 800,
       "height": 423,
-      "path": "images/2025-11-13_13.32.25.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
         "username": "Unknown"
       },
-      "timestamp": 1769242389396
+      "timestamp": 1769242389377,
+      "path": "images/2025-11-13_13.32.25.png"
     },
     {
       "id": "1458849416411746354",
@@ -93,13 +93,13 @@
       "canDownload": true,
       "width": 800,
       "height": 423,
-      "path": "images/2025-11-13_13.32.13.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
         "username": "Unknown"
       },
-      "timestamp": 1769242389396
+      "timestamp": 1769242389377,
+      "path": "images/2025-11-13_13.32.13.png"
     },
     {
       "id": "1458849415572754588",
@@ -110,13 +110,13 @@
       "canDownload": true,
       "width": 800,
       "height": 423,
-      "path": "images/2025-11-13_13.32.03.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
         "username": "Unknown"
       },
-      "timestamp": 1769242389396
+      "timestamp": 1769242389377,
+      "path": "images/2025-11-13_13.32.03.png"
     }
   ],
   "attachments": [
@@ -135,7 +135,7 @@
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "andrews54757"
+        "username": "Unknown"
       },
       "timestamp": 1769052748000,
       "size": 216230
@@ -155,25 +155,41 @@
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "andrews54757"
+        "username": "Unknown"
       },
       "timestamp": 1767887291000,
       "size": 1179
     },
     {
-      "id": "tjpu9n7jkx8teih",
-      "name": "LS004_luckeY_Main_Storage_v2.url",
-      "contentType": "mediafire",
-      "url": "https://www.mediafire.com/file/tjpu9n7jkx8teih/luckeY_Main_Storage_v2.zip/file",
-      "description": "",
-      "canDownload": false,
-      "path": "attachments/LS004_luckeY_Main_Storage_v2.url",
-      "source": "MessageAttachment",
+      "id": "1470296757651898514",
+      "name": "LS004_luckeY_Main_Storage_v2.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1458848929503383572/1470296757651898514/luckeY_Main_Storage_v2.zip?ex=698ac80f&is=6989768f&hm=a8ab9ad2f70141f3c6dba7eb17afbd76cdb176934cf006980e299bb5150b9cb3&",
+      "timestamp": 1770616463790,
       "author": {
-        "type": "unknown",
-        "username": "andrews54757"
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
       },
-      "timestamp": 1767887291000
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 8224151,
+      "canDownload": true,
+      "path": "attachments/LS004_luckeY_Main_Storage_v2.zip",
+      "wdls": [
+        {
+          "path": "luckeY Main Storage v2",
+          "version": "1.21.10",
+          "levelName": "luckeY Main Storage 1.21.10"
+        }
+      ],
+      "wdl": {
+        "version": "1.21.10",
+        "optimized": true
+      },
+      "unoptimizedSize": 30782049
     }
   ],
   "records": {
@@ -439,9 +455,9 @@
       "1458851294402842747"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1458851285771227331",
-    "uploadMessageId": "1463738153008500747"
+    "uploadMessageId": "1470296907661181124"
   },
   "archivedAt": 1767887631869,
-  "updatedAt": 1769052768088,
+  "updatedAt": 1770616494078,
   "num_comments": 0
 }
