@@ -27,7 +27,7 @@ Youtube video: https://youtu.be/9eHcvMi7HUw
 Works in 1.19+ only because of cart yeeting
 
 ## Resources
-- [MIS008_CartMIS_V3_Hybrid_Storage.url](https://www.mediafire.com/file/96go57641hdhqgd/CartMIS_V3_Hybrid_Storage.zip/file): Mediafire link
 - [MIS008_Complete_Cart-based_Storage_overworld.litematic](attachments/MIS008_Complete_Cart-based_Storage_overworld.litematic): MC 1.20.1, Size 160x48x125 blocks
 - [MIS008_Complete_Cart-based_Storage_nether.litematic](attachments/MIS008_Complete_Cart-based_Storage_nether.litematic): MC 1.20.1, Size 20x30x14 blocks
 - [It just keeps getting better\! [Cart-Based Multi-Item Sorter + Hybrid Storage]](https://youtu.be/9eHcvMi7HUw): by [RaPsCaLLioN1138](https://www.youtube.com/@RaPsCaLLioN1138)
+- [MIS008_CartMIS_V3_Hybrid_Storage.zip](attachments/MIS008_CartMIS_V3_Hybrid_Storage.zip): MC 1.20.1

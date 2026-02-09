@@ -59,31 +59,16 @@
       "canDownload": true,
       "width": 800,
       "height": 536,
-      "path": "images/image.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "andrews54757"
+        "username": "Unknown"
       },
-      "timestamp": 1768599354000
+      "timestamp": 1768599354000,
+      "path": "images/image.png"
     }
   ],
   "attachments": [
-    {
-      "id": "96go57641hdhqgd",
-      "name": "MIS008_CartMIS_V3_Hybrid_Storage.url",
-      "contentType": "mediafire",
-      "url": "https://www.mediafire.com/file/96go57641hdhqgd/CartMIS_V3_Hybrid_Storage.zip/file",
-      "description": "",
-      "canDownload": false,
-      "path": "attachments/MIS008_CartMIS_V3_Hybrid_Storage.url",
-      "source": "MessageAttachment",
-      "author": {
-        "type": "unknown",
-        "username": "andrews54757"
-      },
-      "timestamp": 1768599415000
-    },
     {
       "id": "1461836642347253964",
       "name": "MIS008_Complete_Cart-based_Storage_overworld.litematic",
@@ -99,7 +84,7 @@
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "andrews54757"
+        "username": "Unknown"
       },
       "timestamp": 1768599415000,
       "size": 395493
@@ -119,7 +104,7 @@
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "andrews54757"
+        "username": "Unknown"
       },
       "timestamp": 1768599415000,
       "size": 1112
@@ -141,13 +126,43 @@
         "width": 200,
         "height": 113
       },
-      "path": "attachments/MIS008_YouTube_Video_9eHcvMi7HUw.url",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "andrews54757"
+        "username": "Unknown"
       },
       "timestamp": 1768599354000
+    },
+    {
+      "id": "1470295604747042818",
+      "name": "MIS008_CartMIS_V3_Hybrid_Storage.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1461836389992759307/1470295604747042818/CartMIS_V3_Hybrid_Storage.zip?ex=698ac6fc&is=6989757c&hm=133157e1080ed38c3623af67b32d016f59510ba1d1b3ccbdc7557a1ce29beaa1&",
+      "timestamp": 1770616188937,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 3602137,
+      "canDownload": true,
+      "path": "attachments/MIS008_CartMIS_V3_Hybrid_Storage.zip",
+      "wdls": [
+        {
+          "path": "CartMIS V3 Hybrid Storage",
+          "version": "1.20.1",
+          "levelName": "CartMIS V3 + Hybrid Storage"
+        }
+      ],
+      "wdl": {
+        "version": "1.20.1",
+        "optimized": true
+      },
+      "unoptimizedSize": 31139257
     }
   ],
   "records": {
@@ -227,9 +242,9 @@
       "1461837912604934236"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1461837905675817209",
-    "uploadMessageId": "1461837900994838700"
+    "uploadMessageId": "1470295753971990632"
   },
   "archivedAt": 1768599709461,
-  "updatedAt": 1768599709461,
+  "updatedAt": 1770616221541,
   "num_comments": 0
 }
