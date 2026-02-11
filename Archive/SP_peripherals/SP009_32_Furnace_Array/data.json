@@ -1,0 +1,205 @@
+{
+  "id": "1471024240177188929",
+  "name": "32 Furnace Array",
+  "code": "SP009",
+  "reservedCodes": [
+    "SP009"
+  ],
+  "pastPostThreadIds": [
+    "1471026013822652650"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "459948835205283861",
+      "username": "robot_005",
+      "displayName": "Robot",
+      "iconURL": "https://cdn.discordapp.com/avatars/459948835205283861/14b1e0b6548c782797d9cac050f54de1.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465492170420125863",
+      "name": "Functional"
+    },
+    {
+      "id": "1457542787384741920",
+      "name": "Furnace Array"
+    }
+  ],
+  "images": [
+    {
+      "id": "1471025530449952848",
+      "name": "area_render_191_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1471024240177188929/1471025530449952848/area_render_191_.png?ex=698d6ec8&is=698c1d48&hm=9d0c58be0ffc300258c580d619d0a934876d823bbda2db33765def3adb1c3ba2&",
+      "timestamp": 1770790216680,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 85736,
+      "canDownload": true,
+      "width": 714,
+      "height": 641,
+      "path": "images/area_render_191_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1471024240865050756",
+      "name": "SP009_32FurnaceArray.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1471024240177188929/1471024240865050756/32FurnaceArray.zip?ex=698d6d95&is=698c1c15&hm=f79f7893776b3df008e65fd61ef8d6480dd8afd388a36126d994da11c98b2f51&",
+      "timestamp": 1770789909167,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 99627,
+      "canDownload": true,
+      "path": "attachments/SP009_32FurnaceArray.zip",
+      "wdls": [
+        {
+          "path": "32FurnaceArray",
+          "version": "1.21.10",
+          "levelName": "32FurnaceArray"
+        }
+      ],
+      "wdl": {
+        "version": "1.21.10",
+        "optimized": true
+      },
+      "unoptimizedSize": 679001
+    },
+    {
+      "id": "1471024241582538906",
+      "name": "SP009_32FurnaceArray_2026-01-23.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1471024240177188929/1471024241582538906/32FurnaceArray_2026-01-23.litematic?ex=698d6d95&is=698c1c15&hm=bd838b56332a21a4e3bf613a8577958132c9becb7f380899d59803eddf01dc60&",
+      "timestamp": 1770789909167,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 2383,
+      "canDownload": true,
+      "path": "attachments/SP009_32FurnaceArray_2026-01-23.litematic",
+      "litematic": {
+        "size": "6x10x19",
+        "version": "1.21.10"
+      }
+    },
+    {
+      "id": "1471024241913892894",
+      "name": "SP009_32FurnaceArray_Decoration_2026-01-23.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1471024240177188929/1471024241913892894/32FurnaceArray_Decoration_2026-01-23.litematic?ex=698d6d95&is=698c1c15&hm=c0ff3154388a874b797811c15b5cb1d43cf6f3c4ba4bb0584803e2b9373c5741&",
+      "timestamp": 1770789909167,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 3194,
+      "canDownload": true,
+      "path": "attachments/SP009_32FurnaceArray_Decoration_2026-01-23.litematic",
+      "litematic": {
+        "size": "6x11x21",
+        "version": "1.21.10"
+      }
+    },
+    {
+      "id": "dgfI3ctNXkU",
+      "name": "SP009_YouTube_Video_dgfI3ctNXkU.url",
+      "contentType": "youtube",
+      "url": "https://youtu.be/dgfI3ctNXkU",
+      "timestamp": 1770789909167,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "URLInMessage",
+      "description": "",
+      "canDownload": false,
+      "youtube": {
+        "title": "Best 32 Furnace Array - Instant dropper and entityless | Minecraft Java Edition",
+        "author_name": "Robot",
+        "author_url": "https://www.youtube.com/@Robot_005",
+        "thumbnail_url": "https://i.ytimg.com/vi/dgfI3ctNXkU/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      }
+    }
+  ],
+  "records": {
+    "description": "A simple 32 furnace array using redcoded instant droppers.",
+    "features": [
+      "Simple & compact size",
+      "Easy to build",
+      "No Entities, low lag",
+      "Runs even on low fuel because fuel is distributed evenly"
+    ],
+    "notes": "Must use fuel that lasts at least 10s (200 ticks). Keep chunks loaded while running. Includes decorated and non-decorated versions.",
+    "compatibility": "All versions after 1.11. Built with 1.21.10. For older versions, see the video from 3:46."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Gametick",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "ticks"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1471026013822652650",
+    "forumId": "1457538260892127293",
+    "continuingMessageIds": [
+      "1471026016951734272",
+      "1471026017752711249"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1471026013822652650",
+    "uploadMessageId": "1471026006755246093"
+  },
+  "archivedAt": 1770790327294,
+  "updatedAt": 1770790327294,
+  "num_comments": 0
+}
