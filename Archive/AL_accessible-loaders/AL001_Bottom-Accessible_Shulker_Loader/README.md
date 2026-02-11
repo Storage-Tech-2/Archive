@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Tileable, Recommended, Functional*
+**Tags:** *Tileable, Functional*
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1392582196652675092)
 
