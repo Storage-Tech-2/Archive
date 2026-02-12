@@ -121,7 +121,8 @@
         "username": "ragdollwilly"
       },
       "timestamp": 1750817804000,
-      "size": 856
+      "size": 856,
+      "hash": "0f8113094c4deb64cf539a569b79c6071afdf6944e83d0b379fe19d9bdeed3e4"
     },
     {
       "id": "1387255162393067641",
@@ -141,7 +142,8 @@
         "username": "ragdollwilly"
       },
       "timestamp": 1750817804000,
-      "size": 877
+      "size": 877,
+      "hash": "6ba3e722b08458ddad905db9e684a14e0f39f79a2a2fe74d267a36489473bede"
     },
     {
       "id": "1387287400912257096",
@@ -161,7 +163,8 @@
         "username": "ragdollwilly"
       },
       "timestamp": 1750825491000,
-      "size": 1223
+      "size": 1223,
+      "hash": "1e0bb0bd21d51d66d4d56205dde2780c1d0d20b0a4d7113c46c5a3dd3a319f74"
     },
     {
       "id": "1387287401411641446",
@@ -181,7 +184,8 @@
         "username": "ragdollwilly"
       },
       "timestamp": 1750825491000,
-      "size": 1261
+      "size": 1261,
+      "hash": "acf01a8121e1a4f35951068cc9f83e27edf6a3d35f75624c3545afe6b82c6e66"
     }
   ],
   "records": {

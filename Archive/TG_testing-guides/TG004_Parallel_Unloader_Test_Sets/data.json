@@ -83,7 +83,8 @@
       "litematic": {
         "size": "3x4x1",
         "version": "1.21.1"
-      }
+      },
+      "hash": "bc0a960ee53db77aa58de77367c3a9025d0f8a390acf7985a99e70de661bd6af"
     },
     {
       "id": "1467277292962185387",
@@ -106,7 +107,8 @@
       "litematic": {
         "size": "3x8x1",
         "version": "1.21.1"
-      }
+      },
+      "hash": "7a380f6290507066b6a789df76f0e8050306869a84c91fecadf1bf95e698f6f6"
     },
     {
       "id": "1467277293222363196",
@@ -129,7 +131,8 @@
       "litematic": {
         "size": "1x1x1",
         "version": "1.21.1"
-      }
+      },
+      "hash": "79b668c302fcb1a4af9934eb87c0f8b2e4584b383b5792c36323f8f7e55ee0b8"
     }
   ],
   "records": {

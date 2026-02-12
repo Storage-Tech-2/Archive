@@ -87,7 +87,8 @@
         "username": "Unknown"
       },
       "timestamp": 1768599415000,
-      "size": 395493
+      "size": 395493,
+      "hash": "f3aa6923cc0f324ac14d5653b518b5728d2f2f45adcbb3d131f8da939c8b9288"
     },
     {
       "id": "1461836642615562282",
@@ -107,7 +108,8 @@
         "username": "Unknown"
       },
       "timestamp": 1768599415000,
-      "size": 1112
+      "size": 1112,
+      "hash": "dd944e2cf07bd0922c6c9e7955dd8e1b246cc53a44489761c340bd5410643b32"
     },
     {
       "id": "9eHcvMi7HUw",
@@ -162,7 +164,8 @@
         "version": "1.20.1",
         "optimized": true
       },
-      "unoptimizedSize": 31139257
+      "unoptimizedSize": 31139257,
+      "hash": "ff3495a197736a8d75b92cceba0c9f80bb66a26e19e0bdd068f12ba0d5ab3296"
     }
   ],
   "records": {

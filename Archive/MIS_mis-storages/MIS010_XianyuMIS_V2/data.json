@@ -128,7 +128,8 @@
       "litematic": {
         "size": "66x56x58",
         "version": "1.21.4"
-      }
+      },
+      "hash": "5a6df6375ec0bfabdb1d44f0147c1879b2fe26bbe48f8f9875f630dd7e15beff"
     },
     {
       "id": "1469238005406502971",
@@ -159,7 +160,8 @@
         "version": "1.21.4",
         "optimized": true
       },
-      "unoptimizedSize": 10451795
+      "unoptimizedSize": 10451795,
+      "hash": "8e636c4279aa1c3a52a894f22a4dcdb54f7b1f88f0676efae1ba7765a4d9b1cc"
     },
     {
       "id": "1469238005180141590",
@@ -182,7 +184,8 @@
       "litematic": {
         "size": "48x29x45",
         "version": "1.21.4"
-      }
+      },
+      "hash": "78ea2e59adb4bc3646611c347389601fb20c9cd27de241971a73353eed8216ac"
     }
   ],
   "records": {

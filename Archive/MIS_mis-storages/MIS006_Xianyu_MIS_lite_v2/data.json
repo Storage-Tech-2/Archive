@@ -88,7 +88,8 @@
           "version": "1.21",
           "levelName": "XianyuMIS_lite_v2_1.21"
         }
-      ]
+      ],
+      "hash": "87682294be8cdfbce88d737e10b66f2ed351f19f2b0e031dd5aa3c4589c8caf1"
     },
     {
       "id": "1390206180911222784",
@@ -108,7 +109,8 @@
         "username": "jeffyangzx"
       },
       "timestamp": 1751521382000,
-      "size": 31045
+      "size": 31045,
+      "hash": "cd1b228c5f77f86e355b3ef4e7082fe66195c3a63ae7328ac488712fbdd5fcf8"
     },
     {
       "id": "1390206180562960406",
@@ -128,7 +130,8 @@
         "username": "jeffyangzx"
       },
       "timestamp": 1751521382000,
-      "size": 32085
+      "size": 32085,
+      "hash": "d398bbbaf796036ce254c21588b2d4eca74a77b31278d150a7cb77cfa50c901d"
     }
   ],
   "records": {

@@ -113,7 +113,8 @@
       "wdl": {
         "version": "1.21.10, 1.20.1",
         "optimized": true
-      }
+      },
+      "hash": "e1dff3bcb6bc19c7591503d6000fb9e9780b933557c472cc7a95c2792d847fc6"
     },
     {
       "id": "1468353926108811406",
@@ -136,7 +137,8 @@
       "litematic": {
         "size": "208x75x176",
         "version": "1.20.1"
-      }
+      },
+      "hash": "ea38e5b65d1c21aa47ef1adae23c0bb9511eda1efda03e7ab7c5918bd4ff5726"
     },
     {
       "id": "1468353926347620423",
@@ -159,7 +161,8 @@
       "litematic": {
         "size": "208x57x176",
         "version": "1.20.1"
-      }
+      },
+      "hash": "bf3750e6e2ee8664a6d81710b8fddaedee02041c7fab05e6dccf1df2ef92f19e"
     },
     {
       "id": "1468353925571674153",
@@ -182,7 +185,8 @@
       "litematic": {
         "size": "208x75x176",
         "version": "1.21.10"
-      }
+      },
+      "hash": "7936a28b36b55ea6e6503bda2c8f81787d4cae1ae2d0ec71f7ca0b37c45b1219"
     },
     {
       "id": "1468353925827530774",
@@ -205,7 +209,8 @@
       "litematic": {
         "size": "208x57x176",
         "version": "1.21.10"
-      }
+      },
+      "hash": "4a7acf83b544d0179ccf3fde3b8cc7a1b7fcdba878457e015ec04c85f0a6bebb"
     }
   ],
   "records": {

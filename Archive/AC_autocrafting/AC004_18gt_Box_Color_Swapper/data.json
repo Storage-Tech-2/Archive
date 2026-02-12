@@ -111,7 +111,8 @@
         "username": "drakephose"
       },
       "timestamp": 1751915614000,
-      "size": 8877
+      "size": 8877,
+      "hash": "70580c70c08346a8c3cb66e0b916161786f40f0342ff2909f8f1f91d0a8141f8"
     },
     {
       "id": "1391859712374603916",
@@ -131,7 +132,8 @@
         "username": "drakephose"
       },
       "timestamp": 1751915614000,
-      "size": 6211
+      "size": 6211,
+      "hash": "fb72c959a1ced79951e4017239e9244801bed26f4bb30f5c28b3bcd574fca253"
     },
     {
       "id": "1391859712781455493",
@@ -151,7 +153,8 @@
         "username": "drakephose"
       },
       "timestamp": 1751915614000,
-      "size": 30194
+      "size": 30194,
+      "hash": "017f32d6b51d6276da1cb4f4a9a20209b407b98f7afc7bfb9fae88f3da51a2f2"
     }
   ],
   "records": {

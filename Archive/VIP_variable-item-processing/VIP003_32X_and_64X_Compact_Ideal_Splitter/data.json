@@ -101,7 +101,8 @@
           "version": "1.21.4",
           "levelName": "Ideal Splitter V3"
         }
-      ]
+      ],
+      "hash": "9199253e80316edcd567abcd91715d43798a5fef5c1cf4daebe7c140003e5355"
     },
     {
       "id": "1457958142104178849",
@@ -124,7 +125,8 @@
       "litematic": {
         "size": "43x16x14",
         "version": "1.21.4"
-      }
+      },
+      "hash": "c63d92ab2f8d1206a5972d7820e322fcf5906f02a1044b0ae786de572a89ff1a"
     },
     {
       "id": "1457958142410494014",
@@ -147,7 +149,8 @@
       "litematic": {
         "size": "27x16x14",
         "version": "1.21.4"
-      }
+      },
+      "hash": "3f62e7b1a9539b6441b5e86fd69acd3a3ee903816e4cc6997dbce7280396df5f"
     },
     {
       "id": "PW318UfnCfU",
@@ -175,7 +178,8 @@
         "width": 200,
         "height": 113
       },
-      "path": "attachments/VIP003_YouTube_Video_PW318UfnCfU.url"
+      "path": "attachments/VIP003_YouTube_Video_PW318UfnCfU.url",
+      "hash": "ce39e268986d0ac6879f35cf20c39ab248cbe4c538556bdcb0a095137f060e81"
     },
     {
       "id": "1387083568605429821",
@@ -194,7 +198,8 @@
       "description": "",
       "size": 6463343,
       "canDownload": true,
-      "path": "attachments/VIP003_ideal3-2.png"
+      "path": "attachments/VIP003_ideal3-2.png",
+      "hash": "505726b9eac44cf08991437612d27b712c49efe40fc9c5ad11154bb6660ed175"
     },
     {
       "id": "1462155449355993343",
@@ -217,7 +222,8 @@
       "litematic": {
         "size": "27x14x14",
         "version": "1.21.4"
-      }
+      },
+      "hash": "4af07d939238ee689e1331bb66228e69b39996c7e7c039f5edbab388f4eae8d1"
     }
   ],
   "records": {

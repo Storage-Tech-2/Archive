@@ -77,7 +77,8 @@
         "username": "andrews54757"
       },
       "timestamp": 1751164922000,
-      "size": 310256
+      "size": 310256,
+      "hash": "af2ff0360486f471448c533cf03cec64142445fa8fac18dfe7d4623115ccae15"
     },
     {
       "id": "1388626214326894802",
@@ -97,7 +98,8 @@
         "username": "andrews54757"
       },
       "timestamp": 1751144689000,
-      "size": 304092
+      "size": 304092,
+      "hash": "7ced6360553b26f22fc1d1c5b8e153864ffd6c00943c6ec4728b6613283428c8"
     },
     {
       "id": "1459310263106015456",
@@ -117,7 +119,8 @@
         "username": "andrews54757"
       },
       "timestamp": 1767997079000,
-      "size": 825098
+      "size": 825098,
+      "hash": "8e980047185365104432cbc424d66c3b20d0e73812bd056769c57674bfa4aedf"
     },
     {
       "id": "1459310262694842418",
@@ -137,7 +140,8 @@
         "username": "andrews54757"
       },
       "timestamp": 1767997079000,
-      "size": 742643
+      "size": 742643,
+      "hash": "bc094d370b3df2377ca3b9d2c1c2815740fe13492ad22a78eac72f2222f6576c"
     }
   ],
   "records": {

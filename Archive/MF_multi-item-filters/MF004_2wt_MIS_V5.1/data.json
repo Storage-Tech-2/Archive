@@ -87,7 +87,8 @@
         "username": "tisunfortunate"
       },
       "timestamp": 1768588693000,
-      "size": 2030
+      "size": 2030,
+      "hash": "4a8d5480ff3c9e60f5cfa55379cf605c2e726f092c62e9e343abbd06cbf9775d"
     },
     {
       "id": "1461791675465863312",
@@ -107,7 +108,8 @@
         "username": "tisunfortunate"
       },
       "timestamp": 1768588693000,
-      "size": 1778
+      "size": 1778,
+      "hash": "ff437595a035e16c0ac03b34c29e6c86cd3fddb058e640981542fb826d20198c"
     },
     {
       "id": "1461791675721449605",
@@ -127,7 +129,8 @@
         "username": "tisunfortunate"
       },
       "timestamp": 1768588693000,
-      "size": 2486
+      "size": 2486,
+      "hash": "6035751372a0957f0d2a3302a883de1be907fd262b7a4c2b0c3dee51e1668c1d"
     },
     {
       "id": "1461791676006666364",
@@ -147,7 +150,8 @@
         "username": "tisunfortunate"
       },
       "timestamp": 1768588693000,
-      "size": 2147
+      "size": 2147,
+      "hash": "a01505629ee9af60e64983963aec8b60238e181d32a5eb8adf5f0311d85bf164"
     }
   ],
   "records": {

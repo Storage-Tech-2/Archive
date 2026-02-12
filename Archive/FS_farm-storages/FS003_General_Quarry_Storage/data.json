@@ -70,7 +70,8 @@
         "username": "Unknown"
       },
       "timestamp": 1750793601000,
-      "path": "attachments/FS003_GQS-0.8.0-stacksep.litematic"
+      "path": "attachments/FS003_GQS-0.8.0-stacksep.litematic",
+      "hash": "2b188418a44bf8b455a3fafc5606f22253a31f6b9bc75a5e2fa57211bca768b5"
     },
     {
       "id": "1387153650001903616",
@@ -89,7 +90,8 @@
         "username": "Unknown"
       },
       "timestamp": 1750793601000,
-      "path": "attachments/FS003_GQS-0.8.0-storage.litematic"
+      "path": "attachments/FS003_GQS-0.8.0-storage.litematic",
+      "hash": "e836e0732c3e593655451ca227efb5752c47f3df1ad745c159112c1010f9f33d"
     }
   ],
   "records": {

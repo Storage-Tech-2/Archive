@@ -77,7 +77,8 @@
       "litematic": {
         "size": "3x2x1",
         "version": "1.17.1"
-      }
+      },
+      "hash": "a3859f72c37ed8e507de7ba6530adf437317ef0c79dc30fd1ac7aba5bcdf87e1"
     },
     {
       "id": "1464690832371355832",
@@ -100,7 +101,8 @@
       "litematic": {
         "size": "3x4x1",
         "version": "1.21.11"
-      }
+      },
+      "hash": "7f9bdab98b7506286f16949adc70a2c633c02210bf57639ed545d1f555e2f9d3"
     },
     {
       "id": "1464690832656437344",
@@ -123,7 +125,8 @@
       "litematic": {
         "size": "2x1x1",
         "version": "1.20.4"
-      }
+      },
+      "hash": "b8f486b940c678eb0c3f7cee648ae43f49d4a9e946d4cc13409419d64ac052b7"
     },
     {
       "id": "1464690832975069306",
@@ -146,7 +149,8 @@
       "litematic": {
         "size": "1x1x1",
         "version": "1.20.4"
-      }
+      },
+      "hash": "c696af82d16a944b88647c4112d3fe1370543674c1f8990b7ad66eecc6b99100"
     },
     {
       "id": "1464690833285714035",
@@ -169,7 +173,8 @@
       "litematic": {
         "size": "3x2x1",
         "version": "1.20.4"
-      }
+      },
+      "hash": "6d184b417d55abf7b79bf6edc371c8b42bc8f304f60c459c2a981e03ed7042a4"
     },
     {
       "id": "1464690833579184330",
@@ -192,7 +197,8 @@
       "litematic": {
         "size": "1x1x1",
         "version": "1.20.4"
-      }
+      },
+      "hash": "65dbc81a7eb34d309b2777b57115a0cd6e8b9cc100916334f59c576e68a79607"
     },
     {
       "id": "1464690833843290162",
@@ -215,7 +221,8 @@
       "litematic": {
         "size": "2x1x1",
         "version": "1.20.4"
-      }
+      },
+      "hash": "60fdbdf10cc4ea3fd015a2cba7bcd6a3134850fcd133926e43743ee6c3684985"
     },
     {
       "id": "1464692066448838803",
@@ -234,7 +241,8 @@
       "description": "A spreadsheet of items in the sci-mooshroom set",
       "size": 2371,
       "canDownload": true,
-      "path": "attachments/TG002_sci-mooshroom.csv"
+      "path": "attachments/TG002_sci-mooshroom.csv",
+      "hash": "97bb948ccbe65dfb5303908ab83aa6231a435f88460f9175acf31f45598382dd"
     },
     {
       "id": "1464692065857306930",
@@ -253,7 +261,8 @@
       "description": "A spreadsheet of items in the wavetech-combined set",
       "size": 5702,
       "canDownload": true,
-      "path": "attachments/TG002_wavetech-combined.csv"
+      "path": "attachments/TG002_wavetech-combined.csv",
+      "hash": "fbc5fd983506c71c0eb8cdff349d00ca0bc8a36e5f8881a20f97cd5210003558"
     }
   ],
   "records": {

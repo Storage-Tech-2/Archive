@@ -106,7 +106,8 @@
         "username": "acaciachan"
       },
       "timestamp": 1750954245000,
-      "size": 2464
+      "size": 2464,
+      "hash": "e6fc10b3642058d5f468438d0fa8c63ac25bfb79d20e9ed02d70f0f4ec77417a"
     },
     {
       "id": "1387827434342187169",
@@ -126,7 +127,8 @@
         "username": "acaciachan"
       },
       "timestamp": 1750954245000,
-      "size": 7513
+      "size": 7513,
+      "hash": "1df0ab3620431f47b6d249db8bb2dd59bb34e18eeff7725c3bfc72b565a49c67"
     },
     {
       "id": "1387827434623078430",
@@ -146,7 +148,8 @@
         "username": "acaciachan"
       },
       "timestamp": 1750954245000,
-      "size": 5600
+      "size": 5600,
+      "hash": "3bb0abb126753b48efb4d2bf061e027a4c6ca0aacea87e4bca745bc5fb45d8fc"
     },
     {
       "id": "1387893902790365254",
@@ -166,7 +169,8 @@
         "username": "acaciachan"
       },
       "timestamp": 1750970092000,
-      "size": 2174
+      "size": 2174,
+      "hash": "102cd56f2153832f65711fbd3ebde9059299ce21d1f1e1d28af48044b649991b"
     }
   ],
   "records": {

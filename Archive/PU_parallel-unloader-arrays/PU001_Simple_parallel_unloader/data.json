@@ -77,7 +77,8 @@
         "username": "valblaze"
       },
       "timestamp": 1750628203000,
-      "size": 5236
+      "size": 5236,
+      "hash": "b105476b90e3384b6c22efd466d7528b56e78b15f105efeb4d49516b2f5f98ec"
     },
     {
       "id": "1344506312234635274",
@@ -97,7 +98,8 @@
         "username": "valblaze"
       },
       "timestamp": 1750628232000,
-      "size": 4964
+      "size": 4964,
+      "hash": "b389e6f686151d31a86fa2a0a55d237b2fbb0dc883ca5e04c77dfaae726a2961"
     }
   ],
   "records": {

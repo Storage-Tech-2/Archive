@@ -87,7 +87,8 @@
         "username": "drakephose"
       },
       "timestamp": 1751908590000,
-      "size": 883
+      "size": 883,
+      "hash": "74a68d89cd472481c01d22a2aac1a251f24503d606f524aa95e50be868901b63"
     },
     {
       "id": "1391830253802098769",
@@ -107,7 +108,8 @@
         "username": "drakephose"
       },
       "timestamp": 1751908590000,
-      "size": 1040
+      "size": 1040,
+      "hash": "4ba09f660f1374e3cf4fa668b861392e4c87a92c4ec9cbf69a498d51b56585d7"
     }
   ],
   "records": {

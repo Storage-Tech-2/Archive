@@ -89,7 +89,8 @@
         "version": "1.21.10",
         "optimized": true
       },
-      "unoptimizedSize": 679001
+      "unoptimizedSize": 679001,
+      "hash": "d44e83c503346e41571003790a08041ad91ae425c4aa3ee9c27aef9ce28417f5"
     },
     {
       "id": "1471024241582538906",
@@ -112,7 +113,8 @@
       "litematic": {
         "size": "6x10x19",
         "version": "1.21.10"
-      }
+      },
+      "hash": "35ce96f9df9904ecde8b2ed613386c89cd9f0ccbde95963d22a25f6277a61c0f"
     },
     {
       "id": "1471024241913892894",
@@ -135,7 +137,8 @@
       "litematic": {
         "size": "6x11x21",
         "version": "1.21.10"
-      }
+      },
+      "hash": "e2a09dad57317c47bc9f42ade048360cfe7e5685f5c93e3ea117e17d683db90d"
     },
     {
       "id": "dgfI3ctNXkU",

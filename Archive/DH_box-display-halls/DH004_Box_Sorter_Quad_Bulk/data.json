@@ -102,7 +102,8 @@
           "version": "1.21.1",
           "levelName": "quad bulk showcase"
         }
-      ]
+      ],
+      "hash": "01eaf7e56953867bfab7f3adbb411fd003f3dc09b917749619e98fb695caf841"
     },
     {
       "id": "1451836922824753194",
@@ -122,7 +123,8 @@
         "username": "camphorwood"
       },
       "timestamp": 1766215296000,
-      "size": 104019
+      "size": 104019,
+      "hash": "9c84c90265289dc67ac8b81b76ebd67d43a3d814d1fae7ed1246697d23cf37a0"
     }
   ],
   "records": {

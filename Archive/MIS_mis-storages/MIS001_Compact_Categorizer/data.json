@@ -80,7 +80,8 @@
         "username": "andrews54757"
       },
       "timestamp": 1767035779000,
-      "size": 10294
+      "size": 10294,
+      "hash": "07db280f58008df530de1c370ea7baec217897b4a429809453d97cfbe92fc9ba"
     },
     {
       "id": "1455278279778107402",
@@ -100,7 +101,8 @@
         "username": "andrews54757"
       },
       "timestamp": 1767035779000,
-      "size": 9693
+      "size": 9693,
+      "hash": "91be3fb5fb8243e02a13b123e99276b57d668343dffadbb394f41b93179208cd"
     },
     {
       "id": "1455278280029503519",
@@ -120,7 +122,8 @@
         "username": "andrews54757"
       },
       "timestamp": 1767035779000,
-      "size": 10012
+      "size": 10012,
+      "hash": "e7db0a45753c8a6b4f1128a2e753b149bf48fd62281e0e586f647f1053ae1139"
     },
     {
       "id": "1455278280428228762",
@@ -140,7 +143,8 @@
         "username": "andrews54757"
       },
       "timestamp": 1767035779000,
-      "size": 10268
+      "size": 10268,
+      "hash": "44203d257e007de105abc6102e99176ed16700bb360d0ef99db0339cb5bdf9af"
     },
     {
       "id": "1455278280654716990",
@@ -167,7 +171,8 @@
           "version": "1.21.1",
           "levelName": "Compact Categorizer World"
         }
-      ]
+      ],
+      "hash": "9b461b83bd8f959b6ebaa6f355ddf8d7ba5f60525564e179238192f7e4da27fe"
     },
     {
       "id": "DnrAoKd8ZOc",
@@ -192,7 +197,8 @@
         "type": "unknown",
         "username": "andrews54757"
       },
-      "timestamp": 1750572867000
+      "timestamp": 1750572867000,
+      "hash": "1d2d068d2bdd2f72cda8fe3e45f36a560444fec2e87c6701f11ccdfa90bb7021"
     }
   ],
   "records": {

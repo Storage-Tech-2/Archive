@@ -65,7 +65,8 @@
         "type": "unknown",
         "username": "compactsmg"
       },
-      "timestamp": 1752723584000
+      "timestamp": 1752723584000,
+      "hash": "9259eb157c20566f138fcdcc6be530ec84448575f226e30facf2a7cd6b662b3c"
     },
     {
       "id": "1389156354161381507",
@@ -85,7 +86,8 @@
         "username": "compactsmg"
       },
       "timestamp": 1751271084000,
-      "size": 1258
+      "size": 1258,
+      "hash": "de4983bf65735c3f663eb36e0e1c787fe0794ca0d4ddb518aeb777890ddfc9ce"
     },
     {
       "id": "1395660548544397402",
@@ -105,7 +107,8 @@
         "username": "compactsmg"
       },
       "timestamp": 1752821804000,
-      "size": 244580
+      "size": 244580,
+      "hash": "2727e6f727d2649c3007b4b508519ae72a9f063fab7a50e0aa18fb4bc47ce497"
     }
   ],
   "records": {

@@ -94,7 +94,8 @@
         "username": "andrews54757"
       },
       "timestamp": 1767125880000,
-      "size": 630
+      "size": 630,
+      "hash": "c88c6e6e53c7d352eac3cec282f91f2ff64b07939feaa654b267e75a8b73836b"
     },
     {
       "id": "1455656956458176659",
@@ -110,7 +111,8 @@
         "username": "Unknown"
       },
       "timestamp": 1769242389444,
-      "size": 8590
+      "size": 8590,
+      "hash": "81d04c007d0258f1600aa90042261a16e4535f88d0ef901e80fd7eb69aaf639f"
     }
   ],
   "records": {

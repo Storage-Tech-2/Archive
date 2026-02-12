@@ -104,7 +104,8 @@
         "username": "bipim"
       },
       "timestamp": 1768939941000,
-      "size": 2986
+      "size": 2986,
+      "hash": "ccdd473f302a2dc3ff8ee42359681cc6adefedbc6b66ff130560132bd2667b71"
     },
     {
       "id": "1463264912532049974",
@@ -124,7 +125,8 @@
         "username": "bipim"
       },
       "timestamp": 1768939941000,
-      "size": 14152
+      "size": 14152,
+      "hash": "7c8e8a31dfb919828b90d86c7c6f77d25b9e5b35458493414307626eeef0e1f2"
     },
     {
       "id": "1463732761335566549",
@@ -151,7 +153,8 @@
           "version": "1.21.4",
           "levelName": "Bipim Remote Brewer Array"
         }
-      ]
+      ],
+      "hash": "b87ddbaa539918c569b18cb48dcea8f562a483e22af9af8014a2e43a804da950"
     },
     {
       "id": "1463732761583157452",
@@ -171,7 +174,8 @@
         "username": "andrews54757"
       },
       "timestamp": 1769051485000,
-      "size": 16753
+      "size": 16753,
+      "hash": "8b5e5f9847284bad7ce8f92fe3f694d114f9ca25ff006cc82b8b2f5bb174c9bb"
     }
   ],
   "records": {

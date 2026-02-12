@@ -72,7 +72,8 @@
         "type": "unknown",
         "username": "andrews54757"
       },
-      "timestamp": 1753625886000
+      "timestamp": 1753625886000,
+      "hash": "eed2b0d979103bb17769ab2492878188724cab09b1305539cb0886d83fb75838"
     },
     {
       "id": "1456692264779780206",
@@ -92,7 +93,8 @@
         "username": "andrews54757"
       },
       "timestamp": 1767372900000,
-      "size": 15220
+      "size": 15220,
+      "hash": "3300277903191a1808889b7a082e7ea785ba8e077fb2c9a09e7ad82db5c52da2"
     },
     {
       "id": "1456692264490242231",
@@ -112,7 +114,8 @@
         "username": "andrews54757"
       },
       "timestamp": 1767372900000,
-      "size": 10788
+      "size": 10788,
+      "hash": "dd4c235c5c6e7251621da003420e8ab3e828ea7d040b62e28685b77623673a5a"
     }
   ],
   "records": {

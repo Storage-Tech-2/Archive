@@ -87,7 +87,8 @@
         "username": "0wucat_73519"
       },
       "timestamp": 1756776071000,
-      "size": 2343
+      "size": 2343,
+      "hash": "3eccacc6271deabc9441bbba566855b1846ccb67e4d5aa08194a34a29ff24259"
     },
     {
       "id": "1412245948616146984",
@@ -107,7 +108,8 @@
         "username": "0wucat_73519"
       },
       "timestamp": 1756776071000,
-      "size": 1576
+      "size": 1576,
+      "hash": "060d7b70314efd4304572f33f6b4cbef7203b1ba4bd507cfe564f41f37e1815a"
     }
   ],
   "records": {

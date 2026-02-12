@@ -70,7 +70,8 @@
         "username": "Unknown"
       },
       "timestamp": 1768598009000,
-      "size": 2035
+      "size": 2035,
+      "hash": "edf04c191de047438d58ad8ae04c68bc69cdc6f8989c851aa8131d2ea3813992"
     },
     {
       "id": "1461830744941920421",
@@ -90,7 +91,8 @@
         "username": "Unknown"
       },
       "timestamp": 1768598009000,
-      "size": 229401
+      "size": 229401,
+      "hash": "99367aba5991696b5ffc8f09004baa78daec5836bf96714da6ec0a36d0edce68"
     },
     {
       "id": "1470296013611729010",
@@ -121,7 +123,8 @@
         "version": "1.17.1",
         "optimized": true
       },
-      "unoptimizedSize": 15923105
+      "unoptimizedSize": 15923105,
+      "hash": "7a0462d77bc2ec85d8b1f4167d5da4e24f0d37475806d192c5e4293862941887"
     },
     {
       "id": "1470296013893013554",
@@ -152,7 +155,8 @@
         "version": "1.17.1",
         "optimized": true
       },
-      "unoptimizedSize": 15833229
+      "unoptimizedSize": 15833229,
+      "hash": "094e7ea720f64ab8764545b240e3b6679c79b16f30202bb76179238045ec28a5"
     }
   ],
   "records": {

@@ -133,7 +133,8 @@
         "username": "Unknown"
       },
       "timestamp": 1750627809000,
-      "path": "attachments/MIS002_YAMIS_V1.01.litematic"
+      "path": "attachments/MIS002_YAMIS_V1.01.litematic",
+      "hash": "17a5d96b55c3bc353d2c380a20093851a9dab5bebdc7b005f11ed8dade5a0545"
     },
     {
       "id": "1386458266959089717",
@@ -148,7 +149,8 @@
         "username": "Unknown"
       },
       "timestamp": 1750627809000,
-      "path": "attachments/MIS002_YAMIS_V1.01.zip"
+      "path": "attachments/MIS002_YAMIS_V1.01.zip",
+      "hash": "ac814545ab137c14682cfb20ae3cbd6022d2fe54d174368206bc6039d31f6180"
     }
   ],
   "records": {

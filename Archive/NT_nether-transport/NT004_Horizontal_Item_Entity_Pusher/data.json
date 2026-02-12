@@ -70,7 +70,8 @@
         "username": "nvertd"
       },
       "timestamp": 1766140426000,
-      "size": 707
+      "size": 707,
+      "hash": "977fe8460e065ce1ceb62d6bb63e03ec58b9b9043fb381c623324c607bc4518f"
     },
     {
       "id": "1451522900459786310",
@@ -86,7 +87,8 @@
         "username": "nvertd"
       },
       "timestamp": 1766140426000,
-      "size": 53925300
+      "size": 53925300,
+      "hash": "b759ed9fa2357e79950f9d8da52cf845d331883d37f8a3c285646220f9cc4a82"
     }
   ],
   "records": {

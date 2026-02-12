@@ -106,7 +106,8 @@
       "litematic": {
         "size": "7x11x16",
         "version": "1.20.2"
-      }
+      },
+      "hash": "cc41dfda3f61fc252bb3cfe57f9c4ac903cd7f9340f002b6d6ca573be3eb8460"
     },
     {
       "id": "1386690710409056266",
@@ -129,7 +130,8 @@
       "litematic": {
         "size": "7x11x16",
         "version": "1.20.2"
-      }
+      },
+      "hash": "be91a5bcbfa3c9bba4f76e0e31d4e7d4c09d27039757ba9e146575edaf7ef0d0"
     }
   ],
   "records": {
