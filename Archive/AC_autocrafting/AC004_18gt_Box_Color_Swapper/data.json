@@ -55,7 +55,8 @@
         "type": "unknown",
         "username": "drakephose"
       },
-      "timestamp": 1751915614000
+      "timestamp": 1751915614000,
+      "hash": "71898cd09e7c714e66bc5c9fd6731948c057bf1cc8374bbc3caad2cdb501df8e"
     },
     {
       "id": "1391859711153930370",
@@ -72,7 +73,8 @@
         "type": "unknown",
         "username": "drakephose"
       },
-      "timestamp": 1751915614000
+      "timestamp": 1751915614000,
+      "hash": "8968ec53f82fa8a3abbcbcc1514077ee5586ed720bdcdfa520e82e5fa0b92824"
     },
     {
       "id": "1391859711657119784",
@@ -89,7 +91,8 @@
         "type": "unknown",
         "username": "drakephose"
       },
-      "timestamp": 1751915614000
+      "timestamp": 1751915614000,
+      "hash": "6e6b19e0b6733d2dcb97ec9bec6889757472f45be15ab97e48bd7694a352772b"
     }
   ],
   "attachments": [

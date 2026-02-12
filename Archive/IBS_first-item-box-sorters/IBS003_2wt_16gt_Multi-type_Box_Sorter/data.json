@@ -61,7 +61,8 @@
         "type": "unknown",
         "username": "777777777777777777774832"
       },
-      "timestamp": 1754452898000
+      "timestamp": 1754452898000,
+      "hash": "432ad4793da413bff9b95eafbfbbadf3acd573c5fbc45b84bc63e0e38b08bfa9"
     },
     {
       "id": "1402503028551979189",
@@ -78,7 +79,8 @@
         "type": "unknown",
         "username": "777777777777777777774832"
       },
-      "timestamp": 1754453179000
+      "timestamp": 1754453179000,
+      "hash": "a026f140b73212ee143f0e0b4e82a822b02b4b27bab490ec2c2ab044ed5c470a"
     }
   ],
   "attachments": [

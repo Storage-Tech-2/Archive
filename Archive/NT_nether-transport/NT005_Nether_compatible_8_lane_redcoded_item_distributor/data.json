@@ -48,7 +48,8 @@
         "type": "unknown",
         "username": "andrews54757"
       },
-      "timestamp": 1767740258000
+      "timestamp": 1767740258000,
+      "hash": "049a7a8e096acdcfa908c249274bd91d8c0706ecbed02c0256d5d0f487ae825e"
     },
     {
       "id": "1458233080329539805",
@@ -65,7 +66,8 @@
         "type": "unknown",
         "username": "andrews54757"
       },
-      "timestamp": 1767740258000
+      "timestamp": 1767740258000,
+      "hash": "448b8fce4d8c37da302efaa8ebd5942c8fb2ad5b784186157aab74f32ab62e4d"
     }
   ],
   "attachments": [

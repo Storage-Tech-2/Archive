@@ -60,7 +60,8 @@
         "username": "Unknown"
       },
       "timestamp": 1753545441000,
-      "path": "images/image.png"
+      "path": "images/image.png",
+      "hash": "4b2d9f0ea5c0fbad083a065199bbf6e142b631e5cecbbffb367ad3bc73d2208b"
     }
   ],
   "attachments": [

@@ -60,7 +60,8 @@
       "canDownload": true,
       "width": 1587,
       "height": 1600,
-      "path": "images/CommandLeo_1.20_Ultimate_Unstackable_Sorter.png"
+      "path": "images/CommandLeo_1.20_Ultimate_Unstackable_Sorter.png",
+      "hash": "bbf1b9ea96f2bc6f83aefbdb9ddf7b32a29035328f692fe845a92093175b43d2"
     },
     {
       "id": "1386690709645561877",
@@ -81,7 +82,8 @@
       "canDownload": true,
       "width": 1586,
       "height": 1600,
-      "path": "images/CommandLeo_1.20_Ultimate_FHL_Unstackable_Sorter_Entityless.png"
+      "path": "images/CommandLeo_1.20_Ultimate_FHL_Unstackable_Sorter_Entityless.png",
+      "hash": "2de08f1336981e5f69988cde792d8e187b91dbb121d524d1b4e76a6a6fbf7462"
     }
   ],
   "attachments": [

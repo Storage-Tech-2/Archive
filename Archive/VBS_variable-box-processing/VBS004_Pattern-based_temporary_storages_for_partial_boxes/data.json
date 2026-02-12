@@ -48,7 +48,8 @@
         "username": "Unknown"
       },
       "timestamp": 1768939048000,
-      "path": "images/area_render_11_.png"
+      "path": "images/area_render_11_.png",
+      "hash": "044559fa5ee14cb8f22c1f7a83811afaf739b8141660eb6e88463f93187bb3b0"
     },
     {
       "id": "1463261171347099780",
@@ -65,7 +66,8 @@
         "username": "Unknown"
       },
       "timestamp": 1768939048000,
-      "path": "images/area_render_32_.png"
+      "path": "images/area_render_32_.png",
+      "hash": "a242a8e1f2f80af903ea670de6fc35983d0714a3cb9d9f22458d736b70e66c73"
     }
   ],
   "attachments": [

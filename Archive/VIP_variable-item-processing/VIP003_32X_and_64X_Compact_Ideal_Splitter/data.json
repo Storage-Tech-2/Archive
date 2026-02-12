@@ -52,7 +52,8 @@
         "username": "Unknown"
       },
       "timestamp": 1750776893000,
-      "path": "images/sdsimage.png"
+      "path": "images/sdsimage.png",
+      "hash": "8b4587eb287c60668471a721f4aed1fb31dd965c25e4ab2ad438405f12deb9d4"
     },
     {
       "id": "1387083568605429821",
@@ -69,7 +70,8 @@
         "username": "Unknown"
       },
       "timestamp": 1750776893000,
-      "path": "images/ideal3-2.png"
+      "path": "images/ideal3-2.png",
+      "hash": "1a7ee48cedaf1e30977a661ab4b4af20efed75abc99b8d19c89c5c5f35822615"
     }
   ],
   "attachments": [

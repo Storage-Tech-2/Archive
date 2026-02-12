@@ -67,7 +67,8 @@
         "type": "unknown",
         "username": "acaciachan"
       },
-      "timestamp": 1750954241000
+      "timestamp": 1750954241000,
+      "hash": "cca541fffbf12bfd54dfd995e0f2cac10bd38d0266237156a7d19a07c3c318c0"
     },
     {
       "id": "1387827420656304290",
@@ -84,7 +85,8 @@
         "type": "unknown",
         "username": "acaciachan"
       },
-      "timestamp": 1750954241000
+      "timestamp": 1750954241000,
+      "hash": "2cb08760e62cdc17c7703ea8cdce771afcb9ffff81cb8c53308437cdac1cb2b1"
     }
   ],
   "attachments": [

@@ -61,7 +61,8 @@
       "canDownload": true,
       "width": 1600,
       "height": 1184,
-      "path": "images/render.png"
+      "path": "images/render.png",
+      "hash": "af97b545c09340e7cb583cf229cc7d72599ff08103f5c5d17124418375f65c68"
     },
     {
       "id": "1465532775670223024",
@@ -82,7 +83,8 @@
       "canDownload": true,
       "width": 1600,
       "height": 1264,
-      "path": "images/XianyuMIS_crane.png"
+      "path": "images/XianyuMIS_crane.png",
+      "hash": "65879bf900df44220021ac96509617028ce4b59ac2c03839d6d2ac482d7633c6"
     },
     {
       "id": "1465599205597773888",
@@ -103,7 +105,8 @@
       "canDownload": true,
       "width": 1600,
       "height": 872,
-      "path": "images/ui.png"
+      "path": "images/ui.png",
+      "hash": "a329feb2112d31bb1c041d9ec903a185cdc6b790b04abda98f6eef70217f0a61"
     }
   ],
   "attachments": [

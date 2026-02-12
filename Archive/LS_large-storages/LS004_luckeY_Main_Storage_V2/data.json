@@ -48,7 +48,8 @@
         "username": "Unknown"
       },
       "timestamp": 1767887088000,
-      "path": "images/luckeY_MS_v2.png"
+      "path": "images/luckeY_MS_v2.png",
+      "hash": "d1b72111110c95f1f27c5f5af4765f0b0b95dfe350762697d9b473f6ee219cd3"
     },
     {
       "id": "1458849423579676774",
@@ -65,7 +66,8 @@
         "username": "Unknown"
       },
       "timestamp": 1769242389377,
-      "path": "images/2025-11-13_13.31.48.png"
+      "path": "images/2025-11-13_13.31.48.png",
+      "hash": "5a9016045df7a99ac204758fd6b215bcc0b1b51be7d6a60d9c7b8983a234e40c"
     },
     {
       "id": "1458849417187823669",
@@ -82,7 +84,8 @@
         "username": "Unknown"
       },
       "timestamp": 1769242389377,
-      "path": "images/2025-11-13_13.32.25.png"
+      "path": "images/2025-11-13_13.32.25.png",
+      "hash": "d9f092448843bcc2e08e6d4266563940e1816406e0f5367aa8733ad527e26599"
     },
     {
       "id": "1458849416411746354",
@@ -99,7 +102,8 @@
         "username": "Unknown"
       },
       "timestamp": 1769242389377,
-      "path": "images/2025-11-13_13.32.13.png"
+      "path": "images/2025-11-13_13.32.13.png",
+      "hash": "182ba7317c2145a5da891d13dcb1f585dd3fd518d307b06242b43c518adcae51"
     },
     {
       "id": "1458849415572754588",
@@ -116,7 +120,8 @@
         "username": "Unknown"
       },
       "timestamp": 1769242389377,
-      "path": "images/2025-11-13_13.32.03.png"
+      "path": "images/2025-11-13_13.32.03.png",
+      "hash": "27a99fc3763d4819f249bff860ff0f604d6e241355cf5f0f299e2456d4aa0012"
     }
   ],
   "attachments": [

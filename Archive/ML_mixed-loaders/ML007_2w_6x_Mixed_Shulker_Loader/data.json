@@ -62,7 +62,8 @@
         "username": "Unknown"
       },
       "timestamp": 1763805536000,
-      "path": "images/image.png"
+      "path": "images/image.png",
+      "hash": "e58651132dab0760c7eb972c66bf2391e79ae3e3c63c670dc6e3cfc61c2d2296"
     },
     {
       "id": "1441729661091446905",
@@ -79,7 +80,8 @@
         "username": "Unknown"
       },
       "timestamp": 1763805536000,
-      "path": "images/image_1.png"
+      "path": "images/image_1.png",
+      "hash": "0923f868672ade5fd1966ac142a718ffb877181d1f4540a3dd1bb59a23b0c1f5"
     }
   ],
   "attachments": [

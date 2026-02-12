@@ -48,7 +48,8 @@
         "username": "Unknown"
       },
       "timestamp": 1769036753000,
-      "path": "images/area_render_165_.png"
+      "path": "images/area_render_165_.png",
+      "hash": "65c4ce1adf7647631c7ec5fd729df8f158c356f4f470f4c0240d5104abd3824b"
     },
     {
       "id": "1463670972421898336",
@@ -65,7 +66,8 @@
         "username": "Unknown"
       },
       "timestamp": 1769036753000,
-      "path": "images/2024-02-08_20.30.59.png"
+      "path": "images/2024-02-08_20.30.59.png",
+      "hash": "2a0f8bb4f632a74d78c8124cc2e2a24e67b81068ed3dc7a1a9a5c41ad7361199"
     },
     {
       "id": "1463670972925087959",
@@ -82,7 +84,8 @@
         "username": "Unknown"
       },
       "timestamp": 1769036753000,
-      "path": "images/2024-02-08_20.44.43.png"
+      "path": "images/2024-02-08_20.44.43.png",
+      "hash": "444071c8e4e396f36214fb846f962fc07410b57d21de95987f27bf86e2b3c8fd"
     },
     {
       "id": "1463670973483188226",
@@ -99,7 +102,8 @@
         "username": "Unknown"
       },
       "timestamp": 1769036753000,
-      "path": "images/2026-01-21_15.39.45.png"
+      "path": "images/2026-01-21_15.39.45.png",
+      "hash": "a64129abe37a55af4e0de9d213ac3d810591366651214dcb657b3f24abc2645d"
     }
   ],
   "attachments": [

@@ -50,7 +50,8 @@
         "type": "unknown",
         "username": "ragdollwilly"
       },
-      "timestamp": 1750817804000
+      "timestamp": 1750817804000,
+      "hash": "8aa580d6ccc670c0b6a17d278a746e81255a4f5800f754314f0b046d9612134f"
     },
     {
       "id": "1387255161415663696",
@@ -65,7 +66,8 @@
         "type": "unknown",
         "username": "ragdollwilly"
       },
-      "timestamp": 1750817804000
+      "timestamp": 1750817804000,
+      "hash": "a8d234d64c8939f833d55a31d5dc3a2835bbcdb6a318c38e358d87d703226847"
     },
     {
       "id": "1387776242996219914",
@@ -82,7 +84,8 @@
         "type": "unknown",
         "username": "ragdollwilly"
       },
-      "timestamp": 1750942040000
+      "timestamp": 1750942040000,
+      "hash": "549e5b1b4b5b37ab3933b53ca5ddf12c36f98324e93c692e4d12b76be5b403dc"
     },
     {
       "id": "1387776242752819370",
@@ -99,7 +102,8 @@
         "type": "unknown",
         "username": "ragdollwilly"
       },
-      "timestamp": 1750942040000
+      "timestamp": 1750942040000,
+      "hash": "df7494209d330b05f98dc074e82535632e1b339119f80b838ba5667c55a0798e"
     }
   ],
   "attachments": [

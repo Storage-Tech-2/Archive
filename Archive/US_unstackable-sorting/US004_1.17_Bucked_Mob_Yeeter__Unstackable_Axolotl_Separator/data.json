@@ -48,7 +48,8 @@
         "type": "unknown",
         "username": "drakephose"
       },
-      "timestamp": 1751908590000
+      "timestamp": 1751908590000,
+      "hash": "cc52cda1f3a87becc034c7f9d4839e356288887c64bb6029dbde87cb1517ffe3"
     },
     {
       "id": "1391830252925223043",
@@ -65,7 +66,8 @@
         "type": "unknown",
         "username": "drakephose"
       },
-      "timestamp": 1751908590000
+      "timestamp": 1751908590000,
+      "hash": "b3c5ed43cc140320b01784e51e3927467f0c7c8dcfd615e208bd12e53afdaaf1"
     }
   ],
   "attachments": [

@@ -95,7 +95,8 @@
         "username": "Unknown"
       },
       "timestamp": 1750627809000,
-      "path": "images/area_render_101_.png"
+      "path": "images/area_render_101_.png",
+      "hash": "60273209370df9f7776ba06f5fa9be1cd61fe760b77cbe9690dc7279f6bb4691"
     },
     {
       "id": "1386458266325745734",
@@ -112,7 +113,8 @@
         "username": "Unknown"
       },
       "timestamp": 1750627809000,
-      "path": "images/uiimage.png"
+      "path": "images/uiimage.png",
+      "hash": "37c8b46147e7d1d2bab7b1c10a493d0bf17f9f4ff3127b9b1ba5e4c4ef99bc93"
     }
   ],
   "attachments": [
