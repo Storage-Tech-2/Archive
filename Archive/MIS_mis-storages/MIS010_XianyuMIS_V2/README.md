@@ -1,7 +1,7 @@
 # XianyuMIS V2
 <img alt="render.png" src="images/render.png?raw=1" height="300px">
 
-**Authors:** *siderXD, Capybruhh*
+**Authors:** *siderXD, Capybruhh (no ping plz)*
 
 **Endorsed by:** *Andrews54757*
 
@@ -36,7 +36,7 @@ Most inventories have signs indicating how to prefill them.
 - datnerd - [Box display](https://discord.com/channels/748542142347083868/1387442314724642979/1387442322672717834) (in [Storage Tech](https://discord.gg/JufJ6uf)).
 - [半筝half_kite](<https://space.bilibili.com/329820579>): Simple empty box crafter.
 - PyraLeft, maed8_, 金合欢酱喵~ (acaciachan) - isFull box check.
-- Capybruhh - item layout.
+- Capybruhh (no ping plz) - item layout.
 - Passionate Storage Techer 69 - 2x loader and testing.
 
 ## Other Images

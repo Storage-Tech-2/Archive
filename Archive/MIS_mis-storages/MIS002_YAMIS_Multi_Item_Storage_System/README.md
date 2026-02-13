@@ -1,7 +1,7 @@
 # YAMIS Multi Item Storage System
 <img alt="area_render_101_.png" src="images/area_render_101_.png?raw=1" height="300px">
 
-**Authors:** *Passionate Storage Techer 69, skyzy, RaPsCaLLioN1138, inspectortalon, CommandLeo, PyraLeft, datnerd, Coltzy*
+**Authors:** *Passionate Storage Techer 69, skyzy, RaPsCaLLioN1138, Inspector Talon, CommandLeo, PyraLeft, datnerd, Coltzy*
 
 **Endorsed by:** *Andrews54757*
 

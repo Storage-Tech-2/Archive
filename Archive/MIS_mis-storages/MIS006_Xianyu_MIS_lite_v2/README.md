@@ -1,7 +1,7 @@
 # Xianyu MIS lite v2
 <img alt="XianyuMIS_lite_v2.01.png" src="images/XianyuMIS_lite_v2.01.png?raw=1" height="300px">
 
-**Authors:** *siderXD, Capybruhh*
+**Authors:** *siderXD, Capybruhh (no ping plz)*
 
 **Endorsed by:** *Andrews54757*
 

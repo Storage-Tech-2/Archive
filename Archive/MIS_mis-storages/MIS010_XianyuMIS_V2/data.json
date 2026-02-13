@@ -22,7 +22,7 @@
       "type": "discord-in-guild",
       "id": "1154811326540038185",
       "username": "capybruhh",
-      "displayName": "Capybruhh",
+      "displayName": "Capybruhh (no ping plz)",
       "iconURL": "https://cdn.discordapp.com/avatars/1154811326540038185/69c37494ea59a6a85f22cf992839ef2e.webp"
     }
   ],
@@ -438,8 +438,8 @@
         "type": "discord-in-guild",
         "id": "1154811326540038185",
         "username": "capybruhh",
-        "iconURL": "https://cdn.discordapp.com/avatars/1154811326540038185/69c37494ea59a6a85f22cf992839ef2e.webp",
-        "displayName": "Capybruhh"
+        "displayName": "Capybruhh (no ping plz)",
+        "iconURL": "https://cdn.discordapp.com/avatars/1154811326540038185/69c37494ea59a6a85f22cf992839ef2e.webp"
       },
       "matches": [
         "<@1154811326540038185>"

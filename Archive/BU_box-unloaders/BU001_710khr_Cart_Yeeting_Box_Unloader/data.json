@@ -17,9 +17,10 @@
       "iconURL": "https://cdn.discordapp.com/avatars/688456529338433611/348a34add443a5a71237111010e484b1.webp"
     },
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "319513337941721089",
       "username": "inspectortalon",
+      "displayName": "Inspector Talon",
       "iconURL": "https://cdn.discordapp.com/avatars/319513337941721089/edec0da88a70e9697b6b43b4a2d740e3.webp"
     },
     {

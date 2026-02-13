@@ -1,7 +1,7 @@
 # Stacked Cart Yeeter
 <img alt="area_render_170_.png" src="images/area_render_170_.png?raw=1" height="300px">
 
-**Authors:** *inspectortalon*
+**Authors:** *Inspector Talon*
 
 **Endorsed by:** *Andrews54757*
 

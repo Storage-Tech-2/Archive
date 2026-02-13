@@ -1,7 +1,7 @@
 # Complete Cart-Based Storage
 <img alt="image.png" src="images/image.png?raw=1" height="300px">
 
-**Authors:** *inspectortalon, Christone, RaPsCaLLioN1138*
+**Authors:** *Inspector Talon, Christone, RaPsCaLLioN1138*
 
 **Endorsed by:** *Andrews54757*
 

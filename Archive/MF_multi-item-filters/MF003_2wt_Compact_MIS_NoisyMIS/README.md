@@ -1,7 +1,7 @@
 # 2wt Compact MIS "NoisyMIS"
 <img alt="image.png" src="images/image.png?raw=1" height="300px">
 
-**Authors:** *RaPsCaLLioN1138, inspectortalon, CommandLeo*
+**Authors:** *RaPsCaLLioN1138, Inspector Talon, CommandLeo*
 
 **Endorsed by:** *TisUnfortunate*
 

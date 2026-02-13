@@ -1,7 +1,7 @@
 # Compact Categorizer
 <img alt="compact.png" src="images/compact.png?raw=1" height="300px">
 
-**Authors:** *inspectortalon, metamilo*
+**Authors:** *Inspector Talon, metamilo*
 
 **Endorsed by:** *Andrews54757*
 

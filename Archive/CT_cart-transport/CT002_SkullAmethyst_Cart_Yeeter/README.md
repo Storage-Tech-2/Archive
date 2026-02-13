@@ -1,7 +1,7 @@
 # Skull/Amethyst Cart Yeeter
 <img alt="area_render_146_.png" src="images/area_render_146_.png?raw=1" height="300px">
 
-**Authors:** *inspectortalon*
+**Authors:** *Inspector Talon*
 
 **Endorsed by:** *Andrews54757*
 

@@ -1,7 +1,7 @@
 # Chain Cart Yeeter
 <img alt="image.png" src="images/image.png?raw=1" height="300px">
 
-**Authors:** *inspectortalon*
+**Authors:** *Inspector Talon*
 
 **Endorsed by:** *Andrews54757*
 
