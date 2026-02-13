@@ -7,7 +7,8 @@
   ],
   "pastPostThreadIds": [
     "1465112394333159445",
-    "1469694839770583080"
+    "1469694839770583080",
+    "1471913637890232411"
   ],
   "authors": [
     {
@@ -29,8 +30,12 @@
   ],
   "tags": [
     {
-      "id": "1465488009343406271",
-      "name": "Untested"
+      "id": "1465492170420125863",
+      "name": "Functional"
+    },
+    {
+      "id": "1465521389317656801",
+      "name": "Independently Tested"
     }
   ],
   "images": [
@@ -112,7 +117,7 @@
       "Lamp indicator that there are items in the recycle bin"
     ],
     "considerations": [
-      "Loose item input needs to be 1x speed. Tested setups include a simple dropper spitter, honey batcher, or stone cutter batcher"
+      "Loose item input is 1x hopper speed"
     ]
   },
   "styles": {},
@@ -132,30 +137,22 @@
       "id": "1454937395693879409",
       "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
       "matches": [
-        "1x"
-      ]
-    },
-    {
-      "type": "dictionaryTerm",
-      "term": "Batcher",
-      "id": "1454753449311862900",
-      "url": "https://discord.com/channels/1375556143186837695/1454753449311862900/1454753450339336306",
-      "matches": [
-        "batcher"
+        "1x",
+        "hopper speed"
       ]
     }
   ],
   "author_references": [],
   "post": {
-    "threadId": "1469694839770583080",
+    "threadId": "1471913637890232411",
     "forumId": "1457538260892127293",
     "continuingMessageIds": [
-      "1469694844535308338"
+      "1471913642545905707"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1469694839770583080",
+    "threadURL": "https://discord.com/channels/1375556143186837695/1471913637890232411",
     "uploadMessageId": "1469694835693715618"
   },
   "archivedAt": 1769380411273,
-  "updatedAt": 1770472953582,
+  "updatedAt": 1771001956713,
   "num_comments": 0
 }

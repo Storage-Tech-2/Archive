@@ -5,16 +5,16 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Untested*
+**Tags:** *Functional, Independently Tested*
 
-**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1469694839770583080)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1471913637890232411)
 
 An overflow which accepts loose items (accessible loader) or boxes. Once the overflow chests are filled, following boxes will be sent to a recycle bin.
 ## Features
 - 4DC of overflow
 - Lamp indicator that there are items in the recycle bin
 ## Considerations
-- Loose item input needs to be 1x speed. Tested setups include a simple dropper spitter, honey batcher, or stone cutter batcher
+- Loose item input is 1x hopper speed
 
 ## Other Images
 <img src="images/NEW_Overflow_b.png?raw=1" height="300px">
