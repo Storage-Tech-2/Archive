@@ -3,7 +3,7 @@
   "name": "whitelister-box-sorters",
   "code": "WBS",
   "category": "Box Sorting",
-  "description": "Sorts boxes by checking if it contains a specific item type in any slot",
+  "description": "Checks if a box has an item (first-slot/anywhere) contained in a list",
   "currentCodeId": 2,
   "entries": [
     {
