@@ -1,12 +1,14 @@
 {
   "id": "1386932150355623997",
   "name": "Shulker Box Blacklister",
-  "code": "WBS001",
+  "code": "OBP005",
   "reservedCodes": [
-    "WBS001"
+    "WBS001",
+    "OBP005"
   ],
   "pastPostThreadIds": [
-    "1451359341285212190"
+    "1451359341285212190",
+    "1472349188686872748"
   ],
   "authors": [
     {
@@ -20,8 +22,8 @@
       "type": "discord-in-guild",
       "id": "247092209780916225",
       "username": "justglotz",
-      "displayName": "Glotz",
-      "iconURL": "https://cdn.discordapp.com/avatars/247092209780916225/6180f71564f0bb3fca26a7dd8b712748.webp"
+      "iconURL": "https://cdn.discordapp.com/avatars/247092209780916225/6180f71564f0bb3fca26a7dd8b712748.webp",
+      "displayName": "Glotz"
     },
     {
       "type": "discord-in-guild",
@@ -42,12 +44,12 @@
   ],
   "tags": [
     {
-      "id": "1465491873870381252",
-      "name": "Functional"
+      "name": "Functional",
+      "id": "1465491222373208206"
     },
     {
-      "id": "1465487808759070867",
-      "name": "Recommended"
+      "name": "Recommended",
+      "id": "1465487386896109839"
     }
   ],
   "images": [
@@ -58,25 +60,25 @@
       "url": "https://cdn.discordapp.com/attachments/1386932150355623997/1451356649586692229/8gt_2wt_box_blacklister_render.png?ex=6945e0b6&is=69448f36&hm=3574a19e23e85f51d0929436434790b2acd006e20e9bf9d74d486ae3314dbbf1&",
       "description": "",
       "canDownload": true,
-      "path": "images/8gt_2wt_box_blacklister_render.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "TMC Schematic Renderer"
+        "username": "Unknown"
       },
       "timestamp": 1766100790000,
+      "path": "images/8gt_2wt_box_blacklister_render.png",
       "hash": "a71628501cac6664fa3c799b268a6304c8522d294123e103cc8bd7874f5ea4c1"
     }
   ],
   "attachments": [
     {
       "id": "1450558994728091810",
-      "name": "WBS001_8gt_2wt_box_blacklister.litematic",
+      "name": "OBP005_8gt_2wt_box_blacklister.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386932150355623997/1450558994728091810/8gt_2wt_box_blacklister.litematic?ex=69459cd6&is=69444b56&hm=62c290ab1161e1836285b5cdf3078ba7f9ddcf7aded917b9d807f8c73241b581&",
       "description": "",
       "canDownload": true,
-      "path": "attachments/WBS001_8gt_2wt_box_blacklister.litematic",
+      "path": "attachments/OBP005_8gt_2wt_box_blacklister.litematic",
       "litematic": {
         "size": "8x6x2",
         "version": "1.20.1"
@@ -84,10 +86,9 @@
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "glidingmonkey"
+        "username": "Unknown"
       },
       "timestamp": 1765910614000,
-      "size": 1185,
       "hash": "8e3e193af27ed3b77ea6e0900bb35f73f0ee49c7df21381cc5616861c766e6c2"
     }
   ],
@@ -131,15 +132,15 @@
   ],
   "author_references": [],
   "post": {
-    "threadId": "1451359341285212190",
-    "forumId": "1383890936488132689",
+    "threadId": "1472349188686872748",
+    "forumId": "1375562461276672042",
     "continuingMessageIds": [
-      "1451359345265610893"
+      "1472349192126201938"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1451359341285212190",
-    "uploadMessageId": "1451359338886074368"
+    "threadURL": "https://discord.com/channels/1375556143186837695/1472349188686872748",
+    "uploadMessageId": "1472349181812281365"
   },
   "archivedAt": 1766101430626,
-  "updatedAt": 1766101430626,
+  "updatedAt": 1771105796650,
   "num_comments": 0
 }

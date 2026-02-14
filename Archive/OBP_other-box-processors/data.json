@@ -4,7 +4,7 @@
   "code": "OBP",
   "category": "Box Sorting",
   "description": "Other box processors",
-  "currentCodeId": 4,
+  "currentCodeId": 5,
   "entries": [
     {
       "id": "1386195800874549389",
@@ -20,6 +20,11 @@
       "id": "1472327088399716524",
       "code": "OBP004",
       "path": "OBP004_3wt_Grouper"
+    },
+    {
+      "id": "1386932150355623997",
+      "code": "OBP005",
+      "path": "OBP005_Shulker_Box_Blacklister"
     }
   ]
 }
