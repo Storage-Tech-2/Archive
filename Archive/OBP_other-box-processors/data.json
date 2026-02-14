@@ -4,7 +4,7 @@
   "code": "OBP",
   "category": "Box Sorting",
   "description": "Other box processors",
-  "currentCodeId": 3,
+  "currentCodeId": 4,
   "entries": [
     {
       "id": "1386195800874549389",
@@ -15,6 +15,11 @@
       "id": "1402533524040450109",
       "code": "OBP003",
       "path": "OBP003_18gt_2_item_checker"
+    },
+    {
+      "id": "1472327088399716524",
+      "code": "OBP004",
+      "path": "OBP004_3wt_Grouper"
     }
   ]
 }
