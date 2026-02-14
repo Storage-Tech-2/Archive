@@ -70,96 +70,37 @@
   ],
   "attachments": [
     {
-      "id": "5ajiire4a6cs5",
-      "name": "MIS003_ScorpioMIS.url",
-      "contentType": "mediafire",
-      "url": "https://www.mediafire.com/folder/5ajiire4a6cs5/Scorpio+MIS",
-      "description": "Contains more schematics for 1.19.4 and 1.21 versions",
+      "id": "oU5EjKhhbnk",
+      "name": "MIS003_YouTube_Video_oU5EjKhhbnk.url",
+      "contentType": "youtube",
+      "url": "https://www.youtube.com/watch?v=oU5EjKhhbnk",
+      "timestamp": 1771108444586,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "URLInMessage",
+      "description": "",
       "canDownload": false,
-      "source": "MessageAttachment",
-      "author": {
-        "type": "unknown",
-        "username": "Unknown"
-      },
-      "timestamp": 1750651272000
-    },
-    {
-      "id": "1470297288638337188",
-      "name": "MIS003_Scorpio_MIS_Accessible_v3.15_1.21.5.litematic",
-      "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1386555107084210176/1470297288638337188/Scorpio_MIS_Accessible_v3.15_1.21.5.litematic?ex=698ac88e&is=6989770e&hm=571210deacd0fffdd1f4cd29dd460ff87c37f00af1ec0ce1e42dfddf5756155e&",
-      "timestamp": 1770616590151,
-      "author": {
-        "type": "discord-in-guild",
-        "id": "239078039831445504",
-        "username": "andrews54757",
-        "displayName": "Andrews54757",
-        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
-      },
-      "source": "MessageAttachment",
-      "description": "",
-      "size": 22463,
-      "canDownload": true,
-      "path": "attachments/MIS003_Scorpio_MIS_Accessible_v3.15_1.21.5.litematic",
-      "litematic": {
-        "size": "25x24x36",
-        "version": "1.21.5"
-      },
-      "hash": "2df4e48485e60894baafe9c47256f2ab878644e9cf4d91988180f6b8530dd885"
-    },
-    {
-      "id": "1470297288306856006",
-      "name": "MIS003_Scorpio_MIS_Base_v3.49_1.21.5.litematic",
-      "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1386555107084210176/1470297288306856006/Scorpio_MIS_Base_v3.49_1.21.5.litematic?ex=698ac88e&is=6989770e&hm=3d8196fb5175460603cc503541331c50469f0389be9125d79f6e4483511bfbbe&",
-      "timestamp": 1770616590151,
-      "author": {
-        "type": "discord-in-guild",
-        "id": "239078039831445504",
-        "username": "andrews54757",
-        "displayName": "Andrews54757",
-        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
-      },
-      "source": "MessageAttachment",
-      "description": "",
-      "size": 23550,
-      "canDownload": true,
-      "path": "attachments/MIS003_Scorpio_MIS_Base_v3.49_1.21.5.litematic",
-      "litematic": {
-        "size": "33x18x36",
-        "version": "1.21.5"
-      },
-      "hash": "3eb2bfe9d6900d80e033c0e8389c44d8bc0567a9fc800baa157e75045d9737ca"
-    },
-    {
-      "id": "1470297287883489421",
-      "name": "MIS003_Scorpio_MIS_Decorated_v2.94_1.21.5.litematic",
-      "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1386555107084210176/1470297287883489421/Scorpio_MIS_Decorated_v2.94_1.21.5.litematic?ex=698ac88e&is=6989770e&hm=924c37457425417371b0b49dcee33f68c6ce4a70c820d929717b41ea82b58116&",
-      "timestamp": 1770616590151,
-      "author": {
-        "type": "discord-in-guild",
-        "id": "239078039831445504",
-        "username": "andrews54757",
-        "displayName": "Andrews54757",
-        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
-      },
-      "source": "MessageAttachment",
-      "description": "",
-      "size": 24312,
-      "canDownload": true,
-      "path": "attachments/MIS003_Scorpio_MIS_Decorated_v2.94_1.21.5.litematic",
-      "litematic": {
-        "size": "33x18x36",
-        "version": "1.21.5"
-      },
-      "hash": "02c9c59a45150820c2da54049fe30609433d5ad11a15f3cf07beae21c4c411d7"
+      "youtube": {
+        "title": "SIMPLE Automatic Storage in Minecraft",
+        "author_name": "Scorpio",
+        "author_url": "https://www.youtube.com/@Scorpio03",
+        "thumbnail_url": "https://i.ytimg.com/vi/oU5EjKhhbnk/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      }
     },
     {
       "id": "1470297289267347554",
       "name": "MIS003_World_Download.zip",
       "contentType": "application/zip",
-      "url": "https://cdn.discordapp.com/attachments/1386555107084210176/1470297289267347554/World_Download.zip?ex=698ac88e&is=6989770e&hm=2a139ea48c66590bb83bdbbdf2d39772dd50e7c1f96b7f419915c907d94bbd1c&",
+      "url": "https://cdn.discordapp.com/attachments/1386555107084210176/1470297289267347554/World_Download.zip?ex=699208ce&is=6990b74e&hm=0c9f9d63b0e77c42e07eb16bf2188ec9831800bd99923fb2908aa70a8cd88f01&",
       "timestamp": 1770616590151,
       "author": {
         "type": "discord-in-guild",
@@ -172,6 +113,7 @@
       "description": "",
       "size": 322962,
       "canDownload": true,
+      "hash": "409f04d7d25bc3b4a4b7cdef3ccbe6d3535d3774c5cd4362371ff91ea9167f0a",
       "path": "attachments/MIS003_World_Download.zip",
       "wdls": [
         {
@@ -184,8 +126,79 @@
         "version": "1.19.4",
         "optimized": true
       },
-      "unoptimizedSize": 397399,
-      "hash": "32cfc50e3f073c103bd114221b6b48c735803b76671221fc7d6dbbafa33ccfd1"
+      "unoptimizedSize": 397399
+    },
+    {
+      "id": "1470297288638337188",
+      "name": "MIS003_Scorpio_MIS_Accessible_v3.15_1.21.5.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386555107084210176/1470297288638337188/Scorpio_MIS_Accessible_v3.15_1.21.5.litematic?ex=699208ce&is=6990b74e&hm=c837cc80dc028208cf00bd30749799122f890ca2176a63e304b5bff044cc5b05&",
+      "timestamp": 1770616590151,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 22463,
+      "canDownload": true,
+      "hash": "2df4e48485e60894baafe9c47256f2ab878644e9cf4d91988180f6b8530dd885",
+      "path": "attachments/MIS003_Scorpio_MIS_Accessible_v3.15_1.21.5.litematic",
+      "litematic": {
+        "size": "25x24x36",
+        "version": "1.21.5"
+      }
+    },
+    {
+      "id": "1470297288306856006",
+      "name": "MIS003_Scorpio_MIS_Base_v3.49_1.21.5.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386555107084210176/1470297288306856006/Scorpio_MIS_Base_v3.49_1.21.5.litematic?ex=699208ce&is=6990b74e&hm=6285b49f5704f6b5dae47eb364c554b3601b59465497f7e7e52aa481f5239838&",
+      "timestamp": 1770616590151,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 23550,
+      "canDownload": true,
+      "hash": "3eb2bfe9d6900d80e033c0e8389c44d8bc0567a9fc800baa157e75045d9737ca",
+      "path": "attachments/MIS003_Scorpio_MIS_Base_v3.49_1.21.5.litematic",
+      "litematic": {
+        "size": "33x18x36",
+        "version": "1.21.5"
+      }
+    },
+    {
+      "id": "1470297287883489421",
+      "name": "MIS003_Scorpio_MIS_Decorated_v2.94_1.21.5.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386555107084210176/1470297287883489421/Scorpio_MIS_Decorated_v2.94_1.21.5.litematic?ex=699208ce&is=6990b74e&hm=7431020d29c285581e546fa174dcae61276afa536bcfb1f9cd078855830836f4&",
+      "timestamp": 1770616590151,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 24312,
+      "canDownload": true,
+      "hash": "02c9c59a45150820c2da54049fe30609433d5ad11a15f3cf07beae21c4c411d7",
+      "path": "attachments/MIS003_Scorpio_MIS_Decorated_v2.94_1.21.5.litematic",
+      "litematic": {
+        "size": "33x18x36",
+        "version": "1.21.5"
+      }
     }
   ],
   "records": {
@@ -329,12 +342,13 @@
       "1390326060729634856",
       "1390326061295861902",
       "1455359040182816982",
-      "1470297604381212716"
+      "1470297604381212716",
+      "1472360597457731758"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1390326056405434429",
-    "uploadMessageId": "1470297596986790055"
+    "uploadMessageId": "1472360590591922197"
   },
   "archivedAt": 1766902323684,
-  "updatedAt": 1770616663083,
+  "updatedAt": 1771108519019,
   "num_comments": 0
 }

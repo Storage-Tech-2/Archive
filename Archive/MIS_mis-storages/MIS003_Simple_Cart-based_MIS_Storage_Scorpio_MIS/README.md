@@ -37,9 +37,8 @@ The base and accessible version does not have a box loader for overflow items, i
 <img src="images/area_render_8_.png?raw=1" height="300px">
 
 ## Resources
-- [MIS003_ScorpioMIS.url](https://www.mediafire.com/folder/5ajiire4a6cs5/Scorpio+MIS): Mediafire link
-  - Contains more schematics for 1.19.4 and 1.21 versions
+- [SIMPLE Automatic Storage in Minecraft](https://www.youtube.com/watch?v=oU5EjKhhbnk): by [Scorpio](https://www.youtube.com/@Scorpio03)
+- [MIS003_World_Download.zip](attachments/MIS003_World_Download.zip): MC 1.19.4
 - [MIS003_Scorpio_MIS_Accessible_v3.15_1.21.5.litematic](attachments/MIS003_Scorpio_MIS_Accessible_v3.15_1.21.5.litematic): MC 1.21.5, Size 25x24x36 blocks
 - [MIS003_Scorpio_MIS_Base_v3.49_1.21.5.litematic](attachments/MIS003_Scorpio_MIS_Base_v3.49_1.21.5.litematic): MC 1.21.5, Size 33x18x36 blocks
 - [MIS003_Scorpio_MIS_Decorated_v2.94_1.21.5.litematic](attachments/MIS003_Scorpio_MIS_Decorated_v2.94_1.21.5.litematic): MC 1.21.5, Size 33x18x36 blocks
-- [MIS003_World_Download.zip](attachments/MIS003_World_Download.zip): MC 1.19.4
