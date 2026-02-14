@@ -82,37 +82,49 @@
       "id": "1386466764258545785",
       "name": "BW002_DrakePHOSE_18gt_Box_Blacklister.litematic",
       "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1386466762488549526/1386466764258545785/DrakePHOSE_18gt_Box_Blacklister.litematic?ex=6859cf4b&is=68587dcb&hm=bfdf0c7d1d45efe8d6311bb1b42ef209a2dd215e610d65d307738487d4d5ee97&",
+      "url": "https://cdn.discordapp.com/attachments/1386466762488549526/1386466764258545785/DrakePHOSE_18gt_Box_Blacklister.litematic?ex=699242cb&is=6990f14b&hm=14e5be61d167985500e3a08ef16015b58d7d0854de65682426f15fd474a86bb9&",
+      "timestamp": 1750629835484,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
       "description": "",
+      "size": 2735,
       "canDownload": true,
+      "hash": "a1c2fcc7ea5907d4f36a4c79d61c5f5b1f1d1b5ddd330aa7978e4b5091673a45",
+      "path": "attachments/BW002_DrakePHOSE_18gt_Box_Blacklister.litematic",
       "litematic": {
         "size": "17x10x6",
         "version": "1.21.1"
-      },
-      "source": "MessageAttachment",
-      "author": {
-        "type": "unknown",
-        "username": "Unknown"
-      },
-      "timestamp": 1750629835000
+      }
     },
     {
       "id": "1386466765210386491",
       "name": "BW002_DrakePHOSE_18gt_Box_Whitelister.litematic",
       "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1386466762488549526/1386466765210386491/DrakePHOSE_18gt_Box_Whitelister.litematic?ex=6859cf4c&is=68587dcc&hm=3ff5b8401feaf290f768a606a8bb54027543a9dc390019c286d672529ac926ca&",
+      "url": "https://cdn.discordapp.com/attachments/1386466762488549526/1386466765210386491/DrakePHOSE_18gt_Box_Whitelister.litematic?ex=699242cc&is=6990f14c&hm=cfc06c9d7a7c5300526834a11766cb9f91d918a09a8496d7a301005b01c032e1&",
+      "timestamp": 1750629835484,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
       "description": "",
+      "size": 2791,
       "canDownload": true,
+      "hash": "0b23aa514d7722485ff5cf7b6f12e330369ed394d43e099bd64d55befa136b91",
+      "path": "attachments/BW002_DrakePHOSE_18gt_Box_Whitelister.litematic",
       "litematic": {
         "size": "17x10x6",
         "version": "1.21.1"
-      },
-      "source": "MessageAttachment",
-      "author": {
-        "type": "unknown",
-        "username": "Unknown"
-      },
-      "timestamp": 1750629835000
+      }
     }
   ],
   "records": {
@@ -147,9 +159,9 @@
       "1472348058472812605"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1472348054794408108",
-    "uploadMessageId": ""
+    "uploadMessageId": "1472355259815956491"
   },
   "archivedAt": 1750630085984,
-  "updatedAt": 1771105527292,
+  "updatedAt": 1771107247325,
   "num_comments": 0
 }

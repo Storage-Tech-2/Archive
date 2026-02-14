@@ -26,5 +26,5 @@ Separates boxes based on if the first item of the input box matches an item set.
 <img src="images/w.png?raw=1" height="300px">
 
 ## Resources
-- [BW002_DrakePHOSE_18gt_Box_Blacklister.litematic](): MC 1.21.1, Size 17x10x6 blocks
-- [BW002_DrakePHOSE_18gt_Box_Whitelister.litematic](): MC 1.21.1, Size 17x10x6 blocks
+- [BW002_DrakePHOSE_18gt_Box_Blacklister.litematic](attachments/BW002_DrakePHOSE_18gt_Box_Blacklister.litematic): MC 1.21.1, Size 17x10x6 blocks
+- [BW002_DrakePHOSE_18gt_Box_Whitelister.litematic](attachments/BW002_DrakePHOSE_18gt_Box_Whitelister.litematic): MC 1.21.1, Size 17x10x6 blocks
