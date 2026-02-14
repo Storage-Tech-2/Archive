@@ -1,15 +1,15 @@
 {
   "id": "1383890936488132689",
-  "name": "whitelister-box-sorters",
-  "code": "WBS",
+  "name": "box-whitelisters",
+  "code": "BW",
   "category": "Box Sorting",
   "description": "Checks if a box has an item (first-slot/anywhere) contained in a list",
   "currentCodeId": 2,
   "entries": [
     {
       "id": "1386466762488549526",
-      "code": "WBS002",
-      "path": "WBS002_18gt_Box_First_Item_BlacklisterWhitelister"
+      "code": "BW002",
+      "path": "BW002_18gt_Box_First_Item_BlacklisterWhitelister"
     }
   ]
 }

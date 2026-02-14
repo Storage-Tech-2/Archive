@@ -1,10 +1,11 @@
 {
   "id": "1386466762488549526",
   "name": "18gt Box First Item Blacklister/Whitelister",
-  "code": "WBS002",
+  "code": "BW002",
   "reservedCodes": [
     "IBS001",
-    "WBS002"
+    "WBS002",
+    "BW002"
   ],
   "pastPostThreadIds": [
     "1388316853004140554",
@@ -79,7 +80,7 @@
   "attachments": [
     {
       "id": "1386466764258545785",
-      "name": "WBS002_DrakePHOSE_18gt_Box_Blacklister.litematic",
+      "name": "BW002_DrakePHOSE_18gt_Box_Blacklister.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386466762488549526/1386466764258545785/DrakePHOSE_18gt_Box_Blacklister.litematic?ex=6859cf4b&is=68587dcb&hm=bfdf0c7d1d45efe8d6311bb1b42ef209a2dd215e610d65d307738487d4d5ee97&",
       "description": "",
@@ -97,7 +98,7 @@
     },
     {
       "id": "1386466765210386491",
-      "name": "WBS002_DrakePHOSE_18gt_Box_Whitelister.litematic",
+      "name": "BW002_DrakePHOSE_18gt_Box_Whitelister.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386466762488549526/1386466765210386491/DrakePHOSE_18gt_Box_Whitelister.litematic?ex=6859cf4c&is=68587dcc&hm=3ff5b8401feaf290f768a606a8bb54027543a9dc390019c286d672529ac926ca&",
       "description": "",
