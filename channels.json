@@ -141,11 +141,11 @@
   },
   {
     "id": "1383890936488132689",
-    "name": "whitelister-box-sorters",
-    "code": "WBS",
-    "embedding": "IuwFLT78AAjX5Ofq7xYKFwcE+h8V5zLaEB315OoBGhco1ALtA/AJCfnj7fju74kn3e3sFvIf6PHw8e8UGRQFAjAJHxkE+v37DAA+4+Ar9goRDiQgCPn++/ohCtgL4B3sBv0IB/rMGdzlBQH3vQwgAvgS6SP1AAYJJC8oCxflAA7o2CEMBAnlCfn5G+0MBe8d49P49uAl3Q3949sEDfXKCNUOCw8Y+Q8AEyP47h4b8AEaHBQJ6uv2IfTa/Cf+C9HcFwwA/NJIGQssEwv16vz5/RgNKdYVAycfDhgR4z71FA/5Gjb2Ld/sOAUzAfkq/AwU+PcLF+b8HuwS+/P+Auwd4g==",
+    "name": "box-whitelisters",
+    "code": "BW",
+    "embedding": "LPINJzr8EAvf6e717wgDGxMB8hsP5CzaDxjz4fH/Fg0Z2Qj4BvIGEe/v9Pvt9IIy2unkHe8e7/3j7fYMER//9SoFJxgK/v/2B/o84uUhAAUYEishA/MIA/4mCs4U3hXgDv4LBfLQHdjb/Aj3uA8f/wgT7R3pCQwQHSolECjp9hTo3iEGAwrpB/j2GPQG+vYe5sz4/e4a3hUD6dcFFPzL/t8GCRci9wD4FSH57x4a9wQSIREb7u74JPXWACntE9bhDQQA98U8Hw8qHBD35PsC/BQQJ9oaACcXFAwX4kkDDQ7uFiXyJ83qIw4wBP4tAxII9u8RGuLvHPMIAucBDO0h7A==",
     "category": "Box Sorting",
-    "path": "Archive/WBS_whitelister-box-sorters",
+    "path": "Archive/BW_box-whitelisters",
     "description": "Checks if a box has an item (first-slot/anywhere) contained in a list",
     "position": 49
   },
