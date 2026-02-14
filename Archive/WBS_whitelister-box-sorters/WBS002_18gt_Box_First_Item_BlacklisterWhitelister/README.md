@@ -7,7 +7,7 @@
 
 **Tags:** *Recommended, Functional*
 
-**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388316853004140554)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1472348054794408108)
 
 Separates boxes based on if the first item of the input box matches an item set.
 ## Features
@@ -26,5 +26,5 @@ Separates boxes based on if the first item of the input box matches an item set.
 <img src="images/w.png?raw=1" height="300px">
 
 ## Resources
-- [IBS001_DrakePHOSE_18gt_Box_Blacklister.litematic](attachments/IBS001_DrakePHOSE_18gt_Box_Blacklister.litematic): MC 1.21.1, Size 17x10x6 blocks
-- [IBS001_DrakePHOSE_18gt_Box_Whitelister.litematic](attachments/IBS001_DrakePHOSE_18gt_Box_Whitelister.litematic): MC 1.21.1, Size 17x10x6 blocks
+- [WBS002_DrakePHOSE_18gt_Box_Blacklister.litematic](): MC 1.21.1, Size 17x10x6 blocks
+- [WBS002_DrakePHOSE_18gt_Box_Whitelister.litematic](): MC 1.21.1, Size 17x10x6 blocks
