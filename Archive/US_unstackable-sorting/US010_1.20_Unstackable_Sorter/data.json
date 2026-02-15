@@ -120,7 +120,8 @@
       "Fully hopperlocked and idle cartless version included."
     ],
     "considerations": [
-      "Large salmon can escape from fish containment. Don't put in buckets containing large salmon."
+      "Large salmon can escape from fish containment. Don't put in buckets containing large salmon.",
+      "Brushes go in the shears chest in 1.21+"
     ],
     "notes": "Schematic contains four variants in different subregions. See subregion names to identify them.",
     "compatibility": "1.20+",
@@ -237,6 +238,6 @@
     "uploadMessageId": "1472474874554486910"
   },
   "archivedAt": 1771135762658,
-  "updatedAt": 1771136223618,
+  "updatedAt": 1771160961752,
   "num_comments": 0
 }

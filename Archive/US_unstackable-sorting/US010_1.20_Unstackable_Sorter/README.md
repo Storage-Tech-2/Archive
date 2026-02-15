@@ -20,6 +20,7 @@ Sorts 1.20+ unstackable items by their item type. Can sort between 11 unstackabl
 - Fully hopperlocked and idle cartless version included.
 ## Considerations
 - Large salmon can escape from fish containment. Don't put in buckets containing large salmon.
+- Brushes go in the shears chest in 1.21+
 ## Notes
 Schematic contains four variants in different subregions. See subregion names to identify them.
 ## Compatibility
