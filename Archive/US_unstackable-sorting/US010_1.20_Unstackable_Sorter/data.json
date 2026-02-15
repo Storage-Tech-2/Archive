@@ -112,11 +112,11 @@
     "description": "Sorts 1.20+ unstackable items by their item type. Can sort between 11 unstackable items.",
     "features": [
       "11 items sorted: music discs, enchanted books, bottles, flint and steel, shears, powdered snow, lava bucket, water bucket, boat, armor, and cart.",
-      "Compact:  6x6x13 vs 6x9x14 compared to Leo's design in ST1.",
+      "Compact:  6x6x13 vs 6x9x14 compared to US001",
       "Lag efficient: no pistons in clocks and locking, no 4gt clocks (they're laggy asf), every clock is independent.",
       "Dropper layout optimised for 1.20.",
       "Hopper speed throughput",
-      "31 hoppers vs 45 hoppers compared to Leo's design in ST1.",
+      "31 hoppers vs 45 hoppers compared to US001",
       "Fully hopperlocked and idle cartless version included."
     ],
     "considerations": [
@@ -124,7 +124,11 @@
     ],
     "notes": "Schematic contains four variants in different subregions. See subregion names to identify them.",
     "compatibility": "1.20+",
-    "additional-credits": "- Music disc filter by <@381396930212921355> \n- Book filter: no credits due to its simplicity\n- Potion filter: no credits due to its simplicity\n- Flint & steel and shears filter: no credits due to its simplicity\n- Flint & steel and shears sorter by <@381396930212921355> and <@244529884846751745> \n- Water bucket filter by <@381396930212921355> \n- Lava bucket and powder snow bucket filter + sorter by <@381396930212921355> \n- Boat sorter by <@381396930212921355> \n- Minecart sorter by <@1068798858676686848> \n- Armor sorter by <@381396930212921355> and <@244529884846751745>"
+    "additional-credits": "- Music disc filter by <@381396930212921355> \n- Book filter: no credits due to its simplicity\n- Potion filter: no credits due to its simplicity\n- Flint & steel and shears filter: no credits due to its simplicity\n- Flint & steel and shears sorter by <@381396930212921355> and <@244529884846751745> \n- Water bucket filter by <@381396930212921355> \n- Lava bucket and powder snow bucket filter + sorter by <@381396930212921355> \n- Boat sorter by <@381396930212921355> \n- Minecart sorter by <@1068798858676686848> \n- Armor sorter by <@381396930212921355> and <@244529884846751745>",
+    "instructions": [
+      "Put in **only unstackable items** items in input",
+      "For the hopperlocked version, the lever controls the hopperlocking. Make sure it is off before you put in items, and only turn it on after they have been processed."
+    ]
   },
   "styles": {
     "additional-credits": {
@@ -133,6 +137,17 @@
     }
   },
   "references": [
+    {
+      "type": "archivedPost",
+      "id": "1386690708240339074",
+      "code": "US001",
+      "name": "CommandLeo's 1.20 Unstackable Sorter",
+      "url": "https://discord.com/channels/1375556143186837695/1465717428930478120",
+      "path": "Archive/US_unstackable-sorting/US001_CommandLeos_1.20_Unstackable_Sorter",
+      "matches": [
+        "US001"
+      ]
+    },
     {
       "type": "dictionaryTerm",
       "term": "Gametick",
@@ -157,7 +172,8 @@
       "id": "1454753660625227895",
       "url": "https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422",
       "matches": [
-        "hopperlocked"
+        "hopperlocked",
+        "hopperlocking"
       ]
     },
     {
@@ -221,6 +237,6 @@
     "uploadMessageId": "1472474874554486910"
   },
   "archivedAt": 1771135762658,
-  "updatedAt": 1771136035668,
+  "updatedAt": 1771136223618,
   "num_comments": 0
 }
