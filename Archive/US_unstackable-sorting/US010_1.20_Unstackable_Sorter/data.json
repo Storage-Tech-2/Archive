@@ -123,9 +123,15 @@
       "Large salmon can escape from fish containment. Don't put in buckets containing large salmon."
     ],
     "notes": "Schematic contains four variants in different subregions. See subregion names to identify them.",
-    "compatibility": "1.20+"
+    "compatibility": "1.20+",
+    "additional-credits": "- Music disc filter by <@381396930212921355> \n- Book filter: no credits due to its simplicity\n- Potion filter: no credits due to its simplicity\n- Flint & steel and shears filter: no credits due to its simplicity\n- Flint & steel and shears sorter by <@381396930212921355> and <@244529884846751745> \n- Water bucket filter by <@381396930212921355> \n- Lava bucket and powder snow bucket filter + sorter by <@381396930212921355> \n- Boat sorter by <@381396930212921355> \n- Minecart sorter by <@1068798858676686848> \n- Armor sorter by <@381396930212921355> and <@244529884846751745>"
   },
-  "styles": {},
+  "styles": {
+    "additional-credits": {
+      "depth": 2,
+      "headerText": "Additional Credits"
+    }
+  },
   "references": [
     {
       "type": "dictionaryTerm",
@@ -162,6 +168,45 @@
       "matches": [
         "Schematic"
       ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "381396930212921355",
+        "username": "commandleo",
+        "iconURL": "https://cdn.discordapp.com/avatars/381396930212921355/cb1dcc76d3f6a30dddc49e6d9e96681a.webp",
+        "displayName": "CommandLeo"
+      },
+      "matches": [
+        "<@381396930212921355>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "244529884846751745",
+        "username": "raffq",
+        "iconURL": "https://cdn.discordapp.com/avatars/244529884846751745/25d3bc667842f56584713459d3f4713b.webp",
+        "displayName": "Raffq"
+      },
+      "matches": [
+        "<@244529884846751745>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "1068798858676686848",
+        "username": "777777777777777777774832",
+        "iconURL": "https://cdn.discordapp.com/avatars/1068798858676686848/9c8fd7932d9c0072be4f3d559abe76b8.webp",
+        "displayName": "77777777777777777777"
+      },
+      "matches": [
+        "<@1068798858676686848>"
+      ]
     }
   ],
   "author_references": [],
@@ -169,12 +214,13 @@
     "threadId": "1472474881210847332",
     "forumId": "1375564342392786944",
     "continuingMessageIds": [
-      "1472474884520022169"
+      "1472474884520022169",
+      "1472476002524467234"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1472474881210847332",
     "uploadMessageId": "1472474874554486910"
   },
   "archivedAt": 1771135762658,
-  "updatedAt": 1771135762658,
+  "updatedAt": 1771136035668,
   "num_comments": 0
 }

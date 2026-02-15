@@ -24,6 +24,17 @@ Sorts 1.20+ unstackable items by their item type. Can sort between 11 unstackabl
 Schematic contains four variants in different subregions. See subregion names to identify them.
 ## Compatibility
 1.20+
+## Additional Credits
+- Music disc filter by CommandLeo 
+- Book filter: no credits due to its simplicity
+- Potion filter: no credits due to its simplicity
+- Flint & steel and shears filter: no credits due to its simplicity
+- Flint & steel and shears sorter by CommandLeo and Raffq 
+- Water bucket filter by CommandLeo 
+- Lava bucket and powder snow bucket filter + sorter by CommandLeo 
+- Boat sorter by CommandLeo 
+- Minecart sorter by 77777777777777777777 
+- Armor sorter by CommandLeo and Raffq
 
 ## Other Images
 <img src="images/8gt_locked.png?raw=1" height="300px">
