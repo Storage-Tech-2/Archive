@@ -39,7 +39,7 @@ An advanced Minecraft storage system created by 4three, with components sourced 
 - Unstackable Sorter: https://discord.com/channels/748542142347083868/749136876946063360/1286267762360188958 (in [Storage Tech](https://discord.gg/JufJ6uf))
 - Anvil Replacer: https://www.youtube.com/watch?v=kAS-ZaNnF10&t=120s
 - Box Yeeting Crafting Station: https://discord.com/channels/748542142347083868/749137321710059542/1062856400092549251 (in [Storage Tech](https://discord.gg/JufJ6uf))
-- Furnace: https://discord.com/channels/594920796867133446/669868185863847948/1159746421512208434 (in [Tech MC Archive](https://discord.gg/Bh7Kasf))
+- Furnace: https://discord.com/channels/594920796867133446/669868185863847948/1159746421512208434
 - Unsorted 6x Box Loader: https://discord.com/channels/748542142347083868/749135718701465641/1048747806489321594 (in [Storage Tech](https://discord.gg/JufJ6uf))
 - Unsorted Box display: https://discord.com/channels/748542142347083868/1092754735569834015/1105529293494308874 (in [Storage Tech](https://discord.gg/JufJ6uf))
 - 4d Aligner: https://discord.com/channels/748542142347083868/749137424684285992/1258477090257502258 (in [Storage Tech](https://discord.gg/JufJ6uf))

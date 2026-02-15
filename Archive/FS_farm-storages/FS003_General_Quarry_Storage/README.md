@@ -20,7 +20,7 @@ Sorts and stores items produced by a quarry
 - Storage is configured to handle a 500x1500 area.
 - With the schematics an example setup is attached, which includes a quarry, nether transportation line and the storage.
 ## Sourced components
-- Chunk loader: https://discord.com/channels/594920796867133446/594968639321538560/917049843711631400 (in [Tech MC Archive](https://discord.gg/Bh7Kasf)) (Pfeffabeissa)
+- Chunk loader: https://discord.com/channels/594920796867133446/594968639321538560/917049843711631400 (Pfeffabeissa)
 - Cart-yeeting filter: https://discord.com/channels/748542142347083868/748578407377272843/1025134782524436590 (in [Storage Tech](https://discord.gg/JufJ6uf)) (Hexatron) (modified by me, one posted by hex is directional and can skip items in some conditions)
 - Stack separator: <https://youtu.be/ypuFkR_3M7M> (Rapscallion)
 - Stack filter: https://discord.com/channels/748542142347083868/749136547755851857/1092571218982477824 (in [Storage Tech](https://discord.gg/JufJ6uf)) (Rapscallion & Glotz)
