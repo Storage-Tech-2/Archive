@@ -1,0 +1,33 @@
+# 1.20+ Unstackable Sorter
+<img alt="8gt.png" src="images/8gt.png?raw=1" height="300px">
+
+**Authors:** *PyraLeft*
+
+**Endorsed by:** *Andrews54757*
+
+**Tags:** *Recommended*
+
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1472474881210847332)
+
+Sorts 1.20+ unstackable items by their item type. Can sort between 11 unstackable items.
+## Features
+- 11 items sorted: music discs, enchanted books, bottles, flint and steel, shears, powdered snow, lava bucket, water bucket, boat, armor, and cart.
+- Compact:  6x6x13 vs 6x9x14 compared to Leo's design in ST1.
+- Lag efficient: no pistons in clocks and locking, no 4gt clocks (they're laggy asf), every clock is independent.
+- Dropper layout optimised for 1.20.
+- Hopper speed throughput
+- 31 hoppers vs 45 hoppers compared to Leo's design in ST1.
+- Fully hopperlocked and idle cartless version included.
+## Considerations
+- Large salmon can escape from fish containment. Don't put in buckets containing large salmon.
+## Notes
+Schematic contains four variants in different subregions. See subregion names to identify them.
+## Compatibility
+1.20+
+
+## Other Images
+<img src="images/8gt_locked.png?raw=1" height="300px">
+
+## Resources
+- [US010_unstack_sorters.litematic](attachments/US010_unstack_sorters.litematic): MC 1.20.4, Size 23x9x30 blocks
+  - Contains four variants: hopperspeed without hopperlocking, hopperspeed with hopperlocking, half-hopperspeed without hopperlocking, and hopperspeed with hopperlocking. See schematic subregion names to identify correct one.

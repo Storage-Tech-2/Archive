@@ -1,0 +1,176 @@
+{
+  "id": "1387065521270427862",
+  "name": "1.20+ Unstackable Sorter",
+  "code": "US010",
+  "reservedCodes": [
+    "US010"
+  ],
+  "pastPostThreadIds": [
+    "1472474881210847332"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "719903397171560559",
+      "displayName": "PyraLeft",
+      "username": "pyraleftt",
+      "iconURL": "https://cdn.discordapp.com/avatars/719903397171560559/7ba08c1c9ee4d550dae6dd373cf9fabe.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465487514964988074",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472472438284746753",
+      "name": "8gt.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387065521270427862/1472472438284746753/8gt.png?ex=6992b252&is=699160d2&hm=d14984e81d5dbf08949c1d4cbd698d68f96443755a0a76865c8b35a87739fd81&",
+      "timestamp": 1771135186313,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Hopperspeed throughput, no hopperlocking version",
+      "size": 57780,
+      "canDownload": true,
+      "width": 872,
+      "height": 593,
+      "path": "images/8gt.png",
+      "hash": "9f6bc0264ff1bc0bad1b4556151e2f09689bc2f3affd98afda1986b5ba9f20c3"
+    },
+    {
+      "id": "1472472437735166086",
+      "name": "8gt_locked.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1387065521270427862/1472472437735166086/8gt_locked.png?ex=6992b252&is=699160d2&hm=0868b231a0f8ef5d23e71a6c5cc684d257e681f403ddcc2446a79c829ffbdd04&",
+      "timestamp": 1771135186313,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Hopperspeed throughput, with hopperlocking version",
+      "size": 66843,
+      "canDownload": true,
+      "width": 955,
+      "height": 617,
+      "path": "images/8gt_locked.png",
+      "hash": "3d01ac0acedc93c7f8f6b361cbdb08d87f5ee9b66731ca55e2f3eb10e4584978"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1471787601198317599",
+      "name": "US010_unstack_sorters.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1387065521270427862/1471787601198317599/unstack_sorters.litematic?ex=69922ec4&is=6990dd44&hm=7b621dde39dfc49675b2257106c8b93b23c89672e1effc1c8841905846bbfd3f&",
+      "timestamp": 1770971908614,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "719903397171560559",
+        "username": "pyraleftt",
+        "displayName": "PyraLeft",
+        "iconURL": "https://cdn.discordapp.com/avatars/719903397171560559/7ba08c1c9ee4d550dae6dd373cf9fabe.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Contains four variants: hopperspeed without hopperlocking, hopperspeed with hopperlocking, half-hopperspeed without hopperlocking, and hopperspeed with hopperlocking. See schematic subregion names to identify correct one.",
+      "size": 8687,
+      "canDownload": true,
+      "hash": "2c75ca4a4181aef097af850c8cbdd8eee04632eb9d8c1dda839283a0b8137495",
+      "path": "attachments/US010_unstack_sorters.litematic",
+      "litematic": {
+        "size": "23x9x30",
+        "version": "1.20.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Sorts 1.20+ unstackable items by their item type. Can sort between 11 unstackable items.",
+    "features": [
+      "11 items sorted: music discs, enchanted books, bottles, flint and steel, shears, powdered snow, lava bucket, water bucket, boat, armor, and cart.",
+      "Compact:  6x6x13 vs 6x9x14 compared to Leo's design in ST1.",
+      "Lag efficient: no pistons in clocks and locking, no 4gt clocks (they're laggy asf), every clock is independent.",
+      "Dropper layout optimised for 1.20.",
+      "Hopper speed throughput",
+      "31 hoppers vs 45 hoppers compared to Leo's design in ST1.",
+      "Fully hopperlocked and idle cartless version included."
+    ],
+    "considerations": [
+      "Large salmon can escape from fish containment. Don't put in buckets containing large salmon."
+    ],
+    "notes": "Schematic contains four variants in different subregions. See subregion names to identify them.",
+    "compatibility": "1.20+"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Gametick",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopper speed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "Hopper speed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopperlocking",
+      "id": "1454753660625227895",
+      "url": "https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422",
+      "matches": [
+        "hopperlocked"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Schematic",
+      "id": "1454811558009110704",
+      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
+      "matches": [
+        "Schematic"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472474881210847332",
+    "forumId": "1375564342392786944",
+    "continuingMessageIds": [
+      "1472474884520022169"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1472474881210847332",
+    "uploadMessageId": "1472474874554486910"
+  },
+  "archivedAt": 1771135762658,
+  "updatedAt": 1771135762658,
+  "num_comments": 0
+}

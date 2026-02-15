@@ -4,7 +4,7 @@
   "code": "US",
   "category": "Item Processing",
   "description": "Sort unstackable items by its type, typically by exploiting unique interactions with that item",
-  "currentCodeId": 9,
+  "currentCodeId": 10,
   "entries": [
     {
       "id": "1387480002978910330",
@@ -45,6 +45,11 @@
       "id": "1386690708240339074",
       "code": "US001",
       "path": "US001_CommandLeos_1.20_Unstackable_Sorter"
+    },
+    {
+      "id": "1387065521270427862",
+      "code": "US010",
+      "path": "US010_1.20_Unstackable_Sorter"
     }
   ]
 }
