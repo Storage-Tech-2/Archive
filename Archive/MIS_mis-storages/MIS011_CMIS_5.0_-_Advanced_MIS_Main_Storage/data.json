@@ -159,11 +159,11 @@
       }
     },
     {
-      "id": "1469415543562961081",
-      "name": "MIS011_CMIS_V5_Demo_2.zip",
+      "id": "1472982072749461676",
+      "name": "MIS011_CMIS_V5_Demo.zip",
       "contentType": "application/zip",
-      "url": "https://cdn.discordapp.com/attachments/1463670970337464384/1469415543562961081/CMIS_V5_Demo_2.zip?ex=6987935e&is=698641de&hm=3721a527e736e2b510872c2b5a11af78cc46dc57718aae59d7bf38f37d0e97ec&",
-      "timestamp": 1770406365998,
+      "url": "https://cdn.discordapp.com/attachments/1463670970337464384/1472982072749461676/CMIS_V5_Demo.zip?ex=69948cf4&is=69933b74&hm=7953c07914ec320850e00cb04f04742747036cdf12943922b6000dfe42193175&",
+      "timestamp": 1771256692820,
       "author": {
         "type": "discord-in-guild",
         "id": "239078039831445504",
@@ -173,9 +173,10 @@
       },
       "source": "MessageAttachment",
       "description": "",
-      "size": 5383766,
+      "size": 5413911,
       "canDownload": true,
-      "path": "attachments/MIS011_CMIS_V5_Demo_2.zip",
+      "hash": "f26225426f4c6b9a68e712924aa42a9513913667a9cc7f6f1ef0784569e4af28",
+      "path": "attachments/MIS011_CMIS_V5_Demo.zip",
       "wdls": [
         {
           "path": "CMIS Demo",
@@ -187,15 +188,14 @@
         "version": "1.21",
         "optimized": true
       },
-      "unoptimizedSize": 38680309,
-      "hash": "c3857392d6323206a7a2c6e5fec2d3956a210cb98ea88a402abbed93c8f5275e"
+      "unoptimizedSize": 38681303
     },
     {
-      "id": "1469415338339860632",
+      "id": "1470311764079153327",
       "name": "MIS011_CMIS-V5.0.litematic",
       "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1463670970337464384/1469415338339860632/CMIS-V5.0.litematic?ex=6987932d&is=698641ad&hm=498ba8942e040d5f21f662a53c6436bfaf724b66ea00fc6e32443dacdcd4f7e1&",
-      "timestamp": 1770406317011,
+      "url": "https://cdn.discordapp.com/attachments/1463670970337464384/1470311764079153327/CMIS-V5.0.litematic?ex=69941089&is=6992bf09&hm=918702738f4b81273a671d13b2b6568b64cba5b3d3db7ade708792cd5e5b17a2&",
+      "timestamp": 1770620041621,
       "author": {
         "type": "discord-in-guild",
         "id": "142441395095863296",
@@ -205,14 +205,14 @@
       },
       "source": "MessageAttachment",
       "description": "",
-      "size": 237856,
+      "size": 237892,
       "canDownload": true,
+      "hash": "7accc856b1b6472f3cc17293a22a42cc7d728afcb90f84d4a4071b3b4d410ee3",
       "path": "attachments/MIS011_CMIS-V5.0.litematic",
       "litematic": {
         "size": "75x44x94",
         "version": "1.21"
-      },
-      "hash": "31eba93dbca3ecba571ada7fb1dca333c955bc95e6c5ff97490e18f14ac2f9b1"
+      }
     }
   ],
   "records": {
@@ -403,8 +403,8 @@
         "type": "discord-in-guild",
         "id": "319513337941721089",
         "username": "inspectortalon",
-        "displayName": "Inspector Talon",
-        "iconURL": "https://cdn.discordapp.com/avatars/319513337941721089/edec0da88a70e9697b6b43b4a2d740e3.webp"
+        "iconURL": "https://cdn.discordapp.com/avatars/319513337941721089/edec0da88a70e9697b6b43b4a2d740e3.webp",
+        "displayName": "Inspector Talon"
       },
       "matches": [
         "<@319513337941721089>"
@@ -535,9 +535,9 @@
       "1469384793895469261"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1469384785846599845",
-    "uploadMessageId": "1469415736479973460"
+    "uploadMessageId": "1472982342300602409"
   },
   "archivedAt": 1770399008926,
-  "updatedAt": 1770406408034,
+  "updatedAt": 1771256755365,
   "num_comments": 0
 }
