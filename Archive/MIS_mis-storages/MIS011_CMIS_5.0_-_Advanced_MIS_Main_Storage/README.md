@@ -28,7 +28,7 @@ CMIS 5.0 is a complete storage system designed for single player or small server
 - cartMIS Slice inspired by Luxar , modified Civic Dude 
 - Shulker Box Sorter by 金合欢酱喵~ (acaciachan) , HeadUnit modified by Civic Dude 
 - Cart yeeting unloaders by Christone 
-- Unstackable Sorter by 77777777777777777777 
+- Unstackable Sorter ([US010 1.20+ Unstackable Sorter](https://discord.com/channels/1375556143186837695/1472474881210847332)) by PyraLeft
 - Shulker Based Chunk Loader by: kahyxen
 - Too many more to fully list out here.
 ## Notes
@@ -48,8 +48,10 @@ Minecraft 1.21+
 <img src="images/2026-01-21_15.39.45.png?raw=1" height="300px">
 
 ## Resources
+- [MIS011_CMIS_5-0_Demo_MC1_21_11.zip](attachments/MIS011_CMIS_5-0_Demo_MC1_21_11.zip): MC 1.21.11
+- [MIS011_CMIS-V5.0_1-21-11.litematic](attachments/MIS011_CMIS-V5.0_1-21-11.litematic): MC 1.21.11, Size 75x44x94 blocks
 - [MIS011_CMIS_V5_nether.litematic](attachments/MIS011_CMIS_V5_nether.litematic): MC 1.21.4, Size 12x6x25 blocks
 - [[NEW] CMIS 5.0 - A Minecraft Main Storage](https://youtu.be/bvo-P9Nj71Y): by [Civic Dude](https://www.youtube.com/@CivicDudeGaming)
   - System Demo Video
-- [MIS011_CMIS_5-0_Demo_MC1_21_11.zip](attachments/MIS011_CMIS_5-0_Demo_MC1_21_11.zip): MC 1.21.11
-- [MIS011_CMIS-V5.0_1-21-11.litematic](attachments/MIS011_CMIS-V5.0_1-21-11.litematic): MC 1.21.11, Size 75x44x94 blocks
+- [CMIS 5.0 Full Walkthrough](https://youtu.be/ZqWro4KG3Xw): by [Civic Dude](https://www.youtube.com/@CivicDudeGaming)
+  - Full explanation video
