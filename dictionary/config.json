@@ -885,6 +885,23 @@
       ],
       "summary": "A whitelister or blacklister is typically a device which checks if the first item in a single-type box is within some set or list of item types. Whitelisters/blacklisters are useful for quickly det...",
       "updatedAt": 1771454646470
+    },
+    {
+      "id": "1473813462533542121",
+      "terms": [
+        "SVAR"
+      ],
+      "summary": "SVAR stands for Shulker Variable sorter. It takes the form of an array of variable filters, which when empty are set by the first item and box pair that passes over them, and if they are already se...",
+      "updatedAt": 1771454920744
+    },
+    {
+      "id": "1473813478782402745",
+      "terms": [
+        "Butterfly tiling",
+        "mirror tiling"
+      ],
+      "summary": "Butterfly tiling or miror tiling refers to the technique of flipping every other slice to avoid crosstalk between slices. Butterfly tiled devices are in effect, 1wABt.",
+      "updatedAt": 1771454926245
     }
   ]
 }
