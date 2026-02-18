@@ -1,25 +1,16 @@
 {
   "id": "1473804633582338129",
   "terms": [
-    "LUF",
-    "Lead Unstackable Filter"
+    "LUF Grouper",
+    "Lead Unstackable Filter Grouper"
   ],
-  "definition": "A lead unstackable filter (LUF) is a device which checks if a box contains a certain item type, with the filter set dynamically like in a grouper. The difference between a grouper and an LUF is that on setting the filter, an LUF will continue to pull out items if the item is an unstackable item, only setting the filter if it is stackable. This allows it to be initialized with mixed box input, which is helpful for presorting in variable sorting techniques such as cycvars.",
+  "definition": "A lead unstackable filter grouper (LUF grouper) is a device which checks if a box contains a certain item type, with the filter set dynamically like in a grouper. The difference between a normal grouper and an LUF grouper is that on setting the filter, an LUF grouper will continue to pull out items if the item is an unstackable item, only setting the filter if it is stackable. This allows it to be initialized with mixed box input, which is helpful for presorting in variable sorting techniques such as cycvars.",
   "threadURL": "https://discord.com/channels/1375556143186837695/1473804633582338129",
   "statusURL": "https://discord.com/channels/1375556143186837695/1473804633582338129/1473804635121651743",
   "status": "APPROVED",
   "statusMessageID": "1473804635121651743",
-  "updatedAt": 1771452839451,
+  "updatedAt": 1771453001471,
   "references": [
-    {
-      "type": "dictionaryTerm",
-      "term": "Unstackable filter",
-      "id": "1454754830101774427",
-      "url": "https://discord.com/channels/1375556143186837695/1454754830101774427/1454754831284568139",
-      "matches": [
-        "unstackable filter"
-      ]
-    },
     {
       "type": "dictionaryTerm",
       "term": "Mixed Box",
