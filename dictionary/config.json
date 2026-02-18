@@ -876,6 +876,15 @@
       ],
       "summary": "a Lead Item Filter is a box filtering process which checks the item in the first slot of the box to check if it is stackable or nonstackable. if the lead item is stackable, it returns the item to t...",
       "updatedAt": 1771454163060
+    },
+    {
+      "id": "1473812335243165757",
+      "terms": [
+        "Whitelister",
+        "Blacklister"
+      ],
+      "summary": "A whitelister or blacklister is typically a device which checks if the first item in a single-type box is within some set or list of item types. Whitelisters/blacklisters are useful for quickly det...",
+      "updatedAt": 1771454646470
     }
   ]
 }
