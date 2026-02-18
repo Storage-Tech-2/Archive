@@ -918,10 +918,10 @@
       "id": "1473819225020960850",
       "terms": [
         "Pipelined",
-        "hyperthreading"
+        "hyperthread"
       ],
       "summary": "Pipelining (also referred to as hyperthreading), is design paradigm where a process with multiple steps can occur simultaneously with another process at a later stage. A process here can refer to a...",
-      "updatedAt": 1771456288753
+      "updatedAt": 1771456707188
     }
   ]
 }
