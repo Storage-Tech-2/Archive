@@ -1,6 +1,6 @@
 {
   "id": "1386932150355623997",
-  "name": "Shulker Box Blacklister",
+  "name": "Shulker Box Matcher",
   "code": "OBP005",
   "reservedCodes": [
     "WBS001",
@@ -73,12 +73,12 @@
   "attachments": [
     {
       "id": "1450558994728091810",
-      "name": "OBP005_8gt_2wt_box_blacklister.litematic",
+      "name": "OBP005_8gt_2wt_box_matcher.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386932150355623997/1450558994728091810/8gt_2wt_box_blacklister.litematic?ex=69459cd6&is=69444b56&hm=62c290ab1161e1836285b5cdf3078ba7f9ddcf7aded917b9d807f8c73241b581&",
       "description": "",
       "canDownload": true,
-      "path": "attachments/OBP005_8gt_2wt_box_blacklister.litematic",
+      "path": "attachments/OBP005_8gt_2wt_box_matcher.litematic",
       "litematic": {
         "size": "8x6x2",
         "version": "1.20.1"
@@ -138,9 +138,9 @@
       "1472349192126201938"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1472349188686872748",
-    "uploadMessageId": "1472349181812281365"
+    "uploadMessageId": "1473809163225268448"
   },
   "archivedAt": 1766101430626,
-  "updatedAt": 1771105796650,
+  "updatedAt": 1771453885734,
   "num_comments": 0
 }
