@@ -1,18 +1,5 @@
 [
   {
-    "id": "1473820735234510918",
-    "sender": {
-      "type": "discord-in-guild",
-      "id": "384084307712409600",
-      "username": "tisunfortunate",
-      "displayName": "TisUnfortunate",
-      "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/0de5630a1bd3ad4fb3e24f5ba40958e1.webp"
-    },
-    "content": "VBS003 Hyperthreaded Whitelister Temp",
-    "attachments": [],
-    "timestamp": 1771456549266
-  },
-  {
     "id": "1473820736182292642",
     "sender": {
       "type": "discord-in-guild",

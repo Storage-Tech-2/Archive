@@ -32,9 +32,5 @@ A device that can store up to 400 unique partials, with a compact design and var
 ## Comments
 
 ### TisUnfortunate (2/18/2026)
-VBS003 Hyperthreaded Whitelister Temp
-
-
-### TisUnfortunate (2/18/2026)
 VBS003 Hyper Threaded Whitelister Temp
 
