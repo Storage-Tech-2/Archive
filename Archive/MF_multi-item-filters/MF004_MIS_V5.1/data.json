@@ -1,6 +1,6 @@
 {
   "id": "1461791673670566072",
-  "name": "2wt MIS V5.1",
+  "name": "MIS V5.1",
   "code": "MF004",
   "reservedCodes": [
     "MF004"
@@ -59,13 +59,13 @@
       "canDownload": true,
       "width": 542,
       "height": 800,
-      "path": "images/image.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "tisunfortunate"
+        "username": "Unknown"
       },
       "timestamp": 1768588693000,
+      "path": "images/image.png",
       "hash": "a14d800d05b7db70f6681142000af1a1da19f490826feea267c91e2a31b1cd3b"
     }
   ],
@@ -85,10 +85,9 @@
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "tisunfortunate"
+        "username": "Unknown"
       },
       "timestamp": 1768588693000,
-      "size": 2030,
       "hash": "4a8d5480ff3c9e60f5cfa55379cf605c2e726f092c62e9e343abbd06cbf9775d"
     },
     {
@@ -106,10 +105,9 @@
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "tisunfortunate"
+        "username": "Unknown"
       },
       "timestamp": 1768588693000,
-      "size": 1778,
       "hash": "ff437595a035e16c0ac03b34c29e6c86cd3fddb058e640981542fb826d20198c"
     },
     {
@@ -127,10 +125,9 @@
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "tisunfortunate"
+        "username": "Unknown"
       },
       "timestamp": 1768588693000,
-      "size": 2486,
       "hash": "6035751372a0957f0d2a3302a883de1be907fd262b7a4c2b0c3dee51e1668c1d"
     },
     {
@@ -148,22 +145,21 @@
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "tisunfortunate"
+        "username": "Unknown"
       },
       "timestamp": 1768588693000,
-      "size": 2147,
       "hash": "a01505629ee9af60e64983963aec8b60238e181d32a5eb8adf5f0311d85bf164"
     }
   ],
   "records": {
-    "description": "Modification of MIS v5 that sorts items at hopper speed with a 16gt delay between item types. Silent, 2x7x7 size, can sort up to 54 items per slice, handles 64 and 16 stackable items, accepts unstackables (but can't sort them), and can be fully hopper locked.",
+    "description": "Modification of MIS v5 that sorts items at hopper speed with a 16gt delay between item types. Silent, 2x7x7 size, can sort up to 54 items per slice, handles 64 and 16 stackable items, accepts unstackables (but can't sort them), and can be fully hopper locked. A 1-wide butterfly tiled version is also included.",
     "features": [
       "Sorts items at hopper speed with a 16gt delay between item types",
       "Silent",
       "Can sort up to 54 items per slice",
       "Can sort 64 and 16 stackable items",
       "Accepts (but can't sort) unstackables",
-      "2x7x7 size",
+      "2x7x7 size, 1 wide butterfly tiled variant included",
       "Can be fully hopper locked"
     ],
     "notes": "Schematics include the item gate, a slice, and a U-turn for the 1wt design. Versions of both 2wt & 1wt with self managed hopper locking attached.",
@@ -247,6 +243,6 @@
     "uploadMessageId": "1461793007228420271"
   },
   "archivedAt": 1768589002867,
-  "updatedAt": 1769052095301,
+  "updatedAt": 1771431610468,
   "num_comments": 0
 }
