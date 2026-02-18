@@ -842,11 +842,11 @@
     {
       "id": "1473804633582338129",
       "terms": [
-        "LUF",
-        "Lead Unstackable Filter"
+        "LUF Grouper",
+        "Lead Unstackable Filter Grouper"
       ],
-      "summary": "A lead unstackable filter (LUF) is a device which checks if a box contains a certain item type, with the filter set dynamically like in a grouper. The difference between a grouper and an LUF is tha...",
-      "updatedAt": 1771452839451
+      "summary": "A lead unstackable filter grouper (LUF grouper) is a device which checks if a box contains a certain item type, with the filter set dynamically like in a grouper. The difference between a normal gr...",
+      "updatedAt": 1771453001471
     }
   ]
 }
