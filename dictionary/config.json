@@ -889,10 +889,11 @@
     {
       "id": "1473813462533542121",
       "terms": [
-        "SVAR"
+        "SVAR",
+        "shulker box variable sorter"
       ],
       "summary": "SVAR stands for Shulker Variable sorter. It takes the form of an array of variable filters, which when empty are set by the first item and box pair that passes over them, and if they are already se...",
-      "updatedAt": 1771454920744
+      "updatedAt": 1771455375428
     },
     {
       "id": "1473813478782402745",
