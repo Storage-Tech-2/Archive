@@ -9,6 +9,20 @@
   "status": "APPROVED",
   "statusMessageID": "1473805824701763748",
   "updatedAt": 1771453787328,
-  "references": [],
-  "referencedBy": []
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Matcher",
+      "id": "1473809831696797848",
+      "url": "https://discord.com/channels/1375556143186837695/1473809831696797848/1473809834351526049",
+      "matches": [
+        "box matcher"
+      ]
+    }
+  ],
+  "referencedBy": [
+    "MIS004",
+    "VBS003",
+    "VBS005"
+  ]
 }
