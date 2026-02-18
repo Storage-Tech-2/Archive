@@ -847,6 +847,14 @@
       ],
       "summary": "A lead unstackable filter grouper (LUF grouper) is a device which checks if a box contains a certain item type, with the filter set dynamically like in a grouper. The difference between a normal gr...",
       "updatedAt": 1771453001471
+    },
+    {
+      "id": "1473805823884005457",
+      "terms": [
+        "Grouper"
+      ],
+      "summary": "A grouper is a variable box sorting device, which checks if a box contains a specific item type anywhere in the box. This is similar to a SSU, but instead of having a fixed filter which is set when...",
+      "updatedAt": 1771453093400
     }
   ]
 }
