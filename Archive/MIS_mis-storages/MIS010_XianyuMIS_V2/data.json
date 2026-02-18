@@ -241,6 +241,15 @@
     },
     {
       "type": "dictionaryTerm",
+      "term": "Whitelister",
+      "id": "1473812335243165757",
+      "url": "https://discord.com/channels/1375556143186837695/1473812335243165757/1473812336434479176",
+      "matches": [
+        "Whitelister"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
       "term": "Dropper speed",
       "id": "1454753562033651876",
       "url": "https://discord.com/channels/1375556143186837695/1454753562033651876/1454753563258519584",
@@ -438,8 +447,8 @@
         "type": "discord-in-guild",
         "id": "1154811326540038185",
         "username": "capybruhh",
-        "displayName": "Capybruhh (no ping plz)",
-        "iconURL": "https://cdn.discordapp.com/avatars/1154811326540038185/69c37494ea59a6a85f22cf992839ef2e.webp"
+        "iconURL": "https://cdn.discordapp.com/avatars/1154811326540038185/69c37494ea59a6a85f22cf992839ef2e.webp",
+        "displayName": "Capybruhh (no ping plz)"
       },
       "matches": [
         "<@1154811326540038185>"
