@@ -84,30 +84,6 @@
   ],
   "attachments": [
     {
-      "id": "1468893063928610982",
-      "name": "ML009_3wt8xmixed_local_v2.litematic",
-      "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1468893063626625086/1468893063928610982/3wt8xmixed_local_v2.litematic?ex=6985acc5&is=69845b45&hm=026165448fe68544c5775f568270a128103039d449de8ee1bffd33e5ef874d95&",
-      "timestamp": 1770281797082,
-      "author": {
-        "type": "discord-in-guild",
-        "id": "444883614761746436",
-        "username": "camphorwood",
-        "displayName": "camphorwood",
-        "iconURL": "https://cdn.discordapp.com/avatars/444883614761746436/b846c71873bcae574d1550d0d2c78d42.webp"
-      },
-      "source": "MessageAttachment",
-      "description": "",
-      "size": 1616,
-      "canDownload": true,
-      "path": "attachments/ML009_3wt8xmixed_local_v2.litematic",
-      "litematic": {
-        "size": "5x7x3",
-        "version": "1.21.1"
-      },
-      "hash": "e37e117673f64846d990b3a5417f1f5c7601ec50c9a3aca0172e00935d5ad54b"
-    },
-    {
       "id": "1468893064801292343",
       "name": "ML009_3wt8xmixed_local_v2_tiledexample.litematic",
       "contentType": "unknown",
@@ -130,6 +106,30 @@
         "version": "1.21.1"
       },
       "hash": "a037d16e12cab7154e85552098cdfbadbd57038252c3602ad9645b49bf1bf9af"
+    },
+    {
+      "id": "1473663831111630848",
+      "name": "ML009_3wt8xmixed_local_v2.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1468893063626625086/1473663831111630848/3wt8xmixed_local_v2.litematic?ex=699707e4&is=6995b664&hm=5d410dce20645d0294331af4dc8191fa7da8b983aa42eb9aa46adebc7c2a3533&",
+      "timestamp": 1771419236745,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "444883614761746436",
+        "username": "camphorwood",
+        "displayName": "camphorwood",
+        "iconURL": "https://cdn.discordapp.com/avatars/444883614761746436/b846c71873bcae574d1550d0d2c78d42.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "there was stuff in the hoppers i didnt clean oops",
+      "size": 1278,
+      "canDownload": true,
+      "hash": "0ea93f7f991115e321af30e64f065d99d831d9794ef3edfe987ae87915cd1452",
+      "path": "attachments/ML009_3wt8xmixed_local_v2.litematic",
+      "litematic": {
+        "size": "5x7x3",
+        "version": "1.21.1"
+      }
     }
   ],
   "records": {
@@ -176,9 +176,9 @@
       "1469044027465662672"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1469044024110350601",
-    "uploadMessageId": "1469044013410549956"
+    "uploadMessageId": "1473664383875027017"
   },
   "archivedAt": 1770317782688,
-  "updatedAt": 1770317782688,
+  "updatedAt": 1771419367087,
   "num_comments": 0
 }

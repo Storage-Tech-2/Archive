@@ -25,5 +25,6 @@ For Minecraft 1.13 compatibility, use droppers instead of composters.
 <img src="images/area_render_1_.png?raw=1" height="300px">
 
 ## Resources
-- [ML009_3wt8xmixed_local_v2.litematic](attachments/ML009_3wt8xmixed_local_v2.litematic): MC 1.21.1, Size 5x7x3 blocks
 - [ML009_3wt8xmixed_local_v2_tiledexample.litematic](attachments/ML009_3wt8xmixed_local_v2_tiledexample.litematic): MC 1.21.1, Size 5x7x16 blocks
+- [ML009_3wt8xmixed_local_v2.litematic](attachments/ML009_3wt8xmixed_local_v2.litematic): MC 1.21.1, Size 5x7x3 blocks
+  - there was stuff in the hoppers i didnt clean oops
