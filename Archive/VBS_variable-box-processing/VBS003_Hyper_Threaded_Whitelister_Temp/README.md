@@ -28,3 +28,9 @@ A device that can store up to 400 unique partials, with a compact design and var
 
 ## Resources
 - [VBS003_Hyper.Threaded.Whitelister.Tempv1.2.litematic](attachments/VBS003_Hyper.Threaded.Whitelister.Tempv1.2.litematic): MC 1.21, Size 19x11x8 blocks
+
+## Comments
+
+### TisUnfortunate (2/18/2026)
+VBS003 Hyperthreaded Whitelister Temp
+
