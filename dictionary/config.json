@@ -855,6 +855,14 @@
       ],
       "summary": "A grouper is a variable box sorting device, which checks if a box contains a specific item type anywhere in the box. This is similar to a box matcher, but instead of having a fixed filter which is ...",
       "updatedAt": 1771453787328
+    },
+    {
+      "id": "1473809831696797848",
+      "terms": [
+        "Box Matcher"
+      ],
+      "summary": "A box matcher is a device which checks if a specific item type is contained in a box. The box can be a mixed box, in which a match means that a slot in the box has the desired item type. Box matche...",
+      "updatedAt": 1771454048831
     }
   ]
 }
