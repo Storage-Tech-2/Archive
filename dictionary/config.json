@@ -913,6 +913,15 @@
       ],
       "summary": "Matrix addressing refers to using a coordinate system to efficiently activate components by their coordinates.",
       "updatedAt": 1771455148597
+    },
+    {
+      "id": "1473819225020960850",
+      "terms": [
+        "Pipelined",
+        "hyperthreading"
+      ],
+      "summary": "Pipelining (also referred to as hyperthreading), is design paradigm where a process with multiple steps can occur simultaneously with another process at a later stage. A process here can refer to a...",
+      "updatedAt": 1771456288753
     }
   ]
 }
