@@ -93,15 +93,28 @@
     }
   ],
   "records": {
-    "description": "Each slice uses a static filter to check if the box contains the item set in the filter. If so, then the box will be rejected, otherwise the box moves to the next slice.",
+    "description": "This tileable shulker box matcher has a static filter in each slice to check if the box contains the item set in the filter. If so, then the box will be output in the slice, otherwise the box moves to the next slice.",
     "features": [
       "2x6x8 (single slice)",
       "true 2-wide tileable",
       "Input boxes at hopper speed: 8gt"
     ],
-    "instructions": "First, set up filters by putting 18 items of the item you want to filter in the hopper below the box dispensing area. The rest of the slots should be filled with one 64-stackable blocker item each. Do this for all of your slices. Then, you can insert boxes to sort into the hopper feeding the dropper/dispenser (read by a comparator) by using another hopper to push items inside of it."
+    "instructions": [
+      "Set up filters by putting 18 items of the item you want to filter in the hopper below the box dispensing area. The rest of the slots should be filled with one 64-stackable blocker item each. Do this for all of your slices.",
+      "Then, you can insert boxes to sort into the hopper feeding the dropper/dispenser (read by a comparator) by using another hopper to push items inside of it."
+    ]
   },
+  "styles": {},
   "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Matcher",
+      "id": "1473809831696797848",
+      "url": "https://discord.com/channels/1375556143186837695/1473809831696797848/1473809834351526049",
+      "matches": [
+        "box matcher"
+      ]
+    },
     {
       "type": "dictionaryTerm",
       "term": "Slice",
@@ -141,6 +154,6 @@
     "uploadMessageId": "1473809163225268448"
   },
   "archivedAt": 1766101430626,
-  "updatedAt": 1771453885734,
+  "updatedAt": 1771454336767,
   "num_comments": 0
 }
