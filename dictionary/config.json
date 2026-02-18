@@ -853,8 +853,8 @@
       "terms": [
         "Grouper"
       ],
-      "summary": "A grouper is a variable box sorting device, which checks if a box contains a specific item type anywhere in the box. This is similar to a SSU, but instead of having a fixed filter which is set when...",
-      "updatedAt": 1771453093400
+      "summary": "A grouper is a variable box sorting device, which checks if a box contains a specific item type anywhere in the box. This is similar to a box matcher, but instead of having a fixed filter which is ...",
+      "updatedAt": 1771453787328
     }
   ]
 }
