@@ -1,12 +1,13 @@
 {
   "id": "1439818384933130322",
-  "name": "Hyper Threaded Whitelister Temp",
+  "name": "Hyperthreaded Whitelister Temp",
   "code": "VBS003",
   "reservedCodes": [
     "VBS003"
   ],
   "pastPostThreadIds": [
-    "1439829809134829840"
+    "1439829809134829840",
+    "1473820723696107726"
   ],
   "authors": [
     {
@@ -42,13 +43,13 @@
       "canDownload": true,
       "width": 800,
       "height": 525,
-      "path": "images/image.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "tisunfortunate"
+        "username": "Unknown"
       },
       "timestamp": 1763349853000,
+      "path": "images/image.png",
       "hash": "6a9f4e9f690ef93428adf46c485f06b40cf854dfe07587a60fced51997cdacf2"
     }
   ],
@@ -68,10 +69,9 @@
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "tisunfortunate"
+        "username": "Unknown"
       },
       "timestamp": 1763500939000,
-      "size": 6407,
       "hash": "a74596319d4df15785477f1ca6bd11e67228f0995f83c2cf68df2e52e7250f2d"
     }
   ],
@@ -80,7 +80,7 @@
     "features": [
       "Can store up to 400 unique partials (50 per slice)",
       "Compact(6x11x19)",
-      "Hyper Threaded Box Retrieval\n*next box begins processing while previous bucket is being returned*",
+      "Hyperthreaded Box Retrieval\n*next box begins processing while previous bucket is being returned*",
       "38 hoppers",
       "Paired Partials output to water stream",
       "Accessible Temp Chests",
@@ -94,6 +94,7 @@
       "processing time is ~linearly related to # of boxes in bucket. The more items allocated to a slice, the slower it can be (207gt for no boxes in bucket to ~715gt for 49 boxes in bucket)."
     ]
   },
+  "styles": {},
   "references": [
     {
       "type": "dictionaryTerm",
@@ -134,15 +135,15 @@
   ],
   "author_references": [],
   "post": {
-    "threadId": "1439829809134829840",
+    "threadId": "1473820723696107726",
     "forumId": "1375570066451599401",
     "continuingMessageIds": [
-      "1439829811974377623"
+      "1473820730738081985"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1439829809134829840",
+    "threadURL": "https://discord.com/channels/1375556143186837695/1473820723696107726",
     "uploadMessageId": "1440468947345477696"
   },
   "archivedAt": 1763504959556,
-  "updatedAt": 1766904098854,
+  "updatedAt": 1771456641115,
   "num_comments": 2
 }

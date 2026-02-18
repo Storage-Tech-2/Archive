@@ -1,4 +1,4 @@
-# Hyper Threaded Whitelister Temp
+# Hyperthreaded Whitelister Temp
 <img alt="image.png" src="images/image.png?raw=1" height="300px">
 
 **Authors:** *TisUnfortunate*
@@ -7,13 +7,13 @@
 
 **Tags:** *Functional*
 
-**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1439829809134829840)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1473820723696107726)
 
 A device that can store up to 400 unique partials, with a compact design and various features for efficient operation.
 ## Features
 - Can store up to 400 unique partials (50 per slice)
 - Compact(6x11x19)
-- Hyper Threaded Box Retrieval
+- Hyperthreaded Box Retrieval
 *next box begins processing while previous bucket is being returned*
 - 38 hoppers
 - Paired Partials output to water stream
