@@ -838,6 +838,15 @@
       ],
       "summary": "A restock station is a simple device which displays shulker boxes of useful items for the player to take items from. It's called a restock station because it allows the player to restock on food, f...",
       "updatedAt": 1769296908742
+    },
+    {
+      "id": "1473804633582338129",
+      "terms": [
+        "LUF",
+        "Lead Unstackable Filter"
+      ],
+      "summary": "A lead unstackable filter (LUF) is a device which checks if a box contains a certain item type, with the filter set dynamically like in a grouper. The difference between a grouper and an LUF is tha...",
+      "updatedAt": 1771452839451
     }
   ]
 }
