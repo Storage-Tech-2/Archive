@@ -4,12 +4,12 @@
     "Butterfly tiling",
     "mirror tiling"
   ],
-  "definition": "Butterfly tiling or miror tiling refers to the technique of flipping every other slice to avoid crosstalk between slices. Butterfly tiled devices are in affect, 1wABt.",
+  "definition": "Butterfly tiling or miror tiling refers to the technique of flipping every other slice to avoid crosstalk between slices. Butterfly tiled devices are in effect, 1wABt.",
   "threadURL": "https://discord.com/channels/1375556143186837695/1473813478782402745",
   "statusURL": "https://discord.com/channels/1375556143186837695/1473813478782402745/1473813479470403656",
   "status": "APPROVED",
   "statusMessageID": "1473813479470403656",
-  "updatedAt": 1771454918310,
+  "updatedAt": 1771454926245,
   "references": [
     {
       "type": "dictionaryTerm",
