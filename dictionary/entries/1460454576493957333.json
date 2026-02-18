@@ -4,12 +4,12 @@
     "Sequential shulker unloader",
     "SSU"
   ],
-  "definition": "A sequential shulker unloader is a device which takes out items of a specific type out of a mixed box, and then breaks the box when it runs out of that item type. SSU's work by putting a shulker box over an item filter, the filter hopper will naturally only pull out items which match the item type wherever it is, the rest of the items stay in the box. This is useful because if you just want one item its faster to use an SSU than unloading the entire box, filtering the items, and then loading the remaining items back in. Some SSU designs are tileable so you can unload different item types in each slice. Boxes with leftover items travel through each slice sequentially (this is where the word \"sequential\" comes from).",
+  "definition": "A sequential shulker unloader is a device which takes out items of a specific type out of a mixed box, and then breaks the box when it runs out of that item type. SSU's work by putting a shulker box over an item filter, the filter hopper will naturally only pull out items which match the item type wherever it is, the rest of the items stay in the box. This is useful because if you just want one item its faster to use an SSU than unloading the entire box, filtering the items, and then loading the remaining items back in. Some SSU designs are tileable so you can unload different item types in each slice. Boxes with leftover items travel through each slice sequentially (this is where the word \"sequential\" comes from). An variable SSU which sets its filters dynamically is called a grouper.",
   "threadURL": "https://discord.com/channels/1375556143186837695/1460454576493957333",
   "statusURL": "https://discord.com/channels/1375556143186837695/1460454576493957333/1460454577995251899",
   "status": "APPROVED",
   "statusMessageID": "1460454577995251899",
-  "updatedAt": 1768270086763,
+  "updatedAt": 1771453171442,
   "references": [
     {
       "type": "dictionaryTerm",
@@ -27,6 +27,15 @@
       "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
       "matches": [
         "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Grouper",
+      "id": "1473805823884005457",
+      "url": "https://discord.com/channels/1375556143186837695/1473805823884005457/1473805824701763748",
+      "matches": [
+        "grouper"
       ]
     }
   ],
