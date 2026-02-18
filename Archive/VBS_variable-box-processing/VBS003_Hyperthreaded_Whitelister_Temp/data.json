@@ -107,6 +107,15 @@
     },
     {
       "type": "dictionaryTerm",
+      "term": "Pipelined",
+      "id": "1473819225020960850",
+      "url": "https://discord.com/channels/1375556143186837695/1473819225020960850/1473819226677444694",
+      "matches": [
+        "Hyperthread"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
       "term": "cart yeet",
       "id": "1455675378931728598",
       "url": "https://discord.com/channels/1375556143186837695/1455675378931728598/1455675380160659517",
