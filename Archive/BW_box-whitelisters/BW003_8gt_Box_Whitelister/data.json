@@ -155,9 +155,8 @@
     ],
     "considerations": [
       "Cannot accept empty boxes as input.",
-      "Requires at least 3 of each item in the chest to be sorted; 64-stackable and 16-stackable items cannot be in the same sorting chest simultaneously;the specific filling method is demonstrated in the schem."
+      "Requires at least 2 of each item in the chest to be sorted; 64-stackable and 16-stackable items cannot be in the same sorting chest simultaneously;the specific filling method is demonstrated in the schem."
     ],
-    "notes": "- CW90 and CW180 rotations require placing torches on the curved rails within each slice. CCW90 rotation does not.\n- Expansion requires increasing the leading fill buffer, extending the unlock clock. The entity version's expansion length may be limited and requires changes to some timings.",
     "compatibility": "1.19+"
   },
   "styles": {},
@@ -169,15 +168,6 @@
       "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
       "matches": [
         "gt"
-      ]
-    },
-    {
-      "type": "dictionaryTerm",
-      "term": "Slice",
-      "id": "1454754736224997386",
-      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
-      "matches": [
-        "slice"
       ]
     }
   ],
@@ -192,6 +182,6 @@
     "uploadMessageId": "1474845333929594940"
   },
   "archivedAt": 1771700925712,
-  "updatedAt": 1771700925712,
+  "updatedAt": 1771707861954,
   "num_comments": 0
 }

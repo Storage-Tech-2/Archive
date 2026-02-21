@@ -16,10 +16,7 @@ Checks if a box's first item is within a list of items at 8gt per box, and if so
 - Expandable.
 ## Considerations
 - Cannot accept empty boxes as input.
-- Requires at least 3 of each item in the chest to be sorted; 64-stackable and 16-stackable items cannot be in the same sorting chest simultaneously;the specific filling method is demonstrated in the schem.
-## Notes
-- CW90 and CW180 rotations require placing torches on the curved rails within each slice. CCW90 rotation does not.
-- Expansion requires increasing the leading fill buffer, extending the unlock clock. The entity version's expansion length may be limited and requires changes to some timings.
+- Requires at least 2 of each item in the chest to be sorted; 64-stackable and 16-stackable items cannot be in the same sorting chest simultaneously;the specific filling method is demonstrated in the schem.
 ## Compatibility
 1.19+
 
