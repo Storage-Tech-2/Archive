@@ -1,0 +1,197 @@
+{
+  "id": "1474842302525472959",
+  "name": "8gt Box Whitelister",
+  "code": "BW003",
+  "reservedCodes": [
+    "BW003"
+  ],
+  "pastPostThreadIds": [
+    "1474845341332279338"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1068798858676686848",
+      "username": "777777777777777777774832",
+      "displayName": "77777777777777777777",
+      "iconURL": "https://cdn.discordapp.com/avatars/1068798858676686848/9c8fd7932d9c0072be4f3d559abe76b8.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "1207492489880277073",
+      "username": "tacren_66869",
+      "displayName": "vincent",
+      "iconURL": "https://cdn.discordapp.com/embed/avatars/5.png"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "1157996921168875581",
+      "username": "bbhg_",
+      "displayName": "bbhg_",
+      "iconURL": "https://cdn.discordapp.com/avatars/1157996921168875581/cd2440a9ab4c8d8be275ecc746bbe28b.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465491873870381252",
+      "name": "Functional"
+    },
+    {
+      "id": "1465487808759070867",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1474844093958983902",
+      "name": "fhl.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1474842302525472959/1474844093958983902/fhl.png?ex=699b5319&is=699a0199&hm=cde1278b86a43e89d236c1601be974682c24c7188c89c71e0d087fdcd776a3c0&",
+      "timestamp": 1771700633325,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Fully hopperlocked and built-in fill level sorter version",
+      "size": 80171,
+      "canDownload": true,
+      "width": 837,
+      "height": 477,
+      "path": "images/fhl.png",
+      "hash": "32a7d9e35c4e425f1eba3b8cc034b6cf65114783381249198109209e064df406"
+    },
+    {
+      "id": "1474844275278741618",
+      "name": "base.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1474842302525472959/1474844275278741618/base.png?ex=699b5344&is=699a01c4&hm=5b225e2a0e721c76806699ef4f0ccf0f3bd06ce56596c30edfcb0aca1b9aa1f0&",
+      "timestamp": 1771700676522,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Base version",
+      "size": 77320,
+      "canDownload": true,
+      "width": 737,
+      "height": 523,
+      "path": "images/base.png",
+      "hash": "8fc4e06f8683e9463b3ba63700ee190b96303514ff9215913f7e6322c9f5943f"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1474842936280748222",
+      "name": "BW003_8gt_Box_Whitelister_v3.0.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1474842302525472959/1474842936280748222/8gt_Box_Whitelister_v3.0.litematic?ex=699b5205&is=699a0085&hm=011ab9bf98814b8c42524198e41149b74c391d591956809f9aa4daae1b25ebee&",
+      "timestamp": 1771700357373,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Base version",
+      "size": 2215,
+      "canDownload": true,
+      "hash": "2401e1f7fbdc1919727a10bbdbb9e0f12cc91bee2ac8468ba9f0a989e941c864",
+      "path": "attachments/BW003_8gt_Box_Whitelister_v3.0.litematic",
+      "litematic": {
+        "size": "8x5x13",
+        "version": "1.21"
+      }
+    },
+    {
+      "id": "1474842935852793906",
+      "name": "BW003_8gt_Box_Whitelister_v3.0__FHL_and_Fill_Level_Sorter.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1474842302525472959/1474842935852793906/8gt_Box_Whitelister_v3.0__FHL_and_Fill_Level_Sorter.litematic?ex=699b5205&is=699a0085&hm=c0fdc471b3253203ed63f6cb89cf57f6ddd6874dfb3864e3f09196f140af7a86&",
+      "timestamp": 1771700357373,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Fully hopperlocked and has built-in fill level sorter",
+      "size": 2472,
+      "canDownload": true,
+      "hash": "dd506f89bff4b10569f5196cd983830d7186beb4ef9e2d1f722c5b94407ab21a",
+      "path": "attachments/BW003_8gt_Box_Whitelister_v3.0__FHL_and_Fill_Level_Sorter.litematic",
+      "litematic": {
+        "size": "8x5x14",
+        "version": "1.21"
+      }
+    }
+  ],
+  "records": {
+    "description": "Checks if a box's first item is within a list of items at 8gt per box, and if so, outputs the box.",
+    "features": [
+      "Fully Hopper Locked.",
+      "Built-in fill-level sorter. Outputs partial whitelisted boxes, full whitelisted boxes, and non-whitelisted boxes.",
+      "Expandable."
+    ],
+    "considerations": [
+      "Cannot accept empty boxes as input.",
+      "Requires at least 3 of each item in the chest to be sorted; 64-stackable and 16-stackable items cannot be in the same sorting chest simultaneously;the specific filling method is demonstrated in the schem."
+    ],
+    "notes": "- CW90 and CW180 rotations require placing torches on the curved rails within each slice. CCW90 rotation does not.\n- Expansion requires increasing the leading fill buffer, extending the unlock clock. The entity version's expansion length may be limited and requires changes to some timings.",
+    "compatibility": "1.19+"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Gametick",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1474845341332279338",
+    "forumId": "1383890936488132689",
+    "continuingMessageIds": [
+      "1474845347707752679"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1474845341332279338",
+    "uploadMessageId": "1474845333929594940"
+  },
+  "archivedAt": 1771700925712,
+  "updatedAt": 1771700925712,
+  "num_comments": 0
+}

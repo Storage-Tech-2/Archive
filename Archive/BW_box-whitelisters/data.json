@@ -4,12 +4,17 @@
   "code": "BW",
   "category": "Box Sorting",
   "description": "Checks if a box has an item (first-slot/anywhere) contained in a list",
-  "currentCodeId": 2,
+  "currentCodeId": 3,
   "entries": [
     {
       "id": "1386466762488549526",
       "code": "BW002",
       "path": "BW002_18gt_Box_First_Item_BlacklisterWhitelister"
+    },
+    {
+      "id": "1474842302525472959",
+      "code": "BW003",
+      "path": "BW003_8gt_Box_Whitelister"
     }
   ]
 }
