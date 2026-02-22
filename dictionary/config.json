@@ -840,6 +840,15 @@
       "updatedAt": 1769296908742
     },
     {
+      "id": "1469657186740469760",
+      "terms": [
+        "Furnace Array",
+        "Super Smelter"
+      ],
+      "summary": "A Furnace Array is a device which distributes items across multiple furnaces to efficiently smelt lots of items at a time. Furnace arrays can vary widely in sizes from 32 to 1728 and beyond.\n\nFurna...",
+      "updatedAt": 1771739510646
+    },
+    {
       "id": "1473804633582338129",
       "terms": [
         "LUF Grouper",
