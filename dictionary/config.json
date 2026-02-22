@@ -840,6 +840,14 @@
       "updatedAt": 1769296908742
     },
     {
+      "id": "1464788208796565709",
+      "terms": [
+        "Bucket"
+      ],
+      "summary": "A bucket is a container, typically holding a specific subset of items. Buckets are used to fragment large bodies of information into callable and searchable subsets to speed up a search process by ...",
+      "updatedAt": 1771739643469
+    },
+    {
       "id": "1469657186740469760",
       "terms": [
         "Furnace Array",
