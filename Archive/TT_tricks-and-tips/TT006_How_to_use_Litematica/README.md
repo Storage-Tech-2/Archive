@@ -32,8 +32,8 @@ You might have noticed that most of the things here in the ST2 archives have lit
 6. Alternativey, in the main litematica menu, set Tool Mode to "Schematic Placement". In the game, turn on rendering with `M+R`. You can then grab a stick item in your hotbar, and click in the world to place the schematic where you want it.
 7. If you are building a schematic in survival, use the Render Layers configuration (in configuration menu) to restrict rendering to a certain layer range. after you build a layer, increase the layer amount and build the next one. Do this until you built the whole thing. Then verify that you built it correctly using the Schematic Verifier (Litematica menu > Schematic Placements > Configure your placement > Schematic verifier button).
 8. If you want to paste a schematic in creative mode, set Tool Mode to "Paste Schematic in World." Then grab a stick, make sure rendering is on, and use the executeOperation hotkey (you need to set this yourself in the configuration menu) to paste it.
-## Using the ST2-Downloader mod
-The [ST2-Downloader mod](https://modrinth.com/mod/st2-downloader) integrates with Litematica to automatically download and load schematics from the ST2 archives here into the game. Simply click on a litematic attachment within a post, and it will auto load it into Litematica for you.
+## Using the Archive Downloader mod
+The [Archive Downloader mod](https://modrinth.com/mod/archive-downloader) integrates with Litematica to automatically download and load schematics from the Storage Catalog into the game. Simply click on a litematic attachment within a post, and it will auto load it into Litematica for you.
 ## Tips
 - There are lots of YouTube tutorials out there, use them if you are confused.
 - Set datafixerMode to Always to ensure that schematics from older versions are loaded with inventories correctly.

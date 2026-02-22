@@ -41,14 +41,14 @@
       "contentType": "image/png",
       "width": 32,
       "height": 32,
-      "path": "images/25b5529d7a3b030ac136a6ce879d8ed2a1aa4a8d.png",
       "source": "DirectUpload",
       "author": {
         "type": "unknown",
-        "username": "andrews54757"
+        "username": "Unknown"
       },
       "timestamp": 1769139503000,
       "canDownload": false,
+      "path": "images/25b5529d7a3b030ac136a6ce879d8ed2a1aa4a8d.png",
       "hash": "efd22e85a34bf3745e2de7d326bcd976dddb8d43c7861aa31666e4ff110e8da6"
     }
   ],
@@ -58,7 +58,7 @@
     "install": "1. Make sure you have fabric loader installed. See https://fabricmc.net/use/installer/ for installation instructions.\n2. In your mods folder, install the [Litematica mod](https://modrinth.com/mod/litematica) by moving the jar file there.\n3. Make sure [Malilib](https://modrinth.com/mod/malilib) is also installed. If not, install it too.",
     "making-schematics": "1.  In-game, press `M` to open menu.\n2. Go to area editor, set selection mode to \"Simple\"\n3. Go back to previous menu, make sure tool mode is \"Area Selection\" (click it until it's that)\n4. Exit menu, then grab a wooden stick. Press `M+R` to toggle rendering.\n5. Set the boundaries of your build by left clicking in one corner, and right clicking in the opposite corner\n6. Go to the area editor again. Set the selection name. Then, click \"Save schematic\"\n7. Adjust filename as necessary, then click \"Save schematic\" again.\n8. Your schematic is located in the `schematics` folder inside your `.minecraft` (on win) or `~/Library/Application Support/minecraft` (on macos) folder.",
     "using-schematics": "1.  The schematic you want to use should be placed in the `schematics` folder already\n2. In-game, press `M` to open menu.\n3. Click \"Load Schematics\"\n4. Select the schematic file you want, then click \"Load Schematic\"\n5. Exit back to the main litematica menu. Now you can go to \"Schematic Placements\" to configure where you want it.\n6. Alternativey, in the main litematica menu, set Tool Mode to \"Schematic Placement\". In the game, turn on rendering with `M+R`. You can then grab a stick item in your hotbar, and click in the world to place the schematic where you want it.\n7. If you are building a schematic in survival, use the Render Layers configuration (in configuration menu) to restrict rendering to a certain layer range. after you build a layer, increase the layer amount and build the next one. Do this until you built the whole thing. Then verify that you built it correctly using the Schematic Verifier (Litematica menu > Schematic Placements > Configure your placement > Schematic verifier button).\n8. If you want to paste a schematic in creative mode, set Tool Mode to \"Paste Schematic in World.\" Then grab a stick, make sure rendering is on, and use the executeOperation hotkey (you need to set this yourself in the configuration menu) to paste it.",
-    "using-the-st2-downloader-mod": "The [ST2-Downloader mod](https://modrinth.com/mod/st2-downloader) integrates with Litematica to automatically download and load schematics from the ST2 archives here into the game. Simply click on a litematic attachment within a post, and it will auto load it into Litematica for you.",
+    "using-the-archive-downloader-mod": "The [Archive Downloader mod](https://modrinth.com/mod/archive-downloader) integrates with Litematica to automatically download and load schematics from the Storage Catalog into the game. Simply click on a litematic attachment within a post, and it will auto load it into Litematica for you.",
     "tips": "- There are lots of YouTube tutorials out there, use them if you are confused.\n- Set datafixerMode to Always to ensure that schematics from older versions are loaded with inventories correctly.\n- Also set both entityDataSync and pasteUsingServux to true so that you can paste instantly with inventories on servers using the Servux mod."
   },
   "styles": {
@@ -74,9 +74,9 @@
       "depth": 2,
       "headerText": "Using schematics"
     },
-    "using-the-st2-downloader-mod": {
+    "using-the-archive-downloader-mod": {
       "depth": 2,
-      "headerText": "Using the ST2-Downloader mod"
+      "headerText": "Using the Archive Downloader mod"
     },
     "tips": {
       "depth": 2,
@@ -126,6 +126,6 @@
     "uploadMessageId": ""
   },
   "archivedAt": 1769139545083,
-  "updatedAt": 1769139545083,
+  "updatedAt": 1771740118579,
   "num_comments": 0
 }
