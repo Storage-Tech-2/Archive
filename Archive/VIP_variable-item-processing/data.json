@@ -12,11 +12,6 @@
       "path": "VIP001_Global_Reset_Var_Loaders"
     },
     {
-      "id": "1386467829523550238",
-      "code": "VIP002",
-      "path": "VIP002_Variable_cart_filter"
-    },
-    {
       "id": "1387083566676181035",
       "code": "VIP003",
       "path": "VIP003_32X_and_64X_Compact_Ideal_Splitter"
