@@ -135,6 +135,15 @@
   },
   "references": [
     {
+      "type": "dictionaryTerm",
+      "term": "Bucket",
+      "id": "1464788208796565709",
+      "url": "https://discord.com/channels/1375556143186837695/1464788208796565709/1464788210138878080",
+      "matches": [
+        "bucket"
+      ]
+    },
+    {
       "type": "archivedPost",
       "id": "1386690708240339074",
       "code": "US001",

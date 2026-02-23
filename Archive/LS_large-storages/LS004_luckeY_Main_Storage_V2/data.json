@@ -296,6 +296,16 @@
     },
     {
       "type": "dictionaryTerm",
+      "term": "Furnace Array",
+      "id": "1469657186740469760",
+      "url": "https://discord.com/channels/1375556143186837695/1469657186740469760/1469657189575692492",
+      "matches": [
+        "furnace array",
+        "Furnace array"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
       "term": "Chunk loader",
       "id": "1457055322647695542",
       "url": "https://discord.com/channels/1375556143186837695/1457055322647695542/1457055324426080287",
@@ -460,7 +470,8 @@
     "continuingMessageIds": [
       "1458851292939026601",
       "1458851293622964480",
-      "1458851294402842747"
+      "1458851294402842747",
+      "1475457933897629917"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1458851285771227331",
     "uploadMessageId": "1470296907661181124"

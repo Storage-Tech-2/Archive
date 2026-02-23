@@ -95,7 +95,17 @@
       "headerText": "Video Instruction"
     }
   },
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Furnace Array",
+      "id": "1469657186740469760",
+      "url": "https://discord.com/channels/1375556143186837695/1469657186740469760/1469657189575692492",
+      "matches": [
+        "furnace array"
+      ]
+    }
+  ],
   "author_references": [],
   "post": {
     "threadId": "1460061153983201343",

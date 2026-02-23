@@ -20,5 +20,13 @@
       ]
     }
   ],
-  "referencedBy": []
+  "referencedBy": [
+    "LS005",
+    "MF003",
+    "US004",
+    "US008",
+    "US001",
+    "US010",
+    "VBS003"
+  ]
 }

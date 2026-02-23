@@ -124,7 +124,17 @@
     "considerations": [],
     "notes": "1.21.2 and higher, the path the mobs take after being yeeted must be at least 3 wide to accommodate large salmon. The white and light gray concrete in the image are not required for the machine to work. In the bucket emptying version, the cobblestone slab can be replaced with any movable water loggable block with a full top surface. In the bucket keeping version, the hanging sign must be a hanging sign."
   },
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Bucket",
+      "id": "1464788208796565709",
+      "url": "https://discord.com/channels/1375556143186837695/1464788208796565709/1464788210138878080",
+      "matches": [
+        "bucket"
+      ]
+    }
+  ],
   "author_references": [],
   "post": {
     "threadId": "1391831230600839218",

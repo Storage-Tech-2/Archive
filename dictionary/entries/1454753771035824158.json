@@ -9,7 +9,17 @@
   "status": "APPROVED",
   "statusMessageID": "1454753771555913873",
   "updatedAt": 1766910727949,
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Furnace Array",
+      "id": "1469657186740469760",
+      "url": "https://discord.com/channels/1375556143186837695/1469657186740469760/1469657189575692492",
+      "matches": [
+        "Furnace Array"
+      ]
+    }
+  ],
   "referencedBy": [
     "LS001",
     "LS002",

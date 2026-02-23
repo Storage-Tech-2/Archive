@@ -269,6 +269,24 @@
     },
     {
       "type": "dictionaryTerm",
+      "term": "Furnace Array",
+      "id": "1469657186740469760",
+      "url": "https://discord.com/channels/1375556143186837695/1469657186740469760/1469657189575692492",
+      "matches": [
+        "furnace array"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Bucket",
+      "id": "1464788208796565709",
+      "url": "https://discord.com/channels/1375556143186837695/1464788208796565709/1464788210138878080",
+      "matches": [
+        "bucket"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
       "term": "Schematic",
       "id": "1454811558009110704",
       "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
