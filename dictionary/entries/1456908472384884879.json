@@ -3,12 +3,12 @@
   "terms": [
     "item entity"
   ],
-  "definition": "Item entities are items in entity form. Each item entity can have a full stack of items, up to 64 items for 64-stackables.\n\n## Item entity tick\nEvery game tick, item entities will do the following actions in order. See [`ItemEntity.tick()`](https://mcsrc.dev/#1/1.21.11_unobfuscated/net/minecraft/world/entity/item/ItemEntity#L116-187)\n1. apply water/lava/gravity momentum\n2. item glitching/block clipping (See RD002)\n3. self movement via momentum. effects from the block its on occurs here. Requires modulo 4 to start (See RD003).\n4. Item merging (See RD003).\n5. Item despawn after 5 minutes.",
+  "definition": "Item entities are items in entity form. Each item entity can have a full stack of items, up to 64 items for 64-stackables.\n\n## Item entity tick\nEvery game tick, item entities will do the following actions in order. See [`ItemEntity.tick()`](https://mcsrc.dev/1/1.21.11_unobfuscated/net/minecraft/world/entity/item/ItemEntity#L116-187)\n1. apply water/lava/gravity momentum\n2. item glitching/block clipping (See RD002)\n3. self movement via momentum. effects from the block its on occurs here. Requires modulo 4 to start (See RD003).\n4. Item merging (See RD003).\n5. Item despawn after 5 minutes.",
   "threadURL": "https://discord.com/channels/1375556143186837695/1456908472384884879",
   "statusURL": "https://discord.com/channels/1375556143186837695/1456908472384884879/1456908473844502594",
   "status": "APPROVED",
   "statusMessageID": "1456908473844502594",
-  "updatedAt": 1767424465096,
+  "updatedAt": 1771902166624,
   "references": [
     {
       "type": "dictionaryTerm",
