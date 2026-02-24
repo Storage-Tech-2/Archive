@@ -713,7 +713,7 @@
         "cart yeet"
       ],
       "summary": "A cart yeeter is a device which breaks a cart with an inventory, emptying its contents in item entity form. The cart item is also collected separately for recycling. Cart yeeting was introduced in ...",
-      "updatedAt": 1767420622747
+      "updatedAt": 1771902126388
     },
     {
       "id": "1455677927902413046",
@@ -748,7 +748,7 @@
         "item entity"
       ],
       "summary": "Item entities are items in entity form. Each item entity can have a full stack of items, up to 64 items for 64-stackables.\n\n## Item entity tick\nEvery game tick, item entities will do the following ...",
-      "updatedAt": 1767424465096
+      "updatedAt": 1771902166624
     },
     {
       "id": "1456912184172085260",
@@ -772,7 +772,7 @@
         "Hopper hashing"
       ],
       "summary": "Hopper hashing occurs when a device depends on a specific ticking order of hoppers for operation. This is a problem because hoppers are block entities, which are ticked in a location dependent but ...",
-      "updatedAt": 1767455890885
+      "updatedAt": 1771902140208
     },
     {
       "id": "1457020951001567444",
