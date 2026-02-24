@@ -55,13 +55,13 @@
       "canDownload": true,
       "width": 800,
       "height": 795,
-      "path": "images/image.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "andrews54757"
+        "username": "Unknown"
       },
       "timestamp": 1766976627000,
+      "path": "images/image.png",
       "hash": "c661fecfc7ac969e82b3aa9fde310d09d0bb060e56e023144eaa459d2427eb90"
     }
   ],
@@ -77,16 +77,15 @@
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "andrews54757"
+        "username": "Unknown"
       },
       "timestamp": 1766976627000,
-      "size": 824411,
       "hash": "095f7d94abfd1b54765fad310d8e1bfd7ec33cf770a330bb4275daa2a88f7ef3"
     }
   ],
   "records": {
     "description": "Item entities colliding inside a block will glitch out of the block. This behavior appears random but is controllable, as described by an accompanying diagram.",
-    "notes": "See [`Entity.moveTowardsClosestSpace()`](https://mcsrc.dev/#1/1.21.11_unobfuscated/net/minecraft/world/entity/Entity#L2839-2868)"
+    "notes": "See [`Entity.moveTowardsClosestSpace()`](https://mcsrc.dev/1/1.21.11_unobfuscated/net/minecraft/world/entity/Entity#L2839-2868)"
   },
   "styles": {},
   "references": [],
@@ -102,6 +101,6 @@
     "uploadMessageId": "1455030726612221973"
   },
   "archivedAt": 1766976757521,
-  "updatedAt": 1767423921395,
+  "updatedAt": 1771902267116,
   "num_comments": 0
 }

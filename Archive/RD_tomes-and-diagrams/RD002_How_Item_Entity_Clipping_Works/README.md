@@ -11,7 +11,7 @@
 
 Item entities colliding inside a block will glitch out of the block. This behavior appears random but is controllable, as described by an accompanying diagram.
 ## Notes
-See [`Entity.moveTowardsClosestSpace()`](https://mcsrc.dev/#1/1.21.11_unobfuscated/net/minecraft/world/entity/Entity#L2839-2868)
+See [`Entity.moveTowardsClosestSpace()`](https://mcsrc.dev/1/1.21.11_unobfuscated/net/minecraft/world/entity/Entity#L2839-2868)
 
 ## Acknowledgements:
 - ners: Did original code-digging research
