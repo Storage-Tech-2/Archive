@@ -113,7 +113,7 @@
         "CUD"
       ],
       "summary": "A Comparator Update Detector is based on the behavior inherent to comparators where they don't notice inventory changes when reading it through a solid block (including an inventory being moved awa...",
-      "updatedAt": 1767640382133
+      "updatedAt": 1771902059513
     },
     {
       "id": "1454753542177816576",
