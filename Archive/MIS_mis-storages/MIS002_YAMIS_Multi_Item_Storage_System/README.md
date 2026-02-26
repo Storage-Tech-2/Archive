@@ -30,5 +30,5 @@ Make sure the black rectangle at the bottom is entirely in one chunk. WDL includ
 <img src="images/uiimage.png?raw=1" height="300px">
 
 ## Resources
-- [MIS002_YAMIS_V1.01.litematic](attachments/MIS002_YAMIS_V1.01.litematic): MC 1.20.1, Size 29x21x49 blocks
-- [MIS002_YAMIS_V1.01.zip](attachments/MIS002_YAMIS_V1.01.zip): application/zip
+- [MIS002_YAMIS_V1.02.litematic](attachments/MIS002_YAMIS_V1.02.litematic): MC 1.20.1, Size 29x21x49 blocks
+- [MIS002_YAMIS_V1.02.zip](attachments/MIS002_YAMIS_V1.02.zip): MC 1.20.1

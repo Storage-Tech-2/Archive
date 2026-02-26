@@ -34,8 +34,8 @@
       "type": "discord-in-guild",
       "id": "319513337941721089",
       "username": "inspectortalon",
-      "displayName": "Inspector Talon",
-      "iconURL": "https://cdn.discordapp.com/avatars/319513337941721089/edec0da88a70e9697b6b43b4a2d740e3.webp"
+      "iconURL": "https://cdn.discordapp.com/avatars/319513337941721089/edec0da88a70e9697b6b43b4a2d740e3.webp",
+      "displayName": "Inspector Talon"
     },
     {
       "type": "discord-in-guild",
@@ -120,40 +120,58 @@
   ],
   "attachments": [
     {
-      "id": "1386458266627870853",
-      "name": "MIS002_YAMIS_V1.01.litematic",
+      "id": "1476722579204079799",
+      "name": "MIS002_YAMIS_V1.02.litematic",
       "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1386458263301918762/1386458266627870853/YAMIS_V1.01.litematic?ex=6859c761&is=685875e1&hm=e73a49ac4774cb1740f3f0f791f32774bcf52d45e79461e3b9a48d4286e87925&",
+      "url": "https://cdn.discordapp.com/attachments/1386458263301918762/1476722579204079799/YAMIS_V1.02.litematic?ex=69a22893&is=69a0d713&hm=c4ff590f28e05c4324ee8522267503d9aab7521d5489e0388ec0312f25e353f4&",
+      "timestamp": 1772148499101,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
       "description": "",
+      "size": 513724,
       "canDownload": true,
+      "hash": "eff347d1e7048d04bb26ddeb1ee4ec41edf71ed4f25995129ef652bc795f64c3",
+      "path": "attachments/MIS002_YAMIS_V1.02.litematic",
       "litematic": {
         "size": "29x21x49",
         "version": "1.20.1"
-      },
-      "source": "MessageAttachment",
-      "author": {
-        "type": "unknown",
-        "username": "Unknown"
-      },
-      "timestamp": 1750627809000,
-      "path": "attachments/MIS002_YAMIS_V1.01.litematic",
-      "hash": "17a5d96b55c3bc353d2c380a20093851a9dab5bebdc7b005f11ed8dade5a0545"
+      }
     },
     {
-      "id": "1386458266959089717",
-      "name": "MIS002_YAMIS_V1.01.zip",
+      "id": "1476722578725933209",
+      "name": "MIS002_YAMIS_V1.02.zip",
       "contentType": "application/zip",
-      "url": "https://cdn.discordapp.com/attachments/1386458263301918762/1386458266959089717/YAMIS_V1.01.zip?ex=6859c761&is=685875e1&hm=eccf08bd013589b8b15cf5f673284e0694627a613fc052fbd166c71acf406400&",
-      "description": "",
-      "canDownload": true,
-      "source": "MessageAttachment",
+      "url": "https://cdn.discordapp.com/attachments/1386458263301918762/1476722578725933209/YAMIS_V1.02.zip?ex=69a22892&is=69a0d712&hm=d7bdda8597b75060e3f4f525d536cf4e93845af88527e22d8f5adce0d3319507&",
+      "timestamp": 1772148499101,
       "author": {
-        "type": "unknown",
-        "username": "Unknown"
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
       },
-      "timestamp": 1750627809000,
-      "path": "attachments/MIS002_YAMIS_V1.01.zip",
-      "hash": "69b7968fc46e7374975f624a3df37555eba04d4a04ae13a74be6528619cdc32a"
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 17078877,
+      "canDownload": true,
+      "hash": "59917c82760ea9f406cf287e492f9b23e9e975bd4b1fd1e1271e9e595df75f2b",
+      "path": "attachments/MIS002_YAMIS_V1.02.zip",
+      "wdls": [
+        {
+          "path": "YAMIS V1.02",
+          "version": "1.20.1",
+          "levelName": "YAMIS V1.02"
+        }
+      ],
+      "wdl": {
+        "version": "1.20.1"
+      }
     }
   ],
   "records": {
@@ -233,9 +251,9 @@
       "1466456806699302923"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1466456802182037658",
-    "uploadMessageId": "1466456794531496016"
+    "uploadMessageId": "1476723217501786136"
   },
   "archivedAt": 1769700936490,
-  "updatedAt": 1769700936490,
+  "updatedAt": 1772148650220,
   "num_comments": 0
 }
