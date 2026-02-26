@@ -38,66 +38,76 @@
   ],
   "images": [
     {
-      "id": "1450293921581371555",
+      "id": "1476717678625427616",
       "name": "area_render.png",
       "contentType": "image/png",
-      "url": "https://cdn.discordapp.com/attachments/1450293920683655338/1450293921581371555/area_render.png?ex=694202f8&is=6940b178&hm=c6cdb9a4237e7f7ecf8b566af420398570ada6af38ab63fbff3798b504331a87&",
-      "description": "",
-      "canDownload": true,
-      "width": 800,
-      "height": 579,
-      "path": "images/area_render.png",
-      "source": "MessageAttachment",
+      "url": "https://cdn.discordapp.com/attachments/1450293920683655338/1476717678625427616/area_render.png?ex=69a22402&is=69a0d282&hm=c1933346c9ca7d79915a35563749a61c358db8582cd7007249d8b2f9536aecc1&",
+      "timestamp": 1772147330852,
       "author": {
-        "type": "unknown",
-        "username": "drakephose"
+        "type": "discord-in-guild",
+        "id": "183711148288245760",
+        "username": "drakephose",
+        "displayName": "DrakePHOSE",
+        "iconURL": "https://cdn.discordapp.com/avatars/183711148288245760/bfaafaea0f922180417020864ce32970.webp"
       },
-      "timestamp": 1765847415000,
-      "hash": "0fde5d86c4f8e9368efaf21b1dbc1847496142ebb89ec316757c65285aefd36f"
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 377598,
+      "canDownload": true,
+      "width": 1200,
+      "height": 869,
+      "path": "images/area_render.png",
+      "hash": "b1e7dafeaf453fd7c4664fc5f52bdac33c0398eb58f08f38cfdce4b6cb5d3d5d"
     }
   ],
   "attachments": [
     {
-      "id": "1450293922286010508",
-      "name": "PU005_Set_Based_Unloading_Array_3.1.1d_SS2i.litematic",
+      "id": "1476717678876954736",
+      "name": "PU005_Set_Based_Unloading_Array_3.1.2d_SSi.litematic",
       "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1450293920683655338/1450293922286010508/Set_Based_Unloading_Array_3.1.1d_SS2i.litematic?ex=694202f8&is=6940b178&hm=a0d242b670d2dc047b2fe8a21459b7428cb0d4a69a1d3a314a2183a5ba7cb28d&",
-      "description": "",
-      "canDownload": true,
-      "path": "attachments/PU005_Set_Based_Unloading_Array_3.1.1d_SS2i.litematic",
-      "litematic": {
-        "size": "16x19x30",
-        "version": "1.21.1"
+      "url": "https://cdn.discordapp.com/attachments/1450293920683655338/1476717678876954736/Set_Based_Unloading_Array_3.1.2d_SSi.litematic?ex=69a22402&is=69a0d282&hm=b547be206607e1d2891cae9fa249f7c86be86fbf050f93b63f66620c38ad0512&",
+      "timestamp": 1772147330852,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "183711148288245760",
+        "username": "drakephose",
+        "displayName": "DrakePHOSE",
+        "iconURL": "https://cdn.discordapp.com/avatars/183711148288245760/bfaafaea0f922180417020864ce32970.webp"
       },
       "source": "MessageAttachment",
-      "author": {
-        "type": "unknown",
-        "username": "drakephose"
-      },
-      "timestamp": 1765847415000,
-      "size": 10360,
-      "hash": "28e9e1f844ac281f5c7cb78864bab1b6e186109cd4e91f98428d560aa2fe8cc3"
+      "description": "Signal strength isolated variant",
+      "size": 10510,
+      "canDownload": true,
+      "hash": "121e276c7d0c5f9585eb787f440af46fafc2de504b85e682f97691a650f107ec",
+      "path": "attachments/PU005_Set_Based_Unloading_Array_3.1.2d_SSi.litematic",
+      "litematic": {
+        "size": "16x19x30",
+        "version": "1.17.1"
+      }
     },
     {
-      "id": "1450293922638200915",
-      "name": "PU005_Set_Based_Unloading_Array_3.1.1d_SS3.litematic",
+      "id": "1476717679149711471",
+      "name": "PU005_Set_Based_Unloading_Array_3.1.2d_SS3.litematic",
       "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1450293920683655338/1450293922638200915/Set_Based_Unloading_Array_3.1.1d_SS3.litematic?ex=694202f8&is=6940b178&hm=5e07c65b2f31fb7d6c4d260360ea085e605aee7f58e67482c38b73d8f40502e8&",
-      "description": "",
-      "canDownload": true,
-      "path": "attachments/PU005_Set_Based_Unloading_Array_3.1.1d_SS3.litematic",
-      "litematic": {
-        "size": "16x19x30",
-        "version": "1.21.1"
+      "url": "https://cdn.discordapp.com/attachments/1450293920683655338/1476717679149711471/Set_Based_Unloading_Array_3.1.2d_SS3.litematic?ex=69a22402&is=69a0d282&hm=5b70ab158713f60627336634e5e9c58f1f31feb083126959c1fbef621eb4bdb8&",
+      "timestamp": 1772147330852,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "183711148288245760",
+        "username": "drakephose",
+        "displayName": "DrakePHOSE",
+        "iconURL": "https://cdn.discordapp.com/avatars/183711148288245760/bfaafaea0f922180417020864ce32970.webp"
       },
       "source": "MessageAttachment",
-      "author": {
-        "type": "unknown",
-        "username": "drakephose"
-      },
-      "timestamp": 1765847415000,
-      "size": 10351,
-      "hash": "dc99cf12982f576d499e5dd9d480383d1d8fcb96a4ed09dfdd3b763b67da1851"
+      "description": "Signal strength 3 filters variant",
+      "size": 10492,
+      "canDownload": true,
+      "hash": "efa16a2f502afad81b7f3fda87d4e7d50d3f6d301379c98edd72753811bce78a",
+      "path": "attachments/PU005_Set_Based_Unloading_Array_3.1.2d_SS3.litematic",
+      "litematic": {
+        "size": "16x19x30",
+        "version": "1.17.1"
+      }
     }
   ],
   "records": {
@@ -263,9 +273,9 @@
       "1455359329283739831"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1450297315628941466",
-    "uploadMessageId": "1450297313502167151"
+    "uploadMessageId": "1476718897133785098"
   },
   "archivedAt": 1766904590802,
-  "updatedAt": 1769052172837,
+  "updatedAt": 1772147619470,
   "num_comments": 0
 }

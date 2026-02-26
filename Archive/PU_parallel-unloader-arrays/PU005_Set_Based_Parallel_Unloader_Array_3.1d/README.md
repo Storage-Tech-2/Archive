@@ -26,5 +26,7 @@ This machine takes any shulker boxes as an input, and unloads them, several at a
 1.17+
 
 ## Resources
-- [PU005_Set_Based_Unloading_Array_3.1.1d_SS2i.litematic](attachments/PU005_Set_Based_Unloading_Array_3.1.1d_SS2i.litematic): MC 1.21.1, Size 16x19x30 blocks
-- [PU005_Set_Based_Unloading_Array_3.1.1d_SS3.litematic](attachments/PU005_Set_Based_Unloading_Array_3.1.1d_SS3.litematic): MC 1.21.1, Size 16x19x30 blocks
+- [PU005_Set_Based_Unloading_Array_3.1.2d_SSi.litematic](attachments/PU005_Set_Based_Unloading_Array_3.1.2d_SSi.litematic): MC 1.17.1, Size 16x19x30 blocks
+  - Signal strength isolated variant
+- [PU005_Set_Based_Unloading_Array_3.1.2d_SS3.litematic](attachments/PU005_Set_Based_Unloading_Array_3.1.2d_SS3.litematic): MC 1.17.1, Size 16x19x30 blocks
+  - Signal strength 3 filters variant
