@@ -37,4 +37,4 @@ A large bulk storage designed to handle the new platform based concrete factorie
 <img src="images/area_render_1_.png?raw=1" height="300px">
 
 ## Resources
-- [FS002_Concrete_factory_576k_-_2.9.litematic](attachments/FS002_Concrete_factory_576k_-_2.9.litematic): MC 1.21.4, Size 39x55x35 blocks
+- [FS002_Concrete_factory_576k_-_2.10.litematic](attachments/FS002_Concrete_factory_576k_-_2.10.litematic): MC 1.21.4, Size 39x55x35 blocks
