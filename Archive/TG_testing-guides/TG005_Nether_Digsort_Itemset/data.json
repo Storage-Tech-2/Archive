@@ -1,0 +1,81 @@
+{
+  "id": "1467278334319788215",
+  "name": "Nether Digsort Itemset",
+  "code": "TG005",
+  "reservedCodes": [
+    "TG005"
+  ],
+  "pastPostThreadIds": [
+    "1477407828422561833"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "457520959033704450",
+      "username": "giannis__",
+      "displayName": "giannis__",
+      "iconURL": "https://cdn.discordapp.com/avatars/457520959033704450/29b37257e39f226f85fe06499d1037ce.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "457520959033704450",
+      "username": "giannis__",
+      "displayName": "giannis__",
+      "iconURL": "https://cdn.discordapp.com/avatars/457520959033704450/29b37257e39f226f85fe06499d1037ce.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465487894184722496",
+      "name": "Untested"
+    }
+  ],
+  "images": [],
+  "attachments": [
+    {
+      "id": "1467278334609199357",
+      "name": "TG005_nether_digsort.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1467278334319788215/1467278334609199357/nether_digsort.litematic?ex=697fccef&is=697e7b6f&hm=a1108ad7d35f686b7a5eb5d17b7adee09b5933b69475526e1afe658fdf6977cb&",
+      "timestamp": 1769896815615,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "457520959033704450",
+        "username": "giannis__",
+        "displayName": "giannis__",
+        "iconURL": "https://cdn.discordapp.com/avatars/457520959033704450/29b37257e39f226f85fe06499d1037ce.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "A collection of 12dc nether digged blocks",
+      "size": 17034,
+      "canDownload": true,
+      "path": "attachments/TG005_nether_digsort.litematic",
+      "litematic": {
+        "size": "16x1x2",
+        "version": "1.20.1"
+      },
+      "hash": "b64442b09495cf798313c11fc0bdf13e20acd5322bf452f1ee55421c0920c646"
+    }
+  ],
+  "records": {
+    "description": "A collection of 12 dc of nether digged blocks. also contains some shulkers full of netherrack which can be removed if you want to throw just mixed boxes",
+    "features": []
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1477407828422561833",
+    "forumId": "1388599778941861898",
+    "continuingMessageIds": [
+      "1477407834432864267"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1477407828422561833",
+    "uploadMessageId": "1477407826472206538"
+  },
+  "archivedAt": 1772311874070,
+  "updatedAt": 1772311874070,
+  "num_comments": 0
+}
