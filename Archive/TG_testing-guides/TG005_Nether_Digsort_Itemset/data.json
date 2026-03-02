@@ -32,7 +32,30 @@
       "name": "Untested"
     }
   ],
-  "images": [],
+  "images": [
+    {
+      "id": "1477858515845648465",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1467278334319788215/1477858515845648465/image.png?ex=69a64a7f&is=69a4f8ff&hm=3a66b5547564c758141eb469eb42c27fe5054833a9a6846be7298edf76fc2eb3&",
+      "timestamp": 1772419327519,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 17648,
+      "canDownload": true,
+      "width": 879,
+      "height": 242,
+      "path": "images/image.png",
+      "hash": "95ee511bfa6a688c488918ceadf33891db85225b3df84c1b86771e0f861a6384"
+    }
+  ],
   "attachments": [
     {
       "id": "1467278334609199357",
@@ -76,6 +99,6 @@
     "uploadMessageId": "1477407826472206538"
   },
   "archivedAt": 1772311874070,
-  "updatedAt": 1772311874070,
+  "updatedAt": 1772419344124,
   "num_comments": 0
 }
