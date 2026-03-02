@@ -1,4 +1,6 @@
 # Quarry Items Large Test Set
+<img alt="image.png" src="images/image.png?raw=1" height="300px">
+
 **Endorsed by:** *Andrews54757*
 
 **Tags:** *Recommended*
