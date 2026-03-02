@@ -1,0 +1,228 @@
+{
+  "id": "1477407426335473788",
+  "name": "16gt Parallelized Cart MIS Storage",
+  "code": "MIS012",
+  "reservedCodes": [
+    "MIS012"
+  ],
+  "pastPostThreadIds": [
+    "1477856882214310001"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "373459450826194944",
+      "username": "wes3582",
+      "displayName": "Wes",
+      "iconURL": "https://cdn.discordapp.com/avatars/373459450826194944/38ad65b65141a2451d0ff2f3d1fd6eea.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465491524203839539",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1477409115604254750",
+      "name": "render.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1477407426335473788/1477409115604254750/image.png?ex=69a4a7f6&is=69a35676&hm=68d299e499dc7cb9d2d5df90a32e1a4b34810162321b94106facedb4a1d11677&",
+      "timestamp": 1772312182146,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Render of the system",
+      "size": 173890,
+      "canDownload": true,
+      "width": 944,
+      "height": 662,
+      "path": "images/render.png",
+      "hash": "c97a0be0b37aef11f661a9e01411891301903e6cf91eb4bbd6857b05b2104fbd"
+    },
+    {
+      "id": "1477407430362267770",
+      "name": "hallway.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1477407426335473788/1477407430362267770/fb2026-02-28_18.20.20.png?ex=69a4a664&is=69a354e4&hm=af2045f46b1c6cdbbf4dd6dd3fc88948036435fcdbffe1c2277a7e41ac4b19db&",
+      "timestamp": 1772311779341,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Storage hallway",
+      "size": 164915,
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "path": "images/hallway.png",
+      "hash": "047c2d6271e2bcd056424e8f6c386c98b92e57b210c37a6f150b06b2d66be311"
+    },
+    {
+      "id": "1477410005987889343",
+      "name": "Slice.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1477407426335473788/1477410005987889343/image.png?ex=69a4a8ca&is=69a3574a&hm=68b82e99ea440cf96c1a20b68d168d6f16345162f129afd2fddb2e63d8709df1&",
+      "timestamp": 1772312394423,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "slice",
+      "size": 26943,
+      "canDownload": true,
+      "width": 931,
+      "height": 673,
+      "path": "images/Slice.png",
+      "hash": "461407bc474c8b77e72ba81efe8bf9e1912deb643020bddc405ed68f6e8104e7"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1477803307593367602",
+      "name": "MIS012_1.21.10_16gt_Cart_MIS_Storage_-_Test_Categories_Included.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1477407426335473788/1477803307593367602/1.21.10_16gt_Cart_MIS_Storage_-_Test_Categories_Included.litematic?ex=69a61714&is=69a4c594&hm=43a2229b94542640ce51a7479098e56ba8a78d1f3ee352a788ef24f58407358d&",
+      "timestamp": 1772406164881,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 60575,
+      "canDownload": true,
+      "hash": "c67aeb1cda7a5f99cf1343bfc70c1d8d60769bbb7a4cb3079450d1d71790b6cc",
+      "path": "attachments/MIS012_1.21.10_16gt_Cart_MIS_Storage_-_Test_Categories_Included.litematic",
+      "litematic": {
+        "size": "19x14x43",
+        "version": "1.21.10"
+      }
+    }
+  ],
+  "records": {
+    "description": "A small but powerful multi-item sorting storage system with up to 32x hopperspeed parallelization using hoppercarts.",
+    "features": [
+      "32x HS parallel (16gt/full stack)",
+      "32x HS box unloader",
+      "1 wide tileable slice",
+      "Sorts up to 50 items per slice, 32 slices on each side. (up to 3200 item types)",
+      "Filter chests accessible",
+      "Multi-item box sorting",
+      "All in one item entity input: dump entire inventory regardless of what it is (64, 16, and unstackable items, mixed boxes, bulk boxes).",
+      "Full boxes are input into slice without unloading",
+      "Full boxes with unstackable item get sorted to unstackables slice.",
+      "Overflow protection"
+    ],
+    "considerations": [
+      "Noisy",
+      "Chunkloader not included",
+      "If you put in too many regular items (not boxes) into the input they may despawn. Unlikely to occur."
+    ],
+    "notes": "Chunkloader excluded in schem but redstone connection for one included. Recommended to build it deep below storage to prevent linking troubles. Lever present to ignore box sorting capability and unload all boxes regardless of fill level. Nondirectional, nonlocational.",
+    "compatibility": "1.21.10+, broken in older 1.21 versions because of bubble column changes. Tested in 1.21.10-1.21.11",
+    "instructions": [
+      "Set up MIS filter chests below the trapdoors with the categories you want",
+      "Make sure that no rail in the back is broken by piston from setting categories",
+      "Dump items into the input (whit stained glass column)"
+    ]
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopper speed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopperspeed",
+        "HS"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Gametick",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Unloader",
+      "id": "1454754824758493380",
+      "url": "https://discord.com/channels/1375556143186837695/1454754824758493380/1454754825345433803",
+      "matches": [
+        "unloader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "item entity",
+      "id": "1456908472384884879",
+      "url": "https://discord.com/channels/1375556143186837695/1456908472384884879/1456908473844502594",
+      "matches": [
+        "item entity"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Multi Item Sorter",
+      "id": "1454753725091676293",
+      "url": "https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954",
+      "matches": [
+        "MIS"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1477856882214310001",
+    "forumId": "1375566804910604349",
+    "continuingMessageIds": [
+      "1477856894663000248",
+      "1477856895451660389"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1477856882214310001",
+    "uploadMessageId": "1477856880352301107"
+  },
+  "archivedAt": 1772418929934,
+  "updatedAt": 1772418929934,
+  "num_comments": 0
+}
