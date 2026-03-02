@@ -16,15 +16,15 @@ A small but powerful multi-item sorting storage system with up to 32x hopperspee
 - 1 wide tileable slice
 - Sorts up to 50 items per slice, 32 slices on each side. (up to 3200 item types)
 - Filter chests accessible
-- Multi-item box sorting
 - All in one item entity input: dump entire inventory regardless of what it is (64, 16, and unstackable items, mixed boxes, bulk boxes).
-- Full boxes are input into slice without unloading
+- Multi-item box sorting: Full boxes are input into slice without unloading
 - Full boxes with unstackable item get sorted to unstackables slice.
 - Overflow protection
 ## Considerations
 - Noisy
 - Chunkloader not included
 - If you put in too many regular items (not boxes) into the input they may despawn. Unlikely to occur.
+- Sometimes items will go in topmost chest in slices even when theres space below.
 ## Notes
 Chunkloader excluded in schem but redstone connection for one included. Recommended to build it deep below storage to prevent linking troubles. Lever present to ignore box sorting capability and unload all boxes regardless of fill level. Nondirectional, nonlocational.
 ## Compatibility
