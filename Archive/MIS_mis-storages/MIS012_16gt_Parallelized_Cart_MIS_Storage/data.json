@@ -103,7 +103,7 @@
   "attachments": [
     {
       "id": "1477803307593367602",
-      "name": "MIS012_1.21.10_16gt_Cart_MIS_Storage_-_Test_Categories_Included.litematic",
+      "name": "MIS012_1.21.10_16gt_Cart_MIS_Storage.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1477407426335473788/1477803307593367602/1.21.10_16gt_Cart_MIS_Storage_-_Test_Categories_Included.litematic?ex=69a61714&is=69a4c594&hm=43a2229b94542640ce51a7479098e56ba8a78d1f3ee352a788ef24f58407358d&",
       "timestamp": 1772406164881,
@@ -119,7 +119,7 @@
       "size": 60575,
       "canDownload": true,
       "hash": "c67aeb1cda7a5f99cf1343bfc70c1d8d60769bbb7a4cb3079450d1d71790b6cc",
-      "path": "attachments/MIS012_1.21.10_16gt_Cart_MIS_Storage_-_Test_Categories_Included.litematic",
+      "path": "attachments/MIS012_1.21.10_16gt_Cart_MIS_Storage.litematic",
       "litematic": {
         "size": "19x14x43",
         "version": "1.21.10"
@@ -220,9 +220,9 @@
       "1477856895451660389"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1477856882214310001",
-    "uploadMessageId": "1477856880352301107"
+    "uploadMessageId": "1478419643579502726"
   },
   "archivedAt": 1772418929934,
-  "updatedAt": 1772420788763,
+  "updatedAt": 1772553110079,
   "num_comments": 0
 }

@@ -40,4 +40,4 @@ Chunkloader excluded in schem but redstone connection for one included. Recommen
 <img src="images/Slice.png?raw=1" height="300px">
 
 ## Resources
-- [MIS012_1.21.10_16gt_Cart_MIS_Storage_-_Test_Categories_Included.litematic](attachments/MIS012_1.21.10_16gt_Cart_MIS_Storage_-_Test_Categories_Included.litematic): MC 1.21.10, Size 19x14x43 blocks
+- [MIS012_1.21.10_16gt_Cart_MIS_Storage.litematic](attachments/MIS012_1.21.10_16gt_Cart_MIS_Storage.litematic): MC 1.21.10, Size 19x14x43 blocks
