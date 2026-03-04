@@ -142,10 +142,9 @@
     "considerations": [
       "Noisy",
       "Chunkloader not included",
-      "If you put in too many regular items (not boxes) into the input they may despawn. Unlikely to occur.",
       "Sometimes items will go in topmost chest in slices even when theres space below."
     ],
-    "notes": "Chunkloader excluded in schem but redstone connection for one included. Recommended to build it deep below storage to prevent linking troubles. Lever present to ignore box sorting capability and unload all boxes regardless of fill level. Nondirectional, nonlocational.",
+    "notes": "Chunkloader excluded in schem but redstone connection for one included. Recommended to build it deep below storage to prevent linking troubles. Lever present to ignore box sorting capability and unload all boxes regardless of fill level. Note that you can use any set of unique items for the in-slice code items. Nondirectional, nonlocational.",
     "compatibility": "1.21.10+, broken in older 1.21 versions because of bubble column changes. Tested in 1.21.10-1.21.11",
     "instructions": [
       "Set up MIS filter chests below the trapdoors with the categories you want",
@@ -223,6 +222,6 @@
     "uploadMessageId": "1478419643579502726"
   },
   "archivedAt": 1772418929934,
-  "updatedAt": 1772553110079,
+  "updatedAt": 1772636222691,
   "num_comments": 0
 }
