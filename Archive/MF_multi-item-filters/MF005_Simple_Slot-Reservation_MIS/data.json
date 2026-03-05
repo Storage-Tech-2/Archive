@@ -1,0 +1,213 @@
+{
+  "id": "1478943971282780273",
+  "name": "Simple Slot-Reservation MIS",
+  "code": "MF005",
+  "reservedCodes": [
+    "MF005"
+  ],
+  "pastPostThreadIds": [
+    "1478946697601355950"
+  ],
+  "authors": [
+    {
+      "type": "unknown",
+      "username": "OmLedu",
+      "reason": "Original design",
+      "url": "https://www.youtube.com/watch?v=una6IdxBHB4"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "688456529338433611",
+      "username": "glidingmonkey",
+      "displayName": "Christone",
+      "iconURL": "https://cdn.discordapp.com/avatars/688456529338433611/348a34add443a5a71237111010e484b1.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465491638733246555",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1478943972029235291",
+      "name": "area_render_8_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1478943971282780273/1478943972029235291/area_render_8_.png?ex=69aa3d68&is=69a8ebe8&hm=72123fb0621a9f6f22fac781a15dd73ecb54bd7293a89d72fd3e75472525c0e0&",
+      "timestamp": 1772678120204,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 313039,
+      "canDownload": true,
+      "width": 1200,
+      "height": 1115,
+      "path": "images/area_render_8_.png",
+      "hash": "f724fafc042cd637b53af4ac85ec96d0b1fbf7bcc3cecb16c6703dbcb55bb20f"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1478943972284960862",
+      "name": "MF005_Tiny_SlotRes_MIS_Wall.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1478943971282780273/1478943972284960862/Tiny_SlotRes_MIS_Wall.litematic?ex=69aa3d68&is=69a8ebe8&hm=79b5534db9742ccac13924abac64dd872e9a73b0251cc1a49f259f2ba1f78858&",
+      "timestamp": 1772678120204,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 6592,
+      "canDownload": true,
+      "hash": "910d42a72af3f539e9abdfbc6bdf718a116c6c821cdfdec2875411669f27420f",
+      "path": "attachments/MF005_Tiny_SlotRes_MIS_Wall.litematic",
+      "litematic": {
+        "size": "11x8x8",
+        "version": "1.20.1"
+      }
+    },
+    {
+      "id": "una6IdxBHB4",
+      "name": "MF005_YouTube_Video_una6IdxBHB4.url",
+      "contentType": "youtube",
+      "url": "https://www.youtube.com/watch?v=una6IdxBHB4",
+      "timestamp": 1772678120204,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "URLInMessage",
+      "description": "",
+      "canDownload": false,
+      "youtube": {
+        "title": "Multi-Item Slot Sorter Java & Bedrock | Minecraft Redstone Tutorial | JAVA BEDROCK MCPE XBOX PS",
+        "author_name": "OmLedu",
+        "author_url": "https://www.youtube.com/@OmLedu",
+        "thumbnail_url": "https://i.ytimg.com/vi/una6IdxBHB4/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      }
+    },
+    {
+      "id": "EXwj8hqgcg0",
+      "name": "MF005_YouTube_Video_EXwj8hqgcg0.url",
+      "contentType": "youtube",
+      "url": "https://www.youtube.com/watch?v=EXwj8hqgcg0",
+      "timestamp": 1772678120204,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "URLInMessage",
+      "description": "",
+      "canDownload": false,
+      "youtube": {
+        "title": "Early-Game Expandable MIS Using Slot-Reservation (MC Java)",
+        "author_name": "Gliding Monkey",
+        "author_url": "https://www.youtube.com/@GlidingMonkeyMC",
+        "thumbnail_url": "https://i.ytimg.com/vi/EXwj8hqgcg0/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 150
+      }
+    }
+  ],
+  "records": {
+    "description": "Multi-Item Sorter using slot reservation method. The storage chests themselves are the filters. The device itself is very simple: it tries pushing items you input into a storage chest. If it doesn't fit, it tries the next.",
+    "features": [
+      "Slot Reservation",
+      "2wt horizontally",
+      "1wABt vertically",
+      "10gt global clock cycle (per item)"
+    ],
+    "considerations": [
+      "Need to adjust timer in global clock if modifying size",
+      "Must leave one item in the slot (don't take out full stack) or that slot will fill up with the whatever item that comes."
+    ],
+    "compatibility": "1.5+"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "n-Wide tileable",
+      "id": "1454753738425368687",
+      "url": "https://discord.com/channels/1375556143186837695/1454753738425368687/1454753741785010208",
+      "matches": [
+        "2wt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "A/B Tiling",
+      "id": "1454753732293033984",
+      "url": "https://discord.com/channels/1375556143186837695/1454753732293033984/1454753733035687988",
+      "matches": [
+        "1wABt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Gametick",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Global",
+      "id": "1454753648574992557",
+      "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
+      "matches": [
+        "global"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1478946697601355950",
+    "forumId": "1375567732866551918",
+    "continuingMessageIds": [
+      "1478946705109028954",
+      "1478946705679585362",
+      "1478946706463789167"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1478946697601355950",
+    "uploadMessageId": "1478946695319654604"
+  },
+  "archivedAt": 1772678763602,
+  "updatedAt": 1772678763602,
+  "num_comments": 0
+}

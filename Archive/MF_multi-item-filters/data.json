@@ -4,7 +4,7 @@
   "code": "MF",
   "category": "Item Processing",
   "description": "Multi item filters check if an item is part of a set of items in the same slice/device",
-  "currentCodeId": 4,
+  "currentCodeId": 5,
   "entries": [
     {
       "id": "1459226891973165106",
@@ -15,6 +15,11 @@
       "id": "1461791673670566072",
       "code": "MF004",
       "path": "MF004_MIS_V5.1"
+    },
+    {
+      "id": "1478943971282780273",
+      "code": "MF005",
+      "path": "MF005_Simple_Slot-Reservation_MIS"
     }
   ]
 }
