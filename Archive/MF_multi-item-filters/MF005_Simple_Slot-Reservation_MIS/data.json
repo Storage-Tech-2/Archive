@@ -34,8 +34,8 @@
   ],
   "tags": [
     {
-      "id": "1465487654979113255",
-      "name": "Broken"
+      "id": "1465491638733246555",
+      "name": "Functional"
     }
   ],
   "images": [
@@ -63,30 +63,6 @@
     }
   ],
   "attachments": [
-    {
-      "id": "1478943972284960862",
-      "name": "MF005_Tiny_SlotRes_MIS_Wall.litematic",
-      "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1478943971282780273/1478943972284960862/Tiny_SlotRes_MIS_Wall.litematic?ex=69aa3d68&is=69a8ebe8&hm=79b5534db9742ccac13924abac64dd872e9a73b0251cc1a49f259f2ba1f78858&",
-      "timestamp": 1772678120204,
-      "author": {
-        "type": "discord-in-guild",
-        "id": "239078039831445504",
-        "username": "andrews54757",
-        "displayName": "Andrews54757",
-        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
-      },
-      "source": "MessageAttachment",
-      "description": "",
-      "size": 6592,
-      "canDownload": true,
-      "hash": "910d42a72af3f539e9abdfbc6bdf718a116c6c821cdfdec2875411669f27420f",
-      "path": "attachments/MF005_Tiny_SlotRes_MIS_Wall.litematic",
-      "litematic": {
-        "size": "11x8x8",
-        "version": "1.20.1"
-      }
-    },
     {
       "id": "una6IdxBHB4",
       "name": "MF005_YouTube_Video_una6IdxBHB4.url",
@@ -139,6 +115,30 @@
         "thumbnail_height": 360,
         "width": 200,
         "height": 150
+      }
+    },
+    {
+      "id": "1478973915433795686",
+      "name": "MF005_Tiny_SlotRes_MIS_Wall_Fixed.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1478943971282780273/1478973915433795686/Tiny_SlotRes_MIS_Wall_Fixed.litematic?ex=69aa594b&is=69a907cb&hm=b8f3a577cfdc039a2169495d1f9f3edd57f467afa04288c77ca613ea0ac8329b&",
+      "timestamp": 1772685259503,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 6713,
+      "canDownload": true,
+      "hash": "4138fc9cfd1f7402b998df0c2e9043efce3a6aab99ba16f0d79871869ec8ef9b",
+      "path": "attachments/MF005_Tiny_SlotRes_MIS_Wall_Fixed.litematic",
+      "litematic": {
+        "size": "11x8x8",
+        "version": "1.20.1"
       }
     }
   ],
@@ -205,9 +205,9 @@
       "1478946706463789167"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1478946697601355950",
-    "uploadMessageId": "1478946695319654604"
+    "uploadMessageId": "1478974248000159866"
   },
   "archivedAt": 1772678763602,
-  "updatedAt": 1772678763602,
+  "updatedAt": 1772685337900,
   "num_comments": 0
 }
