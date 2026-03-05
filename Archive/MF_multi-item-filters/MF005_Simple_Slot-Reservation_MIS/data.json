@@ -32,7 +32,12 @@
       "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "1465487654979113255",
+      "name": "Broken"
+    }
+  ],
   "images": [
     {
       "id": "1478943972029235291",
