@@ -120,30 +120,6 @@
   ],
   "attachments": [
     {
-      "id": "1476722579204079799",
-      "name": "MIS002_YAMIS_V1.02.litematic",
-      "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1386458263301918762/1476722579204079799/YAMIS_V1.02.litematic?ex=69a22893&is=69a0d713&hm=c4ff590f28e05c4324ee8522267503d9aab7521d5489e0388ec0312f25e353f4&",
-      "timestamp": 1772148499101,
-      "author": {
-        "type": "discord-in-guild",
-        "id": "239078039831445504",
-        "username": "andrews54757",
-        "displayName": "Andrews54757",
-        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
-      },
-      "source": "MessageAttachment",
-      "description": "",
-      "size": 513724,
-      "canDownload": true,
-      "hash": "eff347d1e7048d04bb26ddeb1ee4ec41edf71ed4f25995129ef652bc795f64c3",
-      "path": "attachments/MIS002_YAMIS_V1.02.litematic",
-      "litematic": {
-        "size": "29x21x49",
-        "version": "1.20.1"
-      }
-    },
-    {
       "id": "1476722578725933209",
       "name": "MIS002_YAMIS_V1.02.zip",
       "contentType": "application/zip",
@@ -170,6 +146,30 @@
         }
       ],
       "wdl": {
+        "version": "1.20.1"
+      }
+    },
+    {
+      "id": "1479505539288531107",
+      "name": "MIS002_YAMIS_V1.02.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386458263301918762/1479505539288531107/YAMIS_V1.02.litematic?ex=69ac4868&is=69aaf6e8&hm=63fab50e5815dfe54265bfb93279fa767af3f59ec19d199baf5e02270a426cc4&",
+      "timestamp": 1772812008535,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 48695,
+      "canDownload": true,
+      "hash": "928822fdabb1d313ebd559bfb94d1d67ac9d8d08ae3dc11ae22e6ba57bb3c67e",
+      "path": "attachments/MIS002_YAMIS_V1.02.litematic",
+      "litematic": {
+        "size": "29x21x49",
         "version": "1.20.1"
       }
     }
@@ -251,9 +251,9 @@
       "1466456806699302923"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1466456802182037658",
-    "uploadMessageId": "1476723217501786136"
+    "uploadMessageId": "1479505662672113725"
   },
   "archivedAt": 1769700936490,
-  "updatedAt": 1772148650220,
+  "updatedAt": 1772812036662,
   "num_comments": 0
 }
