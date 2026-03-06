@@ -125,108 +125,6 @@
         "width": 4115,
         "height": 3720
       }
-    },
-    {
-      "id": "1479316180979290304",
-      "name": "VIP003_Ideal_Splitter_V3-r13.zip",
-      "contentType": "application/zip",
-      "url": "https://cdn.discordapp.com/attachments/1387083566676181035/1479316180979290304/Ideal_Splitter_V3-r13.zip?ex=69ab980d&is=69aa468d&hm=e751ca13922fe463e2df430d1398532cfe5413afc11b07b569925d26985683bb&",
-      "timestamp": 1772766862183,
-      "author": {
-        "type": "discord-in-guild",
-        "id": "239078039831445504",
-        "username": "andrews54757",
-        "displayName": "Andrews54757",
-        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
-      },
-      "source": "MessageAttachment",
-      "description": "World download contains all variants",
-      "size": 2451151,
-      "canDownload": true,
-      "hash": "89ebc2afcf312523065be3e76fddda15da45052f2639860d7b23824b26523bb3",
-      "path": "attachments/VIP003_Ideal_Splitter_V3-r13.zip",
-      "wdls": [
-        {
-          "path": "Ideal_Splitter_V3",
-          "version": "1.21.4",
-          "levelName": "Ideal Splitter V3"
-        }
-      ],
-      "wdl": {
-        "version": "1.21.4"
-      }
-    },
-    {
-      "id": "1479316181583400990",
-      "name": "VIP003_ideal_v3_64x.litematic",
-      "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1387083566676181035/1479316181583400990/ideal_v3_64x.litematic?ex=69ab980e&is=69aa468e&hm=e72f252943a70f9d10a0da4520f3aadd10fc48640e80542818918ac8cc3fe7fa&",
-      "timestamp": 1772766862183,
-      "author": {
-        "type": "discord-in-guild",
-        "id": "239078039831445504",
-        "username": "andrews54757",
-        "displayName": "Andrews54757",
-        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
-      },
-      "source": "MessageAttachment",
-      "description": "64x hopperspeed variant",
-      "size": 13856,
-      "canDownload": true,
-      "hash": "5afb018cafd88268cf2c81fe9efd2ea3d6f8615791029bb2e5e7018d6ca0155d",
-      "path": "attachments/VIP003_ideal_v3_64x.litematic",
-      "litematic": {
-        "size": "43x16x14",
-        "version": "1.21.4"
-      }
-    },
-    {
-      "id": "1479316181855899678",
-      "name": "VIP003_ideal_v3_32x.litematic",
-      "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1387083566676181035/1479316181855899678/ideal_v3_32x.litematic?ex=69ab980e&is=69aa468e&hm=1654048fafd590e7d7334a43ee090d6f9a1eab1bbffd4b5fd28f594f0119492b&",
-      "timestamp": 1772766862183,
-      "author": {
-        "type": "discord-in-guild",
-        "id": "239078039831445504",
-        "username": "andrews54757",
-        "displayName": "Andrews54757",
-        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
-      },
-      "source": "MessageAttachment",
-      "description": "32x hopperspeed variant",
-      "size": 11505,
-      "canDownload": true,
-      "hash": "08e6efc2c620fdbc296c71dedb4dcab8250a9190d5f626b0c49e7492a5da52c9",
-      "path": "attachments/VIP003_ideal_v3_32x.litematic",
-      "litematic": {
-        "size": "27x16x14",
-        "version": "1.21.4"
-      }
-    },
-    {
-      "id": "1479316181310636032",
-      "name": "VIP003_ideal_v3_32x_stripped.litematic",
-      "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1387083566676181035/1479316181310636032/ideal_v3_32x_stripped.litematic?ex=69ab980d&is=69aa468d&hm=a414d197772d9a6e38868c5b651a9376a3c84175a89aff79e63227de88d9a021&",
-      "timestamp": 1772766862183,
-      "author": {
-        "type": "discord-in-guild",
-        "id": "239078039831445504",
-        "username": "andrews54757",
-        "displayName": "Andrews54757",
-        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
-      },
-      "source": "MessageAttachment",
-      "description": "32x variant which contains just the core logic. Use this if you want to wire the control logic yourself, or want to understand how it works.",
-      "size": 8314,
-      "canDownload": true,
-      "hash": "e385c260894cc85c5a1c052b7dfb86742439c72e29b66ad3b299ee511c0d325b",
-      "path": "attachments/VIP003_ideal_v3_32x_stripped.litematic",
-      "litematic": {
-        "size": "27x14x14",
-        "version": "1.21.4"
-      }
     }
   ],
   "records": {
@@ -295,14 +193,13 @@
     "continuingMessageIds": [
       "1388318362232160369",
       "1406747511678570607",
-      "1452160384755826690",
-      "1469149658659164160"
+      "1452160384755826690"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1388318356377043076",
     "attachmentMessageId": "1388179342869401601",
-    "uploadMessageId": "1479316589349437621"
+    "uploadMessageId": "1479317877038387300"
   },
   "archivedAt": 1766292406993,
-  "updatedAt": 1772766956762,
+  "updatedAt": 1772767264452,
   "num_comments": 0
 }
