@@ -1,0 +1,194 @@
+{
+  "id": "1480307278585270385",
+  "name": "400 Item Matrix Temp Storage",
+  "code": "VBS006",
+  "reservedCodes": [
+    "VBS006"
+  ],
+  "pastPostThreadIds": [
+    "1480308116716257483"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "384084307712409600",
+      "username": "tisunfortunate",
+      "displayName": "TisUnfortunate",
+      "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/0de5630a1bd3ad4fb3e24f5ba40958e1.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "460316892976906261",
+      "username": "ragdollwilly",
+      "displayName": "Ragdoll Willy",
+      "iconURL": "https://cdn.discordapp.com/avatars/460316892976906261/a0332117bf4e609a1ead4417ae4357b4.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "144825283357310976",
+      "username": "xp_bot",
+      "displayName": "XP_Bot",
+      "iconURL": "https://cdn.discordapp.com/avatars/144825283357310976/94cfa8a6c7a3baf502dea5b9cb4edf05.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "457520959033704450",
+      "username": "giannis__",
+      "displayName": "giannis__",
+      "iconURL": "https://cdn.discordapp.com/avatars/457520959033704450/29b37257e39f226f85fe06499d1037ce.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "999238176029806652",
+      "username": "dnator1195",
+      "displayName": "DNator",
+      "iconURL": "https://cdn.discordapp.com/embed/avatars/3.png"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465491795369525312",
+      "name": "Functional"
+    },
+    {
+      "id": "1465487757122998410",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1480307279709470862",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1480307278585270385/1480307279709470862/image.png?ex=69af3316&is=69ade196&hm=4ce6e9fc43ca128113f93c226cc186c4e40935aca2690b68a7ca40dd625cf9f7&",
+      "timestamp": 1773003157994,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 168149,
+      "canDownload": true,
+      "width": 892,
+      "height": 683,
+      "path": "images/image.png",
+      "hash": "81f0364db60e0342cfdcb70c71b5c0bb177479705f28af62e12f48080e82f9e0"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1480307280233627818",
+      "name": "VBS006_matrix_temp_storage-r1.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1480307278585270385/1480307280233627818/matrix_temp_storage-r1.litematic?ex=69af3316&is=69ade196&hm=de57e946195176bf9600fb7d70582a40d49149f2de88b40cb6ad582b3349da6b&",
+      "timestamp": 1773003157994,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 8418,
+      "canDownload": true,
+      "hash": "6a96c331724ea71814a0384632c2f1f118be4885d4ff0bdf27812d5be64cd7ce",
+      "path": "attachments/VBS006_matrix_temp_storage-r1.litematic",
+      "litematic": {
+        "size": "19x15x15",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Uses two whitelisters in a grid layout to store up to 400 partial boxes in 40 individually addressable droppers. Only 10 partials are stored in each dropper+hopper, making retrieval very fast (170gt) compared to disk drive temps. When you put in a box it will empty entire dropper with item, and put the boxes through a grouper. If there is matching box, both are output as pair, otherwise it stores the box in the dropper for later matching.",
+    "features": [
+      "Up to 400 item types",
+      "170gt fixed throughput for whitelisted input.",
+      "60gt fixed throughput for unwhitelisted input.",
+      "Outputs unwhitelisted boxes separately.",
+      "Fits in one chunk: 16x11x15"
+    ],
+    "notes": "Because of how fast the unwhitelisted input throughput is (60gt), this device can be used as your main whitelister for bulk/chest hall, provided that you are okay with full boxes being in the temp. This is very rare anyways, so it may be an acceptable compromise.\n\nDesigned on [Soontech CMP](https://soontech.org)",
+    "compatibility": "1.21+",
+    "instructions": [
+      "Set up whitelister chests with the item types you want to have in the temp",
+      "Put in partial boxes (each with a single type) into the input (barrel)",
+      "If unwhitelisted box, then it will be output out on one side. If whitelisted, it will output pairs on the other side."
+    ]
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Whitelister",
+      "id": "1473812335243165757",
+      "url": "https://discord.com/channels/1375556143186837695/1473812335243165757/1473812336434479176",
+      "matches": [
+        "whitelister"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Gametick",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Grouper",
+      "id": "1473805823884005457",
+      "url": "https://discord.com/channels/1375556143186837695/1473805823884005457/1473805824701763748",
+      "matches": [
+        "grouper"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Chest Hall",
+      "id": "1454753529700024331",
+      "url": "https://discord.com/channels/1375556143186837695/1454753529700024331/1454753530488426527",
+      "matches": [
+        "chest hall"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1480308116716257483",
+    "forumId": "1375570066451599401",
+    "continuingMessageIds": [
+      "1480308128510902473",
+      "1480308129299300424"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1480308116716257483",
+    "uploadMessageId": "1480308112681603352"
+  },
+  "archivedAt": 1773003351086,
+  "updatedAt": 1773003351086,
+  "num_comments": 0
+}

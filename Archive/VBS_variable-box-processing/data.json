@@ -4,7 +4,7 @@
   "code": "VBS",
   "category": "Advanced Tech",
   "description": "Variable box sorting",
-  "currentCodeId": 5,
+  "currentCodeId": 6,
   "entries": [
     {
       "id": "1386933382579093594",
@@ -30,6 +30,11 @@
       "id": "1472327088399716524",
       "code": "VBS005",
       "path": "VBS005_3wt_Grouper"
+    },
+    {
+      "id": "1480307278585270385",
+      "code": "VBS006",
+      "path": "VBS006_400_Item_Matrix_Temp_Storage"
     }
   ]
 }
