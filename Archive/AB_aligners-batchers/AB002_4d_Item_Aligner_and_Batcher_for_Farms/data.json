@@ -29,8 +29,12 @@
   ],
   "tags": [
     {
-      "name": "Functional",
-      "id": "1480639224830099565"
+      "id": "1480639661683642370",
+      "name": "Nether compatible"
+    },
+    {
+      "id": "1480639224830099565",
+      "name": "Functional"
     }
   ],
   "images": [
