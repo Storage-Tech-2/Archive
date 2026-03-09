@@ -5,9 +5,9 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Functional, Item Aligners*
+**Tags:** *Functional*
 
-**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317562709741699)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1480640709701664913)
 
 Aligns items along all axis and time for items in a stream. Useful for farm storages.
 ## Features
@@ -19,5 +19,5 @@ To use: put items on gold block (preferrably towards the carpet) and flick the l
 <img src="images/area_render_18_.png?raw=1" height="300px">
 
 ## Resources
-- [WT002_4d_farm_batcher_-_Overworld_End.litematic](attachments/WT002_4d_farm_batcher_-_Overworld_End.litematic): MC 1.20.1, Size 6x4x6 blocks
-- [WT002_4d_farm_batcher_-_Nether_All_Dimensions.litematic](attachments/WT002_4d_farm_batcher_-_Nether_All_Dimensions.litematic): MC 1.20.1, Size 6x4x6 blocks
+- [AB002_4d_farm_batcher_-_Overworld_End.litematic](): MC 1.20.1, Size 6x4x6 blocks
+- [AB002_4d_farm_batcher_-_Nether_All_Dimensions.litematic](): MC 1.20.1, Size 6x4x6 blocks
