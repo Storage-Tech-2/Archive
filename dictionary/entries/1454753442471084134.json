@@ -22,6 +22,7 @@
   ],
   "referencedBy": [
     "VBS002",
-    "TT001"
+    "TT001",
+    "WT006"
   ]
 }

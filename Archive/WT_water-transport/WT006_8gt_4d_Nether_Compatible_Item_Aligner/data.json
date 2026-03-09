@@ -1,0 +1,140 @@
+{
+  "id": "1480637358255636622",
+  "name": "8gt 4d Nether Compatible Item Aligner",
+  "code": "WT006",
+  "reservedCodes": [
+    "WT006"
+  ],
+  "pastPostThreadIds": [
+    "1480638043215106079"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "551464150925180928",
+      "username": "_javierrubik33",
+      "displayName": "javierrubik33",
+      "iconURL": "https://cdn.discordapp.com/avatars/551464150925180928/6348ffe8aa6bb90856447c503288827b.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "921904275418927214",
+      "username": "ners__",
+      "displayName": "ners",
+      "iconURL": "https://cdn.discordapp.com/avatars/921904275418927214/c8f1ab847f47b25e0dcfc72ab8d8d5c1.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465491262806167634",
+      "name": "Functional"
+    },
+    {
+      "id": "1386453141012090971",
+      "name": "Item Aligners"
+    }
+  ],
+  "images": [
+    {
+      "id": "1480637359673573541",
+      "name": "area_render_429_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1480637358255636622/1480637359673573541/area_render_429_.png?ex=69b0667f&is=69af14ff&hm=85c7c0e69b5d8a84b11a5c500d7367b43fd51c5cf704b5357893bb0c38568b3d&",
+      "timestamp": 1773081855120,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 185031,
+      "canDownload": true,
+      "width": 1200,
+      "height": 1124,
+      "path": "images/area_render_429_.png",
+      "hash": "5a38269d6b9ceb431c6d8785a56b0a5790518208a7c6ca6da3021b13d1486c26"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1480637360038220038",
+      "name": "WT006_8gt_4d_Item_Aligner.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1480637358255636622/1480637360038220038/8gt_4d_Item_Alligner.litematic?ex=69b0667f&is=69af14ff&hm=b45775071061b95b938f3d386add99181380b8d5e6013dd14c65588dc4987b2f&",
+      "timestamp": 1773081855120,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 802,
+      "canDownload": true,
+      "hash": "ecbace580fc5eed2bc3111040424b3d370830aa99cb7cbe22aa33e572bb655cb",
+      "path": "attachments/WT006_8gt_4d_Item_Aligner.litematic",
+      "litematic": {
+        "size": "3x3x4",
+        "version": "Unknown"
+      }
+    }
+  ],
+  "records": {
+    "description": "Nether compatible item aligner which aligns items in all 3 dimensions and time at hopper speed.",
+    "features": [
+      "Aligns items in all 3 dimensions and time at hopper speed",
+      "Random input proof",
+      "3x3x4 in size"
+    ],
+    "notes": "Items fall next to the wall, simply collect them from under it",
+    "compatibility": "Does not work in versions 1.18 or older (1.19+)"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Aligner",
+      "id": "1454753442471084134",
+      "url": "https://discord.com/channels/1375556143186837695/1454753442471084134/1454753443678916638",
+      "matches": [
+        "aligner"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopper speed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopper speed"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1480638043215106079",
+    "forumId": "1375563169904459846",
+    "continuingMessageIds": [
+      "1480638051838460014"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1480638043215106079",
+    "uploadMessageId": "1480638040081694821"
+  },
+  "archivedAt": 1773082014039,
+  "updatedAt": 1773082014039,
+  "num_comments": 0
+}
