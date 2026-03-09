@@ -1,0 +1,9 @@
+{
+  "id": "1480638590756065351",
+  "name": "aligners-batchers",
+  "code": "AB",
+  "category": "Transport",
+  "description": "Devices which normalizes item position and/or time, or batches them from random output.",
+  "currentCodeId": 0,
+  "entries": []
+}
