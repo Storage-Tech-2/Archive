@@ -4,6 +4,12 @@
   "code": "AB",
   "category": "Transport",
   "description": "Devices which normalizes item position and/or time, or batches them from random output.",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1386450584235671562",
+      "code": "AB001",
+      "path": "AB001_1.19_4D_Item_Aligner"
+    }
+  ]
 }
