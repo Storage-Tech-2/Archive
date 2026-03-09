@@ -5,9 +5,9 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Functional, Item Aligners*
+**Tags:** *Functional*
 
-**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1480638043215106079)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1480640943337242819)
 
 Nether compatible item aligner which aligns items in all 3 dimensions and time at hopper speed.
 ## Features
@@ -20,4 +20,4 @@ Items fall next to the wall, simply collect them from under it
 Does not work in versions 1.18 or older (1.19+)
 
 ## Resources
-- [WT006_8gt_4d_Item_Aligner.litematic](attachments/WT006_8gt_4d_Item_Aligner.litematic): MC Unknown, Size 3x3x4 blocks
+- [AB003_8gt_4d_Item_Aligner.litematic](attachments/AB003_8gt_4d_Item_Aligner.litematic): MC Unknown, Size 3x3x4 blocks
