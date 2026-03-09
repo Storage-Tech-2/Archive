@@ -549,8 +549,8 @@
         "Tile Tick Priority",
         "ttp"
       ],
-      "summary": "Refers to the phenomenon where short pulsing a comparator for 2gt only causes it to activate if it is pointing into another comparator or repeater block.\n\n## Details\nThe block ticking list is a pri...",
-      "updatedAt": 1773034545928
+      "summary": "Refers to the phenomenon where short pulsing a comparator for 2gt only causes it to activate if it is pointing into another comparator or repeater block.\n\n## Details\nThe scheduled block tick list i...",
+      "updatedAt": 1773034603499
     },
     {
       "id": "1454754804252282910",
