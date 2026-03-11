@@ -1,0 +1,148 @@
+{
+  "id": "1481333845151191102",
+  "name": "Simple multi-item sorter",
+  "code": "MIS013",
+  "reservedCodes": [
+    "MIS013"
+  ],
+  "pastPostThreadIds": [
+    "1481334158079819878"
+  ],
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "218613128890548224",
+      "username": "unnervings",
+      "iconURL": "https://cdn.discordapp.com/avatars/218613128890548224/2a576e78b6a9fabd3478237928f885b4.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465491524203839539",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1481333846308945940",
+      "name": "area_render_43.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1481333845151191102/1481333846308945940/area_render_43.png?ex=69b2ef26&is=69b19da6&hm=a21bc9ce435ef4b1c1abfd420b53909438ae300594912864d89e645400f41230&",
+      "timestamp": 1773247910536,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 311639,
+      "canDownload": true,
+      "width": 1200,
+      "height": 747,
+      "path": "images/area_render_43.png",
+      "hash": "c57a26c43698e0153570ab7790c757b383b3fa0f498b196288d7a939437cb80a"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1481333846799683635",
+      "name": "MIS013_standard_mis4.2_storage_v0.6.3_hopperlocked.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1481333845151191102/1481333846799683635/standard_mis4.2_storage_v0.6.3_hopperlocked.litematic?ex=69b2ef26&is=69b19da6&hm=f800aaf4ba556d2093351ecee18cd09debd4dd196a92a58342fa5c8d430451c3&",
+      "timestamp": 1773247910536,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 21471,
+      "canDownload": true,
+      "hash": "7d6b4f0c09e750f26ce43c35527b335b4f2f0ce1fd5914a8d8a914c71a123ecc",
+      "path": "attachments/MIS013_standard_mis4.2_storage_v0.6.3_hopperlocked.litematic",
+      "litematic": {
+        "size": "34x32x31",
+        "version": "1.18.2"
+      }
+    }
+  ],
+  "records": {
+    "description": "A basic multi-item-sorting (MIS) based storage system. An older design that is still useful as a starter storage.",
+    "features": [
+      "Hopperspeed sorting",
+      "Sorts stackable items and unloads the contents of shulker boxes; each column or category (2-wide) can sort up to 54 item types.",
+      "Chunk loader included",
+      "100% Hopperlocked apart from chunk loaders"
+    ],
+    "notes": "MIS by Datnerd et al., Chunk loader by Kahyxen"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Multi Item Sorter",
+      "id": "1454753725091676293",
+      "url": "https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954",
+      "matches": [
+        "MIS"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopper speed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "Hopperspeed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Chunk loader",
+      "id": "1457055322647695542",
+      "url": "https://discord.com/channels/1375556143186837695/1457055322647695542/1457055324426080287",
+      "matches": [
+        "Chunk loader",
+        "chunk loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopperlocking",
+      "id": "1454753660625227895",
+      "url": "https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422",
+      "matches": [
+        "Hopperlocked"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1481334158079819878",
+    "forumId": "1375566804910604349",
+    "continuingMessageIds": [
+      "1481334167084990717"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1481334158079819878",
+    "uploadMessageId": "1481334155777282138",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1481334158079819878/1481334161984983161/area_render_43.png?ex=69b2ef72&is=69b19df2&hm=55ce3175f73a2d6508cb0a6806e5c5f28b0926767b9a0da472ac0dc0924485dd&"
+  },
+  "archivedAt": 1773247979188,
+  "updatedAt": 1773247979188,
+  "num_comments": 0
+}

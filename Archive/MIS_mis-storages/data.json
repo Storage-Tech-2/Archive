@@ -4,7 +4,7 @@
   "code": "MIS",
   "category": "Full Systems",
   "description": "Multi item storages which use multi item sorting technology to store multiple item types in each chest",
-  "currentCodeId": 12,
+  "currentCodeId": 13,
   "entries": [
     {
       "id": "1386227823450132604",
@@ -65,6 +65,11 @@
       "id": "1477407426335473788",
       "code": "MIS012",
       "path": "MIS012_16gt_Parallelized_Cart_MIS_Storage"
+    },
+    {
+      "id": "1481333845151191102",
+      "code": "MIS013",
+      "path": "MIS013_Simple_multi-item_sorter"
     }
   ]
 }
