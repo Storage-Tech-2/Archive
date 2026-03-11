@@ -1,4 +1,4 @@
-# Simple multi-item sorter
+# Simple multi-item storage system
 <img alt="area_render_43.png" src="images/area_render_43.png?raw=1" height="300px">
 
 **Authors:** *unnervings*
