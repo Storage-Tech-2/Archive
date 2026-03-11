@@ -1,7 +1,7 @@
 # MIS V5.1
 <img alt="image.png" src="images/image.png?raw=1" height="300px">
 
-**Authors:** *RaPsCaLLioN1138, Moonyinspired, sergyd*
+**Authors:** *RaPsCaLLioN1138, Moonyinspired 🇧🇷, sergyd*
 
 **Endorsed by:** *TisUnfortunate*
 

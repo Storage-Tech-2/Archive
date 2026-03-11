@@ -1,7 +1,7 @@
 # J-MIS (Jay's Moony Item Sorter)
 <img alt="area_render_357_.png" src="images/area_render_357_.png?raw=1" height="300px">
 
-**Authors:** *jayroi, Moonyinspired, sergyd*
+**Authors:** *jayroi, Moonyinspired 🇧🇷, sergyd*
 
 **Endorsed by:** *Andrews54757*
 
