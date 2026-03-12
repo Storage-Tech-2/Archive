@@ -1,0 +1,145 @@
+{
+  "id": "1481705280273125608",
+  "name": "Variable Merging Compactor",
+  "code": "VBS007",
+  "reservedCodes": [
+    "VBS007"
+  ],
+  "pastPostThreadIds": [
+    "1481707463580323890"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "384084307712409600",
+      "username": "tisunfortunate",
+      "displayName": "TisUnfortunate",
+      "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/0de5630a1bd3ad4fb3e24f5ba40958e1.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "384084307712409600",
+      "username": "tisunfortunate",
+      "displayName": "TisUnfortunate",
+      "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/0de5630a1bd3ad4fb3e24f5ba40958e1.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465491795369525312",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1481705280550076537",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1481705280273125608/1481705280550076537/image.png?ex=69b44913&is=69b2f793&hm=b3d0e88c70cbcd84860656c6e564506a4f0d195267aa209241254851165337d0&",
+      "timestamp": 1773336467570,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "384084307712409600",
+        "username": "tisunfortunate",
+        "displayName": "TisUnfortunate",
+        "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/0de5630a1bd3ad4fb3e24f5ba40958e1.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 153421,
+      "canDownload": true,
+      "width": 658,
+      "height": 793,
+      "path": "images/image.png",
+      "hash": "bd8e62bf211cdbfe64d556687c947a82ff87fe9db4c7b6376db90b2d5079251c"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1481705282068287670",
+      "name": "VBS007_Variable.Compactor.v0.1.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1481705280273125608/1481705282068287670/Variable.Compactor.v0.1.litematic?ex=69b44913&is=69b2f793&hm=f16b5a9e4e6093db40354f3efb526288d616cecb7a36b4f83b9eb7b3e91a8508&",
+      "timestamp": 1773336467570,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "384084307712409600",
+        "username": "tisunfortunate",
+        "displayName": "TisUnfortunate",
+        "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/0de5630a1bd3ad4fb3e24f5ba40958e1.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 3957,
+      "canDownload": true,
+      "hash": "412b66d3eca05566bd5d34f8c971daeda86e694d69189c0aec183e62aca1de50",
+      "path": "attachments/VBS007_Variable.Compactor.v0.1.litematic",
+      "litematic": {
+        "size": "11x14x6",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Component which takes as input Full boxes of 9-1 compactable items, and crafts and merges them in the same operation at 8x HS. Only outputs full boxes of compacted items.",
+    "features": [
+      "11x14x6\n-Can handle all 9-1 compactable recipes at 8x HS with one device",
+      "Merges while Crafting, maximizing the efficiency of the loading operation"
+    ],
+    "considerations": [
+      "No included whitelister",
+      "Will Break if non full boxes are input\n-Will break if non compactables are input"
+    ],
+    "notes": "Uses 8x compactor by XP_Bot, Civic, & geg, https://discordapp.com/channels/856232076252282890/1476718528513183969"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopper speed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "8x",
+        "HS"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Whitelister",
+      "id": "1473812335243165757",
+      "url": "https://discord.com/channels/1375556143186837695/1473812335243165757/1473812336434479176",
+      "matches": [
+        "whitelister"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discordapp.com/channels/856232076252282890/1476718528513183969",
+      "server": "856232076252282890",
+      "channel": "1476718528513183969",
+      "matches": [
+        "https://discordapp.com/channels/856232076252282890/1476718528513183969"
+      ],
+      "serverName": "Autocrafting Archive",
+      "serverJoinURL": "https://discord.gg/guZdbQ9KQe"
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1481707463580323890",
+    "forumId": "1375570066451599401",
+    "continuingMessageIds": [
+      "1481707476238995629",
+      "1481707477795082313"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1481707463580323890",
+    "uploadMessageId": "1481707460917203064",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1481707463580323890/1481707471855943750/image.png?ex=69b44b1e&is=69b2f99e&hm=1d756c827ebe87520410a7f5f1993c866f4fd95351f01b700766314ba9b692ea&"
+  },
+  "archivedAt": 1773336984739,
+  "updatedAt": 1773336984739,
+  "num_comments": 0
+}
