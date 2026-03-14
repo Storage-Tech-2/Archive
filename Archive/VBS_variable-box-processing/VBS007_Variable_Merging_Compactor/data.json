@@ -85,12 +85,14 @@
   "records": {
     "description": "Component which takes as input Full boxes of 9-1 compactable items, and crafts and merges them in the same operation at 8x HS. Only outputs full boxes of compacted items.",
     "features": [
-      "11x14x6\n-Can handle all 9-1 compactable recipes at 8x HS with one device",
+      "11x14x6",
+      "Can handle all 9-1 compactable recipes at 8x HS with one device",
       "Merges while Crafting, maximizing the efficiency of the loading operation"
     ],
     "considerations": [
       "No included whitelister",
-      "Will Break if non full boxes are input\n-Will break if non compactables are input"
+      "Will Break if non full boxes are input",
+      "Will break if non compactables are input"
     ],
     "notes": "Uses 8x compactor by XP_Bot, Civic, & geg, https://discordapp.com/channels/856232076252282890/1476718528513183969"
   },
@@ -140,6 +142,6 @@
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1481707463580323890/1481707471855943750/image.png?ex=69b44b1e&is=69b2f99e&hm=1d756c827ebe87520410a7f5f1993c866f4fd95351f01b700766314ba9b692ea&"
   },
   "archivedAt": 1773336984739,
-  "updatedAt": 1773336984739,
+  "updatedAt": 1773453894334,
   "num_comments": 0
 }
