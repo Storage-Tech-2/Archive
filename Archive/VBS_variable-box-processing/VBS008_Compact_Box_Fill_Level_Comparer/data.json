@@ -1,12 +1,14 @@
 {
   "id": "1386419505961369690",
   "name": "Compact Box Fill Level Comparer",
-  "code": "FBS001",
+  "code": "VBS008",
   "reservedCodes": [
-    "FBS001"
+    "FBS001",
+    "VBS008"
   ],
   "pastPostThreadIds": [
-    "1388316891721764885"
+    "1388316891721764885",
+    "1482973872314912868"
   ],
   "authors": [
     {
@@ -28,11 +30,11 @@
   ],
   "tags": [
     {
-      "id": "1465487113117106203",
+      "id": "1465487757122998410",
       "name": "Recommended"
     },
     {
-      "id": "1465490819187212557",
+      "id": "1465491795369525312",
       "name": "Functional"
     }
   ],
@@ -46,20 +48,20 @@
       "canDownload": true,
       "width": 636,
       "height": 477,
-      "path": "images/asdasdmage.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "andrews54757"
+        "username": "Unknown"
       },
       "timestamp": 1750618568000,
+      "path": "images/asdasdmage.png",
       "hash": "c4f53d054b7c5165e7852e27a77939d46f72044ff85ad4d2b0a81ca2e728842f"
     }
   ],
   "attachments": [
     {
       "id": "1386419507546951690",
-      "name": "FBS001_comparerer.litematic",
+      "name": "VBS008_comparerer.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386419505961369690/1386419507546951690/comparerer.litematic?ex=6859a349&is=685851c9&hm=12f635ca8fc8c369b5c23cc88bce215148ce5518f5c8edadfdeb7fba36674fe8&",
       "description": "",
@@ -68,15 +70,12 @@
         "size": "5x2x5",
         "version": "1.20.2"
       },
-      "path": "attachments/FBS001_comparerer.litematic",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "andrews54757"
+        "username": "Unknown"
       },
-      "timestamp": 1750618568000,
-      "size": 964,
-      "hash": "0d6a92ad529283f867d4b771f490aa2698a642f8e20a90b2a8f9a7cced47e308"
+      "timestamp": 1750618568000
     }
   ],
   "records": {
@@ -103,17 +102,16 @@
   ],
   "author_references": [],
   "post": {
-    "forumId": "1375559651579527208",
-    "threadId": "1388316891721764885",
+    "threadId": "1482973872314912868",
+    "forumId": "1375570066451599401",
     "continuingMessageIds": [
-      "1388316895991697502"
+      "1482973880032428157"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388316891721764885",
-    "attachmentMessageId": "1388177707602542730",
-    "uploadMessageId": "1388177700623224872",
-    "thumbnailURL": "https://cdn.discordapp.com/attachments/1388316891721764885/1388316892170813440/asdasdmage.png?ex=69b2b31c&is=69b1619c&hm=11c1e0cc9f4a2cac2ab8a1e4ebd5384f4df8618825537faf1cb3389f44be7cb7&"
+    "threadURL": "https://discord.com/channels/1375556143186837695/1482973872314912868",
+    "uploadMessageId": "",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1482973872314912868/1482973876412481696/asdasdmage.png?ex=69b8e68c&is=69b7950c&hm=1071d8aa19b796af7ee6eec3d4d62523778812a18f9045226977e6bb167a5e51&"
   },
   "archivedAt": 1750619211970,
-  "updatedAt": 1750619211970,
+  "updatedAt": 1773638921276,
   "num_comments": 0
 }

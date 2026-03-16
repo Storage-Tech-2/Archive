@@ -4,7 +4,7 @@
   "code": "VBS",
   "category": "Advanced Tech",
   "description": "Variable box sorting",
-  "currentCodeId": 7,
+  "currentCodeId": 8,
   "entries": [
     {
       "id": "1386933382579093594",
@@ -40,6 +40,11 @@
       "id": "1481705280273125608",
       "code": "VBS007",
       "path": "VBS007_Variable_Merging_Compactor"
+    },
+    {
+      "id": "1386419505961369690",
+      "code": "VBS008",
+      "path": "VBS008_Compact_Box_Fill_Level_Comparer"
     }
   ]
 }
