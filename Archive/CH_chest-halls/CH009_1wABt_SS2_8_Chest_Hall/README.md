@@ -1,5 +1,5 @@
 # 1wABt SS2 8 Chest Hall
-<img alt="2025-12-07_20.57.46.png" src="images/2025-12-07_20.57.46.png?raw=1" height="300px">
+<img alt="image.png" src="images/image.png?raw=1" height="300px">
 
 **Authors:** *F3atured*
 
