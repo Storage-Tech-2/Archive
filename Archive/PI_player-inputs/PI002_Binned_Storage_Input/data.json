@@ -12,6 +12,7 @@
     {
       "type": "discord-external",
       "id": "759402531235037204",
+      "displayName": "oliver",
       "username": "extasyxtc",
       "iconURL": "https://cdn.discordapp.com/avatars/759402531235037204/1aef71f2a7c434e7cdd5c3f440813ce3.webp"
     }
@@ -45,13 +46,13 @@
       "canDownload": true,
       "width": 800,
       "height": 554,
-      "path": "images/area_render_21_.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "andrews54757"
+        "username": "Unknown"
       },
       "timestamp": 1751049687000,
+      "path": "images/area_render_21_.png",
       "hash": "1675337386792ac76c550f9d30a38d34d7fb701c1b1730133d7b8f85c3d8f3c6"
     }
   ],
@@ -67,15 +68,12 @@
         "size": "6x5x7",
         "version": "1.20.1"
       },
-      "path": "attachments/PI002_Ultimate_Storage_Input_v5.litematic",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "andrews54757"
+        "username": "Unknown"
       },
-      "timestamp": 1751049687000,
-      "size": 1656,
-      "hash": "0d8e7a51ecd3c3d00cfa2a2b90e8cb3e65d68cd9a7be02e8e1f500b580e31c75"
+      "timestamp": 1751049687000
     }
   ],
   "records": {
@@ -86,9 +84,9 @@
       "Manual loader for loose items, box won't break until items are inputted",
       "Small, 5x5x7 footprint (excluding signs and floor)"
     ],
-    "considerations": [],
-    "notes": "Requires an external input handler, take for example https://discord.com/channels/748542142347083868/1121057305698517093/1123390860147560609 or https://discord.com/channels/748542142347083868/748578407377272843/1191660970687348756"
+    "notes": "Requires an external input handler, eg a box fill level checker (FBS008) and a unstackable pre-sorter (OIP005)"
   },
+  "styles": {},
   "references": [
     {
       "type": "dictionaryTerm",
@@ -118,28 +116,26 @@
       ]
     },
     {
-      "type": "discordLink",
-      "url": "https://discord.com/channels/748542142347083868/1121057305698517093/1123390860147560609",
-      "server": "748542142347083868",
-      "channel": "1121057305698517093",
-      "message": "1123390860147560609",
+      "type": "archivedPost",
+      "id": "1402520196123721820",
+      "code": "FBS008",
+      "name": "Hopperspeed IsBox + 3 Way Box Fill Level Sorter",
+      "url": "https://discord.com/channels/1375556143186837695/1405447030385410058",
+      "path": "Archive/FBS_fill-level-box-sorters/FBS008_Hopperspeed_IsBox__3_Way_Box_Fill_Level_Sorter",
       "matches": [
-        "https://discord.com/channels/748542142347083868/1121057305698517093/1123390860147560609"
-      ],
-      "serverName": "Storage Tech",
-      "serverJoinURL": "https://discord.gg/JufJ6uf"
+        "FBS008"
+      ]
     },
     {
-      "type": "discordLink",
-      "url": "https://discord.com/channels/748542142347083868/748578407377272843/1191660970687348756",
-      "server": "748542142347083868",
-      "channel": "748578407377272843",
-      "message": "1191660970687348756",
+      "type": "archivedPost",
+      "id": "1455651277718552586",
+      "code": "OIP005",
+      "name": "Stackable/Unstackable/Box Pre-sorter",
+      "url": "https://discord.com/channels/1375556143186837695/1467964373225177151",
+      "path": "Archive/OIP_other-item-processors/OIP005_StackableUnstackableBox_Pre-sorter",
       "matches": [
-        "https://discord.com/channels/748542142347083868/748578407377272843/1191660970687348756"
-      ],
-      "serverName": "Storage Tech",
-      "serverJoinURL": "https://discord.gg/JufJ6uf"
+        "OIP005"
+      ]
     }
   ],
   "author_references": [],
@@ -147,8 +143,7 @@
     "threadId": "1388318242690564188",
     "forumId": "1375569381781930006",
     "continuingMessageIds": [
-      "1388318246410784912",
-      "1455359223285289183"
+      "1388318246410784912"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1388318242690564188",
     "uploadMessageId": "1388228735798480976",
@@ -156,6 +151,6 @@
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1388318242690564188/1388318243340554321/area_render_21_.png?ex=69b2b45e&is=69b162de&hm=544850cc3eb5a102ef45bd87b9cfb1d873d0adbd6ceb248f00a719b2c6513b03&"
   },
   "archivedAt": 1766904575932,
-  "updatedAt": 1751050118719,
+  "updatedAt": 1773641378387,
   "num_comments": 0
 }

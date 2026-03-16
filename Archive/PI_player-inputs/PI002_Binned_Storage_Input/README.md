@@ -16,7 +16,7 @@ Allows players to input loose items and bulk boxes for separate processing. Incl
 - Manual loader for loose items, box won't break until items are inputted
 - Small, 5x5x7 footprint (excluding signs and floor)
 ## Notes
-Requires an external input handler, take for example https://discord.com/channels/748542142347083868/1121057305698517093/1123390860147560609 (in [Storage Tech](https://discord.gg/JufJ6uf)) or https://discord.com/channels/748542142347083868/748578407377272843/1191660970687348756 (in [Storage Tech](https://discord.gg/JufJ6uf))
+Requires an external input handler, eg a box fill level checker ([FBS008 Hopperspeed IsBox + 3 Way Box Fill Level Sorter](https://discord.com/channels/1375556143186837695/1405447030385410058)) and a unstackable pre-sorter ([OIP005 Stackable/Unstackable/Box Pre-sorter](https://discord.com/channels/1375556143186837695/1467964373225177151))
 
 ## Resources
-- [PI002_Ultimate_Storage_Input_v5.litematic](attachments/PI002_Ultimate_Storage_Input_v5.litematic): MC 1.20.1, Size 6x5x7 blocks
+- [PI002_Ultimate_Storage_Input_v5.litematic](): MC 1.20.1, Size 6x5x7 blocks
