@@ -26,7 +26,12 @@
       "iconURL": "https://cdn.discordapp.com/avatars/457520959033704450/29b37257e39f226f85fe06499d1037ce.webp"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "1465487894184722498",
+      "name": "Recommended"
+    }
+  ],
   "images": [
     {
       "id": "1477858515845648465",

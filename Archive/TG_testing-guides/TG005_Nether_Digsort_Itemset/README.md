@@ -5,7 +5,7 @@
 
 **Endorsed by:** *giannis__*
 
-**Tags:** **
+**Tags:** *Recommended*
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1477407828422561833)
 
