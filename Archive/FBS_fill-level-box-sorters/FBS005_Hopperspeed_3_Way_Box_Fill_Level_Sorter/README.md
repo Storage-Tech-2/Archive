@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Recommended, Functional, 3 Way Sorter*
+**Tags:** *3 Way Sorter, Functional*
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388316951553511544)
 
