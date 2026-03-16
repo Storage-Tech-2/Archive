@@ -4,7 +4,7 @@
   "code": "OL",
   "category": "Box Loaders & Unloaders",
   "description": "Other box loaders (EG: CUD loaders or hybrid loaders)",
-  "currentCodeId": 5,
+  "currentCodeId": 6,
   "entries": [
     {
       "id": "1386466149700600048",
@@ -30,6 +30,11 @@
       "id": "1396045650940137532",
       "code": "OL005",
       "path": "OL005_Simple_1x_Box_Loader"
+    },
+    {
+      "id": "1387255160815751319",
+      "code": "OL006",
+      "path": "OL006_Small_1x_Box_Loader_with_2x_version"
     }
   ]
 }
