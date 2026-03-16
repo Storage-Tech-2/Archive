@@ -1,12 +1,14 @@
 {
   "id": "1396045650940137532",
-  "name": "Simple 1x Accessible Box Loader",
-  "code": "AL005",
+  "name": "Simple 1x Box Loader",
+  "code": "OL005",
   "reservedCodes": [
-    "AL005"
+    "AL005",
+    "OL005"
   ],
   "pastPostThreadIds": [
-    "1396364546666659962"
+    "1396364546666659962",
+    "1482969052669415495"
   ],
   "authors": [
     {
@@ -28,12 +30,12 @@
   ],
   "tags": [
     {
-      "id": "1465486971215548592",
-      "name": "Recommended"
+      "name": "Recommended",
+      "id": "1465487063406219304"
     },
     {
-      "id": "1465490606980857926",
-      "name": "Functional"
+      "name": "Functional",
+      "id": "1465490739759681724"
     }
   ],
   "images": [
@@ -44,13 +46,13 @@
       "url": "https://cdn.discordapp.com/attachments/1396045650940137532/1396045652047429672/area_render_60_.png?ex=687ca854&is=687b56d4&hm=0707ef12223b7c8401ec42a5c9afe395f0274ce013e34265c4df5727bf0204d4&",
       "description": "",
       "canDownload": true,
-      "path": "images/area_render_60_.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "scorpio03"
+        "username": "Unknown"
       },
       "timestamp": 1752913620000,
+      "path": "images/area_render_60_.png",
       "hash": "1cd691f10af45eca1a83db7a59d7af9cd7fe1fa75c5f324729491b76b671bccf"
     },
     {
@@ -60,13 +62,13 @@
       "url": "https://cdn.discordapp.com/attachments/1396045650940137532/1396045658032570389/area_render_61_.png?ex=687ca856&is=687b56d6&hm=25d055578bd3b1e03d6045c32e8b57992778d58d17be138accd176066dab8413&",
       "description": "",
       "canDownload": true,
-      "path": "images/area_render_61_.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "scorpio03"
+        "username": "Unknown"
       },
       "timestamp": 1752913620000,
+      "path": "images/area_render_61_.png",
       "hash": "4a33c84d3c17788d5ecf0b95018a387abc30d2544c177dc9dafc54e6f784917e"
     },
     {
@@ -76,13 +78,13 @@
       "url": "https://cdn.discordapp.com/attachments/1396045650940137532/1396045658460393493/area_render_59_.png?ex=687ca856&is=687b56d6&hm=663b2093d6353c3fef6cc81cec298caed15b522806ff01cb06a7be21b91ca933&",
       "description": "",
       "canDownload": true,
-      "path": "images/area_render_59_.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "scorpio03"
+        "username": "Unknown"
       },
       "timestamp": 1752913620000,
+      "path": "images/area_render_59_.png",
       "hash": "35b40ea46b627dfcb79be65ae5119b8d29f3e4be94a76fa2b2c31c47e2eeead5"
     },
     {
@@ -94,27 +96,26 @@
       "canDownload": true,
       "width": 688,
       "height": 800,
-      "path": "images/area_render_63_.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "scorpio03"
+        "username": "Unknown"
       },
       "timestamp": 1752914991000,
+      "path": "images/area_render_63_.png",
       "hash": "7643c505d22ab15e86f6bb9e46c72603854444288c140fb2d20fc109d008aa27"
     }
   ],
   "attachments": [],
   "records": {
-    "description": "Very simple and cheap 1x accessible loader",
+    "description": "Very simple and cheap non-tileable 1x loader",
     "features": [
       "Can be modified to 2x box loader",
-      "No longer accessible when modified"
+      "Accessible box"
     ],
-    "notes": [
-      "The downwards pushing and 2x box loader variants are no longer accessible"
-    ]
+    "notes": "- The downwards pushing and 2x box loader variants are no longer accessible"
   },
+  "styles": {},
   "references": [
     {
       "type": "dictionaryTerm",
@@ -127,11 +128,11 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "Accessible Loader",
-      "id": "1454804125559554243",
-      "url": "https://discord.com/channels/1375556143186837695/1454804125559554243/1454804126541152338",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
       "matches": [
-        "accessible loader"
+        "loader"
       ]
     },
     {
@@ -142,27 +143,18 @@
       "matches": [
         "2x"
       ]
-    },
-    {
-      "type": "dictionaryTerm",
-      "term": "Loader",
-      "id": "1454753686558605373",
-      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
-      "matches": [
-        "loader"
-      ]
     }
   ],
   "author_references": [],
   "post": {
-    "threadId": "1396364546666659962",
-    "forumId": "1375557143201316934",
+    "threadId": "1482969052669415495",
+    "forumId": "1375557962675912865",
     "continuingMessageIds": [],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1396364546666659962",
+    "threadURL": "https://discord.com/channels/1375556143186837695/1482969052669415495",
     "uploadMessageId": "",
-    "thumbnailURL": "https://cdn.discordapp.com/attachments/1396364546666659962/1396364547232895026/area_render_60_.png?ex=69b25053&is=69b0fed3&hm=73036e17f042215c7d82924754bc8d8dc4aaaf806a4b964830b9416668cbe5ec&"
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1482969052669415495/1482969057719353344/area_render_60_.png?ex=69b8e20f&is=69b7908f&hm=12859b4e2923db70ed6dd924306f4c60a0b5e6da65e4282ab2ca088310809a96&"
   },
   "archivedAt": 1752989650837,
-  "updatedAt": 1752989650837,
+  "updatedAt": 1773637768913,
   "num_comments": 0
 }

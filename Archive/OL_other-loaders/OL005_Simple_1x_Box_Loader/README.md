@@ -1,4 +1,4 @@
-# Simple 1x Accessible Box Loader
+# Simple 1x Box Loader
 <img alt="area_render_60_.png" src="images/area_render_60_.png?raw=1">
 
 **Authors:** *金合欢酱喵~ (acaciachan)*
@@ -7,12 +7,12 @@
 
 **Tags:** *Recommended, Functional*
 
-**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1396364546666659962)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1482969052669415495)
 
-Very simple and cheap 1x accessible loader
+Very simple and cheap non-tileable 1x loader
 ## Features
 - Can be modified to 2x box loader
-- No longer accessible when modified
+- Accessible box
 ## Notes
 - The downwards pushing and 2x box loader variants are no longer accessible
 
