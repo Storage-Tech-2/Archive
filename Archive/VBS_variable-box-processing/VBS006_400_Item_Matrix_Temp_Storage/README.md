@@ -28,4 +28,4 @@ Designed on [Soontech CMP](https://soontech.org)
 3. If unwhitelisted box, then it will be output out on one side. If whitelisted, it will output pairs on the other side.
 
 ## Resources
-- [VBS006_matrix_temp_storage-r1.litematic](attachments/VBS006_matrix_temp_storage-r1.litematic): MC 1.21.4, Size 19x15x15 blocks
+- [VBS006_matrix_temp_storage-r2.litematic](attachments/VBS006_matrix_temp_storage-r2.litematic): MC 1.21.4, Size 19x15x15 blocks
