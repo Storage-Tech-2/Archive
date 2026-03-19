@@ -2,14 +2,15 @@
   "id": "1454753725091676293",
   "terms": [
     "Multi Item Sorter",
-    "MIS"
+    "MIS",
+    "Categorizer"
   ],
   "definition": "A type of item sorter (system) that sorts multiple item-types into a single chest or group of chests, usually used to reduce space used by single item-type sorters to group not too common items into categories.",
   "threadURL": "https://discord.com/channels/1375556143186837695/1454753725091676293",
   "statusURL": "https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954",
   "status": "APPROVED",
   "statusMessageID": "1454753725829877954",
-  "updatedAt": 1766910717021,
+  "updatedAt": 1773888373285,
   "references": [],
   "referencedBy": [
     "MIS001",
