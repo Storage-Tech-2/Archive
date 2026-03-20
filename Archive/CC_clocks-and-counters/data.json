@@ -4,7 +4,7 @@
   "code": "CC",
   "category": "Wiring & Logic",
   "description": "Clocks and counter devices",
-  "currentCodeId": 6,
+  "currentCodeId": 7,
   "entries": [
     {
       "id": "1386448150994223134",
@@ -30,6 +30,11 @@
       "id": "1452358144284950610",
       "code": "CC006",
       "path": "CC006_Small_1wt_N-pulse_Clocks"
+    },
+    {
+      "id": "1473341211069906964",
+      "code": "CC007",
+      "path": "CC007_8gt_Fast_Switch_1wt_Divide-by-N_Counter"
     }
   ]
 }

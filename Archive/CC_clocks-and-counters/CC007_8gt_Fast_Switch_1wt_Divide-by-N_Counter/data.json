@@ -1,0 +1,140 @@
+{
+  "id": "1473341211069906964",
+  "name": "8gt Fast Switch 1wt Divide-by-N Counter",
+  "code": "CC007",
+  "reservedCodes": [
+    "CC007"
+  ],
+  "pastPostThreadIds": [
+    "1484681490427281449"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "688456529338433611",
+      "username": "glidingmonkey",
+      "displayName": "Christone",
+      "iconURL": "https://cdn.discordapp.com/avatars/688456529338433611/348a34add443a5a71237111010e484b1.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465487829886046211",
+      "name": "Untested"
+    }
+  ],
+  "images": [
+    {
+      "id": "1484680741412405399",
+      "name": "area_render_18_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1473341211069906964/1484680741412405399/area_render_18_.png?ex=69bf1c30&is=69bdcab0&hm=bf80f58d23fc3ccbf0dc91d83e070ccd47627070ee0d662d315ea86f2dbbf0a4&",
+      "timestamp": 1774045872960,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "688456529338433611",
+        "username": "glidingmonkey",
+        "displayName": "Christone",
+        "iconURL": "https://cdn.discordapp.com/avatars/688456529338433611/348a34add443a5a71237111010e484b1.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 69690,
+      "canDownload": true,
+      "width": 1200,
+      "height": 975,
+      "path": "images/area_render_18_.png",
+      "hash": "51bd3e66851267622e71707c52bd7e1fc9a2f444b522902bc81f4c6ffb04ee0c"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1484680741731434569",
+      "name": "CC007_1wt_8gt_counter.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1473341211069906964/1484680741731434569/1wt_8gt_counter.litematic?ex=69bf1c30&is=69bdcab0&hm=44d1dc626f79c808fc5c1821799f3a5b743d0dc4f0c49d2723919c95e65867d4&",
+      "timestamp": 1774045872960,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "688456529338433611",
+        "username": "glidingmonkey",
+        "displayName": "Christone",
+        "iconURL": "https://cdn.discordapp.com/avatars/688456529338433611/348a34add443a5a71237111010e484b1.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 907,
+      "canDownload": true,
+      "hash": "e1a65956be90e833385d00ecaf41339d2757d3fecf2ed6e3393340f9ce6a9af7",
+      "path": "attachments/CC007_1wt_8gt_counter.litematic",
+      "litematic": {
+        "size": "12x10x1",
+        "version": "1.20.1"
+      }
+    }
+  ],
+  "records": {
+    "description": "The toggle will switch each time the top rail is pulsed `N` times, where `N` is the number of items in the dropper counter below. Same concept as https://discord.com/channels/1375556143186837695/1386448150994223134/1386448150994223134 but can switch faster, at 8gt clock input if needed.",
+    "features": [
+      "Faster switching, works with constant 8gt clock input"
+    ],
+    "considerations": [
+      "Much larger than other designs, do not use if 8gt clock change or 1wt isn't required"
+    ]
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "archivedPost",
+      "id": "1386448150994223134",
+      "code": "CC002",
+      "name": "1wt Divide-by-N Counter",
+      "url": "https://discord.com/channels/1375556143186837695/1388318562669690982",
+      "path": "Archive/CC_clocks-and-counters/CC002_1wt_Divide-by-N_Counter",
+      "matches": [
+        "https://discord.com/channels/1375556143186837695/1386448150994223134/1386448150994223134"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Gametick",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "n-Wide tileable",
+      "id": "1454753738425368687",
+      "url": "https://discord.com/channels/1375556143186837695/1454753738425368687/1454753741785010208",
+      "matches": [
+        "1wt"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1484681490427281449",
+    "forumId": "1386443869729587291",
+    "continuingMessageIds": [
+      "1484681500183101504"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1484681490427281449",
+    "uploadMessageId": "1484681488158162984",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1484681490427281449/1484681493946040430/area_render_18_.png?ex=69bf1ce4&is=69bdcb64&hm=1c71001b3e3ec87dbb64e06a73ad92a5347ddcd511c3f6faa83eaf479d23a2a8&"
+  },
+  "archivedAt": 1774046047839,
+  "updatedAt": 1774046047839,
+  "num_comments": 0
+}
