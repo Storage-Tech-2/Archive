@@ -53,13 +53,13 @@
       "canDownload": true,
       "width": 688,
       "height": 800,
-      "path": "images/spimage.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "andrews54757"
+        "username": "Unknown"
       },
       "timestamp": 1753757482000,
+      "path": "images/spimage.png",
       "hash": "4c72a7ff99056cfd5eb3f3ad2cb59647fd35ac02f4833a51fa4b4f7972b81e25"
     }
   ],
@@ -79,15 +79,14 @@
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "andrews54757"
+        "username": "Unknown"
       },
       "timestamp": 1753757482000,
-      "size": 1903,
       "hash": "c5c6d2d43db0e59124e49b9df5f7f4a5bac9c39eac6e159f1808438152a93266"
     }
   ],
   "records": {
-    "description": "A device that uses a dueling hopper splitter to produce single-item-type boxes from a chest.",
+    "description": "A storage input that uses an integrated dueling hopper splitter to produce single-item-type boxes directly from the loose item input chest.",
     "features": [
       "Separate unstackable output",
       "Single item type box output with fullspeed loader",
@@ -96,6 +95,7 @@
       "Slim profile, 2 blocks deep behind the input chests"
     ]
   },
+  "styles": {},
   "references": [
     {
       "type": "dictionaryTerm",
@@ -137,6 +137,6 @@
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1399585560720314490/1399585561274224660/spimage.png?ex=69b2d360&is=69b181e0&hm=b017d742d74213cc5b540f81baa49abadd70beb70f5071fd570d6c792ed75c1b&"
   },
   "archivedAt": 1753757600081,
-  "updatedAt": 1753757600081,
+  "updatedAt": 1773974741913,
   "num_comments": 0
 }

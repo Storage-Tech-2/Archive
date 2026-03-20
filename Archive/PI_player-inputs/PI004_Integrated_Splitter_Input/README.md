@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1399585560720314490)
 
-A device that uses a dueling hopper splitter to produce single-item-type boxes from a chest.
+A storage input that uses an integrated dueling hopper splitter to produce single-item-type boxes directly from the loose item input chest.
 ## Features
 - Separate unstackable output
 - Single item type box output with fullspeed loader
