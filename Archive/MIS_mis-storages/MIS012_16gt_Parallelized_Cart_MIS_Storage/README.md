@@ -24,8 +24,9 @@ A small but powerful multi-item sorting storage system with up to 32x hopperspee
 - Noisy
 - Chunkloader not included
 - Sometimes items will go in topmost chest in slices even when theres space below.
+- Directional. Do not rotate.
 ## Notes
-Chunkloader excluded in schem but redstone connection for one included. Recommended to build it deep below storage to prevent linking troubles. Lever present to ignore box sorting capability and unload all boxes regardless of fill level. Note that you can use any set of unique items for the in-slice code items. Nondirectional, nonlocational.
+Chunkloader excluded in schem but redstone connection for one included. Recommended to build it deep below storage to prevent linking troubles. Lever present to ignore box sorting capability and unload all boxes regardless of fill level. Note that you can use any set of unique items for the in-slice code items.
 ## Compatibility
 1.21.10+, broken in older 1.21 versions because of bubble column changes. Tested in 1.21.10-1.21.11
 ## Instructions

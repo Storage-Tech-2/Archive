@@ -142,9 +142,10 @@
     "considerations": [
       "Noisy",
       "Chunkloader not included",
-      "Sometimes items will go in topmost chest in slices even when theres space below."
+      "Sometimes items will go in topmost chest in slices even when theres space below.",
+      "Directional. Do not rotate."
     ],
-    "notes": "Chunkloader excluded in schem but redstone connection for one included. Recommended to build it deep below storage to prevent linking troubles. Lever present to ignore box sorting capability and unload all boxes regardless of fill level. Note that you can use any set of unique items for the in-slice code items. Nondirectional, nonlocational.",
+    "notes": "Chunkloader excluded in schem but redstone connection for one included. Recommended to build it deep below storage to prevent linking troubles. Lever present to ignore box sorting capability and unload all boxes regardless of fill level. Note that you can use any set of unique items for the in-slice code items.",
     "compatibility": "1.21.10+, broken in older 1.21 versions because of bubble column changes. Tested in 1.21.10-1.21.11",
     "instructions": [
       "Set up MIS filter chests below the trapdoors with the categories you want",
@@ -202,6 +203,15 @@
     },
     {
       "type": "dictionaryTerm",
+      "term": "Directional",
+      "id": "1454753554815389834",
+      "url": "https://discord.com/channels/1375556143186837695/1454753554815389834/1454753555566166029",
+      "matches": [
+        "Directional"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
       "term": "Multi Item Sorter",
       "id": "1454753725091676293",
       "url": "https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954",
@@ -223,6 +233,6 @@
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1477856882214310001/1477856891194572872/render.png?ex=69b2cf3c&is=69b17dbc&hm=06a357c37905520002f05d32abc14611e3aef09bb34dd32351d7c0d28f0417dc&"
   },
   "archivedAt": 1772418929934,
-  "updatedAt": 1772636222691,
+  "updatedAt": 1774290942653,
   "num_comments": 0
 }
