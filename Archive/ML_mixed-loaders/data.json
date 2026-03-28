@@ -4,7 +4,7 @@
   "code": "ML",
   "category": "Box Loaders & Unloaders",
   "description": "Box loaders which load mixed item types",
-  "currentCodeId": 9,
+  "currentCodeId": 10,
   "entries": [
     {
       "id": "1386244541513863249",
@@ -50,6 +50,11 @@
       "id": "1468893063626625086",
       "code": "ML009",
       "path": "ML009_1.13_3wt_8x_Mixed_Box_Loader"
+    },
+    {
+      "id": "1487540973012521033",
+      "code": "ML010",
+      "path": "ML010_1wt_Hopperspeed_Mixed_Loader"
     }
   ]
 }

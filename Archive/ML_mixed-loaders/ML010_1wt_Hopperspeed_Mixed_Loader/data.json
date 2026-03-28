@@ -1,0 +1,144 @@
+{
+  "id": "1487540973012521033",
+  "name": "1wt Hopperspeed Mixed Loader",
+  "code": "ML010",
+  "reservedCodes": [
+    "ML010"
+  ],
+  "pastPostThreadIds": [
+    "1487541278618157246"
+  ],
+  "authors": [
+    {
+      "type": "unknown",
+      "username": "SamosTheSage"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465490666501963848",
+      "name": "Functional"
+    },
+    {
+      "id": "1386244750415233174",
+      "name": "1X Hopperspeed"
+    }
+  ],
+  "images": [
+    {
+      "id": "1487540973830406335",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1487540973012521033/1487540973830406335/image.png?ex=69c983fd&is=69c8327d&hm=efe4effa833053762b399a00c5f270a1b5b028963e3b5ac302dd6f675898d6c2&",
+      "timestamp": 1774727805141,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 12449,
+      "canDownload": true,
+      "width": 550,
+      "height": 554,
+      "path": "images/image.png",
+      "hash": "a9e7eb37bc576364ea395ff12080992c1354334f082c66fec5170256e9f3e156"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1487540973167968296",
+      "name": "ML010_Samos_1x_1wt_Mixed_Loader.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1487540973012521033/1487540973167968296/Samos_1x_1wt_Mixed_Loader.litematic?ex=69c983fd&is=69c8327d&hm=8d2a9ba33b397017c3870181785ecead59618ad77a8ecf9f7f7756a0e1812d0b&",
+      "timestamp": 1774727805141,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1006,
+      "canDownload": true,
+      "hash": "f26a7271ac91150fe6c42b66c5e3cda27365c9d29c2491fac90283c23648d37c",
+      "path": "attachments/ML010_Samos_1x_1wt_Mixed_Loader.litematic",
+      "litematic": {
+        "size": "7x7x1",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "1 wide tileable mixed loader which can load multiple item types into boxes at hopperspeed",
+    "features": [
+      "Mixed item compatible",
+      "Hopperspeed",
+      "1 wide tileable"
+    ],
+    "considerations": [
+      "Togglestates",
+      "Lots of buffering required to break box",
+      "Very small chance of losing box (around 1 in 50 million)"
+    ]
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Mixed loader",
+      "id": "1454753713024405588",
+      "url": "https://discord.com/channels/1375556143186837695/1454753713024405588/1454753714144411649",
+      "matches": [
+        "mixed loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopper speed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopperspeed",
+        "Hopperspeed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Togglestate",
+      "id": "1454754804252282910",
+      "url": "https://discord.com/channels/1375556143186837695/1454754804252282910/1454754804881428533",
+      "matches": [
+        "Togglestate"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1487541278618157246",
+    "forumId": "1375557473066418206",
+    "continuingMessageIds": [
+      "1487541287086460970"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1487541278618157246",
+    "uploadMessageId": "1487541276583923834",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1487541278618157246/1487541283189690498/image.png?ex=69c98447&is=69c832c7&hm=eac801d4663a82028a34a2d7cdeb86dfa005d1e3ef8d224f069ccce1c91ff6d0&"
+  },
+  "archivedAt": 1774727873474,
+  "updatedAt": 1774727873474,
+  "num_comments": 0
+}
