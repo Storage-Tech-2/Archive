@@ -21,7 +21,7 @@ Takes in mixed boxes and splits them into boxes containing a single item type. U
 Press stone button to start splitting after putting in boxes. Empty box input hopper is covered by wool for hopperNoItemCost carpet rule but can be replaced with more chest storage.
 
 ## Acknowledgements:
-- Obi81: Based off of Obi's design
+- Obi: Based off of Obi's design
 - giannis__: For helping testing
 
 ## Resources

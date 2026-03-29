@@ -1,7 +1,7 @@
 # Noteblock Placement Box Display
 <img alt="powerfulboxdisplay.png" src="images/powerfulboxdisplay.png?raw=1" height="300px">
 
-**Authors:** *Obi81*
+**Authors:** *Obi*
 
 **Endorsed by:** *Andrews54757*
 

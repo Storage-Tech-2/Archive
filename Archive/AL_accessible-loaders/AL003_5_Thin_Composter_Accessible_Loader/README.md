@@ -1,7 +1,7 @@
 # 5 Thin Composter Accessible Loader
 <img alt="area_render_72_.png" src="images/area_render_72_.png?raw=1" height="300px">
 
-**Authors:** *Obi81*
+**Authors:** *Obi*
 
 **Endorsed by:** *Andrews54757*
 

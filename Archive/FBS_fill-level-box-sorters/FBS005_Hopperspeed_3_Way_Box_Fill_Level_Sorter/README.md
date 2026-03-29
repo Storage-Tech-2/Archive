@@ -1,7 +1,7 @@
 # Hopperspeed 3 Way Box Fill Level Sorter
 <img alt="area_render_16.png" src="images/area_render_16.png?raw=1" height="300px">
 
-**Authors:** *Obi81*
+**Authors:** *Obi*
 
 **Endorsed by:** *Andrews54757*
 

@@ -1,7 +1,7 @@
 # Minimum Piston, Slice Preserving Box Unloader
 <img alt="unknown.png" src="images/unknown.png?raw=1" height="300px">
 
-**Authors:** *Obi81, satsuvu*
+**Authors:** *Obi, satsuvu*
 
 **Endorsed by:** *Andrews54757*
 
