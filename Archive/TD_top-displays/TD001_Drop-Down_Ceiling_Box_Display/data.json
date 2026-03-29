@@ -49,13 +49,13 @@
       "canDownload": true,
       "width": 791,
       "height": 800,
-      "path": "images/Ceiling_Box_Display.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "andrews54757"
+        "username": "Unknown"
       },
       "timestamp": 1750566058000,
+      "path": "images/Ceiling_Box_Display.png",
       "hash": "ce7b231eb20b1a06792d574987a47d0255e7d24262f2420974e3e963bb26da2e"
     }
   ],
@@ -71,29 +71,22 @@
         "size": "1x8x8",
         "version": "1.17.1"
       },
-      "path": "attachments/TD001_ceiling_box_display.litematic",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "andrews54757"
+        "username": "Unknown"
       },
-      "timestamp": 1750566058000,
-      "size": 868,
-      "hash": "049d1206aba52905ed51d2c4c117b8f2aa3bedbee661c8b3b4999c1d35be0f46"
+      "timestamp": 1750566058000
     }
   ],
   "records": {
-    "description": "Breaks the box with a piston that drops down from the top. Mainly meant for quad bulks.",
-    "features": [
-      "Automatic box replacement when emptied",
-      "Drop-down layout gives more space below for a secondary bottom display",
-      "Full hopperlocking is possible"
-    ],
+    "description": "Designed for quad displays, with all wiring up top. Hopperlocking is possible with a dustline above the dispenser.\n\n**Features:**\n- Automatic box replacement when emptied\n- Global first box placement",
     "considerations": [
-      "Hopperlocking dust line must be disabled globally within 20 gt of a box being emptied.  May require gaps to extend redstone line."
+      "Full boxes will buffer in the hopper and dispenser"
     ],
-    "notes": "Make sure dust line is redirected as shown in the picture to not power the piston. For 1.11+ compatibility replace the glass with slabs/solid blocks and noteblocks with trapdoors/rails."
+    "notes": "For 1.11+ compatibility replace the glass with slabs/solid blocks and noteblocks with trapdoors/rails."
   },
+  "styles": {},
   "references": [
     {
       "type": "dictionaryTerm",
@@ -101,17 +94,16 @@
       "id": "1454753660625227895",
       "url": "https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422",
       "matches": [
-        "hopperlocking",
         "Hopperlocking"
       ]
     },
     {
       "type": "dictionaryTerm",
-      "term": "Gametick",
-      "id": "1454753634435858666",
-      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "term": "Global",
+      "id": "1454753648574992557",
+      "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
       "matches": [
-        "gt"
+        "Global"
       ]
     }
   ],
@@ -128,6 +120,6 @@
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1388317123041951817/1388317123805184151/Ceiling_Box_Display.png?ex=69b2b354&is=69b161d4&hm=964f2c8593fe6fcb0c7fbb29844231aa203809482fa92035ca83b684c2a2e7e1&"
   },
   "archivedAt": 1750566430138,
-  "updatedAt": 1750566430138,
+  "updatedAt": 1774791052292,
   "num_comments": 0
 }
