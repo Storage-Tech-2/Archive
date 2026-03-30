@@ -1,5 +1,5 @@
 # [1.13+] 3wt 8x Mixed Box Loader
-<img alt="area_render.png" src="images/area_render.png?raw=1" height="300px">
+<img alt="image.png" src="images/image.png?raw=1" height="300px">
 
 **Authors:** *camphorwood*
 
@@ -20,9 +20,6 @@ Loads single or mixed item types into shulker boxes at 8x hopper speed (approxim
 - Can buffer items inside the droppers
 ## Notes
 For Minecraft 1.13 compatibility, use droppers instead of composters.
-
-## Other Images
-<img src="images/area_render_1_.png?raw=1" height="300px">
 
 ## Resources
 - [ML009_3wt8xmixed_local_v2_tiledexample.litematic](attachments/ML009_3wt8xmixed_local_v2_tiledexample.litematic): MC 1.21.1, Size 5x7x16 blocks
