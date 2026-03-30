@@ -21,13 +21,11 @@
 [1.20+]
 
 ## Resources
-- [LS006_yams_v2.3_wdls.zip](attachments/LS006_yams_v2.3_wdls.zip): MC 1.21.10, 1.20.1
-  - World downloads contain full bulk/mini bulk versions for both 1.20 and 1.21
-- [LS006_YAMS_V2.3_FB_1.20.litematic](attachments/LS006_YAMS_V2.3_FB_1.20.litematic): MC 1.20.1, Size 208x75x176 blocks
-  - Full bulk version for 1.20
-- [LS006_YAMS_V2.3_MB_1.20.litematic](attachments/LS006_YAMS_V2.3_MB_1.20.litematic): MC 1.20.1, Size 208x57x176 blocks
-  - Minibulk version for 1.20
-- [LS006_YAMS_V2.3_FB_1.21.litematic](attachments/LS006_YAMS_V2.3_FB_1.21.litematic): MC 1.21.10, Size 208x75x176 blocks
-  - Full bulk version for 1.21
-- [LS006_YAMS_V2.3_MB_1.21.litematic](attachments/LS006_YAMS_V2.3_MB_1.21.litematic): MC 1.21.10, Size 208x57x176 blocks
-  - Minibulk version for 1.21
+- [LS006_YAMS_V2.31_MB.zip](attachments/LS006_YAMS_V2.31_MB.zip): MC 1.21.11
+  - Minibulk version
+- [LS006_YAMS_V2.31_MB.litematic](attachments/LS006_YAMS_V2.31_MB.litematic): MC 1.21.11, Size 208x57x176 blocks
+  - Minibulk version
+- [LS006_YAMS_V2.31_FB.zip](attachments/LS006_YAMS_V2.31_FB.zip): MC 1.21.11
+  - Full bulk version
+- [LS006_YAMS_V2.31_FB.litematic](attachments/LS006_YAMS_V2.31_FB.litematic): MC 1.21.11, Size 208x75x176 blocks
+  - Full bulk version
