@@ -1,0 +1,138 @@
+{
+  "id": "1488140348567064617",
+  "name": "Simple 1x Mixed Loader",
+  "code": "ML011",
+  "reservedCodes": [
+    "ML011"
+  ],
+  "pastPostThreadIds": [
+    "1488200956154876055"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "444883614761746436",
+      "username": "camphorwood",
+      "displayName": "camphorwood",
+      "iconURL": "https://cdn.discordapp.com/avatars/444883614761746436/b846c71873bcae574d1550d0d2c78d42.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1386244750415233174",
+      "name": "1X Hopperspeed"
+    },
+    {
+      "id": "1465490666501963848",
+      "name": "Functional"
+    },
+    {
+      "id": "1386422917729882322",
+      "name": "Full Clearance"
+    }
+  ],
+  "images": [
+    {
+      "id": "1488140348831039600",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1488140348567064617/1488140348831039600/image.png?ex=69cbb233&is=69ca60b3&hm=888afaff0c0eb4748d69a2cd07af3d10b00e4936a876c59c39e3521817d139a0&",
+      "timestamp": 1774870707409,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "444883614761746436",
+        "username": "camphorwood",
+        "displayName": "camphorwood",
+        "iconURL": "https://cdn.discordapp.com/avatars/444883614761746436/b846c71873bcae574d1550d0d2c78d42.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 79968,
+      "canDownload": true,
+      "width": 942,
+      "height": 864,
+      "path": "images/image.png",
+      "hash": "8959b6592e778de873237e26bd51bae619157a33e9a34760631a6be984ab205e"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1488140349363847308",
+      "name": "ML011_1xmixed_simple.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1488140348567064617/1488140349363847308/1xmixed_simple.litematic?ex=69cbb233&is=69ca60b3&hm=53bac2459d54a248be4523349a62fd66b35348abc13a100c7bde276a875805fa&",
+      "timestamp": 1774870707409,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "444883614761746436",
+        "username": "camphorwood",
+        "displayName": "camphorwood",
+        "iconURL": "https://cdn.discordapp.com/avatars/444883614761746436/b846c71873bcae574d1550d0d2c78d42.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 941,
+      "canDownload": true,
+      "hash": "c146cddc6acef354388dd373e5558f282e37a353e0e5658a71e62191b75048f3",
+      "path": "attachments/ML011_1xmixed_simple.litematic",
+      "litematic": {
+        "size": "2x4x5",
+        "version": "1.21.1"
+      }
+    }
+  ],
+  "records": {
+    "description": "Small non-tileable loader that loads multiple item types at hopperspeed",
+    "features": [
+      "No buffer",
+      "Minimal reset time"
+    ],
+    "considerations": [
+      "Flashing dust"
+    ]
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopper speed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopperspeed"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1488200956154876055",
+    "forumId": "1375557473066418206",
+    "continuingMessageIds": [
+      "1488200966585974995"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1488200956154876055",
+    "uploadMessageId": "1488200953596219504",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1488200956154876055/1488200961598947509/image.png?ex=69cbeaa6&is=69ca9926&hm=5261b467718ef52c14edda4e8d732f0bd37407e62556b80520f0d407a450a09e&"
+  },
+  "archivedAt": 1774885154218,
+  "updatedAt": 1774885154218,
+  "num_comments": 0
+}
