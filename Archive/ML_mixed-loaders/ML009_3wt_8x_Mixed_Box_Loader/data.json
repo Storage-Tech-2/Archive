@@ -1,6 +1,6 @@
 {
   "id": "1468893063626625086",
-  "name": "[1.13+] 3wt 8x Mixed Box Loader",
+  "name": "3wt 8x Mixed Box Loader",
   "code": "ML009",
   "reservedCodes": [
     "ML009"
@@ -122,7 +122,7 @@
       "No ice blocks in the item stream, making it not that Nether friendly",
       "Can buffer items inside the droppers"
     ],
-    "notes": "For Minecraft 1.13 compatibility, use droppers instead of composters."
+    "compatibility": "1.13+. For Minecraft 1.13 compatibility, use droppers instead of composters."
   },
   "styles": {},
   "references": [
@@ -158,6 +158,6 @@
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1469044024110350601/1488157360101916773/image.png?ex=69cbc20b&is=69ca708b&hm=a922b8d7ae9431eea226a8da1f73a1c911af321c5ef0f3bcd5e366c7d36a27c4&"
   },
   "archivedAt": 1770317782688,
-  "updatedAt": 1774874760851,
+  "updatedAt": 1774878905354,
   "num_comments": 0
 }
