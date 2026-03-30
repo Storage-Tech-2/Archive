@@ -24,4 +24,3 @@ Loads single or mixed item types into shulker boxes at 8x hopper speed (approxim
 ## Resources
 - [ML009_3wt8xmixed_local_v2_tiledexample.litematic](attachments/ML009_3wt8xmixed_local_v2_tiledexample.litematic): MC 1.21.1, Size 5x7x16 blocks
 - [ML009_3wt8xmixed_local_v2.litematic](attachments/ML009_3wt8xmixed_local_v2.litematic): MC 1.21.1, Size 5x7x3 blocks
-  - there was stuff in the hoppers i didnt clean oops

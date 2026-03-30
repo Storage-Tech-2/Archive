@@ -99,7 +99,7 @@
         "iconURL": "https://cdn.discordapp.com/avatars/444883614761746436/b846c71873bcae574d1550d0d2c78d42.webp"
       },
       "source": "MessageAttachment",
-      "description": "there was stuff in the hoppers i didnt clean oops",
+      "description": "",
       "size": 1278,
       "canDownload": true,
       "hash": "0ea93f7f991115e321af30e64f065d99d831d9794ef3edfe987ae87915cd1452",
@@ -158,6 +158,6 @@
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1469044024110350601/1488157360101916773/image.png?ex=69cbc20b&is=69ca708b&hm=a922b8d7ae9431eea226a8da1f73a1c911af321c5ef0f3bcd5e366c7d36a27c4&"
   },
   "archivedAt": 1770317782688,
-  "updatedAt": 1774878905354,
+  "updatedAt": 1774882843727,
   "num_comments": 0
 }
