@@ -20,7 +20,7 @@ Bufferless 1wABt 1x Box Unloader
 ## Considerations
 - Empty box collection has to be global.
 ## Notes
-Compared to [BU010 1wt Full-Featured Box Unloader](https://discord.com/channels/1375556143186837695/1401249609904554225), this unloader buffers less boxes in the input and had global output
+Compared to [BU010 1wt Full-Featured Box Unloader](https://discord.com/channels/1375556143186837695/1401249609904554225), this unloader buffers less boxes in the input and has global box output
 ## Compatibility
 [1.14+]
 

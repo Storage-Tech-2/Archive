@@ -121,7 +121,7 @@
     "considerations": [
       "Empty box collection has to be global."
     ],
-    "notes": "Compared to BU010, this unloader buffers less boxes in the input and had global output",
+    "notes": "Compared to BU010, this unloader buffers less boxes in the input and has global box output",
     "compatibility": "[1.14+]"
   },
   "styles": {},
@@ -192,15 +192,6 @@
       "matches": [
         "BU010"
       ]
-    },
-    {
-      "type": "dictionaryTerm",
-      "term": "Global Output",
-      "id": "1454753641226305589",
-      "url": "https://discord.com/channels/1375556143186837695/1454753641226305589/1454753642233204868",
-      "matches": [
-        "global output"
-      ]
     }
   ],
   "author_references": [],
@@ -215,6 +206,6 @@
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1488589355634262147/1488589359757131797/image.png?ex=69cd5460&is=69cc02e0&hm=d626281544b9e251d5e60e04bc3d8922241fd638f515b5260cfccb0db836487d&"
   },
   "archivedAt": 1774977751201,
-  "updatedAt": 1774977751201,
+  "updatedAt": 1774977893273,
   "num_comments": 0
 }
