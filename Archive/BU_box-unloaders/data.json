@@ -4,7 +4,7 @@
   "code": "BU",
   "category": "Box Loaders & Unloaders",
   "description": "Box unloaders",
-  "currentCodeId": 11,
+  "currentCodeId": 12,
   "entries": [
     {
       "id": "1386456499231916093",
@@ -55,6 +55,11 @@
       "id": "1451103879298285712",
       "code": "BU011",
       "path": "BU011_Stream_Box_Yeeter"
+    },
+    {
+      "id": "1488500707635105923",
+      "code": "BU012",
+      "path": "BU012_1wt_1x_locked_input_box_unloader"
     }
   ]
 }
