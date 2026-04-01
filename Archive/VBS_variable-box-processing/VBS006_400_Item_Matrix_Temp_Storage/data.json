@@ -73,11 +73,11 @@
   ],
   "images": [
     {
-      "id": "1480307279709470862",
+      "id": "1488726224854323311",
       "name": "image.png",
       "contentType": "image/png",
-      "url": "https://cdn.discordapp.com/attachments/1480307278585270385/1480307279709470862/image.png?ex=69af3316&is=69ade196&hm=4ce6e9fc43ca128113f93c226cc186c4e40935aca2690b68a7ca40dd625cf9f7&",
-      "timestamp": 1773003157994,
+      "url": "https://cdn.discordapp.com/attachments/1480307278585270385/1488726224854323311/image.png?ex=69cdd3d7&is=69cc8257&hm=f51f2c8ab235dd8802493c4174850dd7466241357dda2d132084717697db3d66&",
+      "timestamp": 1775010391261,
       "author": {
         "type": "discord-in-guild",
         "id": "239078039831445504",
@@ -87,21 +87,21 @@
       },
       "source": "MessageAttachment",
       "description": "",
-      "size": 168149,
+      "size": 207730,
       "canDownload": true,
-      "width": 892,
-      "height": 683,
+      "width": 942,
+      "height": 744,
       "path": "images/image.png",
-      "hash": "81f0364db60e0342cfdcb70c71b5c0bb177479705f28af62e12f48080e82f9e0"
+      "hash": "c132104531d15b27b3433befbfd85568639a9b237b977ddeb47e8a1c8019a2aa"
     }
   ],
   "attachments": [
     {
-      "id": "1483960750405062736",
-      "name": "VBS006_matrix_temp_storage-r2.litematic",
+      "id": "1488725777804562584",
+      "name": "VBS006_matrix_temp_storage-r3.litematic",
       "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1480307278585270385/1483960750405062736/matrix_temp_storage.litematic?ex=69bc7da5&is=69bb2c25&hm=db54e9a1272e2955ca77ebad682590a57dac0124a2c6e14331a7ed8fd7bf8abe&",
-      "timestamp": 1773874213712,
+      "url": "https://cdn.discordapp.com/attachments/1480307278585270385/1488725777804562584/matrix_temp_storage-r3.litematic?ex=69cdd36c&is=69cc81ec&hm=9a7deeea1a5989707757ab92a5f711107888cd369f11020fd87aa63aa148809a&",
+      "timestamp": 1775010284619,
       "author": {
         "type": "discord-in-guild",
         "id": "239078039831445504",
@@ -111,10 +111,10 @@
       },
       "source": "MessageAttachment",
       "description": "",
-      "size": 8456,
+      "size": 7952,
       "canDownload": true,
-      "hash": "d76b6c23e705fed32ecb3e31439c5f383a0f8d738496d5370d4a70dd2756c9a9",
-      "path": "attachments/VBS006_matrix_temp_storage-r2.litematic",
+      "hash": "c08d709545c05c10ce72fc850aba8f8eed86dfbaa78c2f9486414bc95327f6ce",
+      "path": "attachments/VBS006_matrix_temp_storage-r3.litematic",
       "litematic": {
         "size": "19x15x15",
         "version": "1.21.4"
@@ -126,11 +126,11 @@
     "features": [
       "Up to 400 item types",
       "170gt fixed throughput for whitelisted input.",
-      "60gt fixed throughput for unwhitelisted input.",
+      "64gt fixed throughput for unwhitelisted input.",
       "Outputs unwhitelisted boxes separately.",
       "Fits in one chunk: 16x11x15"
     ],
-    "notes": "Because of how fast the unwhitelisted input throughput is (60gt), this device can be used as your main whitelister for bulk/chest hall, provided that you are okay with full boxes being in the temp. This is very rare anyways, so it may be an acceptable compromise.\n\nDesigned on [Soontech CMP](https://soontech.org)",
+    "notes": "Because of how fast the unwhitelisted input throughput is (64gt), this device can be used as your main whitelister for bulk/chest hall, provided that you are okay with full boxes being in the temp. This is very rare anyways, so it may be an acceptable compromise.\n\nDesigned on [Soontech CMP](https://soontech.org)",
     "compatibility": "1.21+",
     "instructions": [
       "Set up whitelister chests with the item types you want to have in the temp",
@@ -186,10 +186,10 @@
       "1480308129299300424"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1480308116716257483",
-    "uploadMessageId": "1483960920366645390",
-    "thumbnailURL": "https://cdn.discordapp.com/attachments/1480308116716257483/1480308123238535178/image.png?ex=69b27f9f&is=69b12e1f&hm=55b7074f176198cfbc8f388a29fc6b1fd8871382a84a2c753aaf6a7675462989&"
+    "uploadMessageId": "1488726539314004088",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1480308116716257483/1488726547270733954/image.png?ex=69cdd424&is=69cc82a4&hm=89196fcdaebfe6a6ccf2fddc4e9041a12e997667304ef14a3dc091664ed0e563&"
   },
   "archivedAt": 1773003351086,
-  "updatedAt": 1773874253143,
+  "updatedAt": 1775010464713,
   "num_comments": 0
 }

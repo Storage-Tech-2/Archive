@@ -13,11 +13,11 @@ Uses two whitelisters in a grid layout to store up to 400 partial boxes in 40 in
 ## Features
 - Up to 400 item types
 - 170gt fixed throughput for whitelisted input.
-- 60gt fixed throughput for unwhitelisted input.
+- 64gt fixed throughput for unwhitelisted input.
 - Outputs unwhitelisted boxes separately.
 - Fits in one chunk: 16x11x15
 ## Notes
-Because of how fast the unwhitelisted input throughput is (60gt), this device can be used as your main whitelister for bulk/chest hall, provided that you are okay with full boxes being in the temp. This is very rare anyways, so it may be an acceptable compromise.
+Because of how fast the unwhitelisted input throughput is (64gt), this device can be used as your main whitelister for bulk/chest hall, provided that you are okay with full boxes being in the temp. This is very rare anyways, so it may be an acceptable compromise.
 
 Designed on [Soontech CMP](https://soontech.org)
 ## Compatibility
@@ -28,4 +28,4 @@ Designed on [Soontech CMP](https://soontech.org)
 3. If unwhitelisted box, then it will be output out on one side. If whitelisted, it will output pairs on the other side.
 
 ## Resources
-- [VBS006_matrix_temp_storage-r2.litematic](attachments/VBS006_matrix_temp_storage-r2.litematic): MC 1.21.4, Size 19x15x15 blocks
+- [VBS006_matrix_temp_storage-r3.litematic](attachments/VBS006_matrix_temp_storage-r3.litematic): MC 1.21.4, Size 19x15x15 blocks
