@@ -1,7 +1,7 @@
 # Shulker Box Matcher
 <img alt="8gt_2wt_box_blacklister_render.png" src="images/8gt_2wt_box_blacklister_render.png?raw=1">
 
-**Authors:** *RaPsCaLLioN1138, Glotz, Christone*
+**Authors:** *RaPsCaLLioN1138, Glotz, HappyWater*
 
 **Endorsed by:** *Andrews54757*
 

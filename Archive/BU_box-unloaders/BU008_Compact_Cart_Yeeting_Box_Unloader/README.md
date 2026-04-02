@@ -1,9 +1,9 @@
 # Compact Cart Yeeting Box Unloader
 <img alt="area_render_158_.png" src="images/area_render_158_.png?raw=1">
 
-**Authors:** *Christone, Caribous, Math Dragon*
+**Authors:** *HappyWater, Caribous, Math Dragon*
 
-**Endorsed by:** *Christone*
+**Endorsed by:** *HappyWater*
 
 **Tags:** *Functional, Cart Yeet, Recommended*
 

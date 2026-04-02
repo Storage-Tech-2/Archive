@@ -1,7 +1,7 @@
 # 1wt Full-Featured Box Unloader
 <img alt="area_render_106_.png" src="images/area_render_106_.png?raw=1" height="300px">
 
-**Authors:** *Christone*
+**Authors:** *HappyWater*
 
 **Endorsed by:** *Andrews54757*
 
