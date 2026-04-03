@@ -1,7 +1,7 @@
 # Simple Slot-Reservation MIS
 <img alt="area_render_8_.png" src="images/area_render_8_.png?raw=1" height="300px">
 
-**Authors:** *OmLedu, HappyWater*
+**Authors:** *OmLedu, Christone*
 
 **Endorsed by:** *Andrews54757*
 

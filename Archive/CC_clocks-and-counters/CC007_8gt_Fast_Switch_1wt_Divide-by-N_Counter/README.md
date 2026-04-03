@@ -1,7 +1,7 @@
 # 8gt Fast Switch 1wt Divide-by-N Counter
 <img alt="area_render_18_.png" src="images/area_render_18_.png?raw=1" height="300px">
 
-**Authors:** *HappyWater*
+**Authors:** *Christone*
 
 **Endorsed by:** *Andrews54757*
 
