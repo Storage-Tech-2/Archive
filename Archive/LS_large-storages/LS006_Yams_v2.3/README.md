@@ -21,11 +21,15 @@
 [1.20+]
 
 ## Resources
-- [LS006_YAMS_V2.31_MB.zip](attachments/LS006_YAMS_V2.31_MB.zip): MC 1.21.11
-  - Minibulk version
-- [LS006_YAMS_V2.31_MB.litematic](attachments/LS006_YAMS_V2.31_MB.litematic): MC 1.21.11, Size 208x57x176 blocks
-  - Minibulk version
-- [LS006_YAMS_V2.31_FB.zip](attachments/LS006_YAMS_V2.31_FB.zip): MC 1.21.11
+- [LS006_YAMS_V2.31_FB_Bugfixed.litematic](attachments/LS006_YAMS_V2.31_FB_Bugfixed.litematic): MC 1.21.11, Size 208x75x176 blocks
   - Full bulk version
-- [LS006_YAMS_V2.31_FB.litematic](attachments/LS006_YAMS_V2.31_FB.litematic): MC 1.21.11, Size 208x75x176 blocks
-  - Full bulk version
+- [LS006_YAMS_V2.31_FB_Bugfixed.zip](attachments/LS006_YAMS_V2.31_FB_Bugfixed.zip): MC 1.21.11
+  - Full bulk version WDL
+- [LS006_YAMS_V2.31_MB_Bugfixed.litematic](attachments/LS006_YAMS_V2.31_MB_Bugfixed.litematic): MC 1.21.11, Size 208x57x176 blocks
+  - Minibulk version
+- [LS006_YAMS_V2.31_MB_Bugfixed.zip](attachments/LS006_YAMS_V2.31_MB_Bugfixed.zip): MC 1.21.11
+  - Minibulk version WDL
+- [LS006_Yams_Item_Layout.litematic](attachments/LS006_Yams_Item_Layout.litematic): MC 1.21.10, Size 101x39x136 blocks
+  - Item layout
+- [LS006_YAMS_Nether_Side.litematic](attachments/LS006_YAMS_Nether_Side.litematic): MC 1.21.10, Size 17x43x12 blocks
+  - Nether side chunkloaders
