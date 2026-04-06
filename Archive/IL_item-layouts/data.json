@@ -2,8 +2,14 @@
   "id": "1388599490898038945",
   "name": "item-layouts",
   "code": "IL",
+  "category": "Other Resources",
   "description": "Item layouts for storage systems",
-  "currentCodeId": 0,
-  "entries": [],
-  "category": "Other Resources"
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1490531722171912232",
+      "code": "IL001",
+      "path": "IL001_Item_Layout_Tool"
+    }
+  ]
 }

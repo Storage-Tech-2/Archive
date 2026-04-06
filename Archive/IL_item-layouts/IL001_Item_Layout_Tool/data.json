@@ -1,0 +1,134 @@
+{
+  "id": "1490531722171912232",
+  "name": "Item Layout Tool",
+  "code": "IL001",
+  "reservedCodes": [
+    "IL001"
+  ],
+  "pastPostThreadIds": [
+    "1490533565300215838"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465487892846481485",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1490532303066370098",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1490531722171912232/1490532303066370098/image.png?ex=69d465e1&is=69d31461&hm=668e439271cc8cc4db1718c73a9fac6aa1b4af0223623c5bee505ba9fca2e705&",
+      "timestamp": 1775440993881,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 155928,
+      "canDownload": true,
+      "width": 1200,
+      "height": 666,
+      "path": "images/image.png",
+      "hash": "67e56add18e3f153377407c600964d95953b4d04c2d03e6baac48340eeb5ad14"
+    }
+  ],
+  "attachments": [],
+  "records": {
+    "description": "A useful web app for designing storage system item layouts.\n\nhttps://layout.storagecatalog.org/\n\nIn the past, to design a layout, you had to place down all the items/blocks in the game into a world and move them one by one to a storage mockup. Now, with the layout tool, you can drag+drop items into a 2D mockup in your browser, and then export it to your world directly with a schematic.",
+    "usage-guide": "1. Set a layout in the \"Layout Options\" dropdown. You can select a variety of preset configurations like cross shape, H-shape, octa hall, and more. Let me know if you need a layout not listed there and I will add it.\n2. You can configure each hall to change how long they are, how many chests you have in each slice, and what type they are (bulk, chest hall, and MIS). You can add multiple sections as well for organization. Names of halls/sections are changeable by clicking on them.\n3. Drag and drop items from the item library (on the right) to the mockup to build your layout. If you prefer, you can also right click on an item to place it where the highlighted cursor. Shift+click and drag to select multiple items in the mockup and the item layout, you can drag them simultaneously.\n4. After you finish, click the export button to save the layout to a schematic, you can then use the [Litematica mod](https://modrinth.com/mod/litematica) to paste the schematic into your world (see TT006)",
+    "notes": "It's fully functional but is still a work in progress. I will add custom item groupings, and ability to change Minecraft versions (currently 1.21.11 items) in the near future. Let me know if you have any suggestions!"
+  },
+  "styles": {
+    "usage-guide": {
+      "depth": 2,
+      "headerText": "Usage guide"
+    }
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Schematic",
+      "id": "1454811558009110704",
+      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
+      "matches": [
+        "schematic"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Chest Hall",
+      "id": "1454753529700024331",
+      "url": "https://discord.com/channels/1375556143186837695/1454753529700024331/1454753530488426527",
+      "matches": [
+        "chest hall"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Multi Item Sorter",
+      "id": "1454753725091676293",
+      "url": "https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954",
+      "matches": [
+        "MIS"
+      ]
+    },
+    {
+      "type": "archivedPost",
+      "id": "1464101692890021959",
+      "code": "TT006",
+      "name": "How to use Litematica",
+      "url": "https://discord.com/channels/1375556143186837695/1464102124097900585",
+      "path": "Archive/TT_tricks-and-tips/TT006_How_to_use_Litematica",
+      "matches": [
+        "TT006"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1490533565300215838",
+    "forumId": "1388599490898038945",
+    "continuingMessageIds": [
+      "1490533573059678269"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1490533565300215838",
+    "uploadMessageId": "",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1490533565300215838/1490533568974295091/image.png?ex=69d4670f&is=69d3158f&hm=605fde78bfeb090c72a2ccc20394ed9d0e792e7a9926a42d8c452112987977f6&"
+  },
+  "archivedAt": 1775441290607,
+  "updatedAt": 1775441290607,
+  "num_comments": 0
+}
