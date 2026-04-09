@@ -124,6 +124,15 @@
     },
     {
       "type": "dictionaryTerm",
+      "term": "A/B Tiling",
+      "id": "1454753732293033984",
+      "url": "https://discord.com/channels/1375556143186837695/1454753732293033984/1454753733035687988",
+      "matches": [
+        "AB-tileable"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
       "term": "Slice",
       "id": "1454754736224997386",
       "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
