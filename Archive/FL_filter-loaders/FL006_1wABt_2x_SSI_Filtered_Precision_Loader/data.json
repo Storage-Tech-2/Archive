@@ -1,0 +1,167 @@
+{
+  "id": "1491820470071459850",
+  "name": "1wABt 2x SSI Filtered Precision Loader",
+  "code": "FL006",
+  "reservedCodes": [
+    "FL006"
+  ],
+  "pastPostThreadIds": [
+    "1491821075825430579"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "656864003242328064",
+      "username": "acaciachan",
+      "displayName": "金合欢酱喵~ (acaciachan)",
+      "iconURL": "https://cdn.discordapp.com/avatars/656864003242328064/65e1c203d9ea0af6509f0754122b45a2.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465490555277541591",
+      "name": "Functional"
+    },
+    {
+      "id": "1386096904131186870",
+      "name": "Slice Preserving"
+    },
+    {
+      "id": "1491820642910208040",
+      "name": "2X Hopperspeed"
+    }
+  ],
+  "images": [
+    {
+      "id": "1491820470679502858",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1491820470071459850/1491820470679502858/image.png?ex=69d91594&is=69d7c414&hm=93efe9e26f0fbd3cff39d369da5e1efe978860d784e57926d67ce5221eb38bd4&",
+      "timestamp": 1775748116749,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 21233,
+      "canDownload": true,
+      "width": 450,
+      "height": 590,
+      "path": "images/image.png",
+      "hash": "a5b6711e2124f807d695b552104227704a86ad7af200706e8dbcbb2a06880460"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1491820471094612039",
+      "name": "FL006_1wabt_2x_SSI_filtered_precision_loader.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1491820470071459850/1491820471094612039/1wabt_2x_SSI_filtered_precision_loader.litematic?ex=69d91594&is=69d7c414&hm=9e27ad2d25183eabe77a4af3ba0210af474646fd97b384a46f3adef0380d3e40&",
+      "timestamp": 1775748116749,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1661,
+      "canDownload": true,
+      "hash": "f150b74a5ca858d382a6f6372a6f6f71bbeb8c60dbf2fe6854a4bbc8c3982918",
+      "path": "attachments/FL006_1wabt_2x_SSI_filtered_precision_loader.litematic",
+      "litematic": {
+        "size": "2x12x9",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Filters and loads items into boxes at 2x hopperspeed. This design is 1 wide AB-tileable, and uses precision box breaking to ensure that output is slice-preserving, meaning that boxes from one slice will not be output at a neighboring slice.",
+    "features": [
+      "1 wide AB-tileable design",
+      "2x hopperspeed loading",
+      "Uses precision box breaking for slice preservation",
+      "SSI filters with minimal prefill required"
+    ],
+    "considerations": [
+      "Items can accumulate in the clocked dropper over time"
+    ]
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Dropper speed",
+      "id": "1454753562033651876",
+      "url": "https://discord.com/channels/1375556143186837695/1454753562033651876/1454753563258519584",
+      "matches": [
+        "2x"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopper speed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopperspeed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice Preservation",
+      "id": "1454754741694365787",
+      "url": "https://discord.com/channels/1375556143186837695/1454754741694365787/1454754742784884902",
+      "matches": [
+        "slice preservation"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Signal Strength Isolated",
+      "id": "1455820021581217843",
+      "url": "https://discord.com/channels/1375556143186837695/1455820021581217843/1455820022256500874",
+      "matches": [
+        "SSI"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1491821075825430579",
+    "forumId": "1375556999257002185",
+    "continuingMessageIds": [
+      "1491821086546067617"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1491821075825430579",
+    "uploadMessageId": "1491821073925148752",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1491821075825430579/1491821080833298482/image.png?ex=69d91626&is=69d7c4a6&hm=bb904189c8102249058c35943d4c9ca4d480f00be54ef54a3a238092d65b62f5&"
+  },
+  "archivedAt": 1775748255217,
+  "updatedAt": 1775748255217,
+  "num_comments": 0
+}
