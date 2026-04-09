@@ -363,12 +363,13 @@
       "terms": [
         "A/B Tiling",
         "AB tileable",
+        "AB-tileable",
         "1wABt",
         "2wABt",
         "nwABt"
       ],
       "summary": "An extension of n-Wide tileable, but where a solution has been provided by the author on how to put 2 Slices(Slice) of the same system next to each other, by moving/editing some components within t...",
-      "updatedAt": 1767165926320
+      "updatedAt": 1775748669922
     },
     {
       "id": "1454753738425368687",
