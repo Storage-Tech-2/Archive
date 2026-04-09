@@ -3,6 +3,7 @@
   "terms": [
     "A/B Tiling",
     "AB tileable",
+    "AB-tileable",
     "1wABt",
     "2wABt",
     "nwABt"
@@ -12,7 +13,7 @@
   "statusURL": "https://discord.com/channels/1375556143186837695/1454753732293033984/1454753733035687988",
   "status": "APPROVED",
   "statusMessageID": "1454753733035687988",
-  "updatedAt": 1767165926320,
+  "updatedAt": 1775748669922,
   "references": [
     {
       "type": "dictionaryTerm",
