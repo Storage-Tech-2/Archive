@@ -958,6 +958,14 @@
       ],
       "summary": "A concept used developed by PallaPalla to use the passive readouts from a chest hall to allow for loading with items until it reaches a certain signal stregth before then loading it full of boxes",
       "updatedAt": 1772483101059
+    },
+    {
+      "id": "1493155354039681224",
+      "terms": [
+        "Input handler"
+      ],
+      "summary": "An input handler is an item pre-processing device which attaches to user input interfaces in main storage systems. Because the user can input anything, a robust input handler must be capable of pre...",
+      "updatedAt": 1776066383468
     }
   ]
 }
