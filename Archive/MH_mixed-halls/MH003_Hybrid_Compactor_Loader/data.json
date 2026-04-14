@@ -1,12 +1,14 @@
 {
   "id": "1493443736829427973",
   "name": "Hybrid Compactor Loader",
-  "code": "OL007",
+  "code": "MH003",
   "reservedCodes": [
-    "OL007"
+    "OL007",
+    "MH003"
   ],
   "pastPostThreadIds": [
-    "1493445316136009728"
+    "1493445316136009728",
+    "1493450360906580028"
   ],
   "authors": [
     {
@@ -49,8 +51,8 @@
   ],
   "tags": [
     {
-      "id": "1465490739759681724",
-      "name": "Functional"
+      "name": "Functional",
+      "id": "1465491362165035102"
     }
   ],
   "images": [
@@ -80,7 +82,7 @@
   "attachments": [
     {
       "id": "1493444568132227232",
-      "name": "OL007_Hybrid.Compactor.Loader.UI.Side_Filter.litematic",
+      "name": "MH003_Hybrid.Compactor.Loader.UI.Side_Filter.litematic",
       "url": "https://cdn.discordapp.com/attachments/1493443736829427973/1493444568132227232/Hybrid.Compactor.Loader.UI.Side_Filter.litematic?ex=69defe23&is=69ddaca3&hm=0a8dda6aedcf81fcf163ce52290e99947a7f0bf1f6e35339a2e7bf4a8fb23208&",
       "timestamp": 1776135331076,
       "author": {
@@ -94,7 +96,7 @@
       "contentType": "unknown",
       "canDownload": true,
       "hash": "cb55cc30a10598f4943fb7811211e8c21f707fb357429f10b7a06cc85e00c796",
-      "path": "attachments/OL007_Hybrid.Compactor.Loader.UI.Side_Filter.litematic",
+      "path": "attachments/MH003_Hybrid.Compactor.Loader.UI.Side_Filter.litematic",
       "size": 2106,
       "litematic": {
         "size": "10x11x1",
@@ -103,7 +105,7 @@
     },
     {
       "id": "1493444620007375001",
-      "name": "OL007_Hybrid.Compactor.Loader.UI.Top_Filter.litematic",
+      "name": "MH003_Hybrid.Compactor.Loader.UI.Top_Filter.litematic",
       "url": "https://cdn.discordapp.com/attachments/1493443736829427973/1493444620007375001/Hybrid.Compactor.Loader.UI.Top_Filter.litematic?ex=69defe30&is=69ddacb0&hm=5cd4c540793f64d4c08046a2407a040f8464d3c05eb713ed57ab937347852455&",
       "timestamp": 1776135343552,
       "author": {
@@ -117,7 +119,7 @@
       "contentType": "unknown",
       "canDownload": true,
       "hash": "db80b0433d80a284af1d277b8c7efb7964fd400a8dd301a598a5b6fb99174867",
-      "path": "attachments/OL007_Hybrid.Compactor.Loader.UI.Top_Filter.litematic",
+      "path": "attachments/MH003_Hybrid.Compactor.Loader.UI.Top_Filter.litematic",
       "size": 2119,
       "litematic": {
         "size": "7x14x1",
@@ -126,16 +128,27 @@
     }
   ],
   "records": {
-    "description": "A device which takes as input a compactable, and displays it in three forms. the top chest holds the compactable, the middle holds the compacted form, and the final holds full boxes of the compacted form. meant to take input from small hopper speed farms around a main storage(not necessarily a recommended practice).",
+    "description": "A hall slice which takes as input compactable items and displays it in three forms. The top chest holds the compactable (eg iron ingots), the middle holds the compacted form (eg iron blocks), and the final holds full boxes of the compacted form (eg boxes of iron blocks). meant to take input from small hopper speed farms around a main storage (not necessarily a recommended practice).",
     "features": [
-      "works at hopper speed\n-1wt, and fairly compact(7x14)"
+      "works at hopper speed",
+      "1wt, and fairly compact (7x14)"
     ],
     "considerations": [
       "If two slices trigger box breaking with incredibly close timings(within 4gt) a full box can be mistakenly sent to overflow"
-    ]
+    ],
+    "compatibility": "1.21+"
   },
   "styles": {},
   "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
     {
       "type": "dictionaryTerm",
       "term": "Hopper speed",
@@ -156,15 +169,6 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "Slice",
-      "id": "1454754736224997386",
-      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
-      "matches": [
-        "slice"
-      ]
-    },
-    {
-      "type": "dictionaryTerm",
       "term": "Gametick",
       "id": "1454753634435858666",
       "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
@@ -175,16 +179,16 @@
   ],
   "author_references": [],
   "post": {
-    "threadId": "1493445316136009728",
-    "forumId": "1375557962675912865",
+    "threadId": "1493450360906580028",
+    "forumId": "1375563506765664388",
     "continuingMessageIds": [
-      "1493445325124272138"
+      "1493450370590966031"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1493445316136009728",
-    "uploadMessageId": "1493445314324201633",
-    "thumbnailURL": "https://cdn.discordapp.com/attachments/1493445316136009728/1493445320410005554/image.png?ex=69defed7&is=69ddad57&hm=201eeb3a36314fbf8c8157de97b3cee1de77467b75cc69d1e547638eac2ef816&"
+    "threadURL": "https://discord.com/channels/1375556143186837695/1493450360906580028",
+    "uploadMessageId": "1493450357584691293",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1493450360906580028/1493450364916076734/image.png?ex=69df0389&is=69ddb209&hm=3b554cc93e21f7da316d34b1786ad6e56a5ee85c2f7efd0a134dfdc73fb352a4&"
   },
   "archivedAt": 1776135505133,
-  "updatedAt": 1776135505133,
+  "updatedAt": 1776136708919,
   "num_comments": 0
 }
