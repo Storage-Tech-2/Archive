@@ -1,0 +1,190 @@
+{
+  "id": "1493443736829427973",
+  "name": "Hybrid Compactor Loader",
+  "code": "OL007",
+  "reservedCodes": [
+    "OL007"
+  ],
+  "pastPostThreadIds": [
+    "1493445316136009728"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "384084307712409600",
+      "username": "tisunfortunate",
+      "displayName": "TisUnfortunate",
+      "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/0de5630a1bd3ad4fb3e24f5ba40958e1.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "909697371473084506",
+      "username": "wisperingtoyou",
+      "displayName": "Hi!?",
+      "iconURL": "https://cdn.discordapp.com/avatars/909697371473084506/548688783b44556959a493683a4e71f2.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "688456529338433611",
+      "username": "glidingmonkey",
+      "displayName": "Christone",
+      "iconURL": "https://cdn.discordapp.com/avatars/688456529338433611/348a34add443a5a71237111010e484b1.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "460316892976906261",
+      "username": "ragdollwilly",
+      "displayName": "Ragdoll Willy",
+      "iconURL": "https://cdn.discordapp.com/avatars/460316892976906261/a0332117bf4e609a1ead4417ae4357b4.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "384084307712409600",
+      "username": "tisunfortunate",
+      "displayName": "TisUnfortunate",
+      "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/0de5630a1bd3ad4fb3e24f5ba40958e1.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465490739759681724",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1493443737005592677",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1493443736829427973/1493443737005592677/image.png?ex=69defd5d&is=69ddabdd&hm=be1fce1e748d847235ddf8c2fe9cc8e0f1823da30c002bdca2978db137115106&",
+      "timestamp": 1776135133703,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "384084307712409600",
+        "username": "tisunfortunate",
+        "displayName": "TisUnfortunate",
+        "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/0de5630a1bd3ad4fb3e24f5ba40958e1.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 19430,
+      "canDownload": true,
+      "width": 476,
+      "height": 954,
+      "path": "images/image.png",
+      "hash": "ff4f015662b2a14ef33ea464f0992d0a8ca0868e57428a0c7954c3e191b314c9"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1493444568132227232",
+      "name": "OL007_Hybrid.Compactor.Loader.UI.Side_Filter.litematic",
+      "url": "https://cdn.discordapp.com/attachments/1493443736829427973/1493444568132227232/Hybrid.Compactor.Loader.UI.Side_Filter.litematic?ex=69defe23&is=69ddaca3&hm=0a8dda6aedcf81fcf163ce52290e99947a7f0bf1f6e35339a2e7bf4a8fb23208&",
+      "timestamp": 1776135331076,
+      "author": {
+        "type": "discord-external",
+        "id": "384084307712409600",
+        "username": "tisunfortunate",
+        "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/0de5630a1bd3ad4fb3e24f5ba40958e1.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "cb55cc30a10598f4943fb7811211e8c21f707fb357429f10b7a06cc85e00c796",
+      "path": "attachments/OL007_Hybrid.Compactor.Loader.UI.Side_Filter.litematic",
+      "size": 2106,
+      "litematic": {
+        "size": "10x11x1",
+        "version": "1.21.4"
+      }
+    },
+    {
+      "id": "1493444620007375001",
+      "name": "OL007_Hybrid.Compactor.Loader.UI.Top_Filter.litematic",
+      "url": "https://cdn.discordapp.com/attachments/1493443736829427973/1493444620007375001/Hybrid.Compactor.Loader.UI.Top_Filter.litematic?ex=69defe30&is=69ddacb0&hm=5cd4c540793f64d4c08046a2407a040f8464d3c05eb713ed57ab937347852455&",
+      "timestamp": 1776135343552,
+      "author": {
+        "type": "discord-external",
+        "id": "384084307712409600",
+        "username": "tisunfortunate",
+        "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/0de5630a1bd3ad4fb3e24f5ba40958e1.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "db80b0433d80a284af1d277b8c7efb7964fd400a8dd301a598a5b6fb99174867",
+      "path": "attachments/OL007_Hybrid.Compactor.Loader.UI.Top_Filter.litematic",
+      "size": 2119,
+      "litematic": {
+        "size": "7x14x1",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A device which takes as input a compactable, and displays it in three forms. the top chest holds the compactable, the middle holds the compacted form, and the final holds full boxes of the compacted form. meant to take input from small hopper speed farms around a main storage(not necessarily a recommended practice).",
+    "features": [
+      "works at hopper speed\n-1wt, and fairly compact(7x14)"
+    ],
+    "considerations": [
+      "If two slices trigger box breaking with incredibly close timings(within 4gt) a full box can be mistakenly sent to overflow"
+    ]
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopper speed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopper speed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "n-Wide tileable",
+      "id": "1454753738425368687",
+      "url": "https://discord.com/channels/1375556143186837695/1454753738425368687/1454753741785010208",
+      "matches": [
+        "1wt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Gametick",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1493445316136009728",
+    "forumId": "1375557962675912865",
+    "continuingMessageIds": [
+      "1493445325124272138"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1493445316136009728",
+    "uploadMessageId": "1493445314324201633",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1493445316136009728/1493445320410005554/image.png?ex=69defed7&is=69ddad57&hm=201eeb3a36314fbf8c8157de97b3cee1de77467b75cc69d1e547638eac2ef816&"
+  },
+  "archivedAt": 1776135505133,
+  "updatedAt": 1776135505133,
+  "num_comments": 0
+}
