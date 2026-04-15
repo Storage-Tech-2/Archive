@@ -42,11 +42,11 @@
   ],
   "images": [
     {
-      "id": "1491822061444927619",
+      "id": "1493799881385705612",
       "name": "image.png",
       "contentType": "image/png",
-      "url": "https://cdn.discordapp.com/attachments/1491820470071459850/1491822061444927619/image.png?ex=69d91710&is=69d7c590&hm=a2b0035e344fb068ee4eeddaa92bbaa60e1f6d361888dc2f1f520af0aaab9a72&",
-      "timestamp": 1775748496251,
+      "url": "https://cdn.discordapp.com/attachments/1491820470071459850/1493799881385705612/image.png?ex=69e0490d&is=69def78d&hm=22d5a726f46a4b63fc24a17298eb4d58474e0c9a18c11bf7c4d99d6281d0f1f0&",
+      "timestamp": 1776220045160,
       "author": {
         "type": "discord-in-guild",
         "id": "239078039831445504",
@@ -56,21 +56,21 @@
       },
       "source": "MessageAttachment",
       "description": "",
-      "size": 20705,
+      "size": 30996,
       "canDownload": true,
-      "width": 450,
-      "height": 590,
+      "width": 670,
+      "height": 811,
       "path": "images/image.png",
-      "hash": "b6410eb36314950801c8695de6db32bff7c8ed859604dcc411db4abb81eddbc5"
+      "hash": "96ef85b297c78c6851e1554ff0869550bc2a50f18a26cf2f362073671ceca146"
     }
   ],
   "attachments": [
     {
-      "id": "1491822060996132864",
-      "name": "FL006_1wABt_2x_SSI_filtered_precision_loader.litematic",
+      "id": "1493800033609449513",
+      "name": "FL006_1wABt_2x_SSI_filtered_precision_loader_fixed.litematic",
       "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1491820470071459850/1491822060996132864/1wABt_2x_SSI_filtered_precision_loader.litematic?ex=69d91710&is=69d7c590&hm=d880b3491797bfe4fd4d2b48c5bac49d156b6d6238c67db1e1e6452d7ec2fc19&",
-      "timestamp": 1775748496251,
+      "url": "https://cdn.discordapp.com/attachments/1491820470071459850/1493800033609449513/1wABt_2x_SSI_filtered_precision_loader_fixed.litematic?ex=69e04931&is=69def7b1&hm=e596a2a3a22b50c51f55324370320a10bcfa124237a1f7df1af5341cbb4ade92&",
+      "timestamp": 1776220081589,
       "author": {
         "type": "discord-in-guild",
         "id": "239078039831445504",
@@ -80,12 +80,12 @@
       },
       "source": "MessageAttachment",
       "description": "",
-      "size": 1672,
+      "size": 1671,
       "canDownload": true,
-      "hash": "334b251187463410770c83fd2db2d4a3ad7baf5cfeb24266d7bf46efc2210c69",
-      "path": "attachments/FL006_1wABt_2x_SSI_filtered_precision_loader.litematic",
+      "hash": "e8bdcce4baff9992574168e14c5cea3fb945820ff3c5344dfffe1b4d1a241e82",
+      "path": "attachments/FL006_1wABt_2x_SSI_filtered_precision_loader_fixed.litematic",
       "litematic": {
-        "size": "2x12x9",
+        "size": "2x11x9",
         "version": "1.21.4"
       }
     }
@@ -167,10 +167,10 @@
       "1491821086546067617"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1491821075825430579",
-    "uploadMessageId": "1491822166109327470",
-    "thumbnailURL": "https://cdn.discordapp.com/attachments/1491821075825430579/1491822171436351538/image.png?ex=69d9172a&is=69d7c5aa&hm=a1ac352b190e836c6b5165753963079a61985aab8bb68520df5d95e5c67810ba&"
+    "uploadMessageId": "1493800276224770208",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1491821075825430579/1493800313168072795/image.png?ex=69e04974&is=69def7f4&hm=9957bc4f83d7b2cd21f2df546c1b9cbe61741faf669c97a494db32fee7631650&"
   },
   "archivedAt": 1775748255217,
-  "updatedAt": 1775748520534,
+  "updatedAt": 1776220136564,
   "num_comments": 0
 }

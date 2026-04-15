@@ -19,4 +19,4 @@ Filters and loads items into boxes at 2x hopperspeed. This design is 1 wide AB-t
 - Items can accumulate in the clocked dropper over time
 
 ## Resources
-- [FL006_1wABt_2x_SSI_filtered_precision_loader.litematic](attachments/FL006_1wABt_2x_SSI_filtered_precision_loader.litematic): MC 1.21.4, Size 2x12x9 blocks
+- [FL006_1wABt_2x_SSI_filtered_precision_loader_fixed.litematic](attachments/FL006_1wABt_2x_SSI_filtered_precision_loader_fixed.litematic): MC 1.21.4, Size 2x11x9 blocks
