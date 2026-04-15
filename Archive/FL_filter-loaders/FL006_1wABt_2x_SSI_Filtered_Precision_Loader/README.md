@@ -1,5 +1,5 @@
 # 1wABt 2x SSI Filtered Precision Loader
-<img alt="image.png" src="images/image.png?raw=1" height="300px">
+<img alt="area_render_215_.png" src="images/area_render_215_.png?raw=1" height="300px">
 
 **Authors:** *金合欢酱喵~ (acaciachan)*
 
@@ -19,4 +19,4 @@ Filters and loads items into boxes at 2x hopperspeed. This design is 1 wide AB-t
 - Items can accumulate in the clocked dropper over time
 
 ## Resources
-- [FL006_1wABt_2x_SSI_filtered_precision_loader_fixed.litematic](attachments/FL006_1wABt_2x_SSI_filtered_precision_loader_fixed.litematic): MC 1.21.4, Size 2x11x9 blocks
+- [FL006_1wABt_2x_SSI_filtered_precision_loader_fixed.litematic](attachments/FL006_1wABt_2x_SSI_filtered_precision_loader_fixed.litematic): MC 1.21.4, Size 2x12x9 blocks
