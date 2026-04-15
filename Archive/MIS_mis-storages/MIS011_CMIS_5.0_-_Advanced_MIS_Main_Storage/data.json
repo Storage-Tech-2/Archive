@@ -432,7 +432,7 @@
         "type": "discord-in-guild",
         "id": "384084307712409600",
         "username": "tisunfortunate",
-        "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/0de5630a1bd3ad4fb3e24f5ba40958e1.webp",
+        "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/10653f22a436d6d084a01c465598ab6a.webp",
         "displayName": "TisUnfortunate"
       },
       "matches": [
@@ -518,8 +518,8 @@
         "type": "discord-in-guild",
         "id": "688456529338433611",
         "username": "glidingmonkey",
-        "displayName": "Christone",
-        "iconURL": "https://cdn.discordapp.com/avatars/688456529338433611/348a34add443a5a71237111010e484b1.webp"
+        "iconURL": "https://cdn.discordapp.com/avatars/688456529338433611/348a34add443a5a71237111010e484b1.webp",
+        "displayName": "Christone"
       },
       "matches": [
         "<@688456529338433611>"
