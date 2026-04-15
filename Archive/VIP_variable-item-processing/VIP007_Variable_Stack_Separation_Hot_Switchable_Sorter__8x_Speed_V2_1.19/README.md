@@ -1,7 +1,7 @@
 # Variable Stack Separation Hot Switchable Sorter _8x Speed V2 (1.19+)
 <img alt="8x.png" src="images/8x.png?raw=1" height="300px">
 
-**Authors:** *[          ], 首都人 SODOREN*
+**Authors:** *[          ], ! 首都人 SODOREN*
 
 **Endorsed by:** *Andrews54757*
 
