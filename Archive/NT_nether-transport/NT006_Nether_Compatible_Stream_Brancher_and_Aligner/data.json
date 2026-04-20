@@ -1,0 +1,174 @@
+{
+  "id": "1493730880571572295",
+  "name": "Nether Compatible Stream Brancher and Aligner",
+  "code": "NT006",
+  "reservedCodes": [
+    "NT006"
+  ],
+  "pastPostThreadIds": [
+    "1495800862394552432"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "909697371473084506",
+      "username": "wisperingtoyou",
+      "displayName": "Hi!?",
+      "iconURL": "https://cdn.discordapp.com/avatars/909697371473084506/548688783b44556959a493683a4e71f2.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "384084307712409600",
+      "username": "tisunfortunate",
+      "displayName": "TisUnfortunate",
+      "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/10653f22a436d6d084a01c465598ab6a.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "384084307712409600",
+      "username": "tisunfortunate",
+      "displayName": "TisUnfortunate",
+      "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/10653f22a436d6d084a01c465598ab6a.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465491958641328190",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1493858490169692270",
+      "name": "area_render_29_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1493730880571572295/1493858490169692270/area_render_29_.png?ex=69e07fa2&is=69df2e22&hm=53744e5a0d573950c62e6fa032855d645db4783f4efb555efcec748992fb13d3&",
+      "timestamp": 1776234018643,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "909697371473084506",
+        "username": "wisperingtoyou",
+        "displayName": "Hi!?",
+        "iconURL": "https://cdn.discordapp.com/avatars/909697371473084506/548688783b44556959a493683a4e71f2.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 145148,
+      "canDownload": true,
+      "width": 1139,
+      "height": 642,
+      "path": "images/area_render_29_.png",
+      "hash": "42a1ebad01acb90bc3f1d55284920fffeeaf5004f67bb1c7d6904d125e982364"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1493858840884547685",
+      "name": "NT006_Stream_SplitterAligned_TiledEx.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1493730880571572295/1493858840884547685/Stream_SplitterAligned_TiledEx.litematic?ex=69e07ff6&is=69df2e76&hm=be511c0ea608e20392bbd2fb4e7f84e3d1fa9384fe1c4f7fb42401f0f9c331d9&",
+      "timestamp": 1776234102383,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "909697371473084506",
+        "username": "wisperingtoyou",
+        "displayName": "Hi!?",
+        "iconURL": "https://cdn.discordapp.com/avatars/909697371473084506/548688783b44556959a493683a4e71f2.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Tiled example using acaciachan's 6x global clock box loader",
+      "size": 6335,
+      "canDownload": true,
+      "hash": "4db575941de204c401b39b9e8ef32fb9425681c916560f00a91312f8161f0713",
+      "path": "attachments/NT006_Stream_SplitterAligned_TiledEx.litematic",
+      "litematic": {
+        "size": "23x8x19",
+        "version": "1.21.4"
+      }
+    },
+    {
+      "id": "1493858757812162650",
+      "name": "NT006_Stream_SplitterAligned.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1493730880571572295/1493858757812162650/Stream_SplitterAligned.litematic?ex=69e07fe2&is=69df2e62&hm=4eb4ad2c1270e6c3e7390127cc983cba0d5d993f334d3f3ac4623c70f1e7319e&",
+      "timestamp": 1776234082506,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "909697371473084506",
+        "username": "wisperingtoyou",
+        "displayName": "Hi!?",
+        "iconURL": "https://cdn.discordapp.com/avatars/909697371473084506/548688783b44556959a493683a4e71f2.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Core Splitter",
+      "size": 1207,
+      "canDownload": true,
+      "hash": "85d918ce18a0b056e09bf95fbbc2d140cf6620e19932864c048156747eb78f70",
+      "path": "attachments/NT006_Stream_SplitterAligned.litematic",
+      "litematic": {
+        "size": "4x7x17",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Splits farm output along multiple ice streams to reduce item entity lifetime and evenly distribute working load.",
+    "features": [
+      "Compatible with 4wt box loaders (ex: https://discord.com/channels/1375556143186837695/1389410831594291300/1389410831594291300)",
+      "Compact",
+      "Nether Compatible"
+    ],
+    "considerations": [
+      "Requires some minimal prefill (1 item per module)"
+    ],
+    "notes": "Inspiration from Sneaky (thats just where i saw it, not sure who came up with it)"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "item entity",
+      "id": "1456908472384884879",
+      "url": "https://discord.com/channels/1375556143186837695/1456908472384884879/1456908473844502594",
+      "matches": [
+        "item entity"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "archivedPost",
+      "id": "1389410349618434228",
+      "code": "OL003",
+      "name": "Globally Clocked 3wt 6x Loader",
+      "url": "https://discord.com/channels/1375556143186837695/1389410831594291300",
+      "path": "Archive/OL_other-loaders/OL003_Globally_Clocked_3wt_6x_Loader",
+      "matches": [
+        "https://discord.com/channels/1375556143186837695/1389410831594291300/1389410831594291300"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1495800862394552432",
+    "forumId": "1387131693411995658",
+    "continuingMessageIds": [
+      "1495800872599556238"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1495800862394552432",
+    "uploadMessageId": "1495800860243136582",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1495800862394552432/1495800868014915614/area_render_29_.png?ex=69e7909d&is=69e63f1d&hm=e97299937436d642aab8f7cbe48af1549e853d3b80579228d29a6fc2f3fd381f&"
+  },
+  "archivedAt": 1776697112975,
+  "updatedAt": 1776697112975,
+  "num_comments": 0
+}

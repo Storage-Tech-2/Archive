@@ -4,7 +4,7 @@
   "code": "NT",
   "category": "Transport",
   "description": "Transporting items in the nether",
-  "currentCodeId": 5,
+  "currentCodeId": 6,
   "entries": [
     {
       "id": "1387131489782857769",
@@ -30,6 +30,11 @@
       "id": "1458233078748151942",
       "code": "NT005",
       "path": "NT005_Nether_compatible_8_lane_redcoded_item_distributor"
+    },
+    {
+      "id": "1493730880571572295",
+      "code": "NT006",
+      "path": "NT006_Nether_Compatible_Stream_Brancher_and_Aligner"
     }
   ]
 }
