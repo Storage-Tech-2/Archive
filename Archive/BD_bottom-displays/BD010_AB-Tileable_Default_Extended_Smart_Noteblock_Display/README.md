@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1496318462816161962)
 
-Compact Shulker box unloading device with manual first box placement by hitting the noteblock. Based off of discord channel.
+Compact shulker box smart display with manual first box placement. Uses BUDs to detect when box is closed so breaking does not occur while players are browsing items.
 ## Features
 - Manual First box Placement by hitting the noteblock.
 - Default extended Ui
@@ -20,7 +20,9 @@ Compact Shulker box unloading device with manual first box placement by hitting 
 - On the Dropper Latch design, it may fail to break a box if you close it too quickly after emptying it. Opening it again does break the box.
 - On both the piston designs, if you empty a slice while the one beside it activated, it will break the box before you close it.
 ## Notes
-While building, make sure to alternate between honey and slime blocks. On the dropper latch design, remember to put an item in the rightmost dropper. Third design and its schematic featured in thread. Dropper below comparator that reads the box can be swapped by any non-sticky full block (moss, glazed terracota, etc)
+- While building, make sure to alternate between honey and slime blocks.
+- On the dropper latch design, remember to put an item in the rightmost dropper.
+- Dropper below comparator that reads the box can be swapped by any non-sticky full block (moss, glazed terracota, etc)
 
 ## Other Images
 <img src="images/area_render_4_.png?raw=1" height="300px">

@@ -144,7 +144,7 @@
     }
   ],
   "records": {
-    "description": "Compact Shulker box unloading device with manual first box placement by hitting the noteblock. Based off of discord channel.",
+    "description": "Compact shulker box smart display with manual first box placement. Uses BUDs to detect when box is closed so breaking does not occur while players are browsing items.",
     "features": [
       "Manual First box Placement by hitting the noteblock.",
       "Default extended Ui",
@@ -156,10 +156,28 @@
       "On the Dropper Latch design, it may fail to break a box if you close it too quickly after emptying it. Opening it again does break the box.",
       "On both the piston designs, if you empty a slice while the one beside it activated, it will break the box before you close it."
     ],
-    "notes": "While building, make sure to alternate between honey and slime blocks. On the dropper latch design, remember to put an item in the rightmost dropper. Third design and its schematic featured in thread. Dropper below comparator that reads the box can be swapped by any non-sticky full block (moss, glazed terracota, etc)"
+    "notes": "- While building, make sure to alternate between honey and slime blocks.\n- On the dropper latch design, remember to put an item in the rightmost dropper.\n- Dropper below comparator that reads the box can be swapped by any non-sticky full block (moss, glazed terracota, etc)"
   },
   "styles": {},
   "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Smart box display",
+      "id": "1454754754071892049",
+      "url": "https://discord.com/channels/1375556143186837695/1454754754071892049/1454754754998698048",
+      "matches": [
+        "smart display"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Block Update Detector",
+      "id": "1454753476813787279",
+      "url": "https://discord.com/channels/1375556143186837695/1454753476813787279/1454753477443063869",
+      "matches": [
+        "BUD"
+      ]
+    },
     {
       "type": "dictionaryTerm",
       "term": "Slice",
@@ -167,15 +185,6 @@
       "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
       "matches": [
         "slice"
-      ]
-    },
-    {
-      "type": "dictionaryTerm",
-      "term": "Schematic",
-      "id": "1454811558009110704",
-      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
-      "matches": [
-        "schematic"
       ]
     }
   ],
@@ -191,6 +200,6 @@
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1496318462816161962/1496318467031302258/area_render_2_.png?ex=69e972aa&is=69e8212a&hm=8e6be1bb3161a1417b85b15318848573982f6f976931da4f2593f4d9f911d95e&"
   },
   "archivedAt": 1776820518746,
-  "updatedAt": 1776820518746,
+  "updatedAt": 1776821221440,
   "num_comments": 0
 }
