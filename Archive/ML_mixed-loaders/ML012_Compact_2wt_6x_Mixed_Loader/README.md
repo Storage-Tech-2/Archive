@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *6X Hopperspeed, Functional, Global Clock*
+**Tags:** *Functional, Global Clock, 6X Hopperspeed, Recommended*
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1496409545373646869)
 
