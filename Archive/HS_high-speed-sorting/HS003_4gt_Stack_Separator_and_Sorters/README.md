@@ -5,7 +5,7 @@
 
 **Endorsed by:** *TisUnfortunate*
 
-**Tags:** *Stack Separation*
+**Tags:** *Functional, Stack Separation*
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1459229294227095604)
 
