@@ -1,5 +1,5 @@
 # Hybrid Compactor Loader
-<img alt="image.png" src="images/image.png?raw=1" height="300px">
+<img alt="area_render_6_.png" src="images/area_render_6_.png?raw=1" height="300px">
 
 **Authors:** *TisUnfortunate, Hi!?, Christone, Ragdoll Willy*
 
@@ -18,6 +18,9 @@ A hall slice which takes as input compactable items and displays it in three for
 ## Compatibility
 1.21+
 
+## Other Images
+<img src="images/area_render_5_.png?raw=1" height="300px">
+
 ## Resources
-- [MH003_Hybrid.Compactor.Loader.UI.Side_Filter.litematic](attachments/MH003_Hybrid.Compactor.Loader.UI.Side_Filter.litematic): MC 1.21.4, Size 10x11x1 blocks
-- [MH003_Hybrid.Compactor.Loader.UI.Top_Filter.litematic](attachments/MH003_Hybrid.Compactor.Loader.UI.Top_Filter.litematic): MC 1.21.4, Size 7x14x1 blocks
+- [MH003_Hybrid.Compactor.LoaderSideFilter.litematic](attachments/MH003_Hybrid.Compactor.LoaderSideFilter.litematic): MC 1.21.4, Size 10x11x1 blocks
+- [MH003_Hybrid.Compactor.LoaderTopFilter.litematic](attachments/MH003_Hybrid.Compactor.LoaderTopFilter.litematic): MC 1.21.4, Size 7x14x1 blocks
