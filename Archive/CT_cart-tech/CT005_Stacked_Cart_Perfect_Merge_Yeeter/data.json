@@ -8,7 +8,15 @@
   "pastPostThreadIds": [
     "1456379833478021344"
   ],
-  "authors": [],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
   "endorsers": [
     {
       "type": "discord-in-guild",
@@ -46,13 +54,13 @@
       "canDownload": true,
       "width": 533,
       "height": 611,
-      "path": "images/image.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "andrews54757"
+        "username": "Unknown"
       },
       "timestamp": 1767298098000,
+      "path": "images/image.png",
       "hash": "1cbbf57adab92b9b4452561f8af4d5e0b62afe5d3892a377a2954cbd4b9d9b1c"
     }
   ],
@@ -72,10 +80,9 @@
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "andrews54757"
+        "username": "Unknown"
       },
       "timestamp": 1767298098000,
-      "size": 1327,
       "hash": "74ec782bd57419a154e2e4d99997c1799b4a5af9880c053c570b2c5938c283ec"
     },
     {
@@ -93,10 +100,9 @@
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "andrews54757"
+        "username": "Unknown"
       },
       "timestamp": 1768495809000,
-      "size": 1294,
       "hash": "85bb99829154b2d07d2982dc5cb3b6f634a55a2e193b2302f4bf002211d2845e"
     }
   ],
@@ -112,7 +118,7 @@
       "Can't be clocked very fast,  32gt minimum clock cycle recommended"
     ],
     "notes": "Tested for 500k item entities using <@458048759247536128> , <@921904275418927214> , and Crec0's alignment logging scarpet script",
-    "compatibility": "- In later versions (eg 1.21.11), carts in lava will break 1gt earlier. As such, use the 1.21.11 schematic provided or the carts will be burned by the lava.\n- For experimental cart updates, you have to delete the activator rail to let the cart fall before it hits the trapdoor. otherwise it will bounce backwards. Still make sure to lock the carts before yeeting or cart items may end up in output."
+    "compatibility": "- In later versions (eg 1.21.11+), carts in lava will break 1gt earlier. As such, use the 1.21.11 schematic provided or the carts will be burned by the lava.\n- For experimental cart updates, you have to delete the activator rail to let the cart fall before it hits the trapdoor. otherwise it will bounce backwards. Still make sure to lock the carts before yeeting or cart items may end up in output."
   },
   "styles": {},
   "references": [
@@ -213,6 +219,6 @@
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1456379833478021344/1456379833830347017/image.png?ex=69b275aa&is=69b1242a&hm=ddd0fd5dade2e3770effd22caf43aea936cc382be81ebec53e29241c10a064ac&"
   },
   "archivedAt": 1767298406729,
-  "updatedAt": 1768499400427,
+  "updatedAt": 1776877197971,
   "num_comments": 0
 }
