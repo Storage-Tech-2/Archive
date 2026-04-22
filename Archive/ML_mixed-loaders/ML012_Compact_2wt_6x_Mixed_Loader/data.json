@@ -1,0 +1,161 @@
+{
+  "id": "1488156055744679976",
+  "name": "Compact 2wt 6x Mixed Loader",
+  "code": "ML012",
+  "reservedCodes": [
+    "ML012"
+  ],
+  "pastPostThreadIds": [
+    "1496409545373646869"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "444883614761746436",
+      "username": "camphorwood",
+      "displayName": "camphorwood",
+      "iconURL": "https://cdn.discordapp.com/avatars/444883614761746436/b846c71873bcae574d1550d0d2c78d42.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1386423142574194868",
+      "name": "6X Hopperspeed"
+    },
+    {
+      "id": "1465490666501963848",
+      "name": "Functional"
+    },
+    {
+      "id": "1394719137170718801",
+      "name": "Global Clock"
+    }
+  ],
+  "images": [
+    {
+      "id": "1488156056168300694",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1488156055744679976/1488156056168300694/image.png?ex=69cbc0d4&is=69ca6f54&hm=eb438b5d811f8ef5f5315879fbe2f134197dfd3423a833c8edbaa6084a99f799&",
+      "timestamp": 1774874452292,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "444883614761746436",
+        "username": "camphorwood",
+        "displayName": "camphorwood",
+        "iconURL": "https://cdn.discordapp.com/avatars/444883614761746436/b846c71873bcae574d1550d0d2c78d42.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 110185,
+      "canDownload": true,
+      "width": 800,
+      "height": 956,
+      "path": "images/image.png",
+      "hash": "86deadd001a37d4ec1954ee3c9e4329bb6ec35be8de9ac2b559a8a9db50ff971"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1488156056709238874",
+      "name": "ML012_2wt6xmixed_global.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1488156055744679976/1488156056709238874/2wt6xmixed_global.litematic?ex=69cbc0d4&is=69ca6f54&hm=556f7e66738afecff21eff9c44019a82d62341aba92b5c3b5177fadd752d0c7a&",
+      "timestamp": 1774874452292,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "444883614761746436",
+        "username": "camphorwood",
+        "displayName": "camphorwood",
+        "iconURL": "https://cdn.discordapp.com/avatars/444883614761746436/b846c71873bcae574d1550d0d2c78d42.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 993,
+      "canDownload": true,
+      "hash": "4e2197239b89508272a8691726c08af111dad8d24d8ad67dfcc9f455c280b77a",
+      "path": "attachments/ML012_2wt6xmixed_global.litematic",
+      "litematic": {
+        "size": "2x6x5",
+        "version": "1.21.1"
+      }
+    },
+    {
+      "id": "1488156057028263966",
+      "name": "ML012_2wt6xmixed_global_tiledexample.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1488156055744679976/1488156057028263966/2wt6xmixed_global_tiledexample.litematic?ex=69cbc0d4&is=69ca6f54&hm=876c3e4ee7255f401cfe01cfcaf1191dcc230b97068ce3ee7ee562da7b9a9db3&",
+      "timestamp": 1774874452292,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "444883614761746436",
+        "username": "camphorwood",
+        "displayName": "camphorwood",
+        "iconURL": "https://cdn.discordapp.com/avatars/444883614761746436/b846c71873bcae574d1550d0d2c78d42.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1503,
+      "canDownload": true,
+      "hash": "3641686c5186fed21b42e5627d398bb2effea277bb319c9e891306a50cbd53ef",
+      "path": "attachments/ML012_2wt6xmixed_global_tiledexample.litematic",
+      "litematic": {
+        "size": "8x6x5",
+        "version": "1.21.1"
+      }
+    }
+  ],
+  "records": {
+    "description": "Tileable globally clocked mixed loader that loads any item type into boxes at 6x hopperspeed",
+    "features": [
+      "Globally clocked",
+      "Hopperline output",
+      "Mixed input compatible"
+    ]
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Mixed loader",
+      "id": "1454753713024405588",
+      "url": "https://discord.com/channels/1375556143186837695/1454753713024405588/1454753714144411649",
+      "matches": [
+        "mixed loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopper speed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "6x",
+        "hopperspeed"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1496409545373646869",
+    "forumId": "1375557473066418206",
+    "continuingMessageIds": [
+      "1496409556035829802"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1496409545373646869",
+    "uploadMessageId": "1496409542559273040",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1496409545373646869/1496409550172061786/image.png?ex=69e9c77e&is=69e875fe&hm=f5261af116212d311a1ee5df1267f5aaf4c9638549e5bd02a9707c5206b799be&"
+  },
+  "archivedAt": 1776842234062,
+  "updatedAt": 1776842234062,
+  "num_comments": 0
+}
