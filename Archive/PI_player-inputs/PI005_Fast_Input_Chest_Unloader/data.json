@@ -1,0 +1,203 @@
+{
+  "id": "1496371319716057108",
+  "name": "Fast Input Chest Unloader",
+  "code": "PI005",
+  "reservedCodes": [
+    "PI005"
+  ],
+  "pastPostThreadIds": [
+    "1496373746594873515"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "688456529338433611",
+      "username": "glidingmonkey",
+      "displayName": "Christone",
+      "iconURL": "https://cdn.discordapp.com/avatars/688456529338433611/348a34add443a5a71237111010e484b1.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "688456529338433611",
+      "username": "glidingmonkey",
+      "displayName": "Christone",
+      "iconURL": "https://cdn.discordapp.com/avatars/688456529338433611/348a34add443a5a71237111010e484b1.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465491660728307775",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1496371320412180540",
+      "name": "Wall_UI.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1496371319716057108/1496371320412180540/area_render_29_.png?ex=69e9a3e4&is=69e85264&hm=357254d9d50865c17d1c4a5c7c753fe9ff93edac49932919137f4e479d09e214&",
+      "timestamp": 1776833123855,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "688456529338433611",
+        "username": "glidingmonkey",
+        "displayName": "Christone",
+        "iconURL": "https://cdn.discordapp.com/avatars/688456529338433611/348a34add443a5a71237111010e484b1.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 230371,
+      "canDownload": true,
+      "width": 1200,
+      "height": 1142,
+      "path": "images/Wall_UI.png",
+      "hash": "d3ca59e81cd8e8bd0c6151fd7fe4475695a77bbc3fc35658509a535f13190eec"
+    },
+    {
+      "id": "1496371322354274334",
+      "name": "Floor_UI.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1496371319716057108/1496371322354274334/area_render_31_.png?ex=69e9a3e4&is=69e85264&hm=5cb1577094933ec774199ac3112bc8415ed4e98d761bf95dd654c2958227df2d&",
+      "timestamp": 1776833123855,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "688456529338433611",
+        "username": "glidingmonkey",
+        "displayName": "Christone",
+        "iconURL": "https://cdn.discordapp.com/avatars/688456529338433611/348a34add443a5a71237111010e484b1.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 243955,
+      "canDownload": true,
+      "width": 1200,
+      "height": 1113,
+      "path": "images/Floor_UI.png",
+      "hash": "7aa7489fc60f13f0e2a9f4ea3044ea6935e7ef730ad404c281bfc6a1fc2ae3c5"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1496371321238589461",
+      "name": "PI005_Fast_Input_Chest_Unloader_Wall_UI.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1496371319716057108/1496371321238589461/Fast_Input_Chest_Unloader_11.litematic?ex=69e9a3e4&is=69e85264&hm=bbbc138080d9c8651f180fcce1d9da87ec36bdf8df6ea658fffb374fb6024f1e&",
+      "timestamp": 1776833123855,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "688456529338433611",
+        "username": "glidingmonkey",
+        "displayName": "Christone",
+        "iconURL": "https://cdn.discordapp.com/avatars/688456529338433611/348a34add443a5a71237111010e484b1.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1471,
+      "canDownload": true,
+      "hash": "be6dcd45b9b1ec5c8173f8fc6b0d463d24879c13d47c888089ba5c02acaf02bc",
+      "path": "attachments/PI005_Fast_Input_Chest_Unloader_Wall_UI.litematic",
+      "litematic": {
+        "size": "3x8x9",
+        "version": "1.20.1"
+      }
+    },
+    {
+      "id": "1496371321733382204",
+      "name": "PI005_Fast_Input_Chest_Unloader_Floor_UI.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1496371319716057108/1496371321733382204/Fast_Input_Chest_Unloader_11_-_floor.litematic?ex=69e9a3e4&is=69e85264&hm=8be01a376ba686fa05da813137753c200811763643ae2af797b7a9bd0e5b34e2&",
+      "timestamp": 1776833123855,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "688456529338433611",
+        "username": "glidingmonkey",
+        "displayName": "Christone",
+        "iconURL": "https://cdn.discordapp.com/avatars/688456529338433611/348a34add443a5a71237111010e484b1.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1520,
+      "canDownload": true,
+      "hash": "e4dd0225cef86774c0272cc60244dcffafa2f5312b5aaa630f628082c5c7e2e0",
+      "path": "attachments/PI005_Fast_Input_Chest_Unloader_Floor_UI.litematic",
+      "litematic": {
+        "size": "3x9x9",
+        "version": "1.20.1"
+      }
+    }
+  ],
+  "records": {
+    "description": "Simply unloads a double chest as fast as it can using hopper carts. No extra sorting features. Designed to be an input to a storage system where a player can simply put everything into one chest, whether items or boxes.",
+    "features": [
+      "Fast (about 30sec to unload a chest full of mixed items)",
+      "Waits for user to close chest before unloading, (opening the chest also pauses unloading)",
+      "Reliable for all stupid player input cases I can think of (unlike the past 10 versions)",
+      "Will yeet carts when chest is empty or ran out of carts",
+      "Clean Wall UI (no redstone-type blocks around the input chest)",
+      "Clean Floor UI (the top redstone and water streams can be neatly covered with carpet)",
+      "Great for use in sorting systems that want a lot of entities in a pile (like cart-based MIS, Entity-based splitters, cart-based splitters, variable stack-separation systems, cart-based input parallelizers, or 'dolphin' respawn-based parallelization)"
+    ],
+    "considerations": [
+      "no pre-sorting of unstackables or boxes included (unlike other input systems)",
+      "no separate chest for bulk input"
+    ],
+    "notes": "It can store and recycle up to 73 carts, 41 included, more carts means it can unload more of the chest before needing to yeet and recycle the carts, so 73 is a little faster because it only yeets once, but it's diminishing returns, 22 is a good number if you want less carts.",
+    "compatibility": "Works in versions 1.19+ due to cart yeeting\nWorks in versions 1.16+ with the DropFullCarts mod."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "User interface",
+      "id": "1454754844316274861",
+      "url": "https://discord.com/channels/1375556143186837695/1454754844316274861/1454754845033627671",
+      "matches": [
+        "UI"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Multi Item Sorter",
+      "id": "1454753725091676293",
+      "url": "https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954",
+      "matches": [
+        "MIS"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Box splitter",
+      "id": "1454754768088989789",
+      "url": "https://discord.com/channels/1375556143186837695/1454754768088989789/1454754769674567868",
+      "matches": [
+        "splitter"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "cart yeet",
+      "id": "1455675378931728598",
+      "url": "https://discord.com/channels/1375556143186837695/1455675378931728598/1455675380160659517",
+      "matches": [
+        "cart yeet"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1496373746594873515",
+    "forumId": "1375569381781930006",
+    "continuingMessageIds": [
+      "1496373761882984489",
+      "1496373762524971183"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1496373746594873515",
+    "uploadMessageId": "1496373744963289140",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1496373746594873515/1496373752462704640/Wall_UI.png?ex=69e9a627&is=69e854a7&hm=f74303a4fab07ed6860f6044cdc72855bdba572dbd3ed5753ccb03065320d621&"
+  },
+  "archivedAt": 1776833697157,
+  "updatedAt": 1776833697157,
+  "num_comments": 0
+}
