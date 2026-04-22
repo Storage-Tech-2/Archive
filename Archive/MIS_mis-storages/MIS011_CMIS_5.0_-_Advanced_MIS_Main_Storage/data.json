@@ -535,17 +535,6 @@
       ]
     },
     {
-      "type": "archivedPost",
-      "id": "1387065521270427862",
-      "code": "US010",
-      "name": "1.20+ Unstackable Sorter",
-      "url": "https://discord.com/channels/1375556143186837695/1472474881210847332",
-      "path": "Archive/US_unstackable-sorting/US010_1.20_Unstackable_Sorter",
-      "matches": [
-        "US010"
-      ]
-    },
-    {
       "type": "userMention",
       "user": {
         "type": "discord-in-guild",
