@@ -1,0 +1,196 @@
+{
+  "id": "1496315816595951727",
+  "name": "AB-Tileable Default Extended Smart Noteblock Display",
+  "code": "BD010",
+  "reservedCodes": [
+    "BD010"
+  ],
+  "pastPostThreadIds": [
+    "1496318462816161962"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "548676165020286994",
+      "username": "moonyinspired",
+      "displayName": "Moonyinspired 🇧🇷",
+      "iconURL": "https://cdn.discordapp.com/avatars/548676165020286994/e885628029571a947b28fd9342ca680c.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "381396930212921355",
+      "username": "commandleo",
+      "displayName": "CommandLeo",
+      "iconURL": "https://cdn.discordapp.com/avatars/381396930212921355/cb1dcc76d3f6a30dddc49e6d9e96681a.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "548676165020286994",
+      "username": "moonyinspired",
+      "displayName": "Moonyinspired 🇧🇷",
+      "iconURL": "https://cdn.discordapp.com/avatars/548676165020286994/e885628029571a947b28fd9342ca680c.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465491037492609066",
+      "name": "Functional"
+    },
+    {
+      "id": "1386124728799858688",
+      "name": "Closed Box Detection"
+    },
+    {
+      "id": "1386201743825567905",
+      "name": "Auto Replacement"
+    }
+  ],
+  "images": [
+    {
+      "id": "1496316568693510285",
+      "name": "area_render_2_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1496315816595951727/1496316568693510285/area_render_2_.png?ex=69e970e6&is=69e81f66&hm=289d7111aab268b433020e8cf29d0c853fc1199a5d4188b6554057e07e21fd70&",
+      "timestamp": 1776820070332,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "548676165020286994",
+        "username": "moonyinspired",
+        "displayName": "Moonyinspired 🇧🇷",
+        "iconURL": "https://cdn.discordapp.com/avatars/548676165020286994/e885628029571a947b28fd9342ca680c.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 10063,
+      "canDownload": true,
+      "width": 700,
+      "height": 687,
+      "path": "images/area_render_2_.png",
+      "hash": "19569c7a9741f750365a04a7443042a1eb4bdad348ceb3e952e7259ca6986cf6"
+    },
+    {
+      "id": "1496316569004015747",
+      "name": "area_render_4_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1496315816595951727/1496316569004015747/area_render_4_.png?ex=69e970e6&is=69e81f66&hm=24d48e0a3879bb3330d74d0c00d3f22985c11af35a6d638449ee5eecee9ba1ab&",
+      "timestamp": 1776820070332,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "548676165020286994",
+        "username": "moonyinspired",
+        "displayName": "Moonyinspired 🇧🇷",
+        "iconURL": "https://cdn.discordapp.com/avatars/548676165020286994/e885628029571a947b28fd9342ca680c.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 10412,
+      "canDownload": true,
+      "width": 700,
+      "height": 687,
+      "path": "images/area_render_4_.png",
+      "hash": "94ae0917ac13e1eae09541f92a9bdcefc2856fef3b45453951c6a4f79a23a6cd"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1496316887556952174",
+      "name": "BD010_DefaultExtendedSmartDisplayDropper.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1496315816595951727/1496316887556952174/DefaultExtendedSmartDisplayDropper.litematic?ex=69e97132&is=69e81fb2&hm=c132c2c934edd868ad721b302e0b47db9175b60f9dd66162e4ba1a79d8aea788&",
+      "timestamp": 1776820146281,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "548676165020286994",
+        "username": "moonyinspired",
+        "displayName": "Moonyinspired 🇧🇷",
+        "iconURL": "https://cdn.discordapp.com/avatars/548676165020286994/e885628029571a947b28fd9342ca680c.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1001,
+      "canDownload": true,
+      "hash": "df827ab6d9c1c6a8af2a3964b9eb5dcdc7f18bf1ad4a705d0c17bb26c2b7227b",
+      "path": "attachments/BD010_DefaultExtendedSmartDisplayDropper.litematic",
+      "litematic": {
+        "size": "1x7x7",
+        "version": "1.21.4"
+      }
+    },
+    {
+      "id": "1496316887297032434",
+      "name": "BD010_DefaultExtendedSmartDisplayPiston1.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1496315816595951727/1496316887297032434/DefaultExtendedSmartDisplayPiston1.litematic?ex=69e97132&is=69e81fb2&hm=5d5ae1a7c7b961862a631098db666fdece03853b4c0f4fee864df27108788c73&",
+      "timestamp": 1776820146281,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "548676165020286994",
+        "username": "moonyinspired",
+        "displayName": "Moonyinspired 🇧🇷",
+        "iconURL": "https://cdn.discordapp.com/avatars/548676165020286994/e885628029571a947b28fd9342ca680c.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 988,
+      "canDownload": true,
+      "hash": "110014868492b3ed129481ca1b0a964f1b902db4c2191ab2259f06ac1ffb9283",
+      "path": "attachments/BD010_DefaultExtendedSmartDisplayPiston1.litematic",
+      "litematic": {
+        "size": "1x7x7",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Compact Shulker box unloading device with manual first box placement by hitting the noteblock. Based off of discord channel.",
+    "features": [
+      "Manual First box Placement by hitting the noteblock.",
+      "Default extended Ui",
+      "Only breaks the Shulker box when its both empty and closed.",
+      "Smaller than previous designs. (7x7 with the chest)",
+      "Chest Readout from both presented models."
+    ],
+    "considerations": [
+      "On the Dropper Latch design, it may fail to break a box if you close it too quickly after emptying it. Opening it again does break the box.",
+      "On both the piston designs, if you empty a slice while the one beside it activated, it will break the box before you close it."
+    ],
+    "notes": "While building, make sure to alternate between honey and slime blocks. On the dropper latch design, remember to put an item in the rightmost dropper. Third design and its schematic featured in thread. Dropper below comparator that reads the box can be swapped by any non-sticky full block (moss, glazed terracota, etc)"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Schematic",
+      "id": "1454811558009110704",
+      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
+      "matches": [
+        "schematic"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1496318462816161962",
+    "forumId": "1375561551188328531",
+    "continuingMessageIds": [
+      "1496318471355629588"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1496318462816161962",
+    "uploadMessageId": "1496318460295385221",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1496318462816161962/1496318467031302258/area_render_2_.png?ex=69e972aa&is=69e8212a&hm=8e6be1bb3161a1417b85b15318848573982f6f976931da4f2593f4d9f911d95e&"
+  },
+  "archivedAt": 1776820518746,
+  "updatedAt": 1776820518746,
+  "num_comments": 0
+}
