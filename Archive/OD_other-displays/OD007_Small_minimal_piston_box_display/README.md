@@ -7,7 +7,7 @@
 
 **Tags:** *Functional, Recommended, Auto Replacement, Reliable Collection*
 
-**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388317258144546846)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1496715265319112845)
 
 Simple bottom box display with minimal pistons and reliable wiring.
 ## Features
@@ -19,4 +19,4 @@ Simple bottom box display with minimal pistons and reliable wiring.
 - No breakable togglestates
 
 ## Resources
-- [BD005_ken_small_minimal_piston_box_display_1.17.1.litematic](): MC 1.17.1, Size 5x7x1 blocks
+- [OD007_ken_small_minimal_piston_box_display_1.17.1.litematic](): MC 1.17.1, Size 5x7x1 blocks

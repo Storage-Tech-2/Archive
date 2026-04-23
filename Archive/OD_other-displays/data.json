@@ -4,7 +4,7 @@
   "code": "OD",
   "category": "Box Displays",
   "description": "Other box displays.",
-  "currentCodeId": 6,
+  "currentCodeId": 7,
   "entries": [
     {
       "id": "1387132949086076948",
@@ -35,6 +35,11 @@
       "id": "1496315816595951727",
       "code": "OD006",
       "path": "OD006_AB-Tileable_Default_Extended_Smart_Noteblock_Display"
+    },
+    {
+      "id": "1386945318175899690",
+      "code": "OD007",
+      "path": "OD007_Small_minimal_piston_box_display"
     }
   ]
 }
