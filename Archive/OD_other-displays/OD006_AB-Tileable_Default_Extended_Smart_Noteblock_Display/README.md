@@ -5,9 +5,9 @@
 
 **Endorsed by:** *Moonyinspired 🇧🇷*
 
-**Tags:** *Functional, Closed Box Detection, Auto Replacement*
+**Tags:** *Functional, Auto Replacement, Closed Box Detection*
 
-**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1496318462816161962)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1496714968098148353)
 
 Compact shulker box smart display with manual first box placement. Uses BUDs to detect when box is closed so breaking does not occur while players are browsing items.
 ## Features
@@ -28,5 +28,5 @@ Compact shulker box smart display with manual first box placement. Uses BUDs to 
 <img src="images/area_render_4_.png?raw=1" height="300px">
 
 ## Resources
-- [BD010_DefaultExtendedSmartDisplayDropper.litematic](attachments/BD010_DefaultExtendedSmartDisplayDropper.litematic): MC 1.21.4, Size 1x7x7 blocks
-- [BD010_DefaultExtendedSmartDisplayPiston1.litematic](attachments/BD010_DefaultExtendedSmartDisplayPiston1.litematic): MC 1.21.4, Size 1x7x7 blocks
+- [OD006_DefaultExtendedSmartDisplayDropper.litematic](attachments/OD006_DefaultExtendedSmartDisplayDropper.litematic): MC 1.21.4, Size 1x7x7 blocks
+- [OD006_DefaultExtendedSmartDisplayPiston1.litematic](attachments/OD006_DefaultExtendedSmartDisplayPiston1.litematic): MC 1.21.4, Size 1x7x7 blocks

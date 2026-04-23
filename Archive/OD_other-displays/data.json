@@ -4,7 +4,7 @@
   "code": "OD",
   "category": "Box Displays",
   "description": "Other box displays.",
-  "currentCodeId": 5,
+  "currentCodeId": 6,
   "entries": [
     {
       "id": "1387132949086076948",
@@ -30,6 +30,11 @@
       "id": "1426638674891636776",
       "code": "OD005",
       "path": "OD005_Block_Swapper_Display"
+    },
+    {
+      "id": "1496315816595951727",
+      "code": "OD006",
+      "path": "OD006_AB-Tileable_Default_Extended_Smart_Noteblock_Display"
     }
   ]
 }
