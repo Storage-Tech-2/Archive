@@ -1,0 +1,131 @@
+{
+  "id": "1496552206885720194",
+  "name": "Atlas Square UI 8 item 2dc 1wABt (fixed)",
+  "code": "CH010",
+  "reservedCodes": [
+    "CH010"
+  ],
+  "pastPostThreadIds": [
+    "1496874426782843051"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "881656808647852062",
+      "username": "nf_atlas",
+      "displayName": "atlas",
+      "iconURL": "https://cdn.discordapp.com/avatars/881656808647852062/5a7729f027681228dec2dc1bdb138133.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "909697371473084506",
+      "username": "wisperingtoyou",
+      "displayName": "Hi!?",
+      "iconURL": "https://cdn.discordapp.com/avatars/909697371473084506/548688783b44556959a493683a4e71f2.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465491132455588024",
+      "name": "Functional"
+    },
+    {
+      "id": "1386699846542692493",
+      "name": "SS2"
+    },
+    {
+      "id": "1386099807206244543",
+      "name": "8 Chests"
+    }
+  ],
+  "images": [
+    {
+      "id": "1496552207078785135",
+      "name": "CHrender.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1496552206885720194/1496552207078785135/image3.png?ex=69ea4c5a&is=69e8fada&hm=e6ea620eccb2d45593f98d781e0fcb7ea49b715f72ae0736c045dec44ece2d59&",
+      "timestamp": 1776876250717,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "881656808647852062",
+        "username": "nf_atlas",
+        "displayName": "atlas",
+        "iconURL": "https://cdn.discordapp.com/avatars/881656808647852062/5a7729f027681228dec2dc1bdb138133.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 36782,
+      "canDownload": true,
+      "width": 1000,
+      "height": 586,
+      "path": "images/CHrender.png",
+      "hash": "44b835fc440dd90c02c6aec5e03a00df2d75582e907020d1df723114c616d896"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1496552207368327240",
+      "name": "CH010_Atlas_Square_UI_8_item_2dc_1wABt.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1496552206885720194/1496552207368327240/Atlas_Square_UI_8_item_2dc_1wABt.litematic?ex=69ea4c5a&is=69e8fada&hm=367212c2f4e9214473c3344e10bd531cc11e1065429f77f5b97ed391cc79bb2a&",
+      "timestamp": 1776876250717,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "881656808647852062",
+        "username": "nf_atlas",
+        "displayName": "atlas",
+        "iconURL": "https://cdn.discordapp.com/avatars/881656808647852062/5a7729f027681228dec2dc1bdb138133.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "get the schematic here",
+      "size": 2568,
+      "canDownload": true,
+      "hash": "f279c491ddc34e57aa5068b4be6961033ba4c1671cf5054676084548fa016756",
+      "path": "attachments/CH010_Atlas_Square_UI_8_item_2dc_1wABt.litematic",
+      "litematic": {
+        "size": "29x17x4",
+        "version": "1.21.11"
+      }
+    }
+  ],
+  "records": {
+    "description": "-29x16 -FHL even when overflow -SS2 SSI filters"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "ss",
+      "id": "1454754774833696893",
+      "url": "https://discord.com/channels/1375556143186837695/1454754774833696893/1454754775542267957",
+      "matches": [
+        "SS"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Signal Strength Isolated",
+      "id": "1455820021581217843",
+      "url": "https://discord.com/channels/1375556143186837695/1455820021581217843/1455820022256500874",
+      "matches": [
+        "SSI"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1496874426782843051",
+    "forumId": "1375561810392125510",
+    "continuingMessageIds": [
+      "1496874436526215291"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1496874426782843051",
+    "uploadMessageId": "1496874424530632887",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1496874426782843051/1496874431509827685/CHrender.png?ex=69eb7873&is=69ea26f3&hm=6f258c03f839a13d0d5fbcbc142158f5ebbcc34ee2c15682dbad9fcf0fcbd7f3&"
+  },
+  "archivedAt": 1776953069916,
+  "updatedAt": 1776953069916,
+  "num_comments": 0
+}
