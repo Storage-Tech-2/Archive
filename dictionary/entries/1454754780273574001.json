@@ -3,12 +3,12 @@
   "terms": [
     "Temp Storage"
   ],
-  "definition": "Short for \"temporary storage\". It's not a way to refer to a storage system that will only be used temporarily. It refers to a storage system in which boxes are stored temporarily, usually until a second box of the same item type reaches the system and they can be combined in a Merger and then be sent to a more final storage (like Bulk Storage, Chest Hall or others).",
+  "definition": "Short for \"temporary storage\". It's not a way to refer to a storage system that will only be used temporarily. It refers to a storage system in which boxes are stored temporarily, usually until a second box of the same item type reaches the system and they can be combined in a Merger and then be sent to a more final storage (like Bulk Storage, Chest Hall or others). See VBS002, VBS003, VBS004, and VBS006 for examples.",
   "threadURL": "https://discord.com/channels/1375556143186837695/1454754780273574001",
   "statusURL": "https://discord.com/channels/1375556143186837695/1454754780273574001/1454754781196451978",
   "status": "APPROVED",
   "statusMessageID": "1454754781196451978",
-  "updatedAt": 1766910968600,
+  "updatedAt": 1777304884758,
   "references": [
     {
       "type": "dictionaryTerm",
@@ -35,6 +35,50 @@
       "url": "https://discord.com/channels/1375556143186837695/1454753529700024331/1454753530488426527",
       "matches": [
         "Chest Hall"
+      ]
+    },
+    {
+      "type": "archivedPost",
+      "id": "1401371516389687346",
+      "code": "VBS002",
+      "name": "Unencoded Variable Box Temp",
+      "url": "https://discord.com/channels/1375556143186837695/1401376236223074426",
+      "path": "Archive/VBS_variable-box-processing/VBS002_Unencoded_Variable_Box_Temp",
+      "matches": [
+        "VBS002"
+      ]
+    },
+    {
+      "type": "archivedPost",
+      "id": "1439818384933130322",
+      "code": "VBS003",
+      "name": "Hyperthreaded Whitelister Temp",
+      "url": "https://discord.com/channels/1375556143186837695/1473820723696107726",
+      "path": "Archive/VBS_variable-box-processing/VBS003_Hyperthreaded_Whitelister_Temp",
+      "matches": [
+        "VBS003"
+      ]
+    },
+    {
+      "type": "archivedPost",
+      "id": "1463261169404874976",
+      "code": "VBS004",
+      "name": "Pattern-based temporary storages for partial boxes",
+      "url": "https://discord.com/channels/1375556143186837695/1464409896463106232",
+      "path": "Archive/VBS_variable-box-processing/VBS004_Pattern-based_temporary_storages_for_partial_boxes",
+      "matches": [
+        "VBS004"
+      ]
+    },
+    {
+      "type": "archivedPost",
+      "id": "1480307278585270385",
+      "code": "VBS006",
+      "name": "400 Item Matrix Temp Storage",
+      "url": "https://discord.com/channels/1375556143186837695/1480308116716257483",
+      "path": "Archive/VBS_variable-box-processing/VBS006_400_Item_Matrix_Temp_Storage",
+      "matches": [
+        "VBS006"
       ]
     }
   ],
