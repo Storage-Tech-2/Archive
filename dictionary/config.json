@@ -531,8 +531,8 @@
       "terms": [
         "Temp Storage"
       ],
-      "summary": "Short for \"temporary storage\". It's not a way to refer to a storage system that will only be used temporarily. It refers to a storage system in which boxes are stored temporarily, usually until a s...",
-      "updatedAt": 1777304884758
+      "summary": "Short for \"temporary storage\", it refers to a specific storage device used in variable sorting systems to store partial boxes. These temp storages will typically store a partial box item until a se...",
+      "updatedAt": 1777305551433
     },
     {
       "id": "1454754788473307200",
