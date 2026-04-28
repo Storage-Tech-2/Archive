@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Functional, 6X Hopperspeed*
+**Tags:** *Functional, Full Clearance, 6X Hopperspeed*
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388316771832041482)
 
