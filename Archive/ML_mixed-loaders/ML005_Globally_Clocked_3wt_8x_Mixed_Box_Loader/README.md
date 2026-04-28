@@ -14,9 +14,9 @@ This mixed 8x loader uses an external global clock signal to activate its droppe
 - Smaller size
 - No item spitting with random input
 - Globally clocked
-- Ejects boxes as items without buffer
+- Ejects boxes as items
 ## Considerations
 - Only 2/3 blocks in the item stream are ice making it not that nether friendly
 
 ## Resources
-- [ML005_3wt_8x_Mixed_Loader_Globally_Clocked.litematic](attachments/ML005_3wt_8x_Mixed_Loader_Globally_Clocked.litematic): MC 1.14, Size 12x6x11 blocks
+- [ML005_3wt_8x_Mixed_Loader_Globally_Clocked.litematic](): MC 1.14, Size 12x6x11 blocks

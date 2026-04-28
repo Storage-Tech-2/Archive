@@ -50,13 +50,13 @@
       "canDownload": true,
       "width": 697,
       "height": 800,
-      "path": "images/3wt_8x_Mixed_Loader_Globally_Clocked.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "andrews54757"
+        "username": "Unknown"
       },
       "timestamp": 1751125374000,
+      "path": "images/3wt_8x_Mixed_Loader_Globally_Clocked.png",
       "hash": "fd1574eb1fc85d6b64272f8c2c02ccedde185e615134d38d15ee04234fb97a9a"
     }
   ],
@@ -72,15 +72,12 @@
         "size": "12x6x11",
         "version": "1.14"
       },
-      "path": "attachments/ML005_3wt_8x_Mixed_Loader_Globally_Clocked.litematic",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "andrews54757"
+        "username": "Unknown"
       },
-      "timestamp": 1751125374000,
-      "size": 1990,
-      "hash": "6d933b3c173e21ee60e6c000788b79a25566881acd73c294a558b71c710140ca"
+      "timestamp": 1751125374000
     }
   ],
   "records": {
@@ -89,13 +86,13 @@
       "Smaller size",
       "No item spitting with random input",
       "Globally clocked",
-      "Ejects boxes as items without buffer"
+      "Ejects boxes as items"
     ],
     "considerations": [
       "Only 2/3 blocks in the item stream are ice making it not that nether friendly"
-    ],
-    "notes": ""
+    ]
   },
+  "styles": {},
   "references": [
     {
       "type": "dictionaryTerm",
@@ -138,6 +135,6 @@
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1388545987701641337/1388545987940978799/3wt_8x_Mixed_Loader_Globally_Clocked.png?ex=69b2dfb9&is=69b18e39&hm=a7bf0e4eced4e2143de3d738e07e8a787ff17d45a3828c62253397c1692ab6f0&"
   },
   "archivedAt": 1751125560672,
-  "updatedAt": 1751125560672,
+  "updatedAt": 1777356654438,
   "num_comments": 0
 }
