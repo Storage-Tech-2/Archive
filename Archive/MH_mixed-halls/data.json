@@ -4,7 +4,7 @@
   "code": "MH",
   "category": "Storage Halls & UI",
   "description": "Mixed/hybrid/accessible loader halls",
-  "currentCodeId": 3,
+  "currentCodeId": 4,
   "entries": [
     {
       "id": "1386947263732912198",
@@ -20,6 +20,11 @@
       "id": "1493443736829427973",
       "code": "MH003",
       "path": "MH003_Hybrid_Compactor_Loader"
+    },
+    {
+      "id": "1388556991462637648",
+      "code": "MH004",
+      "path": "MH004_Precision_Hybrid_Loader_Hall"
     }
   ]
 }

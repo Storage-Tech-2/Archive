@@ -1,12 +1,14 @@
 {
   "id": "1388556991462637648",
-  "name": "Precision Hybrid Loader",
-  "code": "OL002",
+  "name": "Precision Hybrid Loader Hall",
+  "code": "MH004",
   "reservedCodes": [
-    "OL002"
+    "OL002",
+    "MH004"
   ],
   "pastPostThreadIds": [
-    "1388557426013376634"
+    "1388557426013376634",
+    "1498566606136021002"
   ],
   "authors": [
     {
@@ -27,8 +29,8 @@
   ],
   "tags": [
     {
-      "id": "1465490739759681724",
-      "name": "Functional"
+      "name": "Functional",
+      "id": "1465491362165035102"
     }
   ],
   "images": [
@@ -41,13 +43,13 @@
       "canDownload": true,
       "width": 413,
       "height": 800,
-      "path": "images/area_render_4_.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "andrews54757"
+        "username": "Unknown"
       },
       "timestamp": 1751128184000,
+      "path": "images/area_render_4_.png",
       "hash": "d52c15e72cf67807059f5903f61bd2c5b424c3fdbff092a285bd5c14b3832937"
     },
     {
@@ -59,20 +61,20 @@
       "canDownload": true,
       "width": 457,
       "height": 800,
-      "path": "images/area_render_5_.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "andrews54757"
+        "username": "Unknown"
       },
       "timestamp": 1751128184000,
+      "path": "images/area_render_5_.png",
       "hash": "c3cdb17eb436ad5de48d9edb3765e7a4448b76fad6b652c47741018cc0de67c8"
     }
   ],
   "attachments": [
     {
       "id": "1388557000660484136",
-      "name": "OL002_Sorting_precision_hybrid_box_loader.litematic",
+      "name": "MH004_Sorting_precision_hybrid_box_loader.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1388556991462637648/1388557000660484136/Sorting_precision_hybrid_box_loader.litematic?ex=686169fb&is=6860187b&hm=997700bb01fb65b6bdbb5d040791ff4e539393f05eb22a11d30ee62477fed29d&",
       "description": "",
@@ -81,19 +83,16 @@
         "size": "8x14x4",
         "version": "1.20.1"
       },
-      "path": "attachments/OL002_Sorting_precision_hybrid_box_loader.litematic",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "andrews54757"
+        "username": "Unknown"
       },
-      "timestamp": 1751128184000,
-      "size": 1864,
-      "hash": "cd7d36aca9b9e155a6a850a212b81ce03fa8dc90c69ef55fd0ef738d76053d1b"
+      "timestamp": 1751128184000
     },
     {
       "id": "1388557001038237839",
-      "name": "OL002_Sorting_precision_hybrid_box_loader_1.litematic",
+      "name": "MH004_Sorting_precision_hybrid_box_loader_1.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1388556991462637648/1388557001038237839/Sorting_precision_hybrid_box_loader_1.litematic?ex=686169fb&is=6860187b&hm=6999e3e35515ce83bc353338b5e252b73ca25084a406681685edfc557a2954a8&",
       "description": "",
@@ -102,19 +101,16 @@
         "size": "8x16x4",
         "version": "1.20.1"
       },
-      "path": "attachments/OL002_Sorting_precision_hybrid_box_loader_1.litematic",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "andrews54757"
+        "username": "Unknown"
       },
-      "timestamp": 1751128184000,
-      "size": 1956,
-      "hash": "37e8dd24427c0aad48e83e8f1b732f7fc6d27159f0578587d110d9a90c08ba35"
+      "timestamp": 1751128184000
     }
   ],
   "records": {
-    "description": "Box loader that puts loose items into a chest until the chest fills up, then starts filling shulker boxes with the items.",
+    "description": "A hybrid storage hall that puts loose items into the topmost chest until the chest fills up, then starts filling shulker boxes items for storage in other chests below.",
     "features": [
       "Fully Hopper Locked",
       "1 Wide Tileable",
@@ -126,16 +122,8 @@
     ],
     "notes": "2 versions, smaller one will have 2 unlocked hoppers every 16 slices due to how one of the locking lines is and lacks overflow protection, the larger one fixes both of these issues"
   },
+  "styles": {},
   "references": [
-    {
-      "type": "dictionaryTerm",
-      "term": "Loader",
-      "id": "1454753686558605373",
-      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
-      "matches": [
-        "loader"
-      ]
-    },
     {
       "type": "dictionaryTerm",
       "term": "Slice",
@@ -148,16 +136,16 @@
   ],
   "author_references": [],
   "post": {
-    "threadId": "1388557426013376634",
-    "forumId": "1375557962675912865",
+    "threadId": "1498566606136021002",
+    "forumId": "1375563506765664388",
     "continuingMessageIds": [
-      "1388557430480310313"
+      "1498566618266210375"
     ],
-    "threadURL": "https://discord.com/channels/1375556143186837695/1388557426013376634",
-    "uploadMessageId": "1388557424109293588",
-    "thumbnailURL": "https://cdn.discordapp.com/attachments/1388557426013376634/1388557426374082763/area_render_5_.png?ex=69b241a0&is=69b0f020&hm=d5a2cc1542ec35dd8185258fc792cbf11f2d8bb3efb0a569d7e212a6a8088d99&"
+    "threadURL": "https://discord.com/channels/1375556143186837695/1498566606136021002",
+    "uploadMessageId": "",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1498566606136021002/1498566613673185340/area_render_4_.png?ex=69f1a06a&is=69f04eea&hm=ffe8cff2900f5ee8626564791fc3afb47d564c23ee2aeb01c16eaa6fbe8f68c4&"
   },
   "archivedAt": 1751128287837,
-  "updatedAt": 1751128287837,
+  "updatedAt": 1777356517379,
   "num_comments": 0
 }

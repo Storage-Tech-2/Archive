@@ -1,4 +1,4 @@
-# Precision Hybrid Loader
+# Precision Hybrid Loader Hall
 <img alt="area_render_4_.png" src="images/area_render_4_.png?raw=1" height="300px">
 
 **Authors:** *xiao_chen11*
@@ -7,9 +7,9 @@
 
 **Tags:** *Functional*
 
-**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1388557426013376634)
+**Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1498566606136021002)
 
-Box loader that puts loose items into a chest until the chest fills up, then starts filling shulker boxes with the items.
+A hybrid storage hall that puts loose items into the topmost chest until the chest fills up, then starts filling shulker boxes items for storage in other chests below.
 ## Features
 - Fully Hopper Locked
 - 1 Wide Tileable
@@ -24,5 +24,5 @@ Box loader that puts loose items into a chest until the chest fills up, then sta
 <img src="images/area_render_5_.png?raw=1" height="300px">
 
 ## Resources
-- [OL002_Sorting_precision_hybrid_box_loader.litematic](attachments/OL002_Sorting_precision_hybrid_box_loader.litematic): MC 1.20.1, Size 8x14x4 blocks
-- [OL002_Sorting_precision_hybrid_box_loader_1.litematic](attachments/OL002_Sorting_precision_hybrid_box_loader_1.litematic): MC 1.20.1, Size 8x16x4 blocks
+- [MH004_Sorting_precision_hybrid_box_loader.litematic](): MC 1.20.1, Size 8x14x4 blocks
+- [MH004_Sorting_precision_hybrid_box_loader_1.litematic](): MC 1.20.1, Size 8x16x4 blocks
