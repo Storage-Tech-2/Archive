@@ -966,6 +966,16 @@
       ],
       "summary": "An input handler is an item pre-processing device which attaches to user input interfaces in main storage systems. Because the user can input anything, a robust input handler must be capable of pre...",
       "updatedAt": 1776066383468
+    },
+    {
+      "id": "1498750118940377089",
+      "terms": [
+        "DC",
+        "dc",
+        "double chest"
+      ],
+      "summary": "In storage tech terminology, DC is an abbreviation for a doublechest.",
+      "updatedAt": 1777400277673
     }
   ]
 }
