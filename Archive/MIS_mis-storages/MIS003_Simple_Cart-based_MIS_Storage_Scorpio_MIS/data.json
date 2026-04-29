@@ -326,6 +326,15 @@
     },
     {
       "type": "dictionaryTerm",
+      "term": "DC",
+      "id": "1498750118940377089",
+      "url": "https://discord.com/channels/1375556143186837695/1498750118940377089/1498750120794001448",
+      "matches": [
+        "double chest"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
       "term": "Chunk loader",
       "id": "1457055322647695542",
       "url": "https://discord.com/channels/1375556143186837695/1457055322647695542/1457055324426080287",

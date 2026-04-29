@@ -105,6 +105,15 @@
   "references": [
     {
       "type": "dictionaryTerm",
+      "term": "DC",
+      "id": "1498750118940377089",
+      "url": "https://discord.com/channels/1375556143186837695/1498750118940377089/1498750120794001448",
+      "matches": [
+        "double chest"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
       "term": "Signal Strength Isolated",
       "id": "1455820021581217843",
       "url": "https://discord.com/channels/1375556143186837695/1455820021581217843/1455820022256500874",
