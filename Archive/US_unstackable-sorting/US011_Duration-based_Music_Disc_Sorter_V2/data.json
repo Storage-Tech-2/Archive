@@ -1,0 +1,137 @@
+{
+  "id": "1499598968626085889",
+  "name": "Duration-based Music Disc Sorter V2",
+  "code": "US011",
+  "reservedCodes": [
+    "US011"
+  ],
+  "pastPostThreadIds": [
+    "1501733635974500383"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1202027269338697788",
+      "username": "0wucat",
+      "displayName": "0wUCat",
+      "iconURL": "https://cdn.discordapp.com/embed/avatars/1.png"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "384084307712409600",
+      "username": "tisunfortunate",
+      "displayName": "TisUnfortunate",
+      "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/10653f22a436d6d084a01c465598ab6a.webp",
+      "reason": "The signal strength filter used was based off of his"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1387481053450604644",
+      "name": "Music Discs"
+    }
+  ],
+  "images": [
+    {
+      "id": "1499598968970281050",
+      "name": "Music_Disc_Drive.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1499598968626085889/1499598968970281050/Music_Disc_Drive.png?ex=69f561df&is=69f4105f&hm=767e593aefd4128bc19ce56d3a741e73c7cf8adb62bce78b7aa46bcb87744319&",
+      "timestamp": 1777602655322,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1202027269338697788",
+        "username": "0wucat",
+        "displayName": "0wUCat",
+        "iconURL": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 83644,
+      "canDownload": true,
+      "width": 742,
+      "height": 528,
+      "path": "images/Music_Disc_Drive.png",
+      "hash": "ac0ba3816c1365b99a723476a65a8fc148d95cfa185d6a4a1b8354f39e2e1504"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1499598969284595713",
+      "name": "US011_Music_Disc_Drive.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1499598968626085889/1499598969284595713/Music_Disc_Drive.litematic?ex=69f561df&is=69f4105f&hm=2a8a9e4831c71938383af15d95a871b9ba8c05172466bd0108b5e7f61cc62dfa&",
+      "timestamp": 1777602655322,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1202027269338697788",
+        "username": "0wucat",
+        "displayName": "0wUCat",
+        "iconURL": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 3692,
+      "canDownload": true,
+      "hash": "d97f43545be90a56620b93d1502dd76b8b096ead41cbec52b2d1e18fb2493670",
+      "path": "attachments/US011_Music_Disc_Drive.litematic",
+      "litematic": {
+        "size": "16x8x16",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A device that sorts all music discs using a combination of signal strength and music duration.",
+    "features": [
+      "Fully hopperlocked",
+      "Hopperspeed sorting for most types with unique signal strengths",
+      "For discs with the same signal strength, sorts between them by measuring disc duration"
+    ],
+    "compatibility": "Does not sort Lava Chicken and Tears discs so is not compatible with 1.21.7+"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopperlocking",
+      "id": "1454753660625227895",
+      "url": "https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422",
+      "matches": [
+        "hopperlocked"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopper speed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "Hopperspeed"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1501733635974500383",
+    "forumId": "1375564342392786944",
+    "continuingMessageIds": [
+      "1501733652063719514"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1501733635974500383",
+    "uploadMessageId": "1501733634334523504",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1501733635974500383/1501733642202910730/Music_Disc_Drive.png?ex=69fd25f1&is=69fbd471&hm=77e592a47112c8a1df0719810f86fb336913e448780901be8dbf41cefc409503&"
+  },
+  "archivedAt": 1778111595907,
+  "updatedAt": 1778111595907,
+  "num_comments": 0
+}
