@@ -1,6 +1,6 @@
 {
   "id": "1496552206885720194",
-  "name": "Atlas Square UI 8 item 2dc 1wABt (fixed)",
+  "name": "Atlas Square UI 1wABt 8 Item 2dc Chest Hall",
   "code": "CH010",
   "reservedCodes": [
     "CH010"
@@ -91,10 +91,54 @@
     }
   ],
   "records": {
-    "description": "-29x16 -FHL even when overflow -SS2 SSI filters"
+    "description": "8 chest square UI chest hall with 2 double chest storage per type",
+    "features": [
+      "SSI SS2 filters",
+      "Fully hopperlocked even when overflowing",
+      "32 Hoppers per slice",
+      "2 double chest storage per type",
+      "Filters are all accessible",
+      "29 wide x 16 tall"
+    ]
   },
   "styles": {},
   "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "User interface",
+      "id": "1454754844316274861",
+      "url": "https://discord.com/channels/1375556143186837695/1454754844316274861/1454754845033627671",
+      "matches": [
+        "UI"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Chest Hall",
+      "id": "1454753529700024331",
+      "url": "https://discord.com/channels/1375556143186837695/1454753529700024331/1454753530488426527",
+      "matches": [
+        "chest hall"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "DC",
+      "id": "1498750118940377089",
+      "url": "https://discord.com/channels/1375556143186837695/1498750118940377089/1498750120794001448",
+      "matches": [
+        "double chest"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Signal Strength Isolated",
+      "id": "1455820021581217843",
+      "url": "https://discord.com/channels/1375556143186837695/1455820021581217843/1455820022256500874",
+      "matches": [
+        "SSI"
+      ]
+    },
     {
       "type": "dictionaryTerm",
       "term": "ss",
@@ -106,11 +150,20 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "Signal Strength Isolated",
-      "id": "1455820021581217843",
-      "url": "https://discord.com/channels/1375556143186837695/1455820021581217843/1455820022256500874",
+      "term": "Hopperlocking",
+      "id": "1454753660625227895",
+      "url": "https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422",
       "matches": [
-        "SSI"
+        "hopperlocked"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
       ]
     }
   ],
@@ -126,6 +179,6 @@
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1496874426782843051/1496874431509827685/CHrender.png?ex=69eb7873&is=69ea26f3&hm=6f258c03f839a13d0d5fbcbc142158f5ebbcc34ee2c15682dbad9fcf0fcbd7f3&"
   },
   "archivedAt": 1776953069916,
-  "updatedAt": 1776953069916,
+  "updatedAt": 1778088755955,
   "num_comments": 0
 }
