@@ -4,7 +4,7 @@
   "code": "VIP",
   "category": "Advanced Tech",
   "description": "Variable item sorting",
-  "currentCodeId": 8,
+  "currentCodeId": 9,
   "entries": [
     {
       "id": "1386431947928244496",
@@ -40,6 +40,11 @@
       "id": "1466910074458083401",
       "code": "VIP008",
       "path": "VIP008_Cart-based_single-type_variable_loader_array"
+    },
+    {
+      "id": "1502327200794411231",
+      "code": "VIP009",
+      "path": "VIP009_Cycvar_SFIP_with_6x_Box_Loaders"
     }
   ]
 }

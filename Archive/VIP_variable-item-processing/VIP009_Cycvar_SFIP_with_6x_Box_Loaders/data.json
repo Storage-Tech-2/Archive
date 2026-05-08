@@ -1,0 +1,159 @@
+{
+  "id": "1502327200794411231",
+  "name": "Cycvar SFIP with 6x Box Loaders",
+  "code": "VIP009",
+  "reservedCodes": [
+    "VIP009"
+  ],
+  "pastPostThreadIds": [
+    "1502331348822786219"
+  ],
+  "authors": [
+    {
+      "type": "unknown",
+      "username": "mikaace"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "688456529338433611",
+      "username": "glidingmonkey",
+      "displayName": "Christone",
+      "iconURL": "https://cdn.discordapp.com/avatars/688456529338433611/348a34add443a5a71237111010e484b1.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465491736636948685",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1502327201834471566",
+      "name": "area_render_23_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1502327200794411231/1502327201834471566/area_render_23_.png?ex=69ff4ebc&is=69fdfd3c&hm=bcecde7275499fb7e0b34de416478d9e73a4098a0d0c288939659806b6b96312&",
+      "timestamp": 1778253116559,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "688456529338433611",
+        "username": "glidingmonkey",
+        "displayName": "Christone",
+        "iconURL": "https://cdn.discordapp.com/avatars/688456529338433611/348a34add443a5a71237111010e484b1.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 425321,
+      "canDownload": true,
+      "width": 1200,
+      "height": 948,
+      "path": "images/area_render_23_.png",
+      "hash": "c504056b191054738c006070c35b30d199d876377c83e6a315cfc3dc0ec0238b"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1502327202245771535",
+      "name": "VIP009_SFIP_Variable_6x_Box_Loader_modified.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1502327200794411231/1502327202245771535/SFIP_Variable_6x_Box_Loader_modified.litematic?ex=69ff4ebc&is=69fdfd3c&hm=5d214db7d61a8f86282f66fd77f20a93c6eec841eaea2bb978c0adcb96b39b2c&",
+      "timestamp": 1778253116559,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "688456529338433611",
+        "username": "glidingmonkey",
+        "displayName": "Christone",
+        "iconURL": "https://cdn.discordapp.com/avatars/688456529338433611/348a34add443a5a71237111010e484b1.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 17840,
+      "canDownload": true,
+      "hash": "df35b1d85438a7165fe3ee680372df545b55eaa9ff192668a7d1b08555ceccc5",
+      "path": "attachments/VIP009_SFIP_Variable_6x_Box_Loader_modified.litematic",
+      "litematic": {
+        "size": "34x19x22",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "This variable item processor sorts item entities into ideal output split boxes. This is an adjustment to the original system by <@688456529338433611> to make it work in newer versions of the game, removing overstacked items in the filters and fixing the dolphin cage.",
+    "features": [
+      "input: item entity pile, empty boxes",
+      "output: single item type boxes, unstackable items",
+      "auto starts when items stop coming in",
+      "uses variable stack separation based filters",
+      "includes dolphin for item entity despawn protection",
+      "no more overstacked items",
+      "fixed the dolphin cage"
+    ],
+    "considerations": [
+      "empty box line may need rework"
+    ],
+    "compatibility": "older version for below MC 1.21: https://discord.com/channels/748542142347083868/749137424684285992/1107706303155019897"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Ideal box output",
+      "id": "1460470569966374956",
+      "url": "https://discord.com/channels/1375556143186837695/1460470569966374956/1460470570809557257",
+      "matches": [
+        "ideal output"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "688456529338433611",
+        "username": "glidingmonkey",
+        "iconURL": "https://cdn.discordapp.com/avatars/688456529338433611/348a34add443a5a71237111010e484b1.webp",
+        "displayName": "Christone"
+      },
+      "matches": [
+        "<@688456529338433611>"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "item entity",
+      "id": "1456908472384884879",
+      "url": "https://discord.com/channels/1375556143186837695/1456908472384884879/1456908473844502594",
+      "matches": [
+        "item entity"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/749137424684285992/1107706303155019897",
+      "server": "748542142347083868",
+      "channel": "749137424684285992",
+      "message": "1107706303155019897",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/749137424684285992/1107706303155019897"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1502331348822786219",
+    "forumId": "1375569954073477120",
+    "continuingMessageIds": [
+      "1502331365776163030",
+      "1502331366812029091"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1502331348822786219",
+    "uploadMessageId": "1502331346801000629",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1502331348822786219/1502331359790759966/area_render_23_.png?ex=69ff529c&is=69fe011c&hm=ad1fc9b7c62b53eee167ad9e5c9eda3ce9a75ec2bb2765929a3169131896b021&"
+  },
+  "archivedAt": 1778254102146,
+  "updatedAt": 1778254102146,
+  "num_comments": 0
+}
