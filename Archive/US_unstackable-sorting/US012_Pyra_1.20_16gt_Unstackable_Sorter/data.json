@@ -1,0 +1,203 @@
+{
+  "id": "1502321247080677386",
+  "name": "Pyra 1.20+ 16gt Unstackable Sorter",
+  "code": "US012",
+  "reservedCodes": [
+    "US012"
+  ],
+  "pastPostThreadIds": [
+    "1502323201626214400"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "719903397171560559",
+      "username": "pyraleftt",
+      "displayName": "PyraLeft",
+      "iconURL": "https://cdn.discordapp.com/avatars/719903397171560559/7ba08c1c9ee4d550dae6dd373cf9fabe.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "381396930212921355",
+      "username": "commandleo",
+      "displayName": "CommandLeo",
+      "iconURL": "https://cdn.discordapp.com/avatars/381396930212921355/cb1dcc76d3f6a30dddc49e6d9e96681a.webp",
+      "dontDisplay": true,
+      "reason": "Specific unstackable sorting methods"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465491430553292873",
+      "name": "Functional"
+    },
+    {
+      "id": "1387992098573385912",
+      "name": "Full Sorters"
+    }
+  ],
+  "images": [
+    {
+      "id": "1502321247529205850",
+      "name": "unstack_small.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1502321247080677386/1502321247529205850/unstack_small.png?ex=69ff4931&is=69fdf7b1&hm=335194d7dcdbc8504b9f96e242e5da866a30803af2c8cb979b0f371f6f098514&",
+      "timestamp": 1778251697083,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 269279,
+      "canDownload": true,
+      "width": 1200,
+      "height": 755,
+      "path": "images/unstack_small.png",
+      "hash": "84b62619e792d8a88631b2dd4cbde508654de045555d6ebcde545769d2d86bdd"
+    },
+    {
+      "id": "1502321247940513972",
+      "name": "unstack_complete.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1502321247080677386/1502321247940513972/unstack_complete.png?ex=69ff4931&is=69fdf7b1&hm=b6efa0437cbe1b5d0275e3db66f1f8f37a812532e8c183485eae0f60fc97698d&",
+      "timestamp": 1778251697083,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 306457,
+      "canDownload": true,
+      "width": 1200,
+      "height": 780,
+      "path": "images/unstack_complete.png",
+      "hash": "4788bde8738a012574a5156238623444d4c7d4407befdb8e12ee7566b6bf6abb"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1502321248364134616",
+      "name": "US012_Base_Unstack.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1502321247080677386/1502321248364134616/Base_Unstack.litematic?ex=69ff4931&is=69fdf7b1&hm=59fddb57c4eaa3de5a909c91dacfafb76037b821941b5bb46746ffd43018ca93&",
+      "timestamp": 1778251697083,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 5731,
+      "canDownload": true,
+      "hash": "0184276068f4946b3481c53113668fe9e56de0c7c47db0d018d70638f5d01643",
+      "path": "attachments/US012_Base_Unstack.litematic",
+      "litematic": {
+        "size": "7x7x31",
+        "version": "1.21.1"
+      }
+    },
+    {
+      "id": "1502321248716329142",
+      "name": "US012_Extended_Unstack.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1502321247080677386/1502321248716329142/Extended_Unstack.litematic?ex=69ff4931&is=69fdf7b1&hm=f090de7291222fbb0a28346437e3249376ebe72686b13ff2df582af19fe237f1&",
+      "timestamp": 1778251697083,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 7378,
+      "canDownload": true,
+      "hash": "55bee8e096739955a2cfbfd5651a1a431753d849658ee7fd210d512970d34478",
+      "path": "attachments/US012_Extended_Unstack.litematic",
+      "litematic": {
+        "size": "7x9x38",
+        "version": "1.21.1"
+      }
+    }
+  ],
+  "records": {
+    "description": "Sorts 1.20 unstackable items at half-hopperspeed throughput. Has two versions: base version sorts 11 unstackables types, while extended version sorts 16, adding cart and boat variants.",
+    "features": [
+      "Sorts at half-hopperspeed (1 item every 16gt)",
+      "Very compact: 6x6x14 for base, 6x8x17 for extended",
+      "Low hopper count only 28 hoppers for base, 46 for extended",
+      "Every clock is independent and pulses only once per item.",
+      "Fully hopper locked versions included where hopper carts are yeeted while locked.",
+      "Includes a fish tank for mobs in a bucket."
+    ],
+    "considerations": [
+      "Brushes are not sorted separately, they go into shears output"
+    ],
+    "compatibility": "1.20+"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopper speed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopperspeed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Gametick",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Bucket",
+      "id": "1464788208796565709",
+      "url": "https://discord.com/channels/1375556143186837695/1464788208796565709/1464788210138878080",
+      "matches": [
+        "bucket"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1502323201626214400",
+    "forumId": "1375564342392786944",
+    "continuingMessageIds": [
+      "1502323211814309990"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1502323201626214400",
+    "uploadMessageId": "1502323198400663686",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1502323201626214400/1502323205535305738/unstack_small.png?ex=69ff4b04&is=69fdf984&hm=be9a9c9dbf965c26cc4df977cc95a4bbcad2a5832744a310b306a16d2433cf75&"
+  },
+  "archivedAt": 1778252159073,
+  "updatedAt": 1778252159073,
+  "num_comments": 0
+}
