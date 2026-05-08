@@ -1,0 +1,203 @@
+{
+  "id": "1502139800973611059",
+  "name": "Binned Storage Input With Input Handler",
+  "code": "PI006",
+  "reservedCodes": [
+    "PI006"
+  ],
+  "pastPostThreadIds": [
+    "1502141146279837728"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "660633169191632908",
+      "username": "etikle",
+      "displayName": "Passionate Storage Techer 69",
+      "iconURL": "https://cdn.discordapp.com/avatars/660633169191632908/552443236bae5d574b5b1aec2694b58f.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "727730797049806898",
+      "username": "sskyzy",
+      "displayName": "skyzy",
+      "iconURL": "https://cdn.discordapp.com/avatars/727730797049806898/00d0b08b860ed57fbd2c228943b0de07.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "496255535549775872",
+      "username": "kizuyuuu",
+      "displayName": "Kizu",
+      "iconURL": "https://cdn.discordapp.com/avatars/496255535549775872/b1fcfb5dffaaf1d828955b06b9c00c2d.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "416583889448992768",
+      "username": "toxmi",
+      "iconURL": "https://cdn.discordapp.com/avatars/416583889448992768/7c38ddac1b95ab2d4266c86a313ebaef.webp",
+      "dontDisplay": true,
+      "reason": "Contributed to component"
+    },
+    {
+      "type": "unknown",
+      "username": "Aura",
+      "reason": "Contributed to component",
+      "dontDisplay": true
+    },
+    {
+      "type": "unknown",
+      "username": "Basil",
+      "dontDisplay": true,
+      "reason": "Contributed to component"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465491660728307775",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1502139802382893209",
+      "name": "area_render_27_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1502139800973611059/1502139802382893209/area_render_27_.png?ex=69fea035&is=69fd4eb5&hm=6ac3d011ad75b90f55887a53192c2ea4aa03e48f737e967c152f4d00716b9ac4&",
+      "timestamp": 1778208436960,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 248264,
+      "canDownload": true,
+      "width": 923,
+      "height": 1200,
+      "path": "images/area_render_27_.png",
+      "hash": "342eb44f8d58f5a3e505c90b435f67234b00c7090de3bb58f1a61d02add2380b"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1502139802697469972",
+      "name": "PI006_ultimate-input_v1.0.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1502139800973611059/1502139802697469972/ultimate-input_v1.0.litematic?ex=69fea035&is=69fd4eb5&hm=87e8f32dcb9b8dc774889e9ecce8a3d02a13becaabe166cea270b30220d03a87&",
+      "timestamp": 1778208436960,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 2555,
+      "canDownload": true,
+      "hash": "5398f8faef3c48b16d56b286df2af7c87ef22f326d7a108ae9a98ba025da3c3a",
+      "path": "attachments/PI006_ultimate-input_v1.0.litematic",
+      "litematic": {
+        "size": "7x10x6",
+        "version": "1.20.1"
+      }
+    }
+  ],
+  "records": {
+    "description": "Storage input system based of PI002 which has built in item preprocessing. Has main and bulk inputs; loose items are loaded by a CUD loader; bulk input uses an IsFull so it only outputs full boxes",
+    "features": [
+      "Starts from noteblock",
+      "Pauseable",
+      "Fully hopperlocked (except CUD loader empty box distribution hopper, which should be locked externally)",
+      "CUD loader for loose items",
+      "Very small (7x10x6)",
+      "Good UI"
+    ]
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "archivedPost",
+      "id": "1388227748467572896",
+      "code": "PI002",
+      "name": "Binned Storage Input",
+      "url": "https://discord.com/channels/1375556143186837695/1388318242690564188",
+      "path": "Archive/PI_player-inputs/PI002_Binned_Storage_Input",
+      "matches": [
+        "PI002"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Comparator Update Detector",
+      "id": "1454753535919915098",
+      "url": "https://discord.com/channels/1375556143186837695/1454753535919915098/1454753536629018626",
+      "matches": [
+        "CUD"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Fill Sorter",
+      "id": "1454753607604768770",
+      "url": "https://discord.com/channels/1375556143186837695/1454753607604768770/1454753609131495434",
+      "matches": [
+        "IsFull"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopperlocking",
+      "id": "1454753660625227895",
+      "url": "https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422",
+      "matches": [
+        "hopperlocked"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "User interface",
+      "id": "1454754844316274861",
+      "url": "https://discord.com/channels/1375556143186837695/1454754844316274861/1454754845033627671",
+      "matches": [
+        "UI"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1502141146279837728",
+    "forumId": "1375569381781930006",
+    "continuingMessageIds": [
+      "1502141156077867008"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1502141146279837728",
+    "uploadMessageId": "1502141140575715459",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1502141146279837728/1502141149916168312/area_render_27_.png?ex=69fea176&is=69fd4ff6&hm=74830954d9d4f6c52f0a3c3ac6d19c6927b3b4b36b9edfd25bc06b210bc942f5&"
+  },
+  "archivedAt": 1778208751239,
+  "updatedAt": 1778208751239,
+  "num_comments": 0
+}

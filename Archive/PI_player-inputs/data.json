@@ -4,7 +4,7 @@
   "code": "PI",
   "category": "Storage Halls & UI",
   "description": "Player input devices",
-  "currentCodeId": 5,
+  "currentCodeId": 6,
   "entries": [
     {
       "id": "1386870260661227682",
@@ -30,6 +30,11 @@
       "id": "1496371319716057108",
       "code": "PI005",
       "path": "PI005_Fast_Input_Chest_Unloader"
+    },
+    {
+      "id": "1502139800973611059",
+      "code": "PI006",
+      "path": "PI006_Binned_Storage_Input_With_Input_Handler"
     }
   ]
 }
