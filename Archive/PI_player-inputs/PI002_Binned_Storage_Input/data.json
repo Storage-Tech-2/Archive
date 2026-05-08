@@ -12,6 +12,7 @@
     {
       "type": "discord-external",
       "id": "759402531235037204",
+      "displayName": "oliver",
       "username": "oliver.005",
       "iconURL": "https://cdn.discordapp.com/avatars/759402531235037204/551968393d3f33787b4fee2527093bcc.webp"
     }
@@ -83,7 +84,7 @@
       "Manual loader for loose items, box won't break until items are inputted",
       "Small, 5x5x7 footprint (excluding signs and floor)"
     ],
-    "notes": "Requires an external input handler, eg a box fill level checker (FBS008) and a unstackable pre-sorter (OIP005)"
+    "notes": "Requires an external input handler, eg a box fill level checker (FBS008) and a unstackable pre-sorter (OIP005). An example of a complete input system can be found at (PI006)."
   },
   "styles": {},
   "references": [
@@ -144,6 +145,17 @@
       "matches": [
         "OIP005"
       ]
+    },
+    {
+      "type": "archivedPost",
+      "id": "1502139800973611059",
+      "code": "PI006",
+      "name": "Binned Storage Input With Input Handler",
+      "url": "https://discord.com/channels/1375556143186837695/1502141146279837728",
+      "path": "Archive/PI_player-inputs/PI006_Binned_Storage_Input_With_Input_Handler",
+      "matches": [
+        "PI006"
+      ]
     }
   ],
   "author_references": [],
@@ -159,6 +171,6 @@
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1388318242690564188/1388318243340554321/area_render_21_.png?ex=69b2b45e&is=69b162de&hm=544850cc3eb5a102ef45bd87b9cfb1d873d0adbd6ceb248f00a719b2c6513b03&"
   },
   "archivedAt": 1766904575932,
-  "updatedAt": 1773641378387,
+  "updatedAt": 1778209014825,
   "num_comments": 0
 }
