@@ -36,7 +36,7 @@ Original unsorted post: https://discord.com/channels/748542142347083868/12030997
 
 ## Comments
 
-### Andrews54757 (6/26/2025)
+### Andrews54757 (6/27/2025)
 "Why Hybrid" resource posted by RestartLife
 <img alt="hybrid_loader_explanation.png" src="comments_attachments/1387995973418094643-hybrid_loader_explanation.png?raw=1" height="150px">
 
