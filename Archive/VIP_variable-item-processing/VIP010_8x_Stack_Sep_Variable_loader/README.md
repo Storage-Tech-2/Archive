@@ -20,4 +20,4 @@ Extra credits: RaPsCaLLioN1138 for stack seperation core, hampter and Floppy for
 <img src="images/area_render_1_.png?raw=1" height="300px">
 
 ## Resources
-- [VIP010_8xVarsorter_V1.2.litematic](): MC 1.19.4, Size 74x54x22 blocks
+- [VIP010_8xVarsorter_V1.2.litematic](attachments/VIP010_8xVarsorter_V1.2.litematic): MC 1.19.4, Size 74x54x22 blocks
