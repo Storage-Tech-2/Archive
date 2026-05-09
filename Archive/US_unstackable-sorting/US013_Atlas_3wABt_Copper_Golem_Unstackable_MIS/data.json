@@ -1,0 +1,167 @@
+{
+  "id": "1498547833694060624",
+  "name": "Atlas 3wABt Copper Golem Unstackable MIS",
+  "code": "US013",
+  "reservedCodes": [
+    "US013"
+  ],
+  "pastPostThreadIds": [
+    "1502705397574799502"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "881656808647852062",
+      "username": "nf_atlas",
+      "displayName": "atlas",
+      "iconURL": "https://cdn.discordapp.com/avatars/881656808647852062/5a7729f027681228dec2dc1bdb138133.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "306131701493399554",
+      "username": "tpsnighthunter",
+      "displayName": "TPS Nighthunter",
+      "iconURL": "https://cdn.discordapp.com/avatars/306131701493399554/882bc2e7f07308dfeeafff83363896a1.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465491430553292873",
+      "name": "Functional"
+    },
+    {
+      "id": "1501631416033873921",
+      "name": "Copper Golem"
+    },
+    {
+      "id": "1387992098573385912",
+      "name": "Full Sorters"
+    }
+  ],
+  "images": [
+    {
+      "id": "1498547833890934944",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1498547833694060624/1498547833890934944/image.png?ex=69f18eed&is=69f03d6d&hm=59ca24bf9b0d70461498fbd43c2ef30ab9a0dcf53c26e2c28345c2f2ed9a660a&",
+      "timestamp": 1777352045225,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "881656808647852062",
+        "username": "nf_atlas",
+        "displayName": "atlas",
+        "iconURL": "https://cdn.discordapp.com/avatars/881656808647852062/5a7729f027681228dec2dc1bdb138133.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Render of the AB slices",
+      "size": 128195,
+      "canDownload": true,
+      "width": 1000,
+      "height": 931,
+      "path": "images/image.png",
+      "hash": "cbd7912bb652b9fb51cbb956285680ed72fdb0f675cf6a9833789980bf6e3814"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1498547834184667136",
+      "name": "US013_Atlas_Cgolem_UnstackMIS_3wABt.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1498547833694060624/1498547834184667136/Atlas_Cgolem_UnstackMIS_3wABt.litematic?ex=69f18eed&is=69f03d6d&hm=c2d56ae815c9310d8235ec59c993a009b87cb1c54c1ade8e46ffa76911e18ca2&",
+      "timestamp": 1777352045225,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "881656808647852062",
+        "username": "nf_atlas",
+        "displayName": "atlas",
+        "iconURL": "https://cdn.discordapp.com/avatars/881656808647852062/5a7729f027681228dec2dc1bdb138133.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Get schematic here",
+      "size": 6075,
+      "canDownload": true,
+      "hash": "8d400811a550457d0cc216efdd1491afa9faf87b473774731c3bd7674dec5269",
+      "path": "attachments/US013_Atlas_Cgolem_UnstackMIS_3wABt.litematic",
+      "litematic": {
+        "size": "13x13x9",
+        "version": "1.21.11"
+      }
+    }
+  ],
+  "records": {
+    "description": "An unstackable sorter using copper golems, with support for multi-item-sorting.",
+    "features": [
+      "34 hoppers",
+      "Fully hopperlocked",
+      "Overflow Protected"
+    ],
+    "considerations": [
+      "AB tileable",
+      "Right side of render only has 1.5 dc of space meanwhile left side has 3 dc of space"
+    ],
+    "notes": "In the schematic there are 8 waxed copper golems per cell, you can reduce the amount to reduce lag, or increase for more speed",
+    "compatibility": "1.21.9+"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Unstackable sorter",
+      "id": "1454754837379022858",
+      "url": "https://discord.com/channels/1375556143186837695/1454754837379022858/1454754839224516712",
+      "matches": [
+        "unstackable sorter"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopperlocking",
+      "id": "1454753660625227895",
+      "url": "https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422",
+      "matches": [
+        "hopperlocked"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "A/B Tiling",
+      "id": "1454753732293033984",
+      "url": "https://discord.com/channels/1375556143186837695/1454753732293033984/1454753733035687988",
+      "matches": [
+        "AB tileable"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Schematic",
+      "id": "1454811558009110704",
+      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
+      "matches": [
+        "schematic"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1502705397574799502",
+    "forumId": "1375564342392786944",
+    "continuingMessageIds": [
+      "1502705408991694919"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1502705397574799502",
+    "uploadMessageId": "1502705396219908260",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1502705397574799502/1502705402914148352/image.png?ex=6a00aef6&is=69ff5d76&hm=a14dd3798c956c9bd01bfb95a4016c003f5c35de0bd49fe5c39ed7a0abfeb3c2&"
+  },
+  "archivedAt": 1778343280414,
+  "updatedAt": 1778343280414,
+  "num_comments": 0
+}
