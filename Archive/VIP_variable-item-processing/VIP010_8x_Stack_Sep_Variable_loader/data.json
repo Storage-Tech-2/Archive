@@ -1,0 +1,148 @@
+{
+  "id": "1386963010819461152",
+  "name": "8x Stack Sep Variable loader",
+  "code": "VIP010",
+  "reservedCodes": [
+    "VIP010"
+  ],
+  "pastPostThreadIds": [
+    "1502479670770139167"
+  ],
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "396938955301584896",
+      "username": "lezhen_",
+      "iconURL": "https://cdn.discordapp.com/embed/avatars/1.png"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465487719571525919",
+      "name": "Untested"
+    }
+  ],
+  "images": [
+    {
+      "id": "1386963011171778662",
+      "name": "area_render.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386963010819461152/1386963011171778662/area_render.png?ex=685b9d76&is=685a4bf6&hm=7007380f5fe9057cbdb5574f537ffbdf86350af48b7f4bd22805ec82fa57911a&",
+      "description": "",
+      "canDownload": true,
+      "width": 800,
+      "height": 535,
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1750748150000,
+      "path": "images/area_render.png",
+      "hash": "49f4d5b94ca17d3d7798b931514dcda316cfd1e8a9395250c0407fef1ddce222"
+    },
+    {
+      "id": "1386963011843002399",
+      "name": "area_render_1_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386963010819461152/1386963011843002399/area_render_1_.png?ex=685b9d76&is=685a4bf6&hm=5d9d02d2f9893a4f3b69aa48157ff5f5865c36a2e344055913c3c9ccf290f5b7&",
+      "description": "",
+      "canDownload": true,
+      "width": 544,
+      "height": 735,
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1750748150000,
+      "path": "images/area_render_1_.png",
+      "hash": "f25c9661fd4d5d78a4cd6307bfa2851e7b041d03c3ca914085c20e79dedcb9b5"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1386963012174221382",
+      "name": "VIP010_8xVarsorter_V1.2.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386963010819461152/1386963012174221382/8xVarsorter_V1.2.litematic?ex=685b9d76&is=685a4bf6&hm=e371f940264311c0bb079dd8b5dfd103885b119cb4f2984fef0f143328b461a0&",
+      "description": "",
+      "canDownload": true,
+      "litematic": {
+        "size": "74x54x22",
+        "version": "1.19.4"
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1750748150000
+    }
+  ],
+  "records": {
+    "description": "72k per slice. Overflow detection and block input hopper. Stack size of 64 items.",
+    "features": [
+      "72k items/h per slice",
+      "Overflow detection and block input hopper."
+    ],
+    "considerations": [],
+    "notes": "Extra credits: RaPsCaLLioN1138 for stack seperation core, hampter and Floppy for the box loader. Original thread: https://discord.com/channels/748542142347083868/749137424684285992/1144657658784252064"
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/749137424684285992/1144657658784252064",
+      "server": "748542142347083868",
+      "channel": "749137424684285992",
+      "message": "1144657658784252064",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/749137424684285992/1144657658784252064"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1502479670770139167",
+    "forumId": "1375569954073477120",
+    "continuingMessageIds": [
+      "1502479685114658889",
+      "1502479686675206144"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1502479670770139167",
+    "uploadMessageId": "",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1502479670770139167/1502479681302167713/area_render.png?ex=69ffdcbe&is=69fe8b3e&hm=22fcb9ebbcd724b04cb9a70ec29c90f171887ac0304e2e2a6f9136b658843085&"
+  },
+  "archivedAt": 1778289462160,
+  "updatedAt": 1778289462160,
+  "num_comments": 0
+}
