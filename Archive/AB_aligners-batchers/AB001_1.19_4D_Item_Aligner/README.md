@@ -18,4 +18,4 @@ A simple setup that reliably aligns the output of a dropper in the 3 dimensions 
 The waterlogged stairs can be any water source block and the leaves can be any block that redirects water without creating a source.
 
 ## Resources
-- [AB001_1.19_4D_Aligner.litematic](): MC 1.20.1, Size 10x3x7 blocks
+- [AB001_1.19_4D_Aligner.litematic](attachments/AB001_1.19_4D_Aligner.litematic): MC 1.20.1, Size 10x3x7 blocks
