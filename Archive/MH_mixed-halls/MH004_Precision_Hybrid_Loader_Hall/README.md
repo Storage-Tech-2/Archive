@@ -24,5 +24,5 @@ A hybrid storage hall that puts loose items into the topmost chest until the che
 <img src="images/area_render_5_.png?raw=1" height="300px">
 
 ## Resources
-- [MH004_Sorting_precision_hybrid_box_loader.litematic](): MC 1.20.1, Size 8x14x4 blocks
-- [MH004_Sorting_precision_hybrid_box_loader_1.litematic](): MC 1.20.1, Size 8x16x4 blocks
+- [MH004_Sorting_precision_hybrid_box_loader.litematic](attachments/MH004_Sorting_precision_hybrid_box_loader.litematic): MC 1.20.1, Size 8x14x4 blocks
+- [MH004_Sorting_precision_hybrid_box_loader_1.litematic](attachments/MH004_Sorting_precision_hybrid_box_loader_1.litematic): MC 1.20.1, Size 8x16x4 blocks
