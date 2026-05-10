@@ -12,6 +12,7 @@
     {
       "type": "discord-external",
       "id": "759402531235037204",
+      "displayName": "oliver",
       "username": "oliver.005",
       "iconURL": "https://cdn.discordapp.com/avatars/759402531235037204/551968393d3f33787b4fee2527093bcc.webp"
     }
@@ -72,7 +73,9 @@
         "type": "unknown",
         "username": "Unknown"
       },
-      "timestamp": 1751049687000
+      "timestamp": 1751049687000,
+      "path": "attachments/PI002_Ultimate_Storage_Input_v5.litematic",
+      "hash": "0d8e7a51ecd3c3d00cfa2a2b90e8cb3e65d68cd9a7be02e8e1f500b580e31c75"
     }
   ],
   "records": {
@@ -170,6 +173,6 @@
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1388318242690564188/1388318243340554321/area_render_21_.png?ex=69b2b45e&is=69b162de&hm=544850cc3eb5a102ef45bd87b9cfb1d873d0adbd6ceb248f00a719b2c6513b03&"
   },
   "archivedAt": 1766904575932,
-  "updatedAt": 1778209014825,
+  "updatedAt": 1778395988643,
   "num_comments": 0
 }
