@@ -19,5 +19,5 @@ To use: put items on gold block (preferrably towards the carpet) and flick the l
 <img src="images/area_render_18_.png?raw=1" height="300px">
 
 ## Resources
-- [AB002_4d_farm_batcher_-_Overworld_End.litematic](): MC 1.20.1, Size 6x4x6 blocks
-- [AB002_4d_farm_batcher_-_Nether_All_Dimensions.litematic](): MC 1.20.1, Size 6x4x6 blocks
+- [AB002_4d_farm_batcher_-_Overworld_End.litematic](attachments/AB002_4d_farm_batcher_-_Overworld_End.litematic): MC 1.20.1, Size 6x4x6 blocks
+- [AB002_4d_farm_batcher_-_Nether_All_Dimensions.litematic](attachments/AB002_4d_farm_batcher_-_Nether_All_Dimensions.litematic): MC 1.20.1, Size 6x4x6 blocks
