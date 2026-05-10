@@ -76,7 +76,9 @@
         "type": "unknown",
         "username": "Unknown"
       },
-      "timestamp": 1750566058000
+      "timestamp": 1750566058000,
+      "path": "attachments/TD001_ceiling_box_display.litematic",
+      "hash": "049d1206aba52905ed51d2c4c117b8f2aa3bedbee661c8b3b4999c1d35be0f46"
     }
   ],
   "records": {
@@ -120,6 +122,6 @@
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1388317123041951817/1388317123805184151/Ceiling_Box_Display.png?ex=69b2b354&is=69b161d4&hm=964f2c8593fe6fcb0c7fbb29844231aa203809482fa92035ca83b684c2a2e7e1&"
   },
   "archivedAt": 1750566430138,
-  "updatedAt": 1774791052292,
+  "updatedAt": 1778395948075,
   "num_comments": 0
 }

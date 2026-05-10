@@ -20,4 +20,4 @@ Designed for quad displays, with all wiring up top. Hopperlocking is possible wi
 For 1.11+ compatibility replace the glass with slabs/solid blocks and noteblocks with trapdoors/rails.
 
 ## Resources
-- [TD001_ceiling_box_display.litematic](): MC 1.17.1, Size 1x8x8 blocks
+- [TD001_ceiling_box_display.litematic](attachments/TD001_ceiling_box_display.litematic): MC 1.17.1, Size 1x8x8 blocks
