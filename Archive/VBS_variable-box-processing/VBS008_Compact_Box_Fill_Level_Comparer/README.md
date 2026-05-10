@@ -19,4 +19,4 @@ Given two boxes, compares the fill level of the two boxes and outputs the more-f
 The noteblock is the clock input. Send pulse there after putting two boxes into the input.
 
 ## Resources
-- [VBS008_comparerer.litematic](): MC 1.20.2, Size 5x2x5 blocks
+- [VBS008_comparerer.litematic](attachments/VBS008_comparerer.litematic): MC 1.20.2, Size 5x2x5 blocks

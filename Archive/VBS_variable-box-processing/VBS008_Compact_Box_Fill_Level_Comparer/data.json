@@ -75,7 +75,9 @@
         "type": "unknown",
         "username": "Unknown"
       },
-      "timestamp": 1750618568000
+      "timestamp": 1750618568000,
+      "path": "attachments/VBS008_comparerer.litematic",
+      "hash": "0d6a92ad529283f867d4b771f490aa2698a642f8e20a90b2a8f9a7cced47e308"
     }
   ],
   "records": {
@@ -108,10 +110,10 @@
       "1482973880032428157"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1482973872314912868",
-    "uploadMessageId": "",
+    "uploadMessageId": "1502926308857086043",
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1482973872314912868/1482973876412481696/asdasdmage.png?ex=69b8e68c&is=69b7950c&hm=1071d8aa19b796af7ee6eec3d4d62523778812a18f9045226977e6bb167a5e51&"
   },
   "archivedAt": 1750619211970,
-  "updatedAt": 1773638921276,
+  "updatedAt": 1778395954687,
   "num_comments": 0
 }
