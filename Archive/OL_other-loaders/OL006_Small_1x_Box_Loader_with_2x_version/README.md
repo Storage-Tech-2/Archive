@@ -26,7 +26,7 @@ Included are also versions that have built in box crafters instead of empty box 
 <img src="images/area_render_5_.png?raw=1" height="300px">
 
 ## Resources
-- [OL006_Scorpio_-_1x_Accessible_Loader.litematic](): MC 1.21.4, Size 4x3x3 blocks
-- [OL006_Scorpio_-_Simple_2x_Loader.litematic](): MC 1.21.4, Size 4x3x3 blocks
-- [OL006_Scorpio_-_1x_Accessible_Loader_w_Box_Crafter.litematic](): MC 1.21.4, Size 4x3x4 blocks
-- [OL006_Scorpio_-_2x_Box_Loader_w_Box_Crafter.litematic](): MC 1.21.4, Size 4x3x4 blocks
+- [OL006_Scorpio_-_1x_Accessible_Loader.litematic](attachments/OL006_Scorpio_-_1x_Accessible_Loader.litematic): MC 1.21.4, Size 4x3x3 blocks
+- [OL006_Scorpio_-_Simple_2x_Loader.litematic](attachments/OL006_Scorpio_-_Simple_2x_Loader.litematic): MC 1.21.4, Size 4x3x3 blocks
+- [OL006_Scorpio_-_1x_Accessible_Loader_w_Box_Crafter.litematic](attachments/OL006_Scorpio_-_1x_Accessible_Loader_w_Box_Crafter.litematic): MC 1.21.4, Size 4x3x4 blocks
+- [OL006_Scorpio_-_2x_Box_Loader_w_Box_Crafter.litematic](attachments/OL006_Scorpio_-_2x_Box_Loader_w_Box_Crafter.litematic): MC 1.21.4, Size 4x3x4 blocks

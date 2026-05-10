@@ -125,7 +125,9 @@
         "type": "unknown",
         "username": "Unknown"
       },
-      "timestamp": 1750817804000
+      "timestamp": 1750817804000,
+      "path": "attachments/OL006_Scorpio_-_1x_Accessible_Loader.litematic",
+      "hash": "0f8113094c4deb64cf539a569b79c6071afdf6944e83d0b379fe19d9bdeed3e4"
     },
     {
       "id": "1387255162393067641",
@@ -143,7 +145,9 @@
         "type": "unknown",
         "username": "Unknown"
       },
-      "timestamp": 1750817804000
+      "timestamp": 1750817804000,
+      "path": "attachments/OL006_Scorpio_-_Simple_2x_Loader.litematic",
+      "hash": "6ba3e722b08458ddad905db9e684a14e0f39f79a2a2fe74d267a36489473bede"
     },
     {
       "id": "1387287400912257096",
@@ -161,7 +165,9 @@
         "type": "unknown",
         "username": "Unknown"
       },
-      "timestamp": 1750825491000
+      "timestamp": 1750825491000,
+      "path": "attachments/OL006_Scorpio_-_1x_Accessible_Loader_w_Box_Crafter.litematic",
+      "hash": "1e0bb0bd21d51d66d4d56205dde2780c1d0d20b0a4d7113c46c5a3dd3a319f74"
     },
     {
       "id": "1387287401411641446",
@@ -179,7 +185,9 @@
         "type": "unknown",
         "username": "Unknown"
       },
-      "timestamp": 1750825491000
+      "timestamp": 1750825491000,
+      "path": "attachments/OL006_Scorpio_-_2x_Box_Loader_w_Box_Crafter.litematic",
+      "hash": "acf01a8121e1a4f35951068cc9f83e27edf6a3d35f75624c3545afe6b82c6e66"
     }
   ],
   "records": {
@@ -218,13 +226,14 @@
     "threadId": "1482969393372729385",
     "forumId": "1375557962675912865",
     "continuingMessageIds": [
-      "1482969404311605360"
+      "1502926425148227664",
+      "1502926425525583964"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1482969393372729385",
-    "uploadMessageId": "",
+    "uploadMessageId": "1502926420211667145",
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1482969393372729385/1482969398921662495/Scorpio_-_1x_Accessible_Loader.png?ex=69b8e260&is=69b790e0&hm=78ddd7a2dad9862bd4a8fd7ab979f1cd125f8a9ffb8d6a25b879090e4126c00b&"
   },
   "archivedAt": 1750942147033,
-  "updatedAt": 1773637853523,
+  "updatedAt": 1778395981173,
   "num_comments": 0
 }
