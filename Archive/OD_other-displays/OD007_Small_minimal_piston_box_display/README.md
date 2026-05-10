@@ -19,4 +19,4 @@ Simple bottom box display with minimal pistons and reliable wiring.
 - No breakable togglestates
 
 ## Resources
-- [OD007_ken_small_minimal_piston_box_display_1.17.1.litematic](): MC 1.17.1, Size 5x7x1 blocks
+- [OD007_ken_small_minimal_piston_box_display_1.17.1.litematic](attachments/OD007_ken_small_minimal_piston_box_display_1.17.1.litematic): MC 1.17.1, Size 5x7x1 blocks

@@ -82,7 +82,9 @@
         "type": "unknown",
         "username": "Unknown"
       },
-      "timestamp": 1750743932000
+      "timestamp": 1750743932000,
+      "path": "attachments/OD007_ken_small_minimal_piston_box_display_1.17.1.litematic",
+      "hash": "99474e912c10d863120e63940c38d64522366a2fa0400bb09713304edcf95c96"
     }
   ],
   "records": {
@@ -144,10 +146,10 @@
       "1496715272722317383"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1496715265319112845",
-    "uploadMessageId": "",
+    "uploadMessageId": "1502926390515728509",
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1496715265319112845/1496715269093986344/2021-12-31_16.png?ex=69eae437&is=69e992b7&hm=567cf24d5bf60e6bb87d32efa4c2ebdeeef92c9673c2080bc31e90cded7423cf&"
   },
   "archivedAt": 1750744033654,
-  "updatedAt": 1776915122985,
+  "updatedAt": 1778395974076,
   "num_comments": 0
 }
