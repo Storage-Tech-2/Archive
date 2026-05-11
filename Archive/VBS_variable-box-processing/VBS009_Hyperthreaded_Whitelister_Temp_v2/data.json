@@ -1,0 +1,208 @@
+{
+  "id": "1503401138379292733",
+  "name": "Hyperthreaded Whitelister Temp v2",
+  "code": "VBS009",
+  "reservedCodes": [
+    "VBS009"
+  ],
+  "pastPostThreadIds": [
+    "1503402043581141154"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "384084307712409600",
+      "username": "tisunfortunate",
+      "displayName": "TisUnfortunate",
+      "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/10653f22a436d6d084a01c465598ab6a.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "667691671852417025",
+      "username": "luukeem",
+      "displayName": "Lukeem",
+      "iconURL": "https://cdn.discordapp.com/avatars/667691671852417025/318e1618e0edb6102aec5faee6d19274.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "384084307712409600",
+      "username": "tisunfortunate",
+      "displayName": "TisUnfortunate",
+      "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/10653f22a436d6d084a01c465598ab6a.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465491795369525312",
+      "name": "Functional"
+    },
+    {
+      "id": "1465487757122998410",
+      "name": "Recommended"
+    },
+    {
+      "id": "1465521375253893226",
+      "name": "Independently Tested"
+    }
+  ],
+  "images": [
+    {
+      "id": "1503401139322753065",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1503401138379292733/1503401139322753065/image.png?ex=6a0336eb&is=6a01e56b&hm=8b65d45402c1cbb16b8f81983d5f3d95aeebc0569d3308ca72b699dc602dab60&",
+      "timestamp": 1778509163232,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "384084307712409600",
+        "username": "tisunfortunate",
+        "displayName": "TisUnfortunate",
+        "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/10653f22a436d6d084a01c465598ab6a.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 200326,
+      "canDownload": true,
+      "width": 884,
+      "height": 810,
+      "path": "images/image.png",
+      "hash": "fb5a856711790533fda012490101a904b52fe94b64529872d76a6ab90fccdfc5"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1503401543863505096",
+      "name": "VBS009_HT.WL.Temp.v2.0.litematic",
+      "url": "https://cdn.discordapp.com/attachments/1503401138379292733/1503401543863505096/HT.WL.Temp.v2.0.litematic?ex=6a03374b&is=6a01e5cb&hm=4afa26bf6c7f513d81e99cfefa9378d85c060528a64d34dc35c9b3c7dd66608b&",
+      "timestamp": 1778509259170,
+      "author": {
+        "type": "discord-external",
+        "id": "384084307712409600",
+        "username": "tisunfortunate",
+        "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/10653f22a436d6d084a01c465598ab6a.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "b20563a2ea937fce838505de90bb97dbefe67d00cc3c69df73f20d26f895269b",
+      "path": "attachments/VBS009_HT.WL.Temp.v2.0.litematic",
+      "size": 5476,
+      "litematic": {
+        "size": "21x13x8",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A temp which uses whitelisters to divide bulk items into smaller categories to significantly decrease search and output times, and hyperthreads search operations to increase throughput. Designed to function as a variable loops exclusive whitelister. Special thanks to <@855736940220252177> and <@670693115887091722> for help testing.",
+    "features": [
+      "Can store up to 400 unique partials (50 per slice)",
+      "Hyperthreaded Box Retrieval (*next box begins processing while previous bucket is being returned*)",
+      "Fast non-whitelisted Handling (52gt cycle)",
+      "Outputs full whitelisted boxes separately (same as non-whitelisted cycle)",
+      "Compact(6x11x19)",
+      "Accessible Temp Chests",
+      "Random Input Proof",
+      "43 hoppers(27 idle locked)",
+      "No idle cart"
+    ],
+    "considerations": [
+      "Does not handle empty boxes, mixed boxes, or non-box items.",
+      "Distribute your assigned items evenly across the slices",
+      "# of items assigned to each category is linearly related to cycle time, temp will get slower as you saturate the slices more. (first box input to a slice is 118gt)"
+    ]
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Whitelister",
+      "id": "1473812335243165757",
+      "url": "https://discord.com/channels/1375556143186837695/1473812335243165757/1473812336434479176",
+      "matches": [
+        "whitelister"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Pipelined",
+      "id": "1473819225020960850",
+      "url": "https://discord.com/channels/1375556143186837695/1473819225020960850/1473819226677444694",
+      "matches": [
+        "hyperthread",
+        "Hyperthread"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "855736940220252177",
+        "username": "comfypika",
+        "iconURL": "https://cdn.discordapp.com/avatars/855736940220252177/9a5872f81a5200cc553a713ec198a777.webp",
+        "displayName": "ComfyBiha"
+      },
+      "matches": [
+        "<@855736940220252177>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "670693115887091722",
+        "username": "kurisu_techmc_user",
+        "iconURL": "https://cdn.discordapp.com/avatars/670693115887091722/24ae8e8013f2636b4a625fbca73cd455.webp",
+        "displayName": "Kurisu"
+      },
+      "matches": [
+        "<@670693115887091722>"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Bucket",
+      "id": "1464788208796565709",
+      "url": "https://discord.com/channels/1375556143186837695/1464788208796565709/1464788210138878080",
+      "matches": [
+        "bucket"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Gametick",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1503402043581141154",
+    "forumId": "1375570066451599401",
+    "continuingMessageIds": [
+      "1503402060698095646",
+      "1503402061382025296"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1503402043581141154",
+    "uploadMessageId": "1503402041320411306",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1503402043581141154/1503402054289199134/image.png?ex=6a0337c5&is=6a01e645&hm=a28859bffe0272317375189d132b14deb3f9278d401b7711efb9f14f393e5089&"
+  },
+  "archivedAt": 1778509372719,
+  "updatedAt": 1778509372719,
+  "num_comments": 0
+}

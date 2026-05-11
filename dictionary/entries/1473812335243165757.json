@@ -40,14 +40,15 @@
     }
   ],
   "referencedBy": [
+    "DH004",
     "MIS003",
     "MIS004",
     "MIS006",
     "MIS010",
     "MIS011",
-    "DH004",
     "OIP003",
     "VBS006",
-    "VBS007"
+    "VBS007",
+    "VBS009"
   ]
 }
