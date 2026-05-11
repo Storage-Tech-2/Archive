@@ -1,0 +1,187 @@
+{
+  "id": "1503423164435402963",
+  "name": "2wt 2x Single item type Box Loader",
+  "code": "OL008",
+  "reservedCodes": [
+    "OL008"
+  ],
+  "pastPostThreadIds": [
+    "1503430122227630100"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "705870004796784673",
+      "username": "erremvp",
+      "displayName": "ERREMVP",
+      "iconURL": "https://cdn.discordapp.com/avatars/705870004796784673/9fbdafebcdbc53a98e503799ac14dfb3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "909697371473084506",
+      "username": "wisperingtoyou",
+      "displayName": "Hi!?",
+      "iconURL": "https://cdn.discordapp.com/avatars/909697371473084506/548688783b44556959a493683a4e71f2.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465490739759681724",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1503423164917616640",
+      "name": "2026-05-11_17.32.24.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1503423164435402963/1503423164917616640/2026-05-11_17.32.24.png?ex=6a034b6e&is=6a01f9ee&hm=9385e9f0555229f35c98143b37d90bb062e44c6f91d00caecf9d8a5a80ed5507&",
+      "timestamp": 1778514414653,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "705870004796784673",
+        "username": "erremvp",
+        "displayName": "ERREMVP",
+        "iconURL": "https://cdn.discordapp.com/avatars/705870004796784673/9fbdafebcdbc53a98e503799ac14dfb3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 178581,
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "path": "images/2026-05-11_17.32.24.png",
+      "hash": "3464b33f0b561e522d755c2e91dadbcc16bafb2d4f7d4a8798830f44339ab95c"
+    },
+    {
+      "id": "1503423165445963947",
+      "name": "2026-05-11_17.32.33.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1503423164435402963/1503423165445963947/2026-05-11_17.32.33.png?ex=6a034b6e&is=6a01f9ee&hm=9d10f8edb320526416b6b87c791af44928db96acc620bbcfc07521f51104bd24&",
+      "timestamp": 1778514414653,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "705870004796784673",
+        "username": "erremvp",
+        "displayName": "ERREMVP",
+        "iconURL": "https://cdn.discordapp.com/avatars/705870004796784673/9fbdafebcdbc53a98e503799ac14dfb3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 132523,
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "path": "images/2026-05-11_17.32.33.png",
+      "hash": "a62eb2835d0bd588500120eefcb312c72d427af3428192d85cb1f380532ba605"
+    },
+    {
+      "id": "1503423166020849814",
+      "name": "2026-05-11_17.32.45.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1503423164435402963/1503423166020849814/2026-05-11_17.32.45.png?ex=6a034b6f&is=6a01f9ef&hm=7cd8b867eb738123bfebe6ccb6d42c10cfa8bba866fdba6b2f59b71efa0a2f03&",
+      "timestamp": 1778514414653,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "705870004796784673",
+        "username": "erremvp",
+        "displayName": "ERREMVP",
+        "iconURL": "https://cdn.discordapp.com/avatars/705870004796784673/9fbdafebcdbc53a98e503799ac14dfb3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 147123,
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "path": "images/2026-05-11_17.32.45.png",
+      "hash": "bd04d991b96ce427f7c148c9a2c078e1105cc350f5a285c5613065e2b79b1859"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1503423935126048898",
+      "name": "OL008_2wt_2x_Single_Item_type_Box_Loader_Tiled__Slice.litematic",
+      "url": "https://cdn.discordapp.com/attachments/1503423164435402963/1503423935126048898/2wt_2x_Single_Item_type_Box_Loader_Tiled__Slice.litematic?ex=6a034c26&is=6a01faa6&hm=3df71446035f26f9fe220a9c0c6ce548a4c231d9cbedf25c49a0d4e897138711&",
+      "timestamp": 1778514597553,
+      "author": {
+        "type": "discord-external",
+        "id": "705870004796784673",
+        "username": "erremvp",
+        "iconURL": "https://cdn.discordapp.com/avatars/705870004796784673/9fbdafebcdbc53a98e503799ac14dfb3.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "f011a3733d4deb4e4196cfa1916e3ffda1ee3a0420779ecb6e8386d344a552fd",
+      "path": "attachments/OL008_2wt_2x_Single_Item_type_Box_Loader_Tiled__Slice.litematic",
+      "size": 2024,
+      "litematic": {
+        "size": "17x11x13",
+        "version": "1.21.5"
+      }
+    }
+  ],
+  "records": {
+    "description": "This box loader is designed for farms that only produce one item type (cobble, bamboo..)",
+    "features": [
+      "This box loader is designed for farms that only produce one item type (cobble, bamboo..)",
+      "Single slice can be tiled alternating powered and activator rails as shown in the tiled example",
+      "Full boxes get spit as entities from droppers below to follow a water stream to storage",
+      "3x hopper collection speed per slice",
+      "You can refill  loaders with empty boxes via water stream"
+    ],
+    "considerations": [
+      "This loader is not fully reliable and could loose a box in 50 million boxes",
+      "Dispenser next to the leafs needs a prefill of one water bucket"
+    ],
+    "notes": "special thanks to andrews, christone, flutter and Dnator for giving me the info to make this loader a lot more reliable than it was"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Bucket",
+      "id": "1464788208796565709",
+      "url": "https://discord.com/channels/1375556143186837695/1464788208796565709/1464788210138878080",
+      "matches": [
+        "bucket"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1503430122227630100",
+    "forumId": "1375557962675912865",
+    "continuingMessageIds": [
+      "1503430135003611206"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1503430122227630100",
+    "uploadMessageId": "1503430118385909893",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1503430122227630100/1503430126052839595/2026-05-11_17.32.24.png?ex=6a0351ea&is=6a02006a&hm=08aa9b64041466ff5085e42aba363d0fc2d00af6a0e8cd3faeab0701946e5f47&"
+  },
+  "archivedAt": 1778516069451,
+  "updatedAt": 1778516069451,
+  "num_comments": 0
+}
