@@ -1,5 +1,5 @@
 # 2wt 2x Single item type Box Loader
-<img alt="2026-05-11_17.32.24.png" src="images/2026-05-11_17.32.24.png?raw=1" height="300px">
+<img alt="image.png" src="images/image.png?raw=1" height="300px">
 
 **Authors:** *ERREMVP*
 
@@ -21,11 +21,6 @@ This box loader is designed for farms that only produce one item type (cobble, b
 - Dispenser next to the leafs needs a prefill of one water bucket
 ## Notes
 special thanks to andrews, christone, flutter and Dnator for giving me the info to make this loader a lot more reliable than it was
-
-## Other Images
-<img src="images/2026-05-11_17.32.33.png?raw=1" height="300px">
-
-<img src="images/2026-05-11_17.32.45.png?raw=1" height="300px">
 
 ## Resources
 - [OL008_2wt_2x_Single_Item_type_Box_Loader_Tiled__Slice.litematic](attachments/OL008_2wt_2x_Single_Item_type_Box_Loader_Tiled__Slice.litematic): MC 1.21.5, Size 17x11x13 blocks
