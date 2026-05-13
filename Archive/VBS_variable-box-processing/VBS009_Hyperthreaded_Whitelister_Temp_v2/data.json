@@ -112,7 +112,7 @@
     "considerations": [
       "Does not handle empty boxes, mixed boxes, or non-box items.",
       "Distribute your assigned items evenly across the slices",
-      "# of items assigned to each category is linearly related to cycle time, temp will get slower as you saturate the slices more. (first box input to a slice is 118gt)"
+      "Number of items assigned to each category is linearly related to cycle time, temp will get slower as you saturate the slices more. (first box input to a slice is 118gt)"
     ]
   },
   "styles": {},
@@ -203,6 +203,6 @@
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1503402043581141154/1503402054289199134/image.png?ex=6a0337c5&is=6a01e645&hm=a28859bffe0272317375189d132b14deb3f9278d401b7711efb9f14f393e5089&"
   },
   "archivedAt": 1778509372719,
-  "updatedAt": 1778509372719,
+  "updatedAt": 1778645183342,
   "num_comments": 0
 }

@@ -23,7 +23,7 @@ A temp which uses whitelisters to divide bulk items into smaller categories to s
 ## Considerations
 - Does not handle empty boxes, mixed boxes, or non-box items.
 - Distribute your assigned items evenly across the slices
-- # of items assigned to each category is linearly related to cycle time, temp will get slower as you saturate the slices more. (first box input to a slice is 118gt)
+- Number of items assigned to each category is linearly related to cycle time, temp will get slower as you saturate the slices more. (first box input to a slice is 118gt)
 
 ## Resources
 - [VBS009_HT.WL.Temp.v2.0.litematic](attachments/VBS009_HT.WL.Temp.v2.0.litematic): MC 1.21.4, Size 21x13x8 blocks
