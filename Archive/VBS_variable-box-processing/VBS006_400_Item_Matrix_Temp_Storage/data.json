@@ -97,11 +97,11 @@
   ],
   "attachments": [
     {
-      "id": "1488725777804562584",
-      "name": "VBS006_matrix_temp_storage-r3.litematic",
+      "id": "1505252832025252031",
+      "name": "VBS006_matrix_temp_storage-r4.litematic",
       "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1480307278585270385/1488725777804562584/matrix_temp_storage-r3.litematic?ex=69cdd36c&is=69cc81ec&hm=9a7deeea1a5989707757ab92a5f711107888cd369f11020fd87aa63aa148809a&",
-      "timestamp": 1775010284619,
+      "url": "https://cdn.discordapp.com/attachments/1480307278585270385/1505252832025252031/matrix_temp_storage.litematic?ex=6a09f371&is=6a08a1f1&hm=ed58229f979683f2b8b3bc245cd54a19070def7d9ec89704d6be86a3f71d6c17&",
+      "timestamp": 1778950641384,
       "author": {
         "type": "discord-in-guild",
         "id": "239078039831445504",
@@ -111,10 +111,10 @@
       },
       "source": "MessageAttachment",
       "description": "",
-      "size": 7952,
+      "size": 8703,
       "canDownload": true,
-      "hash": "c08d709545c05c10ce72fc850aba8f8eed86dfbaa78c2f9486414bc95327f6ce",
-      "path": "attachments/VBS006_matrix_temp_storage-r3.litematic",
+      "hash": "84b45f40bcb12d08255d3d1950436ec72c418b9b32d1ad93921270434de0dd81",
+      "path": "attachments/VBS006_matrix_temp_storage-r4.litematic",
       "litematic": {
         "size": "19x15x15",
         "version": "1.21.4"
@@ -186,10 +186,10 @@
       "1480308129299300424"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1480308116716257483",
-    "uploadMessageId": "1488726539314004088",
+    "uploadMessageId": "1505253008949121247",
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1480308116716257483/1488726547270733954/image.png?ex=69cdd424&is=69cc82a4&hm=89196fcdaebfe6a6ccf2fddc4e9041a12e997667304ef14a3dc091664ed0e563&"
   },
   "archivedAt": 1773003351086,
-  "updatedAt": 1775010464713,
+  "updatedAt": 1778950682437,
   "num_comments": 0
 }
