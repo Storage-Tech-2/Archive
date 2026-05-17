@@ -1,0 +1,230 @@
+{
+  "id": "1496587063074750484",
+  "name": "Variable Item Entity Parallel Unloader Array",
+  "code": "PU006",
+  "reservedCodes": [
+    "PU006"
+  ],
+  "pastPostThreadIds": [
+    "1505654187365503068"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1076361384981430354",
+      "username": "white_0910",
+      "displayName": "白Unique_Clock",
+      "iconURL": "https://cdn.discordapp.com/avatars/1076361384981430354/a274a60a31a9fb58987e9fb06b7c8e98.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "1353414636208259193",
+      "username": "ichika522",
+      "displayName": "ichika",
+      "iconURL": "https://cdn.discordapp.com/avatars/1353414636208259193/45ceb3735ef3b06863306a8d76840926.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "1340403224431296522",
+      "username": "gufen.java",
+      "displayName": "Gufen",
+      "iconURL": "https://cdn.discordapp.com/avatars/1340403224431296522/0702fe022ad96fa245fad41e34ab56fc.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465487693835141298",
+      "name": "Untested"
+    }
+  ],
+  "images": [
+    {
+      "id": "1496587065184489492",
+      "name": "32b.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1496587063074750484/1496587065184489492/32b.png?ex=69ea6cd1&is=69e91b51&hm=d2c56ff899f8abd54049ee3cf3efe1b6bd3e9ba5a737fd61833749e6e755740e&",
+      "timestamp": 1776884561080,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 83875,
+      "canDownload": true,
+      "width": 765,
+      "height": 387,
+      "path": "images/32b.png",
+      "hash": "89c9a4d75366556d8e0e059cd8a4b7f3181e6ba633a4fa293826cf77463ee919"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1505532981975060670",
+      "name": "PU006_1wtv2_B_32.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1496587063074750484/1505532981975060670/1wtv2_B_32.litematic?ex=6a0af85a&is=6a09a6da&hm=a655ddacad3fd8f2d1e22ee0ffc20421f384b6774fbaaba80426714d76b1b6ad&",
+      "timestamp": 1779017434120,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1076361384981430354",
+        "username": "white_0910",
+        "displayName": "白Unique_Clock",
+        "iconURL": "https://cdn.discordapp.com/avatars/1076361384981430354/a274a60a31a9fb58987e9fb06b7c8e98.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 9980,
+      "canDownload": true,
+      "hash": "a0ae76c48bf76ce79ce72749f69a15514f0fabdb8a9eece039511160bb48e2a2",
+      "path": "attachments/PU006_1wtv2_B_32.litematic",
+      "litematic": {
+        "size": "10x15x44",
+        "version": "1.21.4"
+      }
+    },
+    {
+      "id": "1505532981308293162",
+      "name": "PU006_1wtv2_B_16.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1496587063074750484/1505532981308293162/1wtv2_B_16.litematic?ex=6a0af85a&is=6a09a6da&hm=c1cd9a68b4f787eaaa806e14b9f8d5986b78d826a09dafaf90e9276a649662ed&",
+      "timestamp": 1779017434120,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1076361384981430354",
+        "username": "white_0910",
+        "displayName": "白Unique_Clock",
+        "iconURL": "https://cdn.discordapp.com/avatars/1076361384981430354/a274a60a31a9fb58987e9fb06b7c8e98.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 8023,
+      "canDownload": true,
+      "hash": "3d533d233b7ef8cfeb6b79953797901fd0909c329bff3861d2802428d89f064c",
+      "path": "attachments/PU006_1wtv2_B_16.litematic",
+      "litematic": {
+        "size": "10x15x28",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A parallel unloader array like device that directly processes item entity stacks instead of boxes. It makes sure that not more than 1x hopperspeed per type is being unloaded. Uses variable item entity filters to gather same-type items into groups for unloading, and unloads different types of items in parallel.",
+    "features": [
+      "Number of slices is customizable, more slices correspond to potentially higher speeds",
+      "Precise 96gt clock can achieve full hopper efficiency (9000/h) for a single item type",
+      "Outputs 12 items for 16-stack size and 60 items for 64-stack size respectively",
+      "Final aligner output is timed perfectly so it is compatible with push filters"
+    ],
+    "considerations": [
+      "Variable Item Entity Filter performs a global reset, waiting for the slowest unit in the PEIS to finish unloading. Recommended not to go below 16 times hopper speed",
+      "Beyond parallel upper limit of item types, performance depends on specific input, and is relatively weak due to global reset constraint"
+    ],
+    "notes": "- Schematic includes two versions, with 32 units and 16 units respectively.\n-  Fun fact: The term “rectification” (整流) in the Chinese TMC community refers to the generic idea of parallelization by types (with 1x per type), while parallel unloading refers to a specific method."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Unloader",
+      "id": "1454754824758493380",
+      "url": "https://discord.com/channels/1375556143186837695/1454754824758493380/1454754825345433803",
+      "matches": [
+        "unloader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "item entity",
+      "id": "1456908472384884879",
+      "url": "https://discord.com/channels/1375556143186837695/1456908472384884879/1456908473844502594",
+      "matches": [
+        "item entity",
+        "Item Entity"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopper speed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "1x",
+        "hopperspeed",
+        "hopper speed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Gametick",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Aligner",
+      "id": "1454753442471084134",
+      "url": "https://discord.com/channels/1375556143186837695/1454753442471084134/1454753443678916638",
+      "matches": [
+        "aligner"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Global",
+      "id": "1454753648574992557",
+      "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
+      "matches": [
+        "global"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Schematic",
+      "id": "1454811558009110704",
+      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
+      "matches": [
+        "Schematic"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1505654187365503068",
+    "forumId": "1375569870577467412",
+    "continuingMessageIds": [
+      "1505654199583772713",
+      "1505654200514777110"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1505654187365503068",
+    "uploadMessageId": "1505654182429065297",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1505654187365503068/1505654194252812318/32b.png?ex=6a0b693d&is=6a0a17bd&hm=579544c2b5458165a5736af2594b5405c75114b16e95a9f9bfe298924e888af6&"
+  },
+  "archivedAt": 1779046322609,
+  "updatedAt": 1779046322609,
+  "num_comments": 0
+}
