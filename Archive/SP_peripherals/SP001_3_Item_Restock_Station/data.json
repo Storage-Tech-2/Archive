@@ -17,12 +17,13 @@
       "iconURL": "https://cdn.discordapp.com/avatars/1167143504573644901/67f85a384cadc1f1b6941c61f45d5f39.webp"
     },
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "114896993654013958",
       "username": "datnerd",
-      "reason": "Floor display design",
+      "displayName": "DatNerd",
+      "iconURL": "https://cdn.discordapp.com/avatars/114896993654013958/d4cec89664bba88100de2df0c32c44eb.webp",
       "dontDisplay": true,
-      "iconURL": "https://cdn.discordapp.com/avatars/114896993654013958/d4cec89664bba88100de2df0c32c44eb.webp"
+      "reason": "Floor display design"
     },
     {
       "type": "discord-external",

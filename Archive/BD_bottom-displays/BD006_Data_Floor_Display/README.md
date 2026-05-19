@@ -1,7 +1,7 @@
 # Data Floor Display
 <img alt="Data_-_Floor_Display.png" src="images/Data_-_Floor_Display.png?raw=1">
 
-**Authors:** *datnerd*
+**Authors:** *DatNerd*
 
 **Endorsed by:** *Andrews54757*
 

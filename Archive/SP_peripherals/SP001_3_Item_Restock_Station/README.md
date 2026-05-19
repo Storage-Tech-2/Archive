@@ -21,7 +21,7 @@ A restock station that uses 3 box displays.
 - Top display use togglestates
 
 ## Acknowledgements:
-- datnerd: Floor display design
+- DatNerd: Floor display design
 - misterkartoffel: Top display design
 
 ## Resources

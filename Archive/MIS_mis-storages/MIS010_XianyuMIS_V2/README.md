@@ -33,7 +33,7 @@ Most inventories have signs indicating how to prefill them.
 - CommandLeo - Unstackable sorter.
 - javierrubik33, [血小板](<https://space.bilibili.com/3493263910635905>) - Cart-based box unloader.
 - [Mercury](<https://space.bilibili.com/18525909>) - Chunk loader.
-- datnerd - [Box display](https://discord.com/channels/748542142347083868/1387442314724642979/1387442322672717834) (in [Storage Tech](https://discord.gg/JufJ6uf)).
+- DatNerd - [Box display](https://discord.com/channels/748542142347083868/1387442314724642979/1387442322672717834) (in [Storage Tech](https://discord.gg/JufJ6uf)).
 - [半筝half_kite](<https://space.bilibili.com/329820579>): Simple empty box crafter.
 - PyraLeft, dashie_47, 金合欢酱喵~ (acaciachan) - isFull box check.
 - Capybruhh (no ping plz) - item layout.

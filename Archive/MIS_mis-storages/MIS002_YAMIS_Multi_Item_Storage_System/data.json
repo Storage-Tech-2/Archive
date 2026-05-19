@@ -52,9 +52,10 @@
       "displayName": "PyraLeft"
     },
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "114896993654013958",
       "username": "datnerd",
+      "displayName": "DatNerd",
       "iconURL": "https://cdn.discordapp.com/avatars/114896993654013958/d4cec89664bba88100de2df0c32c44eb.webp"
     },
     {
