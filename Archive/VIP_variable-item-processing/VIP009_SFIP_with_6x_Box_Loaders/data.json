@@ -1,6 +1,6 @@
 {
   "id": "1502327200794411231",
-  "name": "Cycvar SFIP with 6x Box Loaders",
+  "name": "SFIP with 6x Box Loaders",
   "code": "VIP009",
   "reservedCodes": [
     "VIP009"
@@ -154,6 +154,6 @@
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1502331348822786219/1502331359790759966/area_render_23_.png?ex=69ff529c&is=69fe011c&hm=ad1fc9b7c62b53eee167ad9e5c9eda3ce9a75ec2bb2765929a3169131896b021&"
   },
   "archivedAt": 1778254102146,
-  "updatedAt": 1778254102146,
+  "updatedAt": 1779159891166,
   "num_comments": 0
 }

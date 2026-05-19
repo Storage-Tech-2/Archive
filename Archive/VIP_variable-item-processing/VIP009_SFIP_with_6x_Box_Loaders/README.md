@@ -1,4 +1,4 @@
-# Cycvar SFIP with 6x Box Loaders
+# SFIP with 6x Box Loaders
 <img alt="area_render_23_.png" src="images/area_render_23_.png?raw=1" height="300px">
 
 **Authors:** *mikaace*
