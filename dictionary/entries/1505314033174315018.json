@@ -1,0 +1,25 @@
+{
+  "id": "1505314033174315018",
+  "terms": [
+    "Stack separation",
+    "Stack Sep"
+  ],
+  "definition": "Stack separation is a term which refers to the practice of taking a pile of item entities and separating them into single entities using ticking order to send a single stack at a time. It also can be used in reference to methods of sorting which utilize that technology, such as variable stack separation or fixed stack separation",
+  "threadURL": "https://discord.com/channels/1375556143186837695/1505314033174315018",
+  "statusURL": "https://discord.com/channels/1375556143186837695/1505314033174315018/1505314034746917045",
+  "status": "APPROVED",
+  "statusMessageID": "1505314034746917045",
+  "updatedAt": 1779163055941,
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Gametick",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "tick"
+      ]
+    }
+  ],
+  "referencedBy": []
+}
