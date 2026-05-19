@@ -10,5 +10,12 @@
   "statusMessageID": "1506328273418719353",
   "updatedAt": 1779207180753,
   "references": [],
-  "referencedBy": []
+  "referencedBy": [
+    "BD004",
+    "BU012",
+    "DH003",
+    "FBS008",
+    "OIP004",
+    "PU003"
+  ]
 }

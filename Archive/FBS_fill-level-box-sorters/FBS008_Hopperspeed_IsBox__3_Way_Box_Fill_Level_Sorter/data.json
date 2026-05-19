@@ -123,6 +123,15 @@
       "matches": [
         "Hopperspeed"
       ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Bufferless",
+      "id": "1506328271829340240",
+      "url": "https://discord.com/channels/1375556143186837695/1506328271829340240/1506328273418719353",
+      "matches": [
+        "Bufferless"
+      ]
     }
   ],
   "author_references": [],
