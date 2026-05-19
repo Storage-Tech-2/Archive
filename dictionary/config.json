@@ -985,6 +985,14 @@
       ],
       "summary": "Stack separation is a term which refers to the practice of taking a pile of item entities and separating them into single entities using ticking order to send a single stack at a time. It also can ...",
       "updatedAt": 1779163055941
+    },
+    {
+      "id": "1506328271829340240",
+      "terms": [
+        "Bufferless"
+      ],
+      "summary": "Refers to designs which do not keep items inside inventory blocks which are meant for transporting items to a different place. Designs which do buffer boxes are not desirable because in many cases ...",
+      "updatedAt": 1779207051761
     }
   ]
 }
