@@ -976,6 +976,15 @@
       ],
       "summary": "In storage tech terminology, DC is an abbreviation for a doublechest.",
       "updatedAt": 1777400277673
+    },
+    {
+      "id": "1505314033174315018",
+      "terms": [
+        "Stack separation",
+        "Stack Sep"
+      ],
+      "summary": "Stack separation is a term which refers to the practice of taking a pile of item entities and separating them into single entities using ticking order to send a single stack at a time. It also can ...",
+      "updatedAt": 1779163055941
     }
   ]
 }
