@@ -991,8 +991,8 @@
       "terms": [
         "Bufferless"
       ],
-      "summary": "Refers to designs which do not keep items inside inventory blocks which are meant for transporting items to a different place. Designs which do buffer boxes are not desirable because in many cases ...",
-      "updatedAt": 1779207051761
+      "summary": "Refers to the quality of not keeping items inside inventory blocks which are meant for transport. Designs which do buffer boxes are not desirable because in many cases it means those items are not ...",
+      "updatedAt": 1779207180753
     }
   ]
 }
