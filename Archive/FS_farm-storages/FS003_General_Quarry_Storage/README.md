@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Functional*
+**Tags:** *Functional, Concrete*
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1466811056113451237)
 
