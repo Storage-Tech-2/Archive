@@ -3,12 +3,12 @@
   "terms": [
     "Bufferless"
   ],
-  "definition": "Refers to designs which do not keep items inside inventory blocks which are meant for transporting items to a different place. Designs which do buffer boxes are not desirable because in many cases it means those items are not easily accessible.",
+  "definition": "Refers to the quality of not keeping items inside inventory blocks which are meant for transport. Designs which do buffer boxes are not desirable because in many cases it means those items are not easily accessible.",
   "threadURL": "https://discord.com/channels/1375556143186837695/1506328271829340240",
   "statusURL": "https://discord.com/channels/1375556143186837695/1506328271829340240/1506328273418719353",
   "status": "APPROVED",
   "statusMessageID": "1506328273418719353",
-  "updatedAt": 1779207051761,
+  "updatedAt": 1779207180753,
   "references": [],
   "referencedBy": []
 }
