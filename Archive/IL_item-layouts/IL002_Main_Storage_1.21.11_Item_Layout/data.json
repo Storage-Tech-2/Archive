@@ -1,0 +1,180 @@
+{
+  "id": "1506312740589928598",
+  "name": "Main Storage 1.21.11+ Item Layout",
+  "code": "IL002",
+  "reservedCodes": [
+    "IL002"
+  ],
+  "pastPostThreadIds": [
+    "1506317257842622485"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "306131701493399554",
+      "username": "tpsnighthunter",
+      "displayName": "TPS Nighthunter",
+      "iconURL": "https://cdn.discordapp.com/avatars/306131701493399554/882bc2e7f07308dfeeafff83363896a1.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "660633169191632908",
+      "username": "etikle",
+      "displayName": "Passionate Storage Techer 69",
+      "iconURL": "https://cdn.discordapp.com/avatars/660633169191632908/552443236bae5d574b5b1aec2694b58f.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465495568364208199",
+      "name": "Functional"
+    },
+    {
+      "id": "1465487892846481485",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1506313369634865315",
+      "name": "Main_Storage_1.21.11_Item_Layout.png",
+      "url": "https://cdn.discordapp.com/attachments/1506312740589928598/1506313369634865315/Main_Storage_1.21.11_Item_Layout.png?ex=6a0dcf25&is=6a0c7da5&hm=4788ab08ba96350d9c3bd6740b15317a9f0af8c1937cd2b3f995d9c22f23c4f1&",
+      "timestamp": 1779203491229,
+      "author": {
+        "type": "discord-external",
+        "id": "306131701493399554",
+        "username": "tpsnighthunter",
+        "iconURL": "https://cdn.discordapp.com/avatars/306131701493399554/882bc2e7f07308dfeeafff83363896a1.webp"
+      },
+      "source": "DirectUpload",
+      "description": "Plain Layout",
+      "contentType": "image/png",
+      "canDownload": true,
+      "width": 1200,
+      "height": 363,
+      "size": 103454,
+      "path": "images/Main_Storage_1.21.11_Item_Layout.png",
+      "hash": "cc9db09fab76747c3ff5e409d2efbac075561406afe332dc6f7370b06ef6bca7"
+    },
+    {
+      "id": "1506313549683625994",
+      "name": "Yams_v2_1.21.11_Item_Layout.png",
+      "url": "https://cdn.discordapp.com/attachments/1506312740589928598/1506313549683625994/Yams_v2_1.21.11_Item_Layout.png?ex=6a0dcf50&is=6a0c7dd0&hm=15c26d9e0d0b43676e07a761584edfd0b58f2ca9cdc44db6c31ab44439aae131&",
+      "timestamp": 1779203534086,
+      "author": {
+        "type": "discord-external",
+        "id": "306131701493399554",
+        "username": "tpsnighthunter",
+        "iconURL": "https://cdn.discordapp.com/avatars/306131701493399554/882bc2e7f07308dfeeafff83363896a1.webp"
+      },
+      "source": "DirectUpload",
+      "description": "Spinal Layout",
+      "contentType": "image/png",
+      "canDownload": true,
+      "width": 1200,
+      "height": 952,
+      "size": 149112,
+      "path": "images/Yams_v2_1.21.11_Item_Layout.png",
+      "hash": "958f8f259c60386ebb0d4cd2b957313b471656edbaaf8788fdaae630a03ab33e"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1506313703740543066",
+      "name": "IL002_Main_Storage_1.21.11_Item_Layout.litematic",
+      "url": "https://cdn.discordapp.com/attachments/1506312740589928598/1506313703740543066/Main_Storage_1.21.11_Item_Layout.litematic?ex=6a0dcf74&is=6a0c7df4&hm=43cff43967016b13fc187805a4bdb525f084121ec8c0a06d234a1a6061a8bb0e&",
+      "timestamp": 1779203571932,
+      "author": {
+        "type": "discord-external",
+        "id": "306131701493399554",
+        "username": "tpsnighthunter",
+        "iconURL": "https://cdn.discordapp.com/avatars/306131701493399554/882bc2e7f07308dfeeafff83363896a1.webp"
+      },
+      "source": "DirectUpload",
+      "description": "Schematic",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "668fd7dbc099c82226cb36730b432936f58dcbc5496c881393b6e7e4f8ffd66e",
+      "path": "attachments/IL002_Main_Storage_1.21.11_Item_Layout.litematic",
+      "size": 48598,
+      "litematic": {
+        "size": "101x39x132",
+        "version": "1.21.11"
+      }
+    }
+  ],
+  "records": {
+    "description": "Based on Yams v2.3 Item Layout.\nA reworked layout that aims to add missing things, but tries to keep the original in mind",
+    "features": [
+      "1 bulk hall",
+      "2 chest halls",
+      "16 MIS Categories"
+    ],
+    "exceptions": "- Bee Nests\n- Player and mob heads\n- Dragon eggs\n- Suspicious gravel/sand\n- Ominous trial keys\n- Heavy cores",
+    "additions-compared-to-original": "- Bamboo and its variants\n- Lightning rods and their variants\n- Copper golems and their variants\n- Pressure plates and buttons\n- Paintings\n- Rotten Flesh\n- Tipped arrows",
+    "notes": "The schematic contains both a plane and a spinal version. The skeletal spine version represents Yams v2 filters.",
+    "compatibility": "1.21.11+"
+  },
+  "styles": {
+    "exceptions": {
+      "depth": 2,
+      "headerText": "Exceptions"
+    },
+    "additions-compared-to-original": {
+      "depth": 2,
+      "headerText": "Additions compared to original"
+    }
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Chest Hall",
+      "id": "1454753529700024331",
+      "url": "https://discord.com/channels/1375556143186837695/1454753529700024331/1454753530488426527",
+      "matches": [
+        "chest hall"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Multi Item Sorter",
+      "id": "1454753725091676293",
+      "url": "https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954",
+      "matches": [
+        "MIS"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Schematic",
+      "id": "1454811558009110704",
+      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
+      "matches": [
+        "schematic"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1506317257842622485",
+    "forumId": "1388599490898038945",
+    "continuingMessageIds": [
+      "1506317268131250367"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1506317257842622485",
+    "uploadMessageId": "1506317255665778842",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1506317257842622485/1506317262569865349/Main_Storage_1.21.11_Item_Layout.png?ex=6a0dd2c5&is=6a0c8145&hm=c91fc33c9f8c6e84b84859b252e62003ccfcb584fc32f4534e2c214f238986e4&"
+  },
+  "archivedAt": 1779204416681,
+  "updatedAt": 1779204416681,
+  "num_comments": 0
+}
