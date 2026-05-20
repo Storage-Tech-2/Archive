@@ -1,0 +1,219 @@
+{
+  "id": "1506657437556543519",
+  "name": "Barrel Based Simple Bulk",
+  "code": "BH008",
+  "reservedCodes": [
+    "BH008"
+  ],
+  "pastPostThreadIds": [
+    "1506807695221592236"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "548676165020286994",
+      "username": "moonyinspired",
+      "displayName": "Moonyinspired 🇧🇷",
+      "iconURL": "https://cdn.discordapp.com/avatars/548676165020286994/21f517a2cd0b587ede56229b2dfc060e.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "719903397171560559",
+      "username": "pyraleftt",
+      "displayName": "PyraLeft",
+      "iconURL": "https://cdn.discordapp.com/avatars/719903397171560559/7ba08c1c9ee4d550dae6dd373cf9fabe.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "381396930212921355",
+      "username": "commandleo",
+      "displayName": "CommandLeo",
+      "iconURL": "https://cdn.discordapp.com/avatars/381396930212921355/cb1dcc76d3f6a30dddc49e6d9e96681a.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "727730797049806898",
+      "username": "sskyzy",
+      "displayName": "skyzy",
+      "iconURL": "https://cdn.discordapp.com/avatars/727730797049806898/00d0b08b860ed57fbd2c228943b0de07.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1386533494888595518",
+      "name": "2 Displays"
+    },
+    {
+      "id": "1465491482218594433",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1506657438097604608",
+      "name": "NoDecoRender.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1506657437556543519/1506657438097604608/NoDecoRender.png?ex=6a0f0f95&is=6a0dbe15&hm=9b09f88a7fb921b61d3eff56933aa22105e91af7b934e69ce456b490aa5f3f82&",
+      "timestamp": 1779285525455,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "548676165020286994",
+        "username": "moonyinspired",
+        "displayName": "Moonyinspired 🇧🇷",
+        "iconURL": "https://cdn.discordapp.com/avatars/548676165020286994/0d67f0b32a51e073c3d0a71c26404cde.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Shows the bulk hall at an angle, out of a distance, having no decoration",
+      "size": 215895,
+      "canDownload": true,
+      "width": 916,
+      "height": 855,
+      "path": "images/NoDecoRender.png",
+      "hash": "3926366d5f5165d8dda27770fff6c601f9896f409755949da6cb4db2fec45c67"
+    },
+    {
+      "id": "1506671450797637804",
+      "name": "YesDecoRender.png",
+      "url": "https://cdn.discordapp.com/attachments/1506657437556543519/1506671450797637804/YesDecoRender.png?ex=6a0f1ca2&is=6a0dcb22&hm=af37da14ed7f1dde19f8a4db44485501132ff38c92d41bd4c192659bd34e080e&",
+      "timestamp": 1779288863967,
+      "author": {
+        "type": "discord-external",
+        "id": "548676165020286994",
+        "username": "moonyinspired",
+        "iconURL": "https://cdn.discordapp.com/avatars/548676165020286994/0d67f0b32a51e073c3d0a71c26404cde.webp"
+      },
+      "source": "DirectUpload",
+      "description": "Shows bulk hall out of a distance in a downwards angle, with decoration.",
+      "contentType": "image/png",
+      "canDownload": true,
+      "width": 930,
+      "height": 868,
+      "size": 240670,
+      "path": "images/YesDecoRender.png",
+      "hash": "ceb412b4365147ff71e1fdec12a35dfdbed35dc2bc7a390a0fa870bc7a911389"
+    },
+    {
+      "id": "1506671725574881290",
+      "name": "SingleBarrelBulkSliceRender.png",
+      "url": "https://cdn.discordapp.com/attachments/1506657437556543519/1506671725574881290/SingleBarrelBulkSliceRender.png?ex=6a0f1ce3&is=6a0dcb63&hm=52456c084b5158ccb23461ac8e08f9bba1978b9f25e65e833b57747b6aefd6a3&",
+      "timestamp": 1779288931191,
+      "author": {
+        "type": "discord-external",
+        "id": "548676165020286994",
+        "username": "moonyinspired",
+        "iconURL": "https://cdn.discordapp.com/avatars/548676165020286994/0d67f0b32a51e073c3d0a71c26404cde.webp"
+      },
+      "source": "DirectUpload",
+      "description": "Shows a single slice of the bulk hall containing box sorter, the bulk storage and a smart-noteblock display.",
+      "contentType": "image/png",
+      "canDownload": true,
+      "width": 335,
+      "height": 938,
+      "size": 18647,
+      "path": "images/SingleBarrelBulkSliceRender.png",
+      "hash": "3b741b517f661c85fda8d4e9e3e16bfcefb16a59a296edc33fa5c969e6892baa"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1506701286953848942",
+      "name": "BH008_BarrelBulkWithoutDeco.litematic",
+      "url": "https://cdn.discordapp.com/attachments/1506657437556543519/1506701286953848942/BarrelBulkWithoutDeco.litematic?ex=6a0f386b&is=6a0de6eb&hm=ce1ffb773d0398b11a973a5fefcc7b9f29d6f022034ffeffb01f78ee96d14c18&",
+      "timestamp": 1779295979071,
+      "author": {
+        "type": "discord-external",
+        "id": "548676165020286994",
+        "username": "moonyinspired",
+        "iconURL": "https://cdn.discordapp.com/avatars/548676165020286994/0d67f0b32a51e073c3d0a71c26404cde.webp"
+      },
+      "source": "DirectUpload",
+      "description": "Litematic file for the bulk WITHOUT DECORATION nor filters.   32 slices.",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "441efa3caf16ab8b74b32b188193644e745ba7738de7b3d8ba3858e3e1a4a583",
+      "path": "attachments/BH008_BarrelBulkWithoutDeco.litematic",
+      "size": 18516,
+      "litematic": {
+        "size": "23x28x36",
+        "version": "1.21.4"
+      }
+    },
+    {
+      "id": "1506701431804006504",
+      "name": "BH008_BarrelBulkWDeco.litematic",
+      "url": "https://cdn.discordapp.com/attachments/1506657437556543519/1506701431804006504/BarrelBulkWDeco.litematic?ex=6a0f388e&is=6a0de70e&hm=8354c48dd282af9a232bc54fee79b674688e675a6820e20d6653c66d446a5787&",
+      "timestamp": 1779296013606,
+      "author": {
+        "type": "discord-external",
+        "id": "548676165020286994",
+        "username": "moonyinspired",
+        "iconURL": "https://cdn.discordapp.com/avatars/548676165020286994/0d67f0b32a51e073c3d0a71c26404cde.webp"
+      },
+      "source": "DirectUpload",
+      "description": "Litematic file WITH decoration. 32 slices.",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "929c3d9eaab0792c59f1e736ea00d763578facd483f115f79ae7ec92b6e18215",
+      "path": "attachments/BH008_BarrelBulkWDeco.litematic",
+      "size": 19109,
+      "litematic": {
+        "size": "23x28x36",
+        "version": "1.21.4"
+      }
+    },
+    {
+      "id": "1506701676474662912",
+      "name": "BH008_BarrelBasedBulkWithSubregions.litematic",
+      "url": "https://cdn.discordapp.com/attachments/1506657437556543519/1506701676474662912/BarrelBasedBulkWithSubregions.litematic?ex=6a0f38c8&is=6a0de748&hm=002f85146c467d8c0b052fdbd71a2e646afc7234bb1f0f199090a795c0972675&",
+      "timestamp": 1779296072029,
+      "author": {
+        "type": "discord-external",
+        "id": "548676165020286994",
+        "username": "moonyinspired",
+        "iconURL": "https://cdn.discordapp.com/avatars/548676165020286994/0d67f0b32a51e073c3d0a71c26404cde.webp"
+      },
+      "source": "DirectUpload",
+      "description": "Barrel Bulk with subregions used for learning and easier tiling in creative mode.",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "95055fa589ca5c7442761ea845208e6437dd0e0dab17c6930e3edd2691bc03ac",
+      "path": "attachments/BH008_BarrelBasedBulkWithSubregions.litematic",
+      "size": 35656,
+      "litematic": {
+        "size": "23x28x36",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A Bulk storage made for easy understanding, scaling (both upwards and horizontally) and using. Features an open cieling design."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Bulk Storage",
+      "id": "1454753523668484213",
+      "url": "https://discord.com/channels/1375556143186837695/1454753523668484213/1454753524637499577",
+      "matches": [
+        "Bulk storage"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1506807695221592236",
+    "forumId": "1375565403727724764",
+    "continuingMessageIds": [
+      "1506807709599662271"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1506807695221592236",
+    "uploadMessageId": "1506807692725846096",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1506807695221592236/1506807702746042469/NoDecoRender.png?ex=6a0f9b87&is=6a0e4a07&hm=e53d671f6a7fbd414673c31a4077c93965a6e2637c292ec0473c2d1e19e83f79&"
+  },
+  "archivedAt": 1779321347386,
+  "updatedAt": 1779321347386,
+  "num_comments": 0
+}

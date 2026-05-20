@@ -4,7 +4,7 @@
   "code": "BH",
   "category": "Storage Halls & UI",
   "description": "Bulk/display halls",
-  "currentCodeId": 7,
+  "currentCodeId": 8,
   "entries": [
     {
       "id": "1386860131861659668",
@@ -30,6 +30,11 @@
       "id": "1506679713383583945",
       "code": "BH007",
       "path": "BH007_Callable_box_loader_hall"
+    },
+    {
+      "id": "1506657437556543519",
+      "code": "BH008",
+      "path": "BH008_Barrel_Based_Simple_Bulk"
     }
   ]
 }
