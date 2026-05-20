@@ -12,8 +12,8 @@
   "references": [],
   "referencedBy": [
     "BD004",
+    "BH003",
     "BU012",
-    "DH003",
     "FBS008",
     "OIP004",
     "PU003"
