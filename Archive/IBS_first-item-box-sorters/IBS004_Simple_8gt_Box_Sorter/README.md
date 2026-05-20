@@ -14,6 +14,8 @@ A simple box sorter which can sort boxes by their first item type at hopperspeed
 - Hopperspeed per box throughput
 - Very small slices (6x4)
 - Small head module & end box-item merging
+## Notes
+Left and right bending U-turn designs available, designed by Flutter
 ## Instructions
 1. Make sure to set filters! In the filter hoppers (filled with cake in the schematic), put the desired filter item in the first slot, and fill the rest of the slots with unstackable blocker items.
 2. Put boxes inside the chest at the top to sort
@@ -22,7 +24,15 @@ A simple box sorter which can sort boxes by their first item type at hopperspeed
 ## Other Images
 <img src="images/area_render_21_.png?raw=1">
 
+<img src="images/left.png?raw=1" height="300px">
+
+<img src="images/right.png?raw=1" height="300px">
+
 ## Resources
 - [IBS004_Simple_Box_Sorter.litematic](attachments/IBS004_Simple_Box_Sorter.litematic): MC 1.21, Size 12x9x4 blocks
 - [IBS004_image.png](attachments/IBS004_image.png): image/png
   - How to set up overflow protection
+- [IBS004_Flutter_Box_Sorter_Left_U-turn.litematic](attachments/IBS004_Flutter_Box_Sorter_Left_U-turn.litematic): MC 1.21, Size 5x7x10 blocks
+  - Left bending u-turn design by Flutter
+- [IBS004_Flutter_Box_Sorter_Right_U-turn.litematic](attachments/IBS004_Flutter_Box_Sorter_Right_U-turn.litematic): MC 1.21, Size 5x7x10 blocks
+  - Right bending u-turn design by Flutter
