@@ -27,4 +27,4 @@ Additional credits:
 <img src="images/Pyra_Bulk.png?raw=1" height="300px">
 
 ## Resources
-- [DH002_Pyra_Bulk.litematic](attachments/DH002_Pyra_Bulk.litematic): MC 1.20.2, Size 23x55x28 blocks
+- [BH002_Pyra_Bulk.litematic](attachments/BH002_Pyra_Bulk.litematic): MC 1.20.2, Size 23x55x28 blocks

@@ -33,4 +33,4 @@ Box sorter slice by @acaciachan . Keygen by @pfeffabeissa and @walter7381
 <img src="images/Compat_Bulk_Updated_1.4_Mil_Slice.png?raw=1" height="300px">
 
 ## Resources
-- [DH003_compact_bulk_updated_1_4_mil.litematic](attachments/DH003_compact_bulk_updated_1_4_mil.litematic): MC 1.18.2, Size 20x38x17 blocks
+- [BH003_compact_bulk_updated_1_4_mil.litematic](attachments/BH003_compact_bulk_updated_1_4_mil.litematic): MC 1.18.2, Size 20x38x17 blocks

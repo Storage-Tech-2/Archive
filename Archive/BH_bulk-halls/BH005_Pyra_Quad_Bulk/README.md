@@ -25,4 +25,4 @@ Quad bulk hall design has 4 box displays per slice and 4 box sorters.
 <img src="images/area_render_80_.png?raw=1" height="300px">
 
 ## Resources
-- [DH005_Pyra_Quad_Bulk.litematic](attachments/DH005_Pyra_Quad_Bulk.litematic): MC 1.19.2, Size 35x46x21 blocks
+- [BH005_Pyra_Quad_Bulk.litematic](attachments/BH005_Pyra_Quad_Bulk.litematic): MC 1.19.2, Size 35x46x21 blocks
