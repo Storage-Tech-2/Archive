@@ -1,4 +1,4 @@
-# [1.21] Compact SS2 1wABt Crafter
+# Compact SS2 1wABt Crafter
 <img alt="mono.png" src="images/mono.png?raw=1" height="300px">
 
 **Authors:** *DrakePHOSE*
@@ -18,6 +18,8 @@ Crafts filtered items. Works with 2-9 slot crafts. Can be adapted to be 1 slot. 
 - AB tileable
 ## Notes
 The lower filter hopper must be configured with output signal strength 1 when read from the comparator. This comparator subtracts from the comparator reading the top filter hopper to make the filter circuit smaller.
+## Compatibility
+1.21+
 
 ## Other Images
 <img src="images/mono_locked.png?raw=1" height="300px">
