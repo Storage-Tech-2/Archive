@@ -1,6 +1,6 @@
 {
   "id": "1391830251625250867",
-  "name": "[1.17+] Bucked Mob Yeeter & Unstackable Axolotl Separator",
+  "name": "Bucked Mob Yeeter & Unstackable Axolotl Separator",
   "code": "US004",
   "reservedCodes": [
     "US004"
@@ -42,13 +42,13 @@
       "canDownload": true,
       "width": 800,
       "height": 358,
-      "path": "images/e.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "drakephose"
+        "username": "Unknown"
       },
       "timestamp": 1751908590000,
+      "path": "images/e.png",
       "hash": "cc52cda1f3a87becc034c7f9d4839e356288887c64bb6029dbde87cb1517ffe3"
     },
     {
@@ -60,13 +60,13 @@
       "canDownload": true,
       "width": 800,
       "height": 412,
-      "path": "images/k.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "drakephose"
+        "username": "Unknown"
       },
       "timestamp": 1751908590000,
+      "path": "images/k.png",
       "hash": "b3c5ed43cc140320b01784e51e3927467f0c7c8dcfd615e208bd12e53afdaaf1"
     }
   ],
@@ -82,14 +82,13 @@
         "size": "4x4x10",
         "version": "1.21.3"
       },
-      "path": "attachments/US004_DrakePHOSE_Unstackable_Axolotl_Separator_Empty_Water.litematic",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "drakephose"
+        "username": "Unknown"
       },
       "timestamp": 1751908590000,
-      "size": 883,
+      "path": "attachments/US004_DrakePHOSE_Unstackable_Axolotl_Separator_Empty_Water.litematic",
       "hash": "74a68d89cd472481c01d22a2aac1a251f24503d606f524aa95e50be868901b63"
     },
     {
@@ -103,14 +102,13 @@
         "size": "4x5x10",
         "version": "1.21.3"
       },
-      "path": "attachments/US004_DrakePHOSE_Unstackable_Axolotl_Separator_Keep_Water.litematic",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "drakephose"
+        "username": "Unknown"
       },
       "timestamp": 1751908590000,
-      "size": 1040,
+      "path": "attachments/US004_DrakePHOSE_Unstackable_Axolotl_Separator_Keep_Water.litematic",
       "hash": "4ba09f660f1374e3cf4fa668b861392e4c87a92c4ec9cbf69a498d51b56585d7"
     }
   ],
@@ -121,9 +119,10 @@
       "Adjustable for different heights and distances",
       "Small size"
     ],
-    "considerations": [],
-    "notes": "1.21.2 and higher, the path the mobs take after being yeeted must be at least 3 wide to accommodate large salmon. The white and light gray concrete in the image are not required for the machine to work. In the bucket emptying version, the cobblestone slab can be replaced with any movable water loggable block with a full top surface. In the bucket keeping version, the hanging sign must be a hanging sign."
+    "notes": "1.21.2 and higher, the path the mobs take after being yeeted must be at least 3 wide to accommodate large salmon. The white and light gray concrete in the image are not required for the machine to work. In the bucket emptying version, the cobblestone slab can be replaced with any movable water loggable block with a full top surface. In the bucket keeping version, the hanging sign must be a hanging sign.",
+    "compatibility": "1.17+"
   },
+  "styles": {},
   "references": [
     {
       "type": "dictionaryTerm",
@@ -147,6 +146,6 @@
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1391831230600839218/1391831230928130118/k.png?ex=69b24d18&is=69b0fb98&hm=3e6a55c7f98daed5699452c6f188765ce695839daf421519ed099a00f37567b4&"
   },
   "archivedAt": 1751908823726,
-  "updatedAt": 1751908823726,
+  "updatedAt": 1779292822272,
   "num_comments": 0
 }
