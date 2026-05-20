@@ -1,0 +1,231 @@
+{
+  "id": "1506679713383583945",
+  "name": "Callable box loader hall",
+  "code": "BH007",
+  "reservedCodes": [
+    "BH007"
+  ],
+  "pastPostThreadIds": [
+    "1506682892057710673"
+  ],
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "691307198193598485",
+      "username": "eirikls",
+      "iconURL": "https://cdn.discordapp.com/avatars/691307198193598485/65cd5c418c68176ee916ca496b7fe8d9.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "719903397171560559",
+      "username": "pyraleftt",
+      "displayName": "PyraLeft",
+      "iconURL": "https://cdn.discordapp.com/avatars/719903397171560559/7ba08c1c9ee4d550dae6dd373cf9fabe.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465491482218594433",
+      "name": "Functional"
+    },
+    {
+      "id": "1386533494888595518",
+      "name": "2 Displays"
+    }
+  ],
+  "images": [
+    {
+      "id": "1506679714138292314",
+      "name": "slice.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1506679713383583945/1506679714138292314/image.png?ex=6a0f2454&is=6a0dd2d4&hm=57d4cdd12e5b848ddf2cbfd80c7e87b2c3f5048cd052d799d3a7800ba0ec0b75&",
+      "timestamp": 1779290836426,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Single slice of design",
+      "size": 43109,
+      "canDownload": true,
+      "width": 872,
+      "height": 862,
+      "path": "images/slice.png",
+      "hash": "8ce33fe37f19a4d1dff5529f0d46a3e26c4743294d1a98f690f535fb788e8b43"
+    },
+    {
+      "id": "1506679714457194588",
+      "name": "tiled_example.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1506679713383583945/1506679714457194588/image.png?ex=6a0f2454&is=6a0dd2d4&hm=44e9c19a2916f8c03d1a0a3298d8cc036c49f52427e26f26599640bd7ef099ef&",
+      "timestamp": 1779290836426,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "fully tiled example in schematic",
+      "size": 159484,
+      "canDownload": true,
+      "width": 931,
+      "height": 741,
+      "path": "images/tiled_example.png",
+      "hash": "7b339ddacbe43e5ee847b8720e157046dfaa5538350f63772107469cdf34cf81"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1506679714721304797",
+      "name": "BH007_callable_box_loader_hall.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1506679713383583945/1506679714721304797/callable_box_loader_hall.litematic?ex=6a0f2454&is=6a0dd2d4&hm=df40e216ffd2f69cf3982994fa93b3952d11fe4847d953505488f687371b3801&",
+      "timestamp": 1779290836426,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 13395,
+      "canDownload": true,
+      "hash": "6dc80d11c8b5828a62e7aaa2ffd4179f3118eead5aaf888f7e0ce2d0dd1465d5",
+      "path": "attachments/BH007_callable_box_loader_hall.litematic",
+      "litematic": {
+        "size": "26x21x39",
+        "version": "1.20.1"
+      }
+    }
+  ],
+  "records": {
+    "description": "A bulk storage hall that sorts items and packs them into boxes while making sure all items are accessible with a built in box call system - If there is no full box in the hall, you can press the button to break the shulker box in the loader.",
+    "features": [
+      "3 double chests of box storage per type",
+      "AB tilable SSI SS2 filters",
+      "Precision box loading with box call",
+      "Box call will not output empty boxes",
+      "Default extended box displays with auto first box placement",
+      "Easy to expand, schematic has 32 long hall",
+      "Fully hopperlocked"
+    ],
+    "considerations": [
+      "Displays do not have empty box collection"
+    ],
+    "compatibility": "1.16+"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Bulk Storage",
+      "id": "1454753523668484213",
+      "url": "https://discord.com/channels/1375556143186837695/1454753523668484213/1454753524637499577",
+      "matches": [
+        "bulk storage"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "DC",
+      "id": "1498750118940377089",
+      "url": "https://discord.com/channels/1375556143186837695/1498750118940377089/1498750120794001448",
+      "matches": [
+        "double chest"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Signal Strength Isolated",
+      "id": "1455820021581217843",
+      "url": "https://discord.com/channels/1375556143186837695/1455820021581217843/1455820022256500874",
+      "matches": [
+        "SSI"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "ss",
+      "id": "1454754774833696893",
+      "url": "https://discord.com/channels/1375556143186837695/1454754774833696893/1454754775542267957",
+      "matches": [
+        "SS"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Display",
+      "id": "1454753497638506689",
+      "url": "https://discord.com/channels/1375556143186837695/1454753497638506689/1454753498494144522",
+      "matches": [
+        "box display"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Schematic",
+      "id": "1454811558009110704",
+      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
+      "matches": [
+        "schematic"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopperlocking",
+      "id": "1454753660625227895",
+      "url": "https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422",
+      "matches": [
+        "hopperlocked"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Collection",
+      "id": "1454805930670559326",
+      "url": "https://discord.com/channels/1375556143186837695/1454805930670559326/1454805932532830268",
+      "matches": [
+        "box collection"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1506682892057710673",
+    "forumId": "1375565403727724764",
+    "continuingMessageIds": [
+      "1506682903512223785"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1506682892057710673",
+    "uploadMessageId": "1506682889788461139",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1506682892057710673/1506682898328064061/slice.png?ex=6a0f274b&is=6a0dd5cb&hm=95358468e580a4921a45094f9d56c67cb4605fc1c020a1638a5c321bea97cd04&"
+  },
+  "archivedAt": 1779291585846,
+  "updatedAt": 1779291585846,
+  "num_comments": 0
+}

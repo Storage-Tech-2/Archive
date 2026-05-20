@@ -13,14 +13,15 @@
   "updatedAt": 1777400277673,
   "references": [],
   "referencedBy": [
-    "MIS003",
+    "BH007",
+    "CH003",
+    "CH010",
     "LS002",
     "LS005",
-    "CH003",
     "MH002",
+    "MIS003",
     "PI005",
     "SP008",
-    "VIP003",
-    "CH010"
+    "VIP003"
   ]
 }
