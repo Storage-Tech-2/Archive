@@ -1,0 +1,525 @@
+{
+  "id": "1506881260046520393",
+  "name": "Coopers MS",
+  "code": "LS007",
+  "reservedCodes": [
+    "LS007"
+  ],
+  "pastPostThreadIds": [
+    "1506903921795403877"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "279796913371349002",
+      "username": "sly_cooper_",
+      "displayName": "Sly_Cooper_(Ping)",
+      "iconURL": "https://cdn.discordapp.com/avatars/279796913371349002/ac8df4b4a63f7f9ff58b1e2b2185c8b6.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465491592671658201",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1506881261317390430",
+      "name": "Area_Render.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1506881260046520393/1506881261317390430/image.png?ex=6a0fe009&is=6a0e8e89&hm=18ea28e2c0a0fb94a87d2171cfc41bd166f766dbbbb4f4ad50591220f02390e7&",
+      "timestamp": 1779338888895,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "279796913371349002",
+        "username": "sly_cooper_",
+        "displayName": "Sly_Cooper_(Ping)",
+        "iconURL": "https://cdn.discordapp.com/avatars/279796913371349002/ac8df4b4a63f7f9ff58b1e2b2185c8b6.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Render of Full storage",
+      "size": 79463,
+      "canDownload": true,
+      "width": 996,
+      "height": 643,
+      "path": "images/Area_Render.png",
+      "hash": "7431384ec4beb472f8104148dd016afdddfdd7fc12d00142fb2bb08b4fbec8a4"
+    },
+    {
+      "id": "1506881261803933736",
+      "name": "Central_Area_Deco.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1506881260046520393/1506881261803933736/2026-05-21_00.41.12.png?ex=6a0fe009&is=6a0e8e89&hm=491993bb1fced190f24f51d6bfa8dea57f59a878245e4b98a7b52a205384bdbf&",
+      "timestamp": 1779338888895,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "279796913371349002",
+        "username": "sly_cooper_",
+        "displayName": "Sly_Cooper_(Ping)",
+        "iconURL": "https://cdn.discordapp.com/avatars/279796913371349002/ac8df4b4a63f7f9ff58b1e2b2185c8b6.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Central area Deco with Cardinal labels",
+      "size": 334238,
+      "canDownload": true,
+      "width": 1200,
+      "height": 664,
+      "path": "images/Central_Area_Deco.png",
+      "hash": "0037282c5f47b71eecac3491d4808c646b50cf3a6e009d27b4084e9ded991eea"
+    },
+    {
+      "id": "1506881262478954507",
+      "name": "Status_Panel.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1506881260046520393/1506881262478954507/2026-05-21_00.41.57.png?ex=6a0fe009&is=6a0e8e89&hm=c9f6e55bc05a94892d0ce530b48b4ad5a16e934146c9bf3270e5464cc41fa4bf&",
+      "timestamp": 1779338888895,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "279796913371349002",
+        "username": "sly_cooper_",
+        "displayName": "Sly_Cooper_(Ping)",
+        "iconURL": "https://cdn.discordapp.com/avatars/279796913371349002/ac8df4b4a63f7f9ff58b1e2b2185c8b6.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Supplies Status as well as system pause and chunkloading",
+      "size": 243031,
+      "canDownload": true,
+      "width": 1200,
+      "height": 664,
+      "path": "images/Status_Panel.png",
+      "hash": "e83e1b016bc543e6462c3ab9e7faaecc9b5210fc5dd18317291b54f211a5fc53"
+    },
+    {
+      "id": "1506881264001613957",
+      "name": "Chest_Hall.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1506881260046520393/1506881264001613957/2026-05-21_00.42.43.png?ex=6a0fe009&is=6a0e8e89&hm=c58e6cfaa21516e26d84b1b59177e088d00ce7790d8ad17ad647409fdf09cf17&",
+      "timestamp": 1779338888895,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "279796913371349002",
+        "username": "sly_cooper_",
+        "displayName": "Sly_Cooper_(Ping)",
+        "iconURL": "https://cdn.discordapp.com/avatars/279796913371349002/ac8df4b4a63f7f9ff58b1e2b2185c8b6.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "One of 2 chest halls-this one has mostly colored items and plants",
+      "size": 280864,
+      "canDownload": true,
+      "width": 1200,
+      "height": 664,
+      "path": "images/Chest_Hall.png",
+      "hash": "e3964ecdb5271dd0bb7fff84e4169ae659dd2cd39b4d12280c35d2709eea6b5e"
+    },
+    {
+      "id": "1506881266132193381",
+      "name": "Bulk_hall.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1506881260046520393/1506881266132193381/2026-05-21_00.43.11.png?ex=6a0fe00a&is=6a0e8e8a&hm=2c912ec3b00962e482af4a7d52754af72d7577dc55060689fbb4e1764cc8f15c&",
+      "timestamp": 1779338888895,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "279796913371349002",
+        "username": "sly_cooper_",
+        "displayName": "Sly_Cooper_(Ping)",
+        "iconURL": "https://cdn.discordapp.com/avatars/279796913371349002/ac8df4b4a63f7f9ff58b1e2b2185c8b6.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Decorated Callable Bulk hall",
+      "size": 319430,
+      "canDownload": true,
+      "width": 1200,
+      "height": 664,
+      "path": "images/Bulk_hall.png",
+      "hash": "4571d034bcb5108fd190e62d4cd1e7563d8a55307fdcb3e37547d1c2917eb953"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1506881260797169724",
+      "name": "LS007_Universal_Cooper_MS_V5.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1506881260046520393/1506881260797169724/Universal_Cooper_MS_V5.litematic?ex=6a0fe009&is=6a0e8e89&hm=3984eb2dba1387756d77693bb4fdfa1408d8064c287f914e564f1ea595ae65ce&",
+      "timestamp": 1779338888895,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "279796913371349002",
+        "username": "sly_cooper_",
+        "displayName": "Sly_Cooper_(Ping)",
+        "iconURL": "https://cdn.discordapp.com/avatars/279796913371349002/ac8df4b4a63f7f9ff58b1e2b2185c8b6.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Full Schematic w/Subregions",
+      "size": 522797,
+      "canDownload": true,
+      "hash": "150410814456191530593980379a4dc4b24c54f46d8706b4f04d5124d45a962e",
+      "path": "attachments/LS007_Universal_Cooper_MS_V5.litematic",
+      "litematic": {
+        "size": "272x98x272",
+        "version": "1.21.11"
+      }
+    },
+    {
+      "id": "1506902355898138644",
+      "name": "LS007_Coopers_storage_Universal.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1506881260046520393/1506902355898138644/Coopers_storage_Universal.zip?ex=6a0ff3ae&is=6a0ea22e&hm=f6d1a6ac6ef9cbd92620396732aaf5625660a3359355cdb1fdfc8f023c88d198&",
+      "timestamp": 1779343918426,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 4523308,
+      "canDownload": true,
+      "hash": "f9ff14299abe87e4ea43f3e445b40613831b91dd650ae6d96e614a9bd7636b34",
+      "path": "attachments/LS007_Coopers_storage_Universal.zip",
+      "wdls": [
+        {
+          "path": "Coopers storage Universal 2",
+          "version": "1.21.11",
+          "levelName": "Coopers storage Universal"
+        }
+      ],
+      "wdl": {
+        "version": "1.21.11",
+        "optimized": true
+      },
+      "unoptimizedSize": 4532879
+    }
+  ],
+  "records": {
+    "description": "Complete Main Storage for 1.21.11",
+    "features": [
+      "Nice Deco",
+      "Color Coding For easier debug",
+      "80% Hopperlocked",
+      "2 Chest Halls with 40 slices, 8 chest per slice, 1.5 dc per item",
+      "64 bulk items",
+      "20 Mis Categories",
+      "Unstackable Sorter",
+      "Stacked box Storage with /carpet stackableshulkerboxes set to true",
+      "Shulker distribution to all necessary areas",
+      "Basic Protections",
+      "Calibrated sculk hidden doors to access brewer/dye supply area and overflow",
+      "Several Nano Farms",
+      "Villager trading hall with room for 80 villagers",
+      "Several Buffer Box Displays throughout Chest and bulk halls",
+      "Hidden Enchant table + Toggleable nether portal"
+    ],
+    "notes": "Take care while building if you plan on using this. Several components either require prefill or need some setup for them to function properly (Ex. Shulker crafter). This Storage was built by me for me, it wont be perfect for everyone but having options to choose or take inspiration from is never a bad idea",
+    "compatibility": "1.21.11",
+    "coopers-storage-credits-list": "* [1x loader array](https://discord.com/channels/748542142347083868/1387579944921731264/1452736294752096257) - Etikle (Gordon Yamsay) + slight modifications by me to make it callable\n* [50 Furnace array](https://discord.com/channels/1161803566265143306/1445856325492932819/1445856325492932819) - Floppydonkey\n* [Bottom Accessible loaders](https://discord.com/channels/1375556143186837695/1392582196652675092/1392582196652675092) - Vktec\n* [Colored Box Crafter](https://discord.com/channels/1375556143186837695/1388318423427059806/1388318423427059806) - EthanMik\n* [Smart Restock Bulk](https://discord.com/channels/748542142347083868/749137424684285992/1395397814145519729) - Kizu+Skyzy + slight modifications by me to make it callable\n* [Cart Mass crafter](https://youtu.be/0FBjFTG8FQA?) (YT link)- Futo212\n* [Stacked Box Storage](https://discord.com/channels/748542142347083868/749137424684285992/1024647815768576011) - KikuGie\n* [MIS Minibulk Accessible loader](https://youtu.be/CDmVm2zgXNU) (YT link)- Sergent_Patate\n* [MIS V5.1](https://discord.com/channels/1375556143186837695/1461793011833897264/1461793011833897264) - Rapscallion, Moony, SergyD\n* [Set based Parallel unloader](https://discord.com/channels/748542142347083868/1466909463326752791/1466909463326752791) - Etikle (Gordon Yamsay)\n* Storage hall (1w-AB tileable 2dc/item)- Sly\\_Cooper_\n* [Input](https://discord.com/channels/1375556143186837695/1502141146279837728) - Etikle, Skyzy, Kizu\n* [Unstackable Sorter](https://discord.com/channels/748542142347083868/749136876946063360/1286267762360188958) - CommandLeo\n* [Pulse Extenders](https://discord.com/channels/748542142347083868/748547221338849330/1085755072052478043) - CommandLeo\n* [Auto restock Brewers](https://discord.com/channels/1161803566265143306/1445155255808430193/1445155255808430193) - Fluffy Socks\n* [Overflow system](https://discord.com/channels/1375556143186837695/1471913637890232411/1471913637890232411)- Ragdoll Willy\n* [Hidden enchant table](https://youtu.be/c7XBJxBhVbc) (YT link) - Rexxstone\n* [Anvil replacer](https://youtu.be/kAS-ZaNnF10) (YT link) - Rexxstone\n* [Xp Farm](https://discord.com/channels/1161803566265143306/1444280155496386651/1444280155496386651) - Sicarious\n* [Ceiling Box Display](https://discord.com/channels/748542142347083868/1505094700107960360) -Og design by me, refined by Sneaky\n* [Floor Box Display](https://discord.com/channels/748542142347083868/748547221338849330/1375855146805886997) - Valleytech\n* [Cocoa Bean farm](https://youtu.be/RGLhnEbGC9o) (YT link) - Activated\n* [2wt Villager swapper](https://youtu.be/1mDBgh7EqTY) (YT link) - Accxpted\n* [Collectionless Restock Box Display](https://discord.com/channels/748542142347083868/92652347688)",
+    "instructions---basic-sorting": "1. Start the chunkloaders, if successful status lamp will light and system will unlock.\n2. Put items into input ui, full single type boxes to bulk, mixed boxes in mixed, loose items in mixed shulker.  \n3. Hit the break mixed box noteblock if applicable.\n4. Hit the start system noteblock\n**System will not start unless chunkloading is successful**",
+    "additional-tips": "* Hopperlocking for Chest halls can be toggled to let any buffer flow if chests are emptied\n* There are signs labeling various components that might not be immediately obvious. As well as some simple instructions."
+  },
+  "styles": {
+    "coopers-storage-credits-list": {
+      "depth": 2,
+      "headerText": "Coopers storage Credits list"
+    },
+    "instructions---basic-sorting": {
+      "depth": 2,
+      "headerText": "Instructions - Basic Sorting"
+    },
+    "additional-tips": {
+      "depth": 2,
+      "headerText": "Additional tips"
+    }
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopperlocking",
+      "id": "1454753660625227895",
+      "url": "https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422",
+      "matches": [
+        "Hopperlocked",
+        "Hopperlocking"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Chest Hall",
+      "id": "1454753529700024331",
+      "url": "https://discord.com/channels/1375556143186837695/1454753529700024331/1454753530488426527",
+      "matches": [
+        "Chest Hall",
+        "Chest hall"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Unstackable sorter",
+      "id": "1454754837379022858",
+      "url": "https://discord.com/channels/1375556143186837695/1454754837379022858/1454754839224516712",
+      "matches": [
+        "Unstackable Sorter"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Display",
+      "id": "1454753497638506689",
+      "url": "https://discord.com/channels/1375556143186837695/1454753497638506689/1454753498494144522",
+      "matches": [
+        "Box Display"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/1387579944921731264/1452736294752096257",
+      "server": "748542142347083868",
+      "channel": "1387579944921731264",
+      "message": "1452736294752096257",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/1387579944921731264/1452736294752096257"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/1161803566265143306/1445856325492932819/1445856325492932819",
+      "server": "1161803566265143306",
+      "channel": "1445856325492932819",
+      "message": "1445856325492932819",
+      "matches": [
+        "https://discord.com/channels/1161803566265143306/1445856325492932819/1445856325492932819"
+      ],
+      "serverName": "TMC Catalogue",
+      "serverJoinURL": "https://discord.com/invite/tvpccRczWx"
+    },
+    {
+      "type": "archivedPost",
+      "id": "1386250599326285874",
+      "code": "AL001",
+      "name": "Bottom-Accessible Shulker Loader",
+      "url": "https://discord.com/channels/1375556143186837695/1392582196652675092",
+      "path": "Archive/AL_accessible-loaders/AL001_Bottom-Accessible_Shulker_Loader",
+      "matches": [
+        "https://discord.com/channels/1375556143186837695/1392582196652675092/1392582196652675092"
+      ]
+    },
+    {
+      "type": "archivedPost",
+      "id": "1386528814389137518",
+      "code": "AC001",
+      "name": "Shulker Box Crafters",
+      "url": "https://discord.com/channels/1375556143186837695/1388318423427059806",
+      "path": "Archive/AC_autocrafting/AC001_Shulker_Box_Crafters",
+      "matches": [
+        "https://discord.com/channels/1375556143186837695/1388318423427059806/1388318423427059806"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/749137424684285992/1395397814145519729",
+      "server": "748542142347083868",
+      "channel": "749137424684285992",
+      "message": "1395397814145519729",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/749137424684285992/1395397814145519729"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/749137424684285992/1024647815768576011",
+      "server": "748542142347083868",
+      "channel": "749137424684285992",
+      "message": "1024647815768576011",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/749137424684285992/1024647815768576011"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "archivedPost",
+      "id": "1461791673670566072",
+      "code": "MF004",
+      "name": "MIS V5.1",
+      "url": "https://discord.com/channels/1375556143186837695/1461793011833897264",
+      "path": "Archive/MF_multi-item-filters/MF004_MIS_V5.1",
+      "matches": [
+        "https://discord.com/channels/1375556143186837695/1461793011833897264/1461793011833897264"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/1466909463326752791/1466909463326752791",
+      "server": "748542142347083868",
+      "channel": "1466909463326752791",
+      "message": "1466909463326752791",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/1466909463326752791/1466909463326752791"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "A/B Tiling",
+      "id": "1454753732293033984",
+      "url": "https://discord.com/channels/1375556143186837695/1454753732293033984/1454753733035687988",
+      "matches": [
+        "AB tileable"
+      ]
+    },
+    {
+      "type": "archivedPost",
+      "id": "1502139800973611059",
+      "code": "PI006",
+      "name": "Binned Storage Input With Input Handler",
+      "url": "https://discord.com/channels/1375556143186837695/1502141146279837728",
+      "path": "Archive/PI_player-inputs/PI006_Binned_Storage_Input_With_Input_Handler",
+      "matches": [
+        "https://discord.com/channels/1375556143186837695/1502141146279837728"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/749136876946063360/1286267762360188958",
+      "server": "748542142347083868",
+      "channel": "749136876946063360",
+      "message": "1286267762360188958",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/749136876946063360/1286267762360188958"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/748547221338849330/1085755072052478043",
+      "server": "748542142347083868",
+      "channel": "748547221338849330",
+      "message": "1085755072052478043",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/748547221338849330/1085755072052478043"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/1161803566265143306/1445155255808430193/1445155255808430193",
+      "server": "1161803566265143306",
+      "channel": "1445155255808430193",
+      "message": "1445155255808430193",
+      "matches": [
+        "https://discord.com/channels/1161803566265143306/1445155255808430193/1445155255808430193"
+      ],
+      "serverName": "TMC Catalogue",
+      "serverJoinURL": "https://discord.com/invite/tvpccRczWx"
+    },
+    {
+      "type": "archivedPost",
+      "id": "1465110546658492621",
+      "code": "SP008",
+      "name": "4DC Overflow with Recycle Bin",
+      "url": "https://discord.com/channels/1375556143186837695/1471913637890232411",
+      "path": "Archive/SP_peripherals/SP008_4DC_Overflow_with_Recycle_Bin",
+      "matches": [
+        "https://discord.com/channels/1375556143186837695/1471913637890232411/1471913637890232411"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/1161803566265143306/1444280155496386651/1444280155496386651",
+      "server": "1161803566265143306",
+      "channel": "1444280155496386651",
+      "message": "1444280155496386651",
+      "matches": [
+        "https://discord.com/channels/1161803566265143306/1444280155496386651/1444280155496386651"
+      ],
+      "serverName": "TMC Catalogue",
+      "serverJoinURL": "https://discord.com/invite/tvpccRczWx"
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/1505094700107960360",
+      "server": "748542142347083868",
+      "channel": "1505094700107960360",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/1505094700107960360"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/748547221338849330/1375855146805886997",
+      "server": "748542142347083868",
+      "channel": "748547221338849330",
+      "message": "1375855146805886997",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/748547221338849330/1375855146805886997"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/92652347688",
+      "server": "748542142347083868",
+      "channel": "92652347688",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/92652347688"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Mixed Box",
+      "id": "1454753707530129576",
+      "url": "https://discord.com/channels/1375556143186837695/1454753707530129576/1454753708247089184",
+      "matches": [
+        "mixed box"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1506903921795403877",
+    "forumId": "1375566903241740450",
+    "continuingMessageIds": [
+      "1506903933866610779",
+      "1506903934533501028",
+      "1506903935183618098",
+      "1506903935854841876"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1506903921795403877",
+    "uploadMessageId": "1506903918247149588",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1506903921795403877/1506903927306850335/Area_Render.png?ex=6a0ff525&is=6a0ea3a5&hm=ec6aa4f5621de24b84be42c54d4e091512f4fafc8cbd1012ad534ad1c3959363&"
+  },
+  "archivedAt": 1779344283238,
+  "updatedAt": 1779344283238,
+  "num_comments": 0
+}

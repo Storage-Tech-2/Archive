@@ -11,11 +11,12 @@
   "updatedAt": 1766910712655,
   "references": [],
   "referencedBy": [
-    "MIS003",
     "AC002",
-    "TG001",
-    "SSU001",
     "LS005",
-    "ML007"
+    "LS007",
+    "MIS003",
+    "ML007",
+    "SSU001",
+    "TG001"
   ]
 }
