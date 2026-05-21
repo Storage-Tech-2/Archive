@@ -188,7 +188,26 @@
     }
   ],
   "records": {
-    "description": "A Bulk storage made for easy understanding, scaling (both upwards and horizontally) and using. Features an open cieling design."
+    "description": "A Bulk storage made for easy understanding, scaling (both upwards and horizontally) and using. Features an open cieling design.",
+    "features": [
+      "Hopperspeed Box sorter by acaciachan, so is the input;",
+      "Reachable filters from inside of the bulk via slabs (idea by Obi);",
+      "Expandability upwards and horizontally (you can add layers through the middle, adding 4gt delay for 91 inventory spaces);",
+      "Smart  noteblock default extended display by MoonyInspired and CommandLeo;",
+      "Display collection can be via water streams.",
+      "Display first box dispensing by hitting the noteblock.",
+      "Display chest opens slice if emptied (being refilled).",
+      "Lamp indicators for opened slices on the Deco-ed versions.",
+      "100% locked*",
+      "Simple, easy to follow wiring."
+    ],
+    "considerations": [
+      "While there is no box displayed, its hopper remains unlocked (meaning default 1 hopper per slice is unlocked);",
+      "Less slot density than the traditional bulk layout;",
+      "Slices are opened via dropper latch;",
+      "non-instant global locking with 10bps signal."
+    ],
+    "notes": "- The included wiring is Open Ceiling, allowing for a lot of decoration freedom and to fly in and out of the bulk storage;\n- The included schematics feature a 959,040 item capacity with shulker boxes in each slice;\n- The latches inside of each slice can be set by building the bottom row of the slice, adding hoppers on top and manually dropping the item into the hopper instead of opening the dropper GUI. Only 1 item is needed per latch."
   },
   "styles": {},
   "references": [
@@ -198,7 +217,72 @@
       "id": "1454753523668484213",
       "url": "https://discord.com/channels/1375556143186837695/1454753523668484213/1454753524637499577",
       "matches": [
-        "Bulk storage"
+        "Bulk storage",
+        "bulk storage"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopper speed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "Hopperspeed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Sorter",
+      "id": "1454753516269736090",
+      "url": "https://discord.com/channels/1375556143186837695/1454753516269736090/1454753518383792221",
+      "matches": [
+        "Box sorter"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Gametick",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice",
+        "Slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Display",
+      "id": "1454753497638506689",
+      "url": "https://discord.com/channels/1375556143186837695/1454753497638506689/1454753498494144522",
+      "matches": [
+        "box display"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Global",
+      "id": "1454753648574992557",
+      "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
+      "matches": [
+        "global"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Schematic",
+      "id": "1454811558009110704",
+      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
+      "matches": [
+        "schematic"
       ]
     }
   ],
@@ -207,13 +291,14 @@
     "threadId": "1506807695221592236",
     "forumId": "1375565403727724764",
     "continuingMessageIds": [
-      "1506807709599662271"
+      "1506872733600972940",
+      "1506872734137843783"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1506807695221592236",
     "uploadMessageId": "1506807692725846096",
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1506807695221592236/1506815027586535527/NoDecoRender.png?ex=6a0fa259&is=6a0e50d9&hm=5d3d5d0bd697c2cca0f856852635f7873f34cf66a52fb056105fea891da1c0d3&"
   },
   "archivedAt": 1779321347386,
-  "updatedAt": 1779323095548,
+  "updatedAt": 1779336849046,
   "num_comments": 0
 }
