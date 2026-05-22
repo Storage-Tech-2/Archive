@@ -1,7 +1,7 @@
 # Square UI 1wABt 10 item chest hall
 <img alt="area_render_62_.png" src="images/area_render_62_.png?raw=1" height="300px">
 
-**Authors:** *fjall0473*
+**Authors:** *deleted_user_2d26a48a41da*
 
 **Endorsed by:** *Andrews54757*
 
