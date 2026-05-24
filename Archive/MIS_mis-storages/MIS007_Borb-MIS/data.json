@@ -10,9 +10,10 @@
   ],
   "authors": [
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "267661106078679043",
       "username": "borbarad13",
+      "displayName": "Borbarad13",
       "iconURL": "https://cdn.discordapp.com/avatars/267661106078679043/ed0cc32154935ceec929e3c75b569102.webp"
     }
   ],

@@ -1,7 +1,7 @@
 # Borb-MIS
 <img alt="508210971-e577d7af-4f02-4934-8dfc-e0bb319a8a74.png" src="images/508210971-e577d7af-4f02-4934-8dfc-e0bb319a8a74.png?raw=1" height="300px">
 
-**Authors:** *borbarad13*
+**Authors:** *Borbarad13*
 
 **Endorsed by:** *Andrews54757*
 
