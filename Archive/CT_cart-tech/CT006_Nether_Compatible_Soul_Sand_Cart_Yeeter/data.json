@@ -1,0 +1,121 @@
+{
+  "id": "1508960261162270772",
+  "name": "Nether Compatible Soul Sand Cart Yeeter",
+  "code": "CT006",
+  "reservedCodes": [
+    "CT006"
+  ],
+  "pastPostThreadIds": [
+    "1508960692340789389"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "319513337941721089",
+      "username": "inspectortalon",
+      "displayName": "Inspector Talon",
+      "iconURL": "https://cdn.discordapp.com/avatars/319513337941721089/edec0da88a70e9697b6b43b4a2d740e3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465491305663823944",
+      "name": "Functional"
+    },
+    {
+      "id": "1450268858790187239",
+      "name": "Cart Yeeting"
+    }
+  ],
+  "images": [
+    {
+      "id": "1508960262122766346",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1508960261162270772/1508960262122766346/image.png?ex=6a177041&is=6a161ec1&hm=4fb59b737d21f31e2a2b4f614ee0bd369ebfd1349a332dbeaad35277ad8fef52&",
+      "timestamp": 1779834561387,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 9486,
+      "canDownload": true,
+      "width": 650,
+      "height": 660,
+      "path": "images/image.png",
+      "hash": "11d528ab2b7c35d541fa477566dfb82b1609b66b0965a0cd5a32d89ea07afc6d"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1508960261778837574",
+      "name": "CT006_nether_compat_soul_sand_yeeter.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1508960261162270772/1508960261778837574/nether_compat_soul_sand_yeeter.litematic?ex=6a177041&is=6a161ec1&hm=132bbc74a83fd9d44ffc60675d4c658234a5883e8ccad9227d7c67b191428070&",
+      "timestamp": 1779834561387,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 623,
+      "canDownload": true,
+      "hash": "5b2243ecfa02a75ced9f3fccb04992f7cce90b65c6686cec71c65a719c6a4c10",
+      "path": "attachments/CT006_nether_compat_soul_sand_yeeter.litematic",
+      "litematic": {
+        "size": "1x5x4",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A cart yeeter that uses soul sand + soul fire to destroy the cart and is nether-compatible.",
+    "features": [
+      "No water required for item collection, is nether compatible."
+    ]
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "cart yeet",
+      "id": "1455675378931728598",
+      "url": "https://discord.com/channels/1375556143186837695/1455675378931728598/1455675380160659517",
+      "matches": [
+        "cart yeet"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1508960692340789389",
+    "forumId": "1375563297230688327",
+    "continuingMessageIds": [
+      "1508960702813962281"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1508960692340789389",
+    "uploadMessageId": "1508960689685921874",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1508960692340789389/1508960696639951049/image.png?ex=6a1770a9&is=6a161f29&hm=a26e3fb27b1066cad469427d8978185f17b6a7721002149fc14ead112c3c1b68&"
+  },
+  "archivedAt": 1779834661730,
+  "updatedAt": 1779834661730,
+  "num_comments": 0
+}

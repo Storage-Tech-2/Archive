@@ -4,7 +4,7 @@
   "code": "CT",
   "category": "Transport",
   "description": "Minecart technology",
-  "currentCodeId": 5,
+  "currentCodeId": 6,
   "entries": [
     {
       "id": "1450267939461922957",
@@ -30,6 +30,11 @@
       "id": "1456378525970993232",
       "code": "CT005",
       "path": "CT005_Stacked_Cart_Perfect_Merge_Yeeter"
+    },
+    {
+      "id": "1508960261162270772",
+      "code": "CT006",
+      "path": "CT006_Nether_Compatible_Soul_Sand_Cart_Yeeter"
     }
   ]
 }
