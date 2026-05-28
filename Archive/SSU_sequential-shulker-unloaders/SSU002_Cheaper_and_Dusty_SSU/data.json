@@ -1,0 +1,217 @@
+{
+  "id": "1509700669098164444",
+  "name": "Cheaper and Dusty SSU",
+  "code": "SSU002",
+  "reservedCodes": [
+    "SSU002"
+  ],
+  "pastPostThreadIds": [
+    "1509705239115333685"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "688456529338433611",
+      "username": "glidingmonkey",
+      "displayName": "Christone",
+      "iconURL": "https://cdn.discordapp.com/avatars/688456529338433611/348a34add443a5a71237111010e484b1.webp"
+    },
+    {
+      "type": "unknown",
+      "username": "Heilzmaker",
+      "dontDisplay": true
+    },
+    {
+      "type": "unknown",
+      "username": "SamosTheSage"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "688456529338433611",
+      "username": "glidingmonkey",
+      "displayName": "Christone",
+      "iconURL": "https://cdn.discordapp.com/avatars/688456529338433611/348a34add443a5a71237111010e484b1.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465492258928332923",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1509700669366468669",
+      "name": "Slice_Back.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1509700669098164444/1509700669366468669/area_render_36_.png?ex=6a1a21d0&is=6a18d050&hm=c3d07eb14059c7a6c7a6acc3e21c03f1b6b4f4293e8b8eb1b60971ecd09d0957&",
+      "timestamp": 1780011088395,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "688456529338433611",
+        "username": "glidingmonkey",
+        "displayName": "Christone",
+        "iconURL": "https://cdn.discordapp.com/avatars/688456529338433611/348a34add443a5a71237111010e484b1.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 193150,
+      "canDownload": true,
+      "width": 982,
+      "height": 1200,
+      "path": "images/Slice_Back.png",
+      "hash": "1e22b821e5646bd9515cb5904570c270e89c02ebb5bdcb328c79e966389decb0"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1509700671157309593",
+      "name": "SSU002_Cheap_SSU_2.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1509700669098164444/1509700671157309593/Cheap_SSU_2.litematic?ex=6a1a21d0&is=6a18d050&hm=d933a1a79416125c6b5f4c7070d25dc76204e6f7ce7293aa597a6faf2477c058&",
+      "timestamp": 1780011088395,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "688456529338433611",
+        "username": "glidingmonkey",
+        "displayName": "Christone",
+        "iconURL": "https://cdn.discordapp.com/avatars/688456529338433611/348a34add443a5a71237111010e484b1.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1260,
+      "canDownload": true,
+      "hash": "f011c8b1995131d29b63d8420df4235d55c18068bd3bc4e9fae6374ce4c9465d",
+      "path": "attachments/SSU002_Cheap_SSU_2.litematic",
+      "litematic": {
+        "size": "2x8x7",
+        "version": "1.21.4"
+      }
+    },
+    {
+      "id": "1509700671430197339",
+      "name": "SSU002_Cheap_SSU_Tiled.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1509700669098164444/1509700671430197339/Cheap_SSU_Tiled_-_with_end_mixed_loader.litematic?ex=6a1a21d0&is=6a18d050&hm=45be68185c899e431a4f557a5626f358ab672e5ebaa21f00e610adb341b258b1&",
+      "timestamp": 1780011088395,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "688456529338433611",
+        "username": "glidingmonkey",
+        "displayName": "Christone",
+        "iconURL": "https://cdn.discordapp.com/avatars/688456529338433611/348a34add443a5a71237111010e484b1.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 5057,
+      "canDownload": true,
+      "hash": "f60e250f1815b9c299b24a60e6fba222b3cb0dc9f7fe5a95da83712e1a2566cd",
+      "path": "attachments/SSU002_Cheap_SSU_Tiled.litematic",
+      "litematic": {
+        "size": "38x9x7",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A Sequential Shulker Unloader optimized to be small and cheap by using more redstone dust than observers. It is inspired by previous designs by Heilz and SamosTheSage.",
+    "features": [
+      "Optimized to be small and cheap",
+      "Each slice filters items at max 1x hopper speed",
+      "The box loader is fully reliable",
+      "Includes an end slice with unloader, mixed loader, and empty box recycling"
+    ],
+    "considerations": [
+      "Dust may be less lag-friendly than observers, but none of the dust is constantly clocked here, it only activates per box, so there wasn't a noticeable difference in my testing."
+    ],
+    "instructions": [
+      "Expand or trim the tiled version to desired number of slices",
+      "Set the item filters at ss15 with 4 unstackable blockers like: [63 B B B B] or [15 B B B B]",
+      "Make sure you have enough storage space for output boxes (full, mixed, and empty)",
+      "Input mixed boxes and wait for them to process"
+    ]
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Sequential shulker unloader",
+      "id": "1460454576493957333",
+      "url": "https://discord.com/channels/1375556143186837695/1460454576493957333/1460454577995251899",
+      "matches": [
+        "Sequential Shulker Unloader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopper speed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "1x",
+        "hopper speed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Unloader",
+      "id": "1454754824758493380",
+      "url": "https://discord.com/channels/1375556143186837695/1454754824758493380/1454754825345433803",
+      "matches": [
+        "unloader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Mixed loader",
+      "id": "1454753713024405588",
+      "url": "https://discord.com/channels/1375556143186837695/1454753713024405588/1454753714144411649",
+      "matches": [
+        "mixed loader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "ss",
+      "id": "1454754774833696893",
+      "url": "https://discord.com/channels/1375556143186837695/1454754774833696893/1454754775542267957",
+      "matches": [
+        "ss"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1509705239115333685",
+    "forumId": "1460787565207490805",
+    "continuingMessageIds": [
+      "1509705249068421341"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1509705239115333685",
+    "uploadMessageId": "1509705237085159476",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1509705239115333685/1509705243783467078/Slice_Back.png?ex=6a1a2613&is=6a18d493&hm=2843b7c1acc2a8b5f23a4a4a86d52b292e587c1d104f8b74a9bfe3432e2ef5e2&"
+  },
+  "archivedAt": 1780012170315,
+  "updatedAt": 1780012170315,
+  "num_comments": 0
+}

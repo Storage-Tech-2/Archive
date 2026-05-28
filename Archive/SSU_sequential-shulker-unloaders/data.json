@@ -4,12 +4,17 @@
   "code": "SSU",
   "category": "Advanced Tech",
   "description": "Sequential shulker unloaders and other advanced fixed item sorting techniques.",
-  "currentCodeId": 1,
+  "currentCodeId": 2,
   "entries": [
     {
       "id": "1460784810481025034",
       "code": "SSU001",
       "path": "SSU001_Sequential_Fixed_Sorter_also_known_as_an_SSU"
+    },
+    {
+      "id": "1509700669098164444",
+      "code": "SSU002",
+      "path": "SSU002_Cheaper_and_Dusty_SSU"
     }
   ]
 }

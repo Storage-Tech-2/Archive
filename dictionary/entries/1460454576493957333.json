@@ -40,6 +40,7 @@
     }
   ],
   "referencedBy": [
-    "SSU001"
+    "SSU001",
+    "SSU002"
   ]
 }
