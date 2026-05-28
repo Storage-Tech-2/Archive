@@ -249,10 +249,12 @@
       "id": "1454753648574992557",
       "terms": [
         "Global",
-        "Local"
+        "Local",
+        "global clock",
+        "local clock"
       ],
       "summary": "Annotates if a signal comes from a global system ( a \"brain\" ), or from within a Slice.\nFor example, one global clock could send signals to 8 slices on an interval, or all 8 slices could have their...",
-      "updatedAt": 1766910698728
+      "updatedAt": 1779992809714
     },
     {
       "id": "1454753655063580723",
