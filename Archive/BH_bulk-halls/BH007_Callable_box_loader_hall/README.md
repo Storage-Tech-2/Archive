@@ -27,4 +27,4 @@ A bulk storage hall that sorts items and packs them into boxes while making sure
 <img src="images/tiled_example.png?raw=1" height="300px">
 
 ## Resources
-- [BH007_callable_box_loader_hall.litematic](attachments/BH007_callable_box_loader_hall.litematic): MC 1.20.1, Size 26x21x39 blocks
+- [BH007_callable_box_loader_hall_fixed.litematic](attachments/BH007_callable_box_loader_hall_fixed.litematic): MC 1.21.4, Size 26x21x39 blocks

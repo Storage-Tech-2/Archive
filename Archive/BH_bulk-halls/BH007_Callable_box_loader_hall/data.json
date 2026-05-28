@@ -44,11 +44,11 @@
   ],
   "images": [
     {
-      "id": "1506679714138292314",
+      "id": "1509631782553649182",
       "name": "slice.png",
       "contentType": "image/png",
-      "url": "https://cdn.discordapp.com/attachments/1506679713383583945/1506679714138292314/image.png?ex=6a0f2454&is=6a0dd2d4&hm=57d4cdd12e5b848ddf2cbfd80c7e87b2c3f5048cd052d799d3a7800ba0ec0b75&",
-      "timestamp": 1779290836426,
+      "url": "https://cdn.discordapp.com/attachments/1506679713383583945/1509631782553649182/image.png?ex=6a19e1a8&is=6a189028&hm=bf178a68b4d1eacf4f5ca0973147176b3903bf60d6d8d093af017e1728ac96ed&",
+      "timestamp": 1779994664629,
       "author": {
         "type": "discord-in-guild",
         "id": "239078039831445504",
@@ -57,13 +57,13 @@
         "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
       },
       "source": "MessageAttachment",
-      "description": "Single slice of design",
-      "size": 43109,
+      "description": "",
+      "size": 45003,
       "canDownload": true,
       "width": 872,
-      "height": 862,
+      "height": 858,
       "path": "images/slice.png",
-      "hash": "8ce33fe37f19a4d1dff5529f0d46a3e26c4743294d1a98f690f535fb788e8b43"
+      "hash": "6e625a26b561b02c6e64b37c2469b395cef479d20596fd2226edbf7ea00562ad"
     },
     {
       "id": "1506679714457194588",
@@ -90,11 +90,11 @@
   ],
   "attachments": [
     {
-      "id": "1506679714721304797",
-      "name": "BH007_callable_box_loader_hall.litematic",
+      "id": "1509631420879077488",
+      "name": "BH007_callable_box_loader_hall_fixed.litematic",
       "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1506679713383583945/1506679714721304797/callable_box_loader_hall.litematic?ex=6a0f2454&is=6a0dd2d4&hm=df40e216ffd2f69cf3982994fa93b3952d11fe4847d953505488f687371b3801&",
-      "timestamp": 1779290836426,
+      "url": "https://cdn.discordapp.com/attachments/1506679713383583945/1509631420879077488/callable_loader_hall_fixed.litematic?ex=6a19e152&is=6a188fd2&hm=7fc5429f8bd58942d2651740e96a4783d5da0ad0f7f5236751bd4a2a4d7b85fc&",
+      "timestamp": 1779994578401,
       "author": {
         "type": "discord-in-guild",
         "id": "239078039831445504",
@@ -104,13 +104,13 @@
       },
       "source": "MessageAttachment",
       "description": "",
-      "size": 13395,
+      "size": 12782,
       "canDownload": true,
-      "hash": "6dc80d11c8b5828a62e7aaa2ffd4179f3118eead5aaf888f7e0ce2d0dd1465d5",
-      "path": "attachments/BH007_callable_box_loader_hall.litematic",
+      "hash": "1464bb6ad67f37cb730cced3932bd7f3bc787def469ed9e07e80b8c3489365d4",
+      "path": "attachments/BH007_callable_box_loader_hall_fixed.litematic",
       "litematic": {
         "size": "26x21x39",
-        "version": "1.20.1"
+        "version": "1.21.4"
       }
     }
   ],
@@ -222,10 +222,10 @@
       "1506682903512223785"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1506682892057710673",
-    "uploadMessageId": "1506682889788461139",
-    "thumbnailURL": "https://cdn.discordapp.com/attachments/1506682892057710673/1506682898328064061/slice.png?ex=6a0f274b&is=6a0dd5cb&hm=95358468e580a4921a45094f9d56c67cb4605fc1c020a1638a5c321bea97cd04&"
+    "uploadMessageId": "1509632023151513651",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1506682892057710673/1509632030743203970/slice.png?ex=6a19e1e3&is=6a189063&hm=d8ef11f3d78b6af1390bcd4460a5525e2e113d79fadaa3c18dbfda1f9ff2a7c8&"
   },
   "archivedAt": 1779291585846,
-  "updatedAt": 1779291585846,
+  "updatedAt": 1779994718920,
   "num_comments": 0
 }
