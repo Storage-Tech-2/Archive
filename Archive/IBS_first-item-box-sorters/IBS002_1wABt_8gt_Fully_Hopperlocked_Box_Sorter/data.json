@@ -12,10 +12,9 @@
     {
       "type": "discord-in-guild",
       "id": "656864003242328064",
-      "name": "acaciachan",
       "displayName": "金合欢酱喵~ (acaciachan)",
-      "iconURL": "https://cdn.discordapp.com/avatars/656864003242328064/65e1c203d9ea0af6509f0754122b45a2.webp",
-      "username": "acaciachan"
+      "username": "acaciachan",
+      "iconURL": "https://cdn.discordapp.com/avatars/656864003242328064/65e1c203d9ea0af6509f0754122b45a2.webp"
     }
   ],
   "endorsers": [
@@ -39,83 +38,134 @@
   ],
   "images": [
     {
-      "id": "1386694250858811523",
-      "name": "Box_Sorter.png",
+      "id": "1509673383590105219",
+      "name": "slice.png",
       "contentType": "image/png",
-      "url": "https://cdn.discordapp.com/attachments/1386694246311919667/1386694250858811523/Box_Sorter.png?ex=685aa328&is=685951a8&hm=52ea4fb68dbcb177971efd2e6ee84e557fdebcc0957222a74950e3cf012bf99e&",
-      "description": "",
-      "canDownload": true,
-      "width": 800,
-      "height": 335,
-      "path": "images/Box_Sorter.png",
-      "source": "MessageAttachment",
+      "url": "https://cdn.discordapp.com/attachments/1386694246311919667/1509673383590105219/image.png?ex=6a1a0867&is=6a18b6e7&hm=ea0e380f9ff2f67e15fdd30c4074f79a3d2b607f184b1000e326e3ecc1d089e1&",
+      "timestamp": 1780004583077,
       "author": {
-        "type": "unknown",
-        "username": "andrews54757"
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
       },
-      "timestamp": 1750684071000,
-      "hash": "177aad5c3ce3ccd08fac8133bf711f76f9b6e7857c3d81fe9688d76e4014ff2d"
+      "source": "MessageAttachment",
+      "description": "Single slice of the box sorter",
+      "size": 15434,
+      "canDownload": true,
+      "width": 816,
+      "height": 767,
+      "path": "images/slice.png",
+      "hash": "01d5c4eb37ff9700a2e3e909e3086461ac99e37ce5bfcace496d8e7a069c7a95"
+    },
+    {
+      "id": "1509673076328108042",
+      "name": "v5.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386694246311919667/1509673076328108042/v5.png?ex=6a1a081d&is=6a18b69d&hm=f8c468e675bedc9e39b5af49349083f210379951194497521f76986026626e90&",
+      "timestamp": 1780004509821,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Render of device with original keygen (v5)",
+      "size": 99922,
+      "canDownload": true,
+      "width": 874,
+      "height": 532,
+      "path": "images/v5.png",
+      "hash": "17cc9309e408ebd3f854063c09660f4183e02abc5aa7024e48db8b650edba6ba"
+    },
+    {
+      "id": "1509672832060358736",
+      "name": "v7.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1386694246311919667/1509672832060358736/image.png?ex=6a1a07e3&is=6a18b663&hm=15584c535a449a54005c5c244a23bcd5f9f29dd6076aeb51be654a7fd46a0fc3&",
+      "timestamp": 1780004451595,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Render of device with new 2 wide keygen (v7)",
+      "size": 100730,
+      "canDownload": true,
+      "width": 839,
+      "height": 547,
+      "path": "images/v7.png",
+      "hash": "e94278830fb8df9b2c15efbca7a1518ac2a01b581811eab9decee2155d2aa768"
     }
   ],
   "attachments": [
     {
-      "id": "1386694251236167790",
-      "name": "IBS002_Acaciachan_8gt_box_sorter_v5_1_14_fhl.litematic",
-      "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1386694246311919667/1386694251236167790/Acaciachan_8gt_box_sorter_v5_1_14_fhl.litematic?ex=685aa329&is=685951a9&hm=9ffe9ad3ae7a484346f31f967ad4ab27ae17d5b4f5a02c9d607c610e40eab5f9&",
-      "description": "",
-      "canDownload": true,
-      "litematic": {
-        "size": "21x9x10",
-        "version": "1.14"
-      },
-      "path": "attachments/IBS002_Acaciachan_8gt_box_sorter_v5_1_14_fhl.litematic",
-      "source": "MessageAttachment",
-      "author": {
-        "type": "unknown",
-        "username": "andrews54757"
-      },
-      "timestamp": 1750684071000,
-      "size": 3806,
-      "hash": "f914bf8a1f5593ad9de0e5a0d38d5ad33ae70201d5c13a1cfd4495fbf3ac581d"
-    },
-    {
       "id": "1386694251525439679",
-      "name": "IBS002_Acaciachan_8gt_box_sorter_v5_1_16_fhl.litematic",
+      "name": "IBS002_Acaciachan_8gt_box_sorter_v5_fhl.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386694246311919667/1386694251525439679/Acaciachan_8gt_box_sorter_v5_1_16_fhl.litematic?ex=685aa329&is=685951a9&hm=af4c9334d816f42565817b549fa07eaddb8b7265e748b0e020f117f52513b425&",
-      "description": "",
+      "description": "Box sorter with original keygen (v5)",
       "canDownload": true,
       "litematic": {
         "size": "21x9x8",
         "version": "1.16"
       },
-      "path": "attachments/IBS002_Acaciachan_8gt_box_sorter_v5_1_16_fhl.litematic",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "andrews54757"
+        "username": "Unknown"
       },
       "timestamp": 1750684071000,
-      "size": 3740,
-      "hash": "79b0c3c8dd5849c75b019259a34bc80301ca62ce10ace7d7e9a12850e96fa402"
+      "path": "attachments/IBS002_Acaciachan_8gt_box_sorter_v5_fhl.litematic",
+      "hash": "79b0c3c8dd5849c75b019259a34bc80301ca62ce10ace7d7e9a12850e96fa402",
+      "size": 3740
+    },
+    {
+      "id": "1509672831766495282",
+      "name": "IBS002_Acaciachan_8gt_box_sorter_v7_fhl_new_keygen.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1386694246311919667/1509672831766495282/Acaciachan_8gt_box_sorter_v7_fhl_new_keygen.litematic?ex=6a1a07e3&is=6a18b663&hm=ad671f104e11d8d91de266132b71c4fa9b38c29dd3f86789b6b07c344601fe2d&",
+      "timestamp": 1780004451595,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Box sorter with new 2 wide keygen (v7)",
+      "size": 3381,
+      "canDownload": true,
+      "hash": "574802d0755ddcbb6d692130aa149247da8ac67fbda2ebe3bb50f4ec601e0acd",
+      "path": "attachments/IBS002_Acaciachan_8gt_box_sorter_v7_fhl_new_keygen.litematic",
+      "litematic": {
+        "size": "20x11x8",
+        "version": "1.21.4"
+      }
     }
   ],
   "records": {
     "description": "Sorts boxes by their first item's type at hopper speed. Works by taking the first item out of the box, and recombining the box with the item in the assigned slice.",
     "features": [
       "1wABt slices, ABC tileable locking lines",
-      "Very small: 6x7 (excluding the hopperlocking and the overflow)",
-      "Hopper speed: can sort a box every 8gt",
+      "Very small slices: 6x7 (excluding the hopperlocking and the overflow)",
+      "Hopperspeed throughput: can sort a box every 8gt",
       "Minimum hopper count: full hopper locking with global lines",
       "Overflow protection: the boxes in excess get dropped as item entities",
       "No buffered boxes",
-      "Multi shulker box sorting support",
-      "Repeaters in the upper dropper line can be replaced with observers"
+      "Multi shulker box sorting support (if full boxes only)"
     ],
-    "considerations": [],
-    "notes": "- Both schematics are functionally identical, the 1.16 slices are smaller because of the use of target blocks for the global locking."
+    "notes": "- Repeaters in the upper dropper line can be replaced with observers\n- Two versions are included, v5 with 3 wide keygen, and v7 with 2 wide but 1 taller keygen.",
+    "compatibility": "1.16+"
   },
+  "styles": {},
   "references": [
     {
       "type": "dictionaryTerm",
@@ -124,7 +174,7 @@
       "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
       "matches": [
         "hopper speed",
-        "Hopper speed"
+        "Hopperspeed"
       ]
     },
     {
@@ -174,11 +224,11 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "Schematic",
-      "id": "1454811558009110704",
-      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
+      "term": "Keygen",
+      "id": "1454753674298396785",
+      "url": "https://discord.com/channels/1375556143186837695/1454753674298396785/1454753674898440377",
       "matches": [
-        "schematic"
+        "keygen"
       ]
     }
   ],
@@ -191,10 +241,10 @@
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1388316872188891187",
     "attachmentMessageId": "1388177681820160092",
-    "uploadMessageId": "1388177675440488548",
-    "thumbnailURL": "https://cdn.discordapp.com/attachments/1388316872188891187/1388316873266954411/Box_Sorter.png?ex=69b2b318&is=69b16198&hm=1c510420376f36891063a924efde51cf03749316ac37861c2c32593bb041b856&"
+    "uploadMessageId": "1509674736823828632",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1388316872188891187/1509674743203237999/slice.png?ex=6a1a09ab&is=6a18b82b&hm=6e3c0a2bdcc4dce4318a608ef12733057b382d2ef0b9899106808e7563a90551&"
   },
   "archivedAt": 1750684230647,
-  "updatedAt": 1750684230647,
+  "updatedAt": 1780004904151,
   "num_comments": 0
 }
