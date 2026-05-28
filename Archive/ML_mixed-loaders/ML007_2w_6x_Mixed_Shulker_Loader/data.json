@@ -145,6 +145,17 @@
   "references": [
     {
       "type": "dictionaryTerm",
+      "term": "Global",
+      "id": "1454753648574992557",
+      "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
+      "matches": [
+        "globally clocked",
+        "Global",
+        "Globally clocked"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
       "term": "Mixed Box",
       "id": "1454753707530129576",
       "url": "https://discord.com/channels/1375556143186837695/1454753707530129576/1454753708247089184",
@@ -178,15 +189,6 @@
       "url": "https://discord.com/channels/1375556143186837695/1454753738425368687/1454753741785010208",
       "matches": [
         "2wt"
-      ]
-    },
-    {
-      "type": "dictionaryTerm",
-      "term": "Global",
-      "id": "1454753648574992557",
-      "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
-      "matches": [
-        "Global"
       ]
     },
     {
