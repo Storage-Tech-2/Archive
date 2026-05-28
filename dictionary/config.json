@@ -805,8 +805,8 @@
         "Sequential shulker unloader",
         "SSU"
       ],
-      "summary": "A sequential shulker unloader is a device which takes out items of a specific type out of a mixed box, and then breaks the box when it runs out of that item type. SSU's work by putting a shulker bo...",
-      "updatedAt": 1771453187994
+      "summary": "A sequential shulker unloader is a device which filters out one type of items from a mixed box, then it breaks the box when it runs out of that item type and sends it to the next slice (if tiled). ...",
+      "updatedAt": 1780009628353
     },
     {
       "id": "1460469722234749123",
