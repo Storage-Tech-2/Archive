@@ -23,7 +23,8 @@
     },
     {
       "type": "unknown",
-      "username": "SamosTheSage"
+      "username": "SamosTheSage",
+      "dontDisplay": true
     }
   ],
   "endorsers": [
@@ -204,7 +205,7 @@
     }
   ],
   "records": {
-    "description": "A Sequential Shulker Unloader optimized to be small and cheap by using more redstone dust than observers. It is inspired by previous designs by Heilz and SamosTheSage.",
+    "description": "A Sequential Shulker Unloader optimized to be small and cheap by using more redstone dust than observers. It is inspired by previous designs by HeilzMaker and SamosTheSage.",
     "features": [
       "Optimized to be small and cheap",
       "Each slice filters items at max 1x hopper speed",
@@ -293,14 +294,13 @@
     "threadId": "1509705239115333685",
     "forumId": "1460787565207490805",
     "continuingMessageIds": [
-      "1509706457942065222",
-      "1509706458579730496"
+      "1509706457942065222"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1509705239115333685",
     "uploadMessageId": "1509705237085159476",
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1509705239115333685/1509706451524911265/Slice_Back.png?ex=6a1a2733&is=6a18d5b3&hm=5851ff0638a19c4af4ec6dfa46b456123290ee95231674e7f51c172ddec1aa22&"
   },
   "archivedAt": 1780012170315,
-  "updatedAt": 1780012465893,
+  "updatedAt": 1780012643571,
   "num_comments": 0
 }

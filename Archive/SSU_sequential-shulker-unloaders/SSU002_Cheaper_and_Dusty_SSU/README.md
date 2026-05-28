@@ -1,7 +1,7 @@
 # Cheaper and Dusty SSU
 <img alt="Slice_Back.png" src="images/Slice_Back.png?raw=1" height="300px">
 
-**Authors:** *Christone, SamosTheSage*
+**Authors:** *Christone*
 
 **Endorsed by:** *Christone*
 
@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1509705239115333685)
 
-A Sequential Shulker Unloader optimized to be small and cheap by using more redstone dust than observers. It is inspired by previous designs by Heilz and SamosTheSage.
+A Sequential Shulker Unloader optimized to be small and cheap by using more redstone dust than observers. It is inspired by previous designs by HeilzMaker and SamosTheSage.
 ## Features
 - Optimized to be small and cheap
 - Each slice filters items at max 1x hopper speed
