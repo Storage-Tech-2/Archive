@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Broken*
+**Tags:** *Functional*
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1506903921795403877)
 
@@ -76,5 +76,4 @@ Take care while building if you plan on using this. Several components either re
 
 ## Resources
 - [LS007_Universal_Cooper_MS_V5.litematic](attachments/LS007_Universal_Cooper_MS_V5.litematic): MC 1.21.11, Size 272x98x272 blocks
-  - Full Schematic w/Subregions
-- [LS007_Coopers_storage_Universal.zip](attachments/LS007_Coopers_storage_Universal.zip): MC 1.21.11
+- [LS007_Coopers_storage.zip](attachments/LS007_Coopers_storage.zip): MC 1.21.11
