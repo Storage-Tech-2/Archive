@@ -12,15 +12,6 @@
   "references": [
     {
       "type": "dictionaryTerm",
-      "term": "Unloader",
-      "id": "1454754824758493380",
-      "url": "https://discord.com/channels/1375556143186837695/1454754824758493380/1454754825345433803",
-      "matches": [
-        "unloader"
-      ]
-    },
-    {
-      "type": "dictionaryTerm",
       "term": "Hopper speed",
       "id": "1454937395693879409",
       "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
@@ -30,5 +21,10 @@
       ]
     }
   ],
-  "referencedBy": []
+  "referencedBy": [
+    "LS005",
+    "PU001",
+    "PU006",
+    "TG004"
+  ]
 }
