@@ -1,0 +1,199 @@
+{
+  "id": "1509708672454889604",
+  "name": "8gt FHU Acacia Box Sorter",
+  "code": "IBS005",
+  "reservedCodes": [
+    "IBS005"
+  ],
+  "pastPostThreadIds": [
+    "1509709376271814676"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "384084307712409600",
+      "username": "tisunfortunate",
+      "displayName": "TisUnfortunate",
+      "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/10653f22a436d6d084a01c465598ab6a.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "656864003242328064",
+      "username": "acaciachan",
+      "displayName": "金合欢酱喵~ (acaciachan)",
+      "iconURL": "https://cdn.discordapp.com/avatars/656864003242328064/65e1c203d9ea0af6509f0754122b45a2.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465490780583100538",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1509708672966590534",
+      "name": "slice.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1509708672454889604/1509708672966590534/slice.png?ex=6a1a2944&is=6a18d7c4&hm=621ce712eff88ff5b5c6ab7d9cc402461a2510aed83befe2cf0b8dda02088896&",
+      "timestamp": 1780012996544,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 10077,
+      "canDownload": true,
+      "width": 648,
+      "height": 757,
+      "path": "images/slice.png",
+      "hash": "012f576c81dbc573ff16fbf9a6f97e8199a5e29aa362e38e7314c905f87fcf91"
+    },
+    {
+      "id": "1509708673411453099",
+      "name": "combined.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1509708672454889604/1509708673411453099/combined.png?ex=6a1a2944&is=6a18d7c4&hm=de1e7845d9f50b51925cfb3860f4bcab807d184aafe16f017b8f04ecd653b9f3&",
+      "timestamp": 1780012996544,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 57819,
+      "canDownload": true,
+      "width": 830,
+      "height": 505,
+      "path": "images/combined.png",
+      "hash": "124977e9e3d23c4e0253f77035694e1b25200ca0df7c41c905d31741221de1bb"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1509708673667043338",
+      "name": "IBS005_8gt_fhu_acacia_box_sorter.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1509708672454889604/1509708673667043338/8gt_fhu_acacia_box_sorter.litematic?ex=6a1a2944&is=6a18d7c4&hm=cbbf516c80fee17ce017bb7359ae5d43eb98e2c1bf595d217982324bd3b22544&",
+      "timestamp": 1780012996544,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 2840,
+      "canDownload": true,
+      "hash": "f07e226f6be62cf1ab4d05b6c89519b39ace1723a2aca6b6a502a143653037bc",
+      "path": "attachments/IBS005_8gt_fhu_acacia_box_sorter.litematic",
+      "litematic": {
+        "size": "19x10x6",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Sorts boxes by their first item's type at hopper speed. Works by taking the first item out of the box, and recombining the box with the item in the assigned slice. Design is similar to IBS002 but is fully hopper unlocked for a smaller footprint.",
+    "features": [
+      "Fully hopper unlocked",
+      "1wABt, small slices (6x7)",
+      "Hopperspeed throughput",
+      "Lag optimized: pistons do not fire unless they need to",
+      "Overflow protection & no buffered boxes",
+      "Multi shulker box sorting support (if full boxes only)",
+      "Tiny keygen, only 1 block overhang"
+    ],
+    "notes": "Multi shulker box sorting support applies only if full boxes are used."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopper speed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopper speed",
+        "Hopperspeed"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "archivedPost",
+      "id": "1386694246311919667",
+      "code": "IBS002",
+      "name": "1wABt 8gt Fully Hopperlocked Box Sorter",
+      "url": "https://discord.com/channels/1375556143186837695/1388316872188891187",
+      "path": "Archive/IBS_first-item-box-sorters/IBS002_1wABt_8gt_Fully_Hopperlocked_Box_Sorter",
+      "matches": [
+        "IBS002"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "A/B Tiling",
+      "id": "1454753732293033984",
+      "url": "https://discord.com/channels/1375556143186837695/1454753732293033984/1454753733035687988",
+      "matches": [
+        "1wABt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Keygen",
+      "id": "1454753674298396785",
+      "url": "https://discord.com/channels/1375556143186837695/1454753674298396785/1454753674898440377",
+      "matches": [
+        "keygen"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1509709376271814676",
+    "forumId": "1375559535976124717",
+    "continuingMessageIds": [
+      "1509709388263194789"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1509709376271814676",
+    "uploadMessageId": "1509709373952364564",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1509709376271814676/1509709381409964072/slice.png?ex=6a1a29ed&is=6a18d86d&hm=e1cd54a5426e41689ec77b8d155713461ab0dc50060b46e9ec20ec07d0b5b379&"
+  },
+  "archivedAt": 1780013160270,
+  "updatedAt": 1780013160270,
+  "num_comments": 0
+}
