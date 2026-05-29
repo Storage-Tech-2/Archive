@@ -33,5 +33,5 @@ A Sequential Shulker Unloader optimized to be small and cheap by using more reds
 <img src="images/Material_Comparison.png?raw=1">
 
 ## Resources
-- [SSU002_Cheap_SSU_2.litematic](attachments/SSU002_Cheap_SSU_2.litematic): MC 1.21.4, Size 2x8x7 blocks
 - [SSU002_Cheap_SSU_Tiled.litematic](attachments/SSU002_Cheap_SSU_Tiled.litematic): MC 1.21.4, Size 38x9x7 blocks
+- [SSU002_Cheap_SSU_2.litematic](attachments/SSU002_Cheap_SSU_2.litematic): MC 1.21.4, Size 2x8x7 blocks
