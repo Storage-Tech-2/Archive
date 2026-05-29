@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1509709376271814676)
 
-Sorts boxes by their first item's type at hopper speed. Works by taking the first item out of the box, and recombining the box with the item in the assigned slice. Design is similar to [IBS002 1wABt 8gt Fully Hopperlocked Box Sorter](https://discord.com/channels/1375556143186837695/1388316872188891187) but is fully hopper unlocked for a smaller footprint.
+Sorts boxes by their first item's type at hopper speed. Works by taking the first item out of the box, and recombining the box with the item in the assigned slice. Design is similar to [BS002 1wABt 8gt Fully Hopperlocked Box Sorter](https://discord.com/channels/1375556143186837695/1388316872188891187) but is fully hopper unlocked for a smaller footprint.
 ## Features
 - Fully hopper unlocked
 - 1wABt, small slices (6x7)
