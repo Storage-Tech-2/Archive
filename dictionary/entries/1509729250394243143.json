@@ -1,0 +1,34 @@
+{
+  "id": "1509729250394243143",
+  "terms": [
+    "Parallel Unloader"
+  ],
+  "definition": "A parallel unloading system, or parallel unloader array, is a device which outputs items such that each item type does not exceed 1x hopperspeed. This speed limit is to prevent items which can be sorted by hopperspeed filters from being sent to overflow. Parallelization is achieved by unloading multiple types at the same time.\n\nParallel unloader arrays typically take mixed boxes as input. There are also designs which use single-type boxes for greater parallelization efficiency, and others which take an item entities as input.",
+  "threadURL": "https://discord.com/channels/1375556143186837695/1509729250394243143",
+  "statusURL": "https://discord.com/channels/1375556143186837695/1509729250394243143/1509729252642394133",
+  "status": "APPROVED",
+  "statusMessageID": "1509729252642394133",
+  "updatedAt": 1780017975779,
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Unloader",
+      "id": "1454754824758493380",
+      "url": "https://discord.com/channels/1375556143186837695/1454754824758493380/1454754825345433803",
+      "matches": [
+        "unloader"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopper speed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "1x",
+        "hopperspeed"
+      ]
+    }
+  ],
+  "referencedBy": []
+}
