@@ -20,4 +20,4 @@ A device that separates loose items and boxes, and sorts the boxes into 3 groups
 - Slime extends out of the footprint when active.
 
 ## Resources
-- [FBS008_IsBox__3_Way_Box_Fill_Level_Sorter.litematic](attachments/FBS008_IsBox__3_Way_Box_Fill_Level_Sorter.litematic): MC 1.21, Size 5x4x3 blocks
+- [FLS008_IsBox__3_Way_Box_Fill_Level_Sorter.litematic](attachments/FLS008_IsBox__3_Way_Box_Fill_Level_Sorter.litematic): MC 1.21, Size 5x4x3 blocks

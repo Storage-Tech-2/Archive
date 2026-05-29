@@ -17,4 +17,4 @@ A device that separates loose items and boxes, and sorts the boxes into 3 groups
 - Works with random inputs
 
 ## Resources
-- [FBS009_Hopperspeed_IsBox__3_Way_Box_Fill_Level_Sorter2.litematic](attachments/FBS009_Hopperspeed_IsBox__3_Way_Box_Fill_Level_Sorter2.litematic): MC 1.20.1, Size 6x6x2 blocks
+- [FLS009_Hopperspeed_IsBox__3_Way_Box_Fill_Level_Sorter2.litematic](attachments/FLS009_Hopperspeed_IsBox__3_Way_Box_Fill_Level_Sorter2.litematic): MC 1.20.1, Size 6x6x2 blocks

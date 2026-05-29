@@ -122,20 +122,20 @@
   {
     "id": "1375559535976124717",
     "name": "first-item-box-sorters",
-    "code": "IBS",
+    "code": "BS",
     "embedding": "Jfn3Ajcm7hjS0u3f5yroC/cN8QP57irUJQDZ8+bz9Qcs4Pbw8gYK9fjW+/318osk8AXzFukt2vv8+tQiJwkl/yME+xr4B/rvJQAyDfAp9hMdEy4/Ihn+AuZB7c8M7w/bAvQs+AH2GvT86efZ4xAPAw4FAAMk6PINESYFAQX7If8E5iYPIP74+/zrMfz4BPgZ894L9dUs8fEC/OcMDO3d9toc8w3/3/0YCwUZ+R8j1AEOI//o9A/09wz19yINCu+/Lwr9/eUdD/0m/h3u6vcBDyn69dMS+yoGCAoJ9SgWDxrVFVT9Qs/qKQAwCewO8xbs/uULDuASIO0F/gf7EAkk/A==",
     "category": "Box Sorting",
-    "path": "Archive/IBS_first-item-box-sorters",
+    "path": "Archive/BS_first-item-box-sorters",
     "description": "Sorts boxes by item type of the first item",
     "position": 47
   },
   {
     "id": "1375559651579527208",
     "name": "fill-level-box-sorters",
-    "code": "FBS",
+    "code": "FLS",
     "embedding": "OvAfAkMu3wj41/jW+BXyHAL+Du3u3z7aFPnh6vwAAw8szPbh3AgD+PbfAP3+95saAf/ZJekR/fwJCgYMLPkuBxX4E/3rCvn0L/8bAOIMFgEMCTM38vr/9gY7/tUF+hfx8vQIIejrOvTnAPre8ikH/Pcj9hsSEwsUGzIaAxEFGPn7ABwlEvEA3gkALAv3GBUJANTuEOAyDOny3/IY7tPW+ekp6gn6+B4wAAX0ARcA0/MpH/f03PgQ+RHk5Q8T/em/EgIJ9tgkFB4jCSEA+AL/AgwA+MUV7hYh8gD67ScTCizdOEb2O9rhGv8VA+4l8RP4APsAGwAQI/77AOz9Aus7+A==",
     "category": "Box Sorting",
-    "path": "Archive/FBS_fill-level-box-sorters",
+    "path": "Archive/FLS_fill-level-box-sorters",
     "description": "Devices that sort boxes by fill level",
     "position": 48
   },
@@ -351,12 +351,12 @@
   },
   {
     "id": "1375569870577467412",
-    "name": "parallel-unloader-arrays",
+    "name": "parallel-unloading",
     "code": "PU",
-    "embedding": "KRIjBxwd4/3u0QL++yMK+/naBiEL4jPc+xT78+US0vkn9vb87gMD/v799woG/acp3gDVCxUFCwL55QD1KRIOECX9+QD73w0C6fwl6fYLFSYjBR8xCvsT+PsR+9UCB/nnBvwuJgHwIeYKEwDF0w0dHRz5zB8nAAMWCCUo+wj8MAEA4gf8CwL9zN4CExHSADEoDtvZE/Ia1grq3voZHAPREfwgCBHvEgD8AOLr/RkXzPkdJ//27PsKBPr+AOjzLd7bHecS+uMnIyAlKf706gIE8yQG+Lwb7yQL/vwO6lAAAyzbPDEDJ+75CfEtBhb2CyHP4wYNFt7QNAL4+BcHDPAn4A==",
+    "embedding": "KBIlCSkX2//u0gD/ABv++ADYBh8F6jXi+RT/7uQO4vsk9/L57gIG+v/9AAUH/K0l4f7QDRsNBwT45v33IhQFCyPzAQH64xUG7QAZ5/r9Dy8n/hwqCvsV/AgM/NgJBvfpBgAjKwDtJukKAwrCzAsdGB3xyiMn/wYZDRoi/A/+OP/08Qn9FAH9y9sBCxbU+yopEuLSDuwZ5Afs3/QbJgjQDPgnBhfyDv0AANziACAOxPghKP3/6/cS+vr1EOn3Lt/dGvENANklFCIoKADv7wgF9BoK/LoX7ygA+fUa7EwHDjLXLS8JJe33E+4xDRPvCh3K3gILH+PNMwf19BcGDPMh0w==",
     "category": "Advanced Tech",
-    "path": "Archive/PU_parallel-unloader-arrays",
-    "description": "Parallel unloading arrays",
+    "path": "Archive/PU_parallel-unloading",
+    "description": "Parallel unloading systems and arrays",
     "position": 70
   },
   {

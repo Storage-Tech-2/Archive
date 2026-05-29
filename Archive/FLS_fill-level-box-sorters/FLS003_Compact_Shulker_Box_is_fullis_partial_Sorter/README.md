@@ -16,4 +16,4 @@ Small device that categorizes boxes by their fill levels at hopperspeed. Can fun
 - Works with randomly timed input.
 
 ## Resources
-- [FBS003_nvertd_isfull_v2.litematic](attachments/FBS003_nvertd_isfull_v2.litematic): MC 1.17.1, Size 4x3x5 blocks
+- [FLS003_nvertd_isfull_v2.litematic](attachments/FLS003_nvertd_isfull_v2.litematic): MC 1.17.1, Size 4x3x5 blocks

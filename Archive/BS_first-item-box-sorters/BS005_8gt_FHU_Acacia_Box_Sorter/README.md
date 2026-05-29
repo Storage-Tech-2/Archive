@@ -25,4 +25,4 @@ Multi shulker box sorting support applies only if full boxes are used.
 <img src="images/combined.png?raw=1" height="300px">
 
 ## Resources
-- [IBS005_8gt_fhu_acacia_box_sorter.litematic](attachments/IBS005_8gt_fhu_acacia_box_sorter.litematic): MC 1.21.4, Size 19x10x6 blocks
+- [BS005_8gt_fhu_acacia_box_sorter.litematic](attachments/BS005_8gt_fhu_acacia_box_sorter.litematic): MC 1.21.4, Size 19x10x6 blocks

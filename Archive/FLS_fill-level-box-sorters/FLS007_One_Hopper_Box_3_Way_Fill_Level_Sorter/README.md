@@ -15,4 +15,4 @@ Separates boxes by fill level into empty, partial, and full boxes at hopper spee
 - Uses only one hopper
 
 ## Resources
-- [FBS007_Single_Hopper_Fill_Level_Sorter.litematic](attachments/FBS007_Single_Hopper_Fill_Level_Sorter.litematic): MC 1.20.1, Size 11x4x3 blocks
+- [FLS007_Single_Hopper_Fill_Level_Sorter.litematic](attachments/FLS007_Single_Hopper_Fill_Level_Sorter.litematic): MC 1.20.1, Size 11x4x3 blocks

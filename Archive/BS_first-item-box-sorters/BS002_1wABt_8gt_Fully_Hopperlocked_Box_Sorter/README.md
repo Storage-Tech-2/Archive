@@ -30,7 +30,7 @@ Sorts boxes by their first item's type at hopper speed. Works by taking the firs
 <img src="images/v7.png?raw=1" height="300px">
 
 ## Resources
-- [IBS002_Acaciachan_8gt_box_sorter_v5_fhl.litematic](attachments/IBS002_Acaciachan_8gt_box_sorter_v5_fhl.litematic): MC 1.16, Size 21x9x8 blocks
+- [BS002_Acaciachan_8gt_box_sorter_v5_fhl.litematic](attachments/BS002_Acaciachan_8gt_box_sorter_v5_fhl.litematic): MC 1.16, Size 21x9x8 blocks
   - Box sorter with original keygen (v5)
-- [IBS002_Acaciachan_8gt_box_sorter_v7_fhl_new_keygen.litematic](attachments/IBS002_Acaciachan_8gt_box_sorter_v7_fhl_new_keygen.litematic): MC 1.21.4, Size 20x11x8 blocks
+- [BS002_Acaciachan_8gt_box_sorter_v7_fhl_new_keygen.litematic](attachments/BS002_Acaciachan_8gt_box_sorter_v7_fhl_new_keygen.litematic): MC 1.21.4, Size 20x11x8 blocks
   - Box sorter with new 2 wide keygen (v7)

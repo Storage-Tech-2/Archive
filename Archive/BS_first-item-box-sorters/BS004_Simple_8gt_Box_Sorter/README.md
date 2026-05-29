@@ -29,10 +29,10 @@ Left and right bending U-turn designs available, designed by Flutter
 <img src="images/right.png?raw=1" height="300px">
 
 ## Resources
-- [IBS004_Simple_Box_Sorter.litematic](attachments/IBS004_Simple_Box_Sorter.litematic): MC 1.21, Size 12x9x4 blocks
-- [IBS004_image.png](attachments/IBS004_image.png): image/png
+- [BS004_Simple_Box_Sorter.litematic](attachments/BS004_Simple_Box_Sorter.litematic): MC 1.21, Size 12x9x4 blocks
+- [BS004_image.png](attachments/BS004_image.png): image/png
   - How to set up overflow protection
-- [IBS004_Flutter_Box_Sorter_Left_U-turn.litematic](attachments/IBS004_Flutter_Box_Sorter_Left_U-turn.litematic): MC 1.21, Size 5x7x10 blocks
+- [BS004_Flutter_Box_Sorter_Left_U-turn.litematic](attachments/BS004_Flutter_Box_Sorter_Left_U-turn.litematic): MC 1.21, Size 5x7x10 blocks
   - Left bending u-turn design by Flutter
-- [IBS004_Flutter_Box_Sorter_Right_U-turn.litematic](attachments/IBS004_Flutter_Box_Sorter_Right_U-turn.litematic): MC 1.21, Size 5x7x10 blocks
+- [BS004_Flutter_Box_Sorter_Right_U-turn.litematic](attachments/BS004_Flutter_Box_Sorter_Right_U-turn.litematic): MC 1.21, Size 5x7x10 blocks
   - Right bending u-turn design by Flutter
