@@ -1,9 +1,10 @@
 {
   "id": "1509708672454889604",
   "name": "8gt FHU Acacia Box Sorter",
-  "code": "IBS005",
+  "code": "BS005",
   "reservedCodes": [
-    "IBS005"
+    "IBS005",
+    "BS005"
   ],
   "pastPostThreadIds": [
     "1509709376271814676"
@@ -95,7 +96,7 @@
   "attachments": [
     {
       "id": "1509708673667043338",
-      "name": "IBS005_8gt_fhu_acacia_box_sorter.litematic",
+      "name": "BS005_8gt_fhu_acacia_box_sorter.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1509708672454889604/1509708673667043338/8gt_fhu_acacia_box_sorter.litematic?ex=6a1a2944&is=6a18d7c4&hm=cbbf516c80fee17ce017bb7359ae5d43eb98e2c1bf595d217982324bd3b22544&",
       "timestamp": 1780012996544,
@@ -111,7 +112,7 @@
       "size": 2840,
       "canDownload": true,
       "hash": "f07e226f6be62cf1ab4d05b6c89519b39ace1723a2aca6b6a502a143653037bc",
-      "path": "attachments/IBS005_8gt_fhu_acacia_box_sorter.litematic",
+      "path": "attachments/BS005_8gt_fhu_acacia_box_sorter.litematic",
       "litematic": {
         "size": "19x10x6",
         "version": "1.21.4"

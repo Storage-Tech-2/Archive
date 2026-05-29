@@ -1,9 +1,10 @@
 {
   "id": "1402501851211104426",
   "name": "2wt 16gt Multi-type Box Sorter",
-  "code": "IBS003",
+  "code": "BS003",
   "reservedCodes": [
-    "IBS003"
+    "IBS003",
+    "BS003"
   ],
   "pastPostThreadIds": [
     "1402508433399480421"
@@ -86,12 +87,12 @@
   "attachments": [
     {
       "id": "1405122843167031386",
-      "name": "IBS003_1.16_16gt_MBS_v3.1.litematic",
+      "name": "BS003_1.16_16gt_MBS_v3.1.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1402501851211104426/1405122843167031386/1.16_16gt_MBS_v3.1.litematic?ex=68a0511f&is=689eff9f&hm=ad7939b6fe106a94ba2c8087ba5cffa823ad2f08062052d579a6673d1b2365ae&",
       "description": "",
       "canDownload": true,
-      "path": "attachments/IBS003_1.16_16gt_MBS_v3.1.litematic",
+      "path": "attachments/BS003_1.16_16gt_MBS_v3.1.litematic",
       "litematic": {
         "size": "9x8x10",
         "version": "1.21"

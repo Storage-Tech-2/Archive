@@ -1,9 +1,10 @@
 {
   "id": "1451114878587895808",
   "name": "Simple 8gt Box Sorter",
-  "code": "IBS004",
+  "code": "BS004",
   "reservedCodes": [
-    "IBS004"
+    "IBS004",
+    "BS004"
   ],
   "pastPostThreadIds": [
     "1451116522746548225"
@@ -117,12 +118,12 @@
   "attachments": [
     {
       "id": "1451114880118685696",
-      "name": "IBS004_Simple_Box_Sorter.litematic",
+      "name": "BS004_Simple_Box_Sorter.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1451114878587895808/1451114880118685696/Simple_Box_Sorter.litematic?ex=6954d18b&is=6953800b&hm=381794e54c725aaa12ce25fc463222012d0d474fe4293b8579bd57018c3b794d&",
       "description": "",
       "canDownload": true,
-      "path": "attachments/IBS004_Simple_Box_Sorter.litematic",
+      "path": "attachments/BS004_Simple_Box_Sorter.litematic",
       "litematic": {
         "size": "12x9x4",
         "version": "1.21"
@@ -138,12 +139,12 @@
     },
     {
       "id": "1455462924955942966",
-      "name": "IBS004_image.png",
+      "name": "BS004_image.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1451114878587895808/1455462924955942966/image.png?ex=6954d0fa&is=69537f7a&hm=e14c185d45e1cef3c530cc3ed4df8a586fc121594dbb21fe0527c6963dbb353a&",
       "description": "How to set up overflow protection",
       "canDownload": true,
-      "path": "attachments/IBS004_image.png",
+      "path": "attachments/BS004_image.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
@@ -159,7 +160,7 @@
     },
     {
       "id": "1506784815343468595",
-      "name": "IBS004_Flutter_Box_Sorter_Left_U-turn.litematic",
+      "name": "BS004_Flutter_Box_Sorter_Left_U-turn.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1451114878587895808/1506784815343468595/Flutter_Box_Sorter_Left_U-turn.litematic?ex=6a0f8636&is=6a0e34b6&hm=9752b1cd88b8db00950d7e355f20d5124c5eb7d984008a64ac2c9b3b520d8cf3&",
       "timestamp": 1779315894593,
@@ -175,7 +176,7 @@
       "size": 1557,
       "canDownload": true,
       "hash": "c33bc9ea73b571492376c42169a226ffdfd6f47f0ee19b30fe68c5c834e30593",
-      "path": "attachments/IBS004_Flutter_Box_Sorter_Left_U-turn.litematic",
+      "path": "attachments/BS004_Flutter_Box_Sorter_Left_U-turn.litematic",
       "litematic": {
         "size": "5x7x10",
         "version": "1.21"
@@ -183,7 +184,7 @@
     },
     {
       "id": "1506784815062454292",
-      "name": "IBS004_Flutter_Box_Sorter_Right_U-turn.litematic",
+      "name": "BS004_Flutter_Box_Sorter_Right_U-turn.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1451114878587895808/1506784815062454292/Flutter_Box_Sorter_Right_U-turn.litematic?ex=6a0f8636&is=6a0e34b6&hm=9df9b49d06db0e9019f9d443e3071d51ed2699390292b1d2d09fba944bfac631&",
       "timestamp": 1779315894593,
@@ -199,7 +200,7 @@
       "size": 1517,
       "canDownload": true,
       "hash": "4f3b08ca633e580c07d4dba00664ae1b79757130cefb928817add8161bbdc537",
-      "path": "attachments/IBS004_Flutter_Box_Sorter_Right_U-turn.litematic",
+      "path": "attachments/BS004_Flutter_Box_Sorter_Right_U-turn.litematic",
       "litematic": {
         "size": "5x7x10",
         "version": "1.21"

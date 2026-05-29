@@ -1,9 +1,10 @@
 {
   "id": "1386694246311919667",
   "name": "1wABt 8gt Fully Hopperlocked Box Sorter",
-  "code": "IBS002",
+  "code": "BS002",
   "reservedCodes": [
-    "IBS002"
+    "IBS002",
+    "BS002"
   ],
   "pastPostThreadIds": [
     "1388316872188891187"
@@ -107,7 +108,7 @@
   "attachments": [
     {
       "id": "1386694251525439679",
-      "name": "IBS002_Acaciachan_8gt_box_sorter_v5_fhl.litematic",
+      "name": "BS002_Acaciachan_8gt_box_sorter_v5_fhl.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386694246311919667/1386694251525439679/Acaciachan_8gt_box_sorter_v5_1_16_fhl.litematic?ex=685aa329&is=685951a9&hm=af4c9334d816f42565817b549fa07eaddb8b7265e748b0e020f117f52513b425&",
       "description": "Box sorter with original keygen (v5)",
@@ -122,13 +123,13 @@
         "username": "Unknown"
       },
       "timestamp": 1750684071000,
-      "path": "attachments/IBS002_Acaciachan_8gt_box_sorter_v5_fhl.litematic",
+      "path": "attachments/BS002_Acaciachan_8gt_box_sorter_v5_fhl.litematic",
       "hash": "79b0c3c8dd5849c75b019259a34bc80301ca62ce10ace7d7e9a12850e96fa402",
       "size": 3740
     },
     {
       "id": "1509672831766495282",
-      "name": "IBS002_Acaciachan_8gt_box_sorter_v7_fhl_new_keygen.litematic",
+      "name": "BS002_Acaciachan_8gt_box_sorter_v7_fhl_new_keygen.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386694246311919667/1509672831766495282/Acaciachan_8gt_box_sorter_v7_fhl_new_keygen.litematic?ex=6a1a07e3&is=6a18b663&hm=ad671f104e11d8d91de266132b71c4fa9b38c29dd3f86789b6b07c344601fe2d&",
       "timestamp": 1780004451595,
@@ -144,7 +145,7 @@
       "size": 3381,
       "canDownload": true,
       "hash": "574802d0755ddcbb6d692130aa149247da8ac67fbda2ebe3bb50f4ec601e0acd",
-      "path": "attachments/IBS002_Acaciachan_8gt_box_sorter_v7_fhl_new_keygen.litematic",
+      "path": "attachments/BS002_Acaciachan_8gt_box_sorter_v7_fhl_new_keygen.litematic",
       "litematic": {
         "size": "20x11x8",
         "version": "1.21.4"
