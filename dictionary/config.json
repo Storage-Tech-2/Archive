@@ -996,6 +996,14 @@
       ],
       "summary": "Refers to the quality of not keeping items inside inventory blocks which are meant for transport. Designs which do buffer boxes are not desirable because in many cases it means those items are not ...",
       "updatedAt": 1779207180753
+    },
+    {
+      "id": "1509729250394243143",
+      "terms": [
+        "Parallel Unloader"
+      ],
+      "summary": "A parallel unloading system, or parallel unloader array, is a device which outputs items such that each item type does not exceed 1x hopperspeed. This speed limit is to prevent items which can be s...",
+      "updatedAt": 1780017975779
     }
   ]
 }
