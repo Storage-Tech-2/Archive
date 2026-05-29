@@ -1,9 +1,10 @@
 {
   "id": "1388564830234873856",
   "name": "One Hopper Box 3 Way Fill Level Sorter",
-  "code": "FBS007",
+  "code": "FLS007",
   "reservedCodes": [
-    "FBS007"
+    "FBS007",
+    "FLS007"
   ],
   "pastPostThreadIds": [
     "1388565121130823800"
@@ -64,7 +65,7 @@
   "attachments": [
     {
       "id": "1388564834001354913",
-      "name": "FBS007_Single_Hopper_Fill_Level_Sorter.litematic",
+      "name": "FLS007_Single_Hopper_Fill_Level_Sorter.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1388564830234873856/1388564834001354913/Single_Hopper_Fill_Level_Sorter.litematic?ex=68617146&is=68601fc6&hm=2663b34133c63bfd8ae3a39422fb0a3a035dc9c76e7239ae667da238d3545ff5&",
       "description": "",
@@ -73,7 +74,7 @@
         "size": "11x4x3",
         "version": "1.20.1"
       },
-      "path": "attachments/FBS007_Single_Hopper_Fill_Level_Sorter.litematic",
+      "path": "attachments/FLS007_Single_Hopper_Fill_Level_Sorter.litematic",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",

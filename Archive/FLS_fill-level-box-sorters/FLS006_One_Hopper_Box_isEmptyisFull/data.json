@@ -1,9 +1,10 @@
 {
   "id": "1388021020811591771",
   "name": "One Hopper Box isEmpty/isFull",
-  "code": "FBS006",
+  "code": "FLS006",
   "reservedCodes": [
-    "FBS006"
+    "FBS006",
+    "FLS006"
   ],
   "pastPostThreadIds": [
     "1388316970126151831"
@@ -64,7 +65,7 @@
   "attachments": [
     {
       "id": "1388021021436678265",
-      "name": "FBS006_1_hopper_fill_level_sorter.litematic",
+      "name": "FLS006_1_hopper_fill_level_sorter.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1388021020811591771/1388021021436678265/1_hopper_fill_level_sorter.litematic?ex=685f76cf&is=685e254f&hm=7889a4567bf3999a9b1abe02d9da153b81816f45424d6482a61234ac39d42c8b&",
       "description": "",
@@ -73,7 +74,7 @@
         "size": "7x4x3",
         "version": "1.21.4"
       },
-      "path": "attachments/FBS006_1_hopper_fill_level_sorter.litematic",
+      "path": "attachments/FLS006_1_hopper_fill_level_sorter.litematic",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",

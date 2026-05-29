@@ -1,9 +1,10 @@
 {
   "id": "1402520196123721820",
   "name": "Hopperspeed IsBox + 3 Way Box Fill Level Sorter",
-  "code": "FBS008",
+  "code": "FLS008",
   "reservedCodes": [
-    "FBS008"
+    "FBS008",
+    "FLS008"
   ],
   "pastPostThreadIds": [
     "1405447030385410058"
@@ -81,12 +82,12 @@
   "attachments": [
     {
       "id": "1402520197448990841",
-      "name": "FBS008_IsBox__3_Way_Box_Fill_Level_Sorter.litematic",
+      "name": "FLS008_IsBox__3_Way_Box_Fill_Level_Sorter.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1402520196123721820/1402520197448990841/IsBox__3_Way_Box_Fill_Level_Sorter.litematic?ex=68943638&is=6892e4b8&hm=5a917116df54bec5e9afb0fa74391eab19279325b48a4b5923da52184411ad71&",
       "description": "",
       "canDownload": true,
-      "path": "attachments/FBS008_IsBox__3_Way_Box_Fill_Level_Sorter.litematic",
+      "path": "attachments/FLS008_IsBox__3_Way_Box_Fill_Level_Sorter.litematic",
       "litematic": {
         "size": "5x4x3",
         "version": "1.21"

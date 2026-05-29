@@ -1,0 +1,40 @@
+{
+  "id": "1375559651579527208",
+  "name": "fill-level-box-sorters",
+  "code": "FLS",
+  "category": "Box Sorting",
+  "description": "Devices that sort boxes by fill level",
+  "currentCodeId": 9,
+  "entries": [
+    {
+      "id": "1386898690844786738",
+      "code": "FLS003",
+      "path": "FLS003_Compact_Shulker_Box_is_fullis_partial_Sorter"
+    },
+    {
+      "id": "1386919025174515793",
+      "code": "FLS005",
+      "path": "FLS005_Hopperspeed_3_Way_Box_Fill_Level_Sorter"
+    },
+    {
+      "id": "1388021020811591771",
+      "code": "FLS006",
+      "path": "FLS006_One_Hopper_Box_isEmptyisFull"
+    },
+    {
+      "id": "1388564830234873856",
+      "code": "FLS007",
+      "path": "FLS007_One_Hopper_Box_3_Way_Fill_Level_Sorter"
+    },
+    {
+      "id": "1402520196123721820",
+      "code": "FLS008",
+      "path": "FLS008_Hopperspeed_IsBox__3_Way_Box_Fill_Level_Sorter"
+    },
+    {
+      "id": "1402525206710452346",
+      "code": "FLS009",
+      "path": "FLS009_Slimeless_Hopperspeed_IsBox__3_Way_Box_Fill_Level_Sorter"
+    }
+  ]
+}

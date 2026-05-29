@@ -1,9 +1,10 @@
 {
   "id": "1402525206710452346",
   "name": "Slimeless Hopperspeed IsBox + 3 Way Box Fill Level Sorter",
-  "code": "FBS009",
+  "code": "FLS009",
   "reservedCodes": [
-    "FBS009"
+    "FBS009",
+    "FLS009"
   ],
   "pastPostThreadIds": [
     "1405457712044838932"
@@ -63,12 +64,12 @@
   "attachments": [
     {
       "id": "1402525462655402054",
-      "name": "FBS009_Hopperspeed_IsBox__3_Way_Box_Fill_Level_Sorter2.litematic",
+      "name": "FLS009_Hopperspeed_IsBox__3_Way_Box_Fill_Level_Sorter2.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1402525206710452346/1402525462655402054/Hopperspeed_IsBox__3_Way_Box_Fill_Level_Sorter2.litematic?ex=68943b1f&is=6892e99f&hm=81168dd3d58aba372fca72eed6ff1e79e7e815bdf7a90c9bc709c1c303b048e4&",
       "description": "",
       "canDownload": true,
-      "path": "attachments/FBS009_Hopperspeed_IsBox__3_Way_Box_Fill_Level_Sorter2.litematic",
+      "path": "attachments/FLS009_Hopperspeed_IsBox__3_Way_Box_Fill_Level_Sorter2.litematic",
       "litematic": {
         "size": "6x6x2",
         "version": "1.20.1"

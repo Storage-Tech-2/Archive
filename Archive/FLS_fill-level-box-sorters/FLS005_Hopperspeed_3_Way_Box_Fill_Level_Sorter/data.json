@@ -1,9 +1,10 @@
 {
   "id": "1386919025174515793",
   "name": "Hopperspeed 3 Way Box Fill Level Sorter",
-  "code": "FBS005",
+  "code": "FLS005",
   "reservedCodes": [
-    "FBS005"
+    "FBS005",
+    "FLS005"
   ],
   "pastPostThreadIds": [
     "1388316951553511544"
@@ -59,7 +60,7 @@
   "attachments": [
     {
       "id": "1386919072687460382",
-      "name": "FBS005_small_fill_level_sorter_fixed.litematic",
+      "name": "FLS005_small_fill_level_sorter_fixed.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1386919025174515793/1386919072687460382/small_fill_level_sorter_fixed.litematic?ex=685b748a&is=685a230a&hm=c4f8628d9bd02100bd31b49c57a9c0ad33cf2e13ac74af611a5608953570ee31&",
       "description": "",
@@ -68,7 +69,7 @@
         "size": "4x6x3",
         "version": "1.17.1"
       },
-      "path": "attachments/FBS005_small_fill_level_sorter_fixed.litematic",
+      "path": "attachments/FLS005_small_fill_level_sorter_fixed.litematic",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
