@@ -72,14 +72,15 @@
       "width": 648,
       "height": 757,
       "path": "images/slice.png",
-      "hash": "012f576c81dbc573ff16fbf9a6f97e8199a5e29aa362e38e7314c905f87fcf91"
+      "hash": "012f576c81dbc573ff16fbf9a6f97e8199a5e29aa362e38e7314c905f87fcf91",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1509708672454889604/1510350665099120690/1509708672966590534-slice.png?ex=6a1c7f2b&is=6a1b2dab&hm=ba706d9069c2446bba33d437e3ffe2299ff21171640208b5e3c8e4a332c021e6&"
     },
     {
-      "id": "1509708673411453099",
+      "id": "1510350601731702795",
       "name": "combined.png",
       "contentType": "image/png",
-      "url": "https://cdn.discordapp.com/attachments/1509708672454889604/1509708673411453099/combined.png?ex=6a1a2944&is=6a18d7c4&hm=de1e7845d9f50b51925cfb3860f4bcab807d184aafe16f017b8f04ecd653b9f3&",
-      "timestamp": 1780012996544,
+      "url": "https://cdn.discordapp.com/attachments/1509708672454889604/1510350601731702795/image.png?ex=6a1c7f1c&is=6a1b2d9c&hm=b4fe5cbd61ec0a7e8f5acfbd21dc3006a377b6e79f4b85ab2ab6ae5466b98083&",
+      "timestamp": 1780166044455,
       "author": {
         "type": "discord-in-guild",
         "id": "239078039831445504",
@@ -89,21 +90,22 @@
       },
       "source": "MessageAttachment",
       "description": "",
-      "size": 57819,
+      "size": 72870,
       "canDownload": true,
-      "width": 830,
-      "height": 505,
+      "width": 854,
+      "height": 547,
       "path": "images/combined.png",
-      "hash": "124977e9e3d23c4e0253f77035694e1b25200ca0df7c41c905d31741221de1bb"
+      "hash": "bfaecc5cec9216542cd7864c8d577d8e6ec947b9bd7d9fc5660bcf80959d3005",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1509708672454889604/1510350665384202300/1510350601731702795-combined.png?ex=6a1c7f2b&is=6a1b2dab&hm=a458776f5386c459cbad7dd1b325b5e73560e309ca05e9aa253e9d78570c9f0b&"
     }
   ],
   "attachments": [
     {
-      "id": "1510289265341501440",
+      "id": "1510350398043455630",
       "name": "BS005_8gt_fhu_acacia_box_sorter.litematic",
       "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1509708672454889604/1510289265341501440/8gt_fhu_acacia_box_sorter.litematic?ex=6a1c45fc&is=6a1af47c&hm=b54b485b539e00bb013215115e3a2584ba4ddaef663e636822a5f985fc812095&",
-      "timestamp": 1780151420803,
+      "url": "https://cdn.discordapp.com/attachments/1509708672454889604/1510350398043455630/8gt_fhu_acacia_box_sorter.litematic?ex=6a1c7eeb&is=6a1b2d6b&hm=00dbc82b43cbfadbffb278d82d8df9cdcf591e0193a866a86fbbe3da88a7564c&",
+      "timestamp": 1780165995904,
       "author": {
         "type": "discord-in-guild",
         "id": "239078039831445504",
@@ -113,9 +115,9 @@
       },
       "source": "MessageAttachment",
       "description": "",
-      "size": 2877,
+      "size": 2664,
       "canDownload": true,
-      "hash": "9dec36f81b19abbd06bbb0ba78f034ba938d75c66726405ef6b9006639ef7929",
+      "hash": "6cf616e1749d30a3b653c48888ffec6f7679d6602cce84cc32d785ab30d51079",
       "path": "attachments/BS005_8gt_fhu_acacia_box_sorter.litematic",
       "litematic": {
         "size": "19x10x6",
@@ -195,10 +197,10 @@
       "1509709388263194789"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1509709376271814676",
-    "uploadMessageId": "1510289387471110225",
+    "uploadMessageId": "1510351207372292198",
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1509709376271814676/1509709381409964072/slice.png?ex=6a1a29ed&is=6a18d86d&hm=e1cd54a5426e41689ec77b8d155713461ab0dc50060b46e9ec20ec07d0b5b379&"
   },
   "archivedAt": 1780013160270,
-  "updatedAt": 1780151448745,
+  "updatedAt": 1780166187990,
   "num_comments": 0
 }
