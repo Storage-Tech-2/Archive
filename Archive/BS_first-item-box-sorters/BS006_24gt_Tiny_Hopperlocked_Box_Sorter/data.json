@@ -1,0 +1,210 @@
+{
+  "id": "1510118698537586768",
+  "name": "24gt Tiny Hopperlocked Box Sorter",
+  "code": "BS006",
+  "reservedCodes": [
+    "BS006"
+  ],
+  "pastPostThreadIds": [
+    "1510120305773773046"
+  ],
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "518210652540764161",
+      "username": "humanoid_human",
+      "iconURL": "https://cdn.discordapp.com/avatars/518210652540764161/151e22a5d2cb68c910a437b1a6dc454a.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465490780583100538",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1510119170610565261",
+      "name": "slice.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1510118698537586768/1510119170610565261/slice.png?ex=6a1ba792&is=6a1a5612&hm=18f0a85b285c67ee8ec8d64d5c9648ea0f836ffcec8bb11f74d77d9663f5fdb6&",
+      "timestamp": 1780110866978,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 11457,
+      "canDownload": true,
+      "width": 622,
+      "height": 876,
+      "path": "images/slice.png",
+      "hash": "7daa81e0697f95b1c20da4e70bd999c42c136b34b21cb466d07705f4e1d199a3",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1510118698537586768/1510119440933588992/1510119170610565261-slice.png?ex=6a1ba7d3&is=6a1a5653&hm=b54d7d416559df7fc473ef6632d411110001d714cccab73501ece6a903b22f14&"
+    },
+    {
+      "id": "1510119390492885102",
+      "name": "device.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1510118698537586768/1510119390492885102/device.png?ex=6a1ba7c7&is=6a1a5647&hm=3e8f4dc5e8c99feafa6261dd6daa509af470d4e1447be08f213b651b2de15fbb&",
+      "timestamp": 1780110919404,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 77713,
+      "canDownload": true,
+      "width": 728,
+      "height": 649,
+      "path": "images/device.png",
+      "hash": "e32b819226583cbd9d0745e73b73ac2a9a0cbee35bc0a5ac7fc10119c026320a",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1510118698537586768/1510119441264807967/1510119390492885102-device.png?ex=6a1ba7d3&is=6a1a5653&hm=d7820734199498363a8ad2fe0b70f083b84f622103f6cd97c33268788c243d5a&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1476037021884612741",
+      "name": "BS006_box_sorter_v1.4.0.litematic",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1475285908101136597/1476037021884612741/box_sorter_v1.4.0.litematic",
+      "timestamp": 1780110754380,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "URLInMessage",
+      "description": "Thing",
+      "canDownload": true,
+      "hash": "634410a42b60c9edb386fa3857f214fa6f1ccd8e20e08d439a88391b8fafe89f",
+      "path": "attachments/BS006_box_sorter_v1.4.0.litematic",
+      "size": 1672,
+      "litematic": {
+        "size": "10x9x5",
+        "version": "1.21"
+      }
+    },
+    {
+      "id": "1476037022371020850",
+      "name": "BS006_box_sorter_testing.litematic",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1475285908101136597/1476037022371020850/box_sorter_testing.litematic",
+      "timestamp": 1780110754380,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "URLInMessage",
+      "description": "Testing",
+      "canDownload": true,
+      "hash": "722c0539aece21f50c006a499d7ee6b1d638d52e3cfce770878781280ddb928f",
+      "path": "attachments/BS006_box_sorter_testing.litematic",
+      "size": 8299,
+      "litematic": {
+        "size": "39x14x38",
+        "version": "1.21"
+      }
+    }
+  ],
+  "records": {
+    "description": "A tiny box sorter designed for farm storages which locks hoppers in-slice.",
+    "features": [
+      "24gt box throughput",
+      "Local locking of hoppers in-slice, no global logic requiring AB tiling.",
+      "Fully random input proof",
+      "1-wide overhang keygen",
+      "Lag optimized: only fires pistons when necessary"
+    ],
+    "considerations": [
+      "Buffers two boxes in each slice. This makes it unsuitable for main storage systems.",
+      "Relatively slow"
+    ],
+    "notes": "Tested for 770k boxes at random intervals (1000 random tick speed, see attached testing schem)."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Sorter",
+      "id": "1454753516269736090",
+      "url": "https://discord.com/channels/1375556143186837695/1454753516269736090/1454753518383792221",
+      "matches": [
+        "box sorter"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Gametick",
+      "id": "1454753634435858666",
+      "url": "https://discord.com/channels/1375556143186837695/1454753634435858666/1454753635690090539",
+      "matches": [
+        "gt",
+        "tick"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Global",
+      "id": "1454753648574992557",
+      "url": "https://discord.com/channels/1375556143186837695/1454753648574992557/1454753649480958066",
+      "matches": [
+        "Local",
+        "global"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Keygen",
+      "id": "1454753674298396785",
+      "url": "https://discord.com/channels/1375556143186837695/1454753674298396785/1454753674898440377",
+      "matches": [
+        "keygen"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1510120305773773046",
+    "forumId": "1375559535976124717",
+    "continuingMessageIds": [
+      "1510120317325152266"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1510120305773773046",
+    "uploadMessageId": "1510120303643066428"
+  },
+  "archivedAt": 1780111128905,
+  "updatedAt": 1780111128905,
+  "num_comments": 0
+}
