@@ -1,5 +1,5 @@
 # Simple 8gt Box Sorter
-<img alt="area_render_20_.png" src="images/area_render_20_.png?raw=1">
+<img alt="slice.png" src="images/slice.png?raw=1" height="300px">
 
 **Authors:** *javierrubik33*
 
@@ -22,7 +22,7 @@ Left and right bending U-turn designs available, designed by Flutter
 3. It is recommended that you use overflow protection for the outputs. Do this by replacing the barrels with droppers in the output, overflow boxes can be collected via 1 tall output collector stream ([WT004 One Tall Output Collection Stream](https://discord.com/channels/1375556143186837695/1455461373415915728)). See the image guide for reference.
 
 ## Other Images
-<img src="images/area_render_21_.png?raw=1">
+<img src="images/area_render_20_.png?raw=1" height="300px">
 
 <img src="images/left.png?raw=1" height="300px">
 
@@ -30,9 +30,9 @@ Left and right bending U-turn designs available, designed by Flutter
 
 ## Resources
 - [BS004_Simple_Box_Sorter.litematic](attachments/BS004_Simple_Box_Sorter.litematic): MC 1.21, Size 12x9x4 blocks
-- [BS004_image.png](attachments/BS004_image.png): image/png
-  - How to set up overflow protection
 - [BS004_Flutter_Box_Sorter_Left_U-turn.litematic](attachments/BS004_Flutter_Box_Sorter_Left_U-turn.litematic): MC 1.21, Size 5x7x10 blocks
   - Left bending u-turn design by Flutter
 - [BS004_Flutter_Box_Sorter_Right_U-turn.litematic](attachments/BS004_Flutter_Box_Sorter_Right_U-turn.litematic): MC 1.21, Size 5x7x10 blocks
   - Right bending u-turn design by Flutter
+- [BS004_overflow_guide.png](attachments/BS004_overflow_guide.png): image/png
+  - How to set up overflow protection
