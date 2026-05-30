@@ -1,5 +1,5 @@
 # Barrel Based Simple Bulk
-<img alt="NoDecoRender.png" src="images/NoDecoRender.png?raw=1" height="300px">
+<img alt="SingleBarrelBulkSliceRender.png" src="images/SingleBarrelBulkSliceRender.png?raw=1" height="300px">
 
 **Authors:** *Moonyinspired 🇧🇷, PyraLeft, CommandLeo*
 
@@ -32,9 +32,9 @@ A Bulk storage made for easy understanding, scaling (both upwards and horizontal
 - The latches inside of each slice can be set by building the bottom row of the slice, adding hoppers on top and manually dropping the item into the hopper instead of opening the dropper GUI. Only 1 item is needed per latch.
 
 ## Other Images
-<img src="images/YesDecoRender.png?raw=1" height="300px">
+<img src="images/NoDecoRender.png?raw=1" height="300px">
 
-<img src="images/SingleBarrelBulkSliceRender.png?raw=1" height="300px">
+<img src="images/YesDecoRender.png?raw=1" height="300px">
 
 ## Resources
 - [BH008_BarrelBulkWithoutDeco.litematic](attachments/BH008_BarrelBulkWithoutDeco.litematic): MC 1.21.4, Size 23x28x36 blocks
