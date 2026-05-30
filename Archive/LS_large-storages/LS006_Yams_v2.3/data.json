@@ -244,9 +244,15 @@
       "Non-stacked empty boxes compatibility",
       "6,940 empty box capacity (If using stacked boxes)",
       "All filters are easily accessible to the player",
-      "Detects chunkloading failure"
+      "Detects chunkloading failure",
+      "Utilizes set based parallel unloading for sorting speeds up to 16x hopperspeed",
+      "Separates and sorts unstackables"
     ],
-    "compatibility": "[1.20+]"
+    "considerations": [
+      "Yams v2 is actively being updated, but is fully operational in its current form"
+    ],
+    "notes": "For questions and concerns see [Yams v2 Main Hub](https://discord.com/channels/748542142347083868/1275462763791126558/1460475730654924811)\nIt contains a building guide, pictures, an FAQ and a bugfix changelog.",
+    "compatibility": "[1.21.11+]"
   },
   "styles": {},
   "references": [
@@ -267,6 +273,27 @@
       "matches": [
         "slice"
       ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopper speed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "hopperspeed"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/1275462763791126558/1460475730654924811",
+      "server": "748542142347083868",
+      "channel": "1275462763791126558",
+      "message": "1460475730654924811",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/1275462763791126558/1460475730654924811"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
     }
   ],
   "author_references": [],
@@ -274,14 +301,15 @@
     "threadId": "1468360770105376890",
     "forumId": "1375566903241740450",
     "continuingMessageIds": [
-      "1490175954902061137",
-      "1490175955900301383"
+      "1510358208479232192",
+      "1510358211880812674",
+      "1510358212770004994"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1468360770105376890",
     "uploadMessageId": "1490175946127311119",
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1468360770105376890/1468360771283976320/Yams_Full_Bulk.png?ex=69b28a48&is=69b138c8&hm=f00ddd4e2278630ce2cc226e9205f8b6d6a82416e46ac77996191d851f5f555e&"
   },
   "archivedAt": 1770154884552,
-  "updatedAt": 1775356029320,
+  "updatedAt": 1780167854283,
   "num_comments": 0
 }

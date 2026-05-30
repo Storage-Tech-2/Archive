@@ -17,8 +17,15 @@
 - 6,940 empty box capacity (If using stacked boxes)
 - All filters are easily accessible to the player
 - Detects chunkloading failure
+- Utilizes set based parallel unloading for sorting speeds up to 16x hopperspeed
+- Separates and sorts unstackables
+## Considerations
+- Yams v2 is actively being updated, but is fully operational in its current form
+## Notes
+For questions and concerns see [Yams v2 Main Hub](https://discord.com/channels/748542142347083868/1275462763791126558/1460475730654924811) (in [Storage Tech](https://discord.gg/JufJ6uf))
+It contains a building guide, pictures, an FAQ and a bugfix changelog.
 ## Compatibility
-[1.20+]
+[1.21.11+]
 
 ## Resources
 - [LS006_YAMS_V2.31_FB_Bugfixed.litematic](attachments/LS006_YAMS_V2.31_FB_Bugfixed.litematic): MC 1.21.11, Size 208x75x176 blocks
