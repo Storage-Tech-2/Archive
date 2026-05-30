@@ -12,13 +12,14 @@
 A tiny box sorter designed for farm storages which locks hoppers in-slice.
 ## Features
 - 24gt box throughput
-- Local locking of hoppers in-slice, no global logic requiring AB tiling.
+- Local locking of uncovered hoppers in-slice, no global logic requiring AB tiling.
 - Fully random input proof
 - 1-wide overhang keygen
 - Lag optimized: only fires pistons when necessary
 ## Considerations
 - Buffers two boxes in each slice. This makes it unsuitable for main storage systems.
 - Relatively slow
+- Not 100% hopperlocked (but can be)
 ## Notes
 Tested for 770k boxes at random intervals (1000 random tick speed, see attached testing schem).
 

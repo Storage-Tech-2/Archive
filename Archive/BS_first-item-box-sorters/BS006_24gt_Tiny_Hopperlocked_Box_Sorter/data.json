@@ -133,14 +133,15 @@
     "description": "A tiny box sorter designed for farm storages which locks hoppers in-slice.",
     "features": [
       "24gt box throughput",
-      "Local locking of hoppers in-slice, no global logic requiring AB tiling.",
+      "Local locking of uncovered hoppers in-slice, no global logic requiring AB tiling.",
       "Fully random input proof",
       "1-wide overhang keygen",
       "Lag optimized: only fires pistons when necessary"
     ],
     "considerations": [
       "Buffers two boxes in each slice. This makes it unsuitable for main storage systems.",
-      "Relatively slow"
+      "Relatively slow",
+      "Not 100% hopperlocked (but can be)"
     ],
     "notes": "Tested for 770k boxes at random intervals (1000 random tick speed, see attached testing schem)."
   },
@@ -192,6 +193,15 @@
       "matches": [
         "keygen"
       ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopperlocking",
+      "id": "1454753660625227895",
+      "url": "https://discord.com/channels/1375556143186837695/1454753660625227895/1454753661765947422",
+      "matches": [
+        "hopperlocked"
+      ]
     }
   ],
   "author_references": [],
@@ -205,6 +215,6 @@
     "uploadMessageId": "1510120303643066428"
   },
   "archivedAt": 1780111128905,
-  "updatedAt": 1780111128905,
+  "updatedAt": 1780111294110,
   "num_comments": 0
 }
