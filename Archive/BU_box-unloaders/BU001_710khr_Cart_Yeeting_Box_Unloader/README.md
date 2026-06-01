@@ -16,7 +16,7 @@ Stacks hopper-minecarts below the box to quickly unload it. Provides an alternat
 - Unloaded boxes are preserved and sent to their own output
 - Size: 8x11x3
 ## Considerations
-- It's big (smaller version exists for only slightly slower speeds: https://discord.com/channels/1375556143186837695/1389355709119856772/1389355709119856772)
+- It's big (smaller version exists for only slightly slower speeds: [BU008 Compact Cart Yeeting Box Unloader](https://discord.com/channels/1375556143186837695/1410487539965493320))
 
 ## Resources
 - [BU001_Stacked_Cart_Box_Unloader_Updated.litematic](attachments/BU001_Stacked_Cart_Box_Unloader_Updated.litematic): MC 1.19, Size 3x10x8 blocks

@@ -12,16 +12,16 @@
     {
       "type": "discord-in-guild",
       "id": "688456529338433611",
-      "username": "glidingmonkey",
       "displayName": "Christone",
+      "username": "glidingmonkey",
       "iconURL": "https://cdn.discordapp.com/avatars/688456529338433611/348a34add443a5a71237111010e484b1.webp"
     },
     {
       "type": "discord-in-guild",
       "id": "319513337941721089",
       "username": "inspectortalon",
-      "displayName": "Inspector Talon",
-      "iconURL": "https://cdn.discordapp.com/avatars/319513337941721089/edec0da88a70e9697b6b43b4a2d740e3.webp"
+      "iconURL": "https://cdn.discordapp.com/avatars/319513337941721089/edec0da88a70e9697b6b43b4a2d740e3.webp",
+      "displayName": "Inspector Talon"
     },
     {
       "type": "discord-in-guild",
@@ -67,13 +67,13 @@
       "canDownload": true,
       "width": 600,
       "height": 800,
-      "path": "images/image.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "glidingmonkey"
+        "username": "Unknown"
       },
       "timestamp": 1751309576000,
+      "path": "images/image.png",
       "hash": "dd5bc538adf88392198a07dbaea06b6f63fd0ff6820271c83bec14f7c1c69541"
     }
   ],
@@ -89,14 +89,13 @@
         "size": "3x10x8",
         "version": "1.19"
       },
-      "path": "attachments/BU001_Stacked_Cart_Box_Unloader_Updated.litematic",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "andrews54757"
+        "username": "Unknown"
       },
       "timestamp": 1751314402000,
-      "size": 1634,
+      "path": "attachments/BU001_Stacked_Cart_Box_Unloader_Updated.litematic",
       "hash": "87323739b007c6dc9eeeec897b34677a9c62bc11420fcb7224f0e59f31a4315f"
     }
   ],
@@ -109,10 +108,10 @@
       "Size: 8x11x3"
     ],
     "considerations": [
-      "It's big (smaller version exists for only slightly slower speeds: https://discord.com/channels/1375556143186837695/1389355709119856772/1389355709119856772)"
-    ],
-    "notes": ""
+      "It's big (smaller version exists for only slightly slower speeds: BU008)"
+    ]
   },
+  "styles": {},
   "references": [
     {
       "type": "dictionaryTerm",
@@ -124,13 +123,14 @@
       ]
     },
     {
-      "type": "discordLink",
-      "url": "https://discord.com/channels/1375556143186837695/1389355709119856772/1389355709119856772",
-      "server": "1375556143186837695",
-      "channel": "1389355709119856772",
-      "message": "1389355709119856772",
+      "type": "archivedPost",
+      "id": "1389350108801400832",
+      "code": "BU008",
+      "name": "Compact Cart Yeeting Box Unloader",
+      "url": "https://discord.com/channels/1375556143186837695/1410487539965493320",
+      "path": "Archive/BU_box-unloaders/BU008_Compact_Cart_Yeeting_Box_Unloader",
       "matches": [
-        "https://discord.com/channels/1375556143186837695/1389355709119856772/1389355709119856772"
+        "BU008"
       ]
     }
   ],
@@ -146,6 +146,6 @@
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1389338141583741085/1389338142150230198/image.png?ex=69b275b9&is=69b12439&hm=f8e7051163bb3d0cccc618e65be6f31ef78b6dd7c3329212a00cf0b6e4b07982&"
   },
   "archivedAt": 1766904276561,
-  "updatedAt": 1751351873280,
+  "updatedAt": 1780351219963,
   "num_comments": 0
 }
