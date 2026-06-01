@@ -11,7 +11,7 @@
 
 Sorts boxes into multi-item-type categories based on first item type of box at half-hopperspeed.
 ## Features
-- Hopperspeed sorting
+- Half-hopperspeed sorting
 - Fully hopperlocked design
 - Only one sorting item needs to be placed in a category 's filter chest. Up to 54 types per category/slice.
 - Each slice is 7x9x2, can be tiled for more categories
