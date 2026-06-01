@@ -4,7 +4,7 @@
   "code": "IL",
   "category": "Other Resources",
   "description": "Item layouts for storage systems",
-  "currentCodeId": 2,
+  "currentCodeId": 3,
   "entries": [
     {
       "id": "1490531722171912232",
@@ -15,6 +15,11 @@
       "id": "1506312740589928598",
       "code": "IL002",
       "path": "IL002_Main_Storage_1.21.11_Item_Layout"
+    },
+    {
+      "id": "1510857858840006796",
+      "code": "IL003",
+      "path": "IL003_Survival_Obtainable_Sortable_Item_Spreadsheets"
     }
   ]
 }
