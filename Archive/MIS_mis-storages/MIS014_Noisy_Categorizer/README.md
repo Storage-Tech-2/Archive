@@ -25,6 +25,7 @@ Cheap and compact early game 1wt multi item sorter similar to [MIS001 Compact Ca
 ## Notes
 - Schematic has output signal to add chunk loading
 - White glass in schematic represents solid block or glass
+- All signs are optional
 - Easily expandable in both axis
 ## Compatibility
 1.20.4+

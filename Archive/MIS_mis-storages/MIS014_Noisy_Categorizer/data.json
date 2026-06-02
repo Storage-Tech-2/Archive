@@ -225,7 +225,7 @@
       "2 stationary carts",
       "noisy due to powered droppers"
     ],
-    "notes": "- Schematic has output signal to add chunk loading\n- White glass in schematic represents solid block or glass\n- Easily expandable in both axis",
+    "notes": "- Schematic has output signal to add chunk loading\n- White glass in schematic represents solid block or glass\n- All signs are optional\n- Easily expandable in both axis",
     "compatibility": "1.20.4+",
     "how-it-works-differently": "While the overall principles of operation are similar to MIS001, this storage uses droppers to move items into slices instead of item entities. This allows it to move variable amounts of items (instead of fixed amounts), until that item type stops being sorted. This allows it to not use extra sorting cycles to insert large batches of the same item type.",
     "instructions": [
@@ -331,6 +331,6 @@
     "uploadMessageId": "1511482217073741904"
   },
   "archivedAt": 1780435835450,
-  "updatedAt": 1780435835450,
+  "updatedAt": 1780435897057,
   "num_comments": 0
 }
