@@ -1,0 +1,336 @@
+{
+  "id": "1511453203290394736",
+  "name": "Noisy Categorizer",
+  "code": "MIS014",
+  "reservedCodes": [
+    "MIS014"
+  ],
+  "pastPostThreadIds": [
+    "1511482219334729758"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "480650963317948416",
+      "username": "prostosania3171",
+      "displayName": "Саня",
+      "iconURL": "https://cdn.discordapp.com/avatars/480650963317948416/e18c6b43b8317b5eb9aaa3fe3ce420ce.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "1444700544970002453",
+      "username": "adrian05584",
+      "displayName": "(っ◔◡◔)っ ♥ Naijuunitengo ♥",
+      "iconURL": "https://cdn.discordapp.com/avatars/1444700544970002453/b670b7806fcdb7e0fee56e4218453d82.webp",
+      "reason": "Made decoration"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "548676165020286994",
+      "username": "moonyinspired",
+      "displayName": "Moonyinspired 🇧🇷",
+      "iconURL": "https://cdn.discordapp.com/avatars/548676165020286994/21f517a2cd0b587ede56229b2dfc060e.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465491524203839539",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1511473500706181160",
+      "name": "render.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1511453203290394736/1511473500706181160/image.png?ex=6a2094e4&is=6a1f4364&hm=c59324b718bb2a0e348f22297f61de4360fcc3fcd5fe62a3d708ffff9abdf8e2&",
+      "timestamp": 1780433764812,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "480650963317948416",
+        "username": "prostosania3171",
+        "displayName": "Саня",
+        "iconURL": "https://cdn.discordapp.com/avatars/480650963317948416/e18c6b43b8317b5eb9aaa3fe3ce420ce.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Render of whole system (undecorated)",
+      "size": 192159,
+      "canDownload": true,
+      "width": 963,
+      "height": 789,
+      "path": "images/render.png",
+      "hash": "b5740834f02a262dd18bf0b662a1450824de0a30456f5793b7ad4c970d53df78",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1511453203290394736/1511481020250063031/1511473500706181160-render.png?ex=6a209be5&is=6a1f4a65&hm=86a6213c04faea39846a1d5ecc9f3c9b67329b1793eaa4698f23b0f238bc2ffc&"
+    },
+    {
+      "id": "1511473501050241096",
+      "name": "slice.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1511453203290394736/1511473501050241096/image.png?ex=6a2094e4&is=6a1f4364&hm=24256813659bed9e2ec9f8405d0e77a438ca3650996fa210a3999d704270eda5&",
+      "timestamp": 1780433764812,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "480650963317948416",
+        "username": "prostosania3171",
+        "displayName": "Саня",
+        "iconURL": "https://cdn.discordapp.com/avatars/480650963317948416/e18c6b43b8317b5eb9aaa3fe3ce420ce.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Single slice of hall",
+      "size": 14953,
+      "canDownload": true,
+      "width": 900,
+      "height": 527,
+      "path": "images/slice.png",
+      "hash": "12999e0eb393452bbe1f9764f4486d406a9ca8612a628a207482405ce5fd2ca8",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1511453203290394736/1511481020522696745/1511473501050241096-slice.png?ex=6a209be5&is=6a1f4a65&hm=2684df6b00dd25a0fc445db0f58a052a052e0d2b94d293f25febb2908defb852&"
+    },
+    {
+      "id": "1511476778038984734",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1511453203290394736/1511476778038984734/image.png?ex=6a2097f1&is=6a1f4671&hm=d928d5b7c145232a23a167816687e220852ec86d5cbc539d7e61e138f70f20b9&",
+      "timestamp": 1780434545842,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "480650963317948416",
+        "username": "prostosania3171",
+        "displayName": "Саня",
+        "iconURL": "https://cdn.discordapp.com/avatars/480650963317948416/e18c6b43b8317b5eb9aaa3fe3ce420ce.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Decorated hall",
+      "size": 357506,
+      "canDownload": true,
+      "width": 1018,
+      "height": 860,
+      "path": "images/image.png",
+      "hash": "a874afcc77eddde7f1d174a85b058dba5d7193589b6a8274d25883bdfee3e9a9",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1511453203290394736/1511481020824813678/1511476778038984734-image.png?ex=6a209be5&is=6a1f4a65&hm=1b2e5d9692174dc7bce7ada8e4293ac49b1289904016ca59e58d3583d3f25047&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1511477284463448135",
+      "name": "MIS014_noisy_categorizer_1.20.4.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1511453203290394736/1511477284463448135/noisy_categorizer_1.20.4.litematic?ex=6a20986a&is=6a1f46ea&hm=51c3cbc2c28723e6bac9b5099930e367e50d7c5313fdfee8e9462d0f769e2955&",
+      "timestamp": 1780434666868,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "480650963317948416",
+        "username": "prostosania3171",
+        "displayName": "Саня",
+        "iconURL": "https://cdn.discordapp.com/avatars/480650963317948416/e18c6b43b8317b5eb9aaa3fe3ce420ce.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Litematic of storage system",
+      "size": 11160,
+      "canDownload": true,
+      "hash": "6d492f81f356d6c49e17ca18d318e9e35ecc331c74f9839c9f1aba2fa8a34e32",
+      "path": "attachments/MIS014_noisy_categorizer_1.20.4.litematic",
+      "litematic": {
+        "size": "15x15x31",
+        "version": "1.20.4"
+      }
+    },
+    {
+      "id": "1511477284027109527",
+      "name": "MIS014_noisy_categorizer_1.20.4_subregions.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1511453203290394736/1511477284027109527/noisy_categorizer_1.20.4_subregions.litematic?ex=6a20986a&is=6a1f46ea&hm=465ce257e7751e16304010a7fd6e7195cf304fb0692434d7985ed0dbf7ee59da&",
+      "timestamp": 1780434666868,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "480650963317948416",
+        "username": "prostosania3171",
+        "displayName": "Саня",
+        "iconURL": "https://cdn.discordapp.com/avatars/480650963317948416/e18c6b43b8317b5eb9aaa3fe3ce420ce.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Litematic of storage system with subregions for digging out area in survival",
+      "size": 12144,
+      "canDownload": true,
+      "hash": "3a61c8b526bfd8dad3f3aac3a8ec544d9c3f905c864e455c0f8bf28b355c9be4",
+      "path": "attachments/MIS014_noisy_categorizer_1.20.4_subregions.litematic",
+      "litematic": {
+        "size": "15x15x31",
+        "version": "1.20.4"
+      }
+    },
+    {
+      "id": "1511477284987474180",
+      "name": "MIS014_noisy_categorizer_decorated_1.21.9.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1511453203290394736/1511477284987474180/noisy_categorizer_decorated_1.21.9.litematic?ex=6a20986a&is=6a1f46ea&hm=88a9ffa5bad8ab2ce583a90c9674974598001d3379c76eedcb0faa8542814f99&",
+      "timestamp": 1780434666868,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "480650963317948416",
+        "username": "prostosania3171",
+        "displayName": "Саня",
+        "iconURL": "https://cdn.discordapp.com/avatars/480650963317948416/e18c6b43b8317b5eb9aaa3fe3ce420ce.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Fully decorated version (deco by @adrian05584)",
+      "size": 12848,
+      "canDownload": true,
+      "hash": "896cdcb65449faca90b043019d28126fd52c5ff5db503224396f1f3b4bcec6ad",
+      "path": "attachments/MIS014_noisy_categorizer_decorated_1.21.9.litematic",
+      "litematic": {
+        "size": "15x15x32",
+        "version": "1.21.11"
+      }
+    },
+    {
+      "id": "1511453208206118982",
+      "name": "MIS014_MIS_layout_1.21.9.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1511453203290394736/1511453208206118982/MIS_layout_1.21.9.litematic?ex=6a2081fe&is=6a1f307e&hm=50bf0c3b9cc54d3ccda5d0893ba134c0b499f30d02d96501a0a3ca0bea63cc07&",
+      "timestamp": 1780428925107,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Preconfigured MIS chests for a basic 1.21.9 item layout. Only has MIS chests, does not include the storage system.",
+      "size": 12556,
+      "canDownload": true,
+      "hash": "5241e3773514eb97d739a0e24bfec08d41faafb99250118689068e3704bafac2",
+      "path": "attachments/MIS014_MIS_layout_1.21.9.litematic",
+      "litematic": {
+        "size": "9x8x24",
+        "version": "1.21.11"
+      }
+    }
+  ],
+  "records": {
+    "description": "Cheap and compact early game 1wt multi item sorter similar to MIS001.",
+    "features": [
+      "trapped chest input for everything",
+      "unloads boxes",
+      "<=1x hs (close to 1x with batches of ~23+ items)",
+      "pausable",
+      "48 categories (including 3 empty) up to 50 items in default version",
+      "size: 15x15x31",
+      "overflow protection",
+      "accessible whitelisters"
+    ],
+    "considerations": [
+      "2 stationary carts",
+      "noisy due to powered droppers"
+    ],
+    "notes": "- Schematic has output signal to add chunk loading\n- White glass in schematic represents solid block or glass\n- Easily expandable in both axis",
+    "compatibility": "1.20.4+",
+    "how-it-works-differently": "While the overall principles of operation are similar to MIS001, this storage uses droppers to move items into slices instead of item entities. This allows it to move variable amounts of items (instead of fixed amounts), until that item type stops being sorted. This allows it to not use extra sorting cycles to insert large batches of the same item type.",
+    "instructions": [
+      "Make sure to setup MIS filters first (top chests), a basic 1.21.9 layout is included separately, but the schematics do not have preset MIS chests.",
+      "Hook up chunkloading. There is a sign next to an observer which you may use as the clock source for your chunkloader.",
+      "Put either items or boxes into the input to start sorting"
+    ]
+  },
+  "styles": {
+    "how-it-works-differently": {
+      "depth": 2,
+      "headerText": "How it works differently"
+    }
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "n-Wide tileable",
+      "id": "1454753738425368687",
+      "url": "https://discord.com/channels/1375556143186837695/1454753738425368687/1454753741785010208",
+      "matches": [
+        "1wt"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Multi Item Sorter",
+      "id": "1454753725091676293",
+      "url": "https://discord.com/channels/1375556143186837695/1454753725091676293/1454753725829877954",
+      "matches": [
+        "multi item sorter",
+        "MIS"
+      ]
+    },
+    {
+      "type": "archivedPost",
+      "id": "1386227823450132604",
+      "code": "MIS001",
+      "name": "Compact Categorizer",
+      "url": "https://discord.com/channels/1375556143186837695/1388318067247026286",
+      "path": "Archive/MIS_mis-storages/MIS001_Compact_Categorizer",
+      "matches": [
+        "MIS001"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hopper speed",
+      "id": "1454937395693879409",
+      "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
+      "matches": [
+        "1x"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Whitelister",
+      "id": "1473812335243165757",
+      "url": "https://discord.com/channels/1375556143186837695/1473812335243165757/1473812336434479176",
+      "matches": [
+        "whitelister"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Schematic",
+      "id": "1454811558009110704",
+      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
+      "matches": [
+        "Schematic",
+        "schematic"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Chunk loader",
+      "id": "1457055322647695542",
+      "url": "https://discord.com/channels/1375556143186837695/1457055322647695542/1457055324426080287",
+      "matches": [
+        "chunk load"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1511482219334729758",
+    "forumId": "1375566804910604349",
+    "continuingMessageIds": [
+      "1511482231741481202",
+      "1511482232261443596",
+      "1511482233268211872"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1511482219334729758",
+    "uploadMessageId": "1511482217073741904"
+  },
+  "archivedAt": 1780435835450,
+  "updatedAt": 1780435835450,
+  "num_comments": 0
+}
