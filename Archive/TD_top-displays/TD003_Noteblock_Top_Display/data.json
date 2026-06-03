@@ -10,10 +10,9 @@
   ],
   "authors": [
     {
-      "type": "discord-in-guild",
+      "type": "discord-external",
       "id": "460316892976906261",
-      "displayName": "Ragdoll Willy",
-      "username": "ragdollwilly",
+      "username": "00000000006878",
       "iconURL": "https://cdn.discordapp.com/avatars/460316892976906261/a0332117bf4e609a1ead4417ae4357b4.webp"
     },
     {

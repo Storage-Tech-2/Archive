@@ -1,7 +1,7 @@
 # Hybrid Compactor Loader
 <img alt="area_render_6_.png" src="images/area_render_6_.png?raw=1" height="300px">
 
-**Authors:** *TisUnfortunate, Hi!?, Christone, Ragdoll Willy*
+**Authors:** *TisUnfortunate, Hi!?, Christone, 00000000006878*
 
 **Endorsed by:** *TisUnfortunate*
 

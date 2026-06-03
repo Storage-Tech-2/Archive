@@ -1,7 +1,7 @@
 # Noteblock Top Display
 <img alt="Noteblock_Top_Display.png" src="images/Noteblock_Top_Display.png?raw=1" height="300px">
 
-**Authors:** *Ragdoll Willy, camphorwood*
+**Authors:** *00000000006878, camphorwood*
 
 **Endorsed by:** *Andrews54757*
 

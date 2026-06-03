@@ -1,7 +1,7 @@
 # Falling Edge Detector Chart
 <img alt="Falling_Edge_Detectors.png" src="images/Falling_Edge_Detectors.png?raw=1" height="300px">
 
-**Endorsed by:** *Ragdoll Willy*
+**Endorsed by:** *00000000006878*
 
 **Tags:** *Recommended, Functional*
 
