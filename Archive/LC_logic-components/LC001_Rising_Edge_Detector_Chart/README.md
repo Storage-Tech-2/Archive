@@ -1,7 +1,7 @@
 # Rising Edge Detector Chart
 <img alt="Rising_Edge_Detectors.png" src="images/Rising_Edge_Detectors.png?raw=1" height="300px">
 
-**Endorsed by:** *00000000006878*
+**Endorsed by:** *Ragdoll Willy*
 
 **Tags:** *Recommended, Functional*
 

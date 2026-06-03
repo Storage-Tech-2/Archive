@@ -1,7 +1,7 @@
 # Block Swapper Display
 <img alt="Shuffler_Display_-_Autumn_Version.png" src="images/Shuffler_Display_-_Autumn_Version.png?raw=1" height="300px">
 
-**Authors:** *X8Ghost, 00000000006878, camphorwood*
+**Authors:** *X8Ghost, Ragdoll Willy, camphorwood*
 
 **Endorsed by:** *Andrews54757*
 

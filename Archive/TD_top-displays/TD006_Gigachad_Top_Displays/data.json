@@ -24,10 +24,11 @@
       "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/10653f22a436d6d084a01c465598ab6a.webp"
     },
     {
-      "type": "discord-external",
-      "id": "460316892976906261",
-      "username": "00000000006878",
-      "iconURL": "https://cdn.discordapp.com/avatars/460316892976906261/a0332117bf4e609a1ead4417ae4357b4.webp"
+      "type": "discord-in-guild",
+      "id": "1511583577937154158",
+      "username": "ragdollwilly1",
+      "displayName": "Ragdoll Willy",
+      "iconURL": "https://cdn.discordapp.com/avatars/1511583577937154158/97973c608a5661afac722d467f2258e4.webp"
     }
   ],
   "endorsers": [
@@ -156,6 +157,6 @@
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1456439784145813667/1456439784330367120/Gigachad_Top_Displays.png?ex=69b2ad7f&is=69b15bff&hm=63cfe968ea207044951b3f58460a987be28f6aa17e64bfaf1eed3f8e2647cee6&"
   },
   "archivedAt": 1767312698546,
-  "updatedAt": 1767360790502,
+  "updatedAt": 1780464719248,
   "num_comments": 0
 }

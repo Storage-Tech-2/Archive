@@ -17,10 +17,11 @@
       "iconURL": "https://cdn.discordapp.com/avatars/960892961623785482/69f5c2678c387e8a69df0cae5add26ff.webp"
     },
     {
-      "type": "discord-external",
-      "id": "460316892976906261",
-      "username": "00000000006878",
-      "iconURL": "https://cdn.discordapp.com/avatars/460316892976906261/a0332117bf4e609a1ead4417ae4357b4.webp"
+      "type": "discord-in-guild",
+      "id": "1511583577937154158",
+      "username": "ragdollwilly1",
+      "displayName": "Ragdoll Willy",
+      "iconURL": "https://cdn.discordapp.com/avatars/1511583577937154158/97973c608a5661afac722d467f2258e4.webp"
     },
     {
       "type": "discord-in-guild",
@@ -165,6 +166,6 @@
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1428107250462887981/1428107251897598045/Shuffler_Display_-_Autumn_Version.png?ex=69b26fc5&is=69b11e45&hm=0b10056f078d358ac03dc50cff79e98b6be1df3e941885fbda42920be6aaa3c3&"
   },
   "archivedAt": 1760557700679,
-  "updatedAt": 1760557700679,
+  "updatedAt": 1780464719254,
   "num_comments": 0
 }

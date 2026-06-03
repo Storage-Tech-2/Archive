@@ -1,7 +1,7 @@
 # Gigachad Top Displays
 <img alt="Gigachad_Top_Displays.png" src="images/Gigachad_Top_Displays.png?raw=1" height="300px">
 
-**Authors:** *X8Ghost, TisUnfortunate, 00000000006878*
+**Authors:** *X8Ghost, TisUnfortunate, Ragdoll Willy*
 
 **Endorsed by:** *TisUnfortunate*
 

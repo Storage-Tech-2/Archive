@@ -12,10 +12,11 @@
   ],
   "authors": [
     {
-      "type": "discord-external",
-      "id": "460316892976906261",
-      "username": "00000000006878",
-      "iconURL": "https://cdn.discordapp.com/avatars/460316892976906261/a0332117bf4e609a1ead4417ae4357b4.webp"
+      "type": "discord-in-guild",
+      "id": "1511583577937154158",
+      "username": "ragdollwilly1",
+      "displayName": "Ragdoll Willy",
+      "iconURL": "https://cdn.discordapp.com/avatars/1511583577937154158/97973c608a5661afac722d467f2258e4.webp"
     }
   ],
   "endorsers": [
@@ -46,10 +47,10 @@
       "timestamp": 1770472851360,
       "author": {
         "type": "discord-in-guild",
-        "id": "460316892976906261",
-        "username": "ragdollwilly",
+        "id": "1511583577937154158",
+        "username": "ragdollwilly1",
         "displayName": "Ragdoll Willy",
-        "iconURL": "https://cdn.discordapp.com/avatars/460316892976906261/a0332117bf4e609a1ead4417ae4357b4.webp"
+        "iconURL": "https://cdn.discordapp.com/avatars/1511583577937154158/97973c608a5661afac722d467f2258e4.webp"
       },
       "source": "MessageAttachment",
       "description": "",
@@ -68,10 +69,10 @@
       "timestamp": 1770472851360,
       "author": {
         "type": "discord-in-guild",
-        "id": "460316892976906261",
-        "username": "ragdollwilly",
+        "id": "1511583577937154158",
+        "username": "ragdollwilly1",
         "displayName": "Ragdoll Willy",
-        "iconURL": "https://cdn.discordapp.com/avatars/460316892976906261/a0332117bf4e609a1ead4417ae4357b4.webp"
+        "iconURL": "https://cdn.discordapp.com/avatars/1511583577937154158/97973c608a5661afac722d467f2258e4.webp"
       },
       "source": "MessageAttachment",
       "description": "",
@@ -92,10 +93,10 @@
       "timestamp": 1770472851360,
       "author": {
         "type": "discord-in-guild",
-        "id": "460316892976906261",
-        "username": "ragdollwilly",
+        "id": "1511583577937154158",
+        "username": "ragdollwilly1",
         "displayName": "Ragdoll Willy",
-        "iconURL": "https://cdn.discordapp.com/avatars/460316892976906261/a0332117bf4e609a1ead4417ae4357b4.webp"
+        "iconURL": "https://cdn.discordapp.com/avatars/1511583577937154158/97973c608a5661afac722d467f2258e4.webp"
       },
       "source": "MessageAttachment",
       "description": "",
@@ -162,6 +163,6 @@
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1471913637890232411/1471913638276104314/NEW_Overflow_a.png?ex=69b24826&is=69b0f6a6&hm=0995e527763c31a3a9a8e285e8d5fc2728d32659f1e9eb2f91a1130a6e79f4b8&"
   },
   "archivedAt": 1769380411273,
-  "updatedAt": 1771001956713,
+  "updatedAt": 1780464719281,
   "num_comments": 0
 }

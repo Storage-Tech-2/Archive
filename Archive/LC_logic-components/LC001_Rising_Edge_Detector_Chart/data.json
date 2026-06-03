@@ -11,10 +11,11 @@
   "authors": [],
   "endorsers": [
     {
-      "type": "discord-external",
-      "id": "460316892976906261",
-      "username": "00000000006878",
-      "iconURL": "https://cdn.discordapp.com/avatars/460316892976906261/a0332117bf4e609a1ead4417ae4357b4.webp"
+      "type": "discord-in-guild",
+      "id": "1511583577937154158",
+      "username": "ragdollwilly1",
+      "displayName": "Ragdoll Willy",
+      "iconURL": "https://cdn.discordapp.com/avatars/1511583577937154158/97973c608a5661afac722d467f2258e4.webp"
     }
   ],
   "tags": [
@@ -87,6 +88,6 @@
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1457048406919872819/1457048407406284889/Rising_Edge_Detectors.png?ex=69b24152&is=69b0efd2&hm=ba958e4436e98ddf03d96e0a3692bb477c12267c9fddbf902722c6ccfc969f46&"
   },
   "archivedAt": 1767457808339,
-  "updatedAt": 1767457808339,
+  "updatedAt": 1780464719284,
   "num_comments": 0
 }

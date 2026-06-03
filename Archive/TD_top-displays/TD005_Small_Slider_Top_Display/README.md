@@ -1,7 +1,7 @@
 # Small Slider Top Display
 <img alt="Small_Slider_Top_Display.png" src="images/Small_Slider_Top_Display.png?raw=1" height="300px">
 
-**Authors:** *00000000006878*
+**Authors:** *Ragdoll Willy*
 
 **Endorsed by:** *Andrews54757*
 

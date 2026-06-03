@@ -10,10 +10,11 @@
   ],
   "authors": [
     {
-      "type": "discord-external",
-      "id": "460316892976906261",
-      "username": "00000000006878",
-      "iconURL": "https://cdn.discordapp.com/avatars/460316892976906261/a0332117bf4e609a1ead4417ae4357b4.webp"
+      "type": "discord-in-guild",
+      "id": "1511583577937154158",
+      "username": "ragdollwilly1",
+      "displayName": "Ragdoll Willy",
+      "iconURL": "https://cdn.discordapp.com/avatars/1511583577937154158/97973c608a5661afac722d467f2258e4.webp"
     },
     {
       "type": "discord-in-guild",
@@ -120,6 +121,6 @@
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1388317169405792357/1388317169913430086/Noteblock_Top_Display.png?ex=69b2b35e&is=69b161de&hm=e5580f14c860df53345c6340f51f5dddb89c905ed16ad2afb126661b1c0b87d5&"
   },
   "archivedAt": 1750857008067,
-  "updatedAt": 1750857008067,
+  "updatedAt": 1780464719247,
   "num_comments": 0
 }
