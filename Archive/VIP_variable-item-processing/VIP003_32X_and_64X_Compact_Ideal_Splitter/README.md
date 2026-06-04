@@ -1,5 +1,5 @@
 # 32X and 64X Compact Ideal Splitter
-<img alt="sdsimage.png" src="images/sdsimage.png?raw=1" height="300px">
+<img alt="32x_render.png" src="images/32x_render.png?raw=1" height="300px">
 
 **Authors:** *Andrews54757*
 
@@ -20,6 +20,8 @@ Split mixed boxes into single type boxes. Produces minimum partial boxes. Up to 
 Developed on [SoonCMP](https://soontech.org) ("Ideal Splitter" waypoint). [Showcase video](https://www.youtube.com/watch?v=PW318UfnCfU)
 
 ## Other Images
+<img src="images/64x_render.png?raw=1" height="300px">
+
 <img src="images/ideal3-2.png?raw=1" height="300px">
 
 ## Resources
@@ -34,3 +36,5 @@ Developed on [SoonCMP](https://soontech.org) ("Ideal Splitter" waypoint). [Showc
   - 32x hopperspeed variant
 - [VIP003_ideal_v3_32x_stripped.litematic](attachments/VIP003_ideal_v3_32x_stripped.litematic): MC 1.21.4, Size 27x14x14 blocks
   - 32x variant which contains just the core logic. Use this if you want to wire the control logic yourself, or want to understand how it works.
+- [VIP003_ideal_splitter_64x_integration_guide.litematic](attachments/VIP003_ideal_splitter_64x_integration_guide.litematic): MC 1.21.4, Size 45x17x17 blocks
+  - Contains more control logic + signs helpful in guiding users who want to integrate ideal splitting into storage systems
