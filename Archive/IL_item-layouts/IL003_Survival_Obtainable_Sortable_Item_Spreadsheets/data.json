@@ -51,11 +51,11 @@
   ],
   "attachments": [
     {
-      "id": "1510857858948923452",
-      "name": "IL003_26.1.2_survival_obtainable_sortable_items.csv",
+      "id": "1512598165281443910",
+      "name": "IL003_26.1.2_items.csv",
       "contentType": "text/csv; charset=utf-8",
-      "url": "https://cdn.discordapp.com/attachments/1510857858840006796/1510857858948923452/26.1.2_survival_obtainable_sortable_items.csv?ex=6a1e5787&is=6a1d0607&hm=942fbe96f4ad42743b985e29c7bf061f32f305d666ede317605cb7dd1f9eac58&",
-      "timestamp": 1780286983929,
+      "url": "https://cdn.discordapp.com/attachments/1510857858840006796/1512598165281443910/26.1.2_items.csv?ex=6a24ac51&is=6a235ad1&hm=b1ae33e90ef9569c1bf6527a94f7f433c4aa6d95da5923b009309f8f7e038f3c&",
+      "timestamp": 1780701905284,
       "author": {
         "type": "discord-in-guild",
         "id": "239078039831445504",
@@ -64,18 +64,18 @@
         "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
       },
       "source": "MessageAttachment",
-      "description": "For 26.1 - 26.1.2: 1152 item types total",
-      "size": 80530,
+      "description": "For 26.1 - 26.1.2: 1506 total, 1142 included, 364 excluded",
+      "size": 117900,
       "canDownload": true,
-      "hash": "d38dd1c8d2b0332dc54c04a0e633a0324d7958136474176055c5f78aabf2de48",
-      "path": "attachments/IL003_26.1.2_survival_obtainable_sortable_items.csv"
+      "hash": "7d0b63193e2d525b877ea98a5000c8a1d17a4c9abf63c1912c4763657fefbff1",
+      "path": "attachments/IL003_26.1.2_items.csv"
     },
     {
-      "id": "1510861125661626448",
-      "name": "IL003_1.21.11_survival_obtainable_sortable_items.csv",
+      "id": "1512598775418585299",
+      "name": "IL003_1.21.8_items.csv",
       "contentType": "text/csv; charset=utf-8",
-      "url": "https://cdn.discordapp.com/attachments/1510857858840006796/1510861125661626448/1.21.11_survival_obtainable_sortable_items.csv?ex=6a1e5a92&is=6a1d0912&hm=35f3ba9d6ad89e2c58005d9d882720cda7c1aed90d4093bb9a40ed5b7c8948bf&",
-      "timestamp": 1780287762910,
+      "url": "https://cdn.discordapp.com/attachments/1510857858840006796/1512598775418585299/1.21.8_items.csv?ex=6a24ace2&is=6a235b62&hm=5e582eb9f3536202b5fe21a456d58c7909c2214ae3254f00f7658956a85f243b&",
+      "timestamp": 1780702050854,
       "author": {
         "type": "discord-in-guild",
         "id": "239078039831445504",
@@ -84,18 +84,18 @@
         "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
       },
       "source": "MessageAttachment",
-      "description": "For 1.21.9-1.21.11: 1151 item types total",
-      "size": 80460,
+      "description": "For 1.21.6-1.21.8: 1416 total, 1080 included, 336 excluded",
+      "size": 111136,
       "canDownload": true,
-      "hash": "172b6444ba124945f0f30b7ec2d9d797fd360d5138ae71dea1edd462d5de2b97",
-      "path": "attachments/IL003_1.21.11_survival_obtainable_sortable_items.csv"
+      "hash": "95bbd46febeb316be338b7e5645522297016597c974a15a1b9c176fbf5beafa1",
+      "path": "attachments/IL003_1.21.8_items.csv"
     },
     {
-      "id": "1510871616224231654",
-      "name": "IL003_1.21.8_survival_obtainable_sortable_items.csv",
+      "id": "1512599166461808790",
+      "name": "IL003_1.21.4_items.csv",
       "contentType": "text/csv; charset=utf-8",
-      "url": "https://cdn.discordapp.com/attachments/1510857858840006796/1510871616224231654/1.21.8_survival_obtainable_sortable_items.csv?ex=6a1e6457&is=6a1d12d7&hm=286c4d2124328cab98b9512123ae31f13831d7da93b0de4399a7e75a210367ec&",
-      "timestamp": 1780290264080,
+      "url": "https://cdn.discordapp.com/attachments/1510857858840006796/1512599166461808790/1.21.4_items.csv?ex=6a24ad40&is=6a235bc0&hm=533a3dace488ea929055cae1fe33856144c7043803039b47fd222834321c5d5e&",
+      "timestamp": 1780702144039,
       "author": {
         "type": "discord-in-guild",
         "id": "239078039831445504",
@@ -104,57 +104,17 @@
         "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
       },
       "source": "MessageAttachment",
-      "description": "For 1.21.6-1.21.8: 1090 item types total",
-      "size": 75865,
+      "description": "For 1.21.4: 1385 total, 1070 included, 315 excluded",
+      "size": 109030,
       "canDownload": true,
-      "hash": "a216a90d9bc924a4fba201352834a178a5bbbf0d180669a3c29e293352cdc09d",
-      "path": "attachments/IL003_1.21.8_survival_obtainable_sortable_items.csv"
-    },
-    {
-      "id": "1510872394179280976",
-      "name": "IL003_1.21.5_survival_obtainable_sortable_items.csv",
-      "contentType": "text/csv; charset=utf-8",
-      "url": "https://cdn.discordapp.com/attachments/1510857858840006796/1510872394179280976/1.21.5_survival_obtainable_sortable_items.csv?ex=6a1e6511&is=6a1d1391&hm=66052328c99bddf08caba2cd0a297214003889de4976556d970d5248509b82d6&",
-      "timestamp": 1780290449500,
-      "author": {
-        "type": "discord-in-guild",
-        "id": "239078039831445504",
-        "username": "andrews54757",
-        "displayName": "Andrews54757",
-        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
-      },
-      "source": "MessageAttachment",
-      "description": "For 1.21.5: 1089 item types total",
-      "size": 75806,
-      "canDownload": true,
-      "hash": "4626788b774acbe92831a85e777f3f0031ee7372197910c704e8b89e8f6bda80",
-      "path": "attachments/IL003_1.21.5_survival_obtainable_sortable_items.csv"
-    },
-    {
-      "id": "1510873530106118285",
-      "name": "IL003_1.21.4_survival_obtainable_sortable_items.csv",
-      "contentType": "text/csv; charset=utf-8",
-      "url": "https://cdn.discordapp.com/attachments/1510857858840006796/1510873530106118285/1.21.4_survival_obtainable_sortable_items.csv?ex=6a1e6620&is=6a1d14a0&hm=ae55489df33fdfa60f6b650bba54e31c99d929505f7650409a3ec3dd65f6367c&",
-      "timestamp": 1780290720318,
-      "author": {
-        "type": "discord-in-guild",
-        "id": "239078039831445504",
-        "username": "andrews54757",
-        "displayName": "Andrews54757",
-        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
-      },
-      "source": "MessageAttachment",
-      "description": "For 1.21.4: 1080 item types total",
-      "size": 75271,
-      "canDownload": true,
-      "hash": "1f28fbfdb240bf7b051a69404664a78c0ac00659b0e4f277d4f09514108f863a",
-      "path": "attachments/IL003_1.21.4_survival_obtainable_sortable_items.csv"
+      "hash": "7f411edb449a6b39841d2ac781a92f55669f35f8c508ea9b2b6230791f68a97a",
+      "path": "attachments/IL003_1.21.4_items.csv"
     }
   ],
   "records": {
     "description": "Spreadsheets of survival obtainable sortable items for different Minecraft versions.\n\nMade by using the CSV export tool on https://layout.storagecatalog.org/",
     "inclusion-criteria": "- Must be survival obtainable\n- Must be either 64 or 16 stackable items (no unstackables)",
-    "columns": "1. Item name\n2. ID\n3. Max stack size\n4. Has block (\"Yes\" if item is block item)\n5. Creative Tabs (semicolon separated list of creative tabs where the item can be found)"
+    "columns": "1. Item name\n2. ID\n3. Max stack size\n4. Has block (\"Yes\" if item is block item)\n5. Creative Tabs (semicolon separated list of creative tabs where the item can be found)\n6. Block Loot Behavior\n7. No Loot Table\n8. Override Loot Source Block\n9. Vanilla Loot Method\n10. Loot Drop Field\n11. Included (yes if survival obtainable and not unstackable, no otherwise)"
   },
   "styles": {
     "inclusion-criteria": {
@@ -172,13 +132,12 @@
     "threadId": "1510873981798842449",
     "forumId": "1388599490898038945",
     "continuingMessageIds": [
-      "1510873992532197416",
-      "1510873993568321607"
+      "1510873992532197416"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1510873981798842449",
-    "uploadMessageId": "1510873979764867272"
+    "uploadMessageId": "1512600087631495218"
   },
   "archivedAt": 1780290826312,
-  "updatedAt": 1780290826312,
+  "updatedAt": 1780702362793,
   "num_comments": 0
 }
