@@ -45,11 +45,11 @@ While the overall principles of operation are similar to [MIS001 Compact Categor
 <img src="images/image.png?raw=1" height="300px">
 
 ## Resources
-- [MIS014_noisy_categorizer_1.20.4.litematic](attachments/MIS014_noisy_categorizer_1.20.4.litematic): MC 1.20.4, Size 15x15x31 blocks
-  - Litematic of storage system
-- [MIS014_noisy_categorizer_1.20.4_subregions.litematic](attachments/MIS014_noisy_categorizer_1.20.4_subregions.litematic): MC 1.20.4, Size 15x15x31 blocks
-  - Litematic of storage system with subregions for digging out area in survival
 - [MIS014_noisy_categorizer_decorated_1.21.9.litematic](attachments/MIS014_noisy_categorizer_decorated_1.21.9.litematic): MC 1.21.11, Size 15x15x32 blocks
   - Fully decorated version (deco by @adrian05584)
 - [MIS014_MIS_layout_1.21.9.litematic](attachments/MIS014_MIS_layout_1.21.9.litematic): MC 1.21.11, Size 9x8x24 blocks
   - Preconfigured MIS chests for a basic 1.21.9 item layout. Only has MIS chests, does not include the storage system.
+- [MIS014_noisy_categorizer_1.20.4.litematic](attachments/MIS014_noisy_categorizer_1.20.4.litematic): MC 1.20.4, Size 15x15x31 blocks
+  - Litematic of storage system
+- [MIS014_noisy_categorizer_1.20.4_subregions.litematic](attachments/MIS014_noisy_categorizer_1.20.4_subregions.litematic): MC 1.20.4, Size 15x15x31 blocks
+  - Litematic of storage system with subregions for digging out area in survival
