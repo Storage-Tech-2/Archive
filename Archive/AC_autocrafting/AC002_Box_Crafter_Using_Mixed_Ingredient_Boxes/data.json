@@ -24,8 +24,10 @@
       "iconURL": "https://cdn.discordapp.com/avatars/549734176455262209/847696f5e3e004a2f753d0e5b48b5f9c.webp"
     },
     {
-      "type": "unknown",
-      "username": "兔子(tuzier)"
+      "type": "discord-external",
+      "id": "1253968886240383080",
+      "username": "tuzier",
+      "iconURL": "https://cdn.discordapp.com/avatars/1253968886240383080/b20bd38452c858f195210ec8e77b1093.webp"
     }
   ],
   "endorsers": [
@@ -61,13 +63,13 @@
       "canDownload": true,
       "width": 609,
       "height": 800,
-      "path": "images/box_crafter_pre-made_material.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "acaciachan"
+        "username": "Unknown"
       },
       "timestamp": 1750954241000,
+      "path": "images/box_crafter_pre-made_material.png",
       "hash": "cca541fffbf12bfd54dfd995e0f2cac10bd38d0266237156a7d19a07c3c318c0"
     },
     {
@@ -79,13 +81,13 @@
       "canDownload": true,
       "width": 800,
       "height": 733,
-      "path": "images/box_material_loader_x3.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "acaciachan"
+        "username": "Unknown"
       },
       "timestamp": 1750954241000,
+      "path": "images/box_material_loader_x3.png",
       "hash": "2cb08760e62cdc17c7703ea8cdce771afcb9ffff81cb8c53308437cdac1cb2b1"
     }
   ],
@@ -101,14 +103,13 @@
         "size": "2x4x4",
         "version": "1.20.4"
       },
-      "path": "attachments/AC002_box_crafter_pre-made_material.litematic",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "acaciachan"
+        "username": "Unknown"
       },
       "timestamp": 1750954245000,
-      "size": 2464,
+      "path": "attachments/AC002_box_crafter_pre-made_material.litematic",
       "hash": "e6fc10b3642058d5f468438d0fa8c63ac25bfb79d20e9ed02d70f0f4ec77417a"
     },
     {
@@ -122,14 +123,13 @@
         "size": "6x9x6",
         "version": "1.20.4"
       },
-      "path": "attachments/AC002_box_material_loader_bamboo.litematic",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "acaciachan"
+        "username": "Unknown"
       },
       "timestamp": 1750954245000,
-      "size": 7513,
+      "path": "attachments/AC002_box_material_loader_bamboo.litematic",
       "hash": "1df0ab3620431f47b6d249db8bb2dd59bb34e18eeff7725c3bfc72b565a49c67"
     },
     {
@@ -143,14 +143,13 @@
         "size": "5x9x6",
         "version": "1.20.4"
       },
-      "path": "attachments/AC002_box_material_loader_logs.litematic",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "acaciachan"
+        "username": "Unknown"
       },
       "timestamp": 1750954245000,
-      "size": 5600,
+      "path": "attachments/AC002_box_material_loader_logs.litematic",
       "hash": "3bb0abb126753b48efb4d2bf061e027a4c6ca0aacea87e4bca745bc5fb45d8fc"
     },
     {
@@ -164,14 +163,13 @@
         "size": "3x7x5",
         "version": "1.20.4"
       },
-      "path": "attachments/AC002_box_material_loader_logs_slow.litematic",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "acaciachan"
+        "username": "Unknown"
       },
       "timestamp": 1750970092000,
-      "size": 2174,
+      "path": "attachments/AC002_box_material_loader_logs_slow.litematic",
       "hash": "102cd56f2153832f65711fbd3ebde9059299ce21d1f1e1d28af48044b649991b"
     }
   ],
@@ -222,8 +220,9 @@
     "forumId": "1375570772348764392",
     "threadId": "1388318446168572105",
     "continuingMessageIds": [
-      "1388318450014883932",
-      "1388318450736169100"
+      "1513044488870957079",
+      "1513044490175250603",
+      "1513044491542593606"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1388318446168572105",
     "attachmentMessageId": "1388179454467113160",
@@ -231,6 +230,6 @@
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1388318446168572105/1388318446672150610/box_material_loader_x3.png?ex=69b2b48f&is=69b1630f&hm=90617388c7c6992c162e64c34f0a55de38cb5782b163402fd0b7e364bdf39a2a&"
   },
   "archivedAt": 1751161647069,
-  "updatedAt": 1751161647069,
+  "updatedAt": 1780808314858,
   "num_comments": 0
 }
