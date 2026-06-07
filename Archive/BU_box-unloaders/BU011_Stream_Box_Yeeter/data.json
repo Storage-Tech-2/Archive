@@ -10,9 +10,11 @@
   ],
   "authors": [
     {
-      "type": "unknown",
-      "username": "胖纸wzx",
-      "url": "https://space.bilibili.com/510518718"
+      "type": "discord-in-guild",
+      "id": "924457454723563530",
+      "username": "wawuli_i_am_wzx",
+      "displayName": "wawuli | i am 胖纸wzx",
+      "iconURL": "https://cdn.discordapp.com/avatars/924457454723563530/4b49f63b8029d914b690ccdd831e88da.webp"
     }
   ],
   "endorsers": [
@@ -48,13 +50,13 @@
       "canDownload": true,
       "width": 624,
       "height": 434,
-      "path": "images/image.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "andrews54757"
+        "username": "Unknown"
       },
       "timestamp": 1766040525000,
+      "path": "images/image.png",
       "hash": "4a033255408b842bac3b745742a8e7ab15ed998fcc43298f95ad11119af14ed0"
     }
   ],
@@ -74,10 +76,9 @@
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "andrews54757"
+        "username": "Unknown"
       },
       "timestamp": 1766040525000,
-      "size": 694,
       "hash": "52ddb58929290f19c6cfdd6c7c56dbb8dff48303c61c5298507bce4e59f83e95"
     }
   ],
@@ -105,6 +106,6 @@
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1451110249741160511/1451110249917452360/image.png?ex=69b267bb&is=69b1163b&hm=ea16578ec2b6a8e98d6f84fd6659aac5c89b5f295eba4278649a9e24e8794b7c&"
   },
   "archivedAt": 1766042043205,
-  "updatedAt": 1766042043205,
+  "updatedAt": 1780807670567,
   "num_comments": 0
 }

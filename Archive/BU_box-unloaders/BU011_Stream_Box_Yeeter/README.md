@@ -1,7 +1,7 @@
 # Stream Box Yeeter
 <img alt="image.png" src="images/image.png?raw=1" height="300px">
 
-**Authors:** *胖纸wzx*
+**Authors:** *wawuli | i am 胖纸wzx*
 
 **Endorsed by:** *Andrews54757*
 
