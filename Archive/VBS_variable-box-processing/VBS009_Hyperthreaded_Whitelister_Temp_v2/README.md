@@ -9,7 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1503402043581141154)
 
-A temp which uses whitelisters to divide bulk items into smaller categories to significantly decrease search and output times, and hyperthreads search operations to increase throughput. Designed to function as a variable loops exclusive whitelister. Special thanks to ComfyBiha and Kurisu for help testing.
+A temp which uses whitelisters to divide bulk items into smaller categories to significantly decrease search and output times, and hyperthreads search operations to increase throughput. Designed to function as a variable loops exclusive whitelister. Special thanks to ComfyBiha and PXM | Kurisu for help testing.
 ## Features
 - Can store up to 400 unique partials (50 per slice)
 - Hyperthreaded Box Retrieval (*next box begins processing while previous bucket is being returned*)
