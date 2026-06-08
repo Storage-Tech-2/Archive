@@ -23,7 +23,7 @@
       "username": "tisunfortunate",
       "displayName": "TisUnfortunate",
       "iconURL": "https://cdn.discordapp.com/avatars/384084307712409600/10653f22a436d6d084a01c465598ab6a.webp",
-      "reason": "The signal strength filter used was based off of his"
+      "reason": "Uses US009"
     }
   ],
   "endorsers": [
@@ -121,7 +121,19 @@
       ]
     }
   ],
-  "author_references": [],
+  "author_references": [
+    {
+      "type": "archivedPost",
+      "id": "1457519139940991117",
+      "code": "US009",
+      "name": "Music Disc Sorter",
+      "url": "https://discord.com/channels/1375556143186837695/1457520766957391983",
+      "path": "Archive/US_unstackable-sorting/US009_Music_Disc_Sorter",
+      "matches": [
+        "US009"
+      ]
+    }
+  ],
   "post": {
     "threadId": "1512964126140272725",
     "forumId": "1375564342392786944",
@@ -132,6 +144,6 @@
     "uploadMessageId": "1512964123627880629"
   },
   "archivedAt": 1780789154039,
-  "updatedAt": 1780789154039,
+  "updatedAt": 1780898929836,
   "num_comments": 0
 }

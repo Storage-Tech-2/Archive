@@ -18,7 +18,7 @@ A device that sorts all music discs using a combination of signal strength and m
 Does not sort Lava Chicken and Tears discs so is not compatible with 1.21.7+
 
 ## Acknowledgements:
-- TisUnfortunate: The signal strength filter used was based off of his
+- TisUnfortunate: Uses [US009 Music Disc Sorter](https://discord.com/channels/1375556143186837695/1457520766957391983)
 
 ## Resources
 - [US011_duration_based_disc_sorter_v2_fixed.litematic](attachments/US011_duration_based_disc_sorter_v2_fixed.litematic): MC 1.21.4, Size 16x8x16 blocks
