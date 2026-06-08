@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Moonyinspired 🇧🇷*
 
-**Tags:** *Functional*
+**Tags:** *Functional, Recommended*
 
 **Original post:** [View on Discord](https://discord.com/channels/1375556143186837695/1511482219334729758)
 
