@@ -73,7 +73,7 @@
       "height": 757,
       "path": "images/slice.png",
       "hash": "012f576c81dbc573ff16fbf9a6f97e8199a5e29aa362e38e7314c905f87fcf91",
-      "processedUrl": "https://cdn.discordapp.com/attachments/1509708672454889604/1510350665099120690/1509708672966590534-slice.png?ex=6a1c7f2b&is=6a1b2dab&hm=ba706d9069c2446bba33d437e3ffe2299ff21171640208b5e3c8e4a332c021e6&"
+      "processedUrl": "https://cdn.discordapp.com/attachments/1509708672454889604/1513406310266310656/1509708672966590534-slice.png?ex=6a279cf6&is=6a264b76&hm=d05e49e8b6d5a1f0bd22fe4124807fddeb89964ca4ffaa4b6b082197054c6df7&"
     },
     {
       "id": "1510350601731702795",
@@ -96,7 +96,30 @@
       "height": 547,
       "path": "images/combined.png",
       "hash": "bfaecc5cec9216542cd7864c8d577d8e6ec947b9bd7d9fc5660bcf80959d3005",
-      "processedUrl": "https://cdn.discordapp.com/attachments/1509708672454889604/1510350665384202300/1510350601731702795-combined.png?ex=6a1c7f2b&is=6a1b2dab&hm=a458776f5386c459cbad7dd1b325b5e73560e309ca05e9aa253e9d78570c9f0b&"
+      "processedUrl": "https://cdn.discordapp.com/attachments/1509708672454889604/1513406310459375797/1510350601731702795-combined.png?ex=6a279cf6&is=6a264b76&hm=db76db01ee86423c51233cf39faa3d62b5c5f8ec98bd1cccf748e417cf385d56&"
+    },
+    {
+      "id": "1513406264116383916",
+      "name": "ccw_uturn.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1509708672454889604/1513406264116383916/ccw_uturn.png?ex=6a279ceb&is=6a264b6b&hm=eb0054ccc4ba29e1a21f7dc8273739edffc90075a816658939a3991677d335f1&",
+      "timestamp": 1780894571220,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Design with counterclockwise u-turn",
+      "size": 84040,
+      "canDownload": true,
+      "width": 886,
+      "height": 424,
+      "path": "images/ccw_uturn.png",
+      "hash": "72ad617404f84af1616d9cf5953b135af6473d76cc22e58c2eb960006fd3f726",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1509708672454889604/1513406310715097258/1513406264116383916-ccw_uturn.png?ex=6a279cf6&is=6a264b76&hm=737529f658cc5278033b80e692b7a910a18e4a1460662add88423aed0a38ca55&"
     }
   ],
   "attachments": [
@@ -123,6 +146,30 @@
         "size": "19x10x6",
         "version": "1.21.4"
       }
+    },
+    {
+      "id": "1513406264309190707",
+      "name": "BS005_8gt_fhu_acacia_box_sorter_ccw_uturn.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1509708672454889604/1513406264309190707/8gt_fhu_acacia_box_sorter_ccw_uturn.litematic?ex=6a279ceb&is=6a264b6b&hm=582476dd9bd49f9ca67280f0d53bc2a6744b94f4300dbdbee918eefa7ee2e9b8&",
+      "timestamp": 1780894571220,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Design with counterclockwise u-turn",
+      "size": 5142,
+      "canDownload": true,
+      "hash": "abb82a94a25b7cba5921202728b65922856a880265d1fd4d06d9d4f89e9d825a",
+      "path": "attachments/BS005_8gt_fhu_acacia_box_sorter_ccw_uturn.litematic",
+      "litematic": {
+        "size": "20x10x20",
+        "version": "1.21.4"
+      }
     }
   ],
   "records": {
@@ -136,7 +183,7 @@
       "Multi shulker box sorting support (if full boxes only)",
       "Tiny keygen, only 1 block overhang"
     ],
-    "notes": "Multi shulker box sorting support applies only if full boxes are used."
+    "notes": "- Multi shulker box sorting support applies only if full boxes are used.\n- Includes schematic with 1 wide counterclockwise u-turn"
   },
   "styles": {},
   "references": [
@@ -187,6 +234,15 @@
       "matches": [
         "keygen"
       ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Schematic",
+      "id": "1454811558009110704",
+      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
+      "matches": [
+        "schematic"
+      ]
     }
   ],
   "author_references": [],
@@ -197,10 +253,10 @@
       "1509709388263194789"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1509709376271814676",
-    "uploadMessageId": "1510351207372292198",
+    "uploadMessageId": "1513406831743991833",
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1509709376271814676/1509709381409964072/slice.png?ex=6a1a29ed&is=6a18d86d&hm=e1cd54a5426e41689ec77b8d155713461ab0dc50060b46e9ec20ec07d0b5b379&"
   },
   "archivedAt": 1780013160270,
-  "updatedAt": 1780166187990,
+  "updatedAt": 1780894704891,
   "num_comments": 0
 }
