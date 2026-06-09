@@ -102,28 +102,48 @@
   ],
   "attachments": [
     {
-      "id": "1477803307593367602",
-      "name": "MIS012_1.21.10_16gt_Cart_MIS_Storage.litematic",
+      "id": "1513681228501352448",
+      "name": "MIS012_1.21.10_16gt_Cart_MIS_Storage_-_Categories_Included.litematic",
       "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1477407426335473788/1477803307593367602/1.21.10_16gt_Cart_MIS_Storage_-_Test_Categories_Included.litematic?ex=69a61714&is=69a4c594&hm=43a2229b94542640ce51a7479098e56ba8a78d1f3ee352a788ef24f58407358d&",
-      "timestamp": 1772406164881,
+      "url": "https://cdn.discordapp.com/attachments/1477407426335473788/1513681228501352448/1.21.10_16gt_Cart_MIS_Storage_-_Categories_Included.litematic?ex=6a289cff&is=6a274b7f&hm=7c55a6912a99163623f9e55df39370ebc4d13d933c5e31116935b752366a5e67&",
+      "timestamp": 1780960127696,
       "author": {
         "type": "discord-in-guild",
-        "id": "239078039831445504",
-        "username": "andrews54757",
-        "displayName": "Andrews54757",
-        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+        "id": "373459450826194944",
+        "username": "wes3582",
+        "displayName": "Wes",
+        "iconURL": "https://cdn.discordapp.com/avatars/373459450826194944/38ad65b65141a2451d0ff2f3d1fd6eea.webp"
       },
       "source": "MessageAttachment",
       "description": "",
-      "size": 60575,
+      "size": 57538,
       "canDownload": true,
-      "hash": "c67aeb1cda7a5f99cf1343bfc70c1d8d60769bbb7a4cb3079450d1d71790b6cc",
-      "path": "attachments/MIS012_1.21.10_16gt_Cart_MIS_Storage.litematic",
+      "hash": "fb8dfd14fdaf85eef68d1150cb7a009150dbb046f1e7d4df575d6e47f61f5400",
+      "path": "attachments/MIS012_1.21.10_16gt_Cart_MIS_Storage_-_Categories_Included.litematic",
       "litematic": {
-        "size": "19x14x43",
+        "size": "19x14x45",
         "version": "1.21.10"
       }
+    },
+    {
+      "id": "1513679089406574793",
+      "name": "MIS012_16gt-Cart-MIS-Storage-Categories.zip",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1131324976335687700/1513679089406574793/16gt-Cart-MIS-Storage-Categories.zip?ex=6a289b01&is=6a274981&hm=a5b5fdc40d5b9a877c03392394b2e00c61dc5771adafdf40d00f64f4888db979&",
+      "timestamp": 1780960146378,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "373459450826194944",
+        "username": "wes3582",
+        "displayName": "Wes",
+        "iconURL": "https://cdn.discordapp.com/avatars/373459450826194944/38ad65b65141a2451d0ff2f3d1fd6eea.webp"
+      },
+      "source": "URLInMessage",
+      "description": "Contains JSON configuration for the item layout tool website",
+      "canDownload": true,
+      "hash": "696a0befaebee1ffe187c33f60a44b3ac626bbe5211fd7e0e487d0460c3d8d5b",
+      "path": "attachments/MIS012_16gt-Cart-MIS-Storage-Categories.zip",
+      "size": 8432
     }
   ],
   "records": {
@@ -142,15 +162,28 @@
     "considerations": [
       "Noisy",
       "Chunkloader not included",
-      "Sometimes items will go in topmost chest in slices even when theres space below.",
-      "Directional. Do not rotate."
+      "Sometimes items will go in topmost chest in slices even when theres space below."
     ],
     "notes": "Chunkloader excluded in schem but redstone connection for one included. Recommended to build it deep below storage to prevent linking troubles. Lever present to ignore box sorting capability and unload all boxes regardless of fill level. Note that you can use any set of unique items for the in-slice code items.",
     "compatibility": "1.21.10+, broken in older 1.21 versions because of bubble column changes. Tested in 1.21.10-1.21.11",
     "instructions": [
-      "Set up MIS filter chests below the trapdoors with the categories you want",
-      "Make sure that no rail in the back is broken by piston from setting categories",
-      "Dump items into the input (whit stained glass column)"
+      {
+        "title": "**To build:** build the schematic using Litematica, make sure to fill inventories accordingly. Press \"I\" on container to see inventories. https://modrinth.com/mod/techutils highly recommended to verify. Inventories filled in the storage:",
+        "isOrdered": false,
+        "items": [
+          "2x double chest and a chain of hoppers at unloader containing __hopper minecarts__",
+          "11x hoppers containing __6 different unique renamed blockers__",
+          "1x dropper containing __shears (unstackables)__",
+          "1x dispenser containing __water bucket__",
+          "64x hopper (for each slice) and 1x dropper containing __65x different random item stacks__. Any set of random items can be used, be it renamed or not, as long as they are all different.",
+          "64x accessible filter chests (for each slice) configured with __renamed blockers__ for non-CUD version.\n  Clear items from inventories that should be empty."
+        ]
+      },
+      "Build chunkloader(s), loading the whole storage system. Recommended to build deep below storage. Redstone connection for chunkloader is included in storage system.",
+      "Add light sources around the storage system to make sure no mobs or animals can spawn closely.",
+      "**To use:** Set up MIS filter chests below the trapdoors with the categories you want. You can only change these anytime the storage isn't running. Burn the blockers you don't use. _Make sure to never add the same item to multiple slices._",
+      "Make sure that no rail in the back is broken by piston from setting categories, and those rail pistons are in __down__ position.",
+      "Dump items into the input (white stained glass column)."
     ]
   },
   "styles": {},
@@ -162,7 +195,8 @@
       "url": "https://discord.com/channels/1375556143186837695/1454937395693879409/1454937397304365294",
       "matches": [
         "hopperspeed",
-        "HS"
+        "HS",
+        "1x"
       ]
     },
     {
@@ -203,11 +237,47 @@
     },
     {
       "type": "dictionaryTerm",
-      "term": "Directional",
-      "id": "1454753554815389834",
-      "url": "https://discord.com/channels/1375556143186837695/1454753554815389834/1454753555566166029",
+      "term": "Schematic",
+      "id": "1454811558009110704",
+      "url": "https://discord.com/channels/1375556143186837695/1454811558009110704/1454811560626356487",
       "matches": [
-        "Directional"
+        "schematic"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Dropper speed",
+      "id": "1454753562033651876",
+      "url": "https://discord.com/channels/1375556143186837695/1454753562033651876/1454753563258519584",
+      "matches": [
+        "2x"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "DC",
+      "id": "1498750118940377089",
+      "url": "https://discord.com/channels/1375556143186837695/1498750118940377089/1498750120794001448",
+      "matches": [
+        "double chest"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Bucket",
+      "id": "1464788208796565709",
+      "url": "https://discord.com/channels/1375556143186837695/1464788208796565709/1464788210138878080",
+      "matches": [
+        "bucket"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Comparator Update Detector",
+      "id": "1454753535919915098",
+      "url": "https://discord.com/channels/1375556143186837695/1454753535919915098/1454753536629018626",
+      "matches": [
+        "CUD"
       ]
     },
     {
@@ -225,14 +295,15 @@
     "threadId": "1477856882214310001",
     "forumId": "1375566804910604349",
     "continuingMessageIds": [
-      "1477856894663000248",
-      "1477856895451660389"
+      "1513703566085324942",
+      "1513703567607730206",
+      "1513703568505442334"
     ],
     "threadURL": "https://discord.com/channels/1375556143186837695/1477856882214310001",
-    "uploadMessageId": "1478419643579502726",
+    "uploadMessageId": "1513703558346838066",
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1477856882214310001/1477856891194572872/render.png?ex=69b2cf3c&is=69b17dbc&hm=06a357c37905520002f05d32abc14611e3aef09bb34dd32351d7c0d28f0417dc&"
   },
   "archivedAt": 1772418929934,
-  "updatedAt": 1774290942653,
+  "updatedAt": 1780965445814,
   "num_comments": 0
 }
