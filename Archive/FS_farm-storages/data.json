@@ -4,7 +4,7 @@
   "code": "FS",
   "category": "Full Systems",
   "description": "Farm storages and digsorts",
-  "currentCodeId": 3,
+  "currentCodeId": 4,
   "entries": [
     {
       "id": "1390475873404194897",
@@ -20,6 +20,11 @@
       "id": "1387153647791636642",
       "code": "FS003",
       "path": "FS003_General_Quarry_Storage"
+    },
+    {
+      "id": "1514403738826182817",
+      "code": "FS004",
+      "path": "FS004_Kizu_Concrete_Factory_Storage"
     }
   ]
 }

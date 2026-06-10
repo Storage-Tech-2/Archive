@@ -1,0 +1,177 @@
+{
+  "id": "1514403738826182817",
+  "name": "Kizu Concrete Factory Storage",
+  "code": "FS004",
+  "reservedCodes": [
+    "FS004"
+  ],
+  "pastPostThreadIds": [
+    "1514417650531569787"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "496255535549775872",
+      "username": "kizuyuuu",
+      "displayName": "Kizu",
+      "iconURL": "https://cdn.discordapp.com/avatars/496255535549775872/b1fcfb5dffaaf1d828955b06b9c00c2d.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1465487815977603076",
+      "name": "Untested"
+    }
+  ],
+  "images": [
+    {
+      "id": "1514403740189200466",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1514403738826182817/1514403740189200466/image.png?ex=6a2b3de3&is=6a29ec63&hm=a47da8571929c8b34893128d0bc58c9dac6d1079d8cd106b90d47796b421112e&",
+      "timestamp": 1781132387597,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 183112,
+      "canDownload": true,
+      "width": 694,
+      "height": 868,
+      "path": "images/image.png",
+      "hash": "0d3172d44bd1b69a6a490b9b4ee4b8b265da7a4260c1e74472deb22d4c6b5755",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1514403738826182817/1514403857055354940/1514403740189200466-image.png?ex=6a2b3dff&is=6a29ec7f&hm=a05887ae21f5d81e4c34a8e07f096a22daa58a4fdefa3e89de3f3af32a19a0d5&"
+    },
+    {
+      "id": "1514403740478734427",
+      "name": "image_1.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1514403738826182817/1514403740478734427/image.png?ex=6a2b3de3&is=6a29ec63&hm=b4b5c325436f0ce7cbd8e4db6c2bc815df6ddfb1341858be1249f1e7cf255116&",
+      "timestamp": 1781132387597,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 92187,
+      "canDownload": true,
+      "width": 438,
+      "height": 724,
+      "path": "images/image_1.png",
+      "hash": "383ad273521c81e5804bdddaab76d680da10d83359799736d05d1c772472f539",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1514403738826182817/1514403857520656434/1514403740478734427-image.png?ex=6a2b3dff&is=6a29ec7f&hm=3146e0aef252ec7be5330946bfa723eefd9f9a4587eac4e0c7d666d2f9e44ef0&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1514403739417710734",
+      "name": "FS004_kizu_concwete_storage_1.1.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1514403738826182817/1514403739417710734/kizu_concwete_storage_1.1.litematic?ex=6a2b3de3&is=6a29ec63&hm=98e09d52b48ed3d7c5ee2c00ab78132712fd8812f37e2d1fc2c5eb4349a283f3&",
+      "timestamp": 1781132387597,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 21008,
+      "canDownload": true,
+      "hash": "fe052d45c78a9cbb6828852b6b3e3fee223f61fe7f1bdecbb58bc6dfda78e31e",
+      "path": "attachments/FS004_kizu_concwete_storage_1.1.litematic",
+      "litematic": {
+        "size": "32x54x23",
+        "version": "1.20.1"
+      }
+    }
+  ],
+  "records": {
+    "description": "A basic concrete storage using variable filter loaders.",
+    "features": [
+      "Uses VIP001 to filter items and load boxes. 22 slices. configured for 192k duper.",
+      "Around 1.2 mil capacity in each slice.",
+      "34 item types: all concrete items plus sand and gravel.",
+      "Sand and gravel have double capacity.",
+      "Partial box collection toggle, which when enabled will collect and store partial boxes in a separate area."
+    ],
+    "considerations": [
+      "All overflow is destroyed.",
+      "By default, destroys partial boxes resulting from resetting variable loaders. In general, you should operate the concrete factory for longer than ~12 minutes to get full boxes."
+    ]
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Loader",
+      "id": "1454753686558605373",
+      "url": "https://discord.com/channels/1375556143186837695/1454753686558605373/1454753686948675720",
+      "matches": [
+        "loader"
+      ]
+    },
+    {
+      "type": "archivedPost",
+      "id": "1386431947928244496",
+      "code": "VIP001",
+      "name": "Global Reset Var Loaders",
+      "url": "https://discord.com/channels/1375556143186837695/1388318311779139598",
+      "path": "Archive/VIP_variable-item-processing/VIP001_Global_Reset_Var_Loaders",
+      "matches": [
+        "VIP001"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Slice",
+      "id": "1454754736224997386",
+      "url": "https://discord.com/channels/1375556143186837695/1454754736224997386/1454754736858206261",
+      "matches": [
+        "slice"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Box Collection",
+      "id": "1454805930670559326",
+      "url": "https://discord.com/channels/1375556143186837695/1454805930670559326/1454805932532830268",
+      "matches": [
+        "box collection"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1514417650531569787",
+    "forumId": "1386242904141463603",
+    "continuingMessageIds": [
+      "1514417665937248296"
+    ],
+    "threadURL": "https://discord.com/channels/1375556143186837695/1514417650531569787",
+    "uploadMessageId": "1514417648362979358"
+  },
+  "archivedAt": 1781135699510,
+  "updatedAt": 1781135699510,
+  "num_comments": 0
+}
