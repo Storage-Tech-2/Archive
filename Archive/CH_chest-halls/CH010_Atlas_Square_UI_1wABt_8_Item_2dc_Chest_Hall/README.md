@@ -1,7 +1,7 @@
 # Atlas Square UI 1wABt 8 Item 2dc Chest Hall
 <img alt="CHrender.png" src="images/CHrender.png?raw=1" height="300px">
 
-**Authors:** *atlas*
+**Authors:** *storage tech larper*
 
 **Endorsed by:** *Hi!?*
 

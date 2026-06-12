@@ -1,7 +1,7 @@
 # Atlas 3wABt Copper Golem Unstackable MIS
 <img alt="image.png" src="images/image.png?raw=1" height="300px">
 
-**Authors:** *atlas*
+**Authors:** *storage tech larper*
 
 **Endorsed by:** *Andrews54757, TPS Nighthunter*
 
